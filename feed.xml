@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 15:44:36 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:44:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Apple planeja abrir Siri para rivalizar com serviços de IA, relata Bloomberg News</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports-4583296</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports-4583296</guid>
+      <pubDate>26/03/2026 15:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P19I_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da Progressive</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-fixed-30year-mortgage-rate-jumps-to-sixmonth-high-as-iran-war-drags-on-4583074</guid>
       <pubDate>26/03/2026 14:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P139_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE FTSE 100 hoje: As ações caem à medida que a incerteza da guerra persiste; OCDE reduz perspectiva do Reino...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-as-war-uncertainty-persists-oecd-slashes-uk-outlook-4582480</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-as-war-uncertainty-persists-oecd-slashes-uk-outlook-4582480</guid>
-      <pubDate>26/03/2026 14:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
