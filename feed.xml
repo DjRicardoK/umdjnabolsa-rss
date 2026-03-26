@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 08:46:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 08:56:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Trump esperava que sua pausa no Irã trouxesse um milagre no mercado de ações – mas os investidores não estão...</title>
+      <description>Trump leva a culpa enquanto os investidores desprezam o adiamento do Irão. Mesmo uma postagem do Truth Social pode não salvar ações.</description>
+      <link>https://www.marketwatch.com/story/trump-hoped-his-iran-pause-would-bring-a-stock-market-miracle-but-investors-arent-buying-b45e4b7a?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/trump-hoped-his-iran-pause-would-bring-a-stock-market-miracle-but-investors-arent-buying-b45e4b7a?mod=mw_rss_topstories</guid>
+      <pubDate>26/03/2026 08:56</pubDate>
+      <enclosure url="https://images.mktw.net/im-92536567" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Morgan Stanley desafia a ideia de que Wall Street está atrasada para a criptografia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/wars-oil-first-casualty-210000764.html</guid>
       <pubDate>26/03/2026 05:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/oilprice.com/fb346394dea818cd3a8ee944e322f037" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A FedEx Corporation (FDX) é uma boa ação para comprar agora?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/fedex-corporation-fdx-good-stock-205437512.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fedex-corporation-fdx-good-stock-205437512.html</guid>
-      <pubDate>26/03/2026 05:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9263c3c563949391020f00cf2617f498" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
