@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 17:47:28 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 17:47:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nasdaq cai em território de correção e Trump interrompe planos de ataque à infraestrutura energética iraniana</title>
+      <description>Trump disse que interromperia os ataques à infraestrutura energética do Irã por 10 dias na noite de quinta-feira, enquanto as ações caíam</description>
+      <link>https://www.marketwatch.com/story/nasdaq-falls-into-correction-territory-and-trump-pauses-plans-to-attack-iranian-energy-infrastructure-27732ce3?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/nasdaq-falls-into-correction-territory-and-trump-pauses-plans-to-attack-iranian-energy-infrastructure-27732ce3?mod=mw_rss_topstories</guid>
+      <pubDate>26/03/2026 17:47</pubDate>
+      <enclosure url="https://images.mktw.net/im-15402837" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O medo da recessão está de volta: é por isso que isso não deve mudar sua estratégia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanleys-q1-2026-earnings-101852384.html</guid>
       <pubDate>26/03/2026 16:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/55ae96f05836fa368c2d4f99eee1b43f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Apple planeja abrir Siri para rivalizar com serviços de IA, relata Bloomberg News</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports-4583296</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apple-plans-to-open-siri-to-rival-ai-services-bloomberg-news-reports-4583296</guid>
-      <pubDate>26/03/2026 15:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P19I_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
