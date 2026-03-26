@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 17:59:52 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 18:05:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos da Abbott: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/abbott-earnings-preview-expect-130616282.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/abbott-earnings-preview-expect-130616282.html</guid>
+      <pubDate>26/03/2026 18:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c45c7663791f2fe119b3401a74163bde" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Fastenal</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/heres-the-big-risk-facing-markets-besides-inflation-as-the-iran-conflict-drags-on-e9aa7253?mod=mw_rss_topstories</guid>
       <pubDate>26/03/2026 16:34</pubDate>
       <enclosure url="https://images.mktw.net/im-31637066" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Grandes petrolíferas colherão bilhões com lucros inesperados da guerra no Irã após um mês de alta nos preços...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/big-oil-to-reap-billions-from-iran-war-windfall-after-a-month-of-soaring-energy-prices-4583356</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/big-oil-to-reap-billions-from-iran-war-windfall-after-a-month-of-soaring-energy-prices-4583356</guid>
-      <pubDate>26/03/2026 16:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P1BC_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
