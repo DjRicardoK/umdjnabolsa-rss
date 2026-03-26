@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 20:38:49 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:49:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do quarto trimestre da Integra Resources</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/integra-resources-q4-earnings-call-162150343.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/integra-resources-q4-earnings-call-162150343.html</guid>
+      <pubDate>26/03/2026 20:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/55be8ce244e7db01021e2de0b141a300" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Elon Musk acaba de anunciar uma ‘tarefa hercúlea’ para Tesla. As ações da TSLA podem sobreviver e prosperar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-pounding-table-ge-143203558.html</guid>
       <pubDate>26/03/2026 19:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/834546aacae3a268aff91628fd43d437" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 2 ações que poderiam criar riqueza geracional duradoura</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/2-stocks-could-create-lasting-143500195.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-stocks-could-create-lasting-143500195.html</guid>
-      <pubDate>26/03/2026 19:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e3421c7b981ca2ff342e285127d0f1fe" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
