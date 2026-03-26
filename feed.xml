@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 07:54:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 08:00:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro de metais comerciais perdido em US$ 0,14, receita superou estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/commercial-metals-earnings-missed-by-014-revenue-topped-estimates-4581986</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/commercial-metals-earnings-missed-by-014-revenue-topped-estimates-4581986</guid>
+      <pubDate>26/03/2026 08:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A corrida para o dinheiro apenas começou. Aqui está o que isso significa para ações e títulos.</title>
       <description>Os estrategistas do JPMorgan consideram que a actual acumulação de dinheiro por parte dos investidores não está nem perto daquela que foi observada após a invasão da Ucrânia pela...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/why-peabody-energy-other-coal-203846129.html</guid>
       <pubDate>26/03/2026 05:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/dff0d72d9468cb67d541609461577476" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Finanças Municipais captam US$ 25 milhões no programa MTN</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/municipality-finance-taps-usd-25m-under-mtn-programme-93CH-4581597</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/municipality-finance-taps-usd-25m-under-mtn-programme-93CH-4581597</guid>
-      <pubDate>26/03/2026 05:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
