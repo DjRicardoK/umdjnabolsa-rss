@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 17:03:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 17:05:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Medtronic reduz previsão de lucros após IPO da MiniMed</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/medtronic-lowers-earnings-forecast-minimed-114323074.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/medtronic-lowers-earnings-forecast-minimed-114323074.html</guid>
+      <pubDate>26/03/2026 17:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/medtech_dive_335/62b99ad44514493cc94a17366b887992" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores taxas de contas do mercado monetário hoje, 25 de março de 2026 (garantidas até 4,01% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wells-fargos-q1-2026-earnings-074215773.html</guid>
       <pubDate>26/03/2026 15:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ffcb364112e9a01ba9e3c8058c26a50a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação dos resultados da Nike</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-nike-earnings-release-075035564.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-nike-earnings-release-075035564.html</guid>
-      <pubDate>26/03/2026 15:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/53ebe5cd5934fa199b621d2f97773dae" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
