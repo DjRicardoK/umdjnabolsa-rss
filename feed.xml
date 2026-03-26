@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 18:22:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 18:23:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer destaca a Ulta Beauty por suas fortes vendas de alto padrão, apesar da recente perda de lucros</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-ulta-beauty-131326288.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-ulta-beauty-131326288.html</guid>
+      <pubDate>26/03/2026 18:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e7ce02738b547dc513a8196cdef40274" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que a Tesla não está recebendo impulso com os altos preços da gasolina</title>
       <description>Preços mais elevados de VE e custos de empréstimos podem estar afastando potenciais compradores.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/copy-best-high-yield-savings-interest-rates-today-wednesday-march-25-2026-100000800.html</guid>
       <pubDate>26/03/2026 16:52</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/a41ff6a0-4eb5-11ef-b1fe-05a827b12f92" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Conagra Brands no terceiro trimestre de 2026: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/conagra-brands-q3-2026-earnings-095835925.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/conagra-brands-q3-2026-earnings-095835925.html</guid>
-      <pubDate>26/03/2026 16:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/aa1d55c45346757cee23cd39abd1e7d0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
