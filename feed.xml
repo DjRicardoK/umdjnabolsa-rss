@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 17:39:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 17:45:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Fennec Pharmaceuticals Inc. Resumo da teleconferência de resultados do quarto trimestre de 2025</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/fennec-pharmaceuticals-inc-q4-2025-123000262.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/fennec-pharmaceuticals-inc-q4-2025-123000262.html</guid>
+      <pubDate>26/03/2026 17:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/d66764941a7ad1d148e12f4875ef622d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os corretores de ações estão cautelosos com este mercado – e os investidores de varejo também deveriam estar</title>
       <description>O S&amp;P 500 está a tentar recuperar, mas as realidades geopolíticas e económicas impedem.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-progressives-report-091415170.html</guid>
       <pubDate>26/03/2026 15:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/a326f1d2cca357356774856638518c09" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos do Labubu Maker mostram que não está brincando, mas os investidores não acham graça</title>
-      <description></description>
-      <link>https://www.wsj.com/business/retail/labubu-makers-earnings-show-its-not-toying-around-4d2de5f8?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/business/retail/labubu-makers-earnings-show-its-not-toying-around-4d2de5f8?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>26/03/2026 15:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/2025f2236df0bd6f1d696a7f1662d604" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
