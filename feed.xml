@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 15:04:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:08:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Microsoft congela contratações nos principais grupos de vendas e nuvem, relata The Information</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/microsoft-freezes-hiring-in-major-cloud-sales-groups-the-information-reports-4583253</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-freezes-hiring-in-major-cloud-sales-groups-the-information-reports-4583253</guid>
+      <pubDate>26/03/2026 15:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P171_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O Nasdaq caiu 8% em relação ao seu máximo. Estas são as ações de tecnologia que eu compraria primeiro.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/research/reports/ARGUS_46550_MarketOutlook_1774524185000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei</guid>
       <pubDate>26/03/2026 14:02</pubDate>
       <enclosure url="https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do quarto trimestre de 2025 da Pony AI Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/pony-ai-inc-american-depositary-163648900.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/pony-ai-inc-american-depositary-163648900.html</guid>
-      <pubDate>26/03/2026 14:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/5f703abf9abb03529afe0324972ea768" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
