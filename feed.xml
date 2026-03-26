@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 15:08:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:18:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro sobe com recuo do petróleo na diplomacia do Oriente Médio</title>
+      <description></description>
+      <link>https://www.barrons.com/livecoverage/stock-market-news-today-032526/card/gold-climbs-as-oil-retreats-on-mideast-diplomacy-K5ACoiOllIBfRONDoxrl?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-032526/card/gold-climbs-as-oil-retreats-on-mideast-diplomacy-K5ACoiOllIBfRONDoxrl?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>26/03/2026 15:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Microsoft congela contratações nos principais grupos de vendas e nuvem, relata The Information</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/these-10-top-rated-stocks-are-crushing-the-s-p-500-yet-the-media-and-wall-street-ignore-them-39512b4b?mod=mw_rss_topstories</guid>
       <pubDate>26/03/2026 14:02</pubDate>
       <enclosure url="https://images.mktw.net/im-82400357" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaque diário: as ações podem sobreviver a uma retração</title>
-      <description></description>
-      <link>https://finance.yahoo.com/research/reports/ARGUS_46550_MarketOutlook_1774524185000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/research/reports/ARGUS_46550_MarketOutlook_1774524185000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei</guid>
-      <pubDate>26/03/2026 14:02</pubDate>
-      <enclosure url="https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
