@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 18:42:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 18:48:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Wilson, do Morgan Stanley, vê boom nos lucros do S&amp;P apesar da guerra no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/morgan-stanley-wilson-sees-p-112848186.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/morgan-stanley-wilson-sees-p-112848186.html</guid>
+      <pubDate>26/03/2026 18:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/86c9ee85e928a02f07c0f4089d120063" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE SLB e Nvidia expandem colaboração no uso de IA na indústria de energia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-nutanix-inc-ntnx-underperformed-114802299.html</guid>
       <pubDate>26/03/2026 17:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/89894eca51b93f0a51358ab0620a7463" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório de Kinder Morgan</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-kinder-morgans-115023973.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-kinder-morgans-115023973.html</guid>
-      <pubDate>26/03/2026 17:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/645b7edc4d39e53e61c962550f908b12" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
