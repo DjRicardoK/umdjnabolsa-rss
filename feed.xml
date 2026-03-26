@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 14:32:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 14:38:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A queda do ouro criou oportunidades para comprar essas ações a preços de banana</title>
+      <description>A recente forte liquidação das acções das minas de ouro criou oportunidades para os investidores comprarem a preços de pechincha se o apetite pelo ouro voltar a ser altista, como...</description>
+      <link>https://www.marketwatch.com/story/golds-tumble-has-created-opportunities-to-buy-these-stocks-at-bargain-prices-7ad3e73a?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/golds-tumble-has-created-opportunities-to-buy-these-stocks-at-bargain-prices-7ad3e73a?mod=mw_rss_topstories</guid>
+      <pubDate>26/03/2026 14:38</pubDate>
+      <enclosure url="https://images.mktw.net/im-04413720" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Segurança do Tesouro ou Maior Rendimento de Títulos Corporativos? VGSH x VCSH</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/argan-agx-stock-earnings-ai-data-centers/?src=A00220&yptr=yahoo</guid>
       <pubDate>26/03/2026 13:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/7b0cf4e54c0bbad84ee3c90199833c73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides do segundo trimestre do ano fiscal de 2026 da CMC: pré-moldados impulsionam o crescimento apesar da...</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/cmc-q2-fy2026-slides-precast-drives-growth-despite-earnings-miss-93CH-4583102</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/cmc-q2-fy2026-slides-precast-drives-growth-despite-earnings-miss-93CH-4583102</guid>
-      <pubDate>26/03/2026 13:36</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/15f9931c61b4b93a7ce23524f29a10883980a05001b44742eccff8ca293ac65b.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
