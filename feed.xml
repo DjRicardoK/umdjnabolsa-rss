@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 07:23:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:35:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Próxima etapa de IA da Microsoft: a MSFT ainda pode ter desempenho superior a partir daqui?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-next-ai-leg-msft-223200882.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-next-ai-leg-msft-223200882.html</guid>
+      <pubDate>26/03/2026 07:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/90f6e68c259e617ee838e9c6d1bae410" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE FedEx competirá em entrega no mesmo dia com Amazon, Walmart e UPS</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/1-top-stock-buy-nvidia-202634819.html</guid>
       <pubDate>26/03/2026 05:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d3b0735997823ab2c69af690f505d319" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços do ouro acabam de entrar no território de sobrevenda: você deve comprar na queda?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/gold-prices-just-entered-oversold-202753692.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-prices-just-entered-oversold-202753692.html</guid>
-      <pubDate>26/03/2026 05:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/23ca01c801624d2576c50ce7c0b445b7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
