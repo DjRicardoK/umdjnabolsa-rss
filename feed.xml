@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:34:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 11:40:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Preços do petróleo disparam com o Irã cobrando pedágio no Estreito de Ormuz; S&amp;P 500 cai à medida que os...</title>
+      <description></description>
+      <link>https://www.investors.com/news/oil-prices-iran-strait-of-hormuz-toll-sp-500-cvx-lng/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/oil-prices-iran-strait-of-hormuz-toll-sp-500-cvx-lng/?src=A00220&yptr=yahoo</guid>
+      <pubDate>26/03/2026 11:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/b12083dcdf43d99632cb8de6a44965f0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Stran &amp; Co Q4 2025 mostra forte crescimento de receita</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/articles/8-things-getting-rich-probably-230433787.html</guid>
       <pubDate>26/03/2026 10:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/gobankingrates_644/84d498dae2fe3ecfc522ab2c96bdff74" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do segundo trimestre de 2026 do Enerpac Tool...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-enerpac-tool-groups-q2-2026-results-show-mixed-signals-93CH-4582636</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-enerpac-tool-groups-q2-2026-results-show-mixed-signals-93CH-4582636</guid>
-      <pubDate>26/03/2026 10:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
