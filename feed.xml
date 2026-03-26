@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 10:39:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 10:48:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE CEO da BlackRock alerta que petróleo a US$ 150 pode desencadear recessão</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/blackrock-ceo-warns-150-oil-133219342.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/blackrock-ceo-warns-150-oil-133219342.html</guid>
+      <pubDate>26/03/2026 10:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/quartz_855/0451cc95cf9ee736b3e27a4575462e54" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE KeyBanc reitera classificação de excesso de peso das ações da Terreno Realty em US$ 72</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/tech-stocks-today-meta-google-stocks-little-changed-after-social-media-verdict-openai-shuts-down-sora-144220087.html</guid>
       <pubDate>26/03/2026 09:22</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/MgS6pHUO4SmSq_ukEjbuyQ--~B/aD03OTg7dz0xMjMyO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/2026-03/0f49dfc5-ef89-4471-ac95-5bae64971315" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A própria pesquisa da Vanguard afirma que as ações internacionais vencerão os EUA na próxima década. Aqui...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/vanguard-own-research-says-international-121803121.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/vanguard-own-research-says-international-121803121.html</guid>
-      <pubDate>26/03/2026 09:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/5b6ac26305a4004febe2cadc670e630e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
