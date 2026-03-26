@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 16:06:09 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 16:24:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Grandes petrolíferas colherão bilhões com lucros inesperados da guerra no Irã após um mês de alta nos preços...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/big-oil-to-reap-billions-from-iran-war-windfall-after-a-month-of-soaring-energy-prices-4583356</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/big-oil-to-reap-billions-from-iran-war-windfall-after-a-month-of-soaring-energy-prices-4583356</guid>
+      <pubDate>26/03/2026 16:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P1BC_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs reitera classificação neutra das ações da SoFi na expansão da plataforma de empréstimos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/rockwell-medical-inc-q4-2025-171454819.html</guid>
       <pubDate>26/03/2026 14:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/7b604dbffe434b94afd7ce3b14d4b0ad" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Quando as taxas de hipoteca cairão? Será necessária uma resolução para o Médio Oriente.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-march-26-2026-190610931.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-march-26-2026-190610931.html</guid>
-      <pubDate>26/03/2026 14:22</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-03/1f42f290-ff5c-11ef-bfbf-7d26008535ed" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
