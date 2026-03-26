@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 19:29:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 19:37:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Quantos funcionários a Nvidia tem? Da pesquisa e desenvolvimento às vendas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/many-employees-does-nvidia-r-145900596.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/many-employees-does-nvidia-r-145900596.html</guid>
+      <pubDate>26/03/2026 19:37</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/8605a096fde594e49222d2d8a28e7cc6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos lucros do JPMorgan Chase: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/abbott-earnings-preview-expect-130616282.html</guid>
       <pubDate>26/03/2026 18:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c45c7663791f2fe119b3401a74163bde" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Fastenal</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-fastenals-q1-2026-earnings-124523024.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-fastenals-q1-2026-earnings-124523024.html</guid>
-      <pubDate>26/03/2026 17:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/005980acfe390bfc5f98e1de06c207d6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
