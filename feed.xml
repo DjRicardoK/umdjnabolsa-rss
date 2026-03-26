@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 15:18:14 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:33:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Previsão: as ações de inteligência artificial (IA) que vencerão em 2026 não serão as mesmas que venceram em...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/prediction-artificial-intelligence-ai-stocks-083000263.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-artificial-intelligence-ai-stocks-083000263.html</guid>
+      <pubDate>26/03/2026 15:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/642680c0717e496367ad6b339374f4fd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ouro sobe com recuo do petróleo na diplomacia do Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/amazon-offers-1-000-prizes-154516543.html</guid>
       <pubDate>26/03/2026 14:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/995d61c003e11440abda9b887b90cfcf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Essas 10 ações com melhor classificação estão destruindo o S&amp;P 500 – mas a mídia e Wall Street as ignoram</title>
-      <description>Ações com pouca cobertura tendem a superar os pares bem conhecidos e amplamente seguidos.</description>
-      <link>https://www.marketwatch.com/story/these-10-top-rated-stocks-are-crushing-the-s-p-500-yet-the-media-and-wall-street-ignore-them-39512b4b?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/these-10-top-rated-stocks-are-crushing-the-s-p-500-yet-the-media-and-wall-street-ignore-them-39512b4b?mod=mw_rss_topstories</guid>
-      <pubDate>26/03/2026 14:02</pubDate>
-      <enclosure url="https://images.mktw.net/im-82400357" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
