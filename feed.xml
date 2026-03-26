@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 18:49:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 18:55:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Por que as ações de software se mostraram resilientes em um dia sombrio para a tecnologia</title>
+      <description>Mesmo com o Nasdaq entrando em território de correção, as ações de empresas de software proeminentes como Salesforce, CrowdStrike e Figma terminaram a sessão em alta.</description>
+      <link>https://www.marketwatch.com/story/why-software-stocks-proved-resilient-on-a-dismal-day-for-tech-cbdc4bbb?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/why-software-stocks-proved-resilient-on-a-dismal-day-for-tech-cbdc4bbb?mod=mw_rss_topstories</guid>
+      <pubDate>26/03/2026 18:55</pubDate>
+      <enclosure url="https://images.mktw.net/im-792278" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que as ações em borracha estão subindo apesar da perda de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netflix-walked-away-warner-bros-121300801.html</guid>
       <pubDate>26/03/2026 17:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/3bb3f0e19fc7afce95e983a9609e2a5c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 2 Ações de crescimento superalimentadas caíram 83% e 92% em relação aos seus máximos históricos, que podem...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/2-supercharged-growth-stocks-down-115600149.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-supercharged-growth-stocks-down-115600149.html</guid>
-      <pubDate>26/03/2026 17:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/52f1b61c7fc2f611be739992c900d482" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
