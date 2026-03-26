@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 18:55:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 18:59:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro para US$ 35.000, Bitcoin para US$ 750.000, Robert Kiyosaki adverte que a &apos;maior bolha&apos; está prestes a...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/gold-35-000-bitcoin-750-135044652.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-35-000-bitcoin-750-135044652.html</guid>
+      <pubDate>26/03/2026 18:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/51c6fb6cf580c270eec9ada51f7c291f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Por que as ações de software se mostraram resilientes em um dia sombrio para a tecnologia</title>
       <description>Mesmo com o Nasdaq entrando em território de correção, as ações de empresas de software proeminentes como Salesforce, CrowdStrike e Figma terminaram a sessão em alta.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/stock-traders-are-wary-of-this-market-and-retail-investors-should-be-too-c1cd6462?mod=mw_rss_topstories</guid>
       <pubDate>26/03/2026 17:39</pubDate>
       <enclosure url="https://images.mktw.net/im-19630495" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Netflix se afastou da Warner Bros. Isso foi uma jogada inteligente?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/netflix-walked-away-warner-bros-121300801.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netflix-walked-away-warner-bros-121300801.html</guid>
-      <pubDate>26/03/2026 17:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/3bb3f0e19fc7afce95e983a9609e2a5c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
