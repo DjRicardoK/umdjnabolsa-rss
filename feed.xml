@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 09:15:03 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 09:20:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Apenas uma faísca pode incendiar o crédito privado, alerta Blankfein, ex-CEO do Goldman</title>
+      <description>Há falta de transparência com os investidores lutando para saber quanto valem os ativos</description>
+      <link>https://www.marketwatch.com/story/just-a-spark-may-light-private-credit-on-fire-warns-ex-goldman-ceo-blankfein-d3d236d5?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/just-a-spark-may-light-private-credit-on-fire-warns-ex-goldman-ceo-blankfein-d3d236d5?mod=mw_rss_topstories</guid>
+      <pubDate>26/03/2026 09:20</pubDate>
+      <enclosure url="https://images.mktw.net/im-65499529" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow cai enquanto Trump alerta o Irã para &apos;ficar sério em breve&apos;; Os preços do petróleo...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/tela-bio-tela-q4-2025-220109718.html</guid>
       <pubDate>26/03/2026 07:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Crianças a partir dos 13 anos agora podem negociar ações sem a aprovação dos pais – mas não pergunte a elas...</title>
-      <description>À medida que as plataformas tecnológicas tornam a negociação mais acessível do que nunca, as empresas financeiras estão a encontrar novas formas de alcançar os jovens investidores...</description>
-      <link>https://www.marketwatch.com/story/kids-as-young-as-13-can-now-trade-stocks-without-a-parents-approval-but-dont-ask-them-how-much-did-you-make-today-6bb7c11d?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/kids-as-young-as-13-can-now-trade-stocks-without-a-parents-approval-but-dont-ask-them-how-much-did-you-make-today-6bb7c11d?mod=mw_rss_topstories</guid>
-      <pubDate>26/03/2026 07:00</pubDate>
-      <enclosure url="https://images.mktw.net/im-28585541" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
