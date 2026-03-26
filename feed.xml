@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 19:08:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 19:08:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Morgan Stanley está batendo na mesa na GE Aerospace e na TransDigm: compre a queda nessas duas ações...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-pounding-table-ge-143203558.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-pounding-table-ge-143203558.html</guid>
+      <pubDate>26/03/2026 19:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/834546aacae3a268aff91628fd43d437" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 ações que poderiam criar riqueza geracional duradoura</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/nasdaq-falls-into-correction-territory-and-trump-pauses-plans-to-attack-iranian-energy-infrastructure-27732ce3?mod=mw_rss_topstories</guid>
       <pubDate>26/03/2026 17:47</pubDate>
       <enclosure url="https://images.mktw.net/im-15402837" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O medo da recessão está de volta: é por isso que isso não deve mudar sua estratégia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/recession-fears-back-why-not-122000541.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/recession-fears-back-why-not-122000541.html</guid>
-      <pubDate>26/03/2026 17:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/d39133632822d88012965efc523eeef9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
