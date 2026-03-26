@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 14:25:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 14:25:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Registros eleitorais de Minnesota intimados em investigação federal</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/minnesota-voter-records-subpoenaed-in-federal-probe-93CH-4583188</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/minnesota-voter-records-subpoenaed-in-federal-probe-93CH-4583188</guid>
+      <pubDate>26/03/2026 14:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_M_1440048891.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco central da Turquia vende e troca 60 toneladas de ouro após guerra com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/us-fixed-30-mortgage-rate-161742474.html</guid>
       <pubDate>26/03/2026 13:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/8b2dda1cf19ccd58abb8895a9199bf1e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon x Walmart: qual é a melhor compra?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-vs-walmart-better-buy-160601014.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-vs-walmart-better-buy-160601014.html</guid>
-      <pubDate>26/03/2026 13:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/f6dc6efe178566e6593ca8f6e55d576c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
