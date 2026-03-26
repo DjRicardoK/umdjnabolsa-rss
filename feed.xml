@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 08:29:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 08:32:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Uma década perdida para os títulos significa que ações de alta qualidade são a melhor forma de proteção...</title>
+      <description>A pandemia mundial deu início a um boom inflacionário que durará três décadas, o que significa que os investidores devem recorrer a ações de alta qualidade em vez de obrigações...</description>
+      <link>https://www.marketwatch.com/story/a-lost-decade-for-bonds-means-high-quality-stocks-are-best-way-to-protect-against-inflation-says-morgan-stanley-strategist-00b18be8?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/a-lost-decade-for-bonds-means-high-quality-stocks-are-best-way-to-protect-against-inflation-says-morgan-stanley-strategist-00b18be8?mod=mw_rss_topstories</guid>
+      <pubDate>26/03/2026 08:32</pubDate>
+      <enclosure url="https://images.mktw.net/im-12547733" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Alnylam em compra, meta de US$ 510</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/ibd-stock-of-the-day/nxt-stock-nextpower-top-solar-stock-near-buy-point-war-outlook/?src=A00220&yptr=yahoo</guid>
       <pubDate>26/03/2026 05:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/e35354b64701fc07f4f57cdc8831d976" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações caem em baixa à medida que a guerra no Irã aumenta o rendimento do petróleo bruto e dos títulos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-iran-war-204322105.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-iran-war-204322105.html</guid>
-      <pubDate>26/03/2026 05:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/051cc5266a82be6bbacff9f8ab0d7744" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
