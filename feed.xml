@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 20:34:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:37:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump assina ordem executiva pedindo aos empreiteiros federais que eliminem a DEI</title>
+      <description></description>
+      <link>https://www.investing.com/news/general-news/trump-signs-executive-order-asking-federal-contractors-to-eliminate-dei-4584018</link>
+      <guid isPermaLink="false">https://www.investing.com/news/general-news/trump-signs-executive-order-asking-federal-contractors-to-eliminate-dei-4584018</guid>
+      <pubDate>26/03/2026 20:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P1K4_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A estabilização do estoque de ouro cria abertura para propriedade com desconto</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-apple-aapl-143101685.html</guid>
       <pubDate>26/03/2026 19:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/81c19848a45a03d67c33dd64ad4242ee" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro para US$ 35.000, Bitcoin para US$ 750.000, Robert Kiyosaki adverte que a &apos;maior bolha&apos; está prestes a...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/gold-35-000-bitcoin-750-135044652.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-35-000-bitcoin-750-135044652.html</guid>
-      <pubDate>26/03/2026 18:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/benzinga_79/51c6fb6cf580c270eec9ada51f7c291f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
