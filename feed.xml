@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 19:37:22 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 19:37:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que Core Scientific (CORZ) é uma das melhores ações de compra forte para investir abaixo de US$ 20</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-core-scientific-corz-one-145212285.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-core-scientific-corz-one-145212285.html</guid>
+      <pubDate>26/03/2026 19:37</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/994ae5a667a69b97d4c07fdbe683a779" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Nvidia tiveram uma corrida monstruosa. Esta estratégia Bear Call paga se a festa acabar.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/why-tesla-isnt-getting-a-boost-from-high-gas-prices-39a5bacf?mod=mw_rss_topstories</guid>
       <pubDate>26/03/2026 18:22</pubDate>
       <enclosure url="https://images.mktw.net/im-38308838" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Evercore ISI reitera classificação das ações da Netflix sobre poder de precificação</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-netflix-stock-rating-on-pricing-power-93CH-4583779</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-netflix-stock-rating-on-pricing-power-93CH-4583779</guid>
-      <pubDate>26/03/2026 18:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/netflix_M_1440050676.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
