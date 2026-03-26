@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 17:13:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 17:24:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 2 Ações de crescimento superalimentadas caíram 83% e 92% em relação aos seus máximos históricos, que podem...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/2-supercharged-growth-stocks-down-115600149.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-supercharged-growth-stocks-down-115600149.html</guid>
+      <pubDate>26/03/2026 17:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/52f1b61c7fc2f611be739992c900d482" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Por que a Nutanix (NTNX) teve um desempenho inferior, apesar de ganhar participação de mercado da VMware</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-032526/card/gold-climbs-as-oil-retreats-on-mideast-diplomacy-K5ACoiOllIBfRONDoxrl?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>26/03/2026 15:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Microsoft congela contratações nos principais grupos de vendas e nuvem, relata The Information</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/microsoft-freezes-hiring-in-major-cloud-sales-groups-the-information-reports-4583253</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-freezes-hiring-in-major-cloud-sales-groups-the-information-reports-4583253</guid>
-      <pubDate>26/03/2026 15:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P171_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
