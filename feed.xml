@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 10:08:46 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 10:14:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O rebaixamento desta ação mostra como a guerra do Irã atingirá o alvo</title>
+      <description>As ações da Scotts Miracle-Gro são rebaixadas pelo JP Morgan, citando o impacto do aumento dos custos das matérias-primas nos lucros futuros.</description>
+      <link>https://www.marketwatch.com/story/this-stocks-downgrade-shows-how-the-iran-war-will-hit-home-38f72db9?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/this-stocks-downgrade-shows-how-the-iran-war-will-hit-home-38f72db9?mod=mw_rss_topstories</guid>
+      <pubDate>26/03/2026 10:14</pubDate>
+      <enclosure url="https://images.mktw.net/im-38918748" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O dólar americano caiu 10% desde o início do segundo mandato de Trump – aqui está o que isso significa para o...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/3-defense-stocks-replenish-america-010000101.html</guid>
       <pubDate>26/03/2026 08:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/oilprice.com/bd923b7c411dac5a2b52eeeb4dd10ce5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro de metais comerciais perdido em US$ 0,14, receita superou estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/commercial-metals-earnings-missed-by-014-revenue-topped-estimates-4581986</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/commercial-metals-earnings-missed-by-014-revenue-topped-estimates-4581986</guid>
-      <pubDate>26/03/2026 08:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
