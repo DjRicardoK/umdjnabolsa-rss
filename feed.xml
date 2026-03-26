@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 08:32:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 08:46:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Morgan Stanley desafia a ideia de que Wall Street está atrasada para a criptografia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-challenges-idea-wall-234600934.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-challenges-idea-wall-234600934.html</guid>
+      <pubDate>26/03/2026 08:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/83462ce624cf5f7c4fddf4071368fa93" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Uma década perdida para os títulos significa que ações de alta qualidade são a melhor forma de proteção...</title>
       <description>A pandemia mundial deu início a um boom inflacionário que durará três décadas, o que significa que os investidores devem recorrer a ações de alta qualidade em vez de obrigações...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fedex-corporation-fdx-good-stock-205437512.html</guid>
       <pubDate>26/03/2026 05:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9263c3c563949391020f00cf2617f498" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Estoque NXT: Solar Play nº 1, estoque IBD do dia, estoura na guerra, perspectivas</title>
-      <description></description>
-      <link>https://www.investors.com/research/ibd-stock-of-the-day/nxt-stock-nextpower-top-solar-stock-near-buy-point-war-outlook/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/ibd-stock-of-the-day/nxt-stock-nextpower-top-solar-stock-near-buy-point-war-outlook/?src=A00220&yptr=yahoo</guid>
-      <pubDate>26/03/2026 05:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/e35354b64701fc07f4f57cdc8831d976" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
