@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:15:03 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 11:15:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street cai devido à incerteza da desescalada no Médio Oriente</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/us-stock-futures-slip-as-middle-east-war-deescalation-remains-uncertain-4581699</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-stock-futures-slip-as-middle-east-war-deescalation-remains-uncertain-4581699</guid>
+      <pubDate>26/03/2026 11:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P0FS_1200_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE S&amp;P Global eleva previsão de inflação na Turquia para 28,9% sobre preços de energia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/european-retailers-warn-price-shock-123649081.html</guid>
       <pubDate>26/03/2026 09:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/178673ea4293e51cb26229310d07eef3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de tecnologia hoje: Meta e Google enfrentam contas legais, OpenAI estreita seu foco</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/live/tech-stocks-today-meta-google-face-legal-reckoning-openai-narrows-its-focus-144220284.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/live/tech-stocks-today-meta-google-face-legal-reckoning-openai-narrows-its-focus-144220284.html</guid>
-      <pubDate>26/03/2026 09:50</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/MgS6pHUO4SmSq_ukEjbuyQ--~B/aD03OTg7dz0xMjMyO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/2026-03/0f49dfc5-ef89-4471-ac95-5bae64971315" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
