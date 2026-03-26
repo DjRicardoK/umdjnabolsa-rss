@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 07:23:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:23:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE FedEx competirá em entrega no mesmo dia com Amazon, Walmart e UPS</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/fedex-compete-same-day-delivery-223941261.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fedex-compete-same-day-delivery-223941261.html</guid>
+      <pubDate>26/03/2026 07:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/freightwaves_373/5ccb237c1a0c2d3ff7ea600aa32f1c42" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Este estoque de IA sob o radar pode ser uma compra melhor do que a Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-prices-just-entered-oversold-202753692.html</guid>
       <pubDate>26/03/2026 05:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/23ca01c801624d2576c50ce7c0b445b7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Micron acaba de superar os ganhos em uma milha. Veja por que as ações caíram de qualquer maneira.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/micron-just-beat-earnings-mile-203600603.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-just-beat-earnings-mile-203600603.html</guid>
-      <pubDate>26/03/2026 05:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/14450457ae1d3eb78dd5e6551e0af8fc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
