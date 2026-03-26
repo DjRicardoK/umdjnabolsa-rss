@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 14:22:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 14:23:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas do Reino Unido caem no fechamento do pregão; Investing.com Reino Unido 100 caiu 1,29%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-129-4583158</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-129-4583158</guid>
+      <pubDate>26/03/2026 14:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA830AT_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da Rockwell Medical, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/seadrill-ltd-stock-hits-52week-high-at-4606-usd-93CH-4583065</guid>
       <pubDate>26/03/2026 13:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As taxas de hipoteca aumentam pela quarta semana consecutiva</title>
-      <description></description>
-      <link>https://www.wsj.com/economy/housing/mortgage-rates-rise-for-fourth-straight-week-e8bdd447?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/economy/housing/mortgage-rates-rise-for-fourth-straight-week-e8bdd447?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>26/03/2026 13:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/9748b16483347f50426950a952b4c5bb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
