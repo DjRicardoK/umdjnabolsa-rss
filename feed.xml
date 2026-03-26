@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 14:02:20 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 14:02:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaque diário: as ações podem sobreviver a uma retração</title>
+      <description></description>
+      <link>https://finance.yahoo.com/research/reports/ARGUS_46550_MarketOutlook_1774524185000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/research/reports/ARGUS_46550_MarketOutlook_1774524185000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei</guid>
+      <pubDate>26/03/2026 14:02</pubDate>
+      <enclosure url="https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do quarto trimestre de 2025 da Pony AI Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/blackrock-fink-why-won-t-130600207.html</guid>
       <pubDate>26/03/2026 12:00</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketwatch_hosted_869/63f77d0742364b1cc044582fe43dca09" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Firmas do dólar à medida que o cessar-fogo no Oriente Médio está desaparecendo, elevam a demanda por portos...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/dollar-strengthens-confidence-recovers-fed-000020921.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/dollar-strengthens-confidence-recovers-fed-000020921.html</guid>
-      <pubDate>26/03/2026 12:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/38953dc1a9a9e816728da445004abbd4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
