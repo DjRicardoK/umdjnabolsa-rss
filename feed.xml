@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 07:03:44 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:03:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Esqueça as manchetes de guerra: os fundamentos do mercado vencerão o jogo a longo prazo, dizem esses...</title>
+      <description>Os investidores deveriam olhar para além das manchetes imediatas da guerra e do choque dos preços da energia e, em vez disso, concentrar-se nos fundamentos e escalar o proverbial...</description>
+      <link>https://www.marketwatch.com/story/forget-the-war-headlines-market-fundamentals-will-win-the-long-game-these-strategists-say-059af1a8?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/forget-the-war-headlines-market-fundamentals-will-win-the-long-game-these-strategists-say-059af1a8?mod=mw_rss_topstories</guid>
+      <pubDate>26/03/2026 07:03</pubDate>
+      <enclosure url="https://images.mktw.net/im-92127690" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE TELA Bio (TELA) Transcrição da teleconferência de resultados do quarto trimestre de 2025</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/circle-stock-price-clarity-act-crypto-41127901?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>26/03/2026 04:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/8141765ce4522980dade1c601ba7528d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE NYSE e Securitize estão reconfigurando Wall Street para a revolução da tokenização</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/nyse-securitize-rewiring-wall-street-194718459.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/nyse-securitize-rewiring-wall-street-194718459.html</guid>
-      <pubDate>26/03/2026 04:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/0f4034055c72b563271f2c619c371625" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
