@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:15:07 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 11:15:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Innate Pharma Q4 2025: Foco estratégico em meio ao...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-innate-pharma-q4-2025-strategic-focus-amid-cost-management-93CH-4582835</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-innate-pharma-q4-2025-strategic-focus-amid-cost-management-93CH-4582835</guid>
+      <pubDate>26/03/2026 11:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street cai devido à incerteza da desescalada no Médio Oriente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/warner-bros-shareholders-to-vote-on-110-billion-paramount-deal-on-april-23-wsj-reports-4582204</guid>
       <pubDate>26/03/2026 09:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P0O2_1200_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Retalhistas europeus alertam para choque de preços e procura mais fraca devido ao conflito prolongado no...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/european-retailers-warn-price-shock-123649081.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/european-retailers-warn-price-shock-123649081.html</guid>
-      <pubDate>26/03/2026 09:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/178673ea4293e51cb26229310d07eef3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
