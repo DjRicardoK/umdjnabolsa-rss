@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 18:25:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 18:34:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Micron caem em um mercado baixista – e agora são as mais baratas no S&amp;P 500</title>
+      <description>O múltiplo preço/lucro da Micron diminuiu drasticamente, à medida que as expectativas de lucros aumentaram e as ações caíram.</description>
+      <link>https://www.marketwatch.com/story/microns-stock-falls-into-a-bear-market-and-its-now-the-cheapest-in-the-s-p-500-f90d9114?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/microns-stock-falls-into-a-bear-market-and-its-now-the-cheapest-in-the-s-p-500-f90d9114?mod=mw_rss_topstories</guid>
+      <pubDate>26/03/2026 18:34</pubDate>
+      <enclosure url="https://images.mktw.net/im-87267103" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Prévia dos lucros: o que esperar do relatório do Goldman Sachs</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-march-25-2025-100000765.html</guid>
       <pubDate>26/03/2026 17:03</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Melhores taxas de CD hoje, 25 de março de 2026 (ganhe até 4,15% APY)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-wednesday-march-25-2026-100000389.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-wednesday-march-25-2026-100000389.html</guid>
-      <pubDate>26/03/2026 17:03</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d2-4f64-11ef-8ffb-deebdbfd96c8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
