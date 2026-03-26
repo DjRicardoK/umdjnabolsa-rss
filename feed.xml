@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 07:17:07 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:23:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Este estoque de IA sob o radar pode ser uma compra melhor do que a Nvidia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/under-radar-ai-stock-could-222100697.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/under-radar-ai-stock-could-222100697.html</guid>
+      <pubDate>26/03/2026 07:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/6f91c91982321966452155ad9205fad4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que as ações da Nvidia parecem ‘relativamente baratas’, de acordo com esses especialistas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-just-beat-earnings-mile-203600603.html</guid>
       <pubDate>26/03/2026 05:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/14450457ae1d3eb78dd5e6551e0af8fc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Evolv Technologies Q4 2025 relata crescimento de receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-evolv-technologies-q4-2025-reports-revenue-growth-93CH-4581567</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-evolv-technologies-q4-2025-reports-revenue-growth-93CH-4581567</guid>
-      <pubDate>26/03/2026 05:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
