@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 14:16:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 14:17:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: INPP relata forte desempenho no segundo semestre de 2025 com...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-inpp-reports-strong-h2-2025-performance-with-dividend-growth-93CH-4583172</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-inpp-reports-strong-h2-2025-performance-with-dividend-growth-93CH-4583172</guid>
+      <pubDate>26/03/2026 14:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Amazon oferece prêmios de US$ 1.000 para motoristas que dizem por que amam seu trabalho</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/investors-are-dangerously-complacent-about-potential-blowback-from-iran-conflict-former-hedge-fund-exec-says-36c24c52?mod=mw_rss_topstories</guid>
       <pubDate>26/03/2026 12:43</pubDate>
       <enclosure url="https://images.mktw.net/im-05966163" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Smithfield está perto do rompimento enquanto a guerra no Irã impulsiona os preços dos alimentos e dos...</title>
-      <description></description>
-      <link>https://www.investors.com/news/smithfield-foods-stock-iran-war-pork-prices-oil-gas-hormuz-inflation/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/smithfield-foods-stock-iran-war-pork-prices-oil-gas-hormuz-inflation/?src=A00220&yptr=yahoo</guid>
-      <pubDate>26/03/2026 12:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/c7e839b491f33f016a13254835790bf8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
