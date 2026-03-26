@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 13:41:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 13:57:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Alegações contra promotor de crimes de guerra do TPI ainda estão sob revisão, diz memorando</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/allegations-against-icc-war-crimes-prosecutor-still-under-review-memo-says-4583124</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/allegations-against-icc-war-crimes-prosecutor-still-under-review-memo-says-4583124</guid>
+      <pubDate>26/03/2026 13:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2L093_1200_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Este AI Builder está em um nível de gráfico crucial com ganhos devidos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/tesla-inc-tsla-sourcing-2-144312002.html</guid>
       <pubDate>26/03/2026 11:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/29a6aea20a7c867bec3078256880ee1c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Up Fintech Holding Ltd atingem o mínimo de 52 semanas a 6,38 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/up-fintech-holding-ltd-stock-hits-52week-low-at-638-usd-93CH-4582933</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/up-fintech-holding-ltd-stock-hits-52week-low-at-638-usd-93CH-4582933</guid>
-      <pubDate>26/03/2026 11:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
