@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 14:21:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 14:21:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reitera classificação de compra nas ações da MapLight Therapeutics</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-maplight-therapeutics-stock-93CH-4583149</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-maplight-therapeutics-stock-93CH-4583149</guid>
+      <pubDate>26/03/2026 14:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A taxa fixa de hipotecas de 30 anos dos EUA salta para o máximo de seis meses à medida que a guerra no Irã se...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rex-american-resources-q4-2025-eps-surges-93CH-4583033</guid>
       <pubDate>26/03/2026 12:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Descubra o calendário de recompensas do primeiro trimestre de 2026 – Ganhe 5% em dinheiro de volta em...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/credit-cards/article/discover-rewards-calendar-163005023.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/article/discover-rewards-calendar-163005023.html</guid>
-      <pubDate>26/03/2026 12:51</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-09/b37c9420-750f-11ef-96f5-b136f09b8878" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
