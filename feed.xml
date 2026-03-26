@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 20:19:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:19:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Barr do Fed: É preciso estar vigilante contra o aumento das expectativas de inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/feds-barr-need-to-be-vigilant-against-rise-in-inflation-expectations-4583996</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-barr-need-to-be-vigilant-against-rise-in-inflation-expectations-4583996</guid>
+      <pubDate>26/03/2026 20:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P1JM_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tribunal mantém prêmio FINRA de US$ 133 milhões contra Stifel</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/why-software-stocks-proved-resilient-on-a-dismal-day-for-tech-cbdc4bbb?mod=mw_rss_topstories</guid>
       <pubDate>26/03/2026 18:55</pubDate>
       <enclosure url="https://images.mktw.net/im-792278" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que as ações em borracha estão subindo apesar da perda de lucros</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/chewy-stock-chwy-q4-2025-earnings/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/chewy-stock-chwy-q4-2025-earnings/?src=A00220&yptr=yahoo</guid>
-      <pubDate>26/03/2026 18:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/b37b12a88299c10a9b5f222217bc9bf1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
