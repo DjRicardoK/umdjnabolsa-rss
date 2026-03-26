@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 10:48:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 10:59:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O ouro foi atacado. 3 razões pelas quais ele pode se recuperar.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/gold-has-been-pummeled-3-reasons-why-it-may-rebound-135130181.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/gold-has-been-pummeled-3-reasons-why-it-may-rebound-135130181.html</guid>
+      <pubDate>26/03/2026 10:59</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/5a136020-2914-11f1-bede-50018919e851" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE CEO da BlackRock alerta que petróleo a US$ 150 pode desencadear recessão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/analysis-iran-war-chokes-petrochemical-123058198.html</guid>
       <pubDate>26/03/2026 09:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/e50f9188fcab1297da47c13482c7bbc9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de tecnologia hoje: Meta, ações do Google pouco mudaram após o veredicto da mídia social, OpenAI fecha...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/live/tech-stocks-today-meta-google-stocks-little-changed-after-social-media-verdict-openai-shuts-down-sora-144220087.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/live/tech-stocks-today-meta-google-stocks-little-changed-after-social-media-verdict-openai-shuts-down-sora-144220087.html</guid>
-      <pubDate>26/03/2026 09:22</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/MgS6pHUO4SmSq_ukEjbuyQ--~B/aD03OTg7dz0xMjMyO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/2026-03/0f49dfc5-ef89-4471-ac95-5bae64971315" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
