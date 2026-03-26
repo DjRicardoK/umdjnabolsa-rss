@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 17:24:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 17:33:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A Netflix se afastou da Warner Bros. Isso foi uma jogada inteligente?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/netflix-walked-away-warner-bros-121300801.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netflix-walked-away-warner-bros-121300801.html</guid>
+      <pubDate>26/03/2026 17:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/3bb3f0e19fc7afce95e983a9609e2a5c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 Ações de crescimento superalimentadas caíram 83% e 92% em relação aos seus máximos históricos, que podem...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-artificial-intelligence-ai-stocks-083000263.html</guid>
       <pubDate>26/03/2026 15:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/642680c0717e496367ad6b339374f4fd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro sobe com recuo do petróleo na diplomacia do Oriente Médio</title>
-      <description></description>
-      <link>https://www.barrons.com/livecoverage/stock-market-news-today-032526/card/gold-climbs-as-oil-retreats-on-mideast-diplomacy-K5ACoiOllIBfRONDoxrl?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-032526/card/gold-climbs-as-oil-retreats-on-mideast-diplomacy-K5ACoiOllIBfRONDoxrl?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>26/03/2026 15:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
