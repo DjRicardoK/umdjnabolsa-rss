@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 14:22:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 14:22:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Quando as taxas de hipoteca cairão? Será necessária uma resolução para o Médio Oriente.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-march-26-2026-190610931.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-march-26-2026-190610931.html</guid>
+      <pubDate>26/03/2026 14:22</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-03/1f42f290-ff5c-11ef-bfbf-7d26008535ed" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Quão rico é Elon Musk sem Tesla (TSLA)?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-010-4583031</guid>
       <pubDate>26/03/2026 12:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB720F4_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Formulário 8K FEDERAL HOME LOAN BANK OF CHICAGO Para: 26 de março</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-chicago-for-26-march-93CH-4583032</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-chicago-for-26-march-93CH-4583032</guid>
-      <pubDate>26/03/2026 12:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
