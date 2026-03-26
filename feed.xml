@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:14:58 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 11:15:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE S&amp;P Global eleva previsão de inflação na Turquia para 28,9% sobre preços de energia</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/sp-global-raises-turkey-inflation-forecast-to-289-on-energy-prices-93CH-4582836</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/sp-global-raises-turkey-inflation-forecast-to-289-on-energy-prices-93CH-4582836</guid>
+      <pubDate>26/03/2026 11:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: BRP Inc. supera as expectativas do quarto trimestre de 2026 com...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/tech-stocks-today-meta-google-face-legal-reckoning-openai-narrows-its-focus-144220284.html</guid>
       <pubDate>26/03/2026 09:50</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/MgS6pHUO4SmSq_ukEjbuyQ--~B/aD03OTg7dz0xMjMyO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/2026-03/0f49dfc5-ef89-4471-ac95-5bae64971315" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla lança novo supercharger. A ação está revertendo uma seqüência de perdas.</title>
-      <description></description>
-      <link>https://www.investors.com/news/tesla-supercharger-elon-musk-spacex-x-electric-vehicles-evs-cars-autos/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/tesla-supercharger-elon-musk-spacex-x-electric-vehicles-evs-cars-autos/?src=A00220&yptr=yahoo</guid>
-      <pubDate>26/03/2026 09:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/52b91eab51db5721f40e131bb5c654d8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
