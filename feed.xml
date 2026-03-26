@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:28:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 11:33:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O Grupo Dixie vê margens melhores no quarto trimestre de 2025</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-the-dixie-group-sees-improved-margins-in-q4-2025-93CH-4582898</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-the-dixie-group-sees-improved-margins-in-q4-2025-93CH-4582898</guid>
+      <pubDate>26/03/2026 11:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da LogicMark, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/this-stocks-downgrade-shows-how-the-iran-war-will-hit-home-38f72db9?mod=mw_rss_topstories</guid>
       <pubDate>26/03/2026 10:14</pubDate>
       <enclosure url="https://images.mktw.net/im-38918748" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O dólar americano caiu 10% desde o início do segundo mandato de Trump – aqui está o que isso significa para o...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/u-dollar-down-10-since-130106412.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/u-dollar-down-10-since-130106412.html</guid>
-      <pubDate>26/03/2026 10:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/benzinga_79/6dde5471af65d9ebae287cfd758b2dbd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
