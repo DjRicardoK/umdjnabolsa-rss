@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:33:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 11:34:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Stran &amp; Co Q4 2025 mostra forte crescimento de receita</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-stran--co-q4-2025-shows-strong-revenue-growth-93CH-4582897</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-stran--co-q4-2025-shows-strong-revenue-growth-93CH-4582897</guid>
+      <pubDate>26/03/2026 11:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O Grupo Dixie vê margens melhores no quarto trimestre de 2025</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-enerpac-tool-groups-q2-2026-results-show-mixed-signals-93CH-4582636</guid>
       <pubDate>26/03/2026 10:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O rebaixamento desta ação mostra como a guerra do Irã atingirá o alvo</title>
-      <description>As ações da Scotts Miracle-Gro são rebaixadas pelo JP Morgan, citando o impacto do aumento dos custos das matérias-primas nos lucros futuros.</description>
-      <link>https://www.marketwatch.com/story/this-stocks-downgrade-shows-how-the-iran-war-will-hit-home-38f72db9?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/this-stocks-downgrade-shows-how-the-iran-war-will-hit-home-38f72db9?mod=mw_rss_topstories</guid>
-      <pubDate>26/03/2026 10:14</pubDate>
-      <enclosure url="https://images.mktw.net/im-38918748" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
