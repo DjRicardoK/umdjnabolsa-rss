@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:54:04 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 04:59:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Como a inflação dos combustíveis forçou uma redefinição na visão de Wall Street sobre a American Airlines...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/fuel-inflation-forced-reset-wall-195622156.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fuel-inflation-forced-reset-wall-195622156.html</guid>
+      <pubDate>27/03/2026 04:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/80a57afeadd128773a43d37f34652d03" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tesla (TSLA) acelera seu roteiro de direção autônoma integrando verticalmente sua produção de semicondutores</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sfl-corporation-ltd-sfl-among-184415691.html</guid>
       <pubDate>27/03/2026 03:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/526f61194a7af8782131e15778bacf1a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Acha que é tarde demais para comprar Nvidia? Aqui está o motivo de US$ 1 trilhão para que ainda haja tempo.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/think-too-buy-nvidia-heres-183900002.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/think-too-buy-nvidia-heres-183900002.html</guid>
-      <pubDate>27/03/2026 03:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/c40a0c0ae21ab598ac66f5a12b113cb0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
