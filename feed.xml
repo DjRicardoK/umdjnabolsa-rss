@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 12:57:01 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:07:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mesmo os americanos de rendimentos mais elevados estão a tornar-se pessimistas à medida que a guerra no Irão...</title>
+      <description>O sentimento é agora comparável a alguns dos seus valores mais baixos, como na sequência da paralisação do governo no outono passado, das tarifas do “dia da libertação” em abril...</description>
+      <link>https://www.marketwatch.com/story/consumer-sentiment-drops-sharply-in-late-march-as-war-with-iran-creates-more-financial-unease-763e37a0?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/consumer-sentiment-drops-sharply-in-late-march-as-war-with-iran-creates-more-financial-unease-763e37a0?mod=mw_rss_topstories</guid>
+      <pubDate>27/03/2026 13:07</pubDate>
+      <enclosure url="https://images.mktw.net/im-97221911" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Para onde foram todos os estoques de ouro? Eles retornarão?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lassonde-industries-q4-earnings-call-140759018.html</guid>
       <pubDate>27/03/2026 11:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/f85b3572eb2e10ba9eb188bdc3435914" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow cai 400 pontos com notícias da guerra EUA-Irã; Os preços do petróleo continuam a...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-oil-prices-rally/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-oil-prices-rally/?src=A00220&yptr=yahoo</guid>
-      <pubDate>27/03/2026 11:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/6681ba47464c8e51c9d4e56a07440051" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
