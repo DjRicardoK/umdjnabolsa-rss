@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 09:26:16 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 09:26:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da WidePoint Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/widepoint-corporation-q4-2025-earnings-002817494.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/widepoint-corporation-q4-2025-earnings-002817494.html</guid>
+      <pubDate>27/03/2026 09:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/7f9fd21ac69b53872ccbd5bb0795840f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do segundo trimestre de 2026 da Winnebago Industries, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-two-reasons-higher-oil-prices-may-not-trigger-the-inflationary-spike-that-investors-fear-a807991f?mod=mw_rss_topstories</guid>
       <pubDate>27/03/2026 07:49</pubDate>
       <enclosure url="https://images.mktw.net/im-76609434" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise-Guerra entre Hezbollah e Israel aprofunda fraturas no Líbano</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/analysiswar-between-hezbollah-and-israel-deepens-fractures-in-lebanon-4584531</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysiswar-between-hezbollah-and-israel-deepens-fractures-in-lebanon-4584531</guid>
-      <pubDate>27/03/2026 07:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q0J9_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
