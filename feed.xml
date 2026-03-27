@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:19:12 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 04:22:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do petróleo bruto caem com esperanças de que a diplomacia acabe com a guerra no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-slide-hopes-192214758.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-slide-hopes-192214758.html</guid>
+      <pubDate>27/03/2026 04:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Morgan Stanley descreve as 4 principais ações de construção japonesas antes dos lucros do ano fiscal</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-254-4584098</guid>
       <pubDate>27/03/2026 03:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8R190_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Krispy Kreme acelera plano de refranqueamento</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/krispy-kreme-accelerates-refranchising-plan-180801381.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/krispy-kreme-accelerates-refranchising-plan-180801381.html</guid>
-      <pubDate>27/03/2026 03:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/nation_s_restaurant_news_250/e3d5f3354442b3e6d7aabebb6ff348bf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
