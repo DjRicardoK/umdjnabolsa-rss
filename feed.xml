@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 03:41:19 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:44:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Aviso: investir em ações de tecnologia pode ser apenas um grande comércio superlotado</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warning-investing-tech-stocks-may-184606594.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warning-investing-tech-stocks-may-184606594.html</guid>
+      <pubDate>27/03/2026 03:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e7b6daf182580227223670156ef6ca32" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A SFL Corporation Ltd. (SFL) está entre os melhores estoques de remessa para comprar, de acordo com analistas?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/federal-reserve-posted-loss-of-18-7-billion-in-2025-c198b370?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>27/03/2026 01:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/ffc280218c9a1382a2474b6edbb9a5a3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nike ganhando força na América do Norte antes dos lucros do terceiro trimestre, diz Bank of America</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nike-gaining-traction-north-america-164200907.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nike-gaining-traction-north-america-164200907.html</guid>
-      <pubDate>27/03/2026 01:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/proactive_us_504/a9de9eac2145fd68567fd97586888257" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
