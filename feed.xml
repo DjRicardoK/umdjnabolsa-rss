@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:15:14 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:25:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon está entrando no mercado de robôs humanóides. 3 coisas importantes para saber sobre a aquisição da...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/amazon-entering-humanoid-robot-market-012315042.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazon-entering-humanoid-robot-market-012315042.html</guid>
+      <pubDate>27/03/2026 10:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/3b02e75fd0b508b615205a3ba45810ad" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ETFs do Golfo desafiam temores de guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/walmart-quietly-closes-amazon-biggest-000300082.html</guid>
       <pubDate>27/03/2026 09:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/2070ffbe4b2ee5373adc16e80170b6cb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Baird reitera avaliação das ações da Netflix sobre aumento de preços nos EUA</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/baird-reiterates-netflix-stock-rating-on-us-price-increase-93CH-4584787</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/baird-reiterates-netflix-stock-rating-on-us-price-increase-93CH-4584787</guid>
-      <pubDate>27/03/2026 08:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/netflix_M_1440050676.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
