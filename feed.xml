@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 23:33:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 23:36:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bolsas asiáticas ampliam derrota global; títulos martelados enquanto a guerra se arrasta</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/asian-stocks-extend-global-rout-bonds-hammered-as-war-drags-on-4584078</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/asian-stocks-extend-global-rout-bonds-hammered-as-war-drags-on-4584078</guid>
+      <pubDate>26/03/2026 23:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q047_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Micron cai conforme os ganhos do segundo trimestre e a compressão de IA colocam os estoques de memória no...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-barr-need-to-be-vigilant-against-rise-in-inflation-expectations-4583996</guid>
       <pubDate>26/03/2026 20:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P1JM_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tribunal mantém prêmio FINRA de US$ 133 milhões contra Stifel</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/court-upholds-133m-finra-award-155205829.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/court-upholds-133m-finra-award-155205829.html</guid>
-      <pubDate>26/03/2026 20:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wealth_management_474/1f3f6e59bbfbb09c23eeeb0d581a4342" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
