@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 07:02:01 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 07:19:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O bônus médio de Wall Street é três vezes a renda típica de uma família americana</title>
+      <description>Depois de um ano forte em Wall Street, alimentado pela turbulência do mercado devido às alterações tarifárias do Presidente Donald Trump, o bónus médio no ano passado foi três...</description>
+      <link>https://www.marketwatch.com/story/the-average-wall-street-bonus-is-three-times-the-typical-american-households-income-79933ce5?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-average-wall-street-bonus-is-three-times-the-typical-american-households-income-79933ce5?mod=mw_rss_topstories</guid>
+      <pubDate>27/03/2026 07:19</pubDate>
+      <enclosure url="https://images.mktw.net/im-41076802" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Por que os investidores deveriam colocar 10% do seu dinheiro em ouro, diz este estrategista</title>
       <description>A maioria das motivações para o ouro que impulsionaram o preço com tanta força no ano passado ainda são aplicáveis, segundo o estrategista Tom Bruce.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/energy-stocks-surge-oil-spike-193200151.html</guid>
       <pubDate>27/03/2026 04:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/0c61b243091199b7c7a018addd717adf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Petróleo cai enquanto EUA fazem proposta para acabar com conflito</title>
-      <description></description>
-      <link>https://www.wsj.com/finance/stocks/oil-falls-on-signs-of-progress-in-resolution-to-middle-east-conflict-9a2b85b8?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/finance/stocks/oil-falls-on-signs-of-progress-in-resolution-to-middle-east-conflict-9a2b85b8?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>27/03/2026 04:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
