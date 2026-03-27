@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:25:14 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:25:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Estes três setores de crescimento estão a ajudar as pessoas a prosperar – e os investidores a longo prazo...</title>
+      <description>Líderes de mercado como Amazon e Humana estão apostando no negócio de altas margens de desbloquear o potencial das pessoas como o investimento final</description>
+      <link>https://www.marketwatch.com/story/these-3-growth-sectors-are-helping-people-flourish-and-long-term-investors-are-buying-in-9951644f?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/these-3-growth-sectors-are-helping-people-flourish-and-long-term-investors-are-buying-in-9951644f?mod=mw_rss_topstories</guid>
+      <pubDate>27/03/2026 10:25</pubDate>
+      <enclosure url="https://images.mktw.net/im-286238" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Hyundai Motor pretende dobrar as vendas na China e lançar 36 novos modelos na América do Norte</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cintas-corporation-q3-2026-earnings-001458538.html</guid>
       <pubDate>27/03/2026 09:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/5acf28697e9f504be56e0b9a026e8314" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do terceiro trimestre de 2026 da MillerKnoll, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/millerknoll-inc-q3-2026-earnings-001331727.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/millerknoll-inc-q3-2026-earnings-001331727.html</guid>
-      <pubDate>27/03/2026 09:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/e2137ad488821a8c79817e13f307353e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
