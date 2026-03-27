@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:49:03 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:56:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Autoridade do Fed emite alerta severo sobre inflação e perspectiva de corte de taxas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/fed-official-issues-stark-warning-015251099.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-official-issues-stark-warning-015251099.html</guid>
+      <pubDate>27/03/2026 10:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/7649be96dfdffd000577df9772e73609" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Startup apoiada pela Nvidia busca combater a avaliação de US$ 25 bilhões da IA ​​chinesa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/precigen-inc-q4-2025-earnings-002127876.html</guid>
       <pubDate>27/03/2026 09:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/23ae03a5289ec3cebad7dca3c4468458" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2026 da Chewy, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/chewy-inc-q4-2026-earnings-002057357.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chewy-inc-q4-2026-earnings-002057357.html</guid>
-      <pubDate>27/03/2026 09:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/ff2f6671db1d508dcda9ab6dee21fcba" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
