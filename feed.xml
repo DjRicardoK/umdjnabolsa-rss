@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 05:48:57 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 06:15:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Citizens reitera classificação das ações do Shopify sobre o impulso empresarial</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-shopify-stock-rating-on-enterprise-momentum-93CH-4584322</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-shopify-stock-rating-on-enterprise-momentum-93CH-4584322</guid>
+      <pubDate>27/03/2026 06:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8K0RO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A parceria de software da VW com Rivian elimina obstáculos de investimento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-micron-one-best-performing-190600538.html</guid>
       <pubDate>27/03/2026 04:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/2acc30b4df4bc41dbd2a1dba89416bfe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que a Hewlett Packard Enterprise (HPE) é uma das melhores ações subvalorizadas abaixo de US$ 50 para...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-hewlett-packard-enterprise-hpe-190511405.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-hewlett-packard-enterprise-hpe-190511405.html</guid>
-      <pubDate>27/03/2026 04:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d484a78e3ad48902877643aa5f91646a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
