@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:59:41 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 05:04:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações fecham em alta com pressão dos EUA para acabar com a guerra no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-us-push-203541408.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-us-push-203541408.html</guid>
+      <pubDate>27/03/2026 05:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/cdd84af6863bf5f4c7124b79dd8fee04" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que os custos mais altos do combustível de aviação estão atrapalhando as perspectivas de ganhos de curto...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/t-inc-t-leads-industry-185354229.html</guid>
       <pubDate>27/03/2026 03:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/72ed4873066dd062a3b9d5454aba7f6c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Aviso: investir em ações de tecnologia pode ser apenas um grande comércio superlotado</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warning-investing-tech-stocks-may-184606594.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warning-investing-tech-stocks-may-184606594.html</guid>
-      <pubDate>27/03/2026 03:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e7b6daf182580227223670156ef6ca32" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
