@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 14:46:41 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 14:46:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As empresas de serviços de análise sentem o aperto à medida que a recuperação do petróleo da guerra com o Irã...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/analysisservices-firms-feel-the-squeeze-as-oil-rally-from-iran-war-fails-to-spur-drilling-4585682</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysisservices-firms-feel-the-squeeze-as-oil-rally-from-iran-war-fails-to-spur-drilling-4585682</guid>
+      <pubDate>27/03/2026 14:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q142_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BCE não deveria ter pressa em aumentar taxas, diz Schnabel</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/the-market-is-starting-to-think-the-federal-reserves-next-move-is-raising-interest-rates-154704986.html</guid>
       <pubDate>27/03/2026 12:56</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/828d6370-29f0-11f1-b7fd-338fbf97993d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jefferies reitera compra de ações da Altimmune e mantém meta de US$ 28</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/jefferies-reiterates-buy-on-altimmune-stock-keeps-28-target-93CH-4585526</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-buy-on-altimmune-stock-keeps-28-target-93CH-4585526</guid>
-      <pubDate>27/03/2026 12:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
