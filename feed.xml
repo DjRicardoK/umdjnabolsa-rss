@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:32:58 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 04:34:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os estoques de energia aumentam com o aumento do petróleo: comprar, reter ou obter lucros?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/energy-stocks-surge-oil-spike-193200151.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/energy-stocks-surge-oil-spike-193200151.html</guid>
+      <pubDate>27/03/2026 04:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/0c61b243091199b7c7a018addd717adf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Petróleo cai enquanto EUA fazem proposta para acabar com conflito</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-card-review-174306239.html</guid>
       <pubDate>27/03/2026 03:18</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d10ca0-1402-11f1-abbf-d763dfa407df" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Melhores cartões de crédito para compras na Amazon em março de 2026: Aumente suas compras na Amazon com...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html</guid>
-      <pubDate>27/03/2026 03:09</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-09/65e7aee0-84ee-11ef-b937-da2a2d7e81df" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
