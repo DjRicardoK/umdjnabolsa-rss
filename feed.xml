@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 14:38:40 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 14:43:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Nem todo mundo fica feliz em ver filas mais curtas nos aeroportos, pois esses estoques estão caindo</title>
+      <description>As ações anteriormente aquecidas da Clear Secure e das locadoras de veículos estavam caindo na sexta-feira, à medida que as esperas de pesadelo nos aeroportos pareciam prestes a...</description>
+      <link>https://www.marketwatch.com/story/not-everyones-happy-to-see-shorter-lines-at-airports-as-these-stocks-are-dropping-aba7f08a?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/not-everyones-happy-to-see-shorter-lines-at-airports-as-these-stocks-are-dropping-aba7f08a?mod=mw_rss_topstories</guid>
+      <pubDate>27/03/2026 14:43</pubDate>
+      <enclosure url="https://images.mktw.net/im-01366058" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As taxas de hipoteca cairão para 3% novamente?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-cabaletta-bio-stock-rating-on-product-profile-93CH-4585525</guid>
       <pubDate>27/03/2026 12:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Se eu tivesse US$ 10.000 para investir em inteligência artificial (IA) agora mesmo, dividiria entre essas...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/had-10-000-invest-artificial-153200591.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/had-10-000-invest-artificial-153200591.html</guid>
-      <pubDate>27/03/2026 12:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/5aa73e8a92b347b1f83f7c24a8de5a56" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
