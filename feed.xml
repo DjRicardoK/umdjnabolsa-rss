@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 09:26:22 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 09:46:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Oppenheimer mantém classificação das ações da Nike antes dos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/oppenheimer-maintains-nike-stock-rating-ahead-of-earnings-93CH-4584994</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/oppenheimer-maintains-nike-stock-rating-ahead-of-earnings-93CH-4584994</guid>
+      <pubDate>27/03/2026 09:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5P106_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da WidePoint Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/humacyte-misses-revenue-target-despite-inline-earnings-93CH-4584672</guid>
       <pubDate>27/03/2026 08:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As duas razões pelas quais os preços mais elevados do petróleo podem não desencadear o pico inflacionário que...</title>
-      <description>A economia está mais preparada para absorver custos de energia mais elevados, diz Jim Paulsen.</description>
-      <link>https://www.marketwatch.com/story/the-two-reasons-higher-oil-prices-may-not-trigger-the-inflationary-spike-that-investors-fear-a807991f?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-two-reasons-higher-oil-prices-may-not-trigger-the-inflationary-spike-that-investors-fear-a807991f?mod=mw_rss_topstories</guid>
-      <pubDate>27/03/2026 07:49</pubDate>
-      <enclosure url="https://images.mktw.net/im-76609434" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
