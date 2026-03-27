@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 09:14:18 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 09:19:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A onda recorde de dívidas das economias emergentes cai para um congelamento enquanto a guerra no Irão abala...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/emerging-economies-record-debt-spree-slumps-into-a-freeze-as-iran-war-rocks-markets-4584902</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/emerging-economies-record-debt-spree-slumps-into-a-freeze-as-iran-war-rocks-markets-4584902</guid>
+      <pubDate>27/03/2026 09:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q0P9_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cognyte Software Ltd. Resumo da teleconferência de ganhos do quarto trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-subdued-after-trump-extends-deadline-for-iran-power-plant-attacks-4584253</guid>
       <pubDate>27/03/2026 06:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE610B5_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Há um caminho claro para as ações dos EUA subirem no próximo mês após a desalavancagem institucional, dizem...</title>
-      <description>Há um caminho limpo para as ações dos EUA avançarem no próximo mês, após uma enorme desalavancagem institucional, de acordo com um relatório da equipe da mesa de operações do...</description>
-      <link>https://www.marketwatch.com/story/theres-a-clear-path-for-u-s-stocks-to-rise-next-month-after-institutional-deleveraging-say-goldman-analysts-699ba534?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/theres-a-clear-path-for-u-s-stocks-to-rise-next-month-after-institutional-deleveraging-say-goldman-analysts-699ba534?mod=mw_rss_topstories</guid>
-      <pubDate>27/03/2026 06:29</pubDate>
-      <enclosure url="https://images.mktw.net/im-03233533" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
