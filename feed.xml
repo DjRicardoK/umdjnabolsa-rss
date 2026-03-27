@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 08:55:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 08:55:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Baird reitera avaliação das ações da Netflix sobre aumento de preços nos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/baird-reiterates-netflix-stock-rating-on-us-price-increase-93CH-4584787</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/baird-reiterates-netflix-stock-rating-on-us-price-increase-93CH-4584787</guid>
+      <pubDate>27/03/2026 08:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/netflix_M_1440050676.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Stifel reitera classificação de compra de ações da IDEX, preço-alvo de US$ 244</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-should-not-rush-to-hike-rates-as-baseline-still-holds-patsalides-says-4584219</guid>
       <pubDate>27/03/2026 05:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q0E7_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações fecham em alta com pressão dos EUA para acabar com a guerra no Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-us-push-203541408.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-us-push-203541408.html</guid>
-      <pubDate>27/03/2026 05:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/cdd84af6863bf5f4c7124b79dd8fee04" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
