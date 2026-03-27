@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:44:08 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 04:54:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os rendimentos do Tesouro caem à medida que os mercados observam os desenvolvimentos no Irã</title>
+      <description></description>
+      <link>https://www.wsj.com/finance/investing/jgb-futures-rise-on-hopes-of-resolution-to-middle-east-conflict-8e2db433?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.wsj.com/finance/investing/jgb-futures-rise-on-hopes-of-resolution-to-middle-east-conflict-8e2db433?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>27/03/2026 04:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Prêmio de Danos Punitivos no valor de US$ 950 milhões anulado contra a Johnson &amp; Johnson (JNJ), US$ 16...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/western-alliance-wal-one-best-183408337.html</guid>
       <pubDate>27/03/2026 03:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c2eba72b49626659bef3efefe8ab3148" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE OpenAI lista a dependência da Microsoft como um ‘risco’. MSFT talvez devesse dizer o mesmo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/openai-lists-dependence-microsoft-risk-182518083.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/openai-lists-dependence-microsoft-risk-182518083.html</guid>
-      <pubDate>27/03/2026 03:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b631a54593e7893faf796763c784e6be" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
