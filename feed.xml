@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 15:06:47 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 15:06:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos da KeyCorp: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/keycorp-earnings-preview-expect-084229883.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/keycorp-earnings-preview-expect-084229883.html</guid>
+      <pubDate>27/03/2026 15:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a292d07c8b3beaa1f2268b0ef9e4184e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos do Huntington Bancshares</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-sap-stock-after-reltio-acquisition-93CH-4585588</guid>
       <pubDate>27/03/2026 13:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O lançamento do modelo Claude Mythos da Anthropic pressiona ações de segurança cibernética, comenta Evercore</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/anthropics-claude-mythos-model-release-pressures-cybersecurity-stocks-evercore-comments-93CH-4585589</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/anthropics-claude-mythos-model-release-pressures-cybersecurity-stocks-evercore-comments-93CH-4585589</guid>
-      <pubDate>27/03/2026 13:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
