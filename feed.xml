@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 11:18:44 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 11:19:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pais com empréstimos estudantis podem entrar em inadimplência se não tomarem medidas logo</title>
+      <description>‘O tempo está se esgotando’: Durante anos, os pais lutaram sob o peso dos empréstimos que contraíram para ajudar os filhos a pagar a faculdade. Está prestes a piorar, alertam os...</description>
+      <link>https://www.marketwatch.com/story/parents-with-student-loans-could-fall-into-default-if-they-dont-take-steps-soon-67e381ab?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/parents-with-student-loans-could-fall-into-default-if-they-dont-take-steps-soon-67e381ab?mod=mw_rss_topstories</guid>
+      <pubDate>27/03/2026 11:19</pubDate>
+      <enclosure url="https://images.mktw.net/im-18420709" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE BTIG aumenta o preço-alvo das ações da Legence para US$ 75 com fortes ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/brookings-institution-paper-charts-path-010327164.html</guid>
       <pubDate>27/03/2026 10:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/e1423abc34afc3d2db2ec8a992c70541" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer redefine perspectiva das ações da Nio após lucros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-resets-nio-stock-010300509.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-resets-nio-stock-010300509.html</guid>
-      <pubDate>27/03/2026 10:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/3850f489b72066f5ac9e378252808a5e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
