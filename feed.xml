@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 21:30:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 21:50:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE SLB expande parceria com Nvidia para desenvolver infraestrutura de IA para o setor de energia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/slb-expands-nvidia-partnership-develop-125705214.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/slb-expands-nvidia-partnership-develop-125705214.html</guid>
+      <pubDate>26/03/2026 21:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/78a47e0856380bea44d682d0e61a57e9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da MaxCyte, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-miran-lays-out-path-to-shrink-central-bank-balance-sheet-further-4583945</guid>
       <pubDate>26/03/2026 19:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P1HS_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que Core Scientific (CORZ) é uma das melhores ações de compra forte para investir abaixo de US$ 20</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-core-scientific-corz-one-145212285.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-core-scientific-corz-one-145212285.html</guid>
-      <pubDate>26/03/2026 19:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/994ae5a667a69b97d4c07fdbe683a779" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
