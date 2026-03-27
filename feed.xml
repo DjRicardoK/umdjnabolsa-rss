@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 05:04:33 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 05:07:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O BCE não deve se apressar em aumentar as taxas, já que a linha de base ainda se mantém, diz Patsalides</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ecb-should-not-rush-to-hike-rates-as-baseline-still-holds-patsalides-says-4584219</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-should-not-rush-to-hike-rates-as-baseline-still-holds-patsalides-says-4584219</guid>
+      <pubDate>27/03/2026 05:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q0E7_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações fecham em alta com pressão dos EUA para acabar com a guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-pypl-announces-launch-185257322.html</guid>
       <pubDate>27/03/2026 03:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/46983350c422d6aa98ee179d8be31e0f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (T) lidera colaboração da indústria com NVIDIA e Cisco</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/t-inc-t-leads-industry-185354229.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/t-inc-t-leads-industry-185354229.html</guid>
-      <pubDate>27/03/2026 03:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/72ed4873066dd062a3b9d5454aba7f6c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
