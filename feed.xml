@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:07:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 04:13:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As taxas de hipoteca aumentam à medida que o conflito no Irã continua</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/mortgage-rates-spike-iran-conflict-191500136.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/mortgage-rates-spike-iran-conflict-191500136.html</guid>
+      <pubDate>27/03/2026 04:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bankrate_626/e4113a09739b72ee1a44eb5cb52dd970" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Previsão: Micron será uma das ações com melhor desempenho de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/review/aarp-travel-rewards-mastercard-191437742.html</guid>
       <pubDate>27/03/2026 02:59</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-11/b4869fc0-c188-11f0-bf5b-efe9bb5b13ee" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Austrália caem no fechamento do pregão; S&amp;P/ASX 200 caiu 0,11%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-011-4584096</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-011-4584096</guid>
-      <pubDate>27/03/2026 02:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECB61PM_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
