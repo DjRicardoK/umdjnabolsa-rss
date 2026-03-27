@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 13:47:23 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:50:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon.com (AMZN) teve desempenho inferior apesar do forte posicionamento em IA e nuvem</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-underperformed-despite-163704097.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-underperformed-despite-163704097.html</guid>
+      <pubDate>27/03/2026 13:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/145d57e1f9087f4ed6866a1a76dd96f0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Delek US Energy atingem alta de 52 semanas a 46,99 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/2-gold-mining-stocks-poised-141746089.html</guid>
       <pubDate>27/03/2026 11:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/e23affca0ab8c512e25d0e980d6122ea" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Nike lutam fortemente enquanto Wall Street olha para os ganhos e o progresso da China</title>
-      <description></description>
-      <link>https://www.investors.com/research/earnings-preview/nike-stock-nke-wall-street-eyes-earnings-china-turnaround/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/earnings-preview/nike-stock-nke-wall-street-eyes-earnings-china-turnaround/?src=A00220&yptr=yahoo</guid>
-      <pubDate>27/03/2026 11:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/6ea44f94ba4432bfad22e46805ef40eb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
