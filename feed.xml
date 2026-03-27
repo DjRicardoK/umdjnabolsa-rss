@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:33:19 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:42:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Vornado Realty Trust atingem o mínimo de 52 semanas a 25,28 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/vornado-realty-trust-stock-hits-52week-low-at-2528-usd-93CH-4585211</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/vornado-realty-trust-stock-hits-52week-low-at-2528-usd-93CH-4585211</guid>
+      <pubDate>27/03/2026 10:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui estão 7 maneiras pelas quais o fechamento do Estreito de Ormuz está afetando os estoques de produtos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/emerging-economies-record-debt-spree-slumps-into-a-freeze-as-iran-war-rocks-markets-4584902</guid>
       <pubDate>27/03/2026 09:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q0P9_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Cognyte Software Ltd. Resumo da teleconferência de ganhos do quarto trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/cognyte-software-ltd-q4-2026-002038640.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cognyte-software-ltd-q4-2026-002038640.html</guid>
-      <pubDate>27/03/2026 09:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/ad5667cc73b2704328a4b98ef7d47dfa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
