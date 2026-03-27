@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 09:48:08 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 09:55:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Firefly Aerospace (FLY) dispara 16% mais alto na recuperação dos estoques espaciais</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-rockets-16-005501838.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-rockets-16-005501838.html</guid>
+      <pubDate>27/03/2026 09:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/85e7858157fa42fca893727e0d1c6349" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Demissões de Fortnite: Epic Games corta 1.000 empregos à medida que o engajamento cai</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/5-no-brainer-dividend-stocks-232500998.html</guid>
       <pubDate>27/03/2026 08:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/f7432526f1981622df7931265ad93886" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos da Humacyte foram iguais, a receita ficou aquém das estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/humacyte-earnings-matched-revenue-fell-short-of-estimates-4584669</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/humacyte-earnings-matched-revenue-fell-short-of-estimates-4584669</guid>
-      <pubDate>27/03/2026 08:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
