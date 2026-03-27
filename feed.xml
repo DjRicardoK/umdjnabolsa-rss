@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:42:57 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:43:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da EQT atingem o máximo histórico de 68,04 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/eqt-stock-hits-alltime-high-of-6804-usd-93CH-4585209</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/eqt-stock-hits-alltime-high-of-6804-usd-93CH-4585209</guid>
+      <pubDate>27/03/2026 10:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Petróleo sobe mais de 2,5%, mas deve registar a primeira queda semanal desde o início da guerra no Irão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/super-league-enterpris-earnings-missed-by-914-revenue-fell-short-of-estimates-4584899</guid>
       <pubDate>27/03/2026 09:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ultimate Products apresenta estabilidade no primeiro trimestre...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ultimate-products-sees-stable-q1-2026-despite-revenue-miss-93CH-4584900</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ultimate-products-sees-stable-q1-2026-despite-revenue-miss-93CH-4584900</guid>
-      <pubDate>27/03/2026 09:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
