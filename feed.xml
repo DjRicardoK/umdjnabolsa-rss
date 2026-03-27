@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 12:39:42 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 12:43:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jefferies reitera classificação de ações da Cabaletta Bio no perfil do produto</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/jefferies-reiterates-cabaletta-bio-stock-rating-on-product-profile-93CH-4585525</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-cabaletta-bio-stock-rating-on-product-profile-93CH-4585525</guid>
+      <pubDate>27/03/2026 12:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Se eu tivesse US$ 10.000 para investir em inteligência artificial (IA) agora mesmo, dividiria entre essas...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/tech/ai/nvidia-backed-startup-seeking-to-counter-chinese-ai-eyes-25-billion-valuation-3bd8216c?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>27/03/2026 10:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/e3339ebe1efc636bf6a3bd48f13f0f26" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da EQT atingem o máximo histórico de 68,04 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/eqt-stock-hits-alltime-high-of-6804-usd-93CH-4585209</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/eqt-stock-hits-alltime-high-of-6804-usd-93CH-4585209</guid>
-      <pubDate>27/03/2026 10:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
