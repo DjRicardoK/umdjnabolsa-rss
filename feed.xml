@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 14:01:11 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 14:02:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Como varejistas como a TJX podem realmente se beneficiar com custos mais elevados de combustível e atrasos no...</title>
+      <description>As perturbações causadas pela guerra no Irão podem aumentar os stocks indesejados entre os retalhistas com preços completos, e as cadeias de preços baixos podem comprá-los a...</description>
+      <link>https://www.marketwatch.com/story/how-retailers-like-tjx-can-actually-benefit-from-higher-fuel-costs-and-shipping-delays-5977337e?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/how-retailers-like-tjx-can-actually-benefit-from-higher-fuel-costs-and-shipping-delays-5977337e?mod=mw_rss_topstories</guid>
+      <pubDate>27/03/2026 14:02</pubDate>
+      <enclosure url="https://images.mktw.net/im-79015018" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do quarto trimestre de 2025 da Legence Corp.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/israels-stock-market-which-rose-at-the-outset-of-war-with-iran-has-lost-those-gains-8bb288b1?mod=mw_rss_topstories</guid>
       <pubDate>27/03/2026 11:52</pubDate>
       <enclosure url="https://images.mktw.net/im-08883653" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla não lançará novo modelo 3 na China; Ações devolvem ganhos semanais</title>
-      <description></description>
-      <link>https://www.investors.com/news/tesla-model-3-china-auto-sales-elon-musk-cars-electric-vehicles-evs/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/tesla-model-3-china-auto-sales-elon-musk-cars-electric-vehicles-evs/?src=A00220&yptr=yahoo</guid>
-      <pubDate>27/03/2026 11:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/ac049658febdec20ffded13965a10d9f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
