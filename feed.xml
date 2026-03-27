@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 11:18:38 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 11:18:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE BTIG aumenta o preço-alvo das ações da Legence para US$ 75 com fortes ganhos</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/btig-raises-legence-stock-price-target-to-75-on-strong-earnings-93CH-4585364</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/btig-raises-legence-stock-price-target-to-75-on-strong-earnings-93CH-4585364</guid>
+      <pubDate>27/03/2026 11:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Melhores ações de computação: o Barclays vê esses nomes como peças-chave da infraestrutura de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-resets-nio-stock-010300509.html</guid>
       <pubDate>27/03/2026 10:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/3850f489b72066f5ac9e378252808a5e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Firefly Aerospace (FLY) dispara 16% mais alto na recuperação dos estoques espaciais</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-rockets-16-005501838.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-rockets-16-005501838.html</guid>
-      <pubDate>27/03/2026 09:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/85e7858157fa42fca893727e0d1c6349" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
