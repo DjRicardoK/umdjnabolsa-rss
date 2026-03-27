@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 03:09:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:18:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise do cartão autógrafo do Wells Fargo: sem frescuras e altas recompensas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-card-review-174306239.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/review/wells-fargo-autograph-card-review-174306239.html</guid>
+      <pubDate>27/03/2026 03:18</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d10ca0-1402-11f1-abbf-d763dfa407df" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores cartões de crédito para compras na Amazon em março de 2026: Aumente suas compras na Amazon com...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-citic-securities-q4-2026-reveals-robust-risk-management-93CH-4584080</guid>
       <pubDate>27/03/2026 00:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços do ouro sobem à medida que Trump sinaliza progresso nas negociações com o Irã; definido para perda...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-rise-as-trump-signals-progress-in-iran-talks-set-for-weekly-loss-4584081</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-rise-as-trump-signals-progress-in-iran-talks-set-for-weekly-loss-4584081</guid>
-      <pubDate>27/03/2026 00:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/gold_3_M_1440048042.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
