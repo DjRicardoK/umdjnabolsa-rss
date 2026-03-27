@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 03:03:05 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:07:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 2,54%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-254-4584098</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-254-4584098</guid>
+      <pubDate>27/03/2026 03:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8R190_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Krispy Kreme acelera plano de refranqueamento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/video/phunware-reports-q4-growth-expands-150242646.html</guid>
       <pubDate>27/03/2026 00:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/proactive_video_751/578b0d9d743ed2146f3fb055d935a382" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China detém navios com bandeira do Panamá em meio a batalha pelo controle portuário, diz FMC</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/china-detaining-panamaflagged-ships-amid-battle-over-port-control-fmc-says-4584077</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-detaining-panamaflagged-ships-amid-battle-over-port-control-fmc-says-4584077</guid>
-      <pubDate>26/03/2026 23:36</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q048_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
