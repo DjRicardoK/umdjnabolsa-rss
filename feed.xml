@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 11:16:20 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 11:18:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Melhores ações de computação: o Barclays vê esses nomes como peças-chave da infraestrutura de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/best--compute-stocks-barclays-sees-these-names-as-key-ai-infrastructure-plays-93CH-4585367</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/best--compute-stocks-barclays-sees-these-names-as-key-ai-infrastructure-plays-93CH-4585367</guid>
+      <pubDate>27/03/2026 11:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do quarto trimestre da Lassonde Industries</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-rockets-16-005501838.html</guid>
       <pubDate>27/03/2026 09:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/85e7858157fa42fca893727e0d1c6349" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Demissões de Fortnite: Epic Games corta 1.000 empregos à medida que o engajamento cai</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/fortnite-layoffs-epic-games-cuts-003700434.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/fortnite-layoffs-epic-games-cuts-003700434.html</guid>
-      <pubDate>27/03/2026 09:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/dd81bced8ab8dbe7aedd32f9fc268e4b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
