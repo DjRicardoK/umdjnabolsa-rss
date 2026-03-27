@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:02:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 04:07:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Previsão: Micron será uma das ações com melhor desempenho de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/prediction-micron-one-best-performing-190600538.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-micron-one-best-performing-190600538.html</guid>
+      <pubDate>27/03/2026 04:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/2acc30b4df4bc41dbd2a1dba89416bfe" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que a Hewlett Packard Enterprise (HPE) é uma das melhores ações subvalorizadas abaixo de US$ 50 para...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-011-4584096</guid>
       <pubDate>27/03/2026 02:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECB61PM_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Warren Buffett exorta os investidores a permanecerem no mercado: ‘Eu ainda estaria comprando ações mesmo se...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-urges-investors-stay-174652077.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-urges-investors-stay-174652077.html</guid>
-      <pubDate>27/03/2026 02:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ae1daee4b229dd73761e4ff6fce2219d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
