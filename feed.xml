@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:57:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:57:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Autolus Therapeutics Q4 2025 perde as previsões</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-autolus-therapeutics-q4-2025-misses-forecasts-93CH-4585260</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-autolus-therapeutics-q4-2025-misses-forecasts-93CH-4585260</guid>
+      <pubDate>27/03/2026 10:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Lineage Inc atingem baixa de 52 semanas a 32,41 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/widepoint-corporation-q4-2025-earnings-002817494.html</guid>
       <pubDate>27/03/2026 09:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/7f9fd21ac69b53872ccbd5bb0795840f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do segundo trimestre de 2026 da Winnebago Industries, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/winnebago-industries-inc-q2-2026-002608248.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/winnebago-industries-inc-q2-2026-002608248.html</guid>
-      <pubDate>27/03/2026 09:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/842e3a8a7a1f957c66172bf7966078ea" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
