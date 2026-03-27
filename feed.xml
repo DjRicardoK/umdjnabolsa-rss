@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 14:58:23 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 15:06:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Amazon x ações da Palantir: um analista de Wall Street diz para comprar uma e vender a outra</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-stock-vs-palantir-stock-080800377.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-stock-vs-palantir-stock-080800377.html</guid>
+      <pubDate>27/03/2026 15:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/bfbccc63cea40937ec687b1f438fac31" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump está perdendo o controle do mercado? As quedas sustentadas das ações sugerem que a influência do...</title>
       <description>A vontade do Presidente Trump de desescalar o conflito no Irão impediu que as acções sofressem perdas ainda maiores em Março – mas estará ele a perder o controlo sobre os mercados?</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/consumer-sentiment-drops-sharply-in-late-march-as-war-with-iran-creates-more-financial-unease-763e37a0?mod=mw_rss_topstories</guid>
       <pubDate>27/03/2026 13:07</pubDate>
       <enclosure url="https://images.mktw.net/im-97221911" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Para onde foram todos os estoques de ouro? Eles retornarão?</title>
-      <description></description>
-      <link>https://www.investors.com/stock-lists/ibd-50/gold-prices-stock-precious-metals-mining/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/stock-lists/ibd-50/gold-prices-stock-precious-metals-mining/?src=A00220&yptr=yahoo</guid>
-      <pubDate>27/03/2026 12:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/d5b7849634ee01255c66133a313ecafb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
