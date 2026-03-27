@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 06:29:03 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 06:39:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações europeias caem enquanto o nervosismo da guerra no Irã persiste, apesar da extensão de Trump</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-stocks-subdued-after-trump-extends-deadline-for-iran-power-plant-attacks-4584253</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-subdued-after-trump-extends-deadline-for-iran-power-plant-attacks-4584253</guid>
+      <pubDate>27/03/2026 06:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE610B5_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Há um caminho claro para as ações dos EUA subirem no próximo mês após a desalavancagem institucional, dizem...</title>
       <description>Há um caminho limpo para as ações dos EUA avançarem no próximo mês, após uma enorme desalavancagem institucional, de acordo com um relatório da equipe da mesa de operações do...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morgan-stanley-outlines-top-4-japanese-construction-stocks-ahead-of-fy-earnings-93CH-4584163</guid>
       <pubDate>27/03/2026 04:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As taxas de hipoteca aumentam à medida que o conflito no Irã continua</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/mortgage-rates-spike-iran-conflict-191500136.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/mortgage-rates-spike-iran-conflict-191500136.html</guid>
-      <pubDate>27/03/2026 04:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bankrate_626/e4113a09739b72ee1a44eb5cb52dd970" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
