@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 13:12:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:47:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O lançamento do modelo Claude Mythos da Anthropic pressiona ações de segurança cibernética, comenta Evercore</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/anthropics-claude-mythos-model-release-pressures-cybersecurity-stocks-evercore-comments-93CH-4585589</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/anthropics-claude-mythos-model-release-pressures-cybersecurity-stocks-evercore-comments-93CH-4585589</guid>
+      <pubDate>27/03/2026 13:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Oracle Corporation (ORCL) caiu em meio à volatilidade em ações relacionadas à IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/btig-raises-legence-stock-price-target-to-75-on-strong-earnings-93CH-4585364</guid>
       <pubDate>27/03/2026 11:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Melhores ações de computação: o Barclays vê esses nomes como peças-chave da infraestrutura de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/best--compute-stocks-barclays-sees-these-names-as-key-ai-infrastructure-plays-93CH-4585367</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/best--compute-stocks-barclays-sees-these-names-as-key-ai-infrastructure-plays-93CH-4585367</guid>
-      <pubDate>27/03/2026 11:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
