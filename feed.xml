@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 04:22:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 04:32:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Petróleo cai enquanto EUA fazem proposta para acabar com conflito</title>
+      <description></description>
+      <link>https://www.wsj.com/finance/stocks/oil-falls-on-signs-of-progress-in-resolution-to-middle-east-conflict-9a2b85b8?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.wsj.com/finance/stocks/oil-falls-on-signs-of-progress-in-resolution-to-middle-east-conflict-9a2b85b8?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>27/03/2026 04:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE À medida que o choque do petróleo aumenta os estoques de energia, compre estes 3 agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/article/best-credit-cards-shopping-on-amazon-212142241.html</guid>
       <pubDate>27/03/2026 03:09</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-09/65e7aee0-84ee-11ef-b937-da2a2d7e81df" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Depois de um aumento de 19%, o estoque da ARM tem mais espaço para funcionar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/19-move-upward-does-arm-181308321.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/19-move-upward-does-arm-181308321.html</guid>
-      <pubDate>27/03/2026 03:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b3c3513950ae550c77ed9af92c4858ac" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
