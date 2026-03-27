@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:32:09 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:33:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui estão 7 maneiras pelas quais o fechamento do Estreito de Ormuz está afetando os estoques de produtos...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/7-ways-strait-hormuz-closure-013000777.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/7-ways-strait-hormuz-closure-013000777.html</guid>
+      <pubDate>27/03/2026 10:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/73b5f8a9c326e1983a92d0d79c2931d0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Conflito no Oriente Médio impulsiona negociações recordes na ICE, controladora da NYSE</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cognyte-software-ltd-q4-2026-002038640.html</guid>
       <pubDate>27/03/2026 09:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/ad5667cc73b2704328a4b98ef7d47dfa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Essas 16 ações são o sonho de qualquer vendedor a descoberto – prováveis ​​perdedores, não importa o que o...</title>
-      <description>Os custos dos empréstimos corroem os lucros comerciais. Essas ações são mais baratas para vender.</description>
-      <link>https://www.marketwatch.com/story/these-16-stocks-are-a-short-sellers-dream-likely-losers-no-matter-what-the-market-does-feead011?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/these-16-stocks-are-a-short-sellers-dream-likely-losers-no-matter-what-the-market-does-feead011?mod=mw_rss_topstories</guid>
-      <pubDate>27/03/2026 09:07</pubDate>
-      <enclosure url="https://images.mktw.net/im-50409066" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
