@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 08:55:33 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 09:05:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Walmart se aproxima silenciosamente da maior vantagem da Amazon</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/walmart-quietly-closes-amazon-biggest-000300082.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/walmart-quietly-closes-amazon-biggest-000300082.html</guid>
+      <pubDate>27/03/2026 09:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/2070ffbe4b2ee5373adc16e80170b6cb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Baird reitera avaliação das ações da Netflix sobre aumento de preços nos EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/finance/global-stocks-markets-dow-news-03-25-2026-3a36e525?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>27/03/2026 05:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/fb8e1f661ff20d844f7eb86f9b5babcc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O BCE não deve se apressar em aumentar as taxas, já que a linha de base ainda se mantém, diz Patsalides</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ecb-should-not-rush-to-hike-rates-as-baseline-still-holds-patsalides-says-4584219</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-should-not-rush-to-hike-rates-as-baseline-still-holds-patsalides-says-4584219</guid>
-      <pubDate>27/03/2026 05:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q0E7_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
