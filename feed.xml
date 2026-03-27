@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 09:19:20 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 09:19:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ultimate Products apresenta estabilidade no primeiro trimestre...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ultimate-products-sees-stable-q1-2026-despite-revenue-miss-93CH-4584900</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ultimate-products-sees-stable-q1-2026-despite-revenue-miss-93CH-4584900</guid>
+      <pubDate>27/03/2026 09:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A onda recorde de dívidas das economias emergentes cai para um congelamento enquanto a guerra no Irão abala...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-wave-life-sciences-stock-rating-on-obesity-data-93CH-4584391</guid>
       <pubDate>27/03/2026 06:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações europeias caem enquanto o nervosismo da guerra no Irã persiste, apesar da extensão de Trump</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/european-stocks-subdued-after-trump-extends-deadline-for-iran-power-plant-attacks-4584253</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-subdued-after-trump-extends-deadline-for-iran-power-plant-attacks-4584253</guid>
-      <pubDate>27/03/2026 06:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE610B5_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
