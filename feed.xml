@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 12:05:37 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 12:10:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Guerra do Irão: riscos da cadeia de abastecimento e perspectivas para a indústria mineira</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/iran-war-supply-chain-risks-150228762.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/iran-war-supply-chain-risks-150228762.html</guid>
+      <pubDate>27/03/2026 12:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/mining_technology_700/4ca4dc852c3cbbdc8da912791ffb7578" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Preparativos do mercado de ações para as férias da Páscoa. Veja Quando Wall Street fecha.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/7-ways-strait-hormuz-closure-013000777.html</guid>
       <pubDate>27/03/2026 10:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/73b5f8a9c326e1983a92d0d79c2931d0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Conflito no Oriente Médio impulsiona negociações recordes na ICE, controladora da NYSE</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/middle-east-conflict-drives-record-trading-at-nyseparent-ice-4585147</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/middle-east-conflict-drives-record-trading-at-nyseparent-ice-4585147</guid>
-      <pubDate>27/03/2026 10:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q0SQ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
