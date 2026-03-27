@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 15:09:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 15:11:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Hapag-Lloyd alerta sobre queda nos lucros à medida que a guerra no Irã perturba as redes de transporte...</title>
+      <description></description>
+      <link>https://www.wsj.com/business/earnings/hapag-lloyd-warns-of-earnings-slump-as-iran-war-disrupts-shipping-networks-fafcea2d?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.wsj.com/business/earnings/hapag-lloyd-warns-of-earnings-slump-as-iran-war-disrupts-shipping-networks-fafcea2d?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>27/03/2026 15:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/wsj.com/d3ae71daf1b94fbfcd454cc8b6f5af8d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Chemed Corp atingem baixa de 52 semanas em 368,12 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-underperformed-despite-163704097.html</guid>
       <pubDate>27/03/2026 13:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/145d57e1f9087f4ed6866a1a76dd96f0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Delek US Energy atingem alta de 52 semanas a 46,99 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/delek-us-energy-stock-hits-52week-high-at-4699-usd-93CH-4585586</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/delek-us-energy-stock-hits-52week-high-at-4699-usd-93CH-4585586</guid>
-      <pubDate>27/03/2026 13:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
