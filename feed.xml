@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 03:51:57 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:52:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE PayPal Holdings (PYPL) anuncia o lançamento do PayPal USD em 70 mercados</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-pypl-announces-launch-185257322.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/paypal-holdings-pypl-announces-launch-185257322.html</guid>
+      <pubDate>27/03/2026 03:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/46983350c422d6aa98ee179d8be31e0f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE (T) lidera colaboração da indústria com NVIDIA e Cisco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-likely-to-warn-of-inflation-whiplash-from-iran-war-excentral-bank-executive-says-4584091</guid>
       <pubDate>27/03/2026 02:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q074_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os governos da Factbox-APAC lutam para garantir os mercados enquanto a guerra no Oriente Médio mina a...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/factboxapac-governments-scramble-to-assure-markets-as-middle-east-war-saps-confidence-4584092</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/factboxapac-governments-scramble-to-assure-markets-as-middle-east-war-saps-confidence-4584092</guid>
-      <pubDate>27/03/2026 02:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q07H_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
