@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 15:06:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 15:09:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Chemed Corp atingem baixa de 52 semanas em 368,12 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/chemed-corp-stock-hits-52week-low-at-36812-usd-93CH-4585720</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/chemed-corp-stock-hits-52week-low-at-36812-usd-93CH-4585720</guid>
+      <pubDate>27/03/2026 15:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos da KeyCorp: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/delek-us-energy-stock-hits-52week-high-at-4699-usd-93CH-4585586</guid>
       <pubDate>27/03/2026 13:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BofA reitera compra de ações da SAP após aquisição da Reltio</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-sap-stock-after-reltio-acquisition-93CH-4585588</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-sap-stock-after-reltio-acquisition-93CH-4585588</guid>
-      <pubDate>27/03/2026 13:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
