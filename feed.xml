@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 09:20:38 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 09:20:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da Precigen, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/precigen-inc-q4-2025-earnings-002127876.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/precigen-inc-q4-2025-earnings-002127876.html</guid>
+      <pubDate>27/03/2026 09:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/23ae03a5289ec3cebad7dca3c4468458" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2026 da Chewy, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-average-wall-street-bonus-is-three-times-the-typical-american-households-income-79933ce5?mod=mw_rss_topstories</guid>
       <pubDate>27/03/2026 07:19</pubDate>
       <enclosure url="https://images.mktw.net/im-41076802" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que os investidores deveriam colocar 10% do seu dinheiro em ouro, diz este estrategista</title>
-      <description>A maioria das motivações para o ouro que impulsionaram o preço com tanta força no ano passado ainda são aplicáveis, segundo o estrategista Tom Bruce.</description>
-      <link>https://www.marketwatch.com/story/why-investors-should-put-10-of-their-money-in-gold-says-this-strategist-3caeb8ca?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/why-investors-should-put-10-of-their-money-in-gold-says-this-strategist-3caeb8ca?mod=mw_rss_topstories</guid>
-      <pubDate>27/03/2026 07:01</pubDate>
-      <enclosure url="https://images.mktw.net/im-93326803" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
