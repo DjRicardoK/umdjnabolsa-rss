@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 02:27:57 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 02:38:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warren Buffett exorta os investidores a permanecerem no mercado: ‘Eu ainda estaria comprando ações mesmo se...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-urges-investors-stay-174652077.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-urges-investors-stay-174652077.html</guid>
+      <pubDate>27/03/2026 02:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ae1daee4b229dd73761e4ff6fce2219d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Essas três ações defensivas acabaram de atingir os máximos em 52 semanas – você deve obter ganhos?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/livecoverage/iran-war-us-israel-news-updates/card/china-s-largest-shipper-reopens-bookings-from-asia-to-middle-east-kyR91J07qpKjlWcYkCSH?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>26/03/2026 23:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/472d7caa278d083875d9bd6d9fa8acfb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de ganhos do quarto trimestre da Kingsoft Cloud</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/kingsoft-cloud-q4-earnings-call-141815952.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kingsoft-cloud-q4-earnings-call-141815952.html</guid>
-      <pubDate>26/03/2026 23:21</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/55d256ffe81bc180dbda46abb080b175" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
