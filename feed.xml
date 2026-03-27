@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 21:30:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 21:30:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Concentrix Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/concentrix-corporation-q1-2026-earnings-123000497.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/concentrix-corporation-q1-2026-earnings-123000497.html</guid>
+      <pubDate>26/03/2026 21:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/b6b33cdb8982fd458eb8370c928c0210" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Evite Deere e outros estoques industriais caros. 3 Para comprar em vez disso.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/nvidia-stock-had-monster-run-145306709.html</guid>
       <pubDate>26/03/2026 19:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/2b792de93a7049b05a20d19c3be3b906" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Quantos funcionários a Nvidia tem? Da pesquisa e desenvolvimento às vendas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/many-employees-does-nvidia-r-145900596.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/many-employees-does-nvidia-r-145900596.html</guid>
-      <pubDate>26/03/2026 19:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/8605a096fde594e49222d2d8a28e7cc6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
