@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 06:39:33 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 06:59:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE RBC Capital reitera classificação das ações da Wave Life Sciences em dados de obesidade</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-wave-life-sciences-stock-rating-on-obesity-data-93CH-4584391</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-wave-life-sciences-stock-rating-on-obesity-data-93CH-4584391</guid>
+      <pubDate>27/03/2026 06:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações europeias caem enquanto o nervosismo da guerra no Irã persiste, apesar da extensão de Trump</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-slide-hopes-192214758.html</guid>
       <pubDate>27/03/2026 04:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Morgan Stanley descreve as 4 principais ações de construção japonesas antes dos lucros do ano fiscal</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/morgan-stanley-outlines-top-4-japanese-construction-stocks-ahead-of-fy-earnings-93CH-4584163</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morgan-stanley-outlines-top-4-japanese-construction-stocks-ahead-of-fy-earnings-93CH-4584163</guid>
-      <pubDate>27/03/2026 04:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
