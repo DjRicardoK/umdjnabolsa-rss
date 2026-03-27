@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Mar 2026 23:08:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 23:11:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação dos resultados do Citigroup</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-citigroups-earnings-release-140129982.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-citigroups-earnings-release-140129982.html</guid>
+      <pubDate>26/03/2026 23:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2767f4b249888aa635b43d56d76ada28" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações sobem com plano de paz dos EUA para acabar com a guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-climb-hopes-us-iran-151926940.html</guid>
       <pubDate>26/03/2026 20:00</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ae7ee21b7adc3615d29d0e151145646a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As melhores ações financeiras para comprar com US$ 1.000 agora mesmo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/best-financial-stocks-buy-1-152600818.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/best-financial-stocks-buy-1-152600818.html</guid>
-      <pubDate>26/03/2026 20:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/363d0780d27f46379016fec9e1f20472" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
