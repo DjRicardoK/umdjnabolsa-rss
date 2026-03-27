@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 05:13:35 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 05:48:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A parceria de software da VW com Rivian elimina obstáculos de investimento</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/vws-software-partnership-with-rivian-clears-investment-hurdle-4584287</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/vws-software-partnership-with-rivian-clears-investment-hurdle-4584287</guid>
+      <pubDate>27/03/2026 05:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q0F4_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da Epsilon Energy Ltd.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-hewlett-packard-enterprise-hpe-190511405.html</guid>
       <pubDate>27/03/2026 04:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d484a78e3ad48902877643aa5f91646a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Barclays eleva classificação das ações da Derwent London com mudança de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/barclays-upgrades-derwent-london-stock-rating-on-earnings-shift-93CH-4584127</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-upgrades-derwent-london-stock-rating-on-earnings-shift-93CH-4584127</guid>
-      <pubDate>27/03/2026 03:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
