@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:42:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 10:42:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Petróleo sobe mais de 2,5%, mas deve registar a primeira queda semanal desde o início da guerra no Irão</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/oil-prices-fall-as-trump-pauses-attacks-on-iranian-energy-plants-4584061</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-fall-as-trump-pauses-attacks-on-iranian-energy-plants-4584061</guid>
+      <pubDate>27/03/2026 10:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q030_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Vornado Realty Trust atingem o mínimo de 52 semanas a 25,28 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ultimate-products-sees-stable-q1-2026-despite-revenue-miss-93CH-4584900</guid>
       <pubDate>27/03/2026 09:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A onda recorde de dívidas das economias emergentes cai para um congelamento enquanto a guerra no Irão abala...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/emerging-economies-record-debt-spree-slumps-into-a-freeze-as-iran-war-rocks-markets-4584902</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/emerging-economies-record-debt-spree-slumps-into-a-freeze-as-iran-war-rocks-markets-4584902</guid>
-      <pubDate>27/03/2026 09:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q0P9_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
