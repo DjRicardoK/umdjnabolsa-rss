@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 20:28:26 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 20:28:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Comitê do Senado planeja audiência de nomeação de Warsh para o Fed já na semana de 13 de abril, relata...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/senate-committee-plans-warshs-fed-nomination-hearing-as-soon-as-week-of-april-13-punchbowl-reports-4586636</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/senate-committee-plans-warshs-fed-nomination-hearing-as-soon-as-week-of-april-13-punchbowl-reports-4586636</guid>
+      <pubDate>29/03/2026 20:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2S0D1_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações caem na Ásia, petróleo Brent caminha para alta mensal recorde</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/is-trump-losing-his-grip-on-the-market-sustained-stock-declines-suggest-the-presidents-influence-has-waned-02bc5938?mod=mw_rss_topstories</guid>
       <pubDate>27/03/2026 14:58</pubDate>
       <enclosure url="https://images.mktw.net/im-69811228" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As empresas de serviços de análise sentem o aperto à medida que a recuperação do petróleo da guerra com o Irã...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/analysisservices-firms-feel-the-squeeze-as-oil-rally-from-iran-war-fails-to-spur-drilling-4585682</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysisservices-firms-feel-the-squeeze-as-oil-rally-from-iran-war-fails-to-spur-drilling-4585682</guid>
-      <pubDate>27/03/2026 14:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q142_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
