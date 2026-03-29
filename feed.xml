@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 20:26:39 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 20:28:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações caem na Ásia, petróleo Brent caminha para alta mensal recorde</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/stocks-slide-in-asia-brent-crude-heads-for-record-monthly-rise-4586637</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-slide-in-asia-brent-crude-heads-for-record-monthly-rise-4586637</guid>
+      <pubDate>29/03/2026 20:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2S0D0_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE NVIDIA (NVDA) apoiou a startup Reflection AI para arrecadar US$ 2,5 bilhões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysisservices-firms-feel-the-squeeze-as-oil-rally-from-iran-war-fails-to-spur-drilling-4585682</guid>
       <pubDate>27/03/2026 14:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q142_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BCE não deveria ter pressa em aumentar taxas, diz Schnabel</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ecb-should-not-be-in-a-rush-to-raise-rates-schnabel-says-4585663</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-should-not-be-in-a-rush-to-raise-rates-schnabel-says-4585663</guid>
-      <pubDate>27/03/2026 14:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2Q137_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
