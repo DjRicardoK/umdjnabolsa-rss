@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 18:03:11 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 18:08:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lattice Semiconductor (LSCC) faz parceria com a Nvidia para ingressar no ecossistema do laboratório de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/lattice-semiconductor-lscc-partners-nvidia-203526768.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/lattice-semiconductor-lscc-partners-nvidia-203526768.html</guid>
+      <pubDate>29/03/2026 18:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4df0d6695bfbe2ebf4873d6f7a0125f2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Nike estão no nível mais baixo em 9 anos, antes dos lucros. Enfrenta estas questões à medida que...</title>
       <description>A gigante do vestuário desportivo tem tentado concentrar-se mais nas necessidades dos atletas, mas analistas dizem que os novos produtos não estão a ter sucesso.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-best-consumer-staples-stocks-170400934.html</guid>
       <pubDate>27/03/2026 14:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/3828ab68b0f74b337c1e98b1370c18fc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de segurança cibernética são atingidas: Palo Alto cai 6%, Okta cai 7% devido ao medo da concorrência de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-hit-palo-alto-170009239.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-hit-palo-alto-170009239.html</guid>
-      <pubDate>27/03/2026 14:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/a845967fa359511a4eac2b4b30b20dc4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
