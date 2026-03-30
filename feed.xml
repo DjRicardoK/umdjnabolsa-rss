@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 09:48:45 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 09:48:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de tecnologia hoje: ações de grandes empresas de tecnologia buscam se recuperar de uma semana...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/live/tech-stocks-today-big-tech-stocks-look-to-recover-from-bruising-week-mistral-ai-raises-830-million-144220032.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/live/tech-stocks-today-big-tech-stocks-look-to-recover-from-bruising-week-mistral-ai-raises-830-million-144220032.html</guid>
+      <pubDate>30/03/2026 09:48</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/vnW_awIOJqiKZp1UiVaDuA--~B/aD0yMzEzO3c9MzQ3MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/c1ac3b24-db78-4581-b561-ee2b76d04041" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Felix Gold exerce opção para o Projeto Treasure Creek no Alasca</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/two-thirds-crypto-investors-unaware-100231459.html</guid>
       <pubDate>30/03/2026 07:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/dlnews_702/c9169881e054f66e5ab28789929750fd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Melhores taxas de CD hoje, 30 de março de 2026 (bloqueio de até 4,15% APY)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-monday-march-30-2026-100000258.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-monday-march-30-2026-100000258.html</guid>
-      <pubDate>30/03/2026 07:02</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
