@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 05:11:48 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 05:46:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os fundos de hedge cortam participações em ações globais pela sexta semana consecutiva: Goldman</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/hedge-funds-cut-global-equity-holdings-for-sixth-consecutive-week-goldman-93CH-4586994</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/hedge-funds-cut-global-equity-holdings-for-sixth-consecutive-week-goldman-93CH-4586994</guid>
+      <pubDate>30/03/2026 05:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer afirma que ações como Generac (GNRC) “fazem muito sentido possuir aqui mesmo” em teoria</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-sink-as-iran-fears-weigh-japan-leads-losses-after-boj-comments-4586661</guid>
       <pubDate>30/03/2026 01:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7I0CN_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Inflação na Nova Zelândia aumentará ainda mais se o conflito no Oriente Médio persistir</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/new-zealand-inflation-to-rise-higher-if-middle-east-conflict-persists-93CH-4586662</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/new-zealand-inflation-to-rise-higher-if-middle-east-conflict-persists-93CH-4586662</guid>
-      <pubDate>30/03/2026 01:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
