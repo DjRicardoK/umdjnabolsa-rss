@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 23:57:06 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 00:11:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Streaming Wars: 1 rival da Netflix dominando a indústria</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/streaming-wars-1-netflix-rival-160500423.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/streaming-wars-1-netflix-rival-160500423.html</guid>
+      <pubDate>30/03/2026 00:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/5d95b5ad89ff1087e8d4d54624002c13" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Papa Leão diz que Deus rejeita orações de líderes que travam guerras</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-slide-in-asia-brent-crude-heads-for-record-monthly-rise-4586637</guid>
       <pubDate>29/03/2026 20:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2S0D0_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE NVIDIA (NVDA) apoiou a startup Reflection AI para arrecadar US$ 2,5 bilhões</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-backed-start-reflection-231639007.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-backed-start-reflection-231639007.html</guid>
-      <pubDate>29/03/2026 20:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
