@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 23:23:04 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 23:24:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que os aposentados devem considerar essas três ações de dividendos ultra-seguras agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-retirees-consider-3-ultra-152000112.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-retirees-consider-3-ultra-152000112.html</guid>
+      <pubDate>29/03/2026 23:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/36e71a997d16b36f0914dc89641326a5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Metaplataformas acabam de cortar empregos. Isso faz com que as ações da META sejam compradas, vendidas ou...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/oil-fertilizer-prices-may-soon-222800682.html</guid>
       <pubDate>29/03/2026 19:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/987d39243f13b63bbe7c4336622464d1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do petróleo disparam após Houthis iemenitas atacarem Israel, ampliando o conflito com o Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/oil-prices-jump-after-yemeni-houthis-attack-israel-widening-iran-conflict-4586632</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-jump-after-yemeni-houthis-attack-israel-widening-iran-conflict-4586632</guid>
-      <pubDate>29/03/2026 19:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2S0C9_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
