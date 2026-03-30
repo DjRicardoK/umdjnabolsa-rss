@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 01:24:09 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 01:24:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nova Zelândia alerta que a inflação irá “muito mais alta” se a guerra no Irão se prolongar</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/new-zealand-warns-inflation-will-go-much-higher-if-iran-war-drags-on-4586659</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/new-zealand-warns-inflation-will-go-much-higher-if-iran-war-drags-on-4586659</guid>
+      <pubDate>30/03/2026 01:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T05G_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Bit Digital perdido em US$ 0,56, receita superou estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-shares-higher-jim-134935341.html</guid>
       <pubDate>29/03/2026 21:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7465ca88e4cd72a8f6bf17d48b8833ed" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco do Japão debateu necessidade de mais aumentos de taxas, mostra resumo da reunião de março</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/boj-debated-need-for-more-rate-hikes-march-meeting-summary-shows-4586641</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-debated-need-for-more-rate-hikes-march-meeting-summary-shows-4586641</guid>
-      <pubDate>29/03/2026 21:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T005_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
