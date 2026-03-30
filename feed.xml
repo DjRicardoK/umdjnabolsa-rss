@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 18:43:27 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 18:53:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O canto frequentemente esquecido da saúde que Wall Street está amando</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/often-missed-corner-healthcare-wall-130700388.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/often-missed-corner-healthcare-wall-130700388.html</guid>
+      <pubDate>30/03/2026 18:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/37542c73203a3072a4c26d4a089d345f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Conferência do Banco Nacional do Canadá: CEO Ferreira sinaliza riscos de inflação no Irã e reafirma meta de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/only-stock-warren-buffett-clearly-093600788.html</guid>
       <pubDate>30/03/2026 15:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/ba4e659eb44b2d6ff51b509cf66fed5a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de juros de hipotecas e refinanciamentos hoje, 29 de março de 2026: a taxa de 30 anos aumenta 10 pontos...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/copy-mortgage-refinance-interest-rates-today-sunday-march-22-2026-100000398.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/copy-mortgage-refinance-interest-rates-today-sunday-march-22-2026-100000398.html</guid>
-      <pubDate>30/03/2026 15:26</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
