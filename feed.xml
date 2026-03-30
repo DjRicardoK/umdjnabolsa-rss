@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 01:24:03 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 01:24:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da Bit Digital perdido em US$ 0,56, receita superou estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/bit-digital-earnings-missed-by-056-revenue-topped-estimates-4586660</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/bit-digital-earnings-missed-by-056-revenue-topped-estimates-4586660</guid>
+      <pubDate>30/03/2026 01:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise – Volatilidade da guerra no Irã prejudica o comércio nos maiores mercados do mundo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-debated-need-for-more-rate-hikes-march-meeting-summary-shows-4586641</guid>
       <pubDate>29/03/2026 21:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T005_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 2 ações seguras para comprar em tempos de incerteza</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/2-safe-stocks-buy-times-134000833.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-safe-stocks-buy-times-134000833.html</guid>
-      <pubDate>29/03/2026 21:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/51f918c0813e713c83133c230fe7a1fe" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
