@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 07:13:08 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:18:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Diante de um dilema inflação-crescimento, o presidente do Fed, Powell, falará em Harvard</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/on-the-horns-of-an-inflationgrowth-dilemma-fed-chair-powell-to-speak-at-harvard-4587126</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/on-the-horns-of-an-inflationgrowth-dilemma-fed-chair-powell-to-speak-at-harvard-4587126</guid>
+      <pubDate>30/03/2026 07:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T0HO_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As melhores taxas de juros de poupança de alto rendimento hoje, 30 de março de 2026 (ganhe até 4% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australian-shares-drop-as-inflation-worries-weigh-on-banks-tech-93CH-4586847</guid>
       <pubDate>30/03/2026 05:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bolsas europeias estáveis ​​antes de dados de inflação</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/european-stocks-steady-ahead-of-inflation-data-4586837</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/european-stocks-steady-ahead-of-inflation-data-4586837</guid>
-      <pubDate>30/03/2026 04:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T0BT_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
