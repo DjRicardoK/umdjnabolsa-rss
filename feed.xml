@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 21:34:13 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 21:38:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE NVIDIA (NVDA) compartilha mais alto depois que Jim Cramer criticou os vendedores</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-shares-higher-jim-134935341.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-shares-higher-jim-134935341.html</guid>
+      <pubDate>29/03/2026 21:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7465ca88e4cd72a8f6bf17d48b8833ed" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco do Japão debateu necessidade de mais aumentos de taxas, mostra resumo da reunião de março</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/business/earnings/hapag-lloyd-warns-of-earnings-slump-as-iran-war-disrupts-shipping-networks-fafcea2d?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>27/03/2026 15:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/d3ae71daf1b94fbfcd454cc8b6f5af8d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Chemed Corp atingem baixa de 52 semanas em 368,12 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/chemed-corp-stock-hits-52week-low-at-36812-usd-93CH-4585720</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/chemed-corp-stock-hits-52week-low-at-36812-usd-93CH-4585720</guid>
-      <pubDate>27/03/2026 15:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
