@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:12:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:22:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Correção Nasdaq: compre 2 ações de IA com 98% e 115% de alta, de acordo com analistas de Wall Street</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nasdaq-correction-buy-2-ai-090800920.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nasdaq-correction-buy-2-ai-090800920.html</guid>
+      <pubDate>30/03/2026 06:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/17b5c436af5a7d24e2e87d5e64fdc1cb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 5 ações que impedem uma correção do S&amp;P 500 (dica: nenhuma está entre os &quot;Sete Magníficos&quot;)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nikes-china-stumble-exposes-execution-gaps-4586677</guid>
       <pubDate>30/03/2026 02:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T06V_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As exportações da Coreia do Sul crescerão mais em quase 5 anos, as importações também aumentarão devido ao...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/skorea-exports-to-rise-most-in-nearly-5-years-imports-also-higher-on-mideast-conflict-reuters-poll-4586678</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/skorea-exports-to-rise-most-in-nearly-5-years-imports-also-higher-on-mideast-conflict-reuters-poll-4586678</guid>
-      <pubDate>30/03/2026 02:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T06P_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
