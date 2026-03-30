@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 14:49:12 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 14:54:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump pode pedir às nações árabes que ajudem a financiar os custos da guerra no Irã, diz Casa Branca</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/trump-may-ask-arab-nations-to-help-fund-iran-war-costs-white-house-says-93CH-4588522</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-may-ask-arab-nations-to-help-fund-iran-war-costs-white-house-says-93CH-4588522</guid>
+      <pubDate>30/03/2026 14:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Juiz de Delaware acusado de parcialidade reatribui casos de Musk</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/stock-futures-inch-oil-pushes-104300684.html</guid>
       <pubDate>30/03/2026 13:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/the_wall_street_journal_hosted_996/dd3bfed141db70be30ae9b7b441ebc24" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE TOPT detém 16% apenas na NVIDIA, e essa concentração está causando sua perda de 11%</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/topt-holds-16-nvidia-alone-162016635.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/topt-holds-16-nvidia-alone-162016635.html</guid>
-      <pubDate>30/03/2026 13:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/32f18a500cf5ca25f31089f74cbc9a85" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
