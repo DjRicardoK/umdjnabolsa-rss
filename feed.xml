@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 02:17:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 02:21:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As exportações da Coreia do Sul crescerão mais em quase 5 anos, as importações também aumentarão devido ao...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/skorea-exports-to-rise-most-in-nearly-5-years-imports-also-higher-on-mideast-conflict-reuters-poll-4586678</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/skorea-exports-to-rise-most-in-nearly-5-years-imports-also-higher-on-mideast-conflict-reuters-poll-4586678</guid>
+      <pubDate>30/03/2026 02:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T06P_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bill Ackman e Brad Gerstner acumulam as mesmas 4 ações - o que eles prevêem?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/3-highest-conviction-energy-stocks-150500158.html</guid>
       <pubDate>29/03/2026 22:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/a00d6c3b48b7461f90dd4d32b6660a2c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dólar se mantém firme enquanto o risco de uma guerra prolongada no Oriente Médio prejudica o sentimento</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/dollar-holds-firm-as-risk-of-protracted-middle-east-war-saps-sentiment-4586646</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-holds-firm-as-risk-of-protracted-middle-east-war-saps-sentiment-4586646</guid>
-      <pubDate>29/03/2026 22:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T01Q_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
