@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 04:24:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 04:39:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O homem que já foi o bilionário mais jovem do mundo agora diz que resolveu o mercado de ações. Aqui está seu...</title>
+      <description>No que diz respeito às carteiras, a apresentada por John Arnold, o bilionário comerciante de energia que se tornou filantropo, não pode ser mais simples.</description>
+      <link>https://www.marketwatch.com/story/the-man-who-was-once-the-worlds-youngest-billionaire-now-says-hes-solved-the-stock-market-heres-his-astonishingly-simple-portfolio-fbc44c75?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-man-who-was-once-the-worlds-youngest-billionaire-now-says-hes-solved-the-stock-market-heres-his-astonishingly-simple-portfolio-fbc44c75?mod=mw_rss_topstories</guid>
+      <pubDate>30/03/2026 04:39</pubDate>
+      <enclosure url="https://images.mktw.net/im-10555069" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE JPMorgan eleva classificação das ações do Banco Santander Chile com base nas perspectivas de inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/16-stocks-short-seller-dream-213100893.html</guid>
       <pubDate>30/03/2026 01:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketwatch_hosted_869/441e6ff5a857f3f6c32e232a0ce5e62f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A dívida dos EUA atrai subitamente uma procura mais fraca, uma vez que 10 biliões de dólares têm de ser...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/u-debt-suddenly-draws-weaker-165737755.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/u-debt-suddenly-draws-weaker-165737755.html</guid>
-      <pubDate>30/03/2026 01:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/fortune_175/390909dc04f46a217b904bfd5e77ce7f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
