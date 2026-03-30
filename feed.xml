@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 02:05:22 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 02:17:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bill Ackman e Brad Gerstner acumulam as mesmas 4 ações - o que eles prevêem?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bill-ackman-brad-gerstner-pile-180128497.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bill-ackman-brad-gerstner-pile-180128497.html</guid>
+      <pubDate>30/03/2026 02:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/2b6208e3d0fba5cf2b2c0f07de33a985" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE TOPIX do Japão: Goldman Sachs corta metas sobre o impacto do preço da energia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-holds-firm-as-risk-of-protracted-middle-east-war-saps-sentiment-4586646</guid>
       <pubDate>29/03/2026 22:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T01Q_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dip-buyers chegam para retirar ouro da beira de um mercado em baixa</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/dip-buyers-arrive-pull-gold-090052564.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/dip-buyers-arrive-pull-gold-090052564.html</guid>
-      <pubDate>29/03/2026 22:15</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/f5abcc20-21da-11f1-93be-f5d2ca9d70ba" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
