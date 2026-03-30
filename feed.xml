@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 11:57:43 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 11:57:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Essas ações estão subindo como a próxima jogada importante na guerra do Irã</title>
+      <description>As ações da Alcoa subiram na segunda-feira, depois que ataques com mísseis iranianos contra duas grandes fábricas de alumínio no Oriente Médio elevaram os preços do metal...</description>
+      <link>https://www.marketwatch.com/story/these-stocks-are-surging-as-the-next-hot-play-on-the-iran-war-3531bcbb?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/these-stocks-are-surging-as-the-next-hot-play-on-the-iran-war-3531bcbb?mod=mw_rss_topstories</guid>
+      <pubDate>30/03/2026 11:57</pubDate>
+      <enclosure url="https://images.mktw.net/im-70053075" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Powell diz que riscos para a economia sugerem que taxas podem cair ou subir</title>
       <description>Powell disse que a Fed não enfrenta uma decisão iminente sobre o que fazer com as taxas porque “não sabemos quais serão os efeitos económicos” da guerra no Irão.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bill-gates-latest-portfolio-fedex-132344819.html</guid>
       <pubDate>30/03/2026 10:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c952d5934df7e5ac23a06a6610baeb0d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O alumínio é o novo petróleo. Essas ações estão subindo.</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/alcoa-stock-aluminum-iran-war-trump-d7571bd4?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/alcoa-stock-aluminum-iran-war-trump-d7571bd4?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>30/03/2026 10:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/50ed3baaa01cd00334e70f4d859f7069" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
