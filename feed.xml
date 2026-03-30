@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 04:39:23 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 04:40:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bitcoin chega a US$ 67 mil com a escalada da guerra no Irã em foco</title>
+      <description></description>
+      <link>https://www.investing.com/news/cryptocurrency-news/bitcoin-edges-up-to-67k-with-iran-war-escalation-in-focus-4586827</link>
+      <guid isPermaLink="false">https://www.investing.com/news/cryptocurrency-news/bitcoin-edges-up-to-67k-with-iran-war-escalation-in-focus-4586827</guid>
+      <pubDate>30/03/2026 04:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB701AO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O homem que já foi o bilionário mais jovem do mundo agora diz que resolveu o mercado de ações. Aqui está seu...</title>
       <description>No que diz respeito às carteiras, a apresentada por John Arnold, o bilionário comerciante de energia que se tornou filantropo, não pode ser mais simples.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysisiran-war-volatility-strains-trading-in-worlds-biggest-markets-4586655</guid>
       <pubDate>30/03/2026 01:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T05C_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Essas 16 ações são o sonho de qualquer vendedor a descoberto – prováveis ​​perdedores, não importa o que o...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/16-stocks-short-seller-dream-213100893.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/16-stocks-short-seller-dream-213100893.html</guid>
-      <pubDate>30/03/2026 01:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketwatch_hosted_869/441e6ff5a857f3f6c32e232a0ce5e62f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
