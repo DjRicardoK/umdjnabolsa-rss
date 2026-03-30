@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 00:11:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 00:32:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações dos &apos;7 Magníficos&apos; perdem mais de US$ 850 bilhões em valor à medida que a liquidação do mercado de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/magnificent-7-stocks-wipe-more-than-850-billion-in-value-as-stock-market-sell-off-hits-ai-winners-hard-213921360.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/magnificent-7-stocks-wipe-more-than-850-billion-in-value-as-stock-market-sell-off-hits-ai-winners-hard-213921360.html</guid>
+      <pubDate>30/03/2026 00:32</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-01/fe273150-d758-11ef-bc78-11b2594f384f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Streaming Wars: 1 rival da Netflix dominando a indústria</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/senate-committee-plans-warshs-fed-nomination-hearing-as-soon-as-week-of-april-13-punchbowl-reports-4586636</guid>
       <pubDate>29/03/2026 20:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2S0D1_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações caem na Ásia, petróleo Brent caminha para alta mensal recorde</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/stocks-slide-in-asia-brent-crude-heads-for-record-monthly-rise-4586637</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-slide-in-asia-brent-crude-heads-for-record-monthly-rise-4586637</guid>
-      <pubDate>29/03/2026 20:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2S0D0_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
