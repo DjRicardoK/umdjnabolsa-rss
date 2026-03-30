@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 10:18:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 10:27:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Touros do mercado de ações, não se esqueçam disto: os choques nos preços do petróleo geralmente levam a uma...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/stock-market-bulls-dont-forget-this-one-oil-price-shocks-usually-lead-to-a-recession-131921062.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/stock-market-bulls-dont-forget-this-one-oil-price-shocks-usually-lead-to-a-recession-131921062.html</guid>
+      <pubDate>30/03/2026 10:27</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/13e73920-2c37-11f1-9bbf-a2aa3e3e5f17" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street vê muitas vantagens na Micron, apesar da recente queda</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-carnival-stock-rating-citing-strong-fundamentals-93CH-4587299</guid>
       <pubDate>30/03/2026 07:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de empréstimo HELOC e de aquisição de casa própria segunda-feira, 30 de março de 2026: Como aproveitar...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-30-2026-100000389.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-march-30-2026-100000389.html</guid>
-      <pubDate>30/03/2026 07:34</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
