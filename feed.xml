@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 13:11:46 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:12:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nasdaq abre caminho para que SpaceX e OpenAI se juntem rapidamente a um índice importante após IPOs</title>
+      <description>Uma nova regra de “entrada rápida” tornaria muito mais fácil para novas ações de megacapitalização ingressarem no Nasdaq-100 logo após a abertura de capital.</description>
+      <link>https://www.marketwatch.com/story/nasdaq-paves-the-way-for-spacex-and-openai-to-quickly-join-a-premier-index-after-ipos-07e06614?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/nasdaq-paves-the-way-for-spacex-and-openai-to-quickly-join-a-premier-index-after-ipos-07e06614?mod=mw_rss_topstories</guid>
+      <pubDate>30/03/2026 13:12</pubDate>
+      <enclosure url="https://images.mktw.net/im-31453584" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Espanha sobem no fechamento do pregão; IBEX 35 sobe 0,79%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/guggenheim-raises-astrazeneca-price-target-135826226.html</guid>
       <pubDate>30/03/2026 11:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/225aeaecf9748490c9514237258623b9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nvidia em meio ao plano massivo de data center da AI Startup; A Nvidia é uma compra agora?</title>
-      <description></description>
-      <link>https://www.investors.com/research/nvidia-stock-nvda-ai-data-center/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/nvidia-stock-nvda-ai-data-center/?src=A00220&yptr=yahoo</guid>
-      <pubDate>30/03/2026 11:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/b8814c0b53535c3acd4a32296891ff8c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
