@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 11:08:34 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 11:16:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Morgan Stanley reitera classificação Equalweight das ações da Biogen em dados de medicamentos para lúpus</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-biogen-stock-equalweight-rating-on-lupus-drug-data-93CH-4588272</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-biogen-stock-equalweight-rating-on-lupus-drug-data-93CH-4588272</guid>
+      <pubDate>30/03/2026 11:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Guggenheim aumenta preço-alvo da AstraZeneca antes dos lucros do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-oracle-stock-rating-on-ai-datacenter-potential-93CH-4587940</guid>
       <pubDate>30/03/2026 09:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/oracle_2_M_1440048709.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE DA Davidson reitera compra de ações da First Watch, meta de US$ 17</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-buy-on-first-watch-stock-17-target-93CH-4587943</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-buy-on-first-watch-stock-17-target-93CH-4587943</guid>
-      <pubDate>30/03/2026 09:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
