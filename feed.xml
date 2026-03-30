@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 22:53:50 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 22:56:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Analistas aumentam suas metas de preços da Nvidia (NVDA) após GTC</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/analysts-nudge-nvidia-nvda-price-151838495.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysts-nudge-nvidia-nvda-price-151838495.html</guid>
+      <pubDate>29/03/2026 22:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a079136e941b43293f25b66228839740" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Meus três estoques de energia com maior convicção para comprar em meio a toda a incerteza causada pela guerra...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-expected-micron-stumble-215000568.html</guid>
       <pubDate>29/03/2026 18:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/4724f672966ddef44eb12e13fb9df507" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Caixa de dados - Quantas pessoas foram mortas na guerra do Irã?</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-usisraeli-war-on-iran-4586333</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-usisraeli-war-on-iran-4586333</guid>
-      <pubDate>29/03/2026 18:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P1BS_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
