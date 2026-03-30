@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 17:18:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 17:27:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Phreesia caem 22% devido à perda de lucros e redução da orientação</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/phreesia-shares-tumble-22-on-earnings-miss-slashed-guidance-93CH-4588730</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/phreesia-shares-tumble-22-on-earnings-miss-slashed-guidance-93CH-4588730</guid>
+      <pubDate>30/03/2026 17:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Perguntei ao ChatGPT como a guerra no Irã afetará minhas economias para a aposentadoria - aqui está o que...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/copy-best-high-yield-savings-interest-rates-today-sunday-march-29-2026-100000235.html</guid>
       <pubDate>30/03/2026 15:06</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/a04144a0-4b7a-11ef-bffd-2479280852e3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BCE deve responder rapidamente aos sinais de desvio da inflação, diz Stournaras</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ecb-must-respond-quickly-to-signs-of-inflation-drift-says-stournaras-4588521</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-must-respond-quickly-to-signs-of-inflation-drift-says-stournaras-4588521</guid>
-      <pubDate>30/03/2026 14:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T13H_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
