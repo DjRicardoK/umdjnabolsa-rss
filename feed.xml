@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:42:55 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:47:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do petróleo atingem o maior fechamento em quatro anos, já que o conflito no Irã não dá sinais de...</title>
+      <description>Os preços do petróleo estão subindo na segunda-feira em meio à crescente incerteza sobre quando a guerra no Irã poderá terminar.</description>
+      <link>https://www.marketwatch.com/story/oil-prices-head-towards-highest-close-in-four-years-as-iran-conflict-shows-no-sign-of-ending-af9a093c?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/oil-prices-head-towards-highest-close-in-four-years-as-iran-conflict-shows-no-sign-of-ending-af9a093c?mod=mw_rss_topstories</guid>
+      <pubDate>30/03/2026 06:47</pubDate>
+      <enclosure url="https://images.mktw.net/im-45807154" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O PE da Nvidia cai para o menor nível em sete anos com o peso da guerra e da angústia da IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/dollar-dominance-reinforced-global-oil-193741704.html</guid>
       <pubDate>30/03/2026 04:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/fortune_175/c0b50eca2d4cf5c91983815341ee3778" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise – Lucros folheados a ouro das montadoras de automóveis de luxo no Golfo sob ameaça da guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/analysisluxury-carmakers-goldleafed-gulf-profits-under-threat-from-iran-war-4586691</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysisluxury-carmakers-goldleafed-gulf-profits-under-threat-from-iran-war-4586691</guid>
-      <pubDate>30/03/2026 03:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Volkswagon_3_M_1440049006.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
