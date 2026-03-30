@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:51:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:51:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A surpreendente ação da Dow que superou a Nvidia em 2 para 1</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/surprising-dow-stock-outperformed-nvidia-094128758.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/surprising-dow-stock-outperformed-nvidia-094128758.html</guid>
+      <pubDate>30/03/2026 06:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/ded8e11f2de4d2f8e272c1c6c97c4063" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, futuros do Nasdaq sobem entrando na semana mais curta com dados de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-292-4586800</guid>
       <pubDate>30/03/2026 04:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB1O00J_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Israel relata segundo ataque do Iêmen à medida que o conflito no Oriente Médio aumenta</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/trump-calls-irans-current-leaders-very-reasonable-as-pakistan-prepares-to-host-talks-4586652</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-calls-irans-current-leaders-very-reasonable-as-pakistan-prepares-to-host-talks-4586652</guid>
-      <pubDate>30/03/2026 04:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T04W_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
