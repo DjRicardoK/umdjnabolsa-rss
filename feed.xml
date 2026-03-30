@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 18:53:55 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 18:54:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lulu’s Fashion Lounge vê queda na receita do quarto trimestre...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lulus-fashion-lounge-sees-q4-2025-revenue-decline-stock-dips-93CH-4588924</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lulus-fashion-lounge-sees-q4-2025-revenue-decline-stock-dips-93CH-4588924</guid>
+      <pubDate>30/03/2026 18:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O canto frequentemente esquecido da saúde que Wall Street está amando</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/red-cat-acquires-apium-swarm-robotics-for-drone-autonomy-93CH-4588565</guid>
       <pubDate>30/03/2026 15:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A única ação que Warren Buffett está claramente comprando agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/only-stock-warren-buffett-clearly-093600788.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/only-stock-warren-buffett-clearly-093600788.html</guid>
-      <pubDate>30/03/2026 15:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/ba4e659eb44b2d6ff51b509cf66fed5a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
