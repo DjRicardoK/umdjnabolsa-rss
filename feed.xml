@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 20:13:31 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 20:19:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Tem $ 5.000? 2 Ações A decisão da taxa do Fed acaba de se tornar mais atraente</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/got-5-000-2-stocks-145400308.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/got-5-000-2-stocks-145400308.html</guid>
+      <pubDate>30/03/2026 20:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/0fb06ab90db2390fac3f8167dd565484" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os EUA entrarão em recessão em 2026? Aqui está o que os dados sugerem.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/oppenheimer-predicts-560-rally-2-101500859.html</guid>
       <pubDate>30/03/2026 16:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/tipranks_452/4e57af5a4869b5293ca99189d216eb28" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Essas ações são ‘o lugar para estar’ se você deseja um crescimento sério da IA, diz o BofA</title>
-      <description>Os analistas gostam do forte potencial de crescimento plurianual que as empresas de equipamentos de chips podem ter.</description>
-      <link>https://www.marketwatch.com/story/these-stocks-are-the-place-to-be-if-you-want-serious-ai-growth-says-bofa-35df5562?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/these-stocks-are-the-place-to-be-if-you-want-serious-ai-growth-says-bofa-35df5562?mod=mw_rss_topstories</guid>
-      <pubDate>30/03/2026 16:11</pubDate>
-      <enclosure url="https://images.mktw.net/im-67297829" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
