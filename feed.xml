@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 14:33:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 14:33:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Americas Silver vê queda de estoque apesar dos ganhos de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-americas-silver-sees-stock-drop-despite-production-gains-in-q4-2025-93CH-4588503</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-americas-silver-sees-stock-drop-despite-production-gains-in-q4-2025-93CH-4588503</guid>
+      <pubDate>30/03/2026 14:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da AT&amp;T atingem o menor nível em 52 semanas, a 21,44 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-166-4588431</guid>
       <pubDate>30/03/2026 13:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF1B0JS_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas do Reino Unido sobem no fechamento do pregão; Investing.com Reino Unido 100 sobe 1,66%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-166-4588432</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-166-4588432</guid>
-      <pubDate>30/03/2026 13:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED7U0N6_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
