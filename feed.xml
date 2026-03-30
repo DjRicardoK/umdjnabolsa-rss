@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 10:55:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 10:55:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Piper Sandler reitera classificação das ações do Shopify sobre perspectivas de crescimento</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-shopify-stock-rating-on-growth-outlook-93CH-4588214</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-shopify-stock-rating-on-growth-outlook-93CH-4588214</guid>
+      <pubDate>30/03/2026 10:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Piper Sandler corta meta de preço das ações do JPMorgan devido a lucros mais baixos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/qia-plans-buy-10-stake-121818071.html</guid>
       <pubDate>30/03/2026 09:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/just_style_482/390173bb6bf4cc0644c3504db75e760f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow sobe com notícias EUA-Irã; Powell comenta a seguir (cobertura ao vivo)</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-news-powell/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-news-powell/?src=A00220&yptr=yahoo</guid>
-      <pubDate>30/03/2026 09:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/b93082b62d669a716dcee1724ff49dd4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
