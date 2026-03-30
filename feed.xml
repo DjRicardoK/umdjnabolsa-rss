@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 16:38:59 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 16:39:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Peter Schiff alerta que a inflação pode ‘disparar’ sem grandes aumentos das taxas do Fed – como proteger suas...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/peter-schiff-warns-inflation-could-110000701.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/peter-schiff-warns-inflation-could-110000701.html</guid>
+      <pubDate>30/03/2026 16:39</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/92c50388ca7b5e337d26b8ebc9c3b2d2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O presidente do Fed, Jerome Powell, acaba de enviar um sinal que pode abalar o mercado de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-may-ask-arab-nations-to-help-fund-iran-war-costs-white-house-says-93CH-4588522</guid>
       <pubDate>30/03/2026 14:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Juiz de Delaware acusado de parcialidade reatribui casos de Musk</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/delaware-judge-accused-bias-reassigns-174248688.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/delaware-judge-accused-bias-reassigns-174248688.html</guid>
-      <pubDate>30/03/2026 14:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/a731b912ebb8342b119908be04a77d20" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
