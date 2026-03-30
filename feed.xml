@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 15:38:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 15:54:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os HSAs estão sendo apontados como uma forma de tornar os cuidados de saúde mais acessíveis. Mas é mais...</title>
+      <description>Vários milhões de americanos inscreveram-se em HSAs este ano, enquanto enfrentam cuidados médicos e prémios de seguros de saúde cada vez mais caros.</description>
+      <link>https://www.marketwatch.com/story/hsas-are-being-touted-as-a-way-to-make-healthcare-more-affordable-but-its-more-complicated-than-that-e5e1ac9c?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/hsas-are-being-touted-as-a-way-to-make-healthcare-more-affordable-but-its-more-complicated-than-that-e5e1ac9c?mod=mw_rss_topstories</guid>
+      <pubDate>30/03/2026 15:54</pubDate>
+      <enclosure url="https://images.mktw.net/im-93732803" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Red Cat adquire Apium Swarm Robotics para autonomia de drones</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/telecom-oil-gas-stocks-permian-basin/?src=A00220&yptr=yahoo</guid>
       <pubDate>30/03/2026 14:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/842b3bc8297e5d4e3f92f01a0dcc4faa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Nova regra pode acelerar o IPO da SpaceX para inclusão no índice Nasdaq</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/new-rule-could-fast-track-spacex-ipo-for-nasdaq-index-inclusion-172327734.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/new-rule-could-fast-track-spacex-ipo-for-nasdaq-index-inclusion-172327734.html</guid>
-      <pubDate>30/03/2026 14:29</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/1673f850-2c54-11f1-ab6f-eb13675c6009" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
