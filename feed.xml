@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 09:18:08 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 09:19:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: Dow sobe com notícias EUA-Irã; Powell comenta a seguir (cobertura ao vivo)</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-news-powell/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-news-powell/?src=A00220&yptr=yahoo</guid>
+      <pubDate>30/03/2026 09:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/b93082b62d669a716dcee1724ff49dd4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Pathward se junta ao conselho de administração do American Fintech Council</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/copy-best-money-market-account-rates-today-monday-march-30-2026-100000781.html</guid>
       <pubDate>30/03/2026 07:02</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-04/16611790-1cdc-11f0-b7df-12959cc17bf8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A surpreendente ação da Dow que superou a Nvidia em 2 para 1</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/surprising-dow-stock-outperformed-nvidia-094128758.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/surprising-dow-stock-outperformed-nvidia-094128758.html</guid>
-      <pubDate>30/03/2026 06:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/ded8e11f2de4d2f8e272c1c6c97c4063" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
