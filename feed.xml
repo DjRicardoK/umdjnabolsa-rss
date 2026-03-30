@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 00:32:09 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 00:44:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do ouro sobem ligeiramente com a escalada da guerra no Irão em foco</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-prices-rise-slightly-with-iran-war-escalation-in-focus-4586650</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-rise-slightly-with-iran-war-escalation-in-focus-4586650</guid>
+      <pubDate>30/03/2026 00:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC4I0Z1_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações dos &apos;7 Magníficos&apos; perdem mais de US$ 850 bilhões em valor à medida que a liquidação do mercado de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/villeroy-says-ecb-ready-to-act-but-too-early-to-discuss-timing-of-any-rate-hike-4586635</guid>
       <pubDate>29/03/2026 20:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2S0CV_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Comitê do Senado planeja audiência de nomeação de Warsh para o Fed já na semana de 13 de abril, relata...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/senate-committee-plans-warshs-fed-nomination-hearing-as-soon-as-week-of-april-13-punchbowl-reports-4586636</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/senate-committee-plans-warshs-fed-nomination-hearing-as-soon-as-week-of-april-13-punchbowl-reports-4586636</guid>
-      <pubDate>29/03/2026 20:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2S0D1_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
