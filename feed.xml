@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:47:24 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:51:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, futuros do Nasdaq sobem entrando na semana mais curta com dados de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-entering-shortened-week-featuring-jobs-data-war-uncertainty-230645645.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-entering-shortened-week-featuring-jobs-data-war-uncertainty-230645645.html</guid>
+      <pubDate>30/03/2026 06:51</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/282597a0-2bc5-11f1-afdf-86acebd8ad84" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços do petróleo atingem o maior fechamento em quatro anos, já que o conflito no Irã não dá sinais de...</title>
       <description>Os preços do petróleo estão subindo na segunda-feira em meio à crescente incerteza sobre quando a guerra no Irã poderá terminar.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-calls-irans-current-leaders-very-reasonable-as-pakistan-prepares-to-host-talks-4586652</guid>
       <pubDate>30/03/2026 04:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T04W_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O domínio do dólar é reforçado pelo comércio global de petróleo, mas a guerra do Irão poderá dar origem ao...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/dollar-dominance-reinforced-global-oil-193741704.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/dollar-dominance-reinforced-global-oil-193741704.html</guid>
-      <pubDate>30/03/2026 04:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/fortune_175/c0b50eca2d4cf5c91983815341ee3778" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
