@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 08:35:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 08:52:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE NAFFIC e AWARE reivindicam primeiro DPP China-UE para têxteis</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/naffic-aware-claim-first-china-114320059.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/naffic-aware-claim-first-china-114320059.html</guid>
+      <pubDate>30/03/2026 08:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/just_style_482/9c5f4f4d1bd380a6a35cc11f1fed4d96" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 3 ações transformam US$ 10.000 em US$ 53.314 em 3 meses</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidias-pe-sinks-seven-low-093400801.html</guid>
       <pubDate>30/03/2026 06:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/a94ff503bff064b266aac84e721d7b71" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os estoques de embalagens caem à medida que a guerra no Irã aumenta os custos de energia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/packaging-stocks-fall-iran-war-094034711.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/packaging-stocks-fall-iran-war-094034711.html</guid>
-      <pubDate>30/03/2026 06:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/packaging_gateway_559/55a37d0f5f6ba8415c7040ae4a2f7986" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
