@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 10:08:19 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 10:08:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de ganhos do quarto trimestre da bateria BAK da China</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/china-bak-battery-q4-earnings-130400719.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/china-bak-battery-q4-earnings-130400719.html</guid>
+      <pubDate>30/03/2026 10:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/8954d91de40cad2ef4884997c53a76e9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 ações &apos;Magnificent 7&apos; registram quedas impressionantes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/petrochina-reports-4-47-drop-102603393.html</guid>
       <pubDate>30/03/2026 07:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/offshore_technology_431/9d7e4f1d9f8fad73f7b83cc18bc08db2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do petróleo sobem para mais de US$ 115 com o agravamento da guerra no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/oil-prices-surge-to-over-115barrel-after-yemens-houthis-attack-israel-4586638</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-surge-to-over-115barrel-after-yemens-houthis-attack-israel-4586638</guid>
-      <pubDate>30/03/2026 07:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0R0GY_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
