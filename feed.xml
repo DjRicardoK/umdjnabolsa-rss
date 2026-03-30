@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:22:59 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 06:32:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE BYD relata queda nos lucros em 2025, apesar de vendas recordes</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/byd-reports-drop-earnings-2025-092609022.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/byd-reports-drop-earnings-2025-092609022.html</guid>
+      <pubDate>30/03/2026 06:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/just_auto_187/ae4a670b4176242f37bd72d0fdf7b41b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Correção Nasdaq: compre 2 ações de IA com 98% e 115% de alta, de acordo com analistas de Wall Street</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-065-4586682</guid>
       <pubDate>30/03/2026 02:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB4C1BD_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O tropeço da Nike na China expõe lacunas de execução</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/nikes-china-stumble-exposes-execution-gaps-4586677</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nikes-china-stumble-exposes-execution-gaps-4586677</guid>
-      <pubDate>30/03/2026 02:22</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T06V_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
