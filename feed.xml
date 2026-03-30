@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 14:29:22 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 14:33:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da AT&amp;T atingem o menor nível em 52 semanas, a 21,44 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/att-stock-hits-52week-low-at-2144-usd-93CH-4588505</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/att-stock-hits-52week-low-at-2144-usd-93CH-4588505</guid>
+      <pubDate>30/03/2026 14:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Departamento do Trabalho propõe incluir ativos alternativos em contas de aposentadoria à medida que as ações...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-166-4588432</guid>
       <pubDate>30/03/2026 13:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED7U0N6_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE EUA reabrem formalmente embaixada em Caracas enquanto laços com Venezuela aquecem</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/us-resumes-embassy-operations-in-venezuela-4588276</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-resumes-embassy-operations-in-venezuela-4588276</guid>
-      <pubDate>30/03/2026 12:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
