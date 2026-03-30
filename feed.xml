@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 07:34:46 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:43:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reitera classificação das ações da Carnival citando fundamentos sólidos</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-carnival-stock-rating-citing-strong-fundamentals-93CH-4587299</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-carnival-stock-rating-citing-strong-fundamentals-93CH-4587299</guid>
+      <pubDate>30/03/2026 07:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas de empréstimo HELOC e de aquisição de casa própria segunda-feira, 30 de março de 2026: Como aproveitar...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/german-state-data-point-to-higher-national-inflation-as-iran-war-pushes-energy-prices-up-4586992</guid>
       <pubDate>30/03/2026 05:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T0E4_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os fundos de hedge cortam participações em ações globais pela sexta semana consecutiva: Goldman</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/hedge-funds-cut-global-equity-holdings-for-sixth-consecutive-week-goldman-93CH-4586994</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/hedge-funds-cut-global-equity-holdings-for-sixth-consecutive-week-goldman-93CH-4586994</guid>
-      <pubDate>30/03/2026 05:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
