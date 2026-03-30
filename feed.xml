@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 16:39:04 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 17:18:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Perguntei ao ChatGPT como a guerra no Irã afetará minhas economias para a aposentadoria - aqui está o que...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/asked-chatgpt-iran-war-impact-112504786.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/asked-chatgpt-iran-war-impact-112504786.html</guid>
+      <pubDate>30/03/2026 17:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/gobankingrates_644/29ded3dc58c8734ebaa70dcb512f963c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Peter Schiff alerta que a inflação pode ‘disparar’ sem grandes aumentos das taxas do Fed – como proteger suas...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-must-respond-quickly-to-signs-of-inflation-drift-says-stournaras-4588521</guid>
       <pubDate>30/03/2026 14:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T13H_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump pode pedir às nações árabes que ajudem a financiar os custos da guerra no Irã, diz Casa Branca</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/trump-may-ask-arab-nations-to-help-fund-iran-war-costs-white-house-says-93CH-4588522</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-may-ask-arab-nations-to-help-fund-iran-war-costs-white-house-says-93CH-4588522</guid>
-      <pubDate>30/03/2026 14:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
