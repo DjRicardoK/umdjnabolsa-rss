@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 22:34:43 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 22:53:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Meus três estoques de energia com maior convicção para comprar em meio a toda a incerteza causada pela guerra...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/3-highest-conviction-energy-stocks-150500158.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/3-highest-conviction-energy-stocks-150500158.html</guid>
+      <pubDate>29/03/2026 22:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a00d6c3b48b7461f90dd4d32b6660a2c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dólar se mantém firme enquanto o risco de uma guerra prolongada no Oriente Médio prejudica o sentimento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/factboxhow-many-people-have-been-killed-in-the-usisraeli-war-on-iran-4586333</guid>
       <pubDate>29/03/2026 18:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2P1BS_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lattice Semiconductor (LSCC) faz parceria com a Nvidia para ingressar no ecossistema do laboratório de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/lattice-semiconductor-lscc-partners-nvidia-203526768.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/lattice-semiconductor-lscc-partners-nvidia-203526768.html</guid>
-      <pubDate>29/03/2026 18:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4df0d6695bfbe2ebf4873d6f7a0125f2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
