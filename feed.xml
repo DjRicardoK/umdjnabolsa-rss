@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 13:51:13 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:55:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Esta é a razão pela qual os principais países produtores de petróleo do Médio Oriente têm vendido os seus...</title>
+      <description>A necessidade de liquidez pode estar a desempenhar um papel na decisão de alguns países de reduzirem as suas participações em dívida do governo dos EUA.</description>
+      <link>https://www.marketwatch.com/story/this-is-a-reason-the-middle-easts-major-oil-producing-countries-have-been-selling-their-u-s-treasurys-e5df841c?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/this-is-a-reason-the-middle-easts-major-oil-producing-countries-have-been-selling-their-u-s-treasurys-e5df841c?mod=mw_rss_topstories</guid>
+      <pubDate>30/03/2026 13:55</pubDate>
+      <enclosure url="https://images.mktw.net/im-51479096" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações avançam principalmente à medida que o petróleo dos EUA sobe</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sysco-buying-warehouse-could-never-140555268.html</guid>
       <pubDate>30/03/2026 11:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/a0a539ce32fa2a3246be4e5e6439e376" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE T&amp;G Global contrata Goldman Sachs para trabalhar em possível venda</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/t-g-global-hires-goldman-141804374.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/t-g-global-hires-goldman-141804374.html</guid>
-      <pubDate>30/03/2026 11:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/just_food_692/ad3590c8996b2acfc6e3234d967a7ae0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
