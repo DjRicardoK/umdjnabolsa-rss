@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 22:56:06 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 23:03:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Rosenblatt reitera classificação do Palantir (PLTR) após vitória no Golden Dome</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/rosenblatt-reiterates-palantir-pltr-rating-151850792.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rosenblatt-reiterates-palantir-pltr-rating-151850792.html</guid>
+      <pubDate>29/03/2026 23:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b3f9877ff0f15329165d74e07391a358" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Analistas aumentam suas metas de preços da Nvidia (NVDA) após GTC</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-stock-futures-sink-oil-prices-surge-as-iran-war-shows-no-signs-of-letting-up-5c463163?mod=mw_rss_topstories</guid>
       <pubDate>29/03/2026 19:17</pubDate>
       <enclosure url="https://images.mktw.net/im-61650663" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wall Street esperava que a Micron tropeçasse. Veja por que os ursos podem estar completamente errados.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-expected-micron-stumble-215000568.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-expected-micron-stumble-215000568.html</guid>
-      <pubDate>29/03/2026 18:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/4724f672966ddef44eb12e13fb9df507" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
