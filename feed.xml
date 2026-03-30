@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 21:30:49 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 21:34:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco do Japão debateu necessidade de mais aumentos de taxas, mostra resumo da reunião de março</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/boj-debated-need-for-more-rate-hikes-march-meeting-summary-shows-4586641</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-debated-need-for-more-rate-hikes-march-meeting-summary-shows-4586641</guid>
+      <pubDate>29/03/2026 21:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T005_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 ações seguras para comprar em tempos de incerteza</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/chemed-corp-stock-hits-52week-low-at-36812-usd-93CH-4585720</guid>
       <pubDate>27/03/2026 15:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos ganhos da KeyCorp: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/keycorp-earnings-preview-expect-084229883.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/keycorp-earnings-preview-expect-084229883.html</guid>
-      <pubDate>27/03/2026 15:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a292d07c8b3beaa1f2268b0ef9e4184e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
