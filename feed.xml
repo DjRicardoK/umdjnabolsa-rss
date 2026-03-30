@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 09:26:16 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 09:48:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Felix Gold exerce opção para o Projeto Treasure Creek no Alasca</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/felix-gold-exercises-option-treasure-124530465.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/felix-gold-exercises-option-treasure-124530465.html</guid>
+      <pubDate>30/03/2026 09:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/mining_technology_700/eba1da513ff30d607b904be469ccb57d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE QIA planeja comprar 10% de participação na Golden Goose da Itália</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/copy-best-cd-rates-today-monday-march-30-2026-100000258.html</guid>
       <pubDate>30/03/2026 07:02</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de hipoteca e refinanciamento hoje, 30 de março de 2026: 30 anos fixadas agora pouco menos de 6,5%</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/copy-mortgage-refinance-rates-today-monday-march-30-2026-100000304.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/copy-mortgage-refinance-rates-today-monday-march-30-2026-100000304.html</guid>
-      <pubDate>30/03/2026 07:02</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/480de4d0-03ec-11ef-bfff-fe31b82eccd6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
