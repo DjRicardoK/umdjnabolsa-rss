@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 14:54:04 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 14:54:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BCE deve responder rapidamente aos sinais de desvio da inflação, diz Stournaras</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ecb-must-respond-quickly-to-signs-of-inflation-drift-says-stournaras-4588521</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-must-respond-quickly-to-signs-of-inflation-drift-says-stournaras-4588521</guid>
+      <pubDate>30/03/2026 14:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T13H_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump pode pedir às nações árabes que ajudem a financiar os custos da guerra no Irã, diz Casa Branca</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/this-is-a-reason-the-middle-easts-major-oil-producing-countries-have-been-selling-their-u-s-treasurys-e5df841c?mod=mw_rss_topstories</guid>
       <pubDate>30/03/2026 13:55</pubDate>
       <enclosure url="https://images.mktw.net/im-51479096" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações avançam principalmente à medida que o petróleo dos EUA sobe</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/stock-futures-inch-oil-pushes-104300684.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/stock-futures-inch-oil-pushes-104300684.html</guid>
-      <pubDate>30/03/2026 13:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/the_wall_street_journal_hosted_996/dd3bfed141db70be30ae9b7b441ebc24" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
