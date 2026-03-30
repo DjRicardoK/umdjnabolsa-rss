@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 01:36:14 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 01:44:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação na Nova Zelândia aumentará ainda mais se o conflito no Oriente Médio persistir</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/new-zealand-inflation-to-rise-higher-if-middle-east-conflict-persists-93CH-4586662</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/new-zealand-inflation-to-rise-higher-if-middle-east-conflict-persists-93CH-4586662</guid>
+      <pubDate>30/03/2026 01:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nasdaq 100 pisca padrão histórico raro pela 6ª vez em 41 anos: pode estar “preparado para se recuperar em...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/why-not-time-gold-trade-140700507.html</guid>
       <pubDate>29/03/2026 21:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/fe6ecf33ad2fe73204be4a2342425dad" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla (TSLA) compartilha depois que Jim Cramer disse que tinha opções</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-shares-jim-cramer-134928306.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-shares-jim-cramer-134928306.html</guid>
-      <pubDate>29/03/2026 21:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a6bcf37a67ba918a4a4ac11abfc4c2d5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
