@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 08:57:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 09:18:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pathward se junta ao conselho de administração do American Fintech Council</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/pathward-joins-american-fintech-council-board-of-directors-93CH-4587735</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/pathward-joins-american-fintech-council-board-of-directors-93CH-4587735</guid>
+      <pubDate>30/03/2026 09:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE William Blair reduz a classificação da Varonis Systems, Inc. (VRNS) como perspectiva de software de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/surprising-dow-stock-outperformed-nvidia-094128758.html</guid>
       <pubDate>30/03/2026 06:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/ded8e11f2de4d2f8e272c1c6c97c4063" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, futuros do Nasdaq sobem entrando na semana mais curta com dados de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-entering-shortened-week-featuring-jobs-data-war-uncertainty-230645645.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-entering-shortened-week-featuring-jobs-data-war-uncertainty-230645645.html</guid>
-      <pubDate>30/03/2026 06:51</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/282597a0-2bc5-11f1-afdf-86acebd8ad84" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
