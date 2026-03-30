@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 29 Mar 2026 21:07:59 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 21:30:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 2 ações seguras para comprar em tempos de incerteza</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/2-safe-stocks-buy-times-134000833.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-safe-stocks-buy-times-134000833.html</guid>
+      <pubDate>29/03/2026 21:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/51f918c0813e713c83133c230fe7a1fe" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Enquanto Claude dá mais um golpe, veja por que HP e Intel são as ações de TI com classificação mais baixa...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/keycorp-earnings-preview-expect-084229883.html</guid>
       <pubDate>27/03/2026 15:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/a292d07c8b3beaa1f2268b0ef9e4184e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos do Huntington Bancshares</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-huntington-bancshares-next-083107898.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-huntington-bancshares-next-083107898.html</guid>
-      <pubDate>27/03/2026 15:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/49bc44128ec83277d8c5a1f4d1fd16e3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
