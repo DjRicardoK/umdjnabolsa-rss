@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 11:16:40 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 11:16:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cantor Fitzgerald reitera classificação das ações da Satellogic no acordo da Marinha</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-satellogic-stock-rating-on-navy-deal-93CH-4588269</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-satellogic-stock-rating-on-navy-deal-93CH-4588269</guid>
+      <pubDate>30/03/2026 11:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Stifel reitera classificação de compra de ações da Fermi sobre o progresso do Matador</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-plenty-upside-130502081.html</guid>
       <pubDate>30/03/2026 10:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/23c89747a6193860602b2b10ea022a64" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de ganhos do quarto trimestre da bateria BAK da China</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/china-bak-battery-q4-earnings-130400719.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/china-bak-battery-q4-earnings-130400719.html</guid>
-      <pubDate>30/03/2026 10:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/8954d91de40cad2ef4884997c53a76e9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
