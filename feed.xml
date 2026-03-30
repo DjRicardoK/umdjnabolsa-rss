@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 18:02:48 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 18:43:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Conferência do Banco Nacional do Canadá: CEO Ferreira sinaliza riscos de inflação no Irã e reafirma meta de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/national-bank-canada-conference-ceo-130321249.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/national-bank-canada-conference-ceo-130321249.html</guid>
+      <pubDate>30/03/2026 18:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/fb95bf73248844e15befbea35187a7c8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Você deve comprar ações de defesa depois que o conflito com o Irã as levou a níveis históricos?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/copy-mortgage-refinance-interest-rates-today-sunday-march-22-2026-100000398.html</guid>
       <pubDate>30/03/2026 15:26</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/6f016ae0-03e6-11ef-97ff-13785de87be3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As melhores taxas de conta do mercado monetário hoje, 29 de março de 2026 (a melhor conta oferece 4,01% APY)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/copy-best-money-market-account-rates-today-sunday-march-29-2026-100000857.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/copy-best-money-market-account-rates-today-sunday-march-29-2026-100000857.html</guid>
-      <pubDate>30/03/2026 15:18</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e3d4f60-1cdc-11f0-b66f-8aec820566bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
