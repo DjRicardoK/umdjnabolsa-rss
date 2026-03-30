@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 16:17:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 16:17:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ‘Vai ser exterminado’: Robert Kiyosaki alerta que os boomers não têm o suficiente para ficarem fora das ruas....</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/going-wiped-robert-kiyosaki-warns-102300324.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/going-wiped-robert-kiyosaki-warns-102300324.html</guid>
+      <pubDate>30/03/2026 16:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/b18895703c61366de0a5f87f455603c0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Oppenheimer prevê alta de até ~ 560% para essas duas ações de &apos;compra forte&apos;</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-grew-sales-europe-first-172500579.html</guid>
       <pubDate>30/03/2026 14:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/69ed62a38aabb22445ca09754010b1ff" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow sobe, S&amp;P 500, Nasdaq cai enquanto a incerteza da guerra eleva os preços do...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-nasdaq-slips-as-war-uncertainty-drives-oil-prices-higher-172958758.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-nasdaq-slips-as-war-uncertainty-drives-oil-prices-higher-172958758.html</guid>
-      <pubDate>30/03/2026 14:34</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/ebdb17f0-2248-11f1-b4cf-f09cf6bd8b5b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
