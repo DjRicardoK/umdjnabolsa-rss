@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 01:44:31 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 01:44:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Ásia afundam com o peso dos temores sobre o Irã; Japão lidera perdas após comentários do Banco do...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-sink-as-iran-fears-weigh-japan-leads-losses-after-boj-comments-4586661</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-sink-as-iran-fears-weigh-japan-leads-losses-after-boj-comments-4586661</guid>
+      <pubDate>30/03/2026 01:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7I0CN_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inflação na Nova Zelândia aumentará ainda mais se o conflito no Oriente Médio persistir</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusiveus-treasury-to-consult-with-insurance-regulators-on-private-credit-lenders-sources-say-4586642</guid>
       <pubDate>29/03/2026 21:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T00I_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que não é hora de desistir do comércio de ouro</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/why-not-time-gold-trade-140700507.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/why-not-time-gold-trade-140700507.html</guid>
-      <pubDate>29/03/2026 21:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/fe6ecf33ad2fe73204be4a2342425dad" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
