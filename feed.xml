@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 04:07:28 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 04:07:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas do Japão caem no fechamento do pregão; Nikkei 225 caiu 2,92%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-292-4586800</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-292-4586800</guid>
+      <pubDate>30/03/2026 04:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB1O00J_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Israel relata segundo ataque do Iêmen à medida que o conflito no Oriente Médio aumenta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/magnificent-7-stocks-wipe-more-than-850-billion-in-value-as-stock-market-sell-off-hits-ai-winners-hard-213921360.html</guid>
       <pubDate>30/03/2026 00:32</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-01/fe273150-d758-11ef-bc78-11b2594f384f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Streaming Wars: 1 rival da Netflix dominando a indústria</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/streaming-wars-1-netflix-rival-160500423.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/streaming-wars-1-netflix-rival-160500423.html</guid>
-      <pubDate>30/03/2026 00:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/5d95b5ad89ff1087e8d4d54624002c13" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
