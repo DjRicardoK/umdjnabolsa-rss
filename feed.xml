@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 12:27:42 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 12:28:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Microsoft revela atualizações de IA e lança Copilot Cowork para clientes com acesso antecipado</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/microsoft-unveils-ai-upgrades-rolls-out-copilot-cowork-to-earlyaccess-customers-4588019</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-unveils-ai-upgrades-rolls-out-copilot-cowork-to-earlyaccess-customers-4588019</guid>
+      <pubDate>30/03/2026 12:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T0RI_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O Dow e o Nasdaq caíram no território de correção. Mas o sentimento dos investidores já parecia tão sombrio...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/prediction-iran-conflict-escalates-energy-133500357.html</guid>
       <pubDate>30/03/2026 10:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/33d1ca98002a2700bb6c646e8ca4917c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Altos preços do gás e guerra no Irã têm um enorme impacto na confiança do consumidor dos EUA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/high-gas-prices-iran-war-133300283.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/high-gas-prices-iran-war-133300283.html</guid>
-      <pubDate>30/03/2026 10:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/36803a4646163d1009e976dcb0ef2ebc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
