@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 07:18:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:18:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do petróleo sobem para mais de US$ 115 com o agravamento da guerra no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/oil-prices-surge-to-over-115barrel-after-yemens-houthis-attack-israel-4586638</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-surge-to-over-115barrel-after-yemens-houthis-attack-israel-4586638</guid>
+      <pubDate>30/03/2026 07:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0R0GY_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Diante de um dilema inflação-crescimento, o presidente do Fed, Powell, falará em Harvard</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/mistral-raises-830-million-in-debt-to-buy-nvidia-chips-for-paris-data-center-93CH-4586846</guid>
       <pubDate>30/03/2026 05:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações australianas caem à medida que preocupações com inflação pesam sobre bancos e tecnologia</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/australian-shares-drop-as-inflation-worries-weigh-on-banks-tech-93CH-4586847</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australian-shares-drop-as-inflation-worries-weigh-on-banks-tech-93CH-4586847</guid>
-      <pubDate>30/03/2026 05:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
