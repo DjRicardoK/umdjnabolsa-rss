@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 13:28:23 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:29:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Credores hipotecários com as melhores taxas esta semana, 30 de março de 2026: APR de 6,122% é a mais baixa</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-30-2026-170834936.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-march-30-2026-170834936.html</guid>
+      <pubDate>30/03/2026 13:29</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d9cd60-0c3a-11f1-bdff-87ef2d5000ac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que a Palo Alto Networks e outras ações de segurança cibernética agora são ganhadoras de destaque</title>
       <description>Analistas dizem que os investidores foram muito rápidos em punir as ações de segurança cibernética na semana passada, após atualizações sobre um próximo modelo Antrópico.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-fermi-stock-buy-rating-on-matador-progress-93CH-4588270</guid>
       <pubDate>30/03/2026 11:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Cantor Fitzgerald reitera classificação das ações da Rivian após financiamento da VW</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-rivian-stock-rating-after-vw-funding-93CH-4588271</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-rivian-stock-rating-after-vw-funding-93CH-4588271</guid>
-      <pubDate>30/03/2026 11:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6N0AC_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
