@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 01:44:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 02:05:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE TOPIX do Japão: Goldman Sachs corta metas sobre o impacto do preço da energia</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/japans-topix-goldman-sachs-cuts-targets-on-energy-price-impact-4586675</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japans-topix-goldman-sachs-cuts-targets-on-energy-price-impact-4586675</guid>
+      <pubDate>30/03/2026 02:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6200T_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Ásia afundam com o peso dos temores sobre o Irã; Japão lidera perdas após comentários do Banco do...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/dip-buyers-arrive-pull-gold-090052564.html</guid>
       <pubDate>29/03/2026 22:15</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/f5abcc20-21da-11f1-93be-f5d2ca9d70ba" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tesouro exclusivo dos EUA consultará reguladores de seguros sobre credores de crédito privados, dizem fontes</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/exclusiveus-treasury-to-consult-with-insurance-regulators-on-private-credit-lenders-sources-say-4586642</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusiveus-treasury-to-consult-with-insurance-regulators-on-private-credit-lenders-sources-say-4586642</guid>
-      <pubDate>29/03/2026 21:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2T00I_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
