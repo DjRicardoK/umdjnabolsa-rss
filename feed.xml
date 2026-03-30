@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 16:17:25 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 16:17:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Amcor atingem baixa de 52 semanas a 38,02 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/amcor-stock-hits-52week-low-at-3802-usd-93CH-4588583</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/amcor-stock-hits-52week-low-at-3802-usd-93CH-4588583</guid>
+      <pubDate>30/03/2026 16:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘Vai ser exterminado’: Robert Kiyosaki alerta que os boomers não têm o suficiente para ficarem fora das ruas....</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/sp-500-price-targets-microsoft-msft-doordash-robinhood-hood-stock/?src=A00220&yptr=yahoo</guid>
       <pubDate>30/03/2026 14:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/d9ad46e79b68ddeb8b06d75dea8dc19c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla aumentou as vendas na Europa pela primeira vez em um ano. As ações da montadora devem disparar em 2026?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-grew-sales-europe-first-172500579.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-grew-sales-europe-first-172500579.html</guid>
-      <pubDate>30/03/2026 14:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/69ed62a38aabb22445ca09754010b1ff" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
