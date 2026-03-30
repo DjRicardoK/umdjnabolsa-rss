@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 04:09:16 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 04:24:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE JPMorgan eleva classificação das ações do Banco Santander Chile com base nas perspectivas de inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-banco-santander-chile-stock-rating-on-inflation-outlook-93CH-4586820</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-banco-santander-chile-stock-rating-on-inflation-outlook-93CH-4586820</guid>
+      <pubDate>30/03/2026 04:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Atividade fabril da China deverá retornar à expansão em março, segundo pesquisa da Reuters</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/u-debt-suddenly-draws-weaker-165737755.html</guid>
       <pubDate>30/03/2026 01:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/fortune_175/390909dc04f46a217b904bfd5e77ce7f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços do ouro sobem ligeiramente com a escalada da guerra no Irão em foco</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-rise-slightly-with-iran-war-escalation-in-focus-4586650</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-rise-slightly-with-iran-war-escalation-in-focus-4586650</guid>
-      <pubDate>30/03/2026 00:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC4I0Z1_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
