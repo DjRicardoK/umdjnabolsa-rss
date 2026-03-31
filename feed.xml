@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 15:17:45 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:17:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Guggenheim reitera compra de ações da Biogen após acordo com Apellis</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-buy-on-biogen-stock-after-apellis-deal-93CH-4591193</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-buy-on-biogen-stock-after-apellis-deal-93CH-4591193</guid>
+      <pubDate>31/03/2026 15:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da Lam Research</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/sp-500-heads-for-worst-quarter-since-2022-as-iran-war-rate-worries-rattle-wall-street-4589765</guid>
       <pubDate>31/03/2026 13:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0LZ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: mudanças estratégicas da Buzzi Unicem SpA em meio aos...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-buzzi-unicem-spas-strategic-shifts-amid-h2-2025-results-93CH-4591061</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-buzzi-unicem-spas-strategic-shifts-amid-h2-2025-results-93CH-4591061</guid>
-      <pubDate>31/03/2026 13:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
