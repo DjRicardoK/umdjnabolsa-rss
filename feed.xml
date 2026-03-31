@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 10:39:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 10:42:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Western Digital atualizado, PayPal iniciado: chamadas dos principais analistas de Wall Street</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/western-digital-upgraded-paypal-initiated-133255039.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/western-digital-upgraded-paypal-initiated-133255039.html</guid>
+      <pubDate>31/03/2026 10:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Apple completa 50 anos. Veja como ela pode se livrar da crise da meia-idade.</title>
       <description>Depois de conquistar com sucesso o mercado de smartphones e PCs, a Apple deve agora provar que pode inovar para a era da IA.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/lensar-earnings-missed-by-005-revenue-fell-short-of-estimates-4589896</guid>
       <pubDate>31/03/2026 08:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro da J.Jill superou US$ 0,09, receita superou estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/jjill-earnings-beat-by-009-revenue-topped-estimates-4589868</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/jjill-earnings-beat-by-009-revenue-topped-estimates-4589868</guid>
-      <pubDate>31/03/2026 08:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
