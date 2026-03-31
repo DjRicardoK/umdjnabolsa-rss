@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 11:17:21 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 11:25:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE S&amp;P 500 mostra alguns vencedores surpresa após um mês de guerra</title>
+      <description></description>
+      <link>https://www.investors.com/news/sp-500-stocks-markets-dow-jones-lyondellbasell-industrials-oil-iran-war-middle-east/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/sp-500-stocks-markets-dow-jones-lyondellbasell-industrials-oil-iran-war-middle-east/?src=A00220&yptr=yahoo</guid>
+      <pubDate>31/03/2026 11:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/4ffce5ba941709e4648d2388e12b3baf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mais estudantes universitários precisarão recorrer a empréstimos privados para pagar a escola – mas 40% dos...</title>
       <description>Com o governo federal prestes a recuar significativamente nos empréstimos a estudantes, os credores estudantis privados estão se preparando para preencher a lacuna. Um novo...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/spar-group-earnings-missed-by-041-revenue-fell-short-of-estimates-4590286</guid>
       <pubDate>31/03/2026 09:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 2 ações de chips AI que eu compraria antes dos próximos relatórios de ganhos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/2-ai-chip-stocks-id-120200417.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-ai-chip-stocks-id-120200417.html</guid>
-      <pubDate>31/03/2026 09:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/6657245a265bd546b3ed2ac77e58467c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
