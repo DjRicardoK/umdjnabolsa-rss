@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 17:17:26 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 17:38:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Nike cai após o expediente com resultados mostrando vendas fracas na China e pressão na margem bruta</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/nike-slips-after-hours-as-results-show-soft-china-sales-gross-margin-pressure-4591149</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/nike-slips-after-hours-as-results-show-soft-china-sales-gross-margin-pressure-4591149</guid>
+      <pubDate>31/03/2026 17:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECB50XY_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da DTE Energy atingem o menor nível em 52 semanas, a 20,55 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-buy-on-biogen-stock-after-apellis-deal-93CH-4591193</guid>
       <pubDate>31/03/2026 15:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da Lam Research</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-lam-research-next-quarterly-090917458.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-lam-research-next-quarterly-090917458.html</guid>
-      <pubDate>31/03/2026 15:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8cc50c1bbb9be2ac66361d0faa9b3b9b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
