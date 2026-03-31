@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 18:16:02 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:16:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dois terços dos americanos querem um fim rápido para a guerra com o Irã, mesmo que os objetivos não sejam...</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/twothirds-of-americans-want-quick-end-to-iran-war-even-if-goals-unachieved-reutersipsos-poll-finds-4591630</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/twothirds-of-americans-want-quick-end-to-iran-war-even-if-goals-unachieved-reutersipsos-poll-finds-4591630</guid>
+      <pubDate>31/03/2026 18:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U1CU_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Além dos lucros da carne perdidos em US$ 0,15, a receita ficou aquém das estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-reasons-im-buying-amazon-102500019.html</guid>
       <pubDate>31/03/2026 16:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/87b6506cf7e0f33f64eb1855ee33dd2a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações devem abrir em alta à medida que os rendimentos dos títulos caem devido às apostas de aumento das...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-bond-102637299.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-bond-102637299.html</guid>
-      <pubDate>31/03/2026 16:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fcebfc40d659e147fc2e5eab7e6cb524" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
