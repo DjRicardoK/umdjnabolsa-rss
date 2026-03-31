@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 00:35:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:07:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações da Ásia misturadas com a guerra do Irã em foco; Coreia do Sul lidera perdas em março</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-mixed-with-iran-war-in-focus-skorea-leads-march-losses-4589124</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-mixed-with-iran-war-in-focus-skorea-leads-march-losses-4589124</guid>
+      <pubDate>31/03/2026 01:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEABM09Q_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dollar General faz uma grande mudança que pode incomodar os clientes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-draws-3-major-150700610.html</guid>
       <pubDate>30/03/2026 20:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/5296e6dd3718e00e2c5fd5eba8503ef6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As Filipinas declaram que a guerra no Irão representa um “perigo iminente” – agora devem apoiar-se no carvão....</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/philippines-declares-iran-war-poses-164500501.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/philippines-declares-iran-war-poses-164500501.html</guid>
-      <pubDate>30/03/2026 20:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/2294c02eaaee8e0964ad5f2bb9772d07" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
