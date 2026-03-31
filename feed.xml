@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 06:46:47 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 06:46:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE IMC Exploration inicia produção de ouro nas instalações da Armênia</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/imc-exploration-begins-gold-production-at-armenia-facility-93CH-4589591</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/imc-exploration-begins-gold-production-at-armenia-facility-93CH-4589591</guid>
+      <pubDate>31/03/2026 06:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China manterá política monetária apropriadamente frouxa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-defends-memory-stocks-202120430.html</guid>
       <pubDate>31/03/2026 04:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/cece14d8df3ff9750f89999715c2f4bb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE SLB N.V. (SLB) aprofunda parceria com a Nvidia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/slb-n-v-slb-deepens-201740218.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/slb-n-v-slb-deepens-201740218.html</guid>
-      <pubDate>31/03/2026 04:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6cbeaf70baa7f3889976a41c5ab100ea" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
