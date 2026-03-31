@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 03:21:24 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 03:39:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Nvidia cometeu um erro de US$ 40 bilhões no ano fiscal de 2026?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/did-nvidia-40-billion-mistake-190700609.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/did-nvidia-40-billion-mistake-190700609.html</guid>
+      <pubDate>31/03/2026 03:39</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/91ee6091003ace68d0a70f054902d3dd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Schroders Capital Global Innovation Trust mostra forte...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dollar-general-makes-big-change-161700062.html</guid>
       <pubDate>31/03/2026 00:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/26468aedc9625cc618058d12a14523ff" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: BioSyent Q4 2025 perde previsão de receita, EPS estável</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-biosyent-q4-2025-misses-revenue-forecast-eps-steady-93CH-4589120</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-biosyent-q4-2025-misses-revenue-forecast-eps-steady-93CH-4589120</guid>
-      <pubDate>31/03/2026 00:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
