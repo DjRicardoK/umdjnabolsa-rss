@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 20:43:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 20:54:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Microsoft, Chevron e Engine No. 1 assinam acordo exclusivo para fornecimento de energia</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/microsoft-chevron-and-engine-no-1-sign-exclusive-deal-for-power-supply-4591917</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-chevron-and-engine-no-1-sign-exclusive-deal-for-power-supply-4591917</guid>
+      <pubDate>31/03/2026 20:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U1I0_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wedbush aposta que junho será um grande mês para a Apple. Você deve comprar ações da AAPL primeiro?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/pepsico-could-climb-10-169-143105581.html</guid>
       <pubDate>31/03/2026 19:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/bcf3a2ecaa9de3c96acd927b2c3c082f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Dave &amp; Buster no quarto trimestre de 2026 perde lucro por ação,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-dave--busters-q4-2026-misses-eps-stock-rises-93CH-4591843</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dave--busters-q4-2026-misses-eps-stock-rises-93CH-4591843</guid>
-      <pubDate>31/03/2026 19:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
