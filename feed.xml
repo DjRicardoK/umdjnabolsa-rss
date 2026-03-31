@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 08:42:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 08:48:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Existem apenas duas maneiras principais de proteger o dinheiro da guerra de Trump com o Irã</title>
+      <description></description>
+      <link>https://www.investors.com/etfs-and-funds/sectors/sp500-are-only-two-places-to-protect-money-from-trumps-iran-war/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/etfs-and-funds/sectors/sp500-are-only-two-places-to-protect-money-from-trumps-iran-war/?src=A00220&yptr=yahoo</guid>
+      <pubDate>31/03/2026 08:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/c0f1beebf3df93a9b66b699a5be205b2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A baixa transparência no mercado de crédito privado pode estar a esconder grandes problemas</title>
       <description>Vários factores conspiram para elevar estruturalmente as taxas de juro, em detrimento do crédito privado.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/analysts-bullish-gold-royalty-groy-100609328.html</guid>
       <pubDate>31/03/2026 07:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ef5024938ec6bf80291116b4fdc922d0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O sentimento dos analistas sobre o TRX Gold (TRX) permanece robusto após fortes resultados do segundo...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/analysts-sentiment-trx-gold-trx-100611703.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysts-sentiment-trx-gold-trx-100611703.html</guid>
-      <pubDate>31/03/2026 07:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6f206bd587d8e5fef5ec92ee2759dd39" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
