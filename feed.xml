@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 11:51:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 11:52:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Snowflake caem enquanto os investidores avaliam uma mudança surpresa de liderança</title>
+      <description>Mike Gannon, diretor de receitas da empresa de software, está deixando o cargo por motivos pessoais após um ano no cargo.</description>
+      <link>https://www.marketwatch.com/story/snowflakes-stock-falls-as-investors-weigh-a-surprise-leadership-shift-adb5a2cc?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/snowflakes-stock-falls-as-investors-weigh-a-surprise-leadership-shift-adb5a2cc?mod=mw_rss_topstories</guid>
+      <pubDate>31/03/2026 11:52</pubDate>
+      <enclosure url="https://images.mktw.net/im-233026" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tether corta dois traders de ouro contratados há três meses, diz fonte</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-backs-terex-corp-133517095.html</guid>
       <pubDate>31/03/2026 10:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/7504bfdf9470168e457d1daaa3aa52b4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Todos os olhos voltados para os lucros da PVH enquanto gigante do vestuário enfrenta teste de margem</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/all-eyes-on-pvh-earnings-as-apparel-giant-faces-margin-test-93CH-4590750</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/all-eyes-on-pvh-earnings-as-apparel-giant-faces-margin-test-93CH-4590750</guid>
-      <pubDate>31/03/2026 10:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
