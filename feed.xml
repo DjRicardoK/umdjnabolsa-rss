@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 13:29:38 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:39:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Apesar da guerra em curso com o Irã, o ETF da Invesco Aerospace &amp; Defense continua caindo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/despite-ongoing-iran-war-invesco-163052498.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/despite-ongoing-iran-war-invesco-163052498.html</guid>
+      <pubDate>31/03/2026 13:39</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/3ba62a02d3ab4cb93e3df47c85a0108f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Barrick Mining Corporation (B) subiu com os fortes preços do ouro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/oil-prices-goldman-sachs-research-151503808.html</guid>
       <pubDate>31/03/2026 12:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/proactive_us_504/3214ac5a05a3062a15bead4503510eea" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Analista corta Colgate-Palmolive devido ao aumento dos custos de insumos e crescimento mais lento dos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/analyst-cuts-colgatepalmolive-on-rising-input-costs-slower-earnings-growth-4590940</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analyst-cuts-colgatepalmolive-on-rising-input-costs-slower-earnings-growth-4590940</guid>
-      <pubDate>31/03/2026 12:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEA9N0IF_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
