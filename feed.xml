@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:27:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:30:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Alternativas de ouro? Como investir em prata, platina e paládio.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-silver-platinum-and-palladium-145904726.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-silver-platinum-and-palladium-145904726.html</guid>
+      <pubDate>31/03/2026 12:29</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-09/babb8880-9b1b-11f0-aa7f-c67a4b430e50" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da CoreWeave sobem à medida que os investidores aplaudem um acordo de financiamento exclusivo</title>
       <description>Esta é a primeira vez que um empréstimo garantido por hardware de computação atinge o status de grau de investimento.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/more-college-students-will-need-to-turn-to-private-loans-to-pay-for-school-but-40-of-americans-wont-qualify-according-to-a-new-report-db70f86d?mod=mw_rss_topstories</guid>
       <pubDate>31/03/2026 11:17</pubDate>
       <enclosure url="https://images.mktw.net/im-71234391" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro está a caminho do pior mês desde 2008</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/gold-track-worst-month-since-140300996.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-track-worst-month-since-140300996.html</guid>
-      <pubDate>31/03/2026 11:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/20dbac786e86088578c5b1429c063ddc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
