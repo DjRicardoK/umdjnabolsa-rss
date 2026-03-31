@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 21:05:49 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 21:16:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da RenovoRx superou, receita ficou aquém das estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/renovorx-earnings-beat-revenue-fell-short-of-estimates-4589078</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/renovorx-earnings-beat-revenue-fell-short-of-estimates-4589078</guid>
+      <pubDate>30/03/2026 21:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Western Digital é a ação Nasdaq-100 com melhor desempenho. Isso pode continuar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/peter-schiff-warns-inflation-could-110000701.html</guid>
       <pubDate>30/03/2026 16:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/92c50388ca7b5e337d26b8ebc9c3b2d2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O presidente do Fed, Jerome Powell, acaba de enviar um sinal que pode abalar o mercado de ações</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/fed-chair-jerome-powell-just-103500722.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-chair-jerome-powell-just-103500722.html</guid>
-      <pubDate>30/03/2026 16:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/9001a68fabd6dfb73132df90e295549f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
