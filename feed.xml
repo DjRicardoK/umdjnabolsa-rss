@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 03:42:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 04:09:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A DLocal Limited (DLO) é uma das ações de crescimento mais subvalorizadas para comprar, de acordo com os...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/dlocal-limited-dlo-one-most-195653659.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dlocal-limited-dlo-one-most-195653659.html</guid>
+      <pubDate>31/03/2026 04:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d6f4cd91da35b6ec2684ae27cb5f4522" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Exclusive-Vingroup propõe desmantelamento do plano de usina movida a GNL para energias renováveis ​​em meio à...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-top-airlines-cautious-on-outlook-as-iran-war-raises-fuel-costs-4589127</guid>
       <pubDate>31/03/2026 01:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U05U_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações da Ásia misturadas com a guerra do Irã em foco; Coreia do Sul lidera perdas em março</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-mixed-with-iran-war-in-focus-skorea-leads-march-losses-4589124</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-mixed-with-iran-war-in-focus-skorea-leads-march-losses-4589124</guid>
-      <pubDate>31/03/2026 01:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEABM09Q_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
