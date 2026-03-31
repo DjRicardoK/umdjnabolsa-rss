@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 11:05:02 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 11:14:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro está a caminho do pior mês desde 2008</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/gold-track-worst-month-since-140300996.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-track-worst-month-since-140300996.html</guid>
+      <pubDate>31/03/2026 11:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/20dbac786e86088578c5b1429c063ddc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O negócio de satélites da Amazon obtém outra vitória ao tentar desafiar o Starlink de Musk</title>
       <description>A Delta Air Lines disse que equiparia centenas de aeronaves com o nascente sistema de internet via satélite da Amazon.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/unilever-works-council-warns-of-union-action-if-workers-are-not-protected-in-mccormick-deal-4590181</guid>
       <pubDate>31/03/2026 09:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0R4_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Irã incendeia petroleiro gigante em Dubai após alertas de Trump</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/giant-oil-tanker-off-dubai-hit-by-iranian-strike-trump-threatens-to-obliterate-iran-energy-oil-plants-4589119</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/giant-oil-tanker-off-dubai-hit-by-iranian-strike-trump-threatens-to-obliterate-iran-energy-oil-plants-4589119</guid>
-      <pubDate>31/03/2026 09:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U03X_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
