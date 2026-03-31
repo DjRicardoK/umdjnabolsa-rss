@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 20:06:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 20:13:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump diz que EUA podem encerrar guerra com o Irã em duas a três semanas</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/trump-says-us-could-end-war-iniran-in-two-to-three-weeks-4591810</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-says-us-could-end-war-iniran-in-two-to-three-weeks-4591810</guid>
+      <pubDate>31/03/2026 20:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U1F8_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os investidores se preparam para mais volatilidade no mercado de ações, à medida que o primeiro trimestre...</title>
       <description>Os ganhos do último dia não impediram o S&amp;P 500 de registar o seu pior primeiro trimestre desde 2022, uma vez que o conflito no Irão, as preocupações com o crédito privado e o...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/colombia-government-withdrawsfrom-central-bank-board-finance-minister-says-4591222</guid>
       <pubDate>31/03/2026 19:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U187_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A rota das grandes ações de tecnologia está sinalizando uma reviravolta</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-rout-flashing-112815599.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-rout-flashing-112815599.html</guid>
-      <pubDate>31/03/2026 19:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/3a63dbf41b7d45099513247e1ffc83ad" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
