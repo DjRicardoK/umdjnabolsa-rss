@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 18:11:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:16:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Além dos lucros da carne perdidos em US$ 0,15, a receita ficou aquém das estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/beyond-meat-earnings-missed-by-015-revenue-fell-short-of-estimates-4591660</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/beyond-meat-earnings-missed-by-015-revenue-fell-short-of-estimates-4591660</guid>
+      <pubDate>31/03/2026 18:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que abril pode ser um ponto de viragem para as ações da Tesla</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-bond-102637299.html</guid>
       <pubDate>31/03/2026 16:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/fcebfc40d659e147fc2e5eab7e6cb524" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos ganhos de Norfolk Southern: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/norfolk-southern-earnings-preview-expect-101340953.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/norfolk-southern-earnings-preview-expect-101340953.html</guid>
-      <pubDate>31/03/2026 16:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/7c47458813a1f536d4ae137f5a06de5d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
