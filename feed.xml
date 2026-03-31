@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:36:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:39:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BTIG reitera compra de ações do Grupo MiniMed, meta de US$ 25 no crescimento da AID</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/btig-reiterates-buy-on-minimed-group-stock-25-target-on-aid-growth-93CH-4589781</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/btig-reiterates-buy-on-minimed-group-stock-25-target-on-aid-growth-93CH-4589781</guid>
+      <pubDate>31/03/2026 07:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços do gás atingem US$ 4 por galão pela primeira vez em quase quatro anos</title>
       <description>O custo médio da gasolina subiu para US$ 4,018 por galão, à medida que a guerra no Irã aumenta os preços da energia</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-to-maintain-appropriately-loose-monetary-policy-4589597</guid>
       <pubDate>31/03/2026 06:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0JL_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Inflação na zona do euro ultrapassa meta do BCE devido ao choque do petróleo</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/euro-zone-inflation-surges-past-ecb-target-on-oil-shock-4589557</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/euro-zone-inflation-surges-past-ecb-target-on-oil-shock-4589557</guid>
-      <pubDate>31/03/2026 06:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0I3_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
