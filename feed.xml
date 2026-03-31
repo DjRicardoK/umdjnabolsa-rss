@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 16:02:39 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 16:10:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos de Norfolk Southern: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/norfolk-southern-earnings-preview-expect-101340953.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/norfolk-southern-earnings-preview-expect-101340953.html</guid>
+      <pubDate>31/03/2026 16:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/7c47458813a1f536d4ae137f5a06de5d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE RBC Capital reitera classificação das ações da Chemours sobre perspectiva de margem de TiO2</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-atlanta-for-31-march-93CH-4591152</guid>
       <pubDate>31/03/2026 14:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As farmacêuticas atrasam alguns lançamentos europeus com cautela nas políticas de preços de Trump</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/drugmakers-delay-some-european-launches-with-a-wary-eye-on-trumps-pricing-policies-4589156</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/drugmakers-delay-some-european-launches-with-a-wary-eye-on-trumps-pricing-policies-4589156</guid>
-      <pubDate>31/03/2026 14:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U09A_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
