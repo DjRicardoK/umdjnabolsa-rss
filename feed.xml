@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:56:54 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:58:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações do Grupo AIRO caem quase 14% devido à perda de lucros do quarto trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/airo-group-shares-tumble-nearly-14-on-fourth-quarter-earnings-miss-93CH-4589872</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/airo-group-shares-tumble-nearly-14-on-fourth-quarter-earnings-miss-93CH-4589872</guid>
+      <pubDate>31/03/2026 07:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Minha esposa e eu compramos CDs promocionais com nosso cheque de restituição de impostos. Agora é um mau...</title>
       <description>“Não temos experiência com Tesouros.”</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/apple-watch-rival-whoop-is-raising-575-million-from-investors-including-cristiano-ronaldo-lebron-james-100052521.html</guid>
       <pubDate>31/03/2026 07:04</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/db461790-2c6c-11f1-97d3-7c23b9b063f3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE JD Wetherspoon rebaixado enquanto Barclays alerta sobre reduções fiscais e &quot;aperto do consumidor&quot;</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/jd-wetherspoon-downgraded-as-barclays-warns-of-tax-hits-and-consumer-squeeze-4589603</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/jd-wetherspoon-downgraded-as-barclays-warns-of-tax-hits-and-consumer-squeeze-4589603</guid>
-      <pubDate>31/03/2026 07:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBB30F5_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
