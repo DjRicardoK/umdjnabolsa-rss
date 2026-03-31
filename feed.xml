@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 14:51:56 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 14:54:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A Oracle supostamente começa a cortar milhares de empregos em meio a um grande impulso de gastos com IA</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/oracle-stock-layoffs-ai-orcl/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/oracle-stock-layoffs-ai-orcl/?src=A00220&yptr=yahoo</guid>
+      <pubDate>31/03/2026 14:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/24a35f5f0e035f7943d664a16473cb8b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE (GOOGL) é uma das melhores ações da Goldman Sachs AI: as 12 principais ações para comprar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/factset-research-systems-q2-earnings-160854245.html</guid>
       <pubDate>31/03/2026 13:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/54d0b63a5a7a879793281dd592a3674d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow e Nasdaq seguem as palavras de Trump; Biotecnologia sobe (cobertura ao vivo)</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-war-oil-prices-climb/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-war-oil-prices-climb/?src=A00220&yptr=yahoo</guid>
-      <pubDate>31/03/2026 13:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/961f00256e85b9af63f9bb60bf2852fb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
