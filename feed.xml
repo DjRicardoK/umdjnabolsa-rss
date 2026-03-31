@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:56:05 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 03:20:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Micron acaba de ter sua pior semana de 2026. A temporada de ganhos é o ponto de viragem?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/micron-just-had-worst-week-185000992.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-just-had-worst-week-185000992.html</guid>
+      <pubDate>31/03/2026 03:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e92e94de862563fc1b59fcb8e822edce" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A receita da SoftwareONE 2025 sobe 22,5% com a aquisição da Crayon</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/wall-street-touts-grind-lower-140002340.html</guid>
       <pubDate>31/03/2026 00:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/272efcbae2f07ab57d33b94b6227ba24" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O HBM4 da Micron está agora em produção em massa para a plataforma de próxima geração da Nvidia. Este pode...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/microns-hbm4-now-mass-production-155000477.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microns-hbm4-now-mass-production-155000477.html</guid>
-      <pubDate>31/03/2026 00:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/705e1365b7cc7b13dcc5ead165a49624" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
