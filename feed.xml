@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:35:37 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:47:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer sobre NVIDIA: “Para mim, você só tem a chance de comprar ações de alta qualidade por um preço mais...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-nvidia-only-being-194121085.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-nvidia-only-being-194121085.html</guid>
+      <pubDate>31/03/2026 02:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Petróleo Brent atinge ganho mensal recorde; ações provisórias enquanto a guerra no Irã se intensifica</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-factory-activity-returns-to-expansion-pmi-shows-4589110</guid>
       <pubDate>30/03/2026 23:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U02C_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Futuros de ações saltam, preços do petróleo recuam com relatório de que Trump está disposto a acabar com a...</title>
-      <description>O presidente está disposto a encerrar as hostilidades mesmo que o Estreito de Ormuz permaneça praticamente fechado, informa o WSJ</description>
-      <link>https://www.marketwatch.com/story/stock-futures-jump-oil-prices-retreat-on-report-trump-willing-to-end-war-7ad7ae49?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/stock-futures-jump-oil-prices-retreat-on-report-trump-willing-to-end-war-7ad7ae49?mod=mw_rss_topstories</guid>
-      <pubDate>30/03/2026 22:57</pubDate>
-      <enclosure url="https://images.mktw.net/im-13273434" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
