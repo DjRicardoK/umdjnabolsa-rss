@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:18:14 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:24:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do petróleo: pesquisa da Goldman Sachs revela o verdadeiro impacto do bloqueio do Estreito de Ormuz</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/oil-prices-goldman-sachs-research-151503808.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/oil-prices-goldman-sachs-research-151503808.html</guid>
+      <pubDate>31/03/2026 12:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/proactive_us_504/3214ac5a05a3062a15bead4503510eea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Analista corta Colgate-Palmolive devido ao aumento dos custos de insumos e crescimento mais lento dos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/amazons-satellite-business-gets-another-win-as-it-seeks-to-challenge-musks-starlink-9ecd6773?mod=mw_rss_topstories</guid>
       <pubDate>31/03/2026 11:04</pubDate>
       <enclosure url="https://images.mktw.net/im-76214638" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Microsoft são uma armadilha de valor?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-value-trap-135500050.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-value-trap-135500050.html</guid>
-      <pubDate>31/03/2026 11:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/731d7ceb2e579e8f50dadd3230b14e61" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
