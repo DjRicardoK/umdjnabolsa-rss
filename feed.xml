@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 01:29:51 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:36:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Nvidia enviam sinal de avaliação pela primeira vez em 13 anos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sends-valuation-signal-171700085.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sends-valuation-signal-171700085.html</guid>
+      <pubDate>31/03/2026 01:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/af6fd181a32e460a3677a69d9ce92e35" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O perfil de risco/recompensa do Blue Owl é quase bom demais para ser verdade</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/renovorx-earnings-beat-revenue-fell-short-of-estimates-4589078</guid>
       <pubDate>30/03/2026 21:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Western Digital é a ação Nasdaq-100 com melhor desempenho. Isso pode continuar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/western-digital-best-performing-nasdaq-123124157.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/western-digital-best-performing-nasdaq-123124157.html</guid>
-      <pubDate>30/03/2026 21:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/fcd08181c415f6500a73db049e6f94a4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
