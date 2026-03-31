@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 05:39:20 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 05:59:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: a resiliência da Hilton Food apesar dos desafios no quarto...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-hilton-foods-resilience-despite-challenges-in-q4-2025-93CH-4589525</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hilton-foods-resilience-despite-challenges-in-q4-2025-93CH-4589525</guid>
+      <pubDate>31/03/2026 05:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Irã alerta sobre pena de morte, apreensão de bens por espionagem e ajuda a inimigos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-just-had-worst-week-185000992.html</guid>
       <pubDate>31/03/2026 03:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e92e94de862563fc1b59fcb8e822edce" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A receita da SoftwareONE 2025 sobe 22,5% com a aquisição da Crayon</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/softwareone-2025-revenue-climbs-225-on-crayon-acquisition-93CH-4589139</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/softwareone-2025-revenue-climbs-225-on-crayon-acquisition-93CH-4589139</guid>
-      <pubDate>31/03/2026 02:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
