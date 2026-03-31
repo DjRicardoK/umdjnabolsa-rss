@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:24:21 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:25:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Baird reitera classificação das ações da Bloom Energy com fortes resultados de 2025</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/baird-reiterates-bloom-energy-stock-rating-on-strong-2025-results-93CH-4589697</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/baird-reiterates-bloom-energy-stock-rating-on-strong-2025-results-93CH-4589697</guid>
+      <pubDate>31/03/2026 07:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, Nasdaq sobem após o fechamento dos comentários de Trump sobre o fim da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-vici-properties-stock-rating-on-casino-acquisition-93CH-4589570</guid>
       <pubDate>31/03/2026 06:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os novos modelos do BCE podem ajudar a captar mudanças nas expectativas de inflação, afirma publicação no blog</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ecbs-new-models-may-help-capture-shifts-in-inflation-expectations-blog-post-says-4589542</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-new-models-may-help-capture-shifts-in-inflation-expectations-blog-post-says-4589542</guid>
-      <pubDate>31/03/2026 06:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0HR_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
