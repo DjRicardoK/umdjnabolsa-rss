@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 22:57:42 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 23:15:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O crescimento da atividade fabril da China atinge o máximo em 1 ano, mesmo com o aumento dos riscos de guerra</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/chinas-factory-activity-returns-to-expansion-pmi-shows-4589110</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-factory-activity-returns-to-expansion-pmi-shows-4589110</guid>
+      <pubDate>30/03/2026 23:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U02C_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Futuros de ações saltam, preços do petróleo recuam com relatório de que Trump está disposto a acabar com a...</title>
       <description>O presidente está disposto a encerrar as hostilidades mesmo que o Estreito de Ormuz permaneça praticamente fechado, informa o WSJ</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/iran-conflict-sending-oil-prices-133400107.html</guid>
       <pubDate>30/03/2026 19:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/8f4fd46e8197afc9b4e9891b181ee64c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lulu’s Fashion Lounge vê queda na receita do quarto trimestre...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lulus-fashion-lounge-sees-q4-2025-revenue-decline-stock-dips-93CH-4588924</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lulus-fashion-lounge-sees-q4-2025-revenue-decline-stock-dips-93CH-4588924</guid>
-      <pubDate>30/03/2026 18:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
