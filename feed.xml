@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 19:52:11 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:55:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Trump afirma que Micron é uma das ações &apos;mais quentes&apos;. Isso faz do MU uma compra aqui?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/trump-says-micron-one-hottest-144100426.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/trump-says-micron-one-hottest-144100426.html</guid>
+      <pubDate>31/03/2026 19:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fae4b372a461424f51dd553a237b350d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Duos Technologies no quarto trimestre de 2025 vê aumento de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ncino-stock-jumps-on-accelerated-growth-raymond-james-reiterates-93CH-4591770</guid>
       <pubDate>31/03/2026 18:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Transcrição da teleconferência de resultados: Sportsman’s Warehouse Q4 2026 supera as previsões de EPS</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-sportsmans-warehouse-q4-2026-beats-eps-forecasts-93CH-4591773</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sportsmans-warehouse-q4-2026-beats-eps-forecasts-93CH-4591773</guid>
-      <pubDate>31/03/2026 18:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
