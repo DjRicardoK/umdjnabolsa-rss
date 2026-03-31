@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 15:50:28 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 16:02:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE RBC Capital reitera classificação das ações da Chemours sobre perspectiva de margem de TiO2</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-chemours-stock-rating-on-tio2-margin-outlook-93CH-4591241</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-chemours-stock-rating-on-tio2-margin-outlook-93CH-4591241</guid>
+      <pubDate>31/03/2026 16:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Uma aquisição de 10 anos está finalmente rendendo muito para o Walmart. Os investidores da Amazon deveriam...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/drugmakers-delay-some-european-launches-with-a-wary-eye-on-trumps-pricing-policies-4589156</guid>
       <pubDate>31/03/2026 14:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U09A_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Warren Buffett não se comprometerá com mais doações à Fundação Gates</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/warren-buffett-will-not-commit-to-more-donations-to-gates-foundation-4590991</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/warren-buffett-will-not-commit-to-more-donations-to-gates-foundation-4590991</guid>
-      <pubDate>31/03/2026 14:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U126_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
