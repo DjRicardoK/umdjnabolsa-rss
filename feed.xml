@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:43:06 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:46:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Virgin Galactic sobe mais de 5% apesar da perda de lucros à medida que os testes da nave espacial se aproximam</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/virgin-galactic-rises-over-5-despite-earnings-miss-as-spaceship-testing-nears-93CH-4589809</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/virgin-galactic-rises-over-5-despite-earnings-miss-as-spaceship-testing-nears-93CH-4589809</guid>
+      <pubDate>31/03/2026 07:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Vox Royalty supera lucros, mas perde receita</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/telsey-reiterates-costco-stock-rating-sees-77-march-comp-growth-93CH-4589606</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/telsey-reiterates-costco-stock-rating-sees-77-march-comp-growth-93CH-4589606</guid>
       <pubDate>31/03/2026 07:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE IMC Exploration inicia produção de ouro nas instalações da Armênia</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/imc-exploration-begins-gold-production-at-armenia-facility-93CH-4589591</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/imc-exploration-begins-gold-production-at-armenia-facility-93CH-4589591</guid>
-      <pubDate>31/03/2026 06:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
