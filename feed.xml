@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 04:22:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 04:23:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Eu possuo Nvidia, Microsoft e Meta. Aqui está o que estou fazendo com todos os três agora.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/own-nvidia-microsoft-meta-heres-202000021.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/own-nvidia-microsoft-meta-heres-202000021.html</guid>
+      <pubDate>31/03/2026 04:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/6f21bff074196c16e5d80907f647df6d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Lockheed Martin Corporation (LMT) é uma das melhores ações de empreiteiros de defesa para comprar agora?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-still-seen-strong-173749088.html</guid>
       <pubDate>31/03/2026 01:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d653eb35ca56fb085471502a418a1a7e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Nvidia enviam sinal de avaliação pela primeira vez em 13 anos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sends-valuation-signal-171700085.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sends-valuation-signal-171700085.html</guid>
-      <pubDate>31/03/2026 01:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/af6fd181a32e460a3677a69d9ce92e35" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
