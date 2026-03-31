@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:25:39 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:25:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Evercore ISI reitera Outperform em ações da AppLovin, meta de US$ 750</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-outperform-on-applovin-stock-750-target-93CH-4589696</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-outperform-on-applovin-stock-750-target-93CH-4589696</guid>
+      <pubDate>31/03/2026 07:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Baird reitera classificação das ações da Bloom Energy com fortes resultados de 2025</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-blue-owl-capital-stock-rating-on-credit-strength-93CH-4589569</guid>
       <pubDate>31/03/2026 06:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citizens reitera classificação de ações da VICI Properties na aquisição de cassino</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-vici-properties-stock-rating-on-casino-acquisition-93CH-4589570</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-vici-properties-stock-rating-on-casino-acquisition-93CH-4589570</guid>
-      <pubDate>31/03/2026 06:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
