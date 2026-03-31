@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 01:36:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:46:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Netskope (NTSK) ainda é vista como “forte compra” por analistas de Wall Street</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-still-seen-strong-173749088.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-still-seen-strong-173749088.html</guid>
+      <pubDate>31/03/2026 01:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d653eb35ca56fb085471502a418a1a7e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Nvidia enviam sinal de avaliação pela primeira vez em 13 anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/constellation-software-buys-123-million-in-sabre-corp-shares-93CH-4589076</guid>
       <pubDate>30/03/2026 21:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro da RenovoRx superou, receita ficou aquém das estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/renovorx-earnings-beat-revenue-fell-short-of-estimates-4589078</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/renovorx-earnings-beat-revenue-fell-short-of-estimates-4589078</guid>
-      <pubDate>30/03/2026 21:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
