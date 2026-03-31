@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 04:23:21 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 04:23:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE SLB N.V. (SLB) aprofunda parceria com a Nvidia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/slb-n-v-slb-deepens-201740218.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/slb-n-v-slb-deepens-201740218.html</guid>
+      <pubDate>31/03/2026 04:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6cbeaf70baa7f3889976a41c5ab100ea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Eu possuo Nvidia, Microsoft e Meta. Aqui está o que estou fazendo com todos os três agora.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-pattern-group-173753066.html</guid>
       <pubDate>31/03/2026 01:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3e50843fb1789c55c318ebdc6c26005a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Netskope (NTSK) ainda é vista como “forte compra” por analistas de Wall Street</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-still-seen-strong-173749088.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netskope-ntsk-still-seen-strong-173749088.html</guid>
-      <pubDate>31/03/2026 01:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d653eb35ca56fb085471502a418a1a7e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
