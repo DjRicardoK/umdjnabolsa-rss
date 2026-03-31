@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:36:12 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:36:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações de Nakamoto atingem novo mínimo depois que empresa de tesouraria de Bitcoin vende BTC</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/nakamoto-shares-hit-low-bitcoin-152556209.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/nakamoto-shares-hit-low-bitcoin-152556209.html</guid>
+      <pubDate>31/03/2026 12:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/decrypt_157/d587c4cf34772d205097ad85feb851ef" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Alternativas de ouro? Como investir em prata, platina e paládio.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-burlington-stores-stock-cites-value-strategy-93CH-4590833</guid>
       <pubDate>31/03/2026 11:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Dawson Geophysical Q4 2025 mostra forte crescimento de receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-dawson-geophysical-q4-2025-shows-strong-revenue-growth-93CH-4590853</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dawson-geophysical-q4-2025-shows-strong-revenue-growth-93CH-4590853</guid>
-      <pubDate>31/03/2026 11:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
