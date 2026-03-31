@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 05:32:05 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 05:39:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Irã alerta sobre pena de morte, apreensão de bens por espionagem e ajuda a inimigos</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/iran-warns-of-death-penalty-asset-seizures-for-spying-aiding-enemies-4589510</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/iran-warns-of-death-penalty-asset-seizures-for-spying-aiding-enemies-4589510</guid>
+      <pubDate>31/03/2026 05:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0GF_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A inflação francesa aumenta à medida que a actividade económica enfraquece</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/softwareone-2025-revenue-climbs-225-on-crayon-acquisition-93CH-4589139</guid>
       <pubDate>31/03/2026 02:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do ouro sobem com foco na desescalada do Irã; preparado para perdas contundentes em março</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-rise-with-iran-deescalation-in-focus-set-for-bruising-march-losses-4589140</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-rise-with-iran-deescalation-in-focus-set-for-bruising-march-losses-4589140</guid>
-      <pubDate>31/03/2026 02:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1L0SQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
