@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 13:21:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:21:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lendo os ganhos do Int B perdidos em US$ 0,01, a receita ficou aquém das estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/reading-int-b-earnings-missed-by-001-revenue-fell-short-of-estimates-4591039</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/reading-int-b-earnings-missed-by-001-revenue-fell-short-of-estimates-4591039</guid>
+      <pubDate>31/03/2026 13:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Truist reitera classificação das ações da American Express sobre o impulso dos gastos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/coeur-mining-inc-cde-strengthens-144713328.html</guid>
       <pubDate>31/03/2026 11:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2fb6007f5bcc8370df102c7a229059f1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Snowflake caem enquanto os investidores avaliam uma mudança surpresa de liderança</title>
-      <description>Mike Gannon, diretor de receitas da empresa de software, está deixando o cargo por motivos pessoais após um ano no cargo.</description>
-      <link>https://www.marketwatch.com/story/snowflakes-stock-falls-as-investors-weigh-a-surprise-leadership-shift-adb5a2cc?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/snowflakes-stock-falls-as-investors-weigh-a-surprise-leadership-shift-adb5a2cc?mod=mw_rss_topstories</guid>
-      <pubDate>31/03/2026 11:52</pubDate>
-      <enclosure url="https://images.mktw.net/im-233026" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
