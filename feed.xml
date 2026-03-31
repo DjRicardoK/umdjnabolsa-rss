@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 13:08:27 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:12:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: Dow e Nasdaq seguem as palavras de Trump; Biotecnologia sobe (cobertura ao vivo)</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-war-oil-prices-climb/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-war-oil-prices-climb/?src=A00220&yptr=yahoo</guid>
+      <pubDate>31/03/2026 13:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/961f00256e85b9af63f9bb60bf2852fb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE NXP Semiconductors (NXPI) anuncia colaboração com Nvidia em soluções de robótica</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-290-4590916</guid>
       <pubDate>31/03/2026 11:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0S0CP_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A confiança do consumidor melhora em março, à medida que a visão mais favorável do mercado de trabalho supera...</title>
-      <description>Consumidores esperam inflação e taxas de juros mais altas nos próximos meses</description>
-      <link>https://www.marketwatch.com/story/consumer-confidence-improves-in-march-as-brighter-job-market-view-outweighs-surging-costs-amid-war-c6e9ac7c?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/consumer-confidence-improves-in-march-as-brighter-job-market-view-outweighs-surging-costs-amid-war-c6e9ac7c?mod=mw_rss_topstories</guid>
-      <pubDate>31/03/2026 11:47</pubDate>
-      <enclosure url="https://images.mktw.net/im-80196306" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
