@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:04:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:14:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise – Petróleo e guerra são as principais preocupações dos mercados financeiros para um segundo trimestre...</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/analysisoil-and-war-top-financial-markets-worry-list-for-an-uncertain-q2-4589135</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/analysisoil-and-war-top-financial-markets-worry-list-for-an-uncertain-q2-4589135</guid>
+      <pubDate>31/03/2026 02:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB4I0B4_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ray Dalio sinaliza &apos;tempos arriscados&apos; - e alerta que dinheiro pode ser o pior lugar para se esconder</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/war-sets-dollar-for-monthly-rise-yen-recovers-on-intervention-threat-4589091</guid>
       <pubDate>30/03/2026 21:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U00W_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Fundo de pensão australiano de US$ 240 bilhões abocanha ações japonesas, europeias e títulos do Reino Unido</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/australian-240-billion-pension-fund-snaps-up-japanese-european-stocks-and-uk-bonds-4589095</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australian-240-billion-pension-fund-snaps-up-japanese-european-stocks-and-uk-bonds-4589095</guid>
-      <pubDate>30/03/2026 21:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U019_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
