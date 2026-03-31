@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 17:00:05 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 17:03:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O CEO do Rocket Lab, Peter Beck, faz uma declaração ao aceitar um corte de salário de US$ 799.999</title>
+      <description>A empresa diz que pegará o dinheiro que teria sido destinado aos futuros salários e bônus de Beck e o aplicará em projetos de P&amp;D.</description>
+      <link>https://www.marketwatch.com/story/rocket-lab-ceo-peter-beck-makes-a-statement-as-he-takes-a-799-999-pay-cut-819159d3?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/rocket-lab-ceo-peter-beck-makes-a-statement-as-he-takes-a-799-999-pay-cut-819159d3?mod=mw_rss_topstories</guid>
+      <pubDate>31/03/2026 17:03</pubDate>
+      <enclosure url="https://images.mktw.net/im-78123453" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os títulos estão ajudando as ações. Por que isso não é uma coisa boa.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-t-earnings-release-090130799.html</guid>
       <pubDate>31/03/2026 15:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/69716b4a62933280e62670a5d6cb6368" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Amphenol: o que você precisa saber</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amphenol-quarterly-earnings-preview-know-085744643.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amphenol-quarterly-earnings-preview-know-085744643.html</guid>
-      <pubDate>31/03/2026 15:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9e38b807103b89e88709e19a013e05a9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
