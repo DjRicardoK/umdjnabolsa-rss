@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 30 Mar 2026 21:16:23 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 21:52:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O S&amp;P 500 concluiu esse feito raro quatro vezes em 76 anos, e a história não poderia ser mais clara sobre o...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/p-500-completed-rare-feat-132600616.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/p-500-completed-rare-feat-132600616.html</guid>
+      <pubDate>30/03/2026 21:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/210ffe6e1bf22aa90dad35e6309a0d06" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Oxbridge Re superou US$ 0,04, receita ficou aquém das estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/vertiv-to-invest-50m-add-730-jobs-at-ohio-facilities-93CH-4588726</guid>
       <pubDate>30/03/2026 17:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Phreesia caem 22% devido à perda de lucros e redução da orientação</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/phreesia-shares-tumble-22-on-earnings-miss-slashed-guidance-93CH-4588730</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/phreesia-shares-tumble-22-on-earnings-miss-slashed-guidance-93CH-4588730</guid>
-      <pubDate>30/03/2026 17:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
