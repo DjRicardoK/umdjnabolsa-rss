@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 15:27:27 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:50:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Uma aquisição de 10 anos está finalmente rendendo muito para o Walmart. Os investidores da Amazon deveriam...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/10-old-acquisition-finally-paying-095000373.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/10-old-acquisition-finally-paying-095000373.html</guid>
+      <pubDate>31/03/2026 15:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/25edb6809920191e1dcecc1297c27916" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 8K FEDERAL HOME LOAN BANK OF SAN FRANCISCO Para: 31 de março</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/warren-buffett-will-not-commit-to-more-donations-to-gates-foundation-4590991</guid>
       <pubDate>31/03/2026 14:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U126_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do quarto trimestre da Charlotte&apos;s Web</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/charlottes-q4-earnings-call-highlights-170457114.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/charlottes-q4-earnings-call-highlights-170457114.html</guid>
-      <pubDate>31/03/2026 14:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/6f2a49b383a59ab7daa931ff647b9b3a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
