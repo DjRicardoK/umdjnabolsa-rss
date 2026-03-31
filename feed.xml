@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:04:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:07:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise – Próximo teste do mercado do Tesouro: aumento dos custos da guerra</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/analysistreasury-markets-next-test-rising-war-costs-4589632</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysistreasury-markets-next-test-rising-war-costs-4589632</guid>
+      <pubDate>31/03/2026 07:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores taxas de conta do mercado monetário hoje, 31 de março de 2026 (ganhe até 4,01% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-rzlv-betting-204942465.html</guid>
       <pubDate>31/03/2026 05:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6e05024de04e2f40c1093571a18bf29f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A economia do Reino Unido mancou até o final do ano passado, antes da guerra com o Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/uk-economy-grew-by-01-at-the-end-of-2025-ons-confirms-4589164</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/uk-economy-grew-by-01-at-the-end-of-2025-ons-confirms-4589164</guid>
-      <pubDate>31/03/2026 04:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U09I_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
