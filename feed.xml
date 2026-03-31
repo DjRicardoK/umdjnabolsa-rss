@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:46:52 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:46:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que a Merck &amp; Co. (MRK) é uma das ações mais acessíveis para comprar com bom crescimento de lucros?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-merck-co-mrk-one-153059603.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-merck-co-mrk-one-153059603.html</guid>
+      <pubDate>31/03/2026 12:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3c1e6d485df373db04a8fd19fdaf6c3a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de tecnologia hoje: as ações da Big Tech sobem, Meta testa uma assinatura premium do Instagram</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/retailers-warn-guaranteed-hours-plans-143042050.html</guid>
       <pubDate>31/03/2026 11:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/retail_insight_network_724/dbf6fcfe4869db4080cd38cc3d6127a0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Essas 20 ações do S&amp;P 500 caíram mais fortemente em março</title>
-      <description>Essas ações tiveram quedas significativas no mês.</description>
-      <link>https://www.marketwatch.com/story/these-20-stocks-in-the-s-p-500-fell-hardest-during-march-cdd8d670?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/these-20-stocks-in-the-s-p-500-fell-hardest-during-march-cdd8d670?mod=mw_rss_topstories</guid>
-      <pubDate>31/03/2026 11:34</pubDate>
-      <enclosure url="https://images.mktw.net/im-35435502" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
