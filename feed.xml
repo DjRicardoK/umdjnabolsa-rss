@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 19:03:39 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:03:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da Lennox International</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-lennox-internationals-next-134845634.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-lennox-internationals-next-134845634.html</guid>
+      <pubDate>31/03/2026 19:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Palantir está desenvolvendo o ‘núcleo’ do Golden Dome. Isso torna o estoque PLTR uma compra agora?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/microns-stock-bounces-higher-is-the-memory-trade-back-on-5b09edb1?mod=mw_rss_topstories</guid>
       <pubDate>31/03/2026 17:41</pubDate>
       <enclosure url="https://images.mktw.net/im-41304049" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nike cai após o expediente com resultados mostrando vendas fracas na China e pressão na margem bruta</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/nike-slips-after-hours-as-results-show-soft-china-sales-gross-margin-pressure-4591149</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/nike-slips-after-hours-as-results-show-soft-china-sales-gross-margin-pressure-4591149</guid>
-      <pubDate>31/03/2026 17:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECB50XY_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
