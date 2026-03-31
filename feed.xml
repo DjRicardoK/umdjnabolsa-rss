@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:39:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:43:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Vox Royalty supera lucros, mas perde receita</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/vox-royalty-beats-earnings-but-misses-on-revenue-93CH-4589776</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/vox-royalty-beats-earnings-but-misses-on-revenue-93CH-4589776</guid>
+      <pubDate>31/03/2026 07:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BTIG reitera compra de ações do Grupo MiniMed, meta de US$ 25 no crescimento da AID</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/imc-exploration-begins-gold-production-at-armenia-facility-93CH-4589591</guid>
       <pubDate>31/03/2026 06:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China manterá política monetária apropriadamente frouxa</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/china-to-maintain-appropriately-loose-monetary-policy-4589597</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-to-maintain-appropriately-loose-monetary-policy-4589597</guid>
-      <pubDate>31/03/2026 06:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0JL_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
