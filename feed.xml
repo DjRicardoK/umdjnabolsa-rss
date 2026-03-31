@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:14:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:14:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Da Nvidia à Microsoft, sete ações magníficas estão em ruínas, exceto uma - hora de comprar o mergulho?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-microsoft-magnificent-seven-stocks-100110445.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-microsoft-magnificent-seven-stocks-100110445.html</guid>
+      <pubDate>31/03/2026 07:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/12ee8bd1b78a59ad75dc42c1fd767e6e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços da gasolina chegam a US$ 4 o galão pela primeira vez desde que a guerra do Irã se arrasta em 2022</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hilton-foods-resilience-despite-challenges-in-q4-2025-93CH-4589525</guid>
       <pubDate>31/03/2026 05:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Irã alerta sobre pena de morte, apreensão de bens por espionagem e ajuda a inimigos</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/iran-warns-of-death-penalty-asset-seizures-for-spying-aiding-enemies-4589510</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/iran-warns-of-death-penalty-asset-seizures-for-spying-aiding-enemies-4589510</guid>
-      <pubDate>31/03/2026 05:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0GF_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
