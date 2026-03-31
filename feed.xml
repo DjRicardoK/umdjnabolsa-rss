@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:30:07 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:36:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Alternativas de ouro? Como investir em prata, platina e paládio.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/investing/article/gold-alternatives-how-to-invest-in-silver-platinum-and-palladium-145904446.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/gold-alternatives-how-to-invest-in-silver-platinum-and-palladium-145904446.html</guid>
+      <pubDate>31/03/2026 12:36</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-09/babb8880-9b1b-11f0-aa7f-c67a4b430e50" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que estou sendo cauteloso com a NVIDIA – e com as ações que prefiro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dawson-geophysical-q4-2025-shows-strong-revenue-growth-93CH-4590853</guid>
       <pubDate>31/03/2026 11:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE S&amp;P 500 mostra alguns vencedores surpresa após um mês de guerra</title>
-      <description></description>
-      <link>https://www.investors.com/news/sp-500-stocks-markets-dow-jones-lyondellbasell-industrials-oil-iran-war-middle-east/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/sp-500-stocks-markets-dow-jones-lyondellbasell-industrials-oil-iran-war-middle-east/?src=A00220&yptr=yahoo</guid>
-      <pubDate>31/03/2026 11:25</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/4ffce5ba941709e4648d2388e12b3baf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
