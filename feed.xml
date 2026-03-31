@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 16:17:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 16:28:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 3 razões pelas quais estou comprando ações da Amazon agora mesmo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-reasons-im-buying-amazon-102500019.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-reasons-im-buying-amazon-102500019.html</guid>
+      <pubDate>31/03/2026 16:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/87b6506cf7e0f33f64eb1855ee33dd2a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações devem abrir em alta à medida que os rendimentos dos títulos caem devido às apostas de aumento das...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-googl-one-best-173933801.html</guid>
       <pubDate>31/03/2026 14:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/acc3a983c04b0b7ea0edd5ee94a10586" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon (AMZN) pretende reviver smartphones mais de dez anos após a falha do Fire Phone</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-intends-revive-smartphones-173957266.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-intends-revive-smartphones-173957266.html</guid>
-      <pubDate>31/03/2026 14:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9baac060b3492fd9d9adb719d7ace0aa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
