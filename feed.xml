@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 20:13:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 20:14:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tesla parece ter um novo plano diretor... e a SpaceX é uma grande parte dele</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-appears-master-plan-spacex-150651232.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-appears-master-plan-spacex-150651232.html</guid>
+      <pubDate>31/03/2026 20:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/21c8de48decad8192bf12d56783343fb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump diz que EUA podem encerrar guerra com o Irã em duas a três semanas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/stocks-surge-ending-a-tough-month-on-a-high-note-but-theres-skepticism-about-the-rally-4ee11873?mod=mw_rss_topstories</guid>
       <pubDate>31/03/2026 19:18</pubDate>
       <enclosure url="https://images.mktw.net/im-78414392" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco central da Colômbia aumenta taxas para 11,25%, governo se retira do conselho</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/colombia-government-withdrawsfrom-central-bank-board-finance-minister-says-4591222</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/colombia-government-withdrawsfrom-central-bank-board-finance-minister-says-4591222</guid>
-      <pubDate>31/03/2026 19:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U187_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
