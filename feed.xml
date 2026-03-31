@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:01:44 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:01:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE JD Wetherspoon rebaixado enquanto Barclays alerta sobre reduções fiscais e &quot;aperto do consumidor&quot;</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/jd-wetherspoon-downgraded-as-barclays-warns-of-tax-hits-and-consumer-squeeze-4589603</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/jd-wetherspoon-downgraded-as-barclays-warns-of-tax-hits-and-consumer-squeeze-4589603</guid>
+      <pubDate>31/03/2026 07:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBB30F5_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Telsey reitera classificação das ações da Costco e vê crescimento de 7,7% na comparação de março</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vesuvius-plc-misses-q4-2025-earnings-forecast-93CH-4589472</guid>
       <pubDate>31/03/2026 04:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Institutos exclusivamente alemães cortam previsões de crescimento para 2026 e 2027 e aumentam perspectivas de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/german-institutes-cut-2026-economic-growth-outlook-over-iran-war-say-sources-4589289</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/german-institutes-cut-2026-economic-growth-outlook-over-iran-war-say-sources-4589289</guid>
-      <pubDate>31/03/2026 04:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0BO_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
