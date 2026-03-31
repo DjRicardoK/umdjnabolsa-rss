@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 14:57:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 14:59:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Leerink reitera classificação das ações da Fulcrum Therapeutics sobre flexibilidade da FDA</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/leerink-reiterates-fulcrum-therapeutics-stock-rating-on-fda-flexibility-93CH-4591171</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/leerink-reiterates-fulcrum-therapeutics-stock-rating-on-fda-flexibility-93CH-4591171</guid>
+      <pubDate>31/03/2026 14:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Oracle começa a cortar milhares de empregos, relata CNBC</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/reading-int-earnings-missed-by-001-revenue-fell-short-of-estimates-4591038</guid>
       <pubDate>31/03/2026 13:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lendo os ganhos do Int B perdidos em US$ 0,01, a receita ficou aquém das estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/reading-int-b-earnings-missed-by-001-revenue-fell-short-of-estimates-4591039</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/reading-int-b-earnings-missed-by-001-revenue-fell-short-of-estimates-4591039</guid>
-      <pubDate>31/03/2026 13:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
