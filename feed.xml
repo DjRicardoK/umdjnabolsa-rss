@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 19:22:55 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:23:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Arm está fazendo ‘movimentos ousados’ com novos chips internos e Wall Street adora. Por que Needham diz que...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/arm-making-bold-moves-house-140742286.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/arm-making-bold-moves-house-140742286.html</guid>
+      <pubDate>31/03/2026 19:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/86f3b32541ffef17cf4778d64d7ad3e4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações se recuperam com a queda dos rendimentos das notas do T</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/beyond-meat-earnings-missed-by-015-revenue-fell-short-of-estimates-4591660</guid>
       <pubDate>31/03/2026 18:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que abril pode ser um ponto de viragem para as ações da Tesla</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-april-could-turning-point-125000625.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-april-could-turning-point-125000625.html</guid>
-      <pubDate>31/03/2026 18:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/995212318072d5128ebb3d12149dc84b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
