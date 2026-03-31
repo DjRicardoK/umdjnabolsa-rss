@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 13:23:58 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:24:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Destaques da teleconferência de resultados do quarto trimestre da Aya Gold e Silver</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/aya-gold-silver-q4-earnings-160856667.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/aya-gold-silver-q4-earnings-160856667.html</guid>
+      <pubDate>31/03/2026 13:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/b8a4d13179032baf390847db042860e0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE The Mosaic Company (MOS) diminuiu com ganhos mistos, apesar das perspectivas restritas do mercado de fosfato</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-098-4590959</guid>
       <pubDate>31/03/2026 12:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: BIO-key Q4 2025 vê queda na receita, ações caem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-biokey-q4-2025-sees-revenue-dip-stock-falls-93CH-4590960</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-biokey-q4-2025-sees-revenue-dip-stock-falls-93CH-4590960</guid>
-      <pubDate>31/03/2026 12:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
