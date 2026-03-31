@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:07:38 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:07:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BTIG reitera compra de ações da Spyre após acordo com a J&amp;J validar abordagem</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/btig-reiterates-buy-on-spyre-stock-after-jj-deal-validates-approach-93CH-4589626</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/btig-reiterates-buy-on-spyre-stock-after-jj-deal-validates-approach-93CH-4589626</guid>
+      <pubDate>31/03/2026 07:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Análise – Ações de tecnologia dos EUA lutam por apelo de porto seguro nas consequências do mercado iraniano</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/economic-indicators/french-inflation-rises-as-economic-activity-weakens-93CH-4589494</link>
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/french-inflation-rises-as-economic-activity-weakens-93CH-4589494</guid>
       <pubDate>31/03/2026 05:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Samsung Electronics cancelará 87 milhões de ações em tesouraria</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/samsung-electronics-to-cancel-87-million-treasury-shares-93CH-4589491</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/samsung-electronics-to-cancel-87-million-treasury-shares-93CH-4589491</guid>
-      <pubDate>31/03/2026 05:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
