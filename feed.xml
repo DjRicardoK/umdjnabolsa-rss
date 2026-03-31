@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:24:23 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:27:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da CoreWeave sobem à medida que os investidores aplaudem um acordo de financiamento exclusivo</title>
+      <description>Esta é a primeira vez que um empréstimo garantido por hardware de computação atinge o status de grau de investimento.</description>
+      <link>https://www.marketwatch.com/story/coreweaves-stock-rises-as-investors-cheer-unique-financing-deal-e2d44c4e?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/coreweaves-stock-rises-as-investors-cheer-unique-financing-deal-e2d44c4e?mod=mw_rss_topstories</guid>
+      <pubDate>31/03/2026 12:27</pubDate>
+      <enclosure url="https://images.mktw.net/im-31372691" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do petróleo: pesquisa da Goldman Sachs revela o verdadeiro impacto do bloqueio do Estreito de Ormuz</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-track-worst-month-since-140300996.html</guid>
       <pubDate>31/03/2026 11:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/20dbac786e86088578c5b1429c063ddc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O negócio de satélites da Amazon obtém outra vitória ao tentar desafiar o Starlink de Musk</title>
-      <description>A Delta Air Lines disse que equiparia centenas de aeronaves com o nascente sistema de internet via satélite da Amazon.</description>
-      <link>https://www.marketwatch.com/story/amazons-satellite-business-gets-another-win-as-it-seeks-to-challenge-musks-starlink-9ecd6773?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/amazons-satellite-business-gets-another-win-as-it-seeks-to-challenge-musks-starlink-9ecd6773?mod=mw_rss_topstories</guid>
-      <pubDate>31/03/2026 11:04</pubDate>
-      <enclosure url="https://images.mktw.net/im-76214638" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
