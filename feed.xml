@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 17:10:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 17:17:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Morgan Stanley reitera classificação das ações do Alibaba sobre a força dos preços da nuvem</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-alibaba-stock-rating-on-cloud-pricing-strength-93CH-4591401</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-alibaba-stock-rating-on-cloud-pricing-strength-93CH-4591401</guid>
+      <pubDate>31/03/2026 17:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que as ações da EchoStar e da Rocket Lab podem ser as principais compras antes de um IPO da SpaceX</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-te-connectivity-next-090616998.html</guid>
       <pubDate>31/03/2026 15:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/16f7291ae84f110d3a2357667db97ba7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Docusign integra gerenciamento de contratos à plataforma Slack</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/docusign-integrates-contract-management-into-slack-platform-93CH-4591183</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/docusign-integrates-contract-management-into-slack-platform-93CH-4591183</guid>
-      <pubDate>31/03/2026 15:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
