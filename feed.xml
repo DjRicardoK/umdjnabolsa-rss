@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 19:09:48 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:13:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A rota das grandes ações de tecnologia está sinalizando uma reviravolta</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-rout-flashing-112815599.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/big-tech-stocks-rout-flashing-112815599.html</guid>
+      <pubDate>31/03/2026 19:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/3a63dbf41b7d45099513247e1ffc83ad" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados da Westinghouse Air Brake Technologies</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/resmed-earnings-preview-expect-122728833.html</guid>
       <pubDate>31/03/2026 17:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d6867b7856aa8d368644d4267e0ad800" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Esta ameaça à sua carteira criptografada está ainda mais próxima do que você pensa, alerta o Google</title>
-      <description>Quebrar a criptografia por trás das principais criptomoedas, como Bitcoin e Ether, pode ser mais fácil do que se pensava, de acordo com um novo artigo de pesquisa do Google...</description>
-      <link>https://www.marketwatch.com/story/this-threat-to-your-crypto-wallet-is-even-closer-than-you-think-google-warns-9398a502?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/this-threat-to-your-crypto-wallet-is-even-closer-than-you-think-google-warns-9398a502?mod=mw_rss_topstories</guid>
-      <pubDate>31/03/2026 17:50</pubDate>
-      <enclosure url="https://images.mktw.net/im-809887" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
