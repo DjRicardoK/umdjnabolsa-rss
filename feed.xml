@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 15:12:15 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:17:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da Lam Research</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/expect-lam-research-next-quarterly-090917458.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-lam-research-next-quarterly-090917458.html</guid>
+      <pubDate>31/03/2026 15:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8cc50c1bbb9be2ac66361d0faa9b3b9b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da TE Connectivity</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-buzzi-unicem-spas-strategic-shifts-amid-h2-2025-results-93CH-4591061</guid>
       <pubDate>31/03/2026 13:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Apesar da guerra em curso com o Irã, o ETF da Invesco Aerospace &amp; Defense continua caindo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/despite-ongoing-iran-war-invesco-163052498.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/despite-ongoing-iran-war-invesco-163052498.html</guid>
-      <pubDate>31/03/2026 13:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/3ba62a02d3ab4cb93e3df47c85a0108f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
