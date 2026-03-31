@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 06:11:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 06:11:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os novos modelos do BCE podem ajudar a captar mudanças nas expectativas de inflação, afirma publicação no blog</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ecbs-new-models-may-help-capture-shifts-in-inflation-expectations-blog-post-says-4589542</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-new-models-may-help-capture-shifts-in-inflation-expectations-blog-post-says-4589542</guid>
+      <pubDate>31/03/2026 06:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0HR_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Citizens reitera classificação das ações da Bicara Therapeutics sobre o progresso do teste</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ubs-lowers-pt-microsoft-msft-201215591.html</guid>
       <pubDate>31/03/2026 04:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A DLocal Limited (DLO) é uma das ações de crescimento mais subvalorizadas para comprar, de acordo com os...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/dlocal-limited-dlo-one-most-195653659.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dlocal-limited-dlo-one-most-195653659.html</guid>
-      <pubDate>31/03/2026 04:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d6f4cd91da35b6ec2684ae27cb5f4522" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
