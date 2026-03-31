@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 02:47:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:56:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do ouro sobem com foco na desescalada do Irã; preparado para perdas contundentes em março</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-prices-rise-with-iran-deescalation-in-focus-set-for-bruising-march-losses-4589140</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-rise-with-iran-deescalation-in-focus-set-for-bruising-march-losses-4589140</guid>
+      <pubDate>31/03/2026 02:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1L0SQ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer sobre NVIDIA: “Para mim, você só tem a chance de comprar ações de alta qualidade por um preço mais...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-izeas-q4-2025-sees-eps-beat-amidst-revenue-decline-93CH-4589116</guid>
       <pubDate>30/03/2026 23:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O crescimento da atividade fabril da China atinge o máximo em 1 ano, mesmo com o aumento dos riscos de guerra</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/chinas-factory-activity-returns-to-expansion-pmi-shows-4589110</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-factory-activity-returns-to-expansion-pmi-shows-4589110</guid>
-      <pubDate>30/03/2026 23:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U02C_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
