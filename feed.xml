@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 18:11:26 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:11:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que abril pode ser um ponto de viragem para as ações da Tesla</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-april-could-turning-point-125000625.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-april-could-turning-point-125000625.html</guid>
+      <pubDate>31/03/2026 18:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/995212318072d5128ebb3d12149dc84b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos financeiros da Raymond James: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/norfolk-southern-earnings-preview-expect-101340953.html</guid>
       <pubDate>31/03/2026 16:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/7c47458813a1f536d4ae137f5a06de5d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE RBC Capital reitera classificação das ações da Chemours sobre perspectiva de margem de TiO2</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-chemours-stock-rating-on-tio2-margin-outlook-93CH-4591241</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-chemours-stock-rating-on-tio2-margin-outlook-93CH-4591241</guid>
-      <pubDate>31/03/2026 16:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
