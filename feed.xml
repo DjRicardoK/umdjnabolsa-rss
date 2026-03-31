@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 19:36:56 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:39:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Administração Trump interrompe planos de comprar armazéns para detenção de imigrantes, dizem fontes</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/trump-administration-pauses-plans-to-buy-warehouses-for-immigrant-detention-sources-say-4591845</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-administration-pauses-plans-to-buy-warehouses-for-immigrant-detention-sources-say-4591845</guid>
+      <pubDate>31/03/2026 19:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U1G9_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Trubridge perdido em US$ 1,01, receita ficou aquém das estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-084-4591704</guid>
       <pubDate>31/03/2026 18:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1112Z_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Nuvve Holding Corp Q4 2025 relata ganhos de margem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-nuvve-holding-corp-q4-2025-reports-margin-gains-93CH-4591705</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nuvve-holding-corp-q4-2025-reports-margin-gains-93CH-4591705</guid>
-      <pubDate>31/03/2026 18:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
