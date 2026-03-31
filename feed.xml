@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 15:08:24 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:12:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da TE Connectivity</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-te-connectivity-next-090616998.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-te-connectivity-next-090616998.html</guid>
+      <pubDate>31/03/2026 15:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/16f7291ae84f110d3a2357667db97ba7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Docusign integra gerenciamento de contratos à plataforma Slack</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/despite-ongoing-iran-war-invesco-163052498.html</guid>
       <pubDate>31/03/2026 13:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/3ba62a02d3ab4cb93e3df47c85a0108f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Barrick Mining Corporation (B) subiu com os fortes preços do ouro</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/barrick-mining-corporation-b-surged-161659991.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/barrick-mining-corporation-b-surged-161659991.html</guid>
-      <pubDate>31/03/2026 13:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/34a61930942f0d7ff456e88af52487e4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
