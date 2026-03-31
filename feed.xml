@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 18:16:08 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:30:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Nuvve Holding Corp Q4 2025 relata ganhos de margem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-nuvve-holding-corp-q4-2025-reports-margin-gains-93CH-4591705</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nuvve-holding-corp-q4-2025-reports-margin-gains-93CH-4591705</guid>
+      <pubDate>31/03/2026 18:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dois terços dos americanos querem um fim rápido para a guerra com o Irã, mesmo que os objetivos não sejam...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/boeing-earnings-preview-expect-105845117.html</guid>
       <pubDate>31/03/2026 16:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/a2d82ea9722860d367cf38c5bbeab35c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 3 razões pelas quais estou comprando ações da Amazon agora mesmo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-reasons-im-buying-amazon-102500019.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-reasons-im-buying-amazon-102500019.html</guid>
-      <pubDate>31/03/2026 16:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/87b6506cf7e0f33f64eb1855ee33dd2a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
