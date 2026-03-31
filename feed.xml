@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:15:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:15:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O sentimento dos analistas sobre o TRX Gold (TRX) permanece robusto após fortes resultados do segundo...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/analysts-sentiment-trx-gold-trx-100611703.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysts-sentiment-trx-gold-trx-100611703.html</guid>
+      <pubDate>31/03/2026 07:15</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6f206bd587d8e5fef5ec92ee2759dd39" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Analistas permanecem otimistas em relação à Vox Royalty (VOXR) após a inclusão da empresa no ETF VanEck...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-tracks-inflation-expectations-from-surge-to-target-4589556</guid>
       <pubDate>31/03/2026 06:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_5_M_1440048359.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O interesse relatado de Hegseth em comprar um fundo de defesa destaca o quão mal os empreiteiros têm...</title>
-      <description>Um relatório que diz que um conselheiro do secretário da Defesa, Pete Hegseth, tentou comprar um fundo que investe em empresas de defesa destaca o quão fraco o sector tem sido...</description>
-      <link>https://www.marketwatch.com/story/hegseths-reported-interest-in-buying-a-defense-fund-highlights-just-how-poorly-contractors-have-traded-since-the-war-began-e86c5117?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/hegseths-reported-interest-in-buying-a-defense-fund-highlights-just-how-poorly-contractors-have-traded-since-the-war-began-e86c5117?mod=mw_rss_topstories</guid>
-      <pubDate>31/03/2026 06:11</pubDate>
-      <enclosure url="https://images.mktw.net/im-77022949" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
