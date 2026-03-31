@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 08:17:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 08:20:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon e Delta se unem para Wi-Fi em voo, desafiando o Starlink de Musk</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/amazon-delta-team-up-for-inflight-wifi-challenging-musks-starlink-4589975</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-delta-team-up-for-inflight-wifi-challenging-musks-starlink-4589975</guid>
+      <pubDate>31/03/2026 08:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0OH_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 ações de AI Healthcare para comprar agora mesmo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-vox-royalty-100613480.html</guid>
       <pubDate>31/03/2026 07:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d39b3f68ade92aa571552bf9cd439ce0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços do gás nos EUA chegam a US$ 4 o galão pela primeira vez desde 2022, enquanto a guerra no Irã se...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/us-gas-prices-top-4-a-gallon-for-first-time-since-2022-as-iran-war-drags-on-100213651.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/us-gas-prices-top-4-a-gallon-for-first-time-since-2022-as-iran-war-drags-on-100213651.html</guid>
-      <pubDate>31/03/2026 07:15</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/b8098800-272d-11f1-a93d-35eb88a45a82" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
