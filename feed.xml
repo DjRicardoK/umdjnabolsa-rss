@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 07:25:45 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:36:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do gás atingem US$ 4 por galão pela primeira vez em quase quatro anos</title>
+      <description>O custo médio da gasolina subiu para US$ 4,018 por galão, à medida que a guerra no Irã aumenta os preços da energia</description>
+      <link>https://www.marketwatch.com/story/gas-prices-reach-4-per-gallon-for-the-first-time-in-nearly-four-years-4c08dcbc?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/gas-prices-reach-4-per-gallon-for-the-first-time-in-nearly-four-years-4c08dcbc?mod=mw_rss_topstories</guid>
+      <pubDate>31/03/2026 07:36</pubDate>
+      <enclosure url="https://images.mktw.net/im-58728878" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Evercore ISI reitera Outperform em ações da AppLovin, meta de US$ 750</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/euro-zone-inflation-surges-past-ecb-target-on-oil-shock-4589557</guid>
       <pubDate>31/03/2026 06:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U0I3_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citizens reitera classificação das ações da Blue Owl Capital sobre força de crédito</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-blue-owl-capital-stock-rating-on-credit-strength-93CH-4589569</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-blue-owl-capital-stock-rating-on-credit-strength-93CH-4589569</guid>
-      <pubDate>31/03/2026 06:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
