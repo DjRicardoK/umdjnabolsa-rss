@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 04:42:15 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 04:50:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Vesuvius PLC perde previsão de lucros do quarto trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-vesuvius-plc-misses-q4-2025-earnings-forecast-93CH-4589472</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vesuvius-plc-misses-q4-2025-earnings-forecast-93CH-4589472</guid>
+      <pubDate>31/03/2026 04:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Institutos exclusivamente alemães cortam previsões de crescimento para 2026 e 2027 e aumentam perspectivas de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/analysisoil-and-war-top-financial-markets-worry-list-for-an-uncertain-q2-4589135</guid>
       <pubDate>31/03/2026 02:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB4I0B4_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ray Dalio sinaliza &apos;tempos arriscados&apos; - e alerta que dinheiro pode ser o pior lugar para se esconder</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/ray-dalio-flags-risky-times-173109810.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ray-dalio-flags-risky-times-173109810.html</guid>
-      <pubDate>31/03/2026 02:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Benzinga/86e4163a0a0821734c7c5eaa84337cc0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
