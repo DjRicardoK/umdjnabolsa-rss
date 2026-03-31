@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 13:46:04 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:55:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Chagee Holdings Limited American Depositary Shares Resumo da teleconferência de ganhos do quarto trimestre de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/chagee-holdings-limited-american-depositary-164415700.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chagee-holdings-limited-american-depositary-164415700.html</guid>
+      <pubDate>31/03/2026 13:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/27b5161c2b4fb8120fc162d26b6e5c80" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE S&amp;P 500 caminha para o pior trimestre desde 2022, com a guerra no Irã e preocupações com taxas abalando Wall...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-m-staying-cautious-nvidia-152153084.html</guid>
       <pubDate>31/03/2026 12:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/ec42e48564ad8fd96b518da6039164ed" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Alternativas de ouro? Como investir em prata, platina e paládio.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-silver-platinum-and-palladium-145904726.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/how-to-invest-in-silver-platinum-and-palladium-145904726.html</guid>
-      <pubDate>31/03/2026 12:29</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-09/babb8880-9b1b-11f0-aa7f-c67a4b430e50" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
