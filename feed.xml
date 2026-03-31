@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 14:14:57 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 14:34:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warren Buffett não se comprometerá com mais doações à Fundação Gates</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/warren-buffett-will-not-commit-to-more-donations-to-gates-foundation-4590991</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/warren-buffett-will-not-commit-to-more-donations-to-gates-foundation-4590991</guid>
+      <pubDate>31/03/2026 14:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U126_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do quarto trimestre da Charlotte&apos;s Web</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/tech-stocks-today-big-tech-stocks-rally-meta-tests-a-premium-instagram-subscription-144220248.html</guid>
       <pubDate>31/03/2026 12:46</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/fr0TGMKJizMSF34KR1GCFQ--~B/aD0yMDAxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/429bf898-959c-47fe-92ab-0776ad076973" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 20 ações que resistiram ao declínio do mercado de ações em março com ganhos de dois dígitos</title>
-      <description>As ações do setor energético registaram bons resultados, à medida que os preços do petróleo bruto dispararam, mas um outro grupo industrial também registou bons resultados desde...</description>
-      <link>https://www.marketwatch.com/story/20-stocks-that-bucked-the-stock-markets-decline-in-march-with-double-digit-gains-ad396fc6?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/20-stocks-that-bucked-the-stock-markets-decline-in-march-with-double-digit-gains-ad396fc6?mod=mw_rss_topstories</guid>
-      <pubDate>31/03/2026 12:37</pubDate>
-      <enclosure url="https://images.mktw.net/im-45276653" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
