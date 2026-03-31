@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 08:48:02 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 08:54:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE McCormick pretende se fundir com o negócio de alimentos da Unilever, mas não há menção no relatório de lucros</title>
+      <description>As ações da McCormick disparam em meio a negociações para a fusão com o negócio de alimentos da Unilever, mas não há menção ao negócio no relatório de lucros.</description>
+      <link>https://www.marketwatch.com/story/mccormick-looks-to-merge-with-unilevers-food-business-but-theres-no-mention-in-earnings-report-88e98464?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/mccormick-looks-to-merge-with-unilevers-food-business-but-theres-no-mention-in-earnings-report-88e98464?mod=mw_rss_topstories</guid>
+      <pubDate>31/03/2026 08:54</pubDate>
+      <enclosure url="https://images.mktw.net/im-45117050" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Existem apenas duas maneiras principais de proteger o dinheiro da guerra de Trump com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-trump-remarks-on-ending-war-with-hormuz-closed-230141471.html</guid>
       <pubDate>31/03/2026 07:24</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/83e63580-2c89-11f1-adbe-d849de4b7ef3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Analistas otimistas com relação à realeza do ouro (GROY) após recorde de receita fiscal anual e fluxo de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/analysts-bullish-gold-royalty-groy-100609328.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/analysts-bullish-gold-royalty-groy-100609328.html</guid>
-      <pubDate>31/03/2026 07:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ef5024938ec6bf80291116b4fdc922d0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
