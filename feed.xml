@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 04:23:26 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 04:40:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Morgan Stanley defende estoques de memória, incluindo tecnologia Micron (MU)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-defends-memory-stocks-202120430.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-defends-memory-stocks-202120430.html</guid>
+      <pubDate>31/03/2026 04:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/cece14d8df3ff9750f89999715c2f4bb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE SLB N.V. (SLB) aprofunda parceria com a Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-muted-as-iran-war-brings-march-losses-dollar-heads-for-monthly-gain-4589131</guid>
       <pubDate>31/03/2026 01:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED6I01K_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Analistas permanecem otimistas em relação ao Pattern Group (PTRN) após recente teleconferência de resultados</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-pattern-group-173753066.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysts-remain-bullish-pattern-group-173753066.html</guid>
-      <pubDate>31/03/2026 01:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3e50843fb1789c55c318ebdc6c26005a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
