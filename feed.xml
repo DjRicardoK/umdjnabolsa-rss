@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:52:34 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:08:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE NXP Semiconductors (NXPI) anuncia colaboração com Nvidia em soluções de robótica</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-announces-collaboration-154606080.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-announces-collaboration-154606080.html</guid>
+      <pubDate>31/03/2026 13:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b1f74494dbd673685fd6854c90790287" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Cathie Wood vai à caça de pechinchas: três ações que ela acabou de comprar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/consumer-confidence-improves-in-march-as-brighter-job-market-view-outweighs-surging-costs-amid-war-c6e9ac7c?mod=mw_rss_topstories</guid>
       <pubDate>31/03/2026 11:47</pubDate>
       <enclosure url="https://images.mktw.net/im-80196306" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Parnassus Mid Cap Fund vendeu software Guidewire (GWRE) após alcançar tese de investimento</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/parnassus-mid-cap-fund-sold-143331074.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/parnassus-mid-cap-fund-sold-143331074.html</guid>
-      <pubDate>31/03/2026 11:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/50159b0052152000cc8eae6a5bc1d01c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
