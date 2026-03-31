@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 14:54:50 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 14:57:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Oracle começa a cortar milhares de empregos, relata CNBC</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/oracle-begins-cutting-thousands-jobs-173336622.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/oracle-begins-cutting-thousands-jobs-173336622.html</guid>
+      <pubDate>31/03/2026 14:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/dfa26261ce94061eeb2d0a73fe8f3490" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços nas bombas dos EUA atingiram US$ 4 o galão enquanto a guerra no Irã causa estragos no fornecimento...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/reading-int-b-earnings-missed-by-001-revenue-fell-short-of-estimates-4591039</guid>
       <pubDate>31/03/2026 13:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Truist reitera classificação das ações da American Express sobre o impulso dos gastos</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-american-express-stock-rating-on-spending-momentum-93CH-4591040</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-american-express-stock-rating-on-spending-momentum-93CH-4591040</guid>
-      <pubDate>31/03/2026 13:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0Q15T_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
