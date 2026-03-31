@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 16:28:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 16:40:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos lucros da Boeing: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/boeing-earnings-preview-expect-105845117.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/boeing-earnings-preview-expect-105845117.html</guid>
+      <pubDate>31/03/2026 16:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a2d82ea9722860d367cf38c5bbeab35c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 3 razões pelas quais estou comprando ações da Amazon agora mesmo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/oracle-stock-layoffs-ai-orcl/?src=A00220&yptr=yahoo</guid>
       <pubDate>31/03/2026 14:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/24a35f5f0e035f7943d664a16473cb8b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE (GOOGL) é uma das melhores ações da Goldman Sachs AI: as 12 principais ações para comprar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-googl-one-best-173933801.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alphabet-inc-googl-one-best-173933801.html</guid>
-      <pubDate>31/03/2026 14:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/acc3a983c04b0b7ea0edd5ee94a10586" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
