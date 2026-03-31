@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 12:37:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:46:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de tecnologia hoje: as ações da Big Tech sobem, Meta testa uma assinatura premium do Instagram</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/live/tech-stocks-today-big-tech-stocks-rally-meta-tests-a-premium-instagram-subscription-144220248.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/live/tech-stocks-today-big-tech-stocks-rally-meta-tests-a-premium-instagram-subscription-144220248.html</guid>
+      <pubDate>31/03/2026 12:46</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/fr0TGMKJizMSF34KR1GCFQ--~B/aD0yMDAxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/429bf898-959c-47fe-92ab-0776ad076973" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 20 ações que resistiram ao declínio do mercado de ações em março com ganhos de dois dígitos</title>
       <description>As ações do setor energético registaram bons resultados, à medida que os preços do petróleo bruto dispararam, mas um outro grupo industrial também registou bons resultados desde...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/these-20-stocks-in-the-s-p-500-fell-hardest-during-march-cdd8d670?mod=mw_rss_topstories</guid>
       <pubDate>31/03/2026 11:34</pubDate>
       <enclosure url="https://images.mktw.net/im-35435502" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Keefe Bruyette reitera classificação das ações da Jefferson Capital em desempenho superior</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/keefe-bruyette-reiterates-jefferson-capital-stock-rating-at-outperform-93CH-4590832</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/keefe-bruyette-reiterates-jefferson-capital-stock-rating-at-outperform-93CH-4590832</guid>
-      <pubDate>31/03/2026 11:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
