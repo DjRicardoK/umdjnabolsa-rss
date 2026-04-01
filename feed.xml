@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:08:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 08:09:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Taxas de hipotecas nos EUA saltam para 6,57%, as mais altas desde agosto, diz MBA</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/us-mortgage-rates-jump-to-657-highest-since-august-mba-says-4592699</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-mortgage-rates-jump-to-657-highest-since-august-mba-says-4592699</guid>
+      <pubDate>01/04/2026 08:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM30266_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Resolute, NMC assinam memorando de entendimento para exploração de ouro na Guiné</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinese-chipmakers-claim-nearly-half-of-of-local-market-as-nvidias-lead-shrinks-idc-says-4592266</guid>
       <pubDate>01/04/2026 06:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301YK_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os Albaneses da Austrália dizem que o choque económico da guerra será sentido durante meses; insiste em usar...</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/australia-pm-albanese-to-address-nation-over-iran-crisis-4592042</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/australia-pm-albanese-to-address-nation-over-iran-crisis-4592042</guid>
-      <pubDate>01/04/2026 06:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301OJ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
