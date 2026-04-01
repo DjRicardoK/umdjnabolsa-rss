@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 22:13:15 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 22:14:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Futuros de ações dos EUA sobem depois que Trump diz que a guerra com o Irã terminará em breve</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-trump-says-iran-war-to-end-soon-4591963</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-trump-says-iran-war-to-end-soon-4591963</guid>
+      <pubDate>31/03/2026 22:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8R0JA_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O crescimento industrial do Japão desacelera em março com o peso da guerra no Irã, mostra o PMI</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-appears-master-plan-spacex-150651232.html</guid>
       <pubDate>31/03/2026 20:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/21c8de48decad8192bf12d56783343fb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump diz que EUA podem encerrar guerra com o Irã em duas a três semanas</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/trump-says-us-could-end-war-iniran-in-two-to-three-weeks-4591810</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-says-us-could-end-war-iniran-in-two-to-three-weeks-4591810</guid>
-      <pubDate>31/03/2026 20:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U1F8_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
