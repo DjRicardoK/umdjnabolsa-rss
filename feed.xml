@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 11:13:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 11:13:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Setor manufatureiro dos EUA cresce em março; o desempenho de entrega do fornecedor se deteriora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/us-manufacturing-sector-grows-march-140114096.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/us-manufacturing-sector-grows-march-140114096.html</guid>
+      <pubDate>01/04/2026 11:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/a63d58d9a126bba0e0487254cde34e14" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inflação alimentar no Reino Unido atingirá 9% até o final do ano, prevê órgão comercial</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/conagra-brands-q3-earnings-call-130649696.html</guid>
       <pubDate>01/04/2026 10:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/5dfedc84e18337b60723b23939ce458e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As vendas a retalho recuperaram antes da guerra com o Irão e mostraram que a economia estava bem. E agora?</title>
-      <description>As vendas nos varejistas dos EUA se recuperaram em fevereiro, após um breve período de fraqueza, sugerindo que a economia ainda está se expandindo a uma velocidade razoável,...</description>
-      <link>https://www.marketwatch.com/story/retail-sales-rebound-in-february-in-a-sign-the-economy-is-all-right-d31862f7?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/retail-sales-rebound-in-february-in-a-sign-the-economy-is-all-right-d31862f7?mod=mw_rss_topstories</guid>
-      <pubDate>01/04/2026 10:11</pubDate>
-      <enclosure url="https://images.mktw.net/im-28937146" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
