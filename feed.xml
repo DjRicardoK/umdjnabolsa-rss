@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 23:20:02 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 23:39:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Amazon estão sendo negociadas com uma avaliação historicamente baixa</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-stock-trading-historically-low-145000901.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-stock-trading-historically-low-145000901.html</guid>
+      <pubDate>31/03/2026 23:39</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/0e3b1a931926d81163bf9024d357e9f7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os lucros da Volitionrx Ltd superaram, a receita ficou aquém das estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/femasys-earnings-beat-by-012-revenue-fell-short-of-estimates-4591933</guid>
       <pubDate>31/03/2026 21:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos da Duos Tech superaram US$ 0,14, a receita ficou aquém das estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/duos-tech-earnings-beat-by-014-revenue-fell-short-of-estimates-4591929</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/duos-tech-earnings-beat-by-014-revenue-fell-short-of-estimates-4591929</guid>
-      <pubDate>31/03/2026 21:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
