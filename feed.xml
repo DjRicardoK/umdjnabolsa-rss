@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:05:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 04:16:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: Dow sobe, S&amp;P 500 e Nasdaq caem enquanto as ações de chips caem, o petróleo bruto dos...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-drop-as-chip-stocks-slide-us-crude-oil-surges-above-100-200033357.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-drop-as-chip-stocks-slide-us-crude-oil-surges-above-100-200033357.html</guid>
+      <pubDate>01/04/2026 04:16</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/ebdb17f0-2248-11f1-b4cf-f09cf6bd8b5b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 5,31%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/1-stock-play-iran-war-175002157.html</guid>
       <pubDate>01/04/2026 02:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/4c89ddf8d0de2c99d2c9278832a0761a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que o Dow está superando o S&amp;P 500 e o Nasdaq</title>
-      <description></description>
-      <link>https://www.barrons.com/livecoverage/stock-market-news-today-033026/card/why-the-dow-is-beating-the-s-p-500-and-nasdaq-R33TEvNaISAzFCtGhkE1?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-033026/card/why-the-dow-is-beating-the-s-p-500-and-nasdaq-R33TEvNaISAzFCtGhkE1?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>01/04/2026 02:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
