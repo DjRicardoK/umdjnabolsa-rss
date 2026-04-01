@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 02:33:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 02:45:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Meta é uma ‘escolha principal’ no Morgan Stanley. Por que Wall Street ainda ama as ações em dificuldades.</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/meta-stock-rough-year-top-pick-morgan-stanley-7f4049cd?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/meta-stock-rough-year-top-pick-morgan-stanley-7f4049cd?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>01/04/2026 02:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/adf051fb3c1eaeb157ed800620560a95" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Sinal: hora de comprar a queda nas ações da Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-firstenergys-next-earnings-131207215.html</guid>
       <pubDate>31/03/2026 22:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/898212fdde97b49157c1b5c489e30f6a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Petróleo estável em torno de US$ 104/barril enquanto Trump mira saída da guerra com o Irã sem reabertura de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/oil-steady-around-104bbl-as-trump-eyes-iran-war-exit-without-hormuz-reopening-4591961</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-steady-around-104bbl-as-trump-eyes-iran-war-exit-without-hormuz-reopening-4591961</guid>
-      <pubDate>31/03/2026 22:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBB70BB_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
