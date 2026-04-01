@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:26:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 08:40:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Nike caem com fraqueza na China e altos preços do petróleo pesam nas perspectivas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/nike-stock-tumbles-as-weakness-in-china-high-oil-prices-weigh-on-outlook-203010566.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/nike-stock-tumbles-as-weakness-in-china-high-oil-prices-weigh-on-outlook-203010566.html</guid>
+      <pubDate>01/04/2026 08:40</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/4bc27fe0-2d44-11f1-a9ef-2d353a1b4861" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE CPI Aero cai 4% enquanto a receita do quarto trimestre perde as estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-april-1-2025-100000564.html</guid>
       <pubDate>01/04/2026 07:09</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Melhores taxas de contas do mercado monetário hoje, 1º de abril de 2026 (garantidas até 4,01% APY)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-april-1-2026-100000183.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-april-1-2026-100000183.html</guid>
-      <pubDate>01/04/2026 07:09</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-04/d21d1ad0-20a9-11f0-bbbf-20f4269af61e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
