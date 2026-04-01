@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 05:07:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 05:09:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dow Jones sozinho no verde, Nasdaq cai enquanto Trump diz que o Irã fala &apos;sério&apos;</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/world-indices/articles/dow-jones-nasdaq-futures-called-113100085.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/world-indices/articles/dow-jones-nasdaq-futures-called-113100085.html</guid>
+      <pubDate>01/04/2026 05:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/proactive_us_504/883d861c2f32a62f96edc4bc1530c383" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Recapitulação das ações a serem observadas: Alcoa, Sysco, Air Canada, Peloton</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/philippines-manufacturing-growth-slows-sharply-in-march-amid-middle-east-conflict-93CH-4592090</guid>
       <pubDate>01/04/2026 03:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Coinbase, Robinhood e Figure Stocks estão 60% abaixo de seus picos – Bernstein diz que compre o mergulho</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/coinbase-robinhood-figure-stocks-60-190621677.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/coinbase-robinhood-figure-stocks-60-190621677.html</guid>
-      <pubDate>01/04/2026 03:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/decrypt_157/c503f248129c6d61583aea062ec39276" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
