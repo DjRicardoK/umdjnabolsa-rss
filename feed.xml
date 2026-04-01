@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 23:19:52 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 23:19:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do quarto trimestre de 2025 da Cohen &amp; Co mostram...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-cohen--cos-q4-2025-results-show-strong-growth-93CH-4591981</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cohen--cos-q4-2025-results-show-strong-growth-93CH-4591981</guid>
+      <pubDate>31/03/2026 23:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Atividade fabril da Ásia desacelera devido à pressão de custos da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-tollbooth-stocks-hidden-monopolies-155200911.html</guid>
       <pubDate>31/03/2026 21:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/8af65db8e68ed5b69f553dac771f8e93" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Microsoft, Chevron e Engine No. 1 assinam acordo exclusivo para fornecimento de energia</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/microsoft-chevron-and-engine-no-1-sign-exclusive-deal-for-power-supply-4591917</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-chevron-and-engine-no-1-sign-exclusive-deal-for-power-supply-4591917</guid>
-      <pubDate>31/03/2026 20:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U1I0_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
