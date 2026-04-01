@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 22:26:58 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 22:27:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercados asiáticos recuperam-se com optimismo Guerra do Irão pode terminar em breve</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-markets-rally-on-optimism-iran-war-could-end-soon-4591967</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-markets-rally-on-optimism-iran-war-could-end-soon-4591967</guid>
+      <pubDate>31/03/2026 22:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301KK_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 3 ações de dividendos que você pode comprar hoje e esquecer pelos próximos 20 anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-venu-holdings-q4-2025-sees-asset-growth-stock-uptick-93CH-4591905</guid>
       <pubDate>31/03/2026 20:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE 1 Comércio a fazer agora para se posicionar para uma guerra prolongada com o Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/1-trade-now-position-prolonged-152306303.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/1-trade-now-position-prolonged-152306303.html</guid>
-      <pubDate>31/03/2026 20:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a69ffc69b8d53c6b5bdcc09dc176ca13" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
