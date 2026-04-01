@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 22:37:27 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 22:45:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro sobe pelo 4º dia consecutivo enquanto Trump sinaliza possível saída da guerra com o Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-rises-for-4th-straight-day-as-trump-signals-possible-iran-war-exit-4591974</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-rises-for-4th-straight-day-as-trump-signals-possible-iran-war-exit-4591974</guid>
+      <pubDate>31/03/2026 22:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAJ0FF_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do próximo relatório de lucros trimestrais da Masco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/crude-oil-climbs-fears-protracted-153409334.html</guid>
       <pubDate>31/03/2026 20:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados da Southwest Airlines</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-southwest-airlines-earnings-153155402.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-southwest-airlines-earnings-153155402.html</guid>
-      <pubDate>31/03/2026 20:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/846fcad12a519ec6ea23e4507e910662" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
