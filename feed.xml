@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 02:45:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 02:45:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Austrália sobem no fechamento do pregão; S&amp;P/ASX 200 sobe 2,24%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-224-4592053</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-224-4592053</guid>
+      <pubDate>01/04/2026 02:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7A004_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Meta é uma ‘escolha principal’ no Morgan Stanley. Por que Wall Street ainda ama as ações em dificuldades.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-buy-today-132652335.html</guid>
       <pubDate>31/03/2026 22:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da FirstEnergy</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-firstenergys-next-earnings-131207215.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-firstenergys-next-earnings-131207215.html</guid>
-      <pubDate>31/03/2026 22:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/898212fdde97b49157c1b5c489e30f6a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
