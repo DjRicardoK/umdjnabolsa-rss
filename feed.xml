@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:17:19 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 04:26:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Barclays rebaixa Future Plc e corta PT em guerra de receitas impulsionada pelo tráfego</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/barclays-downgrades-future-plc-slashes-pt-on-trafficdriven-revenue-war-4592136</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/barclays-downgrades-future-plc-slashes-pt-on-trafficdriven-revenue-war-4592136</guid>
+      <pubDate>01/04/2026 04:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dow testa 45.000 enquanto a guerra leva o petróleo a mais de US$ 110 e o VIX sobe 50% em um mês</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/meta-stock-rough-year-top-pick-morgan-stanley-7f4049cd?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>01/04/2026 02:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/adf051fb3c1eaeb157ed800620560a95" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Sinal: hora de comprar a queda nas ações da Nvidia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/signal-time-buy-dip-nvidia-175820871.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/signal-time-buy-dip-nvidia-175820871.html</guid>
-      <pubDate>01/04/2026 02:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/schaeffers_investment_research_24/bc2cd1c521d4cb374f30c1990b2f1283" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
