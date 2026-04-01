@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 06:13:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 06:17:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os Albaneses da Austrália dizem que o choque económico da guerra será sentido durante meses; insiste em usar...</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/australia-pm-albanese-to-address-nation-over-iran-crisis-4592042</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/australia-pm-albanese-to-address-nation-over-iran-crisis-4592042</guid>
+      <pubDate>01/04/2026 06:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301OJ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Institutos alemães cortam previsões de crescimento para 2026 e 2027 e aumentam perspectivas de inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/coal-stocks-iran-war-peabody-7ad2e77d?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>01/04/2026 04:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/933520d890e302ff6a7da440fd8feff2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE FTSE 100 hoje: ações do Reino Unido abrem em alta após sinal de saída de Trump do Irã, libra esterlina</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-uk-stocks-open-higher-after-trumps-iran-exit-signal-pound-firm-4592139</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-uk-stocks-open-higher-after-trumps-iran-exit-signal-pound-firm-4592139</guid>
-      <pubDate>01/04/2026 04:36</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7O0CS_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
