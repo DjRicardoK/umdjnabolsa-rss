@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 03:50:46 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:56:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 10 grandes problemas enfrentados pelas ações de grandes empresas de consumo: gráfico</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/10-big-problems-facing-big-consumer-company-stocks-chart-192128457.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/10-big-problems-facing-big-consumer-company-stocks-chart-192128457.html</guid>
+      <pubDate>01/04/2026 03:56</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/1765df20-2c64-11f1-bdfb-a6797478917a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do petróleo bruto aumentam devido às preocupações com a escalada da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/real-estate/japan-is-placing-a-multibillion-dollar-bet-on-the-u-s-housing-market-2ced2a01?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>01/04/2026 00:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/1de599adfad4f3ff18085d89e8ea24b2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Ásia sobem enquanto Trump apregoa o fim da guerra com o Irã; Coreia do Sul tem desempenho superior</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-surge-as-trump-touts-end-to-iran-war-skorea-outperforms-4591985</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-surge-as-trump-touts-end-to-iran-war-skorea-outperforms-4591985</guid>
-      <pubDate>01/04/2026 00:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6H0CU_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
