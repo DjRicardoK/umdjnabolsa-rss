@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 02:45:44 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 02:45:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ascend Wellness Q4 2025 falha nas previsões, quedas nas ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ascend-wellness-q4-2025-misses-forecasts-stock-dips-93CH-4592052</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ascend-wellness-q4-2025-misses-forecasts-stock-dips-93CH-4592052</guid>
+      <pubDate>01/04/2026 02:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Austrália sobem no fechamento do pregão; S&amp;P/ASX 200 sobe 2,24%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-markets-rally-on-optimism-iran-war-could-end-soon-4591967</guid>
       <pubDate>31/03/2026 22:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301KK_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 3 ações de dividendos que você pode comprar hoje e esquecer pelos próximos 20 anos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-buy-today-132652335.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-buy-today-132652335.html</guid>
-      <pubDate>31/03/2026 22:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
