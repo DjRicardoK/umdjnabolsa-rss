@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 09:37:03 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:37:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da Lamb Weston Holdings superou US$ 0,09, receita superou estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/lamb-weston-holdings-earnings-beat-by-009-revenue-topped-estimates-4593096</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/lamb-weston-holdings-earnings-beat-by-009-revenue-topped-estimates-4593096</guid>
+      <pubDate>01/04/2026 09:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bailey, do Exclusive-Bank of England, diz que os mercados ainda estão à frente de si mesmos no aumento das...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/resolute-nmc-sign-mou-gold-105710670.html</guid>
       <pubDate>01/04/2026 08:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/mining_technology_700/af2885fa46d56ace222dee3bcdedcd82" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Aja agora ou perca: o IRS avisa que US$ 1,2 bilhão em restituições de impostos vencidas expirarão este mês....</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/act-now-lose-irs-warns-110000195.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/act-now-lose-irs-warns-110000195.html</guid>
-      <pubDate>01/04/2026 08:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/b02db503f605d3caac5ecb8fc9bdf91d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
