@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:58:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 05:07:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Recapitulação das ações a serem observadas: Alcoa, Sysco, Air Canada, Peloton</title>
+      <description></description>
+      <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-30-2026/card/stocks-to-watch-alcoa-peloton-totalenergies-nfiozOybcmLPmuPOy5jK?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-30-2026/card/stocks-to-watch-alcoa-peloton-totalenergies-nfiozOybcmLPmuPOy5jK?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>01/04/2026 05:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/wsj.com/c2ffc2c6f627a85ef5ac8ec45d8b2157" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações pressionadas pelas consequências econômicas da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/coinbase-robinhood-figure-stocks-60-190621677.html</guid>
       <pubDate>01/04/2026 03:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/decrypt_157/c503f248129c6d61583aea062ec39276" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Marque em seus calendários: comerciantes de grãos se preparam para os principais dados do USDA na terça-feira</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/mark-calendars-grain-traders-brace-190002719.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/mark-calendars-grain-traders-brace-190002719.html</guid>
-      <pubDate>01/04/2026 03:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e0bc34eb8cace78b201aeafdba974588" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
