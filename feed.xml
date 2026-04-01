@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 07:37:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:47:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Macquarie: Ações de qualidade apresentam desempenho superior na Ásia em meio à liquidação global</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/macquarie-quality-stocks-outperform-in-asia-amid-global-selloff-93CH-4592555</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/macquarie-quality-stocks-outperform-in-asia-amid-global-selloff-93CH-4592555</guid>
+      <pubDate>01/04/2026 07:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA601E0_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Futuros do Dow Jones sobem, preços do petróleo caem; Trump falará à nação sobre a guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/canada-stocks-sp-500-mining-energy-stocks/?src=A00220&yptr=yahoo</guid>
       <pubDate>01/04/2026 05:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/65fa6ee6768ec36b3534b14c4d0e38fb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jerome Powell diz que a dívida nacional de 39 biliões de dólares “não é insustentável”, mas alerta que a...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/jerome-powell-says-39-trillion-205357175.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/jerome-powell-says-39-trillion-205357175.html</guid>
-      <pubDate>01/04/2026 05:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/fortune_175/0dd4917399cd67d0f173fbcab2657f5e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
