@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:26:17 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 08:26:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE USDA reporta hectares de milho acima do previsto, hectares de soja abaixo das expectativas, comenta Baird</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/usda-reports-corn-acres-above-forecast-soybean-acres-below-expectations-baird-comments-93CH-4592762</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/usda-reports-corn-acres-above-forecast-soybean-acres-below-expectations-baird-comments-93CH-4592762</guid>
+      <pubDate>01/04/2026 08:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Plug Power (PLUG) aumentou mais de 20% desde os ganhos do quarto trimestre de 4. Aqui está o que você precisa...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/morning-brief-stocks-roar-back-plus-our-giant-action-packed-q1-roundup-100033568.html</guid>
       <pubDate>01/04/2026 07:09</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/83749d00-2d4f-11f1-9ffb-4401fdca197c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Todo mundo está abandonando os estoques de inteligência artificial (IA). Veja por que isso pode ser um erro...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/everyone-rotating-artificial-intelligence-ai-235000648.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/everyone-rotating-artificial-intelligence-ai-235000648.html</guid>
-      <pubDate>01/04/2026 06:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/6811b27a1a41bb5acc68843d6f7bed4f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
