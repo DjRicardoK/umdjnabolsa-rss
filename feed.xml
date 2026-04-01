@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:55:43 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 08:55:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cantor Fitzgerald reitera neutralidade nas ações da Tvardi Therapeutics</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-neutral-on-tvardi-therapeutics-stock-93CH-4592892</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-neutral-on-tvardi-therapeutics-stock-93CH-4592892</guid>
+      <pubDate>01/04/2026 08:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cantor Fitzgerald reitera excesso de peso nas ações da TruBridge em US$ 25</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/macquarie-quality-stocks-outperform-in-asia-amid-global-selloff-93CH-4592555</guid>
       <pubDate>01/04/2026 07:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA601E0_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Futuros do Dow Jones sobem, preços do petróleo caem; Trump falará à nação sobre a guerra no Irã</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-exit-oil-prices-sandisk-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-exit-oil-prices-sandisk-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>01/04/2026 07:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/431d4f16d31a37901c8a211c70d4b91e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
