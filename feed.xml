@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 21:24:57 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 21:26:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Apple aos 50 anos: o que se tornou um investimento no IPO</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/apple-50-investment-ipo-become-122500917.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-50-investment-ipo-become-122500917.html</guid>
+      <pubDate>31/03/2026 21:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/e36e60e520ca293f4f0733833eb1a76a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Femasys superou US$ 0,12, receita ficou aquém das estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/trump-says-micron-one-hottest-144100426.html</guid>
       <pubDate>31/03/2026 19:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/fae4b372a461424f51dd553a237b350d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Duos Technologies no quarto trimestre de 2025 vê aumento de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-duos-technologies-q4-2025-sees-revenue-surge-misses-target-93CH-4591857</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-duos-technologies-q4-2025-sees-revenue-surge-misses-target-93CH-4591857</guid>
-      <pubDate>31/03/2026 19:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
