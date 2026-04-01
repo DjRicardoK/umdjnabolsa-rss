@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 23:59:53 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:04:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Nephros Q4 2025 supera EPS, quedas de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-nephros-q4-2025-beats-eps-stock-dips-93CH-4591984</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nephros-q4-2025-beats-eps-stock-dips-93CH-4591984</guid>
+      <pubDate>01/04/2026 00:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que a Microsoft pode ser o melhor estoque de inteligência artificial (IA) para aposentados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/texas-multifamily-loans-manageable-despite-123100734.html</guid>
       <pubDate>31/03/2026 21:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/multifamily_dive_727/8a35e113d87b994950097b965d1b538e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Apple aos 50 anos: o que se tornou um investimento no IPO</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/apple-50-investment-ipo-become-122500917.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-50-investment-ipo-become-122500917.html</guid>
-      <pubDate>31/03/2026 21:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/e36e60e520ca293f4f0733833eb1a76a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
