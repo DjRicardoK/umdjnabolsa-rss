@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:55:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:00:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jefferies reitera compra na Home Depot (HD) após acordo de Mingledorff</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jefferies-reiterates-buy-home-depot-114223067.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jefferies-reiterates-buy-home-depot-114223067.html</guid>
+      <pubDate>01/04/2026 09:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4d418f1c757fb8c29324eade2826f479" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cantor Fitzgerald reitera neutralidade nas ações da Tvardi Therapeutics</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-spending-could-nearly-103500418.html</guid>
       <pubDate>01/04/2026 07:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/2b617152a2cad2a897ef2407b2249d47" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Macquarie: Ações de qualidade apresentam desempenho superior na Ásia em meio à liquidação global</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/macquarie-quality-stocks-outperform-in-asia-amid-global-selloff-93CH-4592555</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/macquarie-quality-stocks-outperform-in-asia-amid-global-selloff-93CH-4592555</guid>
-      <pubDate>01/04/2026 07:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA601E0_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
