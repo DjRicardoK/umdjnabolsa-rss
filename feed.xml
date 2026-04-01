@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:50:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 08:55:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cantor Fitzgerald reitera excesso de peso nas ações da TruBridge em US$ 25</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-overweight-on-trubridge-stock-at-25-93CH-4592894</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-overweight-on-trubridge-stock-at-25-93CH-4592894</guid>
+      <pubDate>01/04/2026 08:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores taxas de CD hoje, 1º de abril de 2026 (ganhe até 4,1% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-exit-oil-prices-sandisk-stock/?src=A00220&yptr=yahoo</guid>
       <pubDate>01/04/2026 07:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/431d4f16d31a37901c8a211c70d4b91e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As entregas da Tesla no primeiro trimestre provavelmente cairão sequencialmente à medida que a demanda por EV...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-q1-deliveries-likely-dip-100411550.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-q1-deliveries-likely-dip-100411550.html</guid>
-      <pubDate>01/04/2026 07:16</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/334abbe0fcb393a6927090c6b32e2cdd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
