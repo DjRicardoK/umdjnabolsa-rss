@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 22:15:03 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 22:17:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da FirstEnergy</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-firstenergys-next-earnings-131207215.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-firstenergys-next-earnings-131207215.html</guid>
+      <pubDate>31/03/2026 22:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/898212fdde97b49157c1b5c489e30f6a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Petróleo estável em torno de US$ 104/barril enquanto Trump mira saída da guerra com o Irã sem reabertura de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/mistral-raises-830m-debt-paris-152035908.html</guid>
       <pubDate>31/03/2026 20:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/quartz_855/826d538bbff6e2656f322f2b8caa10dc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: RH relata perda de lucros do quarto trimestre de 2026 em meio...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-rh-reports-q4-2026-earnings-miss-amid-market-challenges-93CH-4591888</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rh-reports-q4-2026-earnings-miss-amid-market-challenges-93CH-4591888</guid>
-      <pubDate>31/03/2026 20:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
