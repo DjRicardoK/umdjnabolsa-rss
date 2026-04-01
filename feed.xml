@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 22:17:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 22:26:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 3 ações de dividendos que você pode comprar hoje e esquecer pelos próximos 20 anos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-buy-today-132652335.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-buy-today-132652335.html</guid>
+      <pubDate>31/03/2026 22:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da FirstEnergy</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/1-trade-now-position-prolonged-152306303.html</guid>
       <pubDate>31/03/2026 20:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/a69ffc69b8d53c6b5bdcc09dc176ca13" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mistral levanta dívida de US$ 830 milhões para o data center de Paris AI de chips Nvidia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/mistral-raises-830m-debt-paris-152035908.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/mistral-raises-830m-debt-paris-152035908.html</guid>
-      <pubDate>31/03/2026 20:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/826d538bbff6e2656f322f2b8caa10dc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
