@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 21:27:19 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 21:31:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE LVMH e essas 6 outras ações de luxo são uma compra, apesar da guerra no Irã</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/lvmh-luxury-stocks-iran-war-cbcbe59a?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/lvmh-luxury-stocks-iran-war-cbcbe59a?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>31/03/2026 21:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/ba9a42228a96211d1060ba1bef63065d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Empréstimos multifamiliares no Texas administráveis ​​apesar da onda de construções: Fed de Dallas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nike-thirdquarter-sales-beat-estimates-4591410</guid>
       <pubDate>31/03/2026 19:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U1AS_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs inicia Qualcomm em ponto neutro com preço-alvo de US$ 135</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-initiates-qualcomm-neutral-143513337.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-initiates-qualcomm-neutral-143513337.html</guid>
-      <pubDate>31/03/2026 19:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/c50a9b47afc33f1d45db71cdce83a0b5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
