@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 21:31:49 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 21:35:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O sentimento melhora entre as grandes empresas do Japão, mas a guerra no Irão obscurece as perspectivas</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/sentiment-improves-among-japans-big-firms-but-iran-war-clouds-outlook-4591940</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/sentiment-improves-among-japans-big-firms-but-iran-war-clouds-outlook-4591940</guid>
+      <pubDate>31/03/2026 21:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301J8_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE LVMH e essas 6 outras ações de luxo são uma compra, apesar da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/ge-vernovas-quarterly-earnings-preview-145900719.html</guid>
       <pubDate>31/03/2026 20:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/de3c56ef59782b3aa873c0db6aa67f6c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nike prevê queda surpreendente nas vendas, já que a fraqueza da China prejudica os esforços de recuperação</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/nike-thirdquarter-sales-beat-estimates-4591410</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nike-thirdquarter-sales-beat-estimates-4591410</guid>
-      <pubDate>31/03/2026 19:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U1AS_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
