@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 10:00:46 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 10:11:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Entregas de Tesla EV disponíveis após China Rivals relatar recuperação nas vendas em março</title>
+      <description></description>
+      <link>https://www.investors.com/news/tesla-ev-deliveries-china-electric-vehicles-li-auto-nio-xpeng-byd-xiaomi/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/tesla-ev-deliveries-china-electric-vehicles-li-auto-nio-xpeng-byd-xiaomi/?src=A00220&yptr=yahoo</guid>
+      <pubDate>01/04/2026 10:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/cc3aa74106347e8e1ff12d2b30cc4ac7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Nike recua no Outlook, os esforços de recuperação continuam. Atraso nas vendas na China.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-upgrades-nokia-nok-110932917.html</guid>
       <pubDate>01/04/2026 08:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d83ae7f28bf0dede44614d3b5a20fd0e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Crypto Fund Manager CoinShares começa a ser negociado na Nasdaq por meio de acordo SPAC</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/crypto-fund-manager-coinshares-begins-110103716.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/crypto-fund-manager-coinshares-begins-110103716.html</guid>
-      <pubDate>01/04/2026 08:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/decrypt_157/9d3efd5279aa050251035fcd3691140d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
