@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:40:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 04:45:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jefferies nomeia os principais estoques de tabaco em meio à competição de bolsas de nicotina</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/jefferies-names-top-tobacco-stocks-amid-nicotine-pouch-competition-93CH-4592149</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/jefferies-names-top-tobacco-stocks-amid-nicotine-pouch-competition-93CH-4592149</guid>
+      <pubDate>01/04/2026 04:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/phillip_morris_x_M_1440050322.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os estoques de carvão se beneficiaram (principalmente) da Guerra do Irã. Este está caindo como uma pedra.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/victorian-plumbing-grants-share-awards-to-executives-93CH-4592067</guid>
       <pubDate>01/04/2026 03:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Registros de carros da Tesla na França triplicaram em março</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/tesla-french-car-registrations-triple-in-march-4592068</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/tesla-french-car-registrations-triple-in-march-4592068</guid>
-      <pubDate>01/04/2026 03:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301RJ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
