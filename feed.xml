@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 11:03:14 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 11:04:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nike caem mais de 13% e atingem o menor nível em 11 anos, com a fraqueza na China e os altos...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/nike-stock-tumbles-more-than-13-hits-11-year-low-as-weakness-in-china-high-oil-prices-weigh-on-outlook-140026004.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/nike-stock-tumbles-more-than-13-hits-11-year-low-as-weakness-in-china-high-oil-prices-weigh-on-outlook-140026004.html</guid>
+      <pubDate>01/04/2026 11:04</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/4bc27fe0-2d44-11f1-a9ef-2d353a1b4861" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Nio, Li Auto e Xpeng atingem entregas recordes em março enquanto Tesla enfrenta um primeiro trimestre mais...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/lamb-weston-holdings-earnings-beat-by-009-revenue-topped-estimates-4593096</guid>
       <pubDate>01/04/2026 09:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bailey, do Exclusive-Bank of England, diz que os mercados ainda estão à frente de si mesmos no aumento das...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/exclusivebank-of-englands-bailey-says-markets-still-ahead-of-themselves-in-pricing-rate-hikes-4593065</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/exclusivebank-of-englands-bailey-says-markets-still-ahead-of-themselves-in-pricing-rate-hikes-4593065</guid>
-      <pubDate>01/04/2026 09:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM302AZ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
