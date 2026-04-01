@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 09:11:45 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:20:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs está muito otimista em relação a cinco superestrelas da energia que pagam dividendos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-very-bullish-5-121015162.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-very-bullish-5-121015162.html</guid>
+      <pubDate>01/04/2026 09:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/494b24e293a01b6cc14ae849344fb740" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Barkin, exclusivo do Fed: Famílias e empresas ainda veem o choque do petróleo através de uma &quot;lente de curto...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-april-1-gold-strengthens-after-trump-shares-war-exit-timeline-111116980.html</guid>
       <pubDate>01/04/2026 07:58</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/Oa7DO4jl9HF3ik1etGzo7Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/wednesday.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Powell alerta que a trajetória da dívida dos EUA “não terminará bem”. Como tirar suas riquezas do caminho...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/powell-warns-u-debt-trajectory-104700026.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/powell-warns-u-debt-trajectory-104700026.html</guid>
-      <pubDate>01/04/2026 07:53</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/942d4b5c1d23efe4c434d690b7b98682" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
