@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 09:37:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:46:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE UBS reitera classificação de compra de ações da Chevron no acordo de energia da Microsoft</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-chevron-stock-buy-rating-on-microsoft-power-deal-93CH-4593089</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-chevron-stock-buy-rating-on-microsoft-power-deal-93CH-4593089</guid>
+      <pubDate>01/04/2026 09:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Microsoft_2_M_1440048702.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Lamb Weston Holdings superou US$ 0,09, receita superou estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-mortgage-rates-jump-to-657-highest-since-august-mba-says-4592699</guid>
       <pubDate>01/04/2026 08:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM30266_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Resolute, NMC assinam memorando de entendimento para exploração de ouro na Guiné</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/resolute-nmc-sign-mou-gold-105710670.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/resolute-nmc-sign-mou-gold-105710670.html</guid>
-      <pubDate>01/04/2026 08:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/mining_technology_700/af2885fa46d56ace222dee3bcdedcd82" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
