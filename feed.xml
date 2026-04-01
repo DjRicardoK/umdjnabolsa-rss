@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:45:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 04:50:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro encontra-se perto de US$ 4.500 enquanto a Guerra do Irã entra na quinta semana</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/gold-finds-footing-near-4-065345954.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/gold-finds-footing-near-4-065345954.html</guid>
+      <pubDate>01/04/2026 04:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/6308ff62e7b9cdc18c0cf99bf0904640" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jefferies nomeia os principais estoques de tabaco em meio à competição de bolsas de nicotina</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-30-2026/card/gold-and-silver-are-poised-for-their-worst-month-in-more-than-a-decade-oHO2WW6KZzhfp3b9Da8s?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>01/04/2026 03:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Victorian Plumbing concede prêmios compartilhados para executivos</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/victorian-plumbing-grants-share-awards-to-executives-93CH-4592067</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/victorian-plumbing-grants-share-awards-to-executives-93CH-4592067</guid>
-      <pubDate>01/04/2026 03:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
