@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 05:30:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 05:36:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jerome Powell diz que a dívida nacional de 39 biliões de dólares “não é insustentável”, mas alerta que a...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/jerome-powell-says-39-trillion-205357175.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/jerome-powell-says-39-trillion-205357175.html</guid>
+      <pubDate>01/04/2026 05:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/fortune_175/0dd4917399cd67d0f173fbcab2657f5e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os mercados de ações atingem o ponto mais baixo nas fases iniciais do conflito militar, diz Tom Lee. Aqui...</title>
       <description>Ajustados pela inflação, os preços do petróleo são menos de metade do que eram quando atingiram o pico de 144 dólares em Julho de 2008. Os indicadores técnicos sugerem a Lee que...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-rises-sp-500-and-nasdaq-drop-as-chip-stocks-slide-us-crude-oil-surges-above-100-200033357.html</guid>
       <pubDate>01/04/2026 04:16</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/ebdb17f0-2248-11f1-b4cf-f09cf6bd8b5b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 5,31%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-531-4592116</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-531-4592116</guid>
-      <pubDate>01/04/2026 04:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB1J00K_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
