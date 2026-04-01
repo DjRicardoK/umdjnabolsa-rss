@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 07:16:33 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:37:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Futuros do Dow Jones sobem, preços do petróleo caem; Trump falará à nação sobre a guerra no Irã</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-exit-oil-prices-sandisk-stock/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-war-exit-oil-prices-sandisk-stock/?src=A00220&yptr=yahoo</guid>
+      <pubDate>01/04/2026 07:37</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/431d4f16d31a37901c8a211c70d4b91e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As entregas da Tesla no primeiro trimestre provavelmente cairão sequencialmente à medida que a demanda por EV...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/jerome-powell-says-39-trillion-205357175.html</guid>
       <pubDate>01/04/2026 05:36</pubDate>
       <enclosure url="https://media.zenfs.com/en/fortune_175/0dd4917399cd67d0f173fbcab2657f5e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os mercados de ações atingem o ponto mais baixo nas fases iniciais do conflito militar, diz Tom Lee. Aqui...</title>
-      <description>Ajustados pela inflação, os preços do petróleo são menos de metade do que eram quando atingiram o pico de 144 dólares em Julho de 2008. Os indicadores técnicos sugerem a Lee que...</description>
-      <link>https://www.marketwatch.com/story/stock-markets-bottom-in-the-early-stages-of-military-conflict-says-tom-lee-heres-what-the-strategist-expects-now-250ed0d3?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/stock-markets-bottom-in-the-early-stages-of-military-conflict-says-tom-lee-heres-what-the-strategist-expects-now-250ed0d3?mod=mw_rss_topstories</guid>
-      <pubDate>01/04/2026 05:30</pubDate>
-      <enclosure url="https://images.mktw.net/im-95614434" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
