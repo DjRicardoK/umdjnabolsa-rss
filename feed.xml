@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 12:07:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 12:12:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Netscout Systems atingem alta de 52 semanas a 32,87 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/netscout-systems-stock-hits-52week-high-at-3287-usd-93CH-4593592</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/netscout-systems-stock-hits-52week-high-at-3287-usd-93CH-4593592</guid>
+      <pubDate>01/04/2026 12:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street inicia Datadog com classificação de compra antes do dia do investidor em 3 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/omnicom-launches-adobe-practice-integrates-leappoint-93CH-4593426</guid>
       <pubDate>01/04/2026 11:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Moody&apos;s avalia o primeiro título lastreado em Bitcoin</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/moody-rates-first-bitcoin-backed-133500508.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/moody-rates-first-bitcoin-backed-133500508.html</guid>
-      <pubDate>01/04/2026 10:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/0ffd80591401a9444f795ffd8ef1086a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
