@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 22:14:58 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 22:15:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Petróleo estável em torno de US$ 104/barril enquanto Trump mira saída da guerra com o Irã sem reabertura de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/oil-steady-around-104bbl-as-trump-eyes-iran-war-exit-without-hormuz-reopening-4591961</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-steady-around-104bbl-as-trump-eyes-iran-war-exit-without-hormuz-reopening-4591961</guid>
+      <pubDate>31/03/2026 22:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBB70BB_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Futuros de ações dos EUA sobem depois que Trump diz que a guerra com o Irã terminará em breve</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rh-reports-q4-2026-earnings-miss-amid-market-challenges-93CH-4591888</guid>
       <pubDate>31/03/2026 20:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla parece ter um novo plano diretor... e a SpaceX é uma grande parte dele</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-appears-master-plan-spacex-150651232.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-appears-master-plan-spacex-150651232.html</guid>
-      <pubDate>31/03/2026 20:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/21c8de48decad8192bf12d56783343fb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
