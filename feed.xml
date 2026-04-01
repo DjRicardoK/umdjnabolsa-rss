@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 02:27:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 02:33:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE 1 ação para jogar o choque energético da guerra no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/1-stock-play-iran-war-175002157.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/1-stock-play-iran-war-175002157.html</guid>
+      <pubDate>01/04/2026 02:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4c89ddf8d0de2c99d2c9278832a0761a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Por que o Dow está superando o S&amp;P 500 e o Nasdaq</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-trump-says-iran-war-to-end-soon-4591963</guid>
       <pubDate>31/03/2026 22:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8R0JA_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O crescimento industrial do Japão desacelera em março com o peso da guerra no Irã, mostra o PMI</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/japans-factory-growth-slows-in-march-as-iran-war-weighs-pmi-shows-4591944</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/japans-factory-growth-slows-in-march-as-iran-war-weighs-pmi-shows-4591944</guid>
-      <pubDate>31/03/2026 22:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301JK_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
