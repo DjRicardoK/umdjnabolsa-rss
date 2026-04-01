@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 11:55:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 11:55:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dados do Fed de Cleveland mostram que a guerra impactou os dados de inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/cleveland-fed-data-shows-war-impacting-headline-inflation-data-4593583</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/cleveland-fed-data-shows-war-impacting-headline-inflation-data-4593583</guid>
+      <pubDate>01/04/2026 11:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM302J8_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Grécia sobem no fechamento do pregão; Atenas General Composite subiu 3,15%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/qualcomm-downgraded-rivian-upgraded-wall-133405953.html</guid>
       <pubDate>01/04/2026 10:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Stifel reitera classificação das ações da Target Hospitality no acordo de data center</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-target-hospitality-stock-rating-on-data-center-deal-93CH-4593410</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-target-hospitality-stock-rating-on-data-center-deal-93CH-4593410</guid>
-      <pubDate>01/04/2026 10:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
