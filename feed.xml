@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 23:19:57 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 23:20:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os lucros da Volitionrx Ltd superaram, a receita ficou aquém das estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/volitionrx-ltd-earnings-beat-revenue-fell-short-of-estimates-4591980</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/volitionrx-ltd-earnings-beat-revenue-fell-short-of-estimates-4591980</guid>
+      <pubDate>31/03/2026 23:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do quarto trimestre de 2025 da Cohen &amp; Co mostram...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/duos-tech-earnings-beat-by-014-revenue-fell-short-of-estimates-4591929</guid>
       <pubDate>31/03/2026 21:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 3 ações &quot;tollbooth&quot; com monopólios ocultos em suas indústrias</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-tollbooth-stocks-hidden-monopolies-155200911.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-tollbooth-stocks-hidden-monopolies-155200911.html</guid>
-      <pubDate>31/03/2026 21:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/8af65db8e68ed5b69f553dac771f8e93" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
