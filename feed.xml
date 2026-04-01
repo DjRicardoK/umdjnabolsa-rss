@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 06:31:12 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 06:31:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O ouro pode voltar a US$ 5.000 este ano?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/gold-back-5-000-232000968.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-back-5-000-232000968.html</guid>
+      <pubDate>01/04/2026 06:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/ab4ec3d3da67a6be5e5acb08b402fac5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Fabricantes de chips chineses reivindicam quase metade do mercado local à medida que a liderança da Nvidia...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/gold-finds-footing-near-4-065345954.html</guid>
       <pubDate>01/04/2026 04:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/6308ff62e7b9cdc18c0cf99bf0904640" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jefferies nomeia os principais estoques de tabaco em meio à competição de bolsas de nicotina</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/jefferies-names-top-tobacco-stocks-amid-nicotine-pouch-competition-93CH-4592149</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/jefferies-names-top-tobacco-stocks-amid-nicotine-pouch-competition-93CH-4592149</guid>
-      <pubDate>01/04/2026 04:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/phillip_morris_x_M_1440050322.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
