@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 31 Mar 2026 23:02:20 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 23:19:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Atividade fabril da Ásia desacelera devido à pressão de custos da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/asias-factory-activity-slows-on-cost-pressure-from-iran-war-4591982</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/asias-factory-activity-slows-on-cost-pressure-from-iran-war-4591982</guid>
+      <pubDate>31/03/2026 23:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301LW_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Atividade fabril da China se expande, mas as pressões sobre os preços se intensificam, mostra o PMI privado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-chevron-and-engine-no-1-sign-exclusive-deal-for-power-supply-4591917</guid>
       <pubDate>31/03/2026 20:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM2U1I0_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wedbush aposta que junho será um grande mês para a Apple. Você deve comprar ações da AAPL primeiro?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wedbush-betting-june-huge-month-153353338.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wedbush-betting-june-huge-month-153353338.html</guid>
-      <pubDate>31/03/2026 20:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c73a52b7903649f6e8fae3cb550b52f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
