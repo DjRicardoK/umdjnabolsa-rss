@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 05:16:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 05:26:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Previsão: Elon Musk fundirá a Tesla com a SpaceX dentro de 5 anos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/prediction-elon-musk-merge-tesla-203500851.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-elon-musk-merge-tesla-203500851.html</guid>
+      <pubDate>01/04/2026 05:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/37290a28bea9e0ef18294a77290a6fab" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A economia da zona euro pode já estar no caminho “adverso” do BCE, adverte decisor político</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-rises-iran-war-continues-193513111.html</guid>
       <pubDate>01/04/2026 04:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/84ae0eb9df2ee375c1348da6ad2c252a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 10 grandes problemas enfrentados pelas ações de grandes empresas de consumo: gráfico</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/10-big-problems-facing-big-consumer-company-stocks-chart-192128457.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/10-big-problems-facing-big-consumer-company-stocks-chart-192128457.html</guid>
-      <pubDate>01/04/2026 03:56</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/1765df20-2c64-11f1-bdfb-a6797478917a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
