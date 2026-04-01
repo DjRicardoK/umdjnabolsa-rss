@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 09:46:28 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:57:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Morgan Stanley recapitula dados automotivos de março na China</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/morgan-stanley-recaps-march-china-auto-data-93CH-4593171</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morgan-stanley-recaps-march-china-auto-data-93CH-4593171</guid>
+      <pubDate>01/04/2026 09:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC9I0OF_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE UBS reitera classificação de compra de ações da Chevron no acordo de energia da Microsoft</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/baird-reiterates-circle-internet-stock-rating-at-outperform-93CH-4592698</guid>
       <pubDate>01/04/2026 08:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de hipotecas nos EUA saltam para 6,57%, as mais altas desde agosto, diz MBA</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-mortgage-rates-jump-to-657-highest-since-august-mba-says-4592699</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-mortgage-rates-jump-to-657-highest-since-august-mba-says-4592699</guid>
-      <pubDate>01/04/2026 08:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM30266_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
