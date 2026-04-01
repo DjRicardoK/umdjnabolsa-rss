@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 03:06:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:06:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A força do dólar reduz os preços do açúcar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/dollar-strength-undercuts-sugar-prices-183121679.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/dollar-strength-undercuts-sugar-prices-183121679.html</guid>
+      <pubDate>01/04/2026 03:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/12c78524d9d142f4a6eac1f28b870883" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de Taiwan caem no fechamento do pregão; Taiwan pesou 1,80%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-rises-for-4th-straight-day-as-trump-signals-possible-iran-war-exit-4591974</guid>
       <pubDate>31/03/2026 22:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAJ0FF_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do próximo relatório de lucros trimestrais da Masco</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-mascos-next-quarterly-earnings-134324349.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-mascos-next-quarterly-earnings-134324349.html</guid>
-      <pubDate>31/03/2026 22:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8626f559103762a9f4fad2416d8cac4a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
