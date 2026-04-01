@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:27:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 04:28:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE À medida que os riscos aumentam, duas ações com 30% a 90% de valorização estão se tornando as queridinhas do...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/risks-climb-2-stocks-30-201027640.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/risks-climb-2-stocks-30-201027640.html</guid>
+      <pubDate>01/04/2026 04:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9c6da2bce654370d2ccaceee9c21d5d5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O S&amp;P 500 cai 0,4%. Por que as ações não conseguiram manter os ganhos iniciais.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ascend-wellness-q4-2025-misses-forecasts-stock-dips-93CH-4592052</guid>
       <pubDate>01/04/2026 02:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Austrália sobem no fechamento do pregão; S&amp;P/ASX 200 sobe 2,24%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-224-4592053</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-224-4592053</guid>
-      <pubDate>01/04/2026 02:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7A004_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
