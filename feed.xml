@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 08:03:18 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 08:08:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Aja agora ou perca: o IRS avisa que US$ 1,2 bilhão em restituições de impostos vencidas expirarão este mês....</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/act-now-lose-irs-warns-110000195.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/act-now-lose-irs-warns-110000195.html</guid>
+      <pubDate>01/04/2026 08:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/b02db503f605d3caac5ecb8fc9bdf91d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado de ações fecha na Sexta-Feira Santa? Os bancos e os correios estarão abertos?</title>
       <description>O feriado cristão de sexta-feira, 3 de abril, não é feriado federal, mas ainda existem alguns fechamentos importantes. Aqui está o que você precisa saber.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/german-institutes-cut-2026-2027-growth-forecasts-raise-inflation-outlook-4592184</guid>
       <pubDate>01/04/2026 06:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301W1_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ferrexpo alerta que dinheiro pode acabar até final de junho</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/ferrexpo-warns-cash-may-run-out-by-end-of-june-93CH-4592214</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/ferrexpo-warns-cash-may-run-out-by-end-of-june-93CH-4592214</guid>
-      <pubDate>01/04/2026 05:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
