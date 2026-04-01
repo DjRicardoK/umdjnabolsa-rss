@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:16:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 04:17:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dow testa 45.000 enquanto a guerra leva o petróleo a mais de US$ 110 e o VIX sobe 50% em um mês</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/dow-tests-45-000-war-195921859.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dow-tests-45-000-war-195921859.html</guid>
+      <pubDate>01/04/2026 04:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/d980f506c888cb4223f8d41b75c04ce2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow sobe, S&amp;P 500 e Nasdaq caem enquanto as ações de chips caem, o petróleo bruto dos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/signal-time-buy-dip-nvidia-175820871.html</guid>
       <pubDate>01/04/2026 02:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/schaeffers_investment_research_24/bc2cd1c521d4cb374f30c1990b2f1283" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE 1 ação para jogar o choque energético da guerra no Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/1-stock-play-iran-war-175002157.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/1-stock-play-iran-war-175002157.html</guid>
-      <pubDate>01/04/2026 02:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4c89ddf8d0de2c99d2c9278832a0761a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
