@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 04:50:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 04:58:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Essas ações são os impulsionadores de hoje: Nvidia, Palo Alto, Alcoa, Boston Scientific, Sysco, CrowdStrike,...</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/stock-movers-11b2a1c3?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/stock-movers-11b2a1c3?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>01/04/2026 04:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/793129f64eb055497dd497d4774cd954" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ouro encontra-se perto de US$ 4.500 enquanto a Guerra do Irã entra na quinta semana</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hsbc-flags-alarming-risk-tesla-184700477.html</guid>
       <pubDate>01/04/2026 03:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/3a028cd32f74d1d77f3717709f8223b0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro e prata estão preparados para o pior mês em mais de uma década</title>
-      <description></description>
-      <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-30-2026/card/gold-and-silver-are-poised-for-their-worst-month-in-more-than-a-decade-oHO2WW6KZzhfp3b9Da8s?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-30-2026/card/gold-and-silver-are-poised-for-their-worst-month-in-more-than-a-decade-oHO2WW6KZzhfp3b9Da8s?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>01/04/2026 03:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
