@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 11:02:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 11:03:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Nio, Li Auto e Xpeng atingem entregas recordes em março enquanto Tesla enfrenta um primeiro trimestre mais...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nio-li-auto-xpeng-climb-135012807.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nio-li-auto-xpeng-climb-135012807.html</guid>
+      <pubDate>01/04/2026 11:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/2a61aaa828ab1bb61666bce552e8c313" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Omnicom lança prática Adobe e integra LeapPoint</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/exclusivebank-of-englands-bailey-says-markets-still-ahead-of-themselves-in-pricing-rate-hikes-4593065</guid>
       <pubDate>01/04/2026 09:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM302AZ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sobe enquanto Trump dá cronograma para trégua; Nike despenca nos ganhos (cobertura...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-jobs-data-nike-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-war-jobs-data-nike-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>01/04/2026 09:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/4f1fa106a49c603c17f0aadb20cc8971" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
