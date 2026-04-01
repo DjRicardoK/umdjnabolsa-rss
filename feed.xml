@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 00:04:24 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:05:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Ásia sobem enquanto Trump apregoa o fim da guerra com o Irã; Coreia do Sul tem desempenho superior</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-surge-as-trump-touts-end-to-iran-war-skorea-outperforms-4591985</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-surge-as-trump-touts-end-to-iran-war-skorea-outperforms-4591985</guid>
+      <pubDate>01/04/2026 00:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6H0CU_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Nephros Q4 2025 supera EPS, quedas de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/lvmh-luxury-stocks-iran-war-cbcbe59a?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>31/03/2026 21:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/ba9a42228a96211d1060ba1bef63065d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Empréstimos multifamiliares no Texas administráveis ​​apesar da onda de construções: Fed de Dallas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/texas-multifamily-loans-manageable-despite-123100734.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/texas-multifamily-loans-manageable-despite-123100734.html</guid>
-      <pubDate>31/03/2026 21:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/multifamily_dive_727/8a35e113d87b994950097b965d1b538e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
