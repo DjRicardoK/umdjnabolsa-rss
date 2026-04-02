@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:13:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:13:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cytosorbents recebeu extensão de 180 dias pela Nasdaq para atingir o preço mínimo de oferta</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/cytosorbents-granted-180day-extension-by-nasdaq-to-meet-minimum-bid-price-93CH-4595187</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/cytosorbents-granted-180day-extension-by-nasdaq-to-meet-minimum-bid-price-93CH-4595187</guid>
+      <pubDate>02/04/2026 08:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warren Buffett oferece um plano de resgate de US$ 350 bilhões em meio à incerteza do mercado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nike-ceo-says-turnaround-not-203414556.html</guid>
       <pubDate>02/04/2026 05:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/footwear_news_finance_8/ab86c6e8840563d33b8e695415d418dc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os preços da energia poderão em breve ‘disparar’. Por que Cheniere é uma das ações mais bem avaliadas para...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/energy-prices-could-soon-skyrocket-204006517.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/energy-prices-could-soon-skyrocket-204006517.html</guid>
-      <pubDate>02/04/2026 05:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/486d9e16453e2687150d6e18c6d0e3e7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
