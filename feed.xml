@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 12:56:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:03:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Needham corta meta de preço das ações da T1 Energy com perspectiva de lucros mais baixos</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/needham-cuts-t1-energy-stock-price-target-on-lower-earnings-outlook-93CH-4596042</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/needham-cuts-t1-energy-stock-price-target-on-lower-earnings-outlook-93CH-4596042</guid>
+      <pubDate>02/04/2026 13:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Evercore ISI cauteloso com e.l.f. Beleza, alerta para risco de saturação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-logan-outlines-options-to-reduce-balance-sheet-4595898</guid>
       <pubDate>02/04/2026 11:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE7S1M6_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Wall Street atualiza Cheniere Energy enquanto a guerra no Irã remodela a demanda global de GNL</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/wall-street-upgrades-cheniere-energy-142035153.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/wall-street-upgrades-cheniere-energy-142035153.html</guid>
-      <pubDate>02/04/2026 11:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/f644d78e228d69f326304f4ae1ffb980" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
