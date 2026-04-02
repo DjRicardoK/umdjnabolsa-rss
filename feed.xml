@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 23:23:33 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 23:23:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O chip AGI da Arm deveria deixar os investidores da NVIDIA em pânico?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/arm-agi-chip-nvidia-investors-144258484.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/arm-agi-chip-nvidia-investors-144258484.html</guid>
+      <pubDate>01/04/2026 23:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/530f77593ecf06ee93fc8297a7efea66" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados da Ameriprise Financial</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/home-prices-rose-in-january-before-iran-war-pushed-mortgage-rates-higher-134329055.html</guid>
       <pubDate>01/04/2026 22:15</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/35242150-2d06-11f1-b7be-ed298209ca91" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Destaques da teleconferência de resultados do quarto trimestre do Golden Matrix Group</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/golden-matrix-group-q4-earnings-132618314.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/golden-matrix-group-q4-earnings-132618314.html</guid>
-      <pubDate>01/04/2026 22:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/f41feec0d84b9e0db1160fb3b2067190" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
