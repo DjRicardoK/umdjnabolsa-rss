@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 03:23:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:30:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise - Uma guerra destinada a quebrar o Irã poderia deixar Teerã mais forte e o Golfo exposto</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/analysisa-war-meant-to-break-iran-could-leave-tehran-stronger-and-gulf-exposed-4593765</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysisa-war-meant-to-break-iran-could-leave-tehran-stronger-and-gulf-exposed-4593765</guid>
+      <pubDate>02/04/2026 03:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM302P7_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE KLX Energy Services Holdings (KLXE) perde estimativas de ganhos no quarto trimestre de 202</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinese-pork-stocks-rise-as-govt-signals-continued-frozen-reserve-purchases-4594599</guid>
       <pubDate>02/04/2026 02:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5T0GA_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As principais ações de TI e software do Morgan Stanley no Japão para crescimento</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/morgan-stanleys-top-japan-it--software-stocks-for-growth-93CH-4594600</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morgan-stanleys-top-japan-it--software-stocks-for-growth-93CH-4594600</guid>
-      <pubDate>02/04/2026 02:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
