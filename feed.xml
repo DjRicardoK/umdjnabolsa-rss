@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 14:18:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 14:22:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Meta e Alphabet sofreram um golpe na reputação. Os ganhos podem ser o próximo catalisador das ações.</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/meta-and-alphabet-suffered-a-reputational-blow-earnings-could-be-the-next-stock-catalyst-86f6acf7?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/meta-and-alphabet-suffered-a-reputational-blow-earnings-could-be-the-next-stock-catalyst-86f6acf7?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>02/04/2026 14:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/8147eb63e8924f8f1829d052353907b4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Evercore ISI reitera classificação das ações da Karman após atraso no registro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/its-not-just-patients-who-are-sick-of-fighting-health-insurers-doctors-are-frustrated-too-06a591b8?mod=mw_rss_topstories</guid>
       <pubDate>02/04/2026 12:54</pubDate>
       <enclosure url="https://images.mktw.net/im-73221954" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Indicador de recessão relacionado ao Walmart está no ponto mais alto desde a crise financeira de 2008</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/walmart-related-recession-indicator-highest-154333429.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/walmart-related-recession-indicator-highest-154333429.html</guid>
-      <pubDate>02/04/2026 12:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/72782f8eb37a7fafb7b9c457e1af7aa0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
