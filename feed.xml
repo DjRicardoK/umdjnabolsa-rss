@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 23:27:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 23:40:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Navios apreendidos pelos EUA transportaram 20 milhões de barris de petróleo iraniano para a China</title>
+      <description></description>
+      <link>https://www.wsj.com/livecoverage/iran-war-news-updates/card/vessels-seized-by-the-u-s-carried-20-million-barrels-of-iranian-crude-to-china-2hu8tdpmfjfE3K64XDp4?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.wsj.com/livecoverage/iran-war-news-updates/card/vessels-seized-by-the-u-s-carried-20-million-barrels-of-iranian-crude-to-china-2hu8tdpmfjfE3K64XDp4?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>01/04/2026 23:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Por que a carnificina indiscriminada no software pode ser um presente que acontece uma vez a cada década para...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/marvell-technology-soars-nvidias-2b-134605289.html</guid>
       <pubDate>01/04/2026 22:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ea1548285fbbcc2486974b378486cdb5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da Pool Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-pool-corporations-next-135355198.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-pool-corporations-next-135355198.html</guid>
-      <pubDate>01/04/2026 22:21</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/cfb9d44219472c009884aa5c1bce7dfd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
