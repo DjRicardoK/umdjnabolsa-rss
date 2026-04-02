@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 05:10:05 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 05:10:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nasdaq abre a porta para SpaceX e outros mega IPOs</title>
+      <description></description>
+      <link>https://www.investors.com/news/spacex-ipo-nasdaq-anthropic-openai-index-investing/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/spacex-ipo-nasdaq-anthropic-openai-index-investing/?src=A00220&yptr=yahoo</guid>
+      <pubDate>02/04/2026 05:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/22e485b7a95b7fbf56b08512917bc22c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Você deve perseguir o rali desencadeado pela Nvidia nas ações da Marvell hoje?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-declines-president-trump-signals-193703673.html</guid>
       <pubDate>02/04/2026 04:00</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c3dfcbf6c12ac0d7bda076fcde2aadd1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nutrien Ltd (NTR) dobrando a recompra de ações em meio à melhoria da perspectiva de ganhos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nutrien-ltd-ntr-doubling-down-184928812.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nutrien-ltd-ntr-doubling-down-184928812.html</guid>
-      <pubDate>02/04/2026 03:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4a8ed9a9a8556186c51a3b752464e5dc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
