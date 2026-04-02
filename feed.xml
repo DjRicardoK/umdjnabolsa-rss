@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:04:36 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:04:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da Americas Gold and Silver Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/americas-gold-silver-corporation-q4-001611213.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/americas-gold-silver-corporation-q4-001611213.html</guid>
+      <pubDate>02/04/2026 08:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/be78826757196acfbf011c34bfeeaa9a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preço do Bitcoin: Powell Just Spoke e o relatório de empregos cai em 3 de abril – Aqui está o que poderia...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/swiss-inflation-climbs-to-highest-level-in-a-year-93CH-4594783</guid>
       <pubDate>02/04/2026 05:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Nasdaq abre a porta para SpaceX e outros mega IPOs</title>
-      <description></description>
-      <link>https://www.investors.com/news/spacex-ipo-nasdaq-anthropic-openai-index-investing/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/spacex-ipo-nasdaq-anthropic-openai-index-investing/?src=A00220&yptr=yahoo</guid>
-      <pubDate>02/04/2026 05:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/22e485b7a95b7fbf56b08512917bc22c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
