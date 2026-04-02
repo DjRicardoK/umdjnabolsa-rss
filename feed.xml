@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 10:29:53 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 10:37:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE IRS alerta sobre preparadores de impostos ‘fantasmas’ – como identificar um antes que seja tarde demais</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/irs-warns-ghost-tax-preparers-132338395.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/irs-warns-ghost-tax-preparers-132338395.html</guid>
+      <pubDate>02/04/2026 10:37</pubDate>
+      <enclosure url="https://media.zenfs.com/en/gobankingrates_644/38a8cf5ff94c5a0d4620dc213e5b1bef" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘Demissões em massa por e-mail podem ser a nova norma’, já que a Oracle demite milhares dessa forma</title>
       <description>A empresa de computação em nuvem e banco de dados começou a cortar empregos na terça-feira, com muitos trabalhadores sendo alertados por e-mail.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-6k-iamgold-corp-for-2-april-93CH-4595371</guid>
       <pubDate>02/04/2026 09:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China expande programa de yuan digital com 12 novos operadores bancários</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/china-expands-digital-yuan-programme-114527858.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/china-expands-digital-yuan-programme-114527858.html</guid>
-      <pubDate>02/04/2026 09:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/3ff1936fd77b2eb4c2f3f1c70417a73c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
