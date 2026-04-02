@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 11:12:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:13:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Beam Therapeutics (BEAM): entre as ações que podem aumentar 10 vezes nos próximos 5 anos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/beam-therapeutics-beam-among-stocks-140153980.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/beam-therapeutics-beam-among-stocks-140153980.html</guid>
+      <pubDate>02/04/2026 11:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c11b70b18a8096e844cd87624a53deb5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 8K Federal Home Loan Bank de Pittsburgh para: 2 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/which-global-stocks-offer-highquality-dividends-with-low-cut-risk-4595613</guid>
       <pubDate>02/04/2026 10:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEEA70L9_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O investimento inicial da Sequoia Capital em uma gigante da tecnologia de um trilhão de dólares com gestão...</title>
-      <description>O capitalista de risco Don Valentine investiu US$ 150 mil na Apple em 1978, dois anos antes de a startup abrir o capital</description>
-      <link>https://www.marketwatch.com/story/sequoia-capitals-early-investment-in-a-trillion-dollar-tech-giant-with-questionable-management-f05d2763?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/sequoia-capitals-early-investment-in-a-trillion-dollar-tech-giant-with-questionable-management-f05d2763?mod=mw_rss_topstories</guid>
-      <pubDate>02/04/2026 09:56</pubDate>
-      <enclosure url="https://images.mktw.net/im-77542118" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
