@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 01:00:51 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 01:07:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE IBM faz parceria com Arm para desenvolver hardware de arquitetura dupla</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/ibm-partners-with-arm-to-develop-dualarchitecture-hardware-93CH-4594589</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/ibm-partners-with-arm-to-develop-dualarchitecture-hardware-93CH-4594589</guid>
+      <pubDate>02/04/2026 01:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE À medida que a IA ameaça substituir empregos tecnológicos, as startups estão desesperadas por talentos de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-snaps-4day-winning-streak-after-trump-speech-signals-iran-escalation-4594578</guid>
       <pubDate>01/04/2026 23:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/99c9e7171f1ff29af32c5ceb826611ca_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump diz que objetivos centrais da guerra no Irão estão próximos da conclusão</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/trump-says-iran-wars-core-objectives-near-completion-4594576</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-says-iran-wars-core-objectives-near-completion-4594576</guid>
-      <pubDate>01/04/2026 23:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM301U6_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
