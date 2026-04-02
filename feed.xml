@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 11:13:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:25:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Logan traça caminho para reduzir o tamanho do balanço do Fed</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/logan-sketches-path-shrink-size-141736169.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/logan-sketches-path-shrink-size-141736169.html</guid>
+      <pubDate>02/04/2026 11:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/817255372e1b605642b5160d7eb6e263" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Beam Therapeutics (BEAM): entre as ações que podem aumentar 10 vezes nos próximos 5 anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/teslas-firstquarter-deliveries-miss-estimates-as-tax-credit-expiry-weighs-4595678</guid>
       <pubDate>02/04/2026 10:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310R6_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Quais ações globais oferecem dividendos de alta qualidade com baixo risco de corte?</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/which-global-stocks-offer-highquality-dividends-with-low-cut-risk-4595613</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/which-global-stocks-offer-highquality-dividends-with-low-cut-risk-4595613</guid>
-      <pubDate>02/04/2026 10:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEEA70L9_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
