@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 12:01:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 12:06:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Keysight lança software de simulação de montagem virtual</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/keysight-launches-virtual-assembly-simulation-software-93CH-4595976</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/keysight-launches-virtual-assembly-simulation-software-93CH-4595976</guid>
+      <pubDate>02/04/2026 12:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Ciena Corp atingem alta de 52 semanas a 447,04 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-universal-technical-institute-stock-buy-rating-at-40-93CH-4595818</guid>
       <pubDate>02/04/2026 10:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE DA. Davidson reitera classificação das ações do Hope Bancorp na aquisição</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-hope-bancorp-stock-rating-on-acquisition-93CH-4595820</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-hope-bancorp-stock-rating-on-acquisition-93CH-4595820</guid>
-      <pubDate>02/04/2026 10:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
