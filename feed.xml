@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 12:37:07 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 12:41:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Necessidades médicas aumentam no Irã e suprimentos ameaçados, alerta Cruz Vermelha</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/medical-needs-surging-in-iran-and-supplies-under-threat-red-cross-warns-4596013</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/medical-needs-surging-in-iran-and-supplies-under-threat-red-cross-warns-4596013</guid>
+      <pubDate>02/04/2026 12:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310XZ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BofA atualiza Vale em meio à liquidação do conflito no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-pittsburgh-for-2-april-93CH-4595839</guid>
       <pubDate>02/04/2026 11:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Pariah Capital venceu o primeiro trimestre – e está vencendo a guerra</title>
-      <description>O fundo imaginário criado pela MarketWatch que investe em ações odiadas por Wall Street superou o desempenho do S&amp;P 500, do Nasdaq e dos gestores de fundos mais ativos durante a...</description>
-      <link>https://www.marketwatch.com/story/pariah-capital-won-the-first-quarter-and-its-winning-the-war-ec2978e2?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/pariah-capital-won-the-first-quarter-and-its-winning-the-war-ec2978e2?mod=mw_rss_topstories</guid>
-      <pubDate>02/04/2026 11:10</pubDate>
-      <enclosure url="https://images.mktw.net/im-10626458" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
