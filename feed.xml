@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 23:40:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 23:44:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Apple é o estoque Magnificent 7 com melhor desempenho em 2026. Você deve comprá-lo para o segundo trimestre?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/apple-best-performing-magnificent-7-150312736.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-best-performing-magnificent-7-150312736.html</guid>
+      <pubDate>01/04/2026 23:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/27dbbd75c54082fdfcf20cc607352a9e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Navios apreendidos pelos EUA transportaram 20 milhões de barris de petróleo iraniano para a China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-says-core-strategic-objectives-in-iran-war-are-nearing-completion-4594557</guid>
       <pubDate>01/04/2026 22:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM31021_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tecnologia Marvell dispara com investimento de US$ 2 bilhões da Nvidia. Você também deve comprar ações da...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/marvell-technology-soars-nvidias-2b-134605289.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/marvell-technology-soars-nvidias-2b-134605289.html</guid>
-      <pubDate>01/04/2026 22:25</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ea1548285fbbcc2486974b378486cdb5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
