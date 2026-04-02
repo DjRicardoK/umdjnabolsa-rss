@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 04:23:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 04:37:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação suíça sobe à taxa mais alta em um ano à medida que os preços dos combustíveis aumentam</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/swiss-inflation-rises-at-highest-rate-in-a-year-as-fuel-prices-increases-4594730</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/swiss-inflation-rises-at-highest-rate-in-a-year-as-fuel-prices-increases-4594730</guid>
+      <pubDate>02/04/2026 04:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310CF_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE UBS atualiza classificação de ações da Treasury Wine Estates na avaliação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysiscentral-banks-inflation-mood-puzzle-more-judgment-than-science-4594607</guid>
       <pubDate>02/04/2026 03:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3108M_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bancos centrais globais praticamente em espera enquanto a guerra turva as perspectivas económicas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/global-central-banks-mostly-on-hold-as-war-muddies-economic-outlook-4594612</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-central-banks-mostly-on-hold-as-war-muddies-economic-outlook-4594612</guid>
-      <pubDate>02/04/2026 03:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM31098_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
