@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 04:11:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 04:17:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas europeias abrem em baixa com Trump prometendo novos ataques ao Irã; surtos de petróleo</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/europe-stocks-open-lower-as-trump-vows-fresh-iran-strikes-oil-surges-4594710</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/europe-stocks-open-lower-as-trump-vows-fresh-iran-strikes-oil-surges-4594710</guid>
+      <pubDate>02/04/2026 04:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6F08Z_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas do Japão caem no fechamento do pregão; Nikkei 225 caiu 2,40%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/golden-way-trade-volatility-gold-185011879.html</guid>
       <pubDate>02/04/2026 03:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/1f0f9b85e0b4f302a0b95940fd48125f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de Taiwan caem no fechamento do pregão; Taiwan pesou 2,45%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-245-4594604</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-245-4594604</guid>
-      <pubDate>02/04/2026 03:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/xiny_business_district_taipei_taiwan_M_1440051948.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
