@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 13:53:30 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:53:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump reduzirá tarifas de aço e alumínio para produtos derivados, dizem fontes</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/trump-to-reduce-steel-aluminum-tariff-rates-for-derivative-products-sources-4596078</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-to-reduce-steel-aluminum-tariff-rates-for-derivative-products-sources-4596078</guid>
+      <pubDate>02/04/2026 13:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310ZO_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Truist reitera retenção do estoque da Immunovant após falha no teste</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/factboxglobal-companies-delay-ipos-and-slash-dividends-as-middle-east-conflict-rattles-markets-4595282</guid>
       <pubDate>02/04/2026 12:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310OM_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os estoques espaciais aumentam enquanto a NASA lança a primeira missão lunar tripulada</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/space-stocks-surge-as-nasa-launches-first-crewed-lunar-mission-93CH-4595995</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/space-stocks-surge-as-nasa-launches-first-crewed-lunar-mission-93CH-4595995</guid>
-      <pubDate>02/04/2026 12:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
