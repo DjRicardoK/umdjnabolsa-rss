@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:35:51 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:35:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Cogent no envio do NDA</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-cogent-stock-rating-on-nda-submission-93CH-4595242</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-cogent-stock-rating-on-nda-submission-93CH-4595242</guid>
+      <pubDate>02/04/2026 08:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE HC Wainwright reitera compra de ações da ORIC Pharmaceuticals</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/australian-growers-shift-to-less-fertiliserintensive-crops-as-iran-war-costs-surge-4594818</guid>
       <pubDate>02/04/2026 05:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310GJ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Essas ações são os impulsionadores de hoje: CoreWeave, Microsoft, McCormick, Constellation, Biogen, Marvell e...</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/stock-movers-60004726?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/stock-movers-60004726?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>02/04/2026 05:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/ac27b5a56720289bef88b9b4b33a9262" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
