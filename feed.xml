@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 06:11:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 06:38:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do petróleo sobem mais de 7% enquanto o discurso de Trump leva à incerteza sobre a guerra no Irão</title>
+      <description>O discurso do presidente Donald Trump deixou os investidores preocupados com um possível ponto final para o conflito</description>
+      <link>https://www.marketwatch.com/story/oil-prices-rise-over-7-as-trump-speech-leads-to-uncertainty-on-iran-war-c544dd6e?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/oil-prices-rise-over-7-as-trump-speech-leads-to-uncertainty-on-iran-war-c544dd6e?mod=mw_rss_topstories</guid>
+      <pubDate>02/04/2026 06:38</pubDate>
+      <enclosure url="https://images.mktw.net/im-35899990" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O ouro está novamente em queda acentuada, com o mercado de ações. Por que não está se comportando como antes...</title>
       <description>A Goldman Sachs mantém a sua meta de final de ano de 5.400 dólares para o ouro, insistindo que as características de combate à inflação e de porto seguro do ouro se reafirmarão.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-did-nvidia-stock-pop-194235856.html</guid>
       <pubDate>02/04/2026 04:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e3a72fe79ee39dc6a00de09ab16c5781" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Smithfield Foods no quarto trimestre de 2025 vê forte lucro por...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-smithfield-foods-q4-2025-sees-strong-eps-and-stock-rise-93CH-4594721</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-smithfield-foods-q4-2025-sees-strong-eps-and-stock-rise-93CH-4594721</guid>
-      <pubDate>02/04/2026 04:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
