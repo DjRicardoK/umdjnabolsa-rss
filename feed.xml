@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 04:51:54 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 04:57:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise - De pária internacional a mediador na guerra do Irão, a notável transformação do Paquistão</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/analysisfrom-international-outcast-to-mediator-in-iran-war-pakistans-remarkable-makeover-4594776</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysisfrom-international-outcast-to-mediator-in-iran-war-pakistans-remarkable-makeover-4594776</guid>
+      <pubDate>02/04/2026 04:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310DW_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China diz que apoia acordos transnacionais cumpridores da lei após relatos de revisão do acordo Meta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/dow-surges-1-000-points-nasdaq-rallies-3-4--S53QG6YqHeHIwq5pgVDp?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>02/04/2026 03:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que o ouro dos EUA (USAU) ainda está focado em financiamento e licenciamento, e não em receita</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/why-u-gold-usau-focused-191512779.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/why-u-gold-usau-focused-191512779.html</guid>
-      <pubDate>02/04/2026 03:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3e24a795c753b173dfea02d0509f0bc7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
