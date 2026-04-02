@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 22:53:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 23:04:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Divisão de Wall Street em Gaming and Leisure Properties, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-split-gaming-leisure-142757491.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-split-gaming-leisure-142757491.html</guid>
+      <pubDate>01/04/2026 23:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b261fabc4056a5c3bfaf78bfa5394b5f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street Pro diz aos investidores para comprarem ações da Mastercard</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/surge-copper-says-continuing-progress-151040241.html</guid>
       <pubDate>01/04/2026 12:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/tipranks_452/ea7d93919fc9da6c2816cb36023ae54f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Netscout Systems atingem alta de 52 semanas a 32,87 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/netscout-systems-stock-hits-52week-high-at-3287-usd-93CH-4593592</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/netscout-systems-stock-hits-52week-high-at-3287-usd-93CH-4593592</guid>
-      <pubDate>01/04/2026 12:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
