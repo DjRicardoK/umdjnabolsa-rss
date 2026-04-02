@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 22:32:53 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 22:32:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da L3Harris Technologies: o que você precisa saber</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-quarterly-earnings-preview-140323333.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-quarterly-earnings-preview-140323333.html</guid>
+      <pubDate>01/04/2026 22:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bfcc3b913cc190d9a16801baae7a794d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE NVIDIA aceita acordo com a Marvell: três razões pelas quais o investimento de US$ 2 bilhões faz o mundo da IA...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/northland-reiterates-intel-stock-rating-on-ireland-fab-buyback-93CH-4593553</guid>
       <pubDate>01/04/2026 11:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wall Street fica otimista com a Sempra Energy: Wells Fargo define preço-alvo de US$ 115</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-turns-bullish-sempra-143523900.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-turns-bullish-sempra-143523900.html</guid>
-      <pubDate>01/04/2026 11:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/b9cf89d0bc7c84a5f72713282b4b495c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
