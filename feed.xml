@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:24:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:24:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fonterra da Nova Zelândia admite que rótulo &apos;alimentado com pasto&apos; pode enganar os compradores após processo...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/zealands-fonterra-admits-grass-fed-234730289.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/zealands-fonterra-admits-grass-fed-234730289.html</guid>
+      <pubDate>02/04/2026 08:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/3af43c8abe4feb954bb1aa7d090308b6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warren Buffett fez uma aposta de US$ 19,8 bilhões e não está na IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-surge-signs-us-iran-203637737.html</guid>
       <pubDate>02/04/2026 05:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/cdd84af6863bf5f4c7124b79dd8fee04" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Circle cunha US$ 750 milhões em stablecoin USDC na rede Solana</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/circle-mints-750-million-usdc-203900117.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/circle-mints-750-million-usdc-203900117.html</guid>
-      <pubDate>02/04/2026 05:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/d67065daac5533a35e675c8da9d56208" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
