@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 03:06:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:11:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Uma maneira “dourada” de negociar a volatilidade dos preços do ouro em troca de baixo risco e alta recompensa</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/golden-way-trade-volatility-gold-185011879.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/golden-way-trade-volatility-gold-185011879.html</guid>
+      <pubDate>02/04/2026 03:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1f0f9b85e0b4f302a0b95940fd48125f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de Taiwan caem no fechamento do pregão; Taiwan pesou 2,45%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/corn-bouncing-following-positive-stocks-164917571.html</guid>
       <pubDate>02/04/2026 01:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/0f5fa08b5c977f0f0ce33666bbd2d2c1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da TD SYNNEX Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/td-synnex-corporation-q1-2026-164559081.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/td-synnex-corporation-q1-2026-164559081.html</guid>
-      <pubDate>02/04/2026 01:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/f7b75d5a2a6e61bff24bd32cbc915f11" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
