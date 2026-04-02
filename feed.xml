@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 01:38:03 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 01:38:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da TD SYNNEX Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/td-synnex-corporation-q1-2026-164559081.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/td-synnex-corporation-q1-2026-164559081.html</guid>
+      <pubDate>02/04/2026 01:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/f7b75d5a2a6e61bff24bd32cbc915f11" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O dólar está registrando seu melhor trimestre desde 2024</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-climb-hopes-end-iran-151328495.html</guid>
       <pubDate>01/04/2026 23:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/950613f8b5c04241060fc26b99c65abf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O presidente do Fed, Powell, alerta: outro choque de oferta está chegando</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/fed-chair-powell-warns-another-151431720.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-chair-powell-warns-another-151431720.html</guid>
-      <pubDate>01/04/2026 23:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/4bf4d729a101933f502a65c3c58f340e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
