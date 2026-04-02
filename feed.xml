@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 05:18:24 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 05:21:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Petróleo volta à vista de US$ 110/bbl após Trump sinalizar escalada da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/oil-extends-losses-on-iran-deescalation-hopes-markets-eye-trumps-speech-4594540</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-extends-losses-on-iran-deescalation-hopes-markets-eye-trumps-speech-4594540</guid>
+      <pubDate>02/04/2026 05:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1A050_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inflação suíça sobe para nível mais alto em um ano</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-found-gold-nfgc-still-191511258.html</guid>
       <pubDate>02/04/2026 04:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6f206bd587d8e5fef5ec92ee2759dd39" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro termina trimestre positivo apesar da queda de março</title>
-      <description></description>
-      <link>https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/gold-finishes-quarter-positive-despite-march-decline-6vs4egLXwYtdNdZyexUr?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/gold-finishes-quarter-positive-despite-march-decline-6vs4egLXwYtdNdZyexUr?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>02/04/2026 04:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
