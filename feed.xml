@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 04:00:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 04:05:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro termina trimestre positivo apesar da queda de março</title>
+      <description></description>
+      <link>https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/gold-finishes-quarter-positive-despite-march-decline-6vs4egLXwYtdNdZyexUr?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/gold-finishes-quarter-positive-despite-march-decline-6vs4egLXwYtdNdZyexUr?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>02/04/2026 04:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dólar cai enquanto o presidente Trump sinaliza que pode acabar com a guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-giant-reportedly-fires-two-175439816.html</guid>
       <pubDate>02/04/2026 02:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/7a22c59d345146d2b28582adb8f8b899" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os estoques de memória foram uma das negociações mais quentes de 2025. Agora eles esfriaram. O que vem a...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/memory-stocks-were-one-2025s-174925029.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/memory-stocks-were-one-2025s-174925029.html</guid>
-      <pubDate>02/04/2026 02:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/investopedia_245/e654f29a915813a88b6c52d15d0fe503" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
