@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 14:33:28 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 14:45:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Principais estoques de gás dos EUA de acordo com o UBS</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/top-us-gas-stocks-according-to-ubs-93CH-4596160</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-us-gas-stocks-according-to-ubs-93CH-4596160</guid>
+      <pubDate>02/04/2026 14:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise do cartão Wells Fargo Active Cash: recompensas ilimitadas em dinheiro de 2% e introdução generosa APR</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-villeroy-says-it-is-too-soon-to-say-when-rates-could-rise-4596077</guid>
       <pubDate>02/04/2026 13:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310ZU_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As detenções de navios com bandeira do Panamá pela China levantam preocupações, diz Rubio</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/chinas-detentions-of-panamaflagged-vessels-raise-concerns-rubio-says-4595926</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/chinas-detentions-of-panamaflagged-vessels-raise-concerns-rubio-says-4595926</guid>
-      <pubDate>02/04/2026 13:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310V3_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
