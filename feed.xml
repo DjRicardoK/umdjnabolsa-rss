@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 09:29:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:41:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Exclusivo: aumentos de liquidação de títulos do Tesouro - especialista afirma que Scott Bessent pode adiar...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/exclusive-treasury-sell-off-mounts-123104720.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/exclusive-treasury-sell-off-mounts-123104720.html</guid>
+      <pubDate>02/04/2026 09:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/5d158971395218f7702b477b3f81f6e0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Funcionários do Citgroup disseram para trabalhar remotamente em Paris e Frankfurt após tentativa frustrada de...</title>
       <description>Os funcionários do Citigroup estão trabalhando em casa em Paris e Frankfurt, após um ataque a bomba frustrado ao Bank of America na capital francesa.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/americas-gold-silver-corporation-q4-001611213.html</guid>
       <pubDate>02/04/2026 08:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/be78826757196acfbf011c34bfeeaa9a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preço do Bitcoin: Powell Just Spoke e o relatório de empregos cai em 3 de abril – Aqui está o que poderia...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-powell-just-spoke-230519729.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-powell-just-spoke-230519729.html</guid>
-      <pubDate>02/04/2026 08:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/c37991d46e9f32506b46fcdfce6ee930" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
