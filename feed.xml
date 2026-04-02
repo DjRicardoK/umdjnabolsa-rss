@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 23:56:14 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 00:04:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de ganhos do 4º trimestre da bateria FREYR</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/freyr-battery-q4-earnings-call-152017836.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/freyr-battery-q4-earnings-call-152017836.html</guid>
+      <pubDate>02/04/2026 00:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/e63c3f9a7291d8ad080266ce497682de" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações sobem com esperança de fim da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/south-korea-march-inflation-22-yy-weaker-than-expected-4594463</guid>
       <pubDate>01/04/2026 22:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM302Y7_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O desconto nas ações da Nvidia (NVDA) pode ficar ainda mais atraente para especuladores de pacientes</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-discount-could-141031241.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-discount-could-141031241.html</guid>
-      <pubDate>01/04/2026 22:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/65d3898372b4655254095bf8c6c45b10" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
