@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 02:40:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 02:45:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Austrália caem no fechamento do pregão; S&amp;P/ASX 200 caiu 1,06%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-106-4594602</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-106-4594602</guid>
+      <pubDate>02/04/2026 02:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDB20MF_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O problema da inflação na Europa acaba de reaquecer</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/barclays-predicts-growing-treasury-market-133500887.html</guid>
       <pubDate>02/04/2026 00:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/ede74eca4a7654ce155aed5758f4a2ea" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bolsas da Ásia caem enquanto Trump sinaliza escalada da guerra no Irã; Coreia do Sul lidera perdas</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-dip-as-trump-flags-iran-war-escalation-skorea-leads-losses-4594585</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-dip-as-trump-flags-iran-war-escalation-skorea-leads-losses-4594585</guid>
-      <pubDate>02/04/2026 00:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAG092_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
