@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 05:10:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 05:18:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação suíça sobe para nível mais alto em um ano</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/swiss-inflation-climbs-to-highest-level-in-a-year-93CH-4594783</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/swiss-inflation-climbs-to-highest-level-in-a-year-93CH-4594783</guid>
+      <pubDate>02/04/2026 05:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nasdaq abre a porta para SpaceX e outros mega IPOs</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/gold-finishes-quarter-positive-despite-march-decline-6vs4egLXwYtdNdZyexUr?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>02/04/2026 04:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dólar cai enquanto o presidente Trump sinaliza que pode acabar com a guerra no Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-declines-president-trump-signals-193703673.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-declines-president-trump-signals-193703673.html</guid>
-      <pubDate>02/04/2026 04:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c3dfcbf6c12ac0d7bda076fcde2aadd1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
