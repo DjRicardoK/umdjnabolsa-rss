@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 11:59:17 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 12:01:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reitera classificação das ações da Scotts Miracle-Gro citando alavancagem</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-scotts-miraclegro-stock-rating-citing-leverage-93CH-4595946</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-scotts-miraclegro-stock-rating-citing-leverage-93CH-4595946</guid>
+      <pubDate>02/04/2026 12:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que a rua pensa sobre a Kohl’s Corporation (KSS) após os lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-planning-smartphone-134257305.html</guid>
       <pubDate>02/04/2026 10:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/226ed9ed0936942adb97f3d56073e411" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os estoques das companhias aéreas caem, mas as preocupações com o aumento dos preços dos combustíveis ainda...</title>
-      <description>As ações das companhias aéreas estavam a cair no meio de preocupações renovadas sobre o aumento dos custos dos combustíveis e sobre como isso poderia eventualmente prejudicar a...</description>
-      <link>https://www.marketwatch.com/story/airline-stocks-drop-but-worries-over-rising-fuel-prices-havent-hurt-travel-demand-yet-e79d9e10?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/airline-stocks-drop-but-worries-over-rising-fuel-prices-havent-hurt-travel-demand-yet-e79d9e10?mod=mw_rss_topstories</guid>
-      <pubDate>02/04/2026 10:47</pubDate>
-      <enclosure url="https://images.mktw.net/im-93593716" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
