@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 02:35:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 02:40:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O problema da inflação na Europa acaba de reaquecer</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/europe-inflation-problem-just-reheated-174029421.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/europe-inflation-problem-just-reheated-174029421.html</guid>
+      <pubDate>02/04/2026 02:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/21cccc5deda11035e458e41b48acd34f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O CEO da Meta (META), Mark Zuckerberg, está desenvolvendo um agente de IA para ajudá-lo a ser o CEO Tesla e a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-dip-as-trump-flags-iran-war-escalation-skorea-leads-losses-4594585</guid>
       <pubDate>02/04/2026 00:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAG092_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Câmbio asiático cai, dólar se recupera enquanto sentimento de risco piora após discurso de Trump</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/asia-fx-slips-dollar-rebounds-as-risk-sentiment-sours-after-trump-speech-4594584</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-slips-dollar-rebounds-as-risk-sentiment-sours-after-trump-speech-4594584</guid>
-      <pubDate>02/04/2026 00:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE2C0N2_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
