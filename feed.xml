@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 02:34:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 02:35:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O CEO da Meta (META), Mark Zuckerberg, está desenvolvendo um agente de IA para ajudá-lo a ser o CEO Tesla e a...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/meta-meta-ceo-mark-zuckerberg-173809972.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/meta-meta-ceo-mark-zuckerberg-173809972.html</guid>
+      <pubDate>02/04/2026 02:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5d030b6f3e6e3c61f6ec8aee8e97feda" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Micron Technology, Inc. (MU) caem à medida que planos de despesas massivas ofuscam ganhos sólidos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-slips-dollar-rebounds-as-risk-sentiment-sours-after-trump-speech-4594584</guid>
       <pubDate>02/04/2026 00:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE2C0N2_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação medida pelo IPC da Coreia do Sul sobe 2,2% em março, à medida que a guerra no Irão aumenta os...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/south-korea-cpi-inflation-rises-22-in-march-as-iran-war-drives-energy-costs-93CH-4594583</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/south-korea-cpi-inflation-rises-22-in-march-as-iran-war-drives-energy-costs-93CH-4594583</guid>
-      <pubDate>02/04/2026 00:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0D0_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
