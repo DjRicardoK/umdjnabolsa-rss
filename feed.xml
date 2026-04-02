@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:35:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:45:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Melhores escolhas em imóveis? UBS afirma que essas duas ações foram construídas para a incerteza</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/best-picks-in-real-estate-ubs-says-these-two-stocks-are-built-for-uncertainty-93CH-4595267</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/best-picks-in-real-estate-ubs-says-these-two-stocks-are-built-for-uncertainty-93CH-4595267</guid>
+      <pubDate>02/04/2026 08:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Cogent no envio do NDA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-in-talks-to-buy-9-billion-satellite-group-globalstar-ft-reports-4594452</guid>
       <pubDate>02/04/2026 05:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM302XR_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Produtores australianos mudam para culturas menos intensivas em fertilizantes à medida que os custos da...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/australian-growers-shift-to-less-fertiliserintensive-crops-as-iran-war-costs-surge-4594818</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/australian-growers-shift-to-less-fertiliserintensive-crops-as-iran-war-costs-surge-4594818</guid>
-      <pubDate>02/04/2026 05:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310GJ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
