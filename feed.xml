@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 04:58:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 05:10:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Você deve perseguir o rali desencadeado pela Nvidia nas ações da Marvell hoje?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/chase-nvidia-triggered-rally-marvell-201345770.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chase-nvidia-triggered-rally-marvell-201345770.html</guid>
+      <pubDate>02/04/2026 05:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/be9a9741e8308282d47e9be4238e1408" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Três ações abaixo de US$ 20 com enorme potencial de valorização</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nutrien-ltd-ntr-doubling-down-184928812.html</guid>
       <pubDate>02/04/2026 03:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4a8ed9a9a8556186c51a3b752464e5dc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do petróleo recuam com esperanças de que a guerra com o Irã esteja próxima do fim</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-retreat-hopes-191840761.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-retreat-hopes-191840761.html</guid>
-      <pubDate>02/04/2026 03:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5eb114cb4f1248050427a6c995a38dd1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
