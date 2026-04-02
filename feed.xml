@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 22:42:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 22:45:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação de março na Coreia do Sul fica abaixo das previsões, mas os riscos aumentaram</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/south-korea-march-inflation-22-yy-weaker-than-expected-4594463</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/south-korea-march-inflation-22-yy-weaker-than-expected-4594463</guid>
+      <pubDate>01/04/2026 22:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM302Y7_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O desconto nas ações da Nvidia (NVDA) pode ficar ainda mais atraente para especuladores de pacientes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/cleveland-fed-data-shows-war-impacting-headline-inflation-data-4593583</guid>
       <pubDate>01/04/2026 11:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM302J8_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Grécia sobem no fechamento do pregão; Atenas General Composite subiu 3,15%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-315-4593584</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-315-4593584</guid>
-      <pubDate>01/04/2026 11:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0S0CP_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
