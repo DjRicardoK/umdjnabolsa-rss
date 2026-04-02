@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 11:06:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:10:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pariah Capital venceu o primeiro trimestre – e está vencendo a guerra</title>
+      <description>O fundo imaginário criado pela MarketWatch que investe em ações odiadas por Wall Street superou o desempenho do S&amp;P 500, do Nasdaq e dos gestores de fundos mais ativos durante a...</description>
+      <link>https://www.marketwatch.com/story/pariah-capital-won-the-first-quarter-and-its-winning-the-war-ec2978e2?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/pariah-capital-won-the-first-quarter-and-its-winning-the-war-ec2978e2?mod=mw_rss_topstories</guid>
+      <pubDate>02/04/2026 11:10</pubDate>
+      <enclosure url="https://images.mktw.net/im-10626458" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ouro e prata quebram sem fim para a guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysis-us-defense-stocks-see-124415617.html</guid>
       <pubDate>02/04/2026 09:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/9a1f4eb7e1c157fbcfa9bee0834616ff" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Arábia Saudita caem no fechamento do pregão; Tadawul All Share caiu 0,07%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-007-4595573</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-007-4595573</guid>
-      <pubDate>02/04/2026 09:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED9015J_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
