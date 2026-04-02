@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 04:37:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 04:39:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street vê alta de 70% para esta ação de IA derrotada</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-70-upside-193700186.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-70-upside-193700186.html</guid>
+      <pubDate>02/04/2026 04:39</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/fe48b5af35af9060de2f8f1d5d6b014a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A inflação suíça sobe à taxa mais alta em um ano à medida que os preços dos combustíveis aumentam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-cuts-akzo-nobel-to-neutral-slashes-pt-on-input-cost-shock-4594611</guid>
       <pubDate>02/04/2026 03:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED9T09Z_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise – Quebra-cabeça do clima de inflação dos bancos centrais: mais julgamento do que ciência</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/analysiscentral-banks-inflation-mood-puzzle-more-judgment-than-science-4594607</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysiscentral-banks-inflation-mood-puzzle-more-judgment-than-science-4594607</guid>
-      <pubDate>02/04/2026 03:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3108M_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
