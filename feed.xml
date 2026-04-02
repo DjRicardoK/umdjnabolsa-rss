@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 03:36:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:39:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dow sobe 1.000 pontos. Nasdaq sobe 3,4%.</title>
+      <description></description>
+      <link>https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/dow-surges-1-000-points-nasdaq-rallies-3-4--S53QG6YqHeHIwq5pgVDp?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/dow-surges-1-000-points-nasdaq-rallies-3-4--S53QG6YqHeHIwq5pgVDp?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>02/04/2026 03:39</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Por que o ouro dos EUA (USAU) ainda está focado em financiamento e licenciamento, e não em receita</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/meta-meta-ceo-mark-zuckerberg-173809972.html</guid>
       <pubDate>02/04/2026 02:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5d030b6f3e6e3c61f6ec8aee8e97feda" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Micron Technology, Inc. (MU) caem à medida que planos de despesas massivas ofuscam ganhos sólidos...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-shares-173825036.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-shares-173825036.html</guid>
-      <pubDate>02/04/2026 02:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c08d4ddb510a62bf25e53c3c6cc76197" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
