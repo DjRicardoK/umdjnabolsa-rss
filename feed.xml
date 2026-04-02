@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 00:23:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 00:24:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Juíza dos EUA diz que autoridades de fronteira violaram sua ordem anterior sobre prisões sem mandado</title>
+      <description></description>
+      <link>https://www.investing.com/news/politics-news/us-judge-says-border-officials-violated-her-previous-order-on-warrantless-arrests-4594582</link>
+      <guid isPermaLink="false">https://www.investing.com/news/politics-news/us-judge-says-border-officials-violated-her-previous-order-on-warrantless-arrests-4594582</guid>
+      <pubDate>02/04/2026 00:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM31051_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que a rua pensa sobre os ganhos pós-ganhos da Tencent Music Entertainment (TME)?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/instant-view-investor-reactions-to-trumps-speech-on-iran-war-4594574</guid>
       <pubDate>01/04/2026 23:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM31035_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dólar cai enquanto o presidente Trump sinaliza que pode acabar com a guerra no Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-declines-president-trump-signals-143358360.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-declines-president-trump-signals-143358360.html</guid>
-      <pubDate>01/04/2026 23:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/23377ff3d8976e5204c5ede618c2a9da" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
