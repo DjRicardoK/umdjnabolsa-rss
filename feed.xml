@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 10:54:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 10:54:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Truist reitera classificação de compra de ações do Universal Technical Institute em US$ 40</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-universal-technical-institute-stock-buy-rating-at-40-93CH-4595818</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-universal-technical-institute-stock-buy-rating-at-40-93CH-4595818</guid>
+      <pubDate>02/04/2026 10:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE DA. Davidson reitera classificação das ações do Hope Bancorp na aquisição</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-stock-climbs-bets-jaw-121244554.html</guid>
       <pubDate>02/04/2026 09:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/tipranks_452/26fe12d28643aeea206fb492173f3bca" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preço do Bitcoin e do Ethereum hoje, quinta-feira, 2 de abril de 2026: os preços perdem terreno depois que...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-2-2026-prices-lose-ground-after-trump-promises-quick-fierce-end-to-war-120045450.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-thursday-april-2-2026-prices-lose-ground-after-trump-promises-quick-fierce-end-to-war-120045450.html</guid>
-      <pubDate>02/04/2026 09:26</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/R4fhNy.vnr_QIatr9RUOpQ--~B/aD00MDU7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ethereum_%20_bitcoin_2_2928.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
