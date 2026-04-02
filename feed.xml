@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 14:45:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 14:46:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Empresa veterana de Wall Street envia às ações da Micron um aviso contundente</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/veteran-wall-street-firm-sends-173600641.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/veteran-wall-street-firm-sends-173600641.html</guid>
+      <pubDate>02/04/2026 14:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/cc0f132a308bbc0afb17c570f8c593e1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Principais estoques de gás dos EUA de acordo com o UBS</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/rtx-stock-iran-war-middle-east-defense-contractors-dod-trump/?src=A00220&yptr=yahoo</guid>
       <pubDate>02/04/2026 13:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/8cc84739a1c81caa880152dd4f702036" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Villeroy, do BCE, diz que é muito cedo para dizer quando as taxas poderão subir</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ecbs-villeroy-says-it-is-too-soon-to-say-when-rates-could-rise-4596077</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-villeroy-says-it-is-too-soon-to-say-when-rates-could-rise-4596077</guid>
-      <pubDate>02/04/2026 13:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310ZU_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
