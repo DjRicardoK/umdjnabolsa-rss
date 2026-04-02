@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 15:08:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 15:08:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais do principal grupo financeiro: o que você precisa saber</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/principal-financial-groups-quarterly-earnings-072134819.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/principal-financial-groups-quarterly-earnings-072134819.html</guid>
+      <pubDate>02/04/2026 15:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/cc281ab6af56a4f74ef5eb281a6adfb3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos do Grupo CBRE</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-hold-on-immunovant-stock-after-trial-failure-93CH-4596107</guid>
       <pubDate>02/04/2026 13:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As perspectivas para a economia dos EUA são agora muito piores do que há apenas duas semanas, dizem...</title>
-      <description>Espera-se crescimento mais fraco e inflação mais alta</description>
-      <link>https://www.marketwatch.com/story/the-outlook-for-the-u-s-economy-is-now-a-lot-worse-than-just-two-weeks-ago-economists-say-e01eb3d0?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-outlook-for-the-u-s-economy-is-now-a-lot-worse-than-just-two-weeks-ago-economists-say-e01eb3d0?mod=mw_rss_topstories</guid>
-      <pubDate>02/04/2026 13:50</pubDate>
-      <enclosure url="https://images.mktw.net/im-72683272" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
