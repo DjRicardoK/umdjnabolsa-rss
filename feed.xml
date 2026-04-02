@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 09:15:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:17:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ‘Dia da Libertação’ um ano depois: o que as tarifas de Trump estão custando à América</title>
+      <description>As construtoras residenciais e fabricantes de automóveis dos EUA estão sofrendo. As tarifas não reduziram a dívida federal como prometido.</description>
+      <link>https://www.marketwatch.com/story/liberation-day-one-year-later-what-trumps-tariffs-are-costing-america-d8aacc13?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/liberation-day-one-year-later-what-trumps-tariffs-are-costing-america-d8aacc13?mod=mw_rss_topstories</guid>
+      <pubDate>02/04/2026 09:17</pubDate>
+      <enclosure url="https://images.mktw.net/im-84097276" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: Dow vende após discurso de Trump enquanto o petróleo sobe; Próximos dados de entrega...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/why-delta-starbucks-and-these-other-stocks-were-just-added-to-a-market-beating-fresh-money-list-58564531?mod=mw_rss_topstories</guid>
       <pubDate>02/04/2026 07:46</pubDate>
       <enclosure url="https://images.mktw.net/im-17515865" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citizens reitera classificação das ações da Redwood Trust sobre perspectivas de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-redwood-trust-stock-rating-on-earnings-outlook-93CH-4594950</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-redwood-trust-stock-rating-on-earnings-outlook-93CH-4594950</guid>
-      <pubDate>02/04/2026 07:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
