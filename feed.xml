@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:13:49 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:24:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warren Buffett fez uma aposta de US$ 19,8 bilhões e não está na IA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-made-19-8-232500946.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-made-19-8-232500946.html</guid>
+      <pubDate>02/04/2026 08:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/540ed2aa848a920a7b89eb001296a34e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cytosorbents recebeu extensão de 180 dias pela Nasdaq para atingir o preço mínimo de oferta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/circle-mints-750-million-usdc-203900117.html</guid>
       <pubDate>02/04/2026 05:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/d67065daac5533a35e675c8da9d56208" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O CEO da Nike afirma que sua recuperação ‘não está concluída’, já que a empresa vê solavancos na China no...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nike-ceo-says-turnaround-not-203414556.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nike-ceo-says-turnaround-not-203414556.html</guid>
-      <pubDate>02/04/2026 05:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/footwear_news_finance_8/ab86c6e8840563d33b8e695415d418dc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
