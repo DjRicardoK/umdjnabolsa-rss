@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 04:57:59 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 04:58:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Três ações abaixo de US$ 20 com enorme potencial de valorização</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/three-stocks-under-20-massive-195700129.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/three-stocks-under-20-massive-195700129.html</guid>
+      <pubDate>02/04/2026 04:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/c752c96bce0c32531a56d880ca6e2e80" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise - De pária internacional a mediador na guerra do Irão, a notável transformação do Paquistão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-retreat-hopes-191840761.html</guid>
       <pubDate>02/04/2026 03:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5eb114cb4f1248050427a6c995a38dd1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dow sobe 1.000 pontos. Nasdaq sobe 3,4%.</title>
-      <description></description>
-      <link>https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/dow-surges-1-000-points-nasdaq-rallies-3-4--S53QG6YqHeHIwq5pgVDp?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-033126/card/dow-surges-1-000-points-nasdaq-rallies-3-4--S53QG6YqHeHIwq5pgVDp?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>02/04/2026 03:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
