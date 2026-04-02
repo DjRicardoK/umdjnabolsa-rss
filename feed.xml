@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 04:11:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 04:11:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas do Japão caem no fechamento do pregão; Nikkei 225 caiu 2,40%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-240-4594691</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-240-4594691</guid>
+      <pubDate>02/04/2026 04:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB5O08F_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco do Japão pode estar ignorando o risco real da guerra com o Irã, diz ex-funcionário do banco central</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-245-4594604</guid>
       <pubDate>02/04/2026 03:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/xiny_business_district_taipei_taiwan_M_1440051948.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Kosmos Energy (KOS) – entre as melhores ações de petróleo e gás para comprar agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/kosmos-energy-kos-among-best-182437307.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/kosmos-energy-kos-among-best-182437307.html</guid>
-      <pubDate>02/04/2026 03:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/311e7140e140ac450c57aadfd2eaaa58" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
