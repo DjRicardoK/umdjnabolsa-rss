@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 14:27:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 14:30:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fundos de hedge atingidos pela turbulência do mercado desencadeada pelo conflito no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/hedge-funds-face-worst-monthly-drawdown-in-over-four-years-goldman-sachs-tells-clients-4594474</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/hedge-funds-face-worst-monthly-drawdown-in-over-four-years-goldman-sachs-tells-clients-4594474</guid>
+      <pubDate>02/04/2026 14:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM302YA_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado de ações se recupera mesmo com os preços do petróleo disparando com os comentários de Trump sobre a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/needham-cuts-t1-energy-stock-price-target-on-lower-earnings-outlook-93CH-4596042</guid>
       <pubDate>02/04/2026 13:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Evercore ISI cauteloso com e.l.f. Beleza, alerta para risco de saturação</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/evercore-isi-cautious-on-elf-beauty-warns-of-saturation-risk-4596034</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/evercore-isi-cautious-on-elf-beauty-warns-of-saturation-risk-4596034</guid>
-      <pubDate>02/04/2026 12:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6Q02Q_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
