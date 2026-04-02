@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 13:53:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:57:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do segundo trimestre de 2026 da Acuity Brands, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/acuity-brands-inc-q2-2026-164615971.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/acuity-brands-inc-q2-2026-164615971.html</guid>
+      <pubDate>02/04/2026 13:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/70579bc7fbf7946ca73f2e462cf23c49" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump reduzirá tarifas de aço e alumínio para produtos derivados, dizem fontes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bofa-upgrades-vale-amid-iran-152145829.html</guid>
       <pubDate>02/04/2026 12:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/6be1f757894a31fcff85ddc577ad7511" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Factbox-Empresas globais atrasam IPOs e cortam dividendos enquanto o conflito no Oriente Médio abala os...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/factboxglobal-companies-delay-ipos-and-slash-dividends-as-middle-east-conflict-rattles-markets-4595282</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/factboxglobal-companies-delay-ipos-and-slash-dividends-as-middle-east-conflict-rattles-markets-4595282</guid>
-      <pubDate>02/04/2026 12:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310OM_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
