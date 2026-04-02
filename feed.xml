@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 14:30:05 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 14:30:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Falcões e pombas do Fed: o que dizem os banqueiros centrais dos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/fed-hawks-and-doves-what-us-central-bankers-are-saying-4596143</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-hawks-and-doves-what-us-central-bankers-are-saying-4596143</guid>
+      <pubDate>02/04/2026 14:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM221EN_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fundos de hedge atingidos pela turbulência do mercado desencadeada pelo conflito no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/mortgage-rates-rise-for-the-fifth-week-in-a-row-heres-how-much-more-homebuyers-are-paying-since-the-iran-wars-start-910bd100?mod=mw_rss_topstories</guid>
       <pubDate>02/04/2026 13:10</pubDate>
       <enclosure url="https://images.mktw.net/im-02081523" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Needham corta meta de preço das ações da T1 Energy com perspectiva de lucros mais baixos</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/needham-cuts-t1-energy-stock-price-target-on-lower-earnings-outlook-93CH-4596042</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/needham-cuts-t1-energy-stock-price-target-on-lower-earnings-outlook-93CH-4596042</guid>
-      <pubDate>02/04/2026 13:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
