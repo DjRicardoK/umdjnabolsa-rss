@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 13:23:28 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:25:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Microsoft têm sido atormentadas pela “apatia”. Será que isso poderá entusiasmar Wall Street mais...</title>
+      <description>A Microsoft decepcionou os investidores recentemente com as tendências do Copilot e do Azure. A capacidade da nuvem deverá aumentar, mas isso não é uma solução imediata.</description>
+      <link>https://www.marketwatch.com/story/microsofts-stock-has-been-plagued-by-apathy-can-it-excite-wall-street-once-more-ae73a6f9?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/microsofts-stock-has-been-plagued-by-apathy-can-it-excite-wall-street-once-more-ae73a6f9?mod=mw_rss_topstories</guid>
+      <pubDate>02/04/2026 13:25</pubDate>
+      <enclosure url="https://images.mktw.net/im-28113577" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Guerra do Irã alimenta contratos de defesa. Analistas divididos em ações RTX.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-u-s-isnt-creating-many-jobs-anymore-the-march-jobs-report-wont-buck-the-trend-4db266c8?mod=mw_rss_topstories</guid>
       <pubDate>02/04/2026 11:57</pubDate>
       <enclosure url="https://images.mktw.net/im-69715090" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os investidores vencedores não-defensivos perdidos no choque de abastecimento da Guerra do Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/non-defense-winner-investors-missed-142832085.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/non-defense-winner-investors-missed-142832085.html</guid>
-      <pubDate>02/04/2026 11:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/6c1bc47c4c5c397943edf3ff090fb406" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
