@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 11:42:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:42:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Lumentum Holdings atingem o máximo histórico em 810,57 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/lumentum-holdings-stock-hits-alltime-high-at-81057-usd-93CH-4595932</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/lumentum-holdings-stock-hits-alltime-high-at-81057-usd-93CH-4595932</guid>
+      <pubDate>02/04/2026 11:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Edgewise Therapeutics atingem o máximo de 52 semanas a 33,5 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/fired-via-email-some-of-the-30-000-workers-cut-by-oracle-woke-up-to-a-morning-message-saying-they-were-laid-off-89a7af94?mod=mw_rss_topstories</guid>
       <pubDate>02/04/2026 10:29</pubDate>
       <enclosure url="https://images.mktw.net/im-32079769" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As entregas da Tesla crescem. Gigante EV de Elon Musk recupera coroa de vendas.</title>
-      <description></description>
-      <link>https://www.investors.com/news/tesla-deliveries-elon-musk-byd-tesla-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/tesla-deliveries-elon-musk-byd-tesla-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>02/04/2026 10:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/c3ed9664e420fe304235e06407484e00" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
