@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 05:41:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 05:47:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Produtores australianos mudam para culturas menos intensivas em fertilizantes à medida que os custos da...</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/australian-growers-shift-to-less-fertiliserintensive-crops-as-iran-war-costs-surge-4594818</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/australian-growers-shift-to-less-fertiliserintensive-crops-as-iran-war-costs-surge-4594818</guid>
+      <pubDate>02/04/2026 05:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310GJ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Essas ações são os impulsionadores de hoje: CoreWeave, Microsoft, McCormick, Constellation, Biogen, Marvell e...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-70-upside-193700186.html</guid>
       <pubDate>02/04/2026 04:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/fe48b5af35af9060de2f8f1d5d6b014a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação suíça sobe à taxa mais alta em um ano à medida que os preços dos combustíveis aumentam</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/swiss-inflation-rises-at-highest-rate-in-a-year-as-fuel-prices-increases-4594730</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/swiss-inflation-rises-at-highest-rate-in-a-year-as-fuel-prices-increases-4594730</guid>
-      <pubDate>02/04/2026 04:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310CF_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
