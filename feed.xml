@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 23:09:39 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 23:14:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar cai enquanto o presidente Trump sinaliza que pode acabar com a guerra no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-declines-president-trump-signals-143358360.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-declines-president-trump-signals-143358360.html</guid>
+      <pubDate>01/04/2026 23:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/23377ff3d8976e5204c5ede618c2a9da" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que Wall Street não consegue concordar com a Extra Space Storage Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-drop-on-hopes-of-us-pullback-from-iran-war-4594538</guid>
       <pubDate>01/04/2026 22:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3100L_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A atualização de entrega da Tesla está disponível. Por que os investidores não deveriam abandonar uma “crença...</title>
-      <description>Os investidores têm se tornado menos interessados ​​no negócio automotivo da Tesla ultimamente, mas alguns analistas consideram isso uma visão míope.</description>
-      <link>https://www.marketwatch.com/story/teslas-delivery-update-is-on-deck-why-investors-shouldnt-abandon-an-unwavering-belief-in-evs-e8f33979?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/teslas-delivery-update-is-on-deck-why-investors-shouldnt-abandon-an-unwavering-belief-in-evs-e8f33979?mod=mw_rss_topstories</guid>
-      <pubDate>01/04/2026 21:58</pubDate>
-      <enclosure url="https://images.mktw.net/im-15232474" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
