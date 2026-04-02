@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 01:07:30 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 01:25:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As esperanças de um fim rápido da guerra com o Irã diminuem após o discurso de Trump e os preços do petróleo...</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/hopes-dim-for-swift-end-to-iran-war-after-trump-speech-oil-prices-surge-anew-4594592</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/hopes-dim-for-swift-end-to-iran-war-after-trump-speech-oil-prices-surge-anew-4594592</guid>
+      <pubDate>02/04/2026 01:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3105Y_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE IBM faz parceria com Arm para desenvolver hardware de arquitetura dupla</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/financial-stocks-waving-red-flag-145912152.html</guid>
       <pubDate>01/04/2026 23:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/3fb012308a6461a67b7f57e16349339f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro rompe sequência de vitórias de 4 dias após discurso de Trump sinalizar escalada no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-snaps-4day-winning-streak-after-trump-speech-signals-iran-escalation-4594578</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-snaps-4day-winning-streak-after-trump-speech-signals-iran-escalation-4594578</guid>
-      <pubDate>01/04/2026 23:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/99c9e7171f1ff29af32c5ceb826611ca_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
