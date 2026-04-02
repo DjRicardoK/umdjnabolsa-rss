@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 09:41:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:47:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Arábia Saudita caem no fechamento do pregão; Tadawul All Share caiu 0,07%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-007-4595573</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-007-4595573</guid>
+      <pubDate>02/04/2026 09:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED9015J_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Exclusivo: aumentos de liquidação de títulos do Tesouro - especialista afirma que Scott Bessent pode adiar...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/beyond-meat-q4-earnings-call-230706949.html</guid>
       <pubDate>02/04/2026 08:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/9ec4838012cb5cfe9a53e22cf9eed3ca" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da Americas Gold and Silver Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/americas-gold-silver-corporation-q4-001611213.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/americas-gold-silver-corporation-q4-001611213.html</guid>
-      <pubDate>02/04/2026 08:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/be78826757196acfbf011c34bfeeaa9a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
