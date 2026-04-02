@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 09:14:14 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:15:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mercado de ações hoje: Dow vende após discurso de Trump enquanto o petróleo sobe; Próximos dados de entrega...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-speech-oil-prices-tesla-tsla-stock/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-speech-oil-prices-tesla-tsla-stock/?src=A00220&yptr=yahoo</guid>
+      <pubDate>02/04/2026 09:15</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/47aaa52efcced0122c4ef8c46d77f0ab" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 6K IAMGOLD CORP Para: 2 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-redwood-trust-stock-rating-on-earnings-outlook-93CH-4594950</guid>
       <pubDate>02/04/2026 07:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As vendas de EV fabricados na China pela Tesla aumentaram 8,7% em março</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/teslas-chinamade-ev-sales-rise-87-in-march-4594906</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/teslas-chinamade-ev-sales-rise-87-in-march-4594906</guid>
-      <pubDate>02/04/2026 06:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310IW_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
