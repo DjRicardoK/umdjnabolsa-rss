@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:04:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:11:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do quarto trimestre da Beyond Meat</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/beyond-meat-q4-earnings-call-230706949.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/beyond-meat-q4-earnings-call-230706949.html</guid>
+      <pubDate>02/04/2026 08:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/9ec4838012cb5cfe9a53e22cf9eed3ca" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da Americas Gold and Silver Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-extends-losses-on-iran-deescalation-hopes-markets-eye-trumps-speech-4594540</guid>
       <pubDate>02/04/2026 05:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1A050_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Inflação suíça sobe para nível mais alto em um ano</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/swiss-inflation-climbs-to-highest-level-in-a-year-93CH-4594783</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/swiss-inflation-climbs-to-highest-level-in-a-year-93CH-4594783</guid>
-      <pubDate>02/04/2026 05:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
