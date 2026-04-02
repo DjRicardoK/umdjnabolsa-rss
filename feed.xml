@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 09:05:54 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:05:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE China expande programa de yuan digital com 12 novos operadores bancários</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/china-expands-digital-yuan-programme-114527858.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/china-expands-digital-yuan-programme-114527858.html</guid>
+      <pubDate>02/04/2026 09:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/3ff1936fd77b2eb4c2f3f1c70417a73c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os futuros do Dow Jones caem, os preços do petróleo disparam enquanto Trump promete atingir o Irã...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/oil-prices-rise-over-7-as-trump-speech-leads-to-uncertainty-on-iran-war-c544dd6e?mod=mw_rss_topstories</guid>
       <pubDate>02/04/2026 06:38</pubDate>
       <enclosure url="https://images.mktw.net/im-35899990" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O ouro está novamente em queda acentuada, com o mercado de ações. Por que não está se comportando como antes...</title>
-      <description>A Goldman Sachs mantém a sua meta de final de ano de 5.400 dólares para o ouro, insistindo que as características de combate à inflação e de porto seguro do ouro se reafirmarão.</description>
-      <link>https://www.marketwatch.com/story/gold-is-again-falling-sharply-with-the-stock-market-why-its-not-behaving-the-way-it-used-to-during-a-crisis-d40dfa60?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/gold-is-again-falling-sharply-with-the-stock-market-why-its-not-behaving-the-way-it-used-to-during-a-crisis-d40dfa60?mod=mw_rss_topstories</guid>
-      <pubDate>02/04/2026 06:11</pubDate>
-      <enclosure url="https://images.mktw.net/im-93397014" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
