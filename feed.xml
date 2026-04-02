@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 03:11:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:16:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bancos centrais globais praticamente em espera enquanto a guerra turva as perspectivas económicas</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/global-central-banks-mostly-on-hold-as-war-muddies-economic-outlook-4594612</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-central-banks-mostly-on-hold-as-war-muddies-economic-outlook-4594612</guid>
+      <pubDate>02/04/2026 03:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM31098_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Uma maneira “dourada” de negociar a volatilidade dos preços do ouro em troca de baixo risco e alta recompensa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mccormick-company-incorporated-q1-2026-164524749.html</guid>
       <pubDate>02/04/2026 01:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/864de5fcffd63d9b767bf8e2e2e3cfb7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Milho saltando após dados positivos de estoques</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/corn-bouncing-following-positive-stocks-164917571.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/corn-bouncing-following-positive-stocks-164917571.html</guid>
-      <pubDate>02/04/2026 01:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0f5fa08b5c977f0f0ce33666bbd2d2c1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
