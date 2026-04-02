@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 04:17:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 04:23:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE UBS atualiza classificação de ações da Treasury Wine Estates na avaliação</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/ubs-upgrades-treasury-wine-estates-stock-rating-on-valuation-93CH-4594717</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-upgrades-treasury-wine-estates-stock-rating-on-valuation-93CH-4594717</guid>
+      <pubDate>02/04/2026 04:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas europeias abrem em baixa com Trump prometendo novos ataques ao Irã; surtos de petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-central-banks-mostly-on-hold-as-war-muddies-economic-outlook-4594612</guid>
       <pubDate>02/04/2026 03:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM31098_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Uma maneira “dourada” de negociar a volatilidade dos preços do ouro em troca de baixo risco e alta recompensa</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/golden-way-trade-volatility-gold-185011879.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/golden-way-trade-volatility-gold-185011879.html</guid>
-      <pubDate>02/04/2026 03:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1f0f9b85e0b4f302a0b95940fd48125f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
