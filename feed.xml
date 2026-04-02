@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 03:16:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:23:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Alfabeto sobe 5%: alerta de nove minutos sobre Bitcoin do Google está chamando a atenção em Wall Street</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/alphabet-climbs-5-google-nine-181751077.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alphabet-climbs-5-google-nine-181751077.html</guid>
+      <pubDate>02/04/2026 03:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/151846c410be11192db740f9c64f6679" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs reduz Akzo Nobel para “neutro”, corta PT devido ao choque no custo de insumos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-paying-over-172000275.html</guid>
       <pubDate>02/04/2026 02:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/3fb054aaada3ba8e35f26180bbff1427" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que perder o acordo com a Warner Bros. pode ser o melhor resultado para as ações da Netflix</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-losing-warner-bros-deal-165700396.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-losing-warner-bros-deal-165700396.html</guid>
-      <pubDate>02/04/2026 01:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/d5e536f0ee925a0898394690237d7796" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
