@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 10:05:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 10:07:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As entregas da Tesla no primeiro trimestre perdem as estimativas, pois pesa o vencimento do crédito fiscal</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/teslas-firstquarter-deliveries-miss-estimates-as-tax-credit-expiry-weighs-4595678</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/teslas-firstquarter-deliveries-miss-estimates-as-tax-credit-expiry-weighs-4595678</guid>
+      <pubDate>02/04/2026 10:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310R6_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Quais ações globais oferecem dividendos de alta qualidade com baixo risco de corte?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-made-19-8-232500946.html</guid>
       <pubDate>02/04/2026 08:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/540ed2aa848a920a7b89eb001296a34e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Cytosorbents recebeu extensão de 180 dias pela Nasdaq para atingir o preço mínimo de oferta</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/cytosorbents-granted-180day-extension-by-nasdaq-to-meet-minimum-bid-price-93CH-4595187</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/cytosorbents-granted-180day-extension-by-nasdaq-to-meet-minimum-bid-price-93CH-4595187</guid>
-      <pubDate>02/04/2026 08:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
