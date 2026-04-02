@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 11:00:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:06:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro e prata quebram sem fim para a guerra no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/gold-silver-crash-no-end-135600886.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-silver-crash-no-end-135600886.html</guid>
+      <pubDate>02/04/2026 11:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/c6450b923136e2cc6d04bead93660468" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Tesla caem à medida que novos números mostram fraqueza nos negócios de EV e energia</title>
       <description>A empresa de Elon Musk relatou vendas de veículos e implantações de armazenamento de energia bem abaixo das expectativas de Wall Street.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-007-4595573</guid>
       <pubDate>02/04/2026 09:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED9015J_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Exclusivo: aumentos de liquidação de títulos do Tesouro - especialista afirma que Scott Bessent pode adiar...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/exclusive-treasury-sell-off-mounts-123104720.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/exclusive-treasury-sell-off-mounts-123104720.html</guid>
-      <pubDate>02/04/2026 09:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Benzinga/5d158971395218f7702b477b3f81f6e0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
