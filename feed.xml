@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:11:20 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:11:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A jornada de 50 anos da Apple, de garagem a titã da tecnologia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/apples-50-journey-garage-tech-003140629.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/apples-50-journey-garage-tech-003140629.html</guid>
+      <pubDate>02/04/2026 08:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/12053f4b58cbbfd5dafeb9006ffaf212" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do quarto trimestre da Beyond Meat</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/netflix-stock-nflx-labeled-top-pick-ubs-media-stocks/?src=A00220&yptr=yahoo</guid>
       <pubDate>02/04/2026 05:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/82bfac5db1816d1bff5b8f156c65bc99" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Petróleo volta à vista de US$ 110/bbl após Trump sinalizar escalada da guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/oil-extends-losses-on-iran-deescalation-hopes-markets-eye-trumps-speech-4594540</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-extends-losses-on-iran-deescalation-hopes-markets-eye-trumps-speech-4594540</guid>
-      <pubDate>02/04/2026 05:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1A050_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
