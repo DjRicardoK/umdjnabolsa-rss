@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 03:36:52 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:36:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Por que o ouro dos EUA (USAU) ainda está focado em financiamento e licenciamento, e não em receita</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/why-u-gold-usau-focused-191512779.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/why-u-gold-usau-focused-191512779.html</guid>
+      <pubDate>02/04/2026 03:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3e24a795c753b173dfea02d0509f0bc7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE S&amp;P 500 e Nasdaq sobem enquanto investidores avaliam comentários do Fed e desenvolvimentos geopolíticos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-shares-173825036.html</guid>
       <pubDate>02/04/2026 02:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c08d4ddb510a62bf25e53c3c6cc76197" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE (PLTR) está entre as melhores ações da Goldman Sachs AI: as 12 principais ações para comprar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-among-173901414.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-among-173901414.html</guid>
-      <pubDate>02/04/2026 02:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1ff824265f55cf858277a6f3c25b111e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
