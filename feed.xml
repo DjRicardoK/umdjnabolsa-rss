@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Apr 2026 05:21:13 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 05:31:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Netflix rotulada como &apos;melhor escolha&apos; entre os estoques de mídia. Aqui está o porquê.</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/netflix-stock-nflx-labeled-top-pick-ubs-media-stocks/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/netflix-stock-nflx-labeled-top-pick-ubs-media-stocks/?src=A00220&yptr=yahoo</guid>
+      <pubDate>02/04/2026 05:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/82bfac5db1816d1bff5b8f156c65bc99" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Petróleo volta à vista de US$ 110/bbl após Trump sinalizar escalada da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/european-shares-seen-lower-at-open-as-hopes-of-end-to-middle-east-conflict-fade-4594687</guid>
       <pubDate>02/04/2026 04:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM310AG_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que o ouro novo encontrado (NFGC) ainda tem apoio otimista, apesar de uma meta mais baixa de Roth MKM</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-found-gold-nfgc-still-191511258.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-found-gold-nfgc-still-191511258.html</guid>
-      <pubDate>02/04/2026 04:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6f206bd587d8e5fef5ec92ee2759dd39" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
