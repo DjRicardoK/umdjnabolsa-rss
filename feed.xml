@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 23:47:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 23:56:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O presidente do Fed, Powell, alerta: outro choque de oferta está chegando</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/fed-chair-powell-warns-another-151431720.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-chair-powell-warns-another-151431720.html</guid>
+      <pubDate>01/04/2026 23:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/4bf4d729a101933f502a65c3c58f340e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado de títulos está emitindo um alerta. A maioria dos investidores não está prestando atenção.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alcoa-stock-surging-iran-war-141019320.html</guid>
       <pubDate>01/04/2026 22:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/bdbaf31b2e87ba7ecca826a20d1918fd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Enquanto o S&amp;P 500 luta, esses três estoques de dividendos de energia estão disparando</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/while-p-500-struggles-3-140911137.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/while-p-500-struggles-3-140911137.html</guid>
-      <pubDate>01/04/2026 22:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5e8f936c3140d7b4b2c375470b4a7378" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
