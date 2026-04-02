@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 01 Apr 2026 23:45:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 23:47:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações financeiras estão agitando uma bandeira vermelha que me lembra de 2008: o ‘Big Short 2.0’ está...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/financial-stocks-waving-red-flag-145912152.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/financial-stocks-waving-red-flag-145912152.html</guid>
+      <pubDate>01/04/2026 23:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/3fb012308a6461a67b7f57e16349339f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ouro rompe sequência de vitórias de 4 dias após discurso de Trump sinalizar escalada no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-rally-president-trump-considers-140718360.html</guid>
       <pubDate>01/04/2026 22:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/9a1ff5003151ccd77c6a21a4e3c76ded" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da L3Harris Technologies: o que você precisa saber</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-quarterly-earnings-preview-140323333.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-quarterly-earnings-preview-140323333.html</guid>
-      <pubDate>01/04/2026 22:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bfcc3b913cc190d9a16801baae7a794d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
