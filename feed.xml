@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:54:31 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 15:10:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dimon, do JPMorgan, alerta que a guerra no Irã pode aumentar a inflação e as taxas de juros</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/jpmorgans-dimon-warns-iran-war-may-drive-inflation-and-interest-rates-higher-4597897</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/jpmorgans-dimon-warns-iran-war-may-drive-inflation-and-interest-rates-higher-4597897</guid>
+      <pubDate>06/04/2026 15:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350C7_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bank of America rebaixa ações de produtos químicos dos EUA após alta de preços</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-procter--gamble-stock-rating-on-commodity-view-93CH-4598893</guid>
       <pubDate>06/04/2026 13:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA701DT_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As taxas do cartão de crédito são fixas ou variáveis?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/credit-cards/article/are-credit-cards-fixed-or-variable-193544510.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/article/are-credit-cards-fixed-or-variable-193544510.html</guid>
-      <pubDate>06/04/2026 13:30</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2023-12/5a8b40a0-9464-11ee-b3df-32fb284130bf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
