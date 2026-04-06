@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 10:24:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 10:25:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Truist reitera compra de ações da Privia Health após reuniões de investidores</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-privia-health-stock-after-investor-meetings-93CH-4598698</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-privia-health-stock-after-investor-meetings-93CH-4598698</guid>
+      <pubDate>06/04/2026 10:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BlackRock pede fundo Nasdaq-100, ampliando concorrência com Invesco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and-mixed-war-news-110339214.html</guid>
       <pubDate>06/04/2026 08:11</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/zXVwgsaFyGNgvrXU6TElCg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/monday.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Scinai conclui reorganização societária e separa unidade CDMO</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/scinai-completes-corporate-reorganization-separates-cdmo-unit-93CH-4598075</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/scinai-completes-corporate-reorganization-separates-cdmo-unit-93CH-4598075</guid>
-      <pubDate>06/04/2026 08:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
