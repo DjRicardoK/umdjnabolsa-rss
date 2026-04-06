@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 05:04:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 05:27:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer diz “Acho que a Microsoft age em conjunto e espero que o façam”</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-microsoft-225549670.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-microsoft-225549670.html</guid>
+      <pubDate>06/04/2026 05:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e594c84b43643f9264f217379beb7064" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Último conflito no Irã: chefe de inteligência do IRGC é relatado como morto</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/indias-services-growth-slows-to-14month-low-as-middle-east-war-hits-demand-pmi-shows-4597724</guid>
       <pubDate>06/04/2026 02:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3504Y_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Previsão: a IA Robotics será uma indústria de US$ 375 bilhões e essas 2 ações irão liderá-la</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/prediction-ai-robotics-375-billion-180200804.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/prediction-ai-robotics-375-billion-180200804.html</guid>
-      <pubDate>06/04/2026 02:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/ebb5647c7b941ae0926ab1097a6e26ce" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
