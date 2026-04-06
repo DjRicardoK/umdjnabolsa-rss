@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:47:30 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:48:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goolsbee e Hammack do Fed dizem que a inflação está piscando em ‘laranja’ ou pior</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/feds-goolsbee-hammack-say-inflation-is-flashing-orange-or-worse-4598936</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-goolsbee-hammack-say-inflation-is-flashing-orange-or-worse-4598936</guid>
+      <pubDate>06/04/2026 14:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350PN_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O presidente Trump estabeleceu um prazo para a reabertura do Estreito de Ormuz. Veja como os estoques de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/apples-stock-could-surge-20-and-the-macbook-neo-could-be-a-key-catalyst-9ba5623f?mod=mw_rss_topstories</guid>
       <pubDate>06/04/2026 13:25</pubDate>
       <enclosure url="https://images.mktw.net/im-23072814" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Tesla podem cair mais 60%, alerta analista do JPMorgan. Aqui está o que está por trás de seu...</title>
-      <description>O JPMorgan alerta que as expectativas financeiras para a Tesla se deterioraram nos últimos anos, mesmo com a subida das ações.</description>
-      <link>https://www.marketwatch.com/story/teslas-stock-could-fall-another-60-jpmorgan-analyst-warns-heres-whats-behind-his-high-degree-of-caution-96b862f5?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/teslas-stock-could-fall-another-60-jpmorgan-analyst-warns-heres-whats-behind-his-high-degree-of-caution-96b862f5?mod=mw_rss_topstories</guid>
-      <pubDate>06/04/2026 13:18</pubDate>
-      <enclosure url="https://images.mktw.net/im-79794880" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
