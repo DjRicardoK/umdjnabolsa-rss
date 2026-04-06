@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:35:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:40:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE William Blair reitera classificação das ações da Amgen com base em dados positivos de Tepezza</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/william-blair-reiterates-amgen-stock-rating-on-positive-tepezza-data-93CH-4598943</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/william-blair-reiterates-amgen-stock-rating-on-positive-tepezza-data-93CH-4598943</guid>
+      <pubDate>06/04/2026 14:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 3 ações de crescimento que valem a pena comprar em meio à volatilidade e mantê-las por toda a vida</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/strategy-bitmine-jump-6-crypto-154814155.html</guid>
       <pubDate>06/04/2026 12:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1a70bf4d815548fb0d97b5e5d411eb5e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE SWK Holdings conclui fusão com Runway Growth Finance e sai da Nasdaq</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/swk-holdings-completes-merger-with-runway-growth-finance-delists-from-nasdaq-93CH-4598863</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/swk-holdings-completes-merger-with-runway-growth-finance-delists-from-nasdaq-93CH-4598863</guid>
-      <pubDate>06/04/2026 12:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
