@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 08:32:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 08:38:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fundo de crédito privado do Goldman Sachs desafia aumento de resgate em todo o setor</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-private-credit-fund-defies-redemption-surge-across-industry-4598132</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-private-credit-fund-defies-redemption-surge-across-industry-4598132</guid>
+      <pubDate>06/04/2026 08:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350EN_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Reserve Bank of India libera compra de participação do Emirates NBD no RBL Bank</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-auto-safety-regulator-closes-probe-into-teslas-driver-assistance-feature-4597846</guid>
       <pubDate>06/04/2026 06:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350BE_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fundos de ações globais atraem segundo fluxo semanal em meio a esperanças de desescalada da guerra</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/global-equity-funds-draw-second-weekly-inflow-amid-war-deescalation-hopes-4597824</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-equity-funds-draw-second-weekly-inflow-amid-war-deescalation-hopes-4597824</guid>
-      <pubDate>06/04/2026 06:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350B6_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
