@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 13:18:12 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 13:25:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Apple podem subir 20% e o MacBook Neo pode ser um catalisador importante</title>
+      <description>Os analistas estão otimistas quanto à expansão da Apple no mercado de laptops baratos, o que poderia aumentar os lucros.</description>
+      <link>https://www.marketwatch.com/story/apples-stock-could-surge-20-and-the-macbook-neo-could-be-a-key-catalyst-9ba5623f?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/apples-stock-could-surge-20-and-the-macbook-neo-could-be-a-key-catalyst-9ba5623f?mod=mw_rss_topstories</guid>
+      <pubDate>06/04/2026 13:25</pubDate>
+      <enclosure url="https://images.mktw.net/im-23072814" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da Tesla podem cair mais 60%, alerta analista do JPMorgan. Aqui está o que está por trás de seu...</title>
       <description>O JPMorgan alerta que as expectativas financeiras para a Tesla se deterioraram nos últimos anos, mesmo com a subida das ações.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/barclays-plc-bcs-rose-earnings-141510625.html</guid>
       <pubDate>06/04/2026 11:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/052b065ee41fda8484a8885b5284fb72" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tesouro designa BNY como agente financeiro das contas de Trump</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/treasury-designates-bny-as-financial-agent-for-trump-accounts-4598808</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/treasury-designates-bny-as-financial-agent-for-trump-accounts-4598808</guid>
-      <pubDate>06/04/2026 11:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350KW_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
