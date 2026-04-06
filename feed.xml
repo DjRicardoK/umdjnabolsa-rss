@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 13:30:11 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 13:30:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Evercore ISI reitera classificação das ações da Procter &amp; Gamble na visão de commodities</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-procter--gamble-stock-rating-on-commodity-view-93CH-4598893</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-procter--gamble-stock-rating-on-commodity-view-93CH-4598893</guid>
+      <pubDate>06/04/2026 13:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA701DT_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As taxas do cartão de crédito são fixas ou variáveis?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/trump-retirement-plan-federal-match-095505737.html</guid>
       <pubDate>06/04/2026 11:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/gobankingrates_644/45448f6805701eb22934e85b6c8a9afb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fed de NY diz que pressões na cadeia de suprimentos aumentaram em março</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ny-fed-says-supply-chain-pressures-heated-up-in-march-4598823</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ny-fed-says-supply-chain-pressures-heated-up-in-march-4598823</guid>
-      <pubDate>06/04/2026 11:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350LA_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
