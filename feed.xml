@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 18:43:10 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 18:45:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O CEO da Guidewire Software, Rosenbaum, vende US$ 181 mil em ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/insider-trading-news/guidewire-software-ceo-rosenbaum-sells-181k-in-shares-93CH-4599450</link>
+      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/guidewire-software-ceo-rosenbaum-sells-181k-in-shares-93CH-4599450</guid>
+      <pubDate>06/04/2026 18:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Betterware de México nomeia Raúl del Villar como CFO</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/an-s-p-500-change-may-be-imminent-these-stocks-are-leading-contenders-to-join-the-index-497eb076?mod=mw_rss_topstories</guid>
       <pubDate>06/04/2026 15:15</pubDate>
       <enclosure url="https://images.mktw.net/im-19926869" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (CLS) está entre as melhores ações de IA de compra forte para investir agora?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-among-best-091417593.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-among-best-091417593.html</guid>
-      <pubDate>06/04/2026 15:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/535afb0cf3fa9138db1a85a44b68d557" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
