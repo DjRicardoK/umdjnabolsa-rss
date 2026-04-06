@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:49:31 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:54:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bank of America rebaixa ações de produtos químicos dos EUA após alta de preços</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bank-america-downgrades-us-chemical-174300459.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bank-america-downgrades-us-chemical-174300459.html</guid>
+      <pubDate>06/04/2026 14:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/proactive_us_504/e164c476251d7448459c4f9260b60a96" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tesouro dos EUA recorre a BNY e Robinhood para administrar contas Trump para crianças americanas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/article/are-credit-cards-fixed-or-variable-193544510.html</guid>
       <pubDate>06/04/2026 13:30</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2023-12/5a8b40a0-9464-11ee-b3df-32fb284130bf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco do Canadá deverá manter taxas apesar do choque do petróleo no Médio Oriente</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bank-of-canada-expected-to-hold-rates-despite-middle-east-oil-shock-4598885</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bank-of-canada-expected-to-hold-rates-despite-middle-east-oil-shock-4598885</guid>
-      <pubDate>06/04/2026 13:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE3M1OX_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
