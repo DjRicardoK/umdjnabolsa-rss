@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 16:20:53 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 16:35:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Exclusive-Amazon afirma que chegou a acordo com os Correios dos EUA sobre entrega de pacotes</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/exclusiveamazon-says-it-has-reached-deal-with-us-postal-service-on-package-deliveries-4599037</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusiveamazon-says-it-has-reached-deal-with-us-postal-service-on-package-deliveries-4599037</guid>
+      <pubDate>06/04/2026 16:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350SQ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE 3 fatores que podem fazer com que os estoques de software voltem a funcionar após um período brutal</title>
       <description>Pode não ser uma reviravolta rápida para o sector do software, mas aqui estão três temas que os investidores devem monitorizar ao considerarem se devem ou não voltar a envolver-se.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-vertiv-stock-outperform-on-capacity-expansion-93CH-4598948</guid>
       <pubDate>06/04/2026 14:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goolsbee e Hammack do Fed dizem que a inflação está piscando em ‘laranja’ ou pior</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/feds-goolsbee-hammack-say-inflation-is-flashing-orange-or-worse-4598936</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-goolsbee-hammack-say-inflation-is-flashing-orange-or-worse-4598936</guid>
-      <pubDate>06/04/2026 14:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350PN_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
