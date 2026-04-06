@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 16:04:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 16:08:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE À medida que as ações se aproximam de um verdadeiro retorno, é aqui que os investidores podem encontrar as...</title>
+      <description>O S&amp;P 500 permanece em queda este ano, apesar da recente recuperação.</description>
+      <link>https://www.marketwatch.com/story/as-stocks-approach-a-true-comeback-heres-where-investors-can-find-the-richest-opportunities-71bbc2cf?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/as-stocks-approach-a-true-comeback-heres-where-investors-can-find-the-richest-opportunities-71bbc2cf?mod=mw_rss_topstories</guid>
+      <pubDate>06/04/2026 16:08</pubDate>
+      <enclosure url="https://images.mktw.net/im-57582279" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE JPMorgan tem uma mensagem dura sobre o próximo corte nas taxas do Fed</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/president-trump-set-deadline-reopening-173000148.html</guid>
       <pubDate>06/04/2026 14:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/b8f9ef335cc8a73313cb1709a79d0f40" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE William Blair reitera classificação das ações da Amgen com base em dados positivos de Tepezza</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/william-blair-reiterates-amgen-stock-rating-on-positive-tepezza-data-93CH-4598943</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/william-blair-reiterates-amgen-stock-rating-on-positive-tepezza-data-93CH-4598943</guid>
-      <pubDate>06/04/2026 14:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
