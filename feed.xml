@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:14:14 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 15:16:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Uma mudança no S&amp;P 500 pode ser iminente. Essas ações são as principais candidatas a ingressar no índice.</title>
+      <description>Com a aquisição da Hologic, Marvell, Alnylam e Veeva estão entre os substitutos elegíveis, de acordo com um analista.</description>
+      <link>https://www.marketwatch.com/story/an-s-p-500-change-may-be-imminent-these-stocks-are-leading-contenders-to-join-the-index-497eb076?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/an-s-p-500-change-may-be-imminent-these-stocks-are-leading-contenders-to-join-the-index-497eb076?mod=mw_rss_topstories</guid>
+      <pubDate>06/04/2026 15:15</pubDate>
+      <enclosure url="https://images.mktw.net/im-19926869" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE (CLS) está entre as melhores ações de IA de compra forte para investir agora?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/grant-cardones-real-estate-company-163106816.html</guid>
       <pubDate>06/04/2026 13:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/benzinga_79/8b8d7d1fc51a39564055efc547430cd8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Novos slides da China Life 2025: lucros recordes colidem com perdas no quarto trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/new-china-life-2025-slides-record-profits-clash-with-q4-miss-93CH-4598905</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/new-china-life-2025-slides-record-profits-clash-with-q4-miss-93CH-4598905</guid>
-      <pubDate>06/04/2026 13:39</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/ea781bd50651b1ac46b743a16c4af3a07ad6c31fcad7887d1ccbbd4470cd79de.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
