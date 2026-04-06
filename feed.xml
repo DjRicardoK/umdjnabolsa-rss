@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 03:26:31 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 03:48:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs tem mensagem contundente sobre o preço do ouro para o resto de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/goldman-sachs-blunt-message-gold-191226631.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/goldman-sachs-blunt-message-gold-191226631.html</guid>
+      <pubDate>06/04/2026 03:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/0c3b0416bc2826fa24529fcb08f8ff86" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O autor de &apos;Pai Rico, Pai Pobre&apos;, Robert Kiyosaki, diz que &apos;o mercado de ações global está em colapso&apos; e...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-ai-stocks-survived-march-155000757.html</guid>
       <pubDate>05/04/2026 23:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/232c82f42f155ad189663ff30d7c16fa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Como uma fábrica na China aprendeu a conviver com Trump, tarifas e turbulência</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/how-one-factory-in-china-learned-to-live-with-trump-tariffs-and-turmoil-4597676</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/how-one-factory-in-china-learned-to-live-with-trump-tariffs-and-turmoil-4597676</guid>
-      <pubDate>05/04/2026 23:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3500E_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
