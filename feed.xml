@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 06:08:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 06:08:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Seu 401 (k) não é suficiente. Uma combinação de contas Roth, tradicionais e tributáveis ​​pode economizar...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/401-k-isn-t-enough-090000325.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/401-k-isn-t-enough-090000325.html</guid>
+      <pubDate>06/04/2026 06:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/d8157f9ec409c30d6c83d8831c9b0516" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Retração da Nasdaq: três ações que você gostaria de ter comprado na queda</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/boj-says-regional-economies-could-worsen-due-to-fallout-of-middle-east-conflict-4597725</guid>
       <pubDate>06/04/2026 02:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3505J_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Analista veterano envia mensagem aos investidores da Tesla após falha no primeiro trimestre</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-sends-message-tesla-180300715.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-sends-message-tesla-180300715.html</guid>
-      <pubDate>06/04/2026 02:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/52fa9ca7222e781ea92bd498d7d9ee1e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
