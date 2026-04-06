@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 06:17:45 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 06:25:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fundos de ações globais atraem segundo fluxo semanal em meio a esperanças de desescalada da guerra</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/global-equity-funds-draw-second-weekly-inflow-amid-war-deescalation-hopes-4597824</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-equity-funds-draw-second-weekly-inflow-amid-war-deescalation-hopes-4597824</guid>
+      <pubDate>06/04/2026 06:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350B6_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Versamet adquire fluxo de ouro de US$ 360 milhões no projeto Eskay Creek</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-going-multi-model-copilot-182000416.html</guid>
       <pubDate>06/04/2026 02:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/49907b8d9444c04bab89be53ba344f74" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Coreia do Norte trabalhando em ICBM de fibra de carbono para entrega de múltiplas ogivas, diz Seul</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/north-korea-working-on-carbonfibre-icbm-for-multiwarhead-delivery-seoul-says-4597727</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/north-korea-working-on-carbonfibre-icbm-for-multiwarhead-delivery-seoul-says-4597727</guid>
-      <pubDate>06/04/2026 02:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3505O_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
