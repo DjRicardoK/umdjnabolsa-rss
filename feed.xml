@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 20:02:01 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 20:27:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise-Trump aproveita resgate de aviador abatido para reformular a impopular guerra com o Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/analysistrump-seizes-on-rescue-of-downed-airman-to-recast-unpopular-iran-war-4599562</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysistrump-seizes-on-rescue-of-downed-airman-to-recast-unpopular-iran-war-4599562</guid>
+      <pubDate>06/04/2026 20:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350XA_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Air NZ aumenta tarifas e corta voos, já que o custo do combustível mais que dobra na guerra do Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/billion-dollar-bet-turned-insurance-100000650.html</guid>
       <pubDate>06/04/2026 15:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/fortune_175/24f5956d4cdc0f4b378b5cb9012c90eb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Fed alterou discretamente a sua previsão de inflação para Março – e isso aponta para mais sofrimento para...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/fed-quietly-altered-march-inflation-100000735.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-quietly-altered-march-inflation-100000735.html</guid>
-      <pubDate>06/04/2026 15:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/a090b3cf6620f5d29fa268615e5e95fb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
