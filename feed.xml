@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:49:26 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:49:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Tesouro dos EUA recorre a BNY e Robinhood para administrar contas Trump para crianças americanas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/u-treasury-taps-bny-robinhood-174143946.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/u-treasury-taps-bny-robinhood-174143946.html</guid>
+      <pubDate>06/04/2026 14:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/12145ac23ab35a1548add3530b1b054e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Pesquisa semanal de credores hipotecários com as melhores taxas: PenFed assume a liderança com APR de 6,042%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bank-of-canada-expected-to-hold-rates-despite-middle-east-oil-shock-4598885</guid>
       <pubDate>06/04/2026 13:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE3M1OX_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O pico de gastos com IA dos EUA pode chegar este ano, alerta Jefferies</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-ai-spending-peak-may-arrive-this-year-jefferies-warns-93CH-4598884</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-ai-spending-peak-may-arrive-this-year-jefferies-warns-93CH-4598884</guid>
-      <pubDate>06/04/2026 13:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/gas_M_1440047759.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
