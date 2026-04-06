@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 04:09:25 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 04:09:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Asia FX luta por uma direção em meio a sinais mistos de guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/asia-fx-struggles-for-direction-amid-mixed-iran-war-signals-4597764</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-struggles-for-direction-amid-mixed-iran-war-signals-4597764</guid>
+      <pubDate>06/04/2026 04:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC37002_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 0,49%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-fall-amid-conflicting-iran-war-signals-4597687</guid>
       <pubDate>06/04/2026 01:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8N174_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Líder da oposição de Taiwan visitará a China enquanto Pequim intensifica o esforço de “reunificação”</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/taiwan-opposition-leader-to-visit-china-as-beijing-ramps-up-reunification-push-4597685</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/taiwan-opposition-leader-to-visit-china-as-beijing-ramps-up-reunification-push-4597685</guid>
-      <pubDate>06/04/2026 00:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3502K_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
