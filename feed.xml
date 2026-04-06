@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 06:08:56 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 06:17:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Versamet adquire fluxo de ouro de US$ 360 milhões no projeto Eskay Creek</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/versamet-acquires-360m-gold-stream-on-eskay-creek-project-93CH-4597821</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/versamet-acquires-360m-gold-stream-on-eskay-creek-project-93CH-4597821</guid>
+      <pubDate>06/04/2026 06:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Seu 401 (k) não é suficiente. Uma combinação de contas Roth, tradicionais e tributáveis ​​pode economizar...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/north-korea-working-on-carbonfibre-icbm-for-multiwarhead-delivery-seoul-says-4597727</guid>
       <pubDate>06/04/2026 02:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3505O_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco do Japão diz que economias regionais podem piorar devido às consequências do conflito no Médio Oriente</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/boj-says-regional-economies-could-worsen-due-to-fallout-of-middle-east-conflict-4597725</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/boj-says-regional-economies-could-worsen-due-to-fallout-of-middle-east-conflict-4597725</guid>
-      <pubDate>06/04/2026 02:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3505J_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
