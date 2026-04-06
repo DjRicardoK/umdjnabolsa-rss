@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:44:25 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 07:49:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O mundo está ficando sem petróleo? Aqui estão três maneiras pelas quais a Goldman Sachs está respondendo a...</title>
+      <description>Analistas liderados por Yulia Zhestkova Grigsby, estratega de matérias-primas, analisaram o fornecimento de produtos, as respostas aos preços e anedotas para abordar a questão de...</description>
+      <link>https://www.marketwatch.com/story/is-the-world-running-out-of-oil-here-are-three-ways-goldman-sachs-is-answering-that-critical-question-547c111f?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/is-the-world-running-out-of-oil-here-are-three-ways-goldman-sachs-is-answering-that-critical-question-547c111f?mod=mw_rss_topstories</guid>
+      <pubDate>06/04/2026 07:49</pubDate>
+      <enclosure url="https://images.mktw.net/im-10953627" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE EUA e Irã avaliam plano de paz enquanto o aviso de ‘inferno’ de Trump se aproxima do prazo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/iran-conflict-latest-irgc-intelligence-chief-reported-dead-4597801</guid>
       <pubDate>06/04/2026 05:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1F0SM_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Netflix aumentou para comprar no Goldman com &apos;recompensa de risco mais positiva em relação aos níveis atuais&apos;</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/netflix-upped-to-buy-at-goldman-on-more-positive-riskreward-from-current-levels-4597802</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/netflix-upped-to-buy-at-goldman-on-more-positive-riskreward-from-current-levels-4597802</guid>
-      <pubDate>06/04/2026 05:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1P0OE_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
