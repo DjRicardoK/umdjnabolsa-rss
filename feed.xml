@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:45:01 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:48:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O novo plano de aposentadoria de Trump: o que uma correspondência federal de até US$ 1.000 significa para os...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/trump-retirement-plan-federal-match-095505737.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/trump-retirement-plan-federal-match-095505737.html</guid>
+      <pubDate>06/04/2026 11:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/gobankingrates_644/45448f6805701eb22934e85b6c8a9afb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fed de NY diz que pressões na cadeia de suprimentos aumentaram em março</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-best-ai-stock-131125832.html</guid>
       <pubDate>06/04/2026 10:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/642a8fd87342350c7d2e74e81caadb38" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Truist reitera compra de ações da Privia Health após reuniões de investidores</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-privia-health-stock-after-investor-meetings-93CH-4598698</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-privia-health-stock-after-investor-meetings-93CH-4598698</guid>
-      <pubDate>06/04/2026 10:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
