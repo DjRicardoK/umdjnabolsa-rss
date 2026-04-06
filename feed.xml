@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 05:27:43 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 05:37:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs atualiza classificação das ações da Netflix com base na força do conteúdo</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-netflix-stock-rating-on-content-strength-93CH-4597816</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-netflix-stock-rating-on-content-strength-93CH-4597816</guid>
+      <pubDate>06/04/2026 05:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/netflix_M_1440050676.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer diz “Acho que a Microsoft age em conjunto e espero que o façam”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/india-seen-holding-rates-as-goldilocks-phase-gives-way-to-stress-4597723</guid>
       <pubDate>06/04/2026 02:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3504K_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O crescimento dos serviços da Índia desacelera para o menor nível em 14 meses à medida que a guerra no...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/indias-services-growth-slows-to-14month-low-as-middle-east-war-hits-demand-pmi-shows-4597724</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/indias-services-growth-slows-to-14month-low-as-middle-east-war-hits-demand-pmi-shows-4597724</guid>
-      <pubDate>06/04/2026 02:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3504Y_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
