@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 04:26:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 04:36:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Boomers, cuidado: US$ 9 mil por ano em economias para aposentadoria podem não ser mais suficientes</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/boomers-beware-9k-retirement-savings-200017451.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/boomers-beware-9k-retirement-savings-200017451.html</guid>
+      <pubDate>06/04/2026 04:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/gobankingrates_644/68049d78832a760524af08b684595a9b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Microsoft está em uma nova jornada de IA após acordo OpenAI reformulado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/history-says-great-rotation-just-173500096.html</guid>
       <pubDate>06/04/2026 01:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/9b629dc143ecd0cd093111574b73fc05" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O argumento para possuir um ETF de mercado amplo em vez de escolher ações</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/case-owning-broad-market-etf-172000995.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/case-owning-broad-market-etf-172000995.html</guid>
-      <pubDate>06/04/2026 01:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a253c4dd22fddb405fc775897cb66b08" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
