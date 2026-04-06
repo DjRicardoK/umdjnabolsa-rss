@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 10:39:28 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 10:45:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O salário multimilionário dos CEOs dessas 20 empresas de baixos salários está custando caro. Esta é a única...</title>
+      <description>O pagamento dos CEO aos “20 com salários baixos” é em média de 18,6 milhões de dólares, enquanto muitos dos seus trabalhadores médios dependem do Medicaid e do SNAP apoiados pelos...</description>
+      <link>https://www.marketwatch.com/story/multimillion-dollar-ceo-pay-at-these-20-low-wage-companies-is-costing-you-this-is-the-only-fix-ac6bf8b0?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/multimillion-dollar-ceo-pay-at-these-20-low-wage-companies-is-costing-you-this-is-the-only-fix-ac6bf8b0?mod=mw_rss_topstories</guid>
+      <pubDate>06/04/2026 10:45</pubDate>
+      <enclosure url="https://images.mktw.net/im-31097679" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: ações dos EUA silenciadas, petróleo cai enquanto surgem esperanças de um fim às...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-private-credit-fund-defies-redemption-surge-across-industry-4598132</guid>
       <pubDate>06/04/2026 08:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350EN_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Reserve Bank of India libera compra de participação do Emirates NBD no RBL Bank</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/bank-india-clears-emirates-nbd-112706502.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/bank-india-clears-emirates-nbd-112706502.html</guid>
-      <pubDate>06/04/2026 08:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/retail_banker_international_407/39f8c61d7998086a0eab531ce2a37d74" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
