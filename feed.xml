@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 10:54:59 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:06:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Quanex nomeia Chad Collins presidente da unidade de hardware</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/quanex-names-chad-collins-president-of-hardware-unit-93CH-4598789</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/quanex-names-chad-collins-president-of-hardware-unit-93CH-4598789</guid>
+      <pubDate>06/04/2026 11:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Iridium Communications atingem o máximo de 52 semanas a 33,36 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-sanara-medtech-stock-rating-at-buy-93CH-4598193</guid>
       <pubDate>06/04/2026 08:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preço do Bitcoin e do Ethereum hoje, segunda-feira, 6 de abril de 2026: Os preços sobem em meio a relatos de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html</guid>
-      <pubDate>06/04/2026 08:43</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/8IgKHs0.oTwPcn40eBVnmg--~B/aD00MDg7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_1_3688.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
