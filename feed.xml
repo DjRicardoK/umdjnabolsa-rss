@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:51:42 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 08:01:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 3 ações imparáveis ​​que comprei no mês passado</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-unstoppable-stocks-bought-last-104200650.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-unstoppable-stocks-bought-last-104200650.html</guid>
+      <pubDate>06/04/2026 08:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/f95a6b26fea8bffcb0a9d9b72a31df4f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE JPMorgan reitera classificação das ações da Tesla em entregas fracas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-netflix-stock-rating-on-content-strength-93CH-4597816</guid>
       <pubDate>06/04/2026 05:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/netflix_M_1440050676.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer diz “Acho que a Microsoft age em conjunto e espero que o façam”</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-microsoft-225549670.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-microsoft-225549670.html</guid>
-      <pubDate>06/04/2026 05:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e594c84b43643f9264f217379beb7064" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
