@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 10:45:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 10:54:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Iridium Communications atingem o máximo de 52 semanas a 33,36 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/iridium-communications-stock-hits-52week-high-at-3336-usd-93CH-4598743</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/iridium-communications-stock-hits-52week-high-at-3336-usd-93CH-4598743</guid>
+      <pubDate>06/04/2026 10:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O salário multimilionário dos CEOs dessas 20 empresas de baixos salários está custando caro. Esta é a única...</title>
       <description>O pagamento dos CEO aos “20 com salários baixos” é em média de 18,6 milhões de dólares, enquanto muitos dos seus trabalhadores médios dependem do Medicaid e do SNAP apoiados pelos...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html</guid>
       <pubDate>06/04/2026 08:43</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/8IgKHs0.oTwPcn40eBVnmg--~B/aD00MDg7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_1_3688.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fundo de crédito privado do Goldman Sachs desafia aumento de resgate em todo o setor</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-private-credit-fund-defies-redemption-surge-across-industry-4598132</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-private-credit-fund-defies-redemption-surge-across-industry-4598132</guid>
-      <pubDate>06/04/2026 08:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350EN_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
