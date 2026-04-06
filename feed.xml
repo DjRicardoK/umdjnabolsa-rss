@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 09:42:23 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 09:48:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ives de Wedbush: Palantir, Oracle, Microsoft dominarão a integração de IA de defesa</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wedbush-ives-palantir-oracle-microsoft-123219061.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wedbush-ives-palantir-oracle-microsoft-123219061.html</guid>
+      <pubDate>06/04/2026 09:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/7191078cd78e60daf00030e72d5ce3fe" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Esqueça a Nvidia, estas são as três melhores ações para resolver o gargalo de largura de banda da IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-vows-hell-for-iran-if-strait-stays-shut-says-a-deal-is-possible-4597686</guid>
       <pubDate>06/04/2026 07:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3502U_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Formulário 144 CHECK POINT SOFTWARE TECHNOLOGIES LTD Para: 6 de abril</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-144-check-point-software-technologies-ltd-for-6-april-93CH-4597949</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-144-check-point-software-technologies-ltd-for-6-april-93CH-4597949</guid>
-      <pubDate>06/04/2026 07:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEA9M0NO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
