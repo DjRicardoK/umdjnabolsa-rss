@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:54:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 15:54:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warren Buffett disse uma vez que existe um grande investimento que “não é tributado de forma alguma” – que...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-once-said-major-100900154.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-once-said-major-100900154.html</guid>
+      <pubDate>06/04/2026 15:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/27210cc47b8318a3e0dd208ceb4198c1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A aposta de um bilhão de dólares que transformou seguros em entretenimento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/micron-stock-price-analyst-traget-c5b89194?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>06/04/2026 14:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/aa6bb3275806e06dd766fd6c35f62d13" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Barclays reitera classificação das ações da Transocean sob demanda da Petrobras</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/barclays-reiterates-transocean-stock-rating-on-petrobras-demand-93CH-4598929</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-transocean-stock-rating-on-petrobras-demand-93CH-4598929</guid>
-      <pubDate>06/04/2026 14:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
