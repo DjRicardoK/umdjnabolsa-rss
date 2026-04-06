@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 13:29:30 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 13:29:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco do Canadá deverá manter taxas apesar do choque do petróleo no Médio Oriente</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/bank-of-canada-expected-to-hold-rates-despite-middle-east-oil-shock-4598885</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bank-of-canada-expected-to-hold-rates-despite-middle-east-oil-shock-4598885</guid>
+      <pubDate>06/04/2026 13:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE3M1OX_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O pico de gastos com IA dos EUA pode chegar este ano, alerta Jefferies</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-cuts-us-consumer-spending-growth-forecast-on-oil-price-surge-93CH-4598824</guid>
       <pubDate>06/04/2026 11:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7405M_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow e Nasdaq registram ganhos apesar da ameaça de Trump; Chip Stocks, Netflix Rally...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-peace-talks-netflix-nflx-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-peace-talks-netflix-nflx-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>06/04/2026 11:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/24453ba301703878e9e48e0e99f77127" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
