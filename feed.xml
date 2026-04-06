@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:38:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:44:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman corta previsão de crescimento dos gastos do consumidor nos EUA com aumento do preço do petróleo</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/goldman-cuts-us-consumer-spending-growth-forecast-on-oil-price-surge-93CH-4598824</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-cuts-us-consumer-spending-growth-forecast-on-oil-price-surge-93CH-4598824</guid>
+      <pubDate>06/04/2026 11:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7405M_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow e Nasdaq registram ganhos apesar da ameaça de Trump; Chip Stocks, Netflix Rally...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/blackrock-files-for-nasdaq100-fund-expanding-competition-with-invesco-4598689</guid>
       <pubDate>06/04/2026 10:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350IH_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jamie Dimon não está muito preocupado com o crédito privado, mas vê outro problema para os mercados</title>
-      <description>Jamie Dimon alerta para um “gambá na festa” em 2026 na forma de aumento da inflação que levará a uma liquidação no mercado de ações.</description>
-      <link>https://www.marketwatch.com/story/jamie-dimon-isnt-too-worried-about-private-credit-but-he-sees-another-problem-for-markets-8ba4aa1a?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/jamie-dimon-isnt-too-worried-about-private-credit-but-he-sees-another-problem-for-markets-8ba4aa1a?mod=mw_rss_topstories</guid>
-      <pubDate>06/04/2026 10:02</pubDate>
-      <enclosure url="https://images.mktw.net/im-61804643" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
