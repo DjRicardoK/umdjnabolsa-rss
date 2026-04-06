@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 08:11:33 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 08:22:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Futuros do Dow Jones caem enquanto Trump vê acordo com o Irã ou &apos;inferno&apos;; Sandisk lidera 7 ações para...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-threatens-iran-hell-hormuz-oil-prices-sandisk/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-threatens-iran-hell-hormuz-oil-prices-sandisk/?src=A00220&yptr=yahoo</guid>
+      <pubDate>06/04/2026 08:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/86c9a19c2703203b84d9c991ae504822" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preço do ouro hoje, segunda-feira, 6 de abril: Ouro se fortalece após relatório de melhoria de empregos e...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/401-k-isn-t-enough-090000325.html</guid>
       <pubDate>06/04/2026 06:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/d8157f9ec409c30d6c83d8831c9b0516" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Retração da Nasdaq: três ações que você gostaria de ter comprado na queda</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nasdaq-pullback-3-stocks-youll-090400858.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nasdaq-pullback-3-stocks-youll-090400858.html</guid>
-      <pubDate>06/04/2026 06:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a3eb5a00b1d2346cdbc554d6760edd23" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
