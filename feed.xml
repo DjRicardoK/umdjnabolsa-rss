@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:48:21 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:48:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Alerta contundente do Goldman Sachs aos trabalhadores de tecnologia demitidos: levará tempo e perda de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/goldman-sachs-blunt-warning-to-laid-off-tech-workers-it-will-take-time-and-earnings-loss-to-find-a-new-job-143808064.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/goldman-sachs-blunt-warning-to-laid-off-tech-workers-it-will-take-time-and-earnings-loss-to-find-a-new-job-143808064.html</guid>
+      <pubDate>06/04/2026 11:48</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/a1a26330-31bd-11f1-977b-2d04ae54a87b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O novo plano de aposentadoria de Trump: o que uma correspondência federal de até US$ 1.000 significa para os...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/individual-investors-are-shifting-from-buying-dips-to-selling-rips-as-they-favor-bonds-and-other-defensive-bets-5a81a97e?mod=mw_rss_topstories</guid>
       <pubDate>06/04/2026 10:35</pubDate>
       <enclosure url="https://images.mktw.net/im-19630495" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Microsoft (MSFT) é a melhor ação de IA para comprar na queda?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-best-ai-stock-131125832.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-best-ai-stock-131125832.html</guid>
-      <pubDate>06/04/2026 10:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/642a8fd87342350c7d2e74e81caadb38" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
