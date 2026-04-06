@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:48:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:49:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pesquisa semanal de credores hipotecários com as melhores taxas: PenFed assume a liderança com APR de 6,042%</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-april-6-2026-170834919.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-april-6-2026-170834919.html</guid>
+      <pubDate>06/04/2026 14:49</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d9cd60-0c3a-11f1-bdff-87ef2d5000ac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Evercore ISI reitera desempenho superior das ações da Vertiv na expansão de capacidade</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-ai-spending-peak-may-arrive-this-year-jefferies-warns-93CH-4598884</guid>
       <pubDate>06/04/2026 13:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/gas_M_1440047759.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla tem preço pela perfeição, mas causa decepção</title>
-      <description></description>
-      <link>https://www.investors.com/research/options/tesla-tsla-stock-bear-put-spread-options/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/options/tesla-tsla-stock-bear-put-spread-options/?src=A00220&yptr=yahoo</guid>
-      <pubDate>06/04/2026 13:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/1828afeb806d892f756fcb8399a1de6b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
