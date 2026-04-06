@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 20:27:13 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 20:34:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Broadcom estão subindo. Veja por que seus novos acordos com o Google e a Anthropic são tão...</title>
+      <description>A expansão dos acordos de chips “recoloca os holofotes sobre a Broadcom como uma grande vencedora” e pode abrir caminho para ganhos positivos, dizem os analistas.</description>
+      <link>https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories</guid>
+      <pubDate>06/04/2026 20:34</pubDate>
+      <enclosure url="https://images.mktw.net/im-81060208" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise-Trump aproveita resgate de aviador abatido para reformular a impopular guerra com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-once-said-major-100900154.html</guid>
       <pubDate>06/04/2026 15:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/27210cc47b8318a3e0dd208ceb4198c1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A aposta de um bilhão de dólares que transformou seguros em entretenimento</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/billion-dollar-bet-turned-insurance-100000650.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/billion-dollar-bet-turned-insurance-100000650.html</guid>
-      <pubDate>06/04/2026 15:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/fortune_175/24f5956d4cdc0f4b378b5cb9012c90eb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
