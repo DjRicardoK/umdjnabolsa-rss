@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 09:12:48 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 09:13:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Plataforma de entrega de comida magicpin lança assistente de IA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/food-delivery-platform-magicpin-rolls-120138002.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/food-delivery-platform-magicpin-rolls-120138002.html</guid>
+      <pubDate>06/04/2026 09:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/verdict_food_service_772/b962d932cad816957215f45f9a1edfe1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A United Airlines quer preços de passagens ainda mais altos. Irá apanhá-los – com ou sem a guerra no Irão.</title>
       <description>A nova estratégia de “luxo” da United é uma aposta arriscada para os investidores quando as tarifas e as reclamações são altíssimas.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/mayfair-gold-acquire-three-properties-101305330.html</guid>
       <pubDate>06/04/2026 07:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/mining_technology_700/1cfd00835261bb212102ec28b6b2d8e9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jamie Dimon destaca a Guerra do Irão, o crédito privado e as perdas de empregos provocadas pela IA como os...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/jamie-dimon-highlights-iran-war-private-credit-and-ai-driven-job-losses-as-major-us-risks-in-his-annual-letter-100130113.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/jamie-dimon-highlights-iran-war-private-credit-and-ai-driven-job-losses-as-major-us-risks-in-his-annual-letter-100130113.html</guid>
-      <pubDate>06/04/2026 07:11</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/05cc8030-317c-11f1-bbfd-a64a808d2d8d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
