@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:06:10 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:08:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar cai enquanto os mercados aguardam notícias sobre negociações de paz no Oriente Médio</title>
+      <description></description>
+      <link>https://www.wsj.com/finance/currencies/u-s-dollar-index-rises-energy-prices-support-31a74cd8?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.wsj.com/finance/currencies/u-s-dollar-index-rises-energy-prices-support-31a74cd8?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>06/04/2026 11:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Lincoln Educational Services atingem o máximo histórico de 42,48 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/israels-natural-gas-flows-to-egypt-return-to-prewar-levels-93CH-4598204</guid>
       <pubDate>06/04/2026 08:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_6_M_1440048362.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O Google acabou de dar um soco nessas ações de tecnologia de alto nível - não se deixe enganar pela...</title>
-      <description>O TurboQuant do Google quebra o cartel de chips de memória – e a tese de IA com hardware pesado agora parece notícia de ontem.</description>
-      <link>https://www.marketwatch.com/story/google-just-sucker-punched-these-highflying-tech-stocks-dont-let-the-relief-rally-fool-you-951ba552?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/google-just-sucker-punched-these-highflying-tech-stocks-dont-let-the-relief-rally-fool-you-951ba552?mod=mw_rss_topstories</guid>
-      <pubDate>06/04/2026 08:52</pubDate>
-      <enclosure url="https://images.mktw.net/im-58479808" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
