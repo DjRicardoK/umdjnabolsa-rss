@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:48:12 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:48:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Evercore ISI reitera desempenho superior das ações da Vertiv na expansão de capacidade</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-vertiv-stock-outperform-on-capacity-expansion-93CH-4598948</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-vertiv-stock-outperform-on-capacity-expansion-93CH-4598948</guid>
+      <pubDate>06/04/2026 14:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goolsbee e Hammack do Fed dizem que a inflação está piscando em ‘laranja’ ou pior</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/options/tesla-tsla-stock-bear-put-spread-options/?src=A00220&yptr=yahoo</guid>
       <pubDate>06/04/2026 13:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/1828afeb806d892f756fcb8399a1de6b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Apple podem subir 20% e o MacBook Neo pode ser um catalisador importante</title>
-      <description>Os analistas estão otimistas quanto à expansão da Apple no mercado de laptops baratos, o que poderia aumentar os lucros.</description>
-      <link>https://www.marketwatch.com/story/apples-stock-could-surge-20-and-the-macbook-neo-could-be-a-key-catalyst-9ba5623f?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/apples-stock-could-surge-20-and-the-macbook-neo-could-be-a-key-catalyst-9ba5623f?mod=mw_rss_topstories</guid>
-      <pubDate>06/04/2026 13:25</pubDate>
-      <enclosure url="https://images.mktw.net/im-23072814" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
