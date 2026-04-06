@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 05:37:08 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 05:59:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Chris Pratt e Katherine Schwarzenegger retiram megamansão de US$ 20 milhões enquanto moravam na casa de Katy...</title>
+      <description>Chris Pratt e Katherine Schwarzenegger mais uma vez retiraram do mercado sua enorme mansão Pacific Palisades - quase três anos depois que a casa foi listada pelo preço altíssimo...</description>
+      <link>https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories</guid>
+      <pubDate>06/04/2026 05:59</pubDate>
+      <enclosure url="https://images.mktw.net/im-20289534" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs atualiza classificação das ações da Netflix com base na força do conteúdo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-rise-over-1-on-report-of--iran-ceasefire-talks-4597696</guid>
       <pubDate>06/04/2026 02:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB1H0YB_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Índia vê a manutenção das taxas enquanto a fase &apos;Cachinhos Dourados&apos; dá lugar ao estresse</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/india-seen-holding-rates-as-goldilocks-phase-gives-way-to-stress-4597723</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/india-seen-holding-rates-as-goldilocks-phase-gives-way-to-stress-4597723</guid>
-      <pubDate>06/04/2026 02:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3504K_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
