@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 04:49:24 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 05:04:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Netflix aumentou para comprar no Goldman com &apos;recompensa de risco mais positiva em relação aos níveis atuais&apos;</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/netflix-upped-to-buy-at-goldman-on-more-positive-riskreward-from-current-levels-4597802</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/netflix-upped-to-buy-at-goldman-on-more-positive-riskreward-from-current-levels-4597802</guid>
+      <pubDate>06/04/2026 05:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1P0OE_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As vendas da Tesla na Coreia do Sul aumentaram mais de 300%, para 11.134 veículos em março</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/citigroup-pushes-back-fed-rate-cut-timeline-after-strong-job-numbers-4597689</guid>
       <pubDate>06/04/2026 02:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM35049_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer acha que o novo CFO da Apple (AAPL) está se adaptando bem ao seu papel</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-apple-aapl-182741049.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-apple-aapl-182741049.html</guid>
-      <pubDate>06/04/2026 01:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8d7978fd394ccb651732aa4423cd5441" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
