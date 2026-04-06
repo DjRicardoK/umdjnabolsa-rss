@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 02:23:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 02:24:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A Índia vê a manutenção das taxas enquanto a fase &apos;Cachinhos Dourados&apos; dá lugar ao estresse</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/india-seen-holding-rates-as-goldilocks-phase-gives-way-to-stress-4597723</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/india-seen-holding-rates-as-goldilocks-phase-gives-way-to-stress-4597723</guid>
+      <pubDate>06/04/2026 02:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3504K_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O crescimento dos serviços da Índia desacelera para o menor nível em 14 meses à medida que a guerra no...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-chicago-for-2-april-93CH-4596161</guid>
       <pubDate>02/04/2026 14:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os fundos de hedge vendem ações globais no ritmo mais rápido em 13 anos</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/hedge-funds-sell-global-stocks-at-fastest-pace-in-13-years-4596162</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/hedge-funds-sell-global-stocks-at-fastest-pace-in-13-years-4596162</guid>
-      <pubDate>02/04/2026 14:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/arrows_down_b_2._M_1440048101.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
