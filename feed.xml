@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 07:26:16 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 07:44:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE EUA e Irã avaliam plano de paz enquanto o aviso de ‘inferno’ de Trump se aproxima do prazo</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/trump-vows-hell-for-iran-if-strait-stays-shut-says-a-deal-is-possible-4597686</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-vows-hell-for-iran-if-strait-stays-shut-says-a-deal-is-possible-4597686</guid>
+      <pubDate>06/04/2026 07:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3502U_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 144 CHECK POINT SOFTWARE TECHNOLOGIES LTD Para: 6 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/netflix-upped-to-buy-at-goldman-on-more-positive-riskreward-from-current-levels-4597802</guid>
       <pubDate>06/04/2026 05:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1P0OE_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As vendas da Tesla na Coreia do Sul aumentaram mais de 300%, para 11.134 veículos em março</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/teslas-south-korean-sales-up-more-than-300-to-11134-vehicles-in-march-4597798</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/teslas-south-korean-sales-up-more-than-300-to-11134-vehicles-in-march-4597798</guid>
-      <pubDate>06/04/2026 04:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM35095_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
