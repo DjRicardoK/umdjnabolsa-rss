@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:10:55 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 15:14:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (CLS) está entre as melhores ações de IA de compra forte para investir agora?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-among-best-091417593.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-among-best-091417593.html</guid>
+      <pubDate>06/04/2026 15:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/535afb0cf3fa9138db1a85a44b68d557" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dimon, do JPMorgan, alerta que a guerra no Irã pode aumentar a inflação e as taxas de juros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/new-china-life-2025-slides-record-profits-clash-with-q4-miss-93CH-4598905</guid>
       <pubDate>06/04/2026 13:39</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/ea781bd50651b1ac46b743a16c4af3a07ad6c31fcad7887d1ccbbd4470cd79de.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Evercore ISI reitera classificação das ações da Procter &amp; Gamble na visão de commodities</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-procter--gamble-stock-rating-on-commodity-view-93CH-4598893</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-procter--gamble-stock-rating-on-commodity-view-93CH-4598893</guid>
-      <pubDate>06/04/2026 13:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA701DT_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
