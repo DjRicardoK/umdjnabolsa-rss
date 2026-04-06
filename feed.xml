@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:57:13 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 16:04:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE JPMorgan tem uma mensagem dura sobre o próximo corte nas taxas do Fed</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html</guid>
+      <pubDate>06/04/2026 16:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/392089d820fc1c27dc7377f8d00b7e7e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Andersons atingem o máximo histórico de 74,08 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/william-blair-reiterates-amgen-stock-rating-on-positive-tepezza-data-93CH-4598943</guid>
       <pubDate>06/04/2026 14:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 3 ações de crescimento que valem a pena comprar em meio à volatilidade e mantê-las por toda a vida</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-worth-buying-172500151.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-worth-buying-172500151.html</guid>
-      <pubDate>06/04/2026 14:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/971ceb04a404c879e55191c14265522f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
