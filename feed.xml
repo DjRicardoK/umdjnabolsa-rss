@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 13:57:14 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:19:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Barclays reitera classificação das ações da Transocean sob demanda da Petrobras</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/barclays-reiterates-transocean-stock-rating-on-petrobras-demand-93CH-4598929</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-transocean-stock-rating-on-petrobras-demand-93CH-4598929</guid>
+      <pubDate>06/04/2026 14:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Pursuit Atrações atingem o máximo de 52 semanas, a 38,34 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-136-4598853</guid>
       <pubDate>06/04/2026 12:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/Istanbul_Stock_Exchange_M_1440056258.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O crescimento da Nike nos últimos 5 anos tem sido chocantemente ruim e seus ganhos são ainda piores</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nikes-growth-over-past-5-152000617.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nikes-growth-over-past-5-152000617.html</guid>
-      <pubDate>06/04/2026 12:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/7bf0cc0119a886cd96981b4dafd0e201" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
