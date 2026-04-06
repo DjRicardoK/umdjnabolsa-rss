@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:43:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 15:54:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A aposta de um bilhão de dólares que transformou seguros em entretenimento</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/billion-dollar-bet-turned-insurance-100000650.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/billion-dollar-bet-turned-insurance-100000650.html</guid>
+      <pubDate>06/04/2026 15:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/fortune_175/24f5956d4cdc0f4b378b5cb9012c90eb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Fed alterou discretamente a sua previsão de inflação para Março – e isso aponta para mais sofrimento para...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-transocean-stock-rating-on-petrobras-demand-93CH-4598929</guid>
       <pubDate>06/04/2026 14:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Pursuit Atrações atingem o máximo de 52 semanas, a 38,34 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/pursuit-attractions-stock-hits-52week-high-at-3834-usd-93CH-4598915</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/pursuit-attractions-stock-hits-52week-high-at-3834-usd-93CH-4598915</guid>
-      <pubDate>06/04/2026 13:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
