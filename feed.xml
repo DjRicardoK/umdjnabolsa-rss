@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:29:10 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:35:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 3 ações de crescimento que valem a pena comprar em meio à volatilidade e mantê-las por toda a vida</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-worth-buying-172500151.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-worth-buying-172500151.html</guid>
+      <pubDate>06/04/2026 14:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/971ceb04a404c879e55191c14265522f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs identifica mudança ligada à Nvidia não vista em 13 anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/swk-holdings-completes-merger-with-runway-growth-finance-delists-from-nasdaq-93CH-4598863</guid>
       <pubDate>06/04/2026 12:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Casa Branca diz que aumento de produtividade significa que Fed pode cortar taxas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/white-house-says-increased-productivity-means-fed-can-cut-rates-4598855</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/white-house-says-increased-productivity-means-fed-can-cut-rates-4598855</guid>
-      <pubDate>06/04/2026 12:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350N4_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
