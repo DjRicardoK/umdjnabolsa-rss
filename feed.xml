@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:06:01 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:06:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Kura Sushi mantidas na compra por DA Davidson antes dos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/kura-sushi-stock-maintained-at-buy-by-da-davidson-ahead-of-earnings-93CH-4598788</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/kura-sushi-stock-maintained-at-buy-by-da-davidson-ahead-of-earnings-93CH-4598788</guid>
+      <pubDate>06/04/2026 11:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Quanex nomeia Chad Collins presidente da unidade de hardware</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-heartflow-stock-rating-on-clinical-data-strength-93CH-4598191</guid>
       <pubDate>06/04/2026 08:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Sanara MedTech na compra</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-sanara-medtech-stock-rating-at-buy-93CH-4598193</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-sanara-medtech-stock-rating-at-buy-93CH-4598193</guid>
-      <pubDate>06/04/2026 08:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
