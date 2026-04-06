@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 13:29:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 13:30:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As taxas do cartão de crédito são fixas ou variáveis?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/credit-cards/article/are-credit-cards-fixed-or-variable-193544510.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/article/are-credit-cards-fixed-or-variable-193544510.html</guid>
+      <pubDate>06/04/2026 13:30</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2023-12/5a8b40a0-9464-11ee-b3df-32fb284130bf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco do Canadá deverá manter taxas apesar do choque do petróleo no Médio Oriente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ny-fed-says-supply-chain-pressures-heated-up-in-march-4598823</guid>
       <pubDate>06/04/2026 11:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350LA_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman corta previsão de crescimento dos gastos do consumidor nos EUA com aumento do preço do petróleo</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/goldman-cuts-us-consumer-spending-growth-forecast-on-oil-price-surge-93CH-4598824</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-cuts-us-consumer-spending-growth-forecast-on-oil-price-surge-93CH-4598824</guid>
-      <pubDate>06/04/2026 11:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7405M_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
