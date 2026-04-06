@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 08:38:28 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 08:43:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preço do Bitcoin e do Ethereum hoje, segunda-feira, 6 de abril de 2026: Os preços sobem em meio a relatos de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html</guid>
+      <pubDate>06/04/2026 08:43</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/8IgKHs0.oTwPcn40eBVnmg--~B/aD00MDg7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_1_3688.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fundo de crédito privado do Goldman Sachs desafia aumento de resgate em todo o setor</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/investment-ideas/now-up-169-a-new-list-of-aipicked-stocks-for-april-is-now-live-4597833</guid>
       <pubDate>06/04/2026 06:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Regulador de segurança automotiva dos EUA encerra investigação sobre o recurso de assistência ao motorista da...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-auto-safety-regulator-closes-probe-into-teslas-driver-assistance-feature-4597846</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-auto-safety-regulator-closes-probe-into-teslas-driver-assistance-feature-4597846</guid>
-      <pubDate>06/04/2026 06:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350BE_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
