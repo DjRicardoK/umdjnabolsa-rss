@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 19:43:27 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 20:01:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs inicia cobertura de ações PayPay com classificação de compra</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-paypay-stock-coverage-with-buy-rating-93CH-4599552</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-paypay-stock-coverage-with-buy-rating-93CH-4599552</guid>
+      <pubDate>06/04/2026 20:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Tesla continuam caindo - mas o TSLA 10% menor gera rendimento de 2,0% por um mês</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-indianapolis-for-6-april-93CH-4598993</guid>
       <pubDate>06/04/2026 15:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tradeify 3.0 é lançado sem assinaturas, recompensas de 90 mil dólares e código de cupom com 40% de desconto</title>
-      <description></description>
-      <link>https://www.investing.com/news/press-releases/tradeify-30-launches-with-no-subscriptions-90k-usd-rewards--40-percent-off-coupon-code-4598998</link>
-      <guid isPermaLink="false">https://www.investing.com/news/press-releases/tradeify-30-launches-with-no-subscriptions-90k-usd-rewards--40-percent-off-coupon-code-4598998</guid>
-      <pubDate>06/04/2026 15:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
