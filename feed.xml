@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:48:26 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:50:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O bilionário Warren Buffett acaba de dizer cinco palavras que confirmaram os temores mais profundos de Wall...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-warren-buffett-just-said-143000281.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/billionaire-warren-buffett-just-said-143000281.html</guid>
+      <pubDate>06/04/2026 11:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/6fe74163a77bba3c6c950e0c33e1980b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Alerta contundente do Goldman Sachs aos trabalhadores de tecnologia demitidos: levará tempo e perda de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-us-stock-futures-mixed-oil-dips-as-hopes-emerge-for-an-end-to-middle-east-hostilities-002656744.html</guid>
       <pubDate>06/04/2026 10:39</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/2d428310-1b85-11f1-ae3e-447676efc7a6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os investidores individuais estão a mudar de “comprar quedas” para “vender rips”, uma vez que favorecem...</title>
-      <description>Em Abril passado, os investidores de retalho nos EUA intervieram para agarrar a queda pós-“dia da libertação” nas acções com ambas as mãos. Este ano, estão a adoptar uma abordagem...</description>
-      <link>https://www.marketwatch.com/story/individual-investors-are-shifting-from-buying-dips-to-selling-rips-as-they-favor-bonds-and-other-defensive-bets-5a81a97e?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/individual-investors-are-shifting-from-buying-dips-to-selling-rips-as-they-favor-bonds-and-other-defensive-bets-5a81a97e?mod=mw_rss_topstories</guid>
-      <pubDate>06/04/2026 10:35</pubDate>
-      <enclosure url="https://images.mktw.net/im-19630495" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
