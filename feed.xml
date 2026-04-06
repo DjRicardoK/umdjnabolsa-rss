@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 11:44:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 11:45:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fed de NY diz que pressões na cadeia de suprimentos aumentaram em março</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ny-fed-says-supply-chain-pressures-heated-up-in-march-4598823</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ny-fed-says-supply-chain-pressures-heated-up-in-march-4598823</guid>
+      <pubDate>06/04/2026 11:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350LA_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman corta previsão de crescimento dos gastos do consumidor nos EUA com aumento do preço do petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-privia-health-stock-after-investor-meetings-93CH-4598698</guid>
       <pubDate>06/04/2026 10:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BlackRock pede fundo Nasdaq-100, ampliando concorrência com Invesco</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/blackrock-files-for-nasdaq100-fund-expanding-competition-with-invesco-4598689</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/blackrock-files-for-nasdaq100-fund-expanding-competition-with-invesco-4598689</guid>
-      <pubDate>06/04/2026 10:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350IH_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
