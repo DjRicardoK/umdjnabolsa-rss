@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:40:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:47:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O presidente Trump estabeleceu um prazo para a reabertura do Estreito de Ormuz. Veja como os estoques de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/president-trump-set-deadline-reopening-173000148.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/president-trump-set-deadline-reopening-173000148.html</guid>
+      <pubDate>06/04/2026 14:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/b8f9ef335cc8a73313cb1709a79d0f40" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE William Blair reitera classificação das ações da Amgen com base em dados positivos de Tepezza</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/teslas-stock-could-fall-another-60-jpmorgan-analyst-warns-heres-whats-behind-his-high-degree-of-caution-96b862f5?mod=mw_rss_topstories</guid>
       <pubDate>06/04/2026 13:18</pubDate>
       <enclosure url="https://images.mktw.net/im-79794880" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Estratégia e Bitmine saltam 6% enquanto jogos de criptografia do Tesouro pegam fogo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/strategy-bitmine-jump-6-crypto-154814155.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/strategy-bitmine-jump-6-crypto-154814155.html</guid>
-      <pubDate>06/04/2026 12:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1a70bf4d815548fb0d97b5e5d411eb5e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
