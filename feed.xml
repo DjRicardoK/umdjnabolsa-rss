@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 10:02:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 10:24:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BlackRock pede fundo Nasdaq-100, ampliando concorrência com Invesco</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/blackrock-files-for-nasdaq100-fund-expanding-competition-with-invesco-4598689</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/blackrock-files-for-nasdaq100-fund-expanding-competition-with-invesco-4598689</guid>
+      <pubDate>06/04/2026 10:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350IH_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Jamie Dimon não está muito preocupado com o crédito privado, mas vê outro problema para os mercados</title>
       <description>Jamie Dimon alerta para um “gambá na festa” em 2026 na forma de aumento da inflação que levará a uma liquidação no mercado de ações.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/scinai-completes-corporate-reorganization-separates-cdmo-unit-93CH-4598075</guid>
       <pubDate>06/04/2026 08:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 3 ações imparáveis ​​que comprei no mês passado</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-unstoppable-stocks-bought-last-104200650.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-unstoppable-stocks-bought-last-104200650.html</guid>
-      <pubDate>06/04/2026 08:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/f95a6b26fea8bffcb0a9d9b72a31df4f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
