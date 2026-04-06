@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 02:27:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 02:41:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Coreia do Norte trabalhando em ICBM de fibra de carbono para entrega de múltiplas ogivas, diz Seul</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/north-korea-working-on-carbonfibre-icbm-for-multiwarhead-delivery-seoul-says-4597727</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/north-korea-working-on-carbonfibre-icbm-for-multiwarhead-delivery-seoul-says-4597727</guid>
+      <pubDate>06/04/2026 02:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3505O_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco do Japão diz que economias regionais podem piorar devido às consequências do conflito no Médio Oriente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/principal-financial-groups-quarterly-earnings-072134819.html</guid>
       <pubDate>02/04/2026 15:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/cc281ab6af56a4f74ef5eb281a6adfb3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos do Grupo CBRE</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-cbre-groups-next-074527098.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-cbre-groups-next-074527098.html</guid>
-      <pubDate>02/04/2026 15:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ae8ffb45ff8d3d9c53cb45ad35ec0629" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
