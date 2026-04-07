@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 16:10:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:12:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Tesla: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/teslas-q1-2026-earnings-expect-100958587.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/teslas-q1-2026-earnings-expect-100958587.html</guid>
+      <pubDate>07/04/2026 16:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/393ce00a7c473fbc123fc0a1aff59c80" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A inflação global do México provavelmente acelerou em março, enquanto o índice central caiu: pesquisa da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/only-2-types-people-survive-171500512.html</guid>
       <pubDate>07/04/2026 14:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/4fcd18b29a30aea4c5669c524b7e22b3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Revisão do Jenius Bank (2026): banco online simples com taxas competitivas e sem taxas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/review/jenius-bank-review-214619875.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/review/jenius-bank-review-214619875.html</guid>
-      <pubDate>07/04/2026 14:32</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-05/3d23a8d0-31ee-11f0-befd-d729bbf177bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
