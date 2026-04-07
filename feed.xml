@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 21:56:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 21:56:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Edwards Lifesciences CVP Lippis vende US$ 82.522 em ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-lippis-sells-82522-in-stock-93CH-4599573</link>
+      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-lippis-sells-82522-in-stock-93CH-4599573</guid>
+      <pubDate>06/04/2026 21:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 ações com dividendos de alto rendimento, rendendo mais de 6%, que farão você esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-acquisition-of-schedmd-sparks-worry-among-ai-specialists-about-software-access-4599052</guid>
       <pubDate>06/04/2026 16:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350T8_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bill Ackman exorta os investidores dos EUA a “ignorar” os pessimistas da mídia – diz que a guerra do Irã...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bill-ackman-urges-us-investors-110700724.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bill-ackman-urges-us-investors-110700724.html</guid>
-      <pubDate>06/04/2026 16:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/c1333013d19f556ac303b38f9d707095" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
