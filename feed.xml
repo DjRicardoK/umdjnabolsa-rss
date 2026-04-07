@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 19:24:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 19:45:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar cai com esperança de cessar-fogo no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-slips-hopes-ceasefire-iran-143338936.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-slips-hopes-ceasefire-iran-143338936.html</guid>
+      <pubDate>07/04/2026 19:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/23377ff3d8976e5204c5ede618c2a9da" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Enquanto o Irã ameaça ataques à Nvidia, você deveria realmente vender ações da NVDA?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/ray-dalio-says-the-iran-conflict-could-evolve-into-the-next-world-war-fa3045ef?mod=mw_rss_topstories</guid>
       <pubDate>07/04/2026 17:16</pubDate>
       <enclosure url="https://images.mktw.net/im-55474309" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Você não pode construir segurança financeira com uma mentalidade de 90 dias. Por que os relatórios de lucros...</title>
-      <description>Desacelerar o ciclo de relatórios é uma medida de bom senso que protege as empresas da visão de curto prazo – e os investidores dos seus piores impulsos.</description>
-      <link>https://www.marketwatch.com/story/the-sec-is-right-you-cant-build-financial-security-with-a-90-day-mindset-6f0b8ccd?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-sec-is-right-you-cant-build-financial-security-with-a-90-day-mindset-6f0b8ccd?mod=mw_rss_topstories</guid>
-      <pubDate>07/04/2026 17:06</pubDate>
-      <enclosure url="https://images.mktw.net/im-69584884" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
