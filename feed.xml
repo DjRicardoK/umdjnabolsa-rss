@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 03:04:04 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 03:05:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de Taiwan caem no fechamento do pregão; Taiwan pesou 1,82%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-182-4599659</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-182-4599659</guid>
+      <pubDate>07/04/2026 03:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Taiwan_M_1440053337.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE IQVIA (IQV) lança plataforma unificada Agentic AI IQVIA.ai com Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-high-yield-dividend-stocks-131856694.html</guid>
       <pubDate>06/04/2026 21:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/31c4e179f47e0394b0528eef16a433a2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 3 ações de serviços públicos com fortes dividendos e espaço para subir mais</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-utility-stocks-strong-dividends-132400977.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-utility-stocks-strong-dividends-132400977.html</guid>
-      <pubDate>06/04/2026 21:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/293ea303c35fb1a6c84606e40ffa694f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
