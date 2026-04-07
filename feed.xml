@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 00:05:20 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 00:45:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE China visa a capacidade de chips de Taiwan para escapar da ‘contenção’ global, diz o governo de Taipei</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/china-targets-taiwans-chip-prowess-to-evade-global-containment-taipei-government-says-4599599</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-targets-taiwans-chip-prowess-to-evade-global-containment-taipei-government-says-4599599</guid>
+      <pubDate>07/04/2026 00:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3603A_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O iPhone dobrável da Apple encontra obstáculos de engenharia e enfrenta possíveis atrasos no envio, relata...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/analysistrump-seizes-on-rescue-of-downed-airman-to-recast-unpopular-iran-war-4599562</guid>
       <pubDate>06/04/2026 20:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350XA_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Air NZ aumenta tarifas e corta voos, já que o custo do combustível mais que dobra na guerra do Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/air-nz-hikes-fares-cuts-flights-as-fuel-costs-more-than-double-on-iran-war-4599551</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/air-nz-hikes-fares-cuts-flights-as-fuel-costs-more-than-double-on-iran-war-4599551</guid>
-      <pubDate>06/04/2026 20:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350WK_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
