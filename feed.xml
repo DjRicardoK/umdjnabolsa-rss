@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 16:17:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:50:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Aecom Technology atingem baixa de 52 semanas a 82,98 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/aecom-technology-stock-hits-52week-low-at-8298-usd-93CH-4601329</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/aecom-technology-stock-hits-52week-low-at-8298-usd-93CH-4601329</guid>
+      <pubDate>07/04/2026 16:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado de crédito de curto prazo dos EUA mostra os primeiros sinais de estresse à medida que a guerra no...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/oceanagold-begins-trading-on-new-york-stock-exchange-93CH-4601227</guid>
       <pubDate>07/04/2026 15:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Brasil busca novo alívio da dívida com garantias federais para consumidores</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/brazil-eyes-new-debt-relief-with-federal-guarantees-for-consumers-4601228</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/brazil-eyes-new-debt-relief-with-federal-guarantees-for-consumers-4601228</guid>
-      <pubDate>07/04/2026 15:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM36107_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
