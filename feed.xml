@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 21:17:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 21:23:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Clark Howard chama o aviso de pontuação de crédito de &apos;jargão&apos; para mutuários na década de 700</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/clark-howard-calls-credit-score-125058638.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/clark-howard-calls-credit-score-125058638.html</guid>
+      <pubDate>06/04/2026 21:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/2cd41629210d10982f258fa8ac88dca1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE ARK de Cathie Wood vende ações da Teradyne e compra Tesla</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/as-stocks-approach-a-true-comeback-heres-where-investors-can-find-the-richest-opportunities-71bbc2cf?mod=mw_rss_topstories</guid>
       <pubDate>06/04/2026 16:08</pubDate>
       <enclosure url="https://images.mktw.net/im-57582279" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE JPMorgan tem uma mensagem dura sobre o próximo corte nas taxas do Fed</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html</guid>
-      <pubDate>06/04/2026 16:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/392089d820fc1c27dc7377f8d00b7e7e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
