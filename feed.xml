@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 19:16:45 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 19:21:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações sobem com pressão por cessar-fogo no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-climb-push-ceasefire-iran-140532758.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-climb-push-ceasefire-iran-140532758.html</guid>
+      <pubDate>07/04/2026 19:21</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ade340745436cfca783ca1d9dfcbf5bb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Levi Strauss supera as expectativas de lucros do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-verizon-communications-q1-2026-111852089.html</guid>
       <pubDate>07/04/2026 17:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/851faff3f99ea04bf59c092903af4b6c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Amicus Therapeutics atingem o máximo de 52 semanas a 14,46 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/amicus-therapeutics-stock-hits-52week-high-at-1446-usd-93CH-4601359</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/amicus-therapeutics-stock-hits-52week-high-at-1446-usd-93CH-4601359</guid>
-      <pubDate>07/04/2026 17:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
