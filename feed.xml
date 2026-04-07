@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 15:21:14 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 15:21:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE OceanaGold começa a ser negociado na Bolsa de Valores de Nova York</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/oceanagold-begins-trading-on-new-york-stock-exchange-93CH-4601227</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/oceanagold-begins-trading-on-new-york-stock-exchange-93CH-4601227</guid>
+      <pubDate>07/04/2026 15:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Brasil busca novo alívio da dívida com garantias federais para consumidores</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinese-pigs-fed-new-menu-as-beijing-weans-farmers-off-us-soy-4599601</guid>
       <pubDate>07/04/2026 01:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3603Q_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China visa a capacidade de chips de Taiwan para escapar da ‘contenção’ global, diz o governo de Taipei</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/china-targets-taiwans-chip-prowess-to-evade-global-containment-taipei-government-says-4599599</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-targets-taiwans-chip-prowess-to-evade-global-containment-taipei-government-says-4599599</guid>
-      <pubDate>07/04/2026 00:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3603A_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
