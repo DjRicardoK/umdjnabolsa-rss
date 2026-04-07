@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 15:43:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 15:47:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Trade Desk atingem o mínimo de 52 semanas em 21,03 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/the-trade-desk-stock-hits-52week-low-at-2103-usd-93CH-4601260</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/the-trade-desk-stock-hits-52week-low-at-2103-usd-93CH-4601260</guid>
+      <pubDate>07/04/2026 15:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street sai das mínimas da sessão à medida que o prazo de Trump para o Irã se aproxima</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-to-raise-rates-by-july-on-mounting-price-pressure-exboard-member-says-4599655</guid>
       <pubDate>07/04/2026 02:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM36060_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Crescimento do setor de serviços na Irlanda desacelera em meio ao impacto da guerra no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/ireland-services-sector-growth-slows-amid-middle-east-war-impact-93CH-4599656</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/ireland-services-sector-growth-slows-amid-middle-east-war-impact-93CH-4599656</guid>
-      <pubDate>07/04/2026 02:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
