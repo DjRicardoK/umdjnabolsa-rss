@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 18:23:25 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 18:26:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Levi’s aumenta as suas perspectivas de vendas, desafiando as preocupações sobre o impacto do conflito no Irão</title>
+      <description>As ações da Levi Strauss subiram no pregão de terça-feira, depois que a fabricante de jeans aumentou suas perspectivas de vendas e lucro, apesar das preocupações com o aumento dos...</description>
+      <link>https://www.marketwatch.com/story/levis-boosts-its-sales-outlook-defying-concerns-about-the-impact-of-the-iran-conflict-8f71cb20?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/levis-boosts-its-sales-outlook-defying-concerns-about-the-impact-of-the-iran-conflict-8f71cb20?mod=mw_rss_topstories</guid>
+      <pubDate>07/04/2026 18:26</pubDate>
+      <enclosure url="https://images.mktw.net/im-87855315" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia de ganhos: o que esperar do relatório da Equifax</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/mexicos-headline-inflation-likely-sped-up-in-march-while-core-index-declined-4601280</guid>
       <pubDate>07/04/2026 16:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3611W_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos do Northern Trust</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-northern-trusts-next-100054652.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-northern-trusts-next-100054652.html</guid>
-      <pubDate>07/04/2026 16:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/af77413e39727b5f2455bc2cff1b051f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
