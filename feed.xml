@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 03:21:38 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 03:25:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação sueca fica aquém das previsões em março</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/swedish-inflation-falls-short-of-forecasts-in-march-93CH-4599682</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/swedish-inflation-falls-short-of-forecasts-in-march-93CH-4599682</guid>
+      <pubDate>07/04/2026 03:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘Não ficaria chocado’ se o mercado altista continuar: Wall Street pretende olhar além do conflito com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/1-stat-proves-nvidia-remains-133240716.html</guid>
       <pubDate>06/04/2026 22:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Edwards Lifesciences CVP Lippis vende US$ 82.522 em ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-lippis-sells-82522-in-stock-93CH-4599573</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-lippis-sells-82522-in-stock-93CH-4599573</guid>
-      <pubDate>06/04/2026 21:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
