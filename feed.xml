@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 14:27:05 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 14:27:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As seguradoras de saúde aumentam depois que os EUA aumentam as taxas de pagamento do Medicare Advantage de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/health-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates-4599822</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/health-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates-4599822</guid>
+      <pubDate>07/04/2026 14:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM360FU_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: Dow e S&amp;P 500 lutam antes do prazo de Hormuz; Apple Falls (cobertura ao vivo)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/while-wall-street-worries-cheap-140500436.html</guid>
       <pubDate>06/04/2026 22:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/00f99de28a3c6de7bbfe49b0d6485775" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Você está preocupado com a possibilidade de o aumento dos preços do petróleo causar uma recessão e impactar...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/worried-surging-oil-prices-cause-135000618.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/worried-surging-oil-prices-cause-135000618.html</guid>
-      <pubDate>06/04/2026 22:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/29371d389524ce2ff0353f2ab9dc9a91" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
