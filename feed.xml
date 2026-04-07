@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 16:12:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:14:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Steel Dynamics: O que você precisa saber</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-quarterly-earnings-preview-100616061.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-quarterly-earnings-preview-100616061.html</guid>
+      <pubDate>07/04/2026 16:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/3902bc2d3fb3f5c1eb843acf9071e00e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações devem abrir em alta devido às esperanças de cessar-fogo EUA-Irã, dados de inflação dos EUA aguardados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-new-york-for-7-april-93CH-4601198</guid>
       <pubDate>07/04/2026 14:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações caem à medida que o prazo de terça-feira à noite de Trump para o Irã se aproxima: ‘O mercado está...</title>
-      <description>As ações dos EUA caíram na terça-feira – mas com o S&amp;P 500 ainda positivo em abril – enquanto o presidente Donald Trump intensificava as suas ameaças contra o Irão de reabrir o...</description>
-      <link>https://www.marketwatch.com/story/stocks-fall-as-trumps-tuesday-night-deadline-for-iran-looms-the-market-is-certainly-on-edge-35d15659?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/stocks-fall-as-trumps-tuesday-night-deadline-for-iran-looms-the-market-is-certainly-on-edge-35d15659?mod=mw_rss_topstories</guid>
-      <pubDate>07/04/2026 14:48</pubDate>
-      <enclosure url="https://images.mktw.net/im-19346576" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
