@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 23:26:27 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 23:26:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas em queda, petróleo sobe à medida que o prazo de Trump para o Irã se aproxima</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/stocks-struggle-oil-jumps-as-trumps-iran-deadline-looms-4599591</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-struggle-oil-jumps-as-trumps-iran-deadline-looms-4599591</guid>
+      <pubDate>06/04/2026 23:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7I0G1_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ouro cai pelo terceiro dia enquanto o prazo de Trump para o Irã alimenta preocupações com a inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/tesla-stock-keeps-falling-10-143002004.html</guid>
       <pubDate>06/04/2026 19:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/6c15fbbdd03e4415a8f0043baeb35b48" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Amazon e USPS chegam a um acordo – mostrando que ainda precisam um do outro, apesar das ameaças de grandes...</title>
-      <description>O acordo chega no momento em que a Amazon continua a expandir sua rede de armazéns e a se concentrar nas entregas no mesmo dia.</description>
-      <link>https://www.marketwatch.com/story/amazon-usps-strike-a-deal-showing-they-still-need-each-other-despite-threats-of-big-delivery-cuts-87078db2?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/amazon-usps-strike-a-deal-showing-they-still-need-each-other-despite-threats-of-big-delivery-cuts-87078db2?mod=mw_rss_topstories</guid>
-      <pubDate>06/04/2026 19:23</pubDate>
-      <enclosure url="https://images.mktw.net/im-72744516" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
