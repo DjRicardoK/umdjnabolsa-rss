@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 20:45:55 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 21:05:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Esta ação disparou 12% após sua perspectiva de lucros explosivos no final de março, mas ainda não é tarde...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stock-soared-12-blowout-earnings-123500719.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-soared-12-blowout-earnings-123500719.html</guid>
+      <pubDate>06/04/2026 21:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/711e8273f2f9506ee9f4f07c605f931a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado de títulos está ajudando a resolver o dilema da taxa de juros do Fed</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/andersons-stock-hits-alltime-high-at-7408-usd-93CH-4599016</guid>
       <pubDate>06/04/2026 15:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Invesco caem enquanto a BlackRock registra o ETF Nasdaq-100</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/invesco-stock-falls-as-blackrock-files-for-nasdaq100-etf-93CH-4599017</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/invesco-stock-falls-as-blackrock-files-for-nasdaq100-etf-93CH-4599017</guid>
-      <pubDate>06/04/2026 15:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED410M6_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
