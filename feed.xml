@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 21:05:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 21:17:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE ARK de Cathie Wood vende ações da Teradyne e compra Tesla</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cathie-woods-ark-sells-teradyne-stock-buys-tesla-93CH-4599567</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cathie-woods-ark-sells-teradyne-stock-buys-tesla-93CH-4599567</guid>
+      <pubDate>06/04/2026 21:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Esta ação disparou 12% após sua perspectiva de lucros explosivos no final de março, mas ainda não é tarde...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/jpmorgan-stark-message-next-fed-180300978.html</guid>
       <pubDate>06/04/2026 16:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/392089d820fc1c27dc7377f8d00b7e7e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Andersons atingem o máximo histórico de 74,08 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/andersons-stock-hits-alltime-high-at-7408-usd-93CH-4599016</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/andersons-stock-hits-alltime-high-at-7408-usd-93CH-4599016</guid>
-      <pubDate>06/04/2026 15:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
