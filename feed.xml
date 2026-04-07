@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 16:12:28 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:12:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações devem abrir em alta devido às esperanças de cessar-fogo EUA-Irã, dados de inflação dos EUA aguardados</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-u-101018917.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-higher-u-101018917.html</guid>
+      <pubDate>07/04/2026 16:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fcebfc40d659e147fc2e5eab7e6cb524" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de lucros da 3M Company</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/stocks-fall-as-trumps-tuesday-night-deadline-for-iran-looms-the-market-is-certainly-on-edge-35d15659?mod=mw_rss_topstories</guid>
       <pubDate>07/04/2026 14:48</pubDate>
       <enclosure url="https://images.mktw.net/im-19346576" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Guerra do Irã pode aumentar a inflação, mas não as expectativas, segundo pesquisa do Fed de Dallas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/iran-war-may-boost-inflation-but-not-expectations-per-dallas-fed-research-4601180</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/iran-war-may-boost-inflation-but-not-expectations-per-dallas-fed-research-4601180</guid>
-      <pubDate>07/04/2026 14:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM360Z4_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
