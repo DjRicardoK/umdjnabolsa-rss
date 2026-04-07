@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 16:17:38 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:17:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O mercado de crédito de curto prazo dos EUA mostra os primeiros sinais de estresse à medida que a guerra no...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/us-shortterm-credit-market-shows-early-signs-of-stress-as-iran-war-persists-4601299</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-shortterm-credit-market-shows-early-signs-of-stress-as-iran-war-persists-4601299</guid>
+      <pubDate>07/04/2026 16:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM36127_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE SCWorx anuncia grupamento de ações de 1 por 15 para atender à conformidade da Nasdaq</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/brazil-eyes-new-debt-relief-with-federal-guarantees-for-consumers-4601228</guid>
       <pubDate>07/04/2026 15:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM36107_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O estoque da Mission Produce atinge o máximo em 52 semanas, a 15,03 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/mission-produce-stock-hits-52week-high-at-1503-usd-93CH-4601197</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/mission-produce-stock-hits-52week-high-at-1503-usd-93CH-4601197</guid>
-      <pubDate>07/04/2026 14:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
