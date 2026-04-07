@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 16:56:13 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 17:03:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Amicus Therapeutics atingem o máximo de 52 semanas a 14,46 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/amicus-therapeutics-stock-hits-52week-high-at-1446-usd-93CH-4601359</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/amicus-therapeutics-stock-hits-52week-high-at-1446-usd-93CH-4601359</guid>
+      <pubDate>07/04/2026 17:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Viavi Solutions atingem alta de 52 semanas a 38,09 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/corona-brewers-stock-has-rallied-ahead-of-earnings-amid-signs-of-improving-beer-sales-099f1044?mod=mw_rss_topstories</guid>
       <pubDate>07/04/2026 15:34</pubDate>
       <enclosure url="https://images.mktw.net/im-92250126" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Genius Sports atingem o menor nível em 52 semanas, a 4,19 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/genius-sports-stock-hits-52week-low-at-419-usd-93CH-4601229</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/genius-sports-stock-hits-52week-low-at-419-usd-93CH-4601229</guid>
-      <pubDate>07/04/2026 15:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
