@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 20:48:07 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 20:48:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que você deve vender futuros de dólar canadense agora em meio ao choque energético no Oriente Médio</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/why-sell-canada-dollar-futures-154548535.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/why-sell-canada-dollar-futures-154548535.html</guid>
+      <pubDate>07/04/2026 20:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0a518132ada19bc18c43d6ab9dd7e59f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços do petróleo flutuam com as manchetes da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-jefferson-sees-risks-to-both-employment-inflation-4601777</guid>
       <pubDate>07/04/2026 18:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3616M_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Capital One conclui aquisição do Brex por US$ 2,56 bilhões, emite ações e concede RSUs</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/capital-one-completes-256-billion-brex-acquisition-issues-stock-and-awards-rsus-93CH-4601763</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/capital-one-completes-256-billion-brex-acquisition-issues-stock-and-awards-rsus-93CH-4601763</guid>
-      <pubDate>07/04/2026 18:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
