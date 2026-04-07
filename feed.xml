@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 15:34:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 15:43:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street sai das mínimas da sessão à medida que o prazo de Trump para o Irã se aproxima</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/us-stock-futures-inch-lower-as-investors-assess-mideast-developments-4600300</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-stock-futures-inch-lower-as-investors-assess-mideast-developments-4600300</guid>
+      <pubDate>07/04/2026 15:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM360MQ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da cervejaria Corona subiram antes dos lucros em meio a sinais de melhoria nas vendas de cerveja</title>
       <description>As ações da Constellation Brands subiram este ano, em meio a esperanças de que o consumo de cerveja volte a aumentar.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/ireland-services-sector-growth-slows-amid-middle-east-war-impact-93CH-4599656</guid>
       <pubDate>07/04/2026 02:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações asiáticas oscilam à medida que o prazo de Trump para o Irã se aproxima</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-rangebound-as-trumps-iran-deadline-looms-4599658</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-rangebound-as-trumps-iran-deadline-looms-4599658</guid>
-      <pubDate>07/04/2026 02:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB210AE_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
