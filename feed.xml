@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 15:21:24 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 15:30:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Genius Sports atingem o menor nível em 52 semanas, a 4,19 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/genius-sports-stock-hits-52week-low-at-419-usd-93CH-4601229</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/genius-sports-stock-hits-52week-low-at-419-usd-93CH-4601229</guid>
+      <pubDate>07/04/2026 15:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Louisiana-Pacífico atingem baixa de 52 semanas em 69,61 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/inflation-scars-risk-quickly-lifting-expectations-ecb-must-be-ready-to-act-policymaker-4599626</guid>
       <pubDate>07/04/2026 02:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM36057_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O soldado mais condecorado da Austrália, Ben Roberts-Smith, é preso por supostos crimes de guerra</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/australias-most-decorated-soldier-ben-robertssmith-arrested-over-alleged-war-crimes-4599607</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australias-most-decorated-soldier-ben-robertssmith-arrested-over-alleged-war-crimes-4599607</guid>
-      <pubDate>07/04/2026 01:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
