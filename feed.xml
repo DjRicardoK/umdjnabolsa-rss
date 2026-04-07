@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 14:59:19 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 14:59:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O estoque da Mission Produce atinge o máximo em 52 semanas, a 15,03 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/mission-produce-stock-hits-52week-high-at-1503-usd-93CH-4601197</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/mission-produce-stock-hits-52week-high-at-1503-usd-93CH-4601197</guid>
+      <pubDate>07/04/2026 14:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 8K Federal Home Loan Bank de Nova York para: 7 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apples-foldable-iphone-encounters-engineering-snags-faces-potential-shipment-delays-nikkei-asia-reports-4599594</guid>
       <pubDate>07/04/2026 00:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3602S_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O CEO da NVIDIA, Jensen Huang, diz que a AGI chegou. Se ele estiver certo, essas ações ganham muito</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-says-145844839.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-says-145844839.html</guid>
-      <pubDate>06/04/2026 23:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/89bebc02b2a221c8404191478869840c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
