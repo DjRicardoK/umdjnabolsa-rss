@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 15:56:49 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:02:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos do Northern Trust</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-northern-trusts-next-100054652.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-northern-trusts-next-100054652.html</guid>
+      <pubDate>07/04/2026 16:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/af77413e39727b5f2455bc2cff1b051f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 15 ações para colocar na sua lista para comprar quando o mercado se recuperar</title>
       <description>Essas ações são boas apostas para um desempenho superior. porque são sensíveis a mudanças na liquidez do mercado.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/health-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates-4599822</guid>
       <pubDate>07/04/2026 14:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM360FU_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mercado de ações hoje: Dow e S&amp;P 500 lutam antes do prazo de Hormuz; Apple Falls (cobertura ao vivo)</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-war-strait-of-hormuz-unitedhealth-unh-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-war-strait-of-hormuz-unitedhealth-unh-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>07/04/2026 14:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/546decd9cfc1b54ee5b048980afef21d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
