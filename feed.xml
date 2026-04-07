@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 22:45:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 22:54:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Enquanto Wall Street se preocupa, esta ação barata de Warren Buffett é uma compra gritante</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/while-wall-street-worries-cheap-140500436.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/while-wall-street-worries-cheap-140500436.html</guid>
+      <pubDate>06/04/2026 22:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/00f99de28a3c6de7bbfe49b0d6485775" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Você está preocupado com a possibilidade de o aumento dos preços do petróleo causar uma recessão e impactar...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/betterware-de-mexico-names-raul-del-villar-as-cfo-93CH-4599419</guid>
       <pubDate>06/04/2026 18:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do México caem no fechamento do pregão; S&amp;P/BMV IPC cai 1,03%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-103-4599420</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-103-4599420</guid>
-      <pubDate>06/04/2026 18:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056303.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
