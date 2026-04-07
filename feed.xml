@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 16:50:08 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:56:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Viavi Solutions atingem alta de 52 semanas a 38,09 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/viavi-solutions-stock-hits-52week-high-at-3809-usd-93CH-4601348</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/viavi-solutions-stock-hits-52week-high-at-3809-usd-93CH-4601348</guid>
+      <pubDate>07/04/2026 16:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Monday.com atingem o menor nível em 52 semanas, a 66,18 USD</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/genius-sports-stock-hits-52week-low-at-419-usd-93CH-4601229</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/genius-sports-stock-hits-52week-low-at-419-usd-93CH-4601229</guid>
       <pubDate>07/04/2026 15:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Louisiana-Pacífico atingem baixa de 52 semanas em 69,61 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/louisianapacific-stock-hits-52week-low-at-6961-usd-93CH-4601226</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/louisianapacific-stock-hits-52week-low-at-6961-usd-93CH-4601226</guid>
-      <pubDate>07/04/2026 15:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
