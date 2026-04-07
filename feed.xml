@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 16:14:16 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:17:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE SCWorx anuncia grupamento de ações de 1 por 15 para atender à conformidade da Nasdaq</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/scworx-announces-1for15-reverse-stock-split-to-address-nasdaq-compliance-93CH-4601300</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/scworx-announces-1for15-reverse-stock-split-to-address-nasdaq-compliance-93CH-4601300</guid>
+      <pubDate>07/04/2026 16:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Steel Dynamics: O que você precisa saber</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/mission-produce-stock-hits-52week-high-at-1503-usd-93CH-4601197</guid>
       <pubDate>07/04/2026 14:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Formulário 8K Federal Home Loan Bank de Nova York para: 7 de abril</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-new-york-for-7-april-93CH-4601198</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-new-york-for-7-april-93CH-4601198</guid>
-      <pubDate>07/04/2026 14:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
