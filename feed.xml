@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 01:45:12 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 02:10:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As cicatrizes da inflação correm o risco de aumentar rapidamente as expectativas; BCE deve estar pronto para...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/inflation-scars-risk-quickly-lifting-expectations-ecb-must-be-ready-to-act-policymaker-4599626</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/inflation-scars-risk-quickly-lifting-expectations-ecb-must-be-ready-to-act-policymaker-4599626</guid>
+      <pubDate>07/04/2026 02:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM36057_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O soldado mais condecorado da Austrália, Ben Roberts-Smith, é preso por supostos crimes de guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-soared-12-blowout-earnings-123500719.html</guid>
       <pubDate>06/04/2026 21:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/711e8273f2f9506ee9f4f07c605f931a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O mercado de títulos está ajudando a resolver o dilema da taxa de juros do Fed</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/article/the-bond-market-is-helping-resolve-the-feds-interest-rate-dilemma-103000702.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/article/the-bond-market-is-helping-resolve-the-feds-interest-rate-dilemma-103000702.html</guid>
-      <pubDate>06/04/2026 20:45</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Kpkose6UHLVc3PfHw8_0RA--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/4b8e3acd-9c8a-49eb-8e6f-3b3380ee6173" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
