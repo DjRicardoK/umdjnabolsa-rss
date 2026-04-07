@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 22:54:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 22:59:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jade Warshaw para casal ganha-pão de $ 130 mil: ‘Você não pode ficar naquela casa’ a menos que a esposa...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/jade-warshaw-130k-breadwinner-couple-141549170.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/jade-warshaw-130k-breadwinner-couple-141549170.html</guid>
+      <pubDate>06/04/2026 22:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/9d870147540ee75303aa16f98a61ef7d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Enquanto Wall Street se preocupa, esta ação barata de Warren Buffett é uma compra gritante</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/guidewire-software-ceo-rosenbaum-sells-181k-in-shares-93CH-4599450</guid>
       <pubDate>06/04/2026 18:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Betterware de México nomeia Raúl del Villar como CFO</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/betterware-de-mexico-names-raul-del-villar-as-cfo-93CH-4599419</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/betterware-de-mexico-names-raul-del-villar-as-cfo-93CH-4599419</guid>
-      <pubDate>06/04/2026 18:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
