@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 00:45:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 01:08:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Porcos chineses recebem novo cardápio enquanto Pequim afasta agricultores da soja dos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/chinese-pigs-fed-new-menu-as-beijing-weans-farmers-off-us-soy-4599601</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinese-pigs-fed-new-menu-as-beijing-weans-farmers-off-us-soy-4599601</guid>
+      <pubDate>07/04/2026 01:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3603Q_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China visa a capacidade de chips de Taiwan para escapar da ‘contenção’ global, diz o governo de Taipei</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/broadcoms-stock-is-rising-heres-why-its-new-google-and-anthropic-deals-are-so-significant-6d98a067?mod=mw_rss_topstories</guid>
       <pubDate>06/04/2026 20:34</pubDate>
       <enclosure url="https://images.mktw.net/im-81060208" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise-Trump aproveita resgate de aviador abatido para reformular a impopular guerra com o Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/analysistrump-seizes-on-rescue-of-downed-airman-to-recast-unpopular-iran-war-4599562</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysistrump-seizes-on-rescue-of-downed-airman-to-recast-unpopular-iran-war-4599562</guid>
-      <pubDate>06/04/2026 20:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350XA_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
