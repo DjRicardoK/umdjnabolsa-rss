@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 14:38:26 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 14:48:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações caem à medida que o prazo de terça-feira à noite de Trump para o Irã se aproxima: ‘O mercado está...</title>
+      <description>As ações dos EUA caíram na terça-feira – mas com o S&amp;P 500 ainda positivo em abril – enquanto o presidente Donald Trump intensificava as suas ameaças contra o Irão de reabrir o...</description>
+      <link>https://www.marketwatch.com/story/stocks-fall-as-trumps-tuesday-night-deadline-for-iran-looms-the-market-is-certainly-on-edge-35d15659?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/stocks-fall-as-trumps-tuesday-night-deadline-for-iran-looms-the-market-is-certainly-on-edge-35d15659?mod=mw_rss_topstories</guid>
+      <pubDate>07/04/2026 14:48</pubDate>
+      <enclosure url="https://images.mktw.net/im-19346576" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Guerra do Irã pode aumentar a inflação, mas não as expectativas, segundo pesquisa do Fed de Dallas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-struggle-oil-jumps-as-trumps-iran-deadline-looms-4599591</guid>
       <pubDate>06/04/2026 23:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7I0G1_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro cai pelo terceiro dia enquanto o prazo de Trump para o Irã alimenta preocupações com a inflação</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-falls-for-3rd-day-as-trumps-iran-deadline-fuels-inflation-worries-4599592</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-falls-for-3rd-day-as-trumps-iran-deadline-fuels-inflation-worries-4599592</guid>
-      <pubDate>06/04/2026 23:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1M0ED_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
