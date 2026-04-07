@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 18:55:37 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 19:04:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da RTX Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-rtx-corporations-next-134926095.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-rtx-corporations-next-134926095.html</guid>
+      <pubDate>07/04/2026 19:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0c7c16eb66b1723a8689091bd3c0533e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da MSCI Inc.: O que você precisa saber</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/aecom-technology-stock-hits-52week-low-at-8298-usd-93CH-4601329</guid>
       <pubDate>07/04/2026 16:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O mercado de crédito de curto prazo dos EUA mostra os primeiros sinais de estresse à medida que a guerra no...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-shortterm-credit-market-shows-early-signs-of-stress-as-iran-war-persists-4601299</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-shortterm-credit-market-shows-early-signs-of-stress-as-iran-war-persists-4601299</guid>
-      <pubDate>07/04/2026 16:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM36127_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
