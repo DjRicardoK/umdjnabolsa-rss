@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 20:05:38 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 20:05:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Kimberly-Clark</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/expect-kimberly-clarks-q1-2026-150030185.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-kimberly-clarks-q1-2026-150030185.html</guid>
+      <pubDate>07/04/2026 20:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fbb1d63c4706213ee71dcc5ebefcbd53" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Espera-se que as entregas da Tesla no primeiro trimestre fiquem muito aquém do pico à medida que a demanda de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-equifaxs-report-130456582.html</guid>
       <pubDate>07/04/2026 18:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5ead0eef0b3a26a93392ed3b89ea5f69" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE NVIDIA (NVDA) ainda é o melhor estoque de IA para comprar em 2026?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-still-best-ai-124721952.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-still-best-ai-124721952.html</guid>
-      <pubDate>07/04/2026 18:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a9806e13e3b923bb3edb704c9b5e47a3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
