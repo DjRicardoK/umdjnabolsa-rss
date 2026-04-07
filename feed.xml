@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 18:50:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 18:55:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jefferson, do Fed, vê riscos tanto para o emprego quanto para a inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/feds-jefferson-sees-risks-to-both-employment-inflation-4601777</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-jefferson-sees-risks-to-both-employment-inflation-4601777</guid>
+      <pubDate>07/04/2026 18:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3616M_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Capital One conclui aquisição do Brex por US$ 2,56 bilhões, emite ações e concede RSUs</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/scworx-announces-1for15-reverse-stock-split-to-address-nasdaq-compliance-93CH-4601300</guid>
       <pubDate>07/04/2026 16:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Steel Dynamics: O que você precisa saber</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-quarterly-earnings-preview-100616061.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/steel-dynamics-quarterly-earnings-preview-100616061.html</guid>
-      <pubDate>07/04/2026 16:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/3902bc2d3fb3f5c1eb843acf9071e00e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
