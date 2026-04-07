@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 21:56:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 22:23:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A primeira estatística que prova que a Nvidia continua sendo uma compra gritante abaixo de US$ 200</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/1-stat-proves-nvidia-remains-133240716.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/1-stat-proves-nvidia-remains-133240716.html</guid>
+      <pubDate>06/04/2026 22:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Edwards Lifesciences CVP Lippis vende US$ 82.522 em ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/chinas-middle-class-shadow-saving-123000937.html</guid>
       <pubDate>06/04/2026 18:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/00c8fa508ec364045932761445701dce" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A aquisição do SchedMD pela Nvidia desperta preocupação entre os especialistas em IA sobre o acesso ao...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/nvidia-acquisition-of-schedmd-sparks-worry-among-ai-specialists-about-software-access-4599052</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-acquisition-of-schedmd-sparks-worry-among-ai-specialists-about-software-access-4599052</guid>
-      <pubDate>06/04/2026 16:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM350T8_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
