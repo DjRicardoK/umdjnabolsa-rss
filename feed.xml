@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 14:59:23 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 15:21:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Brasil busca novo alívio da dívida com garantias federais para consumidores</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/brazil-eyes-new-debt-relief-with-federal-guarantees-for-consumers-4601228</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/brazil-eyes-new-debt-relief-with-federal-guarantees-for-consumers-4601228</guid>
+      <pubDate>07/04/2026 15:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM36107_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O estoque da Mission Produce atinge o máximo em 52 semanas, a 15,03 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-targets-taiwans-chip-prowess-to-evade-global-containment-taipei-government-says-4599599</guid>
       <pubDate>07/04/2026 00:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3603A_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O iPhone dobrável da Apple encontra obstáculos de engenharia e enfrenta possíveis atrasos no envio, relata...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/apples-foldable-iphone-encounters-engineering-snags-faces-potential-shipment-delays-nikkei-asia-reports-4599594</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apples-foldable-iphone-encounters-engineering-snags-faces-potential-shipment-delays-nikkei-asia-reports-4599594</guid>
-      <pubDate>07/04/2026 00:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3602S_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
