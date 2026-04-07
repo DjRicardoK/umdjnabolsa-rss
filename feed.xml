@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 23:03:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 23:26:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro cai pelo terceiro dia enquanto o prazo de Trump para o Irã alimenta preocupações com a inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-falls-for-3rd-day-as-trumps-iran-deadline-fuels-inflation-worries-4599592</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-falls-for-3rd-day-as-trumps-iran-deadline-fuels-inflation-worries-4599592</guid>
+      <pubDate>06/04/2026 23:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1M0ED_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 13D/A Blue Gold Ltd para: 6 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/amazon-usps-strike-a-deal-showing-they-still-need-each-other-despite-threats-of-big-delivery-cuts-87078db2?mod=mw_rss_topstories</guid>
       <pubDate>06/04/2026 19:23</pubDate>
       <enclosure url="https://images.mktw.net/im-72744516" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Um importante estrategista do J.P. Morgan aborda alguns dos maiores mitos sobre a guerra no Irã</title>
-      <description>Só porque os EUA são um exportador líquido de determinados combustíveis não significa que a sua economia não sofrerá um sério impacto negativo devido ao aumento dos custos globais...</description>
-      <link>https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/a-top-j-p-morgan-strategist-tackles-some-of-the-biggest-myths-about-the-war-in-iran-ec30f625?mod=mw_rss_topstories</guid>
-      <pubDate>06/04/2026 18:51</pubDate>
-      <enclosure url="https://images.mktw.net/im-97540892" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
