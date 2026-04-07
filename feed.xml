@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 02:10:52 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 02:45:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações asiáticas oscilam à medida que o prazo de Trump para o Irã se aproxima</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-rangebound-as-trumps-iran-deadline-looms-4599658</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-rangebound-as-trumps-iran-deadline-looms-4599658</guid>
+      <pubDate>07/04/2026 02:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB210AE_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As cicatrizes da inflação correm o risco de aumentar rapidamente as expectativas; BCE deve estar pronto para...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/cathie-woods-ark-sells-teradyne-stock-buys-tesla-93CH-4599567</guid>
       <pubDate>06/04/2026 21:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Esta ação disparou 12% após sua perspectiva de lucros explosivos no final de março, mas ainda não é tarde...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stock-soared-12-blowout-earnings-123500719.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-soared-12-blowout-earnings-123500719.html</guid>
-      <pubDate>06/04/2026 21:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/711e8273f2f9506ee9f4f07c605f931a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
