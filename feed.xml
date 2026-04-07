@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 06 Apr 2026 23:26:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 23:34:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O CEO da NVIDIA, Jensen Huang, diz que a AGI chegou. Se ele estiver certo, essas ações ganham muito</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-says-145844839.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-says-145844839.html</guid>
+      <pubDate>06/04/2026 23:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/89bebc02b2a221c8404191478869840c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas em queda, petróleo sobe à medida que o prazo de Trump para o Irã se aproxima</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-paypay-stock-coverage-with-buy-rating-93CH-4599552</guid>
       <pubDate>06/04/2026 20:01</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Tesla continuam caindo - mas o TSLA 10% menor gera rendimento de 2,0% por um mês</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/options/articles/tesla-stock-keeps-falling-10-143002004.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/tesla-stock-keeps-falling-10-143002004.html</guid>
-      <pubDate>06/04/2026 19:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6c15fbbdd03e4415a8f0043baeb35b48" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
