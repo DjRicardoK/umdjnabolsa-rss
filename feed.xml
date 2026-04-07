@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 16:02:19 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 16:10:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação global do México provavelmente acelerou em março, enquanto o índice central caiu: pesquisa da...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/mexicos-headline-inflation-likely-sped-up-in-march-while-core-index-declined-4601280</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/mexicos-headline-inflation-likely-sped-up-in-march-while-core-index-declined-4601280</guid>
+      <pubDate>07/04/2026 16:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3611W_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos do Northern Trust</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/review/jenius-bank-review-214619875.html</guid>
       <pubDate>07/04/2026 14:32</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-05/3d23a8d0-31ee-11f0-befd-d729bbf177bc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As seguradoras de saúde aumentam depois que os EUA aumentam as taxas de pagamento do Medicare Advantage de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/health-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates-4599822</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/health-insurers-rise-after-us-lifts-2027-medicare-advantage-payment-rates-4599822</guid>
-      <pubDate>07/04/2026 14:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM360FU_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
