@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 18:03:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 18:17:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Por que uma guerra prolongada no Irã é pessimista para as ações da Nvidia?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-prolonged-iran-war-bearish-131411098.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-prolonged-iran-war-bearish-131411098.html</guid>
+      <pubDate>08/04/2026 18:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/828805b72adb05952504a4fefd6c1a8a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Arch Capital: o que você precisa saber</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/bitcoin-and-ethereum-price-today-tuesday-april-7-2026-prices-trend-down-as-traders-await-war-deadline-113813294.html</guid>
       <pubDate>08/04/2026 17:13</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/R4fhNy.vnr_QIatr9RUOpQ--~B/aD00MDU7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ethereum_%20_bitcoin_2_2928.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Apostas de corte da taxa do Fed reavivadas, um pouco, pelo cessar-fogo da guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/fed-rate-cut-bets-revived-a-bit-by-iran-war-ceasefire-4603907</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-rate-cut-bets-revived-a-bit-by-iran-war-ceasefire-4603907</guid>
-      <pubDate>08/04/2026 17:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3718T_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
