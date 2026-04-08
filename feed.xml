@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 15:03:39 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 15:07:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Muitas autoridades do Fed acham que o próximo passo será um corte nas taxas, mostram as atas da reunião de...</title>
+      <description>Algumas autoridades veem “casos fortes” para um aumento, mas são minoria</description>
+      <link>https://www.marketwatch.com/story/many-fed-officials-think-next-move-will-be-a-rate-cut-march-meeting-minutes-show-c0e2fc30?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/many-fed-officials-think-next-move-will-be-a-rate-cut-march-meeting-minutes-show-c0e2fc30?mod=mw_rss_topstories</guid>
+      <pubDate>08/04/2026 15:07</pubDate>
+      <enclosure url="https://images.mktw.net/im-05056453" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Avaliações de tecnologia deprimidas podem oferecer ponto de entrada para investidores, diz Goldman Sachs</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/theres-a-simple-reason-for-the-stock-markets-huge-relief-rally-on-the-iran-cease-fire-ae5b195c?mod=mw_rss_topstories</guid>
       <pubDate>08/04/2026 13:29</pubDate>
       <enclosure url="https://images.mktw.net/im-38826754" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de IA: Espera-se que a construção empresarial de data centers acelere</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/ai-stocks-enterprise-market-data-centers-cisco-hpe-dell/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/ai-stocks-enterprise-market-data-centers-cisco-hpe-dell/?src=A00220&yptr=yahoo</guid>
-      <pubDate>08/04/2026 13:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/7da40438a38ffa433e7cd24b56af69c6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
