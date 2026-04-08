@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 09:09:34 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 09:18:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O nível de correção de 10% é um ponto arbitrário para ações?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/10-correction-level-arbitrary-point-120005918.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/10-correction-level-arbitrary-point-120005918.html</guid>
+      <pubDate>08/04/2026 09:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/schaeffers_investment_research_24/d050f70aa7f28ff33cb453320ef11369" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Inhibikase sobre o progresso do teste</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/rpm-earnings-beat-by-022-revenue-topped-estimates-4602576</guid>
       <pubDate>08/04/2026 07:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE REalloys ligadas ao Pentágono garantem fornecimento de terras raras aos EUA antes da proibição da China</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/pentagon-linked-realloys-secures-u-010000933.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/pentagon-linked-realloys-secures-u-010000933.html</guid>
-      <pubDate>08/04/2026 07:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/oilprice.com/dff1f4835a1d6d2837b576d6058ce519" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
