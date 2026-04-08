@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 04:20:53 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:32:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Petróleo sobe, ações balançam após aviso de Trump: mercado embrulhado</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/trading-open-shadowed-trump-escalation-200039071.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/trading-open-shadowed-trump-escalation-200039071.html</guid>
+      <pubDate>08/04/2026 04:32</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/6988c130-312f-11f1-acf7-e507d725e44a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Analistas cortam metas de preços da Tesla enquanto reguladores fecham investigação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/oil-prices-inflation-march-cpi-iran/?src=A00220&yptr=yahoo</guid>
       <pubDate>08/04/2026 02:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/aedb523180831ef4df642397497ba05f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Casos de falência no Japão aumentam à medida que conflito no Irã aumenta custos, diz think tank</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/japan-bankruptcy-cases-seen-rising-as-iran-conflict-lifts-costs-think-tank-says-4601925</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japan-bankruptcy-cases-seen-rising-as-iran-conflict-lifts-costs-think-tank-says-4601925</guid>
-      <pubDate>08/04/2026 02:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM37078_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
