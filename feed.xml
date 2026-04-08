@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 08:16:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 08:16:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Taxas de hipotecas nos EUA caem para 6,51%, diz MBA</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/us-mortgage-rates-edge-down-to-651-mba-says-4602718</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-mortgage-rates-edge-down-to-651-mba-says-4602718</guid>
+      <pubDate>08/04/2026 08:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370N6_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Regeneron espera que a cobrança de DPI&amp;D de US$ 102 milhões impacte os lucros do primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-banks-scale-back-china-ratecut-calls-see-policy-rate-on-hold-this-year-4602258</guid>
       <pubDate>08/04/2026 05:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370H9_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O que o mercado está avaliando agora para as taxas de juros do Fed e dos bancos centrais globais após o...</title>
-      <description>O cessar-fogo de duas semanas acordado entre os EUA e o Irão deixou os investidores menos preocupados com a possibilidade de os principais bancos centrais aumentarem os custos dos...</description>
-      <link>https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories</guid>
-      <pubDate>08/04/2026 05:56</pubDate>
-      <enclosure url="https://images.mktw.net/im-95851681" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
