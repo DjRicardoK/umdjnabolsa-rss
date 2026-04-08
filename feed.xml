@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 11:43:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 11:47:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os pedidos de hipoteca caem, graças às taxas mais altas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/real-estate/article/mortgage-applications-fall-thanks-to-higher-rates-143606434.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/real-estate/article/mortgage-applications-fall-thanks-to-higher-rates-143606434.html</guid>
+      <pubDate>08/04/2026 11:47</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-06/6b9063e0-228e-11ef-b3ff-58cd4efdd1d2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mizuho reitera classificação das ações da Terns Pharmaceuticals em Neutro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-simply-good-foods-stock-rating-on-atkins-outlook-93CH-4603122</guid>
       <pubDate>08/04/2026 09:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de tecnologia hoje: iPhone dobrável da Apple a caminho do lançamento ainda este ano, ações da Broadcom...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-apple-foldable-iphone-on-track-for-release-later-this-year-broadcom-stock-rises-144220466.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-apple-foldable-iphone-on-track-for-release-later-this-year-broadcom-stock-rises-144220466.html</guid>
-      <pubDate>08/04/2026 09:48</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/3c570aa0-234c-11f1-9bff-a4b40e3f3291" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
