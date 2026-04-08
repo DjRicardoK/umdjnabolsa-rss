@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 17:04:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:04:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da Meta Platforms</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/expect-meta-platforms-next-quarterly-113415271.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-meta-platforms-next-quarterly-113415271.html</guid>
+      <pubDate>08/04/2026 17:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5ecabd6706791abd711b556b511228d5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos lucros trimestrais do Mid-America Apartment: o que você precisa saber</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-daly-says-us-economic-fundamentals-in-a-good-place-4603777</guid>
       <pubDate>08/04/2026 15:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3716H_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O petróleo Brent está estressado, e não quebrado, pela guerra, afirma Morgan Stanley</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/brent-oil-stressed-not-broken-093240242.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/brent-oil-stressed-not-broken-093240242.html</guid>
-      <pubDate>08/04/2026 15:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/8c4ddec05e325af028693a9eb351b285" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
