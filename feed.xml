@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 02:18:59 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:19:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Exxon Mobil estão sendo negociadas com base em uma tese de guerra no Irã. Como você deve jogar...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/exxon-mobil-stock-trading-iran-173347300.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/exxon-mobil-stock-trading-iran-173347300.html</guid>
+      <pubDate>08/04/2026 02:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d88b1effc53318b1fa474de31d284054" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Marvell Technology sobem com o investimento da Nvidia, gerando enormes negociações de opções...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/crude-prices-fluctuate-iran-war-154226182.html</guid>
       <pubDate>07/04/2026 20:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/8e9e755c7ef7fa235e7e307e9b9106d6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos lucros da Halliburton: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/halliburton-earnings-preview-expect-152807897.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/halliburton-earnings-preview-expect-152807897.html</guid>
-      <pubDate>07/04/2026 20:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e58170485cabad9c50aa56cbb27592e6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
