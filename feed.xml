@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 13:29:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:29:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Morgan Stanley prevê mercado altista para ações indianas</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/morgan-stanley-predicts-bull-market-for-indian-stocks-93CH-4603641</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morgan-stanley-predicts-bull-market-for-indian-stocks-93CH-4603641</guid>
+      <pubDate>08/04/2026 13:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE040VL_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A verdadeira razão pela qual as ações estão subindo tanto após o cessar-fogo do Irã</title>
       <description>Uma enorme recuperação de alívio estava em andamento no mercado de ações na quarta-feira, após um acordo de cessar-fogo de duas semanas entre os EUA e o Irã.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/the-dollar-is-losing-its-war-premium-and-emerging-markets-are-loving-it-chart-of-the-day-152058874.html</guid>
       <pubDate>08/04/2026 12:29</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/1b8be090-3353-11f1-9fff-d92cc1d6a3ac" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jefferies reitera classificação das ações da Woodward sobre o lado positivo da indústria aeroespacial</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/jefferies-reiterates-woodward-stock-rating-on-aerospace-upside-93CH-4603532</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-woodward-stock-rating-on-aerospace-upside-93CH-4603532</guid>
-      <pubDate>08/04/2026 12:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
