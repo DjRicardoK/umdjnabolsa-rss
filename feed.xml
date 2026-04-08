@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 13:17:01 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:18:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Raymond James reitera classificação de desempenho superior das ações da HubSpot em meio a ventos contrários...</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-hubspot-stock-outperform-rating-amid-macro-headwinds-93CH-4603621</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-hubspot-stock-outperform-rating-amid-macro-headwinds-93CH-4603621</guid>
+      <pubDate>08/04/2026 13:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 3 ações de dividendos para manter nos próximos 10 anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/global-energy-stocks-plunge-as-usiran-ceasefire-hits-oil-4603399</guid>
       <pubDate>08/04/2026 12:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370EL_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que estas três companhias aéreas continuam a aumentar as taxas de bagagem, embora os passageiros já...</title>
-      <description>Três grandes companhias aéreas aumentaram suas taxas de bagagem despachada este mês, em outro golpe para os viajantes que ainda sofrem com as longas filas da TSA e o aumento das...</description>
-      <link>https://www.marketwatch.com/story/heres-the-real-reason-these-3-airlines-are-raising-their-bag-fees-45530319?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/heres-the-real-reason-these-3-airlines-are-raising-their-bag-fees-45530319?mod=mw_rss_topstories</guid>
-      <pubDate>08/04/2026 12:16</pubDate>
-      <enclosure url="https://images.mktw.net/im-67457427" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
