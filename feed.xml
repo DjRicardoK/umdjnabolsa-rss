@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 13:39:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:43:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise – Por que o mercado de títulos não retornará aos níveis anteriores à guerra</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/analysiswhy-the-bond-market-wont-bounce-back-to-prewar-levels-4602525</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysiswhy-the-bond-market-wont-bounce-back-to-prewar-levels-4602525</guid>
+      <pubDate>08/04/2026 13:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370LJ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 ações de inteligência artificial (IA) que venceram em 2025 estão perdendo em 2026. Por que esta é uma...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-jumps-three-week-high-152200467.html</guid>
       <pubDate>08/04/2026 12:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/20dbac786e86088578c5b1429c063ddc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Polônia sobem no fechamento do pregão; WIG30 subiu 3,50%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-350-4603557</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-350-4603557</guid>
-      <pubDate>08/04/2026 12:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
