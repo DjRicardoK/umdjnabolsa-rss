@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 03:40:59 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 03:41:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações tokenizadas dão o próximo passo com a primeira votação na rede para acionistas do Galaxy</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/tokenized-stocks-next-step-first-190141717.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/tokenized-stocks-next-step-first-190141717.html</guid>
+      <pubDate>08/04/2026 03:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/decrypt_157/73b9ca149a5ed658c318ab5e17b99093" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Um dólar americano forte está reprimindo os touros do mercado de grãos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-xi-urges-demanddriven-growth-in-services-industry-4601920</guid>
       <pubDate>08/04/2026 01:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM37064_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China Vanke oferece reembolso antecipado de títulos de 40% em troca de prorrogação – Reuters</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/china-vanke-offers-40-upfront-bond-repayment-in-return-for-extension-reuters-4601918</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-vanke-offers-40-upfront-bond-repayment-in-return-for-extension-reuters-4601918</guid>
-      <pubDate>08/04/2026 01:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC6B036_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
