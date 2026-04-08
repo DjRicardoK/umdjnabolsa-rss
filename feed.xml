@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 11:09:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 11:09:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A estratégia de dividendos da Clearbridge reduziu a Broadcom (AVGO) devido à diminuição da perspectiva de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/clearbridge-dividend-strategy-trimmed-broadcom-134847454.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/clearbridge-dividend-strategy-trimmed-broadcom-134847454.html</guid>
+      <pubDate>08/04/2026 11:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2810c432dfb8f6d2c2dfc4c8864501a6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do quarto trimestre de 2024 da Greenbrier (GBX)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/finance/currencies/middle-east-ceasefire-triggers-australian-dollar-rally-1423558a?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>08/04/2026 08:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercados olham “através do barulho” da guerra com o Irã – mas questões importantes permanecem, diz JPMorgan</title>
-      <description>Ainda há muita negociação pela frente, com demandas conflitantes de Washington e Teerã, segundo analistas</description>
-      <link>https://www.marketwatch.com/story/markets-looking-through-the-noise-of-iran-war-but-key-questions-remain-says-jpmorgan-be37ec48?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/markets-looking-through-the-noise-of-iran-war-but-key-questions-remain-says-jpmorgan-be37ec48?mod=mw_rss_topstories</guid>
-      <pubDate>08/04/2026 08:56</pubDate>
-      <enclosure url="https://images.mktw.net/im-53956757" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
