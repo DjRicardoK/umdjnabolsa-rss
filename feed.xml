@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 02:58:25 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 03:05:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Aptitude Software garante dois contratos Fynapse no valor de £ 1 milhão</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/aptitude-software-secures-two-fynapse-contracts-worth-1m-93CH-4601932</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/aptitude-software-secures-two-fynapse-contracts-worth-1m-93CH-4601932</guid>
+      <pubDate>08/04/2026 03:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE É assim que o aumento dos preços do petróleo impulsionará a inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-hit-3wk-high-after-trump-announces-iran-ceasefire-4601884</guid>
       <pubDate>07/04/2026 22:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB880JW_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco da Coreia manterá taxas em 2,50% enquanto a incerteza causada pela guerra persiste: pesquisa da Reuters</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/bank-of-korea-to-hold-rates-at-250-as-wardriven-uncertainty-persists-reuters-poll-4601875</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-korea-to-hold-rates-at-250-as-wardriven-uncertainty-persists-reuters-poll-4601875</guid>
-      <pubDate>07/04/2026 21:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3700T_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
