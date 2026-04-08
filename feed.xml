@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 13:29:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:30:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Cirrus Logic atingem o máximo histórico de 154,9 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cirrus-logic-stock-hits-alltime-high-at-1549-usd-93CH-4603639</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cirrus-logic-stock-hits-alltime-high-at-1549-usd-93CH-4603639</guid>
+      <pubDate>08/04/2026 13:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Morgan Stanley prevê mercado altista para ações indianas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/defense-tech-investors-using-shld-151534260.html</guid>
       <pubDate>08/04/2026 12:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/7d2901317f80a06bf82b54fc5aa566ae" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O dólar está a perder o seu prémio de guerra e os mercados emergentes estão a adorar: Gráfico do Dia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/the-dollar-is-losing-its-war-premium-and-emerging-markets-are-loving-it-chart-of-the-day-152058874.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/the-dollar-is-losing-its-war-premium-and-emerging-markets-are-loving-it-chart-of-the-day-152058874.html</guid>
-      <pubDate>08/04/2026 12:29</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/1b8be090-3353-11f1-9fff-d92cc1d6a3ac" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
