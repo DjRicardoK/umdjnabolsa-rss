@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 12:29:42 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 12:29:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Como os investidores em tecnologia de defesa estão usando o SHLD para capturar os gastos com a guerra do...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/defense-tech-investors-using-shld-151534260.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/defense-tech-investors-using-shld-151534260.html</guid>
+      <pubDate>08/04/2026 12:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/7d2901317f80a06bf82b54fc5aa566ae" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O dólar está a perder o seu prémio de guerra e os mercados emergentes estão a adorar: Gráfico do Dia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lpl-financial-gets-ubs-buy-141828819.html</guid>
       <pubDate>08/04/2026 11:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/3a1bab44da2efcb640eea6aad5bcf693" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Adapthealth Corp atingem alta de 52 semanas de 12,28 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/adapthealth-corp-stock-hits-52week-high-of-1228-usd-93CH-4603445</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/adapthealth-corp-stock-hits-52week-high-of-1228-usd-93CH-4603445</guid>
-      <pubDate>08/04/2026 11:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
