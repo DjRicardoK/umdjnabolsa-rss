@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 07:45:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:59:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos de RPM superaram US$ 0,22, a receita superou as estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/rpm-earnings-beat-by-022-revenue-topped-estimates-4602576</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/rpm-earnings-beat-by-022-revenue-topped-estimates-4602576</guid>
+      <pubDate>08/04/2026 07:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE REalloys ligadas ao Pentágono garantem fornecimento de terras raras aos EUA antes da proibição da China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-aflac-stock-underweight-rating-with-101-target-93CH-4602221</guid>
       <pubDate>08/04/2026 05:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Barclays reitera classificação de excesso de peso das ações da KKR com meta de US$ 127</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/barclays-reiterates-kkr-stock-overweight-rating-with-127-target-93CH-4602222</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-kkr-stock-overweight-rating-with-127-target-93CH-4602222</guid>
-      <pubDate>08/04/2026 05:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
