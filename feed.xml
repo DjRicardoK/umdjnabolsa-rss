@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 11:52:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 11:58:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: Dow sobe 1.100 pontos após cessar-fogo; Ações de ouro cobram mais caro (cobertura ao...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-iran-ceasefire/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-iran-ceasefire/?src=A00220&yptr=yahoo</guid>
+      <pubDate>08/04/2026 11:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Estas ações do S&amp;P 500 são as que mais sobem após o anúncio do cessar-fogo de Trump</title>
       <description>As empresas relacionadas com viagens e os fabricantes de semicondutores dominaram a lista dos melhores desempenhos nas ações dos EUA na manhã de quarta-feira.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-msci-stock-rating-on-product-innovation-93CH-4603249</guid>
       <pubDate>08/04/2026 10:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Cantor Fitzgerald reitera excesso de peso nas ações da Regeneron em US$ 800</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-overweight-on-regeneron-stock-at-800-93CH-4603119</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-overweight-on-regeneron-stock-at-800-93CH-4603119</guid>
-      <pubDate>08/04/2026 09:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
