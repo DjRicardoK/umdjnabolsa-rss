@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 22:05:45 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 22:45:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Intuitive Surgical: O que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/intuitive-surgicals-q1-2026-earnings-134348331.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/intuitive-surgicals-q1-2026-earnings-134348331.html</guid>
+      <pubDate>07/04/2026 22:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1ed6dc8fb90e48dcdc048b84bb7630f6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do ouro atingiram máxima de 3 semanas após Trump anunciar cessar-fogo com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-iran-conflict-isnt-panicking-investors-yet-thats-about-to-change-e7f51dad?mod=mw_rss_topstories</guid>
       <pubDate>07/04/2026 19:14</pubDate>
       <enclosure url="https://images.mktw.net/im-93597712" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Quer lucrar com a missão Artemis II? Lockheed Martin e Boeing podem ser as duas principais ações para comprar.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/want-profit-artemis-ii-mission-140002158.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/want-profit-artemis-ii-mission-140002158.html</guid>
-      <pubDate>07/04/2026 19:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bf5caa70730d89828f7d0f1e6e00cc22" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
