@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 04:35:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:35:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Joe Rogan diz que Nancy Pelosi é ‘melhor’ nas escolhas do mercado de ações do que Warren Buffett e George...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/joe-rogan-says-nancy-pelosi-201524237.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/joe-rogan-says-nancy-pelosi-201524237.html</guid>
+      <pubDate>08/04/2026 04:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/17a05f1bb1b65b2f28dfd8bdab34787c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nasdaq lidera Wall Street em alta diante das tensões no Irã e da volatilidade do petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/gulf-states-eye-cheap-ukrainian-interceptor-drone-as-iranian-attacks-drain-missile-stocks-4601931</guid>
       <pubDate>08/04/2026 03:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3708V_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Aptitude Software garante dois contratos Fynapse no valor de £ 1 milhão</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/aptitude-software-secures-two-fynapse-contracts-worth-1m-93CH-4601932</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/aptitude-software-secures-two-fynapse-contracts-worth-1m-93CH-4601932</guid>
-      <pubDate>08/04/2026 03:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
