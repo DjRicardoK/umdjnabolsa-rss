@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 04:46:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:52:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações terminam em alta com esperanças de cessar-fogo no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-iran-ceasefire-203442233.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-iran-ceasefire-203442233.html</guid>
+      <pubDate>08/04/2026 04:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bc1ca70c2b48d920c5437c60396a6beb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Recapitulação de ações para assistir: Kratos, JBS, Starbucks, Tesla</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-skids-3-amid-delivery-184623386.html</guid>
       <pubDate>08/04/2026 03:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/6b28daae389b2cb2115fbe6496b4726b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jefferies nomeia os principais estoques de equipamentos de precisão do Japão</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/jefferies-names-top-japan-precision-equipment-stocks-93CH-4601933</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/jefferies-names-top-japan-precision-equipment-stocks-93CH-4601933</guid>
-      <pubDate>08/04/2026 03:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
