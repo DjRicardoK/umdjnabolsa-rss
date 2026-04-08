@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 13:29:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:29:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A verdadeira razão pela qual as ações estão subindo tanto após o cessar-fogo do Irã</title>
+      <description>Uma enorme recuperação de alívio estava em andamento no mercado de ações na quarta-feira, após um acordo de cessar-fogo de duas semanas entre os EUA e o Irã.</description>
+      <link>https://www.marketwatch.com/story/theres-a-simple-reason-for-the-stock-markets-huge-relief-rally-on-the-iran-cease-fire-ae5b195c?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/theres-a-simple-reason-for-the-stock-markets-huge-relief-rally-on-the-iran-cease-fire-ae5b195c?mod=mw_rss_topstories</guid>
+      <pubDate>08/04/2026 13:29</pubDate>
+      <enclosure url="https://images.mktw.net/im-38826754" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de IA: Espera-se que a construção empresarial de data centers acelere</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-woodward-stock-rating-on-aerospace-upside-93CH-4603532</guid>
       <pubDate>08/04/2026 12:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os registros da Tesla se recuperaram nos principais mercados. As ações ainda encontram resistência.</title>
-      <description></description>
-      <link>https://www.investors.com/news/tesla-sales-stock-market-electric-vehicles-evs-model-3-model-y-elon-musk/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/tesla-sales-stock-market-electric-vehicles-evs-model-3-model-y-elon-musk/?src=A00220&yptr=yahoo</guid>
-      <pubDate>08/04/2026 12:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/c23c648fd625a38e1b0981c37c9bf497" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
