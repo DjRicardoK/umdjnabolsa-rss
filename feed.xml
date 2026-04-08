@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:53:44 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 05:56:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O que o mercado está avaliando agora para as taxas de juros do Fed e dos bancos centrais globais após o...</title>
+      <description>O cessar-fogo de duas semanas acordado entre os EUA e o Irão deixou os investidores menos preocupados com a possibilidade de os principais bancos centrais aumentarem os custos dos...</description>
+      <link>https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories</guid>
+      <pubDate>08/04/2026 05:56</pubDate>
+      <enclosure url="https://images.mktw.net/im-95851681" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Erasca (ERAS) entre as ações com melhor desempenho do primeiro trimestre de 2026 a serem observadas no...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-iran-ceasefire-203442233.html</guid>
       <pubDate>08/04/2026 04:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/bc1ca70c2b48d920c5437c60396a6beb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Recapitulação de ações para assistir: Kratos, JBS, Starbucks, Tesla</title>
-      <description></description>
-      <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-06-2026/card/stocks-to-watch-strategy-coinbase-paramount-MeAhgCSkxFU7iFSMg4cC?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-06-2026/card/stocks-to-watch-strategy-coinbase-paramount-MeAhgCSkxFU7iFSMg4cC?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>08/04/2026 04:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/b6c4e84ac708cc7193f6085dfe0bec77" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
