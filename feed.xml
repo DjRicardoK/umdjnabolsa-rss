@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 08:57:46 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 08:58:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reduz meta de preço das ações da IBM devido ao conflito do Golfo e ventos contrários no mercado cambial</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-cuts-ibm-stock-price-target-on-gulf-conflict-forex-headwinds-93CH-4602803</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-cuts-ibm-stock-price-target-on-gulf-conflict-forex-headwinds-93CH-4602803</guid>
+      <pubDate>08/04/2026 08:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/IBM_1_M_1440048638.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os comerciantes de opções continuam a apostar na queda do euro em relação ao dólar no curto prazo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-april-8-2026-100000065.html</guid>
       <pubDate>08/04/2026 07:26</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d2-4f64-11ef-8ffb-deebdbfd96c8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon mantém 80% das entregas do USPS em novo acordo, mais de 1 bilhão de pacotes anualmente</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-keeps-80-usps-deliveries-101441479.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-keeps-80-usps-deliveries-101441479.html</guid>
-      <pubDate>08/04/2026 07:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/94951dc10da94e9666d60b846c1ee881" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
