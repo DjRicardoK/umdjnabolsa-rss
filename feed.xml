@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 19:26:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:30:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar ligeiramente mais baixo antes do prazo final para o Irã desta noite</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-slightly-lower-ahead-tonight-143605438.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-slightly-lower-ahead-tonight-143605438.html</guid>
+      <pubDate>08/04/2026 19:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/67b7103c6dca24a2cefa9c0b1e9a88a1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que Service Properties (SVC) está entre as 8 principais ações sobrevendidas para comprar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/bonds-may-be-the-real-winner-now-that-the-world-economy-has-sidestepped-a-historic-oil-crisis-4797c6ff?mod=mw_rss_topstories</guid>
       <pubDate>08/04/2026 17:48</pubDate>
       <enclosure url="https://images.mktw.net/im-66434938" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da Reading International, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/reading-international-inc-q4-2025-123000804.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/reading-international-inc-q4-2025-123000804.html</guid>
-      <pubDate>08/04/2026 17:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/d5b46be09fe82d257d1a2e113d79c6b6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
