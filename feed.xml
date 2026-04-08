@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 21:47:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 22:05:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do ouro atingiram máxima de 3 semanas após Trump anunciar cessar-fogo com o Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-prices-hit-3wk-high-after-trump-announces-iran-ceasefire-4601884</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-hit-3wk-high-after-trump-announces-iran-ceasefire-4601884</guid>
+      <pubDate>07/04/2026 22:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB880JW_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco da Coreia manterá taxas em 2,50% enquanto a incerteza causada pela guerra persiste: pesquisa da Reuters</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/want-profit-artemis-ii-mission-140002158.html</guid>
       <pubDate>07/04/2026 19:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/bf5caa70730d89828f7d0f1e6e00cc22" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da RTX Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-rtx-corporations-next-134926095.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-rtx-corporations-next-134926095.html</guid>
-      <pubDate>07/04/2026 19:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0c7c16eb66b1723a8689091bd3c0533e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
