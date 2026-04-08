@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 04:52:49 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:52:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A Berkshire Hathaway sofreu sua mais longa seqüência de derrotas em mais de 7 anos - mas Warren Buffett...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-suffered-longest-losing-203028686.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-suffered-longest-losing-203028686.html</guid>
+      <pubDate>08/04/2026 04:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/91824b233e343289f509dff4ebe5b6bb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações terminam em alta com esperanças de cessar-fogo no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-house-prices-dropped-in-march-as-iran-war-weighed-on-outlook-halifax-said-4601943</guid>
       <pubDate>08/04/2026 03:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3709J_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tesla derrapa 3% em meio a preocupações com déficit de entrega, riscos de execução e alerta de baixa do...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-skids-3-amid-delivery-184623386.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-skids-3-amid-delivery-184623386.html</guid>
-      <pubDate>08/04/2026 03:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/6b28daae389b2cb2115fbe6496b4726b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
