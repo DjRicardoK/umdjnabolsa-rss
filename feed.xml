@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 04:35:16 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:46:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações europeias de energia caem à medida que preços do petróleo despencam com acordo de cessar-fogo EUA-Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-energy-stocks-slump-as-oil-prices-plunge-on-usiran-ceasefire-deal-4602035</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-energy-stocks-slump-as-oil-prices-plunge-on-usiran-ceasefire-deal-4602035</guid>
+      <pubDate>08/04/2026 04:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3P0AY_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Joe Rogan diz que Nancy Pelosi é ‘melhor’ nas escolhas do mercado de ações do que Warren Buffett e George...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-182-4601930</guid>
       <pubDate>08/04/2026 03:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/Taiwan_M_1440053344.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Estados do Golfo estão de olho em drones interceptadores ucranianos baratos enquanto ataques iranianos drenam...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/gulf-states-eye-cheap-ukrainian-interceptor-drone-as-iranian-attacks-drain-missile-stocks-4601931</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/gulf-states-eye-cheap-ukrainian-interceptor-drone-as-iranian-attacks-drain-missile-stocks-4601931</guid>
-      <pubDate>08/04/2026 03:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3708V_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
