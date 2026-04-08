@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 08:26:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 08:34:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 2 ações de defesa que valem a pena comprar à medida que as tensões globais continuam</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/2-defense-stocks-worth-buying-112500049.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-defense-stocks-worth-buying-112500049.html</guid>
+      <pubDate>08/04/2026 08:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a8e316be6e42622722ee220726b3a14d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Needham reitera classificação das ações da Nutanix sobre metas de crescimento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-market-outperform-on-penguin-solutions-stock-93CH-4602381</guid>
       <pubDate>08/04/2026 06:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citizens reitera o desempenho do mercado nas ações do Duolingo antes do 1T26</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-market-perform-on-duolingo-stock-ahead-of-1q26-93CH-4602355</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-market-perform-on-duolingo-stock-ahead-of-1q26-93CH-4602355</guid>
-      <pubDate>08/04/2026 06:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
