@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 15:58:27 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 16:00:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Micron e outros estoques de memória disparam à medida que o cessar-fogo do Irã redireciona a atenção para o...</title>
+      <description>O comércio de memórias tem sido desfeito nas últimas semanas, mas agora parece estar de volta em grande escala, após o anúncio de um acordo de cessar-fogo de duas semanas com o...</description>
+      <link>https://www.marketwatch.com/story/micron-and-other-memory-stocks-soar-as-iran-cease-fire-refocuses-attention-on-the-ai-boom-3989c0d4?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/micron-and-other-memory-stocks-soar-as-iran-cease-fire-refocuses-attention-on-the-ai-boom-3989c0d4?mod=mw_rss_topstories</guid>
+      <pubDate>08/04/2026 16:00</pubDate>
+      <enclosure url="https://images.mktw.net/im-00348993" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ata do Fed mostra crescente abertura para aumentos de taxas na reunião de março</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/elon-musks-100-billion-lawsuit-173105349.html</guid>
       <pubDate>08/04/2026 14:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/Benzinga/50e5cd89fdca461d62de5689a6ab7c79" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE FedEx Freight define metas para negócios independentes</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/fedex-freight-sets-goalposts-standalone-173559412.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fedex-freight-sets-goalposts-standalone-173559412.html</guid>
-      <pubDate>08/04/2026 14:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/freightwaves_373/bc4062878af4ae280607a4395c7dc452" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
