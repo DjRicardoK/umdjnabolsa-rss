@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 17:07:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:08:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Apostas de corte da taxa do Fed reavivadas, um pouco, pelo cessar-fogo da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/fed-rate-cut-bets-revived-a-bit-by-iran-war-ceasefire-4603907</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-rate-cut-bets-revived-a-bit-by-iran-war-ceasefire-4603907</guid>
+      <pubDate>08/04/2026 17:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3718T_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da ASML caem devido ao plano do Congresso dos EUA de restringir ainda mais as exportações da China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/newjersey-resources-stock-hits-alltime-high-at-5695-usd-93CH-4603785</guid>
       <pubDate>08/04/2026 15:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE É aqui que os preços do gás e as tarifas aéreas poderão cair se o cessar-fogo do Irã se mantiver</title>
-      <description>Os mercados de ações subiram na quarta-feira, mas os motoristas não deveriam prender a respiração à espera de um retorno aos preços da gasolina anteriores à guerra.</description>
-      <link>https://www.marketwatch.com/story/heres-when-gas-prices-and-airfares-could-go-down-if-the-iran-cease-fire-holds-4b0f775b?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/heres-when-gas-prices-and-airfares-could-go-down-if-the-iran-cease-fire-holds-4b0f775b?mod=mw_rss_topstories</guid>
-      <pubDate>08/04/2026 15:42</pubDate>
-      <enclosure url="https://images.mktw.net/im-84507416" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
