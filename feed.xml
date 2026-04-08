@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 04:01:53 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:01:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar enfraquece com esperanças de cessar-fogo no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-iran-ceasefire-hopes-193730855.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-iran-ceasefire-hopes-193730855.html</guid>
+      <pubDate>08/04/2026 04:01</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0d2930021ab714cff3f9a0b9dbce099d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 razões pelas quais as ações da Microsoft foram destruídas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/data-center-comfort-systems-fix-stock/?src=A00220&yptr=yahoo</guid>
       <pubDate>08/04/2026 02:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/871ec6ed51017af95a6dbb7fb2cb1d2e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE RBI mantém taxas de juros inalteradas, sinaliza riscos de interrupções no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/rbi-leaves-interest-rates-unchanged-says-economy-resilient-against-iran-shocks-4601921</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/rbi-leaves-interest-rates-unchanged-says-economy-resilient-against-iran-shocks-4601921</guid>
-      <pubDate>08/04/2026 02:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE6A1E7_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
