@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 03:19:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 03:24:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços das casas no Reino Unido caíram em março, enquanto a guerra no Irã pesava nas perspectivas, disse...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/uk-house-prices-dropped-in-march-as-iran-war-weighed-on-outlook-halifax-said-4601943</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-house-prices-dropped-in-march-as-iran-war-weighed-on-outlook-halifax-said-4601943</guid>
+      <pubDate>08/04/2026 03:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3709J_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tesla derrapa 3% em meio a preocupações com déficit de entrega, riscos de execução e alerta de baixa do...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-rallies-on-usiran-ceasefire-rbnz-holds-rates-rbi-decision-ahead-4601907</guid>
       <pubDate>08/04/2026 00:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/new_zealand_dollar_coins_M_1440050165.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Nova Zelândia mantém taxas, alerta sobre riscos para a inflação e o crescimento decorrentes da guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/nz-central-bank-holds-cash-rate-at-225-adopts-cautious-stance-amid-iran-war-4601899</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/nz-central-bank-holds-cash-rate-at-225-adopts-cautious-stance-amid-iran-war-4601899</guid>
-      <pubDate>08/04/2026 00:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3702C_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
