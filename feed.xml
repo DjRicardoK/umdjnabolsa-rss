@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 17:58:43 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 18:00:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da GE Aerospace</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-ge-aerospaces-123957514.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-ge-aerospaces-123957514.html</guid>
+      <pubDate>08/04/2026 18:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f9ac78b63ffaa4064d89e48dbf62fd80" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ascendis Pharma fará transição para listagem direta de ações ordinárias na Nasdaq</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/asml-shares-fall-us-congress-110612320.html</guid>
       <pubDate>08/04/2026 17:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/3070a3e0754960e16077674049947d75" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da Meta Platforms</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-meta-platforms-next-quarterly-113415271.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-meta-platforms-next-quarterly-113415271.html</guid>
-      <pubDate>08/04/2026 17:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5ecabd6706791abd711b556b511228d5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
