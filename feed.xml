@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:45:25 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 05:45:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Barclays reitera classificação Equalweight para ações da Fox com meta de US$ 63</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/barclays-reiterates-equalweight-rating-on-fox-stock-at-63-target-93CH-4602219</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-equalweight-rating-on-fox-stock-at-63-target-93CH-4602219</guid>
+      <pubDate>08/04/2026 05:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Barclays reitera classificação de ações Equalweight para ações da Netflix</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-542-4601999</guid>
       <pubDate>08/04/2026 04:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8609Q_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ex-soldado australiano permanecerá na prisão após ser acusado de crimes de guerra no Afeganistão</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/former-australian-soldier-to-remain-in-jail-after-being-charged-with-afghan-war-crimes-4601895</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/former-australian-soldier-to-remain-in-jail-after-being-charged-with-afghan-war-crimes-4601895</guid>
-      <pubDate>08/04/2026 04:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3701X_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
