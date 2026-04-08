@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 09:26:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 09:44:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Cantor Fitzgerald mantém classificação das ações da Amgen antes dos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-maintains-amgen-stock-rating-ahead-of-earnings-93CH-4602998</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-maintains-amgen-stock-rating-ahead-of-earnings-93CH-4602998</guid>
+      <pubDate>08/04/2026 09:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Formulário 8K Yum China Holdings para: 8 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/insurance/article/gold-and-silver-price-today-wednesday-april-8-gold-rises-after-announcement-of-us-iran-ceasefire-110829458.html</guid>
       <pubDate>08/04/2026 08:15</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/Oa7DO4jl9HF3ik1etGzo7Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/wednesday.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de companhias aéreas dos EUA saltam no pré-mercado enquanto os preços do petróleo caem com o...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-airline-stocks-climb-premarket-as-oil-prices-tumble-on-iran-ceasefire-4602358</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-airline-stocks-climb-premarket-as-oil-prices-tumble-on-iran-ceasefire-4602358</guid>
-      <pubDate>08/04/2026 08:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE402Q0_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
