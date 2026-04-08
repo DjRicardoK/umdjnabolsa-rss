@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 12:09:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 12:10:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados da Hillman Solutions (HLMN)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/hillman-solutions-hlmn-earnings-call-150249049.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hillman-solutions-hlmn-earnings-call-150249049.html</guid>
+      <pubDate>08/04/2026 12:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Oracle estão sendo negociadas com um desconto muito extremo em relação a este indicador técnico...</title>
       <description>As ações da Oracle estão sendo negociadas com um grande desconto em relação à sua média móvel de 200 dias, já que Wall Street duvida que a empresa consiga atingir suas ambiciosas...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/jabil-circuit-stock-hits-alltime-high-at-28599-usd-93CH-4603379</guid>
       <pubDate>08/04/2026 10:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações criptográficas disparam à medida que os investidores voltam aos ativos de risco</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-skyrocket-investors-rush-132000736.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-skyrocket-investors-rush-132000736.html</guid>
-      <pubDate>08/04/2026 10:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/bb5c0327386942ff5235b9ee1bfedcdf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
