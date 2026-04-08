@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 15:42:34 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 15:50:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da NewJersey Resources atingem o máximo histórico de 56,95 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/newjersey-resources-stock-hits-alltime-high-at-5695-usd-93CH-4603785</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/newjersey-resources-stock-hits-alltime-high-at-5695-usd-93CH-4603785</guid>
+      <pubDate>08/04/2026 15:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE É aqui que os preços do gás e as tarifas aéreas poderão cair se o cessar-fogo do Irã se mantiver</title>
       <description>Os mercados de ações subiram na quarta-feira, mas os motoristas não deveriam prender a respiração à espera de um retorno aos preços da gasolina anteriores à guerra.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysiswhy-the-bond-market-wont-bounce-back-to-prewar-levels-4602525</guid>
       <pubDate>08/04/2026 13:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370LJ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 2 ações de inteligência artificial (IA) que venceram em 2025 estão perdendo em 2026. Por que esta é uma...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/2-artificial-intelligence-ai-stocks-162500689.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-artificial-intelligence-ai-stocks-162500689.html</guid>
-      <pubDate>08/04/2026 13:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/5e7cd2ab9b16c15f3ddf900eb3a6455f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
