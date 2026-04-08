@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 10:40:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 10:43:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Jabil Circuit atingem o máximo histórico em 285,99 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/jabil-circuit-stock-hits-alltime-high-at-28599-usd-93CH-4603379</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/jabil-circuit-stock-hits-alltime-high-at-28599-usd-93CH-4603379</guid>
+      <pubDate>08/04/2026 10:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações criptográficas disparam à medida que os investidores voltam aos ativos de risco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-im-buying-growth-stocks-113500283.html</guid>
       <pubDate>08/04/2026 08:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/6bc3cf43f7874dbe7fca5cba6591d598" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Delta disparam depois que um relatório de lucros oportuno mostrou que os custos mais elevados de...</title>
-      <description>A Delta teve ganhos melhores do que o esperado após o anúncio do cessar-fogo com o Irã.</description>
-      <link>https://www.marketwatch.com/story/deltas-stock-soars-after-a-well-timed-earnings-report-showed-higher-fuel-costs-werent-an-issue-1acacd56?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/deltas-stock-soars-after-a-well-timed-earnings-report-showed-higher-fuel-costs-werent-an-issue-1acacd56?mod=mw_rss_topstories</guid>
-      <pubDate>08/04/2026 08:41</pubDate>
-      <enclosure url="https://images.mktw.net/im-99426812" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
