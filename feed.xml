@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 17:48:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:49:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Rússia diz que perturbação da guerra no Médio Oriente abre novas oportunidades comerciais</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/russia-says-middle-east-war-123301224.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/russia-says-middle-east-war-123301224.html</guid>
+      <pubDate>08/04/2026 17:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/a058e3a9fbca71eca9469ba2a1cf3b04" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os títulos podem ser o verdadeiro vencedor agora que a economia mundial evitou uma crise histórica do petróleo</title>
       <description>A crise do Irão ameaçou “a maior perturbação geopolítica no fornecimento de petróleo da história”, alertou o Fed de Dallas.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mid-america-apartments-quarterly-earnings-113656126.html</guid>
       <pubDate>08/04/2026 17:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/7bf82eebe4ea6c2c59501ece58c5f3d3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos ganhos trimestrais da GE HealthCare: o que você precisa saber</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/ge-healthcares-quarterly-earnings-preview-114137807.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/ge-healthcares-quarterly-earnings-preview-114137807.html</guid>
-      <pubDate>08/04/2026 17:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/75acf00742c0fb750512bde33b45b81d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
