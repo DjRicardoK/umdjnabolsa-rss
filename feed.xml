@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 15:23:44 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 15:40:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Daly, do Fed, diz que os fundamentos econômicos dos EUA estão em um “bom lugar”</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/feds-daly-says-us-economic-fundamentals-in-a-good-place-4603777</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-daly-says-us-economic-fundamentals-in-a-good-place-4603777</guid>
+      <pubDate>08/04/2026 15:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3716H_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O petróleo Brent está estressado, e não quebrado, pela guerra, afirma Morgan Stanley</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jpmorgan-vs-bank-america-wall-162410567.html</guid>
       <pubDate>08/04/2026 13:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/305feb150b755dec59ea7c234b7ac9da" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O seu banqueiro local está preocupado com a possibilidade de o estresse do crédito colocar a economia de...</title>
-      <description>Os CEO regionais alertam que as famílias com rendimentos mais baixos estão a atingir um ponto de ruptura, à medida que os salários ficam abaixo da inflação e os saldos dos cartões...</description>
-      <link>https://www.marketwatch.com/story/your-local-banker-is-getting-worried-that-credit-stress-will-bring-the-economy-to-its-knees-d8503534?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/your-local-banker-is-getting-worried-that-credit-stress-will-bring-the-economy-to-its-knees-d8503534?mod=mw_rss_topstories</guid>
-      <pubDate>08/04/2026 13:32</pubDate>
-      <enclosure url="https://images.mktw.net/im-690325" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
