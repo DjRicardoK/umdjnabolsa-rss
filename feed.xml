@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 03:39:15 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 03:40:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Um dólar americano forte está reprimindo os touros do mercado de grãos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/strong-u-dollar-squelching-grain-190002198.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/strong-u-dollar-squelching-grain-190002198.html</guid>
+      <pubDate>08/04/2026 03:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f75725b76c142f30eea4662dda1adb1f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tesla pode estar caminhando para o terceiro ano de decrescimento: como jogar com ações da TSLA agora?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-vanke-offers-40-upfront-bond-repayment-in-return-for-extension-reuters-4601918</guid>
       <pubDate>08/04/2026 01:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC6B036_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Samsung e SK Hynix sobem com forte visão de lucros do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-surge-on-strong-q1-earnings-view-4601913</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-surge-on-strong-q1-earnings-view-4601913</guid>
-      <pubDate>08/04/2026 01:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC9D0FS_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
