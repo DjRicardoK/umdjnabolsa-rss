@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 11:21:35 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 11:27:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE LPL Financial obtém classificação de compra do UBS: Wall Street vê US$ 380 para esta jogada de gestão de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/lpl-financial-gets-ubs-buy-141828819.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lpl-financial-gets-ubs-buy-141828819.html</guid>
+      <pubDate>08/04/2026 11:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/3a1bab44da2efcb640eea6aad5bcf693" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Adapthealth Corp atingem alta de 52 semanas de 12,28 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-inhibikase-stock-rating-on-trial-progress-93CH-4602872</guid>
       <pubDate>08/04/2026 09:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Delta disparam com ganhos, cessar-fogo e estratégias de combustível de aviação. Pico das...</title>
-      <description></description>
-      <link>https://www.investors.com/news/delta-stock-delta-air-lines-earnings-dal-stock-airlines-jet-fuel-prices/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/delta-stock-delta-air-lines-earnings-dal-stock-airlines-jet-fuel-prices/?src=A00220&yptr=yahoo</guid>
-      <pubDate>08/04/2026 09:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/017f23f095865a7fdfbcb97743d73ad9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
