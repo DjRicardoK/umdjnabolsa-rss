@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 16:02:28 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 16:13:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Oppenheimer do Goldman afirma que as avaliações das ações de tecnologia são atraentes</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/goldman-oppenheimer-says-tech-stock-101414726.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/goldman-oppenheimer-says-tech-stock-101414726.html</guid>
+      <pubDate>08/04/2026 16:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/7349af71c1d266f9ef4715822722f261" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Duolingo atingem baixa de 52 semanas em 91,59 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/inflation-isnt-going-to-slow-anytime-soon-even-if-the-iran-cease-fire-holds-heres-why-8bfcb792?mod=mw_rss_topstories</guid>
       <pubDate>08/04/2026 14:59</pubDate>
       <enclosure url="https://images.mktw.net/im-57751057" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Lattice Semiconductor atingem o máximo histórico de 108,09 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/lattice-semiconductor-stock-hits-alltime-high-at-10809-usd-93CH-4603739</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/lattice-semiconductor-stock-hits-alltime-high-at-10809-usd-93CH-4603739</guid>
-      <pubDate>08/04/2026 14:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
