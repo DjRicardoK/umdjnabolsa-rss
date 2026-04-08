@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 04:01:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:04:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ex-soldado australiano permanecerá na prisão após ser acusado de crimes de guerra no Afeganistão</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/former-australian-soldier-to-remain-in-jail-after-being-charged-with-afghan-war-crimes-4601895</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/former-australian-soldier-to-remain-in-jail-after-being-charged-with-afghan-war-crimes-4601895</guid>
+      <pubDate>08/04/2026 04:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3701X_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar enfraquece com esperanças de cessar-fogo no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/marvell-technology-stock-surges-nvidia-173002886.html</guid>
       <pubDate>08/04/2026 02:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/e486166e0d3b77f6493f2f94956e65d9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fundos são acumulados em ações de data center, ouro e varejo</title>
-      <description></description>
-      <link>https://www.investors.com/research/data-center-comfort-systems-fix-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/data-center-comfort-systems-fix-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>08/04/2026 02:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/871ec6ed51017af95a6dbb7fb2cb1d2e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
