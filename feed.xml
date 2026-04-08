@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 13:09:53 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:10:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As taxas de juros estão caindo – os rendimentos reais sugerem que um corte de meio ponto do Fed está chegando</title>
+      <description>O cessar-fogo no Irão pode ser a “luz verde” de que a Fed necessita.</description>
+      <link>https://www.marketwatch.com/story/interest-rates-are-headed-lower-real-yields-suggest-a-half-point-fed-cut-is-coming-b5fd1e22?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/interest-rates-are-headed-lower-real-yields-suggest-a-half-point-fed-cut-is-coming-b5fd1e22?mod=mw_rss_topstories</guid>
+      <pubDate>08/04/2026 13:09</pubDate>
+      <enclosure url="https://images.mktw.net/im-44009966" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tecnologia da Nasdaq lidera forte recuperação de Wall Street após acordo de cessar-fogo com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-delta-air-lines-stock-rating-on-strong-revenue-outlook-93CH-4603492</guid>
       <pubDate>08/04/2026 11:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6M0HI_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mizuho reitera classificação das ações da Credo Technology sobre o crescimento do data center</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/mizuho-reiterates-credo-technology-stock-rating-on-data-center-growth-93CH-4603493</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/mizuho-reiterates-credo-technology-stock-rating-on-data-center-growth-93CH-4603493</guid>
-      <pubDate>08/04/2026 11:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/facebook_2_M_1440049069.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
