@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 10:19:24 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 10:19:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Evercore ISI reitera classificação de ações da Vistance Networks em In Line</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-vistance-networks-stock-rating-at-in-line-93CH-4603254</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-vistance-networks-stock-rating-at-in-line-93CH-4603254</guid>
+      <pubDate>08/04/2026 10:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Zapata Quantum anuncia ações preferenciais Série D de US$ 6,7 milhões e venda de warrants</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-price-today-wednesday-april-8-prices-rise-after-announcement-of-us-iran-ceasefire-110829477.html</guid>
       <pubDate>08/04/2026 08:34</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/Oa7DO4jl9HF3ik1etGzo7Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/wednesday.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 2 ações de defesa que valem a pena comprar à medida que as tensões globais continuam</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/2-defense-stocks-worth-buying-112500049.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-defense-stocks-worth-buying-112500049.html</guid>
-      <pubDate>08/04/2026 08:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a8e316be6e42622722ee220726b3a14d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
