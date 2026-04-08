@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 07:10:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:14:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Taxas de hipoteca e refinanciamento hoje, 8 de abril de 2026: Pequenos movimentos de queda estão aumentando</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-april-8-2026-100000542.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-april-8-2026-100000542.html</guid>
+      <pubDate>08/04/2026 07:14</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/58d84be0-fc1f-11ee-bffb-9ac8a2f8fca0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise-Evangélicos amplificam o enquadramento religioso de Trump sobre a guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-equalweight-stock-rating-on-netflix-shares-93CH-4602220</guid>
       <pubDate>08/04/2026 05:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Trump diz acreditar que a China fez com que o Irã negociasse, informa a AFP</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/trump-says-he-believes-china-got-iran-to-negotiate-afp-reports-4602192</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-says-he-believes-china-got-iran-to-negotiate-afp-reports-4602192</guid>
-      <pubDate>08/04/2026 05:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370G8_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
