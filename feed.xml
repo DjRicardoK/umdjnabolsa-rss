@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 11:40:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 11:43:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mizuho reitera classificação das ações da Terns Pharmaceuticals em Neutro</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/mizuho-reiterates-terns-pharmaceuticals-stock-rating-at-neutral-93CH-4603471</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/mizuho-reiterates-terns-pharmaceuticals-stock-rating-at-neutral-93CH-4603471</guid>
+      <pubDate>08/04/2026 11:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Quer $ 15.000 em renda passiva? Invista $ 25.000 nessas 3 ações de dividendos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-apple-foldable-iphone-on-track-for-release-later-this-year-broadcom-stock-rises-144220466.html</guid>
       <pubDate>08/04/2026 09:48</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/3c570aa0-234c-11f1-9bff-a4b40e3f3291" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Cantor Fitzgerald mantém classificação das ações da Amgen antes dos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-maintains-amgen-stock-rating-ahead-of-earnings-93CH-4602998</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-maintains-amgen-stock-rating-ahead-of-earnings-93CH-4602998</guid>
-      <pubDate>08/04/2026 09:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
