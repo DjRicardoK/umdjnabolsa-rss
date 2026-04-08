@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 20:41:46 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 20:48:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O Google acabou de dar um soco nessas ações de tecnologia de alto nível - não se deixe enganar pela...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/google-just-sucker-punched-highflying-154400970.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/google-just-sucker-punched-highflying-154400970.html</guid>
+      <pubDate>08/04/2026 20:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketwatch_hosted_869/f513a5436c91ee713abbdd46b812976a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street otimista em relação à Boeing Company (BA), apesar dos recentes cortes nas metas de preço</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-constellation-brands-stock-rating-on-guidance-93CH-4604319</guid>
       <pubDate>08/04/2026 19:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações caem e preços do petróleo sobem com temores de escalada da guerra no Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-tumble-crude-prices-jump-141253869.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-tumble-crude-prices-jump-141253869.html</guid>
-      <pubDate>08/04/2026 19:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bc1ca70c2b48d920c5437c60396a6beb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
