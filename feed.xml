@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 12:18:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 12:19:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os registros da Tesla se recuperaram nos principais mercados. As ações ainda encontram resistência.</title>
+      <description></description>
+      <link>https://www.investors.com/news/tesla-sales-stock-market-electric-vehicles-evs-model-3-model-y-elon-musk/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/tesla-sales-stock-market-electric-vehicles-evs-model-3-model-y-elon-musk/?src=A00220&yptr=yahoo</guid>
+      <pubDate>08/04/2026 12:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/c23c648fd625a38e1b0981c37c9bf497" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Estoques globais de energia despencam quando cessar-fogo EUA-Irã atinge petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/oil-prices-dive-hormuz-strait-opening-sp-500-stocks-ual-ccl-fcx-nem-cat/?src=A00220&yptr=yahoo</guid>
       <pubDate>08/04/2026 11:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/82b02e9f963b4ecae4902ee6b7eb99e3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A estratégia de dividendos da Clearbridge reduziu a Broadcom (AVGO) devido à diminuição da perspectiva de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/clearbridge-dividend-strategy-trimmed-broadcom-134847454.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/clearbridge-dividend-strategy-trimmed-broadcom-134847454.html</guid>
-      <pubDate>08/04/2026 11:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2810c432dfb8f6d2c2dfc4c8864501a6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
