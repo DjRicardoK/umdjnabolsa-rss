@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 08:16:27 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 08:26:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preço do ouro e da prata hoje, quarta-feira, 8 de abril: Os preços sobem após o anúncio do cessar-fogo EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/insurance/article/gold-and-silver-price-today-wednesday-april-8-prices-rise-after-announcement-of-us-iran-ceasefire-110829477.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/insurance/article/gold-and-silver-price-today-wednesday-april-8-prices-rise-after-announcement-of-us-iran-ceasefire-110829477.html</guid>
+      <pubDate>08/04/2026 08:26</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Oa7DO4jl9HF3ik1etGzo7Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/wednesday.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas de hipotecas nos EUA caem para 6,51%, diz MBA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/pope-leo-praises-iran-war-ceasefire-after-criticizing-trump-threat-4602306</guid>
       <pubDate>08/04/2026 06:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370HF_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bancos globais reduzem apelos de corte de taxas na China e veem taxa básica suspensa este ano</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/global-banks-scale-back-china-ratecut-calls-see-policy-rate-on-hold-this-year-4602258</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-banks-scale-back-china-ratecut-calls-see-policy-rate-on-hold-this-year-4602258</guid>
-      <pubDate>08/04/2026 05:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370H9_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
