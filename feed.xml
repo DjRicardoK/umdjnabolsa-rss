@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 19:59:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 20:14:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Kanzhun (BZ): as melhores ações da NASDAQ em baixa de 52 semanas para comprar agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/kanzhun-bz-best-52-week-152121600.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kanzhun-bz-best-52-week-152121600.html</guid>
+      <pubDate>08/04/2026 20:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/30db190a0efefccdd1ab15286fa60ee9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos trimestrais do eBay: o que você precisa saber</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-resources-connection-q3-2026-misses-eps-stock-rises-93CH-4604280</guid>
       <pubDate>08/04/2026 18:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Morgan Stanley atualizado para compra pelo UBS com alta de 18% à medida que as ações do banco são liquidadas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-upgraded-buy-ubs-133532365.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-upgraded-buy-ubs-133532365.html</guid>
-      <pubDate>08/04/2026 18:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/730be659861b0f16f8cd20a8d93562d0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
