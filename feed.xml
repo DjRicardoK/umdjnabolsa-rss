@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 02:25:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 02:58:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE É assim que o aumento dos preços do petróleo impulsionará a inflação</title>
+      <description></description>
+      <link>https://www.investors.com/news/oil-prices-inflation-march-cpi-iran/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/oil-prices-inflation-march-cpi-iran/?src=A00220&yptr=yahoo</guid>
+      <pubDate>08/04/2026 02:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/aedb523180831ef4df642397497ba05f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Casos de falência no Japão aumentam à medida que conflito no Irã aumenta custos, diz think tank</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-korea-to-hold-rates-at-250-as-wardriven-uncertainty-persists-reuters-poll-4601875</guid>
       <pubDate>07/04/2026 21:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3700T_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar cai enquanto o cessar-fogo de Trump provoca uma mudança de risco para os mercados</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/dollar-drops-as-trump-ceasefire-prompts-riskon-turn-for-markets-4601853</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-drops-as-trump-ceasefire-prompts-riskon-turn-for-markets-4601853</guid>
-      <pubDate>07/04/2026 21:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM36192_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
