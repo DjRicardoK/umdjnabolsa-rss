@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 19:11:50 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:16:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Evercore ISI reitera classificação de ações da Constellation Brands na orientação</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-constellation-brands-stock-rating-on-guidance-93CH-4604319</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-constellation-brands-stock-rating-on-guidance-93CH-4604319</guid>
+      <pubDate>08/04/2026 19:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações caem e preços do petróleo sobem com temores de escalada da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-price-targets-121610904.html</guid>
       <pubDate>08/04/2026 17:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/8239aecabfe6736ae08c5240d95b924c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da EQT</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/expect-eqt-q1-2026-earnings-121645079.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/expect-eqt-q1-2026-earnings-121645079.html</guid>
-      <pubDate>08/04/2026 17:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c4193d8a8c2fc8753bf5df3e63924ec9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
