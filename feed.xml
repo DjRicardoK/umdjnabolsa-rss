@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:56:03 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 05:58:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bancos globais reduzem apelos de corte de taxas na China e veem taxa básica suspensa este ano</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/global-banks-scale-back-china-ratecut-calls-see-policy-rate-on-hold-this-year-4602258</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-banks-scale-back-china-ratecut-calls-see-policy-rate-on-hold-this-year-4602258</guid>
+      <pubDate>08/04/2026 05:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370H9_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O que o mercado está avaliando agora para as taxas de juros do Fed e dos bancos centrais globais após o...</title>
       <description>O cessar-fogo de duas semanas acordado entre os EUA e o Irão deixou os investidores menos preocupados com a possibilidade de os principais bancos centrais aumentarem os custos dos...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-suffered-longest-losing-203028686.html</guid>
       <pubDate>08/04/2026 04:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/91824b233e343289f509dff4ebe5b6bb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações terminam em alta com esperanças de cessar-fogo no Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-iran-ceasefire-203442233.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-finish-higher-iran-ceasefire-203442233.html</guid>
-      <pubDate>08/04/2026 04:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bc1ca70c2b48d920c5437c60396a6beb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
