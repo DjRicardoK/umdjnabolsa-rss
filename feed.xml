@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:18:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 05:26:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Trump buscará estabilidade com Xi da China na reunião de maio, diz USTR Greer</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/ustr-greer-says-economic-relationship-with-china-is-stable-4600962</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/ustr-greer-says-economic-relationship-with-china-is-stable-4600962</guid>
+      <pubDate>08/04/2026 05:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM360UL_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Blackbird integra biblioteca Epidemic Sound em elevate.io</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/2-reasons-why-microsoft-stock-has-been-shredded-193820175.html</guid>
       <pubDate>08/04/2026 04:01</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/c9b1af30-2c35-11f1-a2b5-5e45bfbd19e3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do petróleo sobem com temores de escalada da guerra no Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/crude-prices-climb-fears-escalation-192121915.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/crude-prices-climb-fears-escalation-192121915.html</guid>
-      <pubDate>08/04/2026 04:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b38318330c92ac93a081252350c20f53" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
