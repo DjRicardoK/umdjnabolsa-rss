@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 10:17:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 10:19:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Zapata Quantum anuncia ações preferenciais Série D de US$ 6,7 milhões e venda de warrants</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/zapata-quantum-announces-67-million-series-d-preferred-stock-and-warrant-sale-93CH-4603259</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/zapata-quantum-announces-67-million-series-d-preferred-stock-and-warrant-sale-93CH-4603259</guid>
+      <pubDate>08/04/2026 10:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Morgan Stanley reitera classificação das ações da Axon Enterprise sobre perspectivas de crescimento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-defense-stocks-worth-buying-112500049.html</guid>
       <pubDate>08/04/2026 08:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/a8e316be6e42622722ee220726b3a14d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Needham reitera classificação das ações da Nutanix sobre metas de crescimento</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/needham-reiterates-nutanix-stock-rating-on-growth-targets-93CH-4602747</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/needham-reiterates-nutanix-stock-rating-on-growth-targets-93CH-4602747</guid>
-      <pubDate>08/04/2026 08:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
