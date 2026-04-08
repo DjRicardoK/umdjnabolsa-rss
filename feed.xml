@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 15:40:49 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 15:42:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE É aqui que os preços do gás e as tarifas aéreas poderão cair se o cessar-fogo do Irã se mantiver</title>
+      <description>Os mercados de ações subiram na quarta-feira, mas os motoristas não deveriam prender a respiração à espera de um retorno aos preços da gasolina anteriores à guerra.</description>
+      <link>https://www.marketwatch.com/story/heres-when-gas-prices-and-airfares-could-go-down-if-the-iran-cease-fire-holds-4b0f775b?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/heres-when-gas-prices-and-airfares-could-go-down-if-the-iran-cease-fire-holds-4b0f775b?mod=mw_rss_topstories</guid>
+      <pubDate>08/04/2026 15:42</pubDate>
+      <enclosure url="https://images.mktw.net/im-84507416" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Daly, do Fed, diz que os fundamentos econômicos dos EUA estão em um “bom lugar”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-artificial-intelligence-ai-stocks-162500689.html</guid>
       <pubDate>08/04/2026 13:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/5e7cd2ab9b16c15f3ddf900eb3a6455f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE JPMorgan x Bank of America: Wall Street tem uma ação claramente favorita no momento</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jpmorgan-vs-bank-america-wall-162410567.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jpmorgan-vs-bank-america-wall-162410567.html</guid>
-      <pubDate>08/04/2026 13:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/305feb150b755dec59ea7c234b7ac9da" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
