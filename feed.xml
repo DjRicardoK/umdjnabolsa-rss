@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 09:48:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 09:58:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bernstein reitera classificação das ações da Simply Good Foods na perspectiva da Atkins</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bernstein-reiterates-simply-good-foods-stock-rating-on-atkins-outlook-93CH-4603122</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-simply-good-foods-stock-rating-on-atkins-outlook-93CH-4603122</guid>
+      <pubDate>08/04/2026 09:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de tecnologia hoje: iPhone dobrável da Apple a caminho do lançamento ainda este ano, ações da Broadcom...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-mortgage-rates-edge-down-to-651-mba-says-4602718</guid>
       <pubDate>08/04/2026 08:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370N6_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Regeneron espera que a cobrança de DPI&amp;D de US$ 102 milhões impacte os lucros do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/regeneron-expects-102-million-iprd-charge-to-impact-q1-2026-earnings-93CH-4602719</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/regeneron-expects-102-million-iprd-charge-to-impact-q1-2026-earnings-93CH-4602719</guid>
-      <pubDate>08/04/2026 08:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
