@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 09:44:34 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 09:48:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de tecnologia hoje: iPhone dobrável da Apple a caminho do lançamento ainda este ano, ações da Broadcom...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-apple-foldable-iphone-on-track-for-release-later-this-year-broadcom-stock-rises-144220466.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-apple-foldable-iphone-on-track-for-release-later-this-year-broadcom-stock-rises-144220466.html</guid>
+      <pubDate>08/04/2026 09:48</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/3c570aa0-234c-11f1-9bff-a4b40e3f3291" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Cantor Fitzgerald mantém classificação das ações da Amgen antes dos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/regeneron-expects-102-million-iprd-charge-to-impact-q1-2026-earnings-93CH-4602719</guid>
       <pubDate>08/04/2026 08:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preço do ouro e da prata hoje, quarta-feira, 8 de abril: Ouro sobe após anúncio do cessar-fogo EUA-Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/insurance/article/gold-and-silver-price-today-wednesday-april-8-gold-rises-after-announcement-of-us-iran-ceasefire-110829458.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/insurance/article/gold-and-silver-price-today-wednesday-april-8-gold-rises-after-announcement-of-us-iran-ceasefire-110829458.html</guid>
-      <pubDate>08/04/2026 08:15</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Oa7DO4jl9HF3ik1etGzo7Q--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/wednesday.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
