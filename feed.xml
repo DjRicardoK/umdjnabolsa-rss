@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 04:05:34 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 04:20:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Analistas cortam metas de preços da Tesla enquanto reguladores fecham investigação</title>
+      <description></description>
+      <link>https://www.investors.com/news/tesla-elon-musk-electric-vehicles-cars-autos-robotaxi/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/tesla-elon-musk-electric-vehicles-cars-autos-robotaxi/?src=A00220&yptr=yahoo</guid>
+      <pubDate>08/04/2026 04:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/1f9ca63dfc45c941b2c0beff41c79ad5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Greatland Resources reporta produção trimestral de ouro de 82.723 onças</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/japan-bankruptcy-cases-seen-rising-as-iran-conflict-lifts-costs-think-tank-says-4601925</guid>
       <pubDate>08/04/2026 02:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM37078_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 358.023 razões para considerar a venda de ações da Tesla aqui</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/358-023-reasons-consider-selling-172355385.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/358-023-reasons-consider-selling-172355385.html</guid>
-      <pubDate>08/04/2026 02:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c9768b724915bd5726850b8bf3f4cf93" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
