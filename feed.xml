@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 08:44:50 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 08:45:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Guggenheim reitera classificação das ações da Bristol-Myers Squibb em Buy</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-bristolmyers-squibb-stock-rating-at-buy-93CH-4602783</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-bristolmyers-squibb-stock-rating-at-buy-93CH-4602783</guid>
+      <pubDate>08/04/2026 08:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE6P1NM_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que estou comprando ações de crescimento enquanto todo mundo está vendendo tecnologia em pânico</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/analysisevangelicals-amplify-trumps-religious-framing-of-iran-war-4602417</guid>
       <pubDate>08/04/2026 07:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370K1_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citizens reitera classificação das ações da Genius Sports sobre perspectivas de jogos</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-genius-sports-stock-rating-on-gaming-outlook-93CH-4602365</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-genius-sports-stock-rating-on-gaming-outlook-93CH-4602365</guid>
-      <pubDate>08/04/2026 07:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
