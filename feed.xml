@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:00:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 05:06:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Stellantis em negociações avançadas para desenvolver Opel EV com a Leapmotor da China, dizem fontes</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/stellantis-in-advanced-talks-to-develop-opel-ev-with-chinas-leapmotor-sources-say-4602011</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stellantis-in-advanced-talks-to-develop-opel-ev-with-chinas-leapmotor-sources-say-4602011</guid>
+      <pubDate>08/04/2026 05:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM370CG_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os estoques de produtos químicos dispararam diante das esperanças do Irã. Wall Street diz que é hora de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-could-headed-third-degrowth-190533330.html</guid>
       <pubDate>08/04/2026 03:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b2e22199ba6dcf5e8f8124433ab1030c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs e Morgan Stanley são vistos aproveitando o boom comercial à medida que as negociações se mantêm...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-morgan-stanley-seen-185500457.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-morgan-stanley-seen-185500457.html</guid>
-      <pubDate>08/04/2026 03:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/proactive_us_504/2658b8f0635791ff84bcb2f959deac38" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
