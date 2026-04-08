@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:31:44 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 05:45:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Barclays reitera classificação de ações Equalweight para ações da Netflix</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/barclays-reiterates-equalweight-stock-rating-on-netflix-shares-93CH-4602220</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-equalweight-stock-rating-on-netflix-shares-93CH-4602220</guid>
+      <pubDate>08/04/2026 05:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Trump diz acreditar que a China fez com que o Irã negociasse, informa a AFP</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/former-australian-soldier-to-remain-in-jail-after-being-charged-with-afghan-war-crimes-4601895</guid>
       <pubDate>08/04/2026 04:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3701X_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar enfraquece com esperanças de cessar-fogo no Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-iran-ceasefire-hopes-193730855.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-iran-ceasefire-hopes-193730855.html</guid>
-      <pubDate>08/04/2026 04:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0d2930021ab714cff3f9a0b9dbce099d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
