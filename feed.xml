@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 17:04:02 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:04:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais do Mid-America Apartment: o que você precisa saber</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/mid-america-apartments-quarterly-earnings-113656126.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mid-america-apartments-quarterly-earnings-113656126.html</guid>
+      <pubDate>08/04/2026 17:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/7bf82eebe4ea6c2c59501ece58c5f3d3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos trimestrais da GE HealthCare: o que você precisa saber</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/brent-oil-stressed-not-broken-093240242.html</guid>
       <pubDate>08/04/2026 15:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/8c4ddec05e325af028693a9eb351b285" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os medos da estagflação estão voltando à cena? Aqui está o que o presidente do Fed e dos dados, Jerome...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/stagflation-fears-creeping-back-picture-092600654.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/stagflation-fears-creeping-back-picture-092600654.html</guid>
-      <pubDate>08/04/2026 15:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/d80596ad4c5b6a6b630cbe973fac7193" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
