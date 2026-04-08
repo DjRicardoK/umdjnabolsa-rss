@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 19:16:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:26:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Veritone (VERI) integra Thorn Detect ao pacote de gerenciamento de evidências</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/veritone-veri-integrates-thorn-detect-143012716.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/veritone-veri-integrates-thorn-detect-143012716.html</guid>
+      <pubDate>08/04/2026 19:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/89894eca51b93f0a51358ab0620a7463" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Evercore ISI reitera classificação de ações da Constellation Brands na orientação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-moodys-earnings-release-122127446.html</guid>
       <pubDate>08/04/2026 17:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/eb3d62b404d96c81efd325e89c329424" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs aumenta metas de preço em 11% e mais em 3 Blue Chips de dividendos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-price-targets-121610904.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-price-targets-121610904.html</guid>
-      <pubDate>08/04/2026 17:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/8239aecabfe6736ae08c5240d95b924c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
