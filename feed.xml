@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 18:23:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 18:41:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados da PTC Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-ptc-inc-earnings-132715845.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-ptc-inc-earnings-132715845.html</guid>
+      <pubDate>08/04/2026 18:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6f19c667eee7b675818d43f71e25f37a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mizuho reduz a meta de preço das ações da ExxonMobil devido aos ventos contrários nos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazon-stock-stuck-bubble-digital-120002173.html</guid>
       <pubDate>08/04/2026 17:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/0eec48aa19bd8939739b4615831b5272" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Como a Guerra do Irão está a remodelar a estratégia global de IA</title>
-      <description></description>
-      <link>https://www.investors.com/news/iran-war-the-end-of-the-middle-east-as-a-safe-ai-hub/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/iran-war-the-end-of-the-middle-east-as-a-safe-ai-hub/?src=A00220&yptr=yahoo</guid>
-      <pubDate>08/04/2026 17:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/59b8b11e94a38ca456be93d5edd63793" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
