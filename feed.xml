@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 08:26:24 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 08:26:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Needham reitera classificação das ações da Nutanix sobre metas de crescimento</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/needham-reiterates-nutanix-stock-rating-on-growth-targets-93CH-4602747</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/needham-reiterates-nutanix-stock-rating-on-growth-targets-93CH-4602747</guid>
+      <pubDate>08/04/2026 08:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Exxon e Shell revelam impacto na produção da guerra no Irã</title>
       <description>As grandes petrolíferas integradas Exxon Mobil e Shell revelaram como a guerra no Irão prejudicou a produção no primeiro trimestre.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-market-perform-on-duolingo-stock-ahead-of-1q26-93CH-4602355</guid>
       <pubDate>08/04/2026 06:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citizens reitera classificação das ações da DraftKings sobre perspectivas de jogos</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-draftkings-stock-rating-on-gaming-outlook-93CH-4602356</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-draftkings-stock-rating-on-gaming-outlook-93CH-4602356</guid>
-      <pubDate>08/04/2026 06:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
