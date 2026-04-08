@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 08:15:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 08:16:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Regeneron espera que a cobrança de DPI&amp;D de US$ 102 milhões impacte os lucros do primeiro trimestre de 2026</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/regeneron-expects-102-million-iprd-charge-to-impact-q1-2026-earnings-93CH-4602719</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/regeneron-expects-102-million-iprd-charge-to-impact-q1-2026-earnings-93CH-4602719</guid>
+      <pubDate>08/04/2026 08:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preço do ouro e da prata hoje, quarta-feira, 8 de abril: Ouro sobe após anúncio do cessar-fogo EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/what-the-market-is-now-pricing-for-fed-and-global-central-bank-interest-rates-after-the-cease-fire-6e0d3d2e?mod=mw_rss_topstories</guid>
       <pubDate>08/04/2026 05:56</pubDate>
       <enclosure url="https://images.mktw.net/im-95851681" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Erasca (ERAS) entre as ações com melhor desempenho do primeiro trimestre de 2026 a serem observadas no...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/erasca-eras-among-best-performing-210759225.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/erasca-eras-among-best-performing-210759225.html</guid>
-      <pubDate>08/04/2026 05:53</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3db73d468193b59930d3561b4c721be6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
