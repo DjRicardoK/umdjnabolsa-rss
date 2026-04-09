@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 21:47:45 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 21:57:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O bilionário Warren Buffett diz que vendeu suas ações favoritas “muito cedo”. Os investidores devem dar ré no...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-warren-buffett-says-sold-132000335.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/billionaire-warren-buffett-says-sold-132000335.html</guid>
+      <pubDate>08/04/2026 21:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/70a8108d3e26f2768ae3a06539a8bc85" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Ásia tornam-se cautelosas à medida que a realidade se intromete no Golfo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wix-com-wix-among-most-145608421.html</guid>
       <pubDate>08/04/2026 19:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/864b373a3f4827ffd837e93f2f32dac6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Micron é uma das ações de crescimento mais acessíveis no momento, veja como</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/micron-one-most-affordable-growth-145558678.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-one-most-affordable-growth-145558678.html</guid>
-      <pubDate>08/04/2026 19:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7d399543e69dabf11818fd1579766030" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
