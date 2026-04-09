@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 08:04:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 08:05:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Humana (HUM) sobe 7,9% antes dos ganhos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/humana-hum-climbs-7-9-003231397.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/humana-hum-climbs-7-9-003231397.html</guid>
+      <pubDate>09/04/2026 08:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/af05b33ae767e493fa5257de4cbf27ea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Um boom de lucros está chegando e pode surpreender os baixistas do mercado de ações</title>
       <description>Wall Street espera que os lucros atinjam o máximo em quatro anos. Isso é muito conservador, segundo o Deutsche Bank.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/thor-explorations-reports-record-profit-on-higher-gold-output-93CH-4604628</guid>
       <pubDate>09/04/2026 04:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Enquanto os touros e os ursos lutam pela IA, US$ 350 é o número-chave a ser observado para as ações da...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bulls-bears-battle-over-ai-190013059.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bulls-bears-battle-over-ai-190013059.html</guid>
-      <pubDate>09/04/2026 03:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b631a54593e7893faf796763c784e6be" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
