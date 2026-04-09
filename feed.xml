@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 22:40:24 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 23:03:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 8 de abril é um grande dia para o digital aplicado. Wall Street diz que as ações podem dobrar.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/april-8-big-day-applied-142655484.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/april-8-big-day-applied-142655484.html</guid>
+      <pubDate>08/04/2026 23:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/501fabd1c48abd16ac0df3d494f75065" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do ouro caem à medida que traders avaliam novas tensões no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-boeing-company-155105547.html</guid>
       <pubDate>08/04/2026 20:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/035e26fb784fa77bacf0a38c8a272c2e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Align Technology</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/expect-align-technologys-q1-2026-154609906.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/expect-align-technologys-q1-2026-154609906.html</guid>
-      <pubDate>08/04/2026 20:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/916e979632a58aa9d8d1c64d19ed6440" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
