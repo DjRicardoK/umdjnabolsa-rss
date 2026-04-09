@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 16:54:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:00:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Presidente do Panamá busca acalmar tensões na China</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/panama-president-seeks-to-calm-china-tensions-4606478</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/panama-president-seeks-to-calm-china-tensions-4606478</guid>
+      <pubDate>09/04/2026 16:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM381AC_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A American Express Company (AXP) é uma ação ridiculamente barata para comprar, de acordo com Wall Street?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/tesla-stock-shanghai-gigafactory-model-y-elon-musk-china-auto-sales/?src=A00220&yptr=yahoo</guid>
       <pubDate>09/04/2026 14:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/ac049658febdec20ffded13965a10d9f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O plano de EV de baixo custo da Tesla aumentou o volume, arriscando as margens</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/teslas-lowercost-ev-plan-seen-boosting-volume-risking-margins-4606360</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/teslas-lowercost-ev-plan-seen-boosting-volume-risking-margins-4606360</guid>
-      <pubDate>09/04/2026 14:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38157_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
