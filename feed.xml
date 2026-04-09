@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 23:51:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 23:56:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Perdas de ações aumentam à medida que a guerra no Irã parece se intensificar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stock-losses-deepen-iran-war-151217382.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-losses-deepen-iran-war-151217382.html</guid>
+      <pubDate>08/04/2026 23:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Analista explica por que a ontologia separa Palantir (PLTR) de pares</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-turn-cautious-as-reality-intrudes-in-gulf-4604466</guid>
       <pubDate>08/04/2026 21:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3800T_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Crown Castle: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/crown-castles-q1-2026-earnings-125130419.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/crown-castles-q1-2026-earnings-125130419.html</guid>
-      <pubDate>08/04/2026 21:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/59d742a5f75bdf49afb8833a66e4a47f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
