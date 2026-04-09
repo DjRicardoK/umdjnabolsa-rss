@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 09:39:08 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:56:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação do PCE nos EUA aumenta em fevereiro; gastos do consumidor sólidos</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/us-pce-inflation-picks-up-in-february-consumer-spending-solid-4605652</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-pce-inflation-picks-up-in-february-consumer-spending-solid-4605652</guid>
+      <pubDate>09/04/2026 09:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM380S9_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE CEO da Amazon afirma que o negócio de chips está &apos;em chamas&apos; enquanto a AWS intensifica o desafio para a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/exclusivetesla-is-developing-a-new-smaller-cheaper-ev-sources-say-4604856</guid>
       <pubDate>09/04/2026 07:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM380JD_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon arquiva carta anual aos acionistas e reconciliação não-GAAP com a SEC</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/amazon-files-annual-shareholder-letter-and-nongaap-reconciliation-with-sec-93CH-4604901</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/amazon-files-annual-shareholder-letter-and-nongaap-reconciliation-with-sec-93CH-4604901</guid>
-      <pubDate>09/04/2026 07:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/amazon_M_1440049058.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
