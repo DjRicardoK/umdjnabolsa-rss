@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 02:41:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 02:41:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE BofA nomeia principais ações de semicondutores da Ásia-Pacífico devido à demanda de chips de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/bofa-names-top-asiapacific-semiconductor-stocks-on-ai-chip-demand-93CH-4604519</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bofa-names-top-asiapacific-semiconductor-stocks-on-ai-chip-demand-93CH-4604519</guid>
+      <pubDate>09/04/2026 02:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Aluminum Corp of China sobem com forte previsão de lucro no primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/trade-desk-ttd-one-best-145617345.html</guid>
       <pubDate>08/04/2026 23:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1761ca2f550d1ad6dde5de4712006856" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O acordo da Nvidia (NVDA) com o concorrente Marvell (MRVL) apenas fortalece seu próprio ecossistema, veja como</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-deal-competitor-marvell-145807589.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-deal-competitor-marvell-145807589.html</guid>
-      <pubDate>08/04/2026 23:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2bdd57cc5c2e6a8b38233389d9ea67fb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
