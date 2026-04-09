@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 08:27:21 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:03:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os futuros do Dow Jones caem, os preços do petróleo se aproximam dos US$ 100 em meio a dúvidas sobre o...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-ceasefire-bullish-market-google-nvidia-parent/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-ceasefire-bullish-market-google-nvidia-parent/?src=A00220&yptr=yahoo</guid>
+      <pubDate>09/04/2026 09:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/e161acb197d33c555d3b68394b8f5703" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mizuho reitera desempenho superior em ações da Expand Energy, meta de US$ 145</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories</guid>
       <pubDate>09/04/2026 05:21</pubDate>
       <enclosure url="https://images.mktw.net/im-24194846" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Citi permanece otimista em relação aos bancos europeus e atualiza duas ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/citi-stays-bullish-on-european-banks-upgrades-two-stocks-4604682</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/citi-stays-bullish-on-european-banks-upgrades-two-stocks-4604682</guid>
-      <pubDate>09/04/2026 05:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC9I0KP_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
