@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 16:38:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 16:38:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Paramount sela compromissos de dívida apoiando acordo com a Warner Bros.</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/paramount-seals-debt-commitments-backing-warner-bros-deal-4606359</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/paramount-seals-debt-commitments-backing-warner-bros-deal-4606359</guid>
+      <pubDate>09/04/2026 16:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3815A_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Starmer, do Reino Unido, diz que o conflito no Irã mostra que a Grã-Bretanha deve seguir um novo caminho</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bilibili-bili-among-7-best-171754381.html</guid>
       <pubDate>09/04/2026 14:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a35ab227d4ce097d1244be995f0db08a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon estocará a nova pílula para perder peso da Lilly em quiosques nos EUA e oferecerá entrega no mesmo dia</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/amazon-to-stock-lillys-new-weightloss-pill-at-us-kiosks-offer-sameday-delivery-4605269</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-to-stock-lillys-new-weightloss-pill-at-us-kiosks-offer-sameday-delivery-4605269</guid>
-      <pubDate>09/04/2026 14:22</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM380NL_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
