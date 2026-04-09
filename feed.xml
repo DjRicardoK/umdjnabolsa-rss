@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 09:33:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:37:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O CEO da Amazon dobra os gastos com IA: ‘Não seremos conservadores’</title>
+      <description>Ecoando os primeiros dias da AWS, a Amazon está ignorando os que duvidam e buscando agressivamente seus investimentos em IA.</description>
+      <link>https://www.marketwatch.com/story/amazons-ceo-doubles-down-on-ai-spending-we-are-not-going-to-be-conservative-6f380944?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/amazons-ceo-doubles-down-on-ai-spending-we-are-not-going-to-be-conservative-6f380944?mod=mw_rss_topstories</guid>
+      <pubDate>09/04/2026 09:37</pubDate>
+      <enclosure url="https://images.mktw.net/im-71032583" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O núcleo do índice de preços PCE se mantém estável, atendendo às expectativas do mercado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-market-outperform-on-terreno-realty-stock-70-target-93CH-4604805</guid>
       <pubDate>09/04/2026 06:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mercedes relata queda nas vendas do primeiro trimestre durante o ‘ano de transição’ para o mercado chinês</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/mercedes-reports-drop-in-q1-sales-during-transition-year-for-china-market-4604765</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/mercedes-reports-drop-in-q1-sales-during-transition-year-for-china-market-4604765</guid>
-      <pubDate>09/04/2026 06:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM380H7_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
