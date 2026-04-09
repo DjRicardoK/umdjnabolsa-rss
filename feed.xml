@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 10:56:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 10:59:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Melhores ações de energia e serviços públicos dos EUA para observar os ganhos do primeiro trimestre: BofA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/best-us-power--utilities-stocks-to-watch-into-q1-earnings-bofa-93CH-4605971</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/best-us-power--utilities-stocks-to-watch-into-q1-earnings-bofa-93CH-4605971</guid>
+      <pubDate>09/04/2026 10:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE6C1R0_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Constellation lidera S&amp;P 500 enquanto ganhos crescentes superam as expectativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/core-pce-price-index-holds-steady-meeting-market-expectations-93CH-4605525</guid>
       <pubDate>09/04/2026 09:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações caem à medida que persiste a cautela sobre a tensão no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-caution-persists-over-middle-east-tension-4605438</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-caution-persists-over-middle-east-tension-4605438</guid>
-      <pubDate>09/04/2026 09:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/London-Stock-Exchange_M_1440049524.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
