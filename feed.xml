@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 01:06:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 01:18:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Raytheon é uma das principais ações de defesa para comprar em meio à Guerra do Irã, mas também se beneficiará...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/raytheon-top-defense-stock-buy-162736111.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/raytheon-top-defense-stock-buy-162736111.html</guid>
+      <pubDate>09/04/2026 01:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/007ec54f7fdc4ea41067317c64d0cf3a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs reduz previsões para o preço do petróleo no segundo trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-vici-properties-next-134909631.html</guid>
       <pubDate>08/04/2026 22:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/1cef6f524a348df41e692272309730bc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Arm rebaixado, Arista Networks atualizado: chamadas dos principais analistas de Wall Street</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/arm-downgraded-arista-networks-upgraded-134709919.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/arm-downgraded-arista-networks-upgraded-134709919.html</guid>
-      <pubDate>08/04/2026 22:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
