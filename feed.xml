@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 19:49:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 19:54:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Super Micro (SMCI) está entre as ações de data center mais vendidas para investir?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-one-most-142331831.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-one-most-142331831.html</guid>
+      <pubDate>09/04/2026 19:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e7e98525ccabeaa87f20d3c767e1f7ef" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da International Paper: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/this-chart-hints-at-a-coming-generational-shift-that-could-remove-a-critical-source-of-demand-for-stocks-be8eb475?mod=mw_rss_topstories</guid>
       <pubDate>09/04/2026 17:35</pubDate>
       <enclosure url="https://images.mktw.net/im-43094444" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da MGM Resorts International</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-mgm-resorts-internationals-next-114849057.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-mgm-resorts-internationals-next-114849057.html</guid>
-      <pubDate>09/04/2026 17:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/12cd2de9c67b2af4fc2ddc4045c633e9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
