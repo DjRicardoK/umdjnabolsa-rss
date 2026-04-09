@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 14:17:51 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 14:22:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Seneca Foods Corp A atingem o máximo histórico de 165,31 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/seneca-foods-corp-a-stock-hits-alltime-high-at-16531-usd-93CH-4606341</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/seneca-foods-corp-a-stock-hits-alltime-high-at-16531-usd-93CH-4606341</guid>
+      <pubDate>09/04/2026 14:22</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2026 da BlackBerry Limited</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/oildri-corp-of-america-stock-hits-alltime-high-at-7167-usd-93CH-4606171</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/oildri-corp-of-america-stock-hits-alltime-high-at-7167-usd-93CH-4606171</guid>
       <pubDate>09/04/2026 12:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Beacon Financial Corp atingem alta de 52 semanas a 32,03 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/beacon-financial-corp-stock-hits-52week-high-at-3203-usd-93CH-4606157</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/beacon-financial-corp-stock-hits-52week-high-at-3203-usd-93CH-4606157</guid>
-      <pubDate>09/04/2026 12:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
