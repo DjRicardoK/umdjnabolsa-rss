@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 01:18:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 01:27:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da Mainz Biomed BV superou US$ 1,11, receita ficou aquém das estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/mainz-biomed-bv-earnings-beat-by-111-revenue-fell-short-of-estimates-4604504</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/mainz-biomed-bv-earnings-beat-by-111-revenue-fell-short-of-estimates-4604504</guid>
+      <pubDate>09/04/2026 01:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Raytheon é uma das principais ações de defesa para comprar em meio à Guerra do Irã, mas também se beneficiará...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/buy-tech-stocks-goldman-sachs-7381121e?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>08/04/2026 22:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/c63d254d83f65145fd0536f2dbdf80b8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da VICI Properties</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-vici-properties-next-134909631.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-vici-properties-next-134909631.html</guid>
-      <pubDate>08/04/2026 22:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1cef6f524a348df41e692272309730bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
