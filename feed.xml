@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 14:53:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 14:53:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O plano de EV de baixo custo da Tesla aumentou o volume, arriscando as margens</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/teslas-lowercost-ev-plan-seen-boosting-volume-risking-margins-4606360</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/teslas-lowercost-ev-plan-seen-boosting-volume-risking-margins-4606360</guid>
+      <pubDate>09/04/2026 14:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38157_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Trustmark Corporation atingem o máximo histórico de 45,45 USD</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/state-street-corp-stock-hits-alltime-high-at-13705-usd-93CH-4606204</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/state-street-corp-stock-hits-alltime-high-at-13705-usd-93CH-4606204</guid>
       <pubDate>09/04/2026 13:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da AAR Corp atingem o máximo histórico em 122,98 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/aar-corp-stock-hits-alltime-high-at-12298-usd-93CH-4606205</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/aar-corp-stock-hits-alltime-high-at-12298-usd-93CH-4606205</guid>
-      <pubDate>09/04/2026 13:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
