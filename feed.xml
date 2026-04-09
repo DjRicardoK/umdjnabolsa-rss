@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:15:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:15:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Exclusive-Tesla está desenvolvendo um novo EV menor e mais barato, dizem fontes</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/exclusivetesla-is-developing-a-new-smaller-cheaper-ev-sources-say-4604856</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/exclusivetesla-is-developing-a-new-smaller-cheaper-ev-sources-say-4604856</guid>
+      <pubDate>09/04/2026 07:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM380JD_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Amazon arquiva carta anual aos acionistas e reconciliação não-GAAP com a SEC</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/why-gold-silver-prices-become-184539048.html</guid>
       <pubDate>09/04/2026 03:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/8133ba4238d9240057b252bedc8f2276" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump alerta para grande escalada da guerra se o processo de paz no Irão falhar</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/trump-warns-of-major-war-escalation-if-iran-peace-process-fails-4604558</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-warns-of-major-war-escalation-if-iran-peace-process-fails-4604558</guid>
-      <pubDate>09/04/2026 03:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3809O_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
