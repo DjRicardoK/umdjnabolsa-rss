@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 01:48:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 01:51:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bendigo e Adelaide Bank sinalizam cortes de empregos em impulso de IA e registram aumento nos lucros do...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/australias-bendigo-bank-posts-13-jump-in-thirdquarter-earnings-confirms-layoffs-4604432</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australias-bendigo-bank-posts-13-jump-in-thirdquarter-earnings-confirms-layoffs-4604432</guid>
+      <pubDate>09/04/2026 01:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Investidores estrangeiros investem US$ 18,65 bilhões em ações japonesas após três semanas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/april-8-big-day-applied-142655484.html</guid>
       <pubDate>08/04/2026 23:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/501fabd1c48abd16ac0df3d494f75065" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do ouro caem à medida que traders avaliam novas tensões no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-tick-lower-as-traders-weigh-renewed-middle-east-tensions-4604484</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-tick-lower-as-traders-weigh-renewed-middle-east-tensions-4604484</guid>
-      <pubDate>08/04/2026 22:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5M0AC_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
