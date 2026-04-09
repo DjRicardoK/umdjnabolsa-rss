@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:31:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:51:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Indonésia sobem no fechamento do pregão; Índice Composto IDX subiu 0,07%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-007-4604703</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-007-4604703</guid>
+      <pubDate>09/04/2026 05:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE310G7_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Penny Stock Xiao-I está surgindo com a conquista de patentes da Apple. Você deve comprar o pouco conhecido...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-consumer-confidence-drops-sharply-in-march-as-middle-east-conflict-weighs-93CH-4604524</guid>
       <pubDate>09/04/2026 03:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 2,02%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-202-4604525</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-202-4604525</guid>
-      <pubDate>09/04/2026 03:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8R190_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
