@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 17:00:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:00:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Spectrum Brands atingem o máximo de 52 semanas a 80,42 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/spectrum-brands-stock-hits-52week-high-at-8042-usd-93CH-4606476</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/spectrum-brands-stock-hits-52week-high-at-8042-usd-93CH-4606476</guid>
+      <pubDate>09/04/2026 17:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Relay Therapeutics atingem o máximo de 52 semanas a 14,98 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-first-american-financial-faf-090844750.html</guid>
       <pubDate>09/04/2026 15:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fc0bddb1ffc43d37e9c5349d73cd963f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Inflação no México dispara em março, alimentando debate dentro do banco central dividido</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/mexico-inflation-spikes-in-march-fueling-debate-within-divided-central-bank-4606401</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/mexico-inflation-spikes-in-march-fueling-debate-within-divided-central-bank-4606401</guid>
-      <pubDate>09/04/2026 15:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3816O_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
