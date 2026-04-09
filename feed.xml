@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:06:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:21:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do petróleo sobem à medida que as preocupações sobre um cessar-fogo “frágil” levam o Goldman a...</title>
+      <description>Os comerciantes receiam que o tráfego através do Estreito de Ormuz ainda esteja restrito.</description>
+      <link>https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/oil-prices-rise-as-concerns-about-fragile-cease-fire-see-goldman-warn-of-115-crude-by-end-of-the-year-0db06f0c?mod=mw_rss_topstories</guid>
+      <pubDate>09/04/2026 05:21</pubDate>
+      <enclosure url="https://images.mktw.net/im-24194846" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Citi permanece otimista em relação aos bancos europeus e atualiza duas ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/analysisas-us-and-iran-talk-truce-israel-digs-in-for-a-forever-war-4604514</guid>
       <pubDate>09/04/2026 02:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3805U_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aves e não mísseis deveriam voar nos céus, diz líder da oposição de Taiwan na China</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/birds-not-missiles-should-fly-in-the-skies-taiwan-opposition-leader-says-in-china-4604511</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/birds-not-missiles-should-fly-in-the-skies-taiwan-opposition-leader-says-in-china-4604511</guid>
-      <pubDate>09/04/2026 02:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3805G_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
