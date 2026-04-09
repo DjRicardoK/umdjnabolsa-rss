@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 19:14:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 19:26:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A Casa Branca alertou a equipe para não fazer apostas de mercado em meio à guerra no Irã, informa o WSJ</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/white-house-warned-staff-not-to-place-market-bets-amid-iran-war-wsj-reports-4606940</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/white-house-warned-staff-not-to-place-market-bets-amid-iran-war-wsj-reports-4606940</guid>
+      <pubDate>09/04/2026 19:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM381EU_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dólar cai e ouro sobe com cessar-fogo EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/american-express-company-axp-ridiculously-094616341.html</guid>
       <pubDate>09/04/2026 16:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a44e70b22da11d3cbca7b31155886c1a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os estoques de software estão tendo um ‘colapso completo’ – e podem cair ainda mais</title>
-      <description>Um estratega observa que o sector está mais uma vez a testar um nível de apoio técnico, o que aumenta a probabilidade de quebrar esse apoio.</description>
-      <link>https://www.marketwatch.com/story/software-stocks-are-having-a-full-fledged-breakdown-and-they-may-fall-even-further-47ecd965?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/software-stocks-are-having-a-full-fledged-breakdown-and-they-may-fall-even-further-47ecd965?mod=mw_rss_topstories</guid>
-      <pubDate>09/04/2026 16:53</pubDate>
-      <enclosure url="https://images.mktw.net/im-13794283" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
