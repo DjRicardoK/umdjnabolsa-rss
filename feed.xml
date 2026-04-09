@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 12:38:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 12:42:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Oil-Dri Corp of America atingem o máximo histórico de 71,67 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/oildri-corp-of-america-stock-hits-alltime-high-at-7167-usd-93CH-4606171</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/oildri-corp-of-america-stock-hits-alltime-high-at-7167-usd-93CH-4606171</guid>
+      <pubDate>09/04/2026 12:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Beacon Financial Corp atingem alta de 52 semanas a 32,03 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/article/amazon-ceo-jassy-says-company-could-sell-ai-chips-raising-stakes-for-nvidia-amd-142835117.html</guid>
       <pubDate>09/04/2026 11:37</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/9d4913a0-340c-11f1-af77-cd111f4f9a31" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Nanálise Científica perde as expectativas de receita do quarto...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-nanalysis-scientific-misses-q4-2025-revenue-expectations-93CH-4606031</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nanalysis-scientific-misses-q4-2025-revenue-expectations-93CH-4606031</guid>
-      <pubDate>09/04/2026 11:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
