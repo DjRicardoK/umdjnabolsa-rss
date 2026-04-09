@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 07:15:21 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:33:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Estados do Golfo estão de olho em drones interceptadores ucranianos baratos enquanto ataques iranianos drenam...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/gulf-states-eye-cheap-ukrainian-interceptor-drone-as-iranian-attacks-drain-missile-stocks-4604941</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/gulf-states-eye-cheap-ukrainian-interceptor-drone-as-iranian-attacks-drain-missile-stocks-4604941</guid>
+      <pubDate>09/04/2026 07:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3708V_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Exclusive-Tesla está desenvolvendo um novo EV menor e mais barato, dizem fontes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/evercore-isi-lowers-usb-target-192820195.html</guid>
       <pubDate>09/04/2026 03:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/98ace7d177f6baa00a1954de70127d01" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que os preços do ouro e da prata se desviaram dos fundamentos tradicionais</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/why-gold-silver-prices-become-184539048.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/why-gold-silver-prices-become-184539048.html</guid>
-      <pubDate>09/04/2026 03:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8133ba4238d9240057b252bedc8f2276" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
