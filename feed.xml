@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:31:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:31:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Penny Stock Xiao-I está surgindo com a conquista de patentes da Apple. Você deve comprar o pouco conhecido...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/penny-stock-xiao-surging-apple-204741801.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/penny-stock-xiao-surging-apple-204741801.html</guid>
+      <pubDate>09/04/2026 05:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/125a3ae061686d8ab9297ac1378a394f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações se recuperam com esperanças de cessar-fogo no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-202-4604525</guid>
       <pubDate>09/04/2026 03:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8R190_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O humor do consumidor do Japão piora em março com a guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/japans-consumer-mood-worsens-in-march-as-iran-war-bites-4604518</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japans-consumer-mood-worsens-in-march-as-iran-war-bites-4604518</guid>
-      <pubDate>09/04/2026 02:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38074_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
