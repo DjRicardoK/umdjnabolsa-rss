@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 01:00:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 01:06:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs reduz previsões para o preço do petróleo no segundo trimestre de 2026</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/goldman-sachs-lowers-secondquarter-2026-oil-price-forecasts-4604501</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/goldman-sachs-lowers-secondquarter-2026-oil-price-forecasts-4604501</guid>
+      <pubDate>09/04/2026 01:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38047_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Singapura espera apertar a política monetária à medida que a crise energética alimenta a inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/arm-downgraded-arista-networks-upgraded-134709919.html</guid>
       <pubDate>08/04/2026 22:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar se estabiliza enquanto frágil cessar-fogo EUA-Irã pesa sobre os mercados</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/dollar-steadies-as-fragile-usiran-ceasefire-weighs-on-markets-4604474</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-steadies-as-fragile-usiran-ceasefire-weighs-on-markets-4604474</guid>
-      <pubDate>08/04/2026 22:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38016_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
