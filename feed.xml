@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 13:07:42 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:19:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro do BlackBerry superou US$ 0,02, receita superou estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/blackberry-earnings-beat-by-002-revenue-topped-estimates-4606260</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/blackberry-earnings-beat-by-002-revenue-topped-estimates-4606260</guid>
+      <pubDate>09/04/2026 13:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As taxas hipotecárias caem após o cessar-fogo do Irã. Por que esse é um ótimo momento para quem vende uma...</title>
       <description>A temporada de compras de casas na primavera pode ter acabado de aumentar a confiança.</description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/why-is-amazoncom-stock-surging-today-93CH-4606132</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/why-is-amazoncom-stock-surging-today-93CH-4606132</guid>
       <pubDate>09/04/2026 12:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: TCS Q4 2026 mostra forte crescimento, ações sobem 1,16%</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-tcs-q4-2026-shows-strong-growth-stock-rises-116-93CH-4606093</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tcs-q4-2026-shows-strong-growth-stock-rises-116-93CH-4606093</guid>
-      <pubDate>09/04/2026 12:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
