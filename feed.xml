@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 01:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 01:00:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Singapura espera apertar a política monetária à medida que a crise energética alimenta a inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/singapore-expected-to-tighten-monetary-policy-as-energy-crisis-fans-inflation-4604497</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/singapore-expected-to-tighten-monetary-policy-as-energy-crisis-fans-inflation-4604497</guid>
+      <pubDate>09/04/2026 01:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38045_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Coreia do Norte revela míssil bomba cluster e capacidade de guerra eletrônica</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-steadies-as-fragile-usiran-ceasefire-weighs-on-markets-4604474</guid>
       <pubDate>08/04/2026 22:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38016_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE FedEx chega a acordo salarial provisório com pilotos após anos de negociações</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/fedex-reaches-tentative-wage-deal-with-pilots-after-years-of-talks-4604476</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/fedex-reaches-tentative-wage-deal-with-pilots-after-years-of-talks-4604476</guid>
-      <pubDate>08/04/2026 22:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38018_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
