@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:21:46 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:26:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco central da Nova Zelândia pronto para aumentar as taxas se a crise no Oriente Médio alimentar a inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/new-zealand-central-bank-ready-to-raise-rates-if-middle-east-crisis-fuels-inflation-93CH-4604696</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/new-zealand-central-bank-ready-to-raise-rates-if-middle-east-crisis-fuels-inflation-93CH-4604696</guid>
+      <pubDate>09/04/2026 05:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços do petróleo sobem à medida que as preocupações sobre um cessar-fogo “frágil” levam o Goldman a...</title>
       <description>Os comerciantes receiam que o tráfego através do Estreito de Ormuz ainda esteja restrito.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/aluminum-corp-of-china-shares-rise-on-strong-q1-profit-forecast-4604520</guid>
       <pubDate>09/04/2026 02:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED4E0Y0_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise-Enquanto os EUA e o Irã conversam sobre uma trégua, Israel se prepara para uma ‘guerra eterna’</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/analysisas-us-and-iran-talk-truce-israel-digs-in-for-a-forever-war-4604514</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysisas-us-and-iran-talk-truce-israel-digs-in-for-a-forever-war-4604514</guid>
-      <pubDate>09/04/2026 02:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3805U_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
