@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 19:54:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 20:04:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Martin Marietta Materials</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/expect-martin-marietta-materialss-q1-152805805.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-martin-marietta-materialss-q1-152805805.html</guid>
+      <pubDate>09/04/2026 20:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8799429dca3436849e5affc51b843625" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Super Micro (SMCI) está entre as ações de data center mais vendidas para investir?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/automatic-data-processing-earnings-preview-122311848.html</guid>
       <pubDate>09/04/2026 17:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5e8f936c3140d7b4b2c375470b4a7378" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Este gráfico sugere uma próxima mudança geracional que poderia eliminar uma fonte crítica de demanda por ações</title>
-      <description>À medida que os baby boomers se aposentarem, eles passarão de compradores de ações a vendedores.</description>
-      <link>https://www.marketwatch.com/story/this-chart-hints-at-a-coming-generational-shift-that-could-remove-a-critical-source-of-demand-for-stocks-be8eb475?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/this-chart-hints-at-a-coming-generational-shift-that-could-remove-a-critical-source-of-demand-for-stocks-be8eb475?mod=mw_rss_topstories</guid>
-      <pubDate>09/04/2026 17:35</pubDate>
-      <enclosure url="https://images.mktw.net/im-43094444" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
