@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 21:29:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 21:47:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Ásia tornam-se cautelosas à medida que a realidade se intromete no Golfo</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-turn-cautious-as-reality-intrudes-in-gulf-4604466</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-turn-cautious-as-reality-intrudes-in-gulf-4604466</guid>
+      <pubDate>08/04/2026 21:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3800T_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Crown Castle: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-one-most-affordable-growth-145558678.html</guid>
       <pubDate>08/04/2026 19:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7d399543e69dabf11818fd1579766030" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Veja como se espera que o Equinox Gold (EQX) se saia nos próximos 10 anos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/equinox-gold-eqx-expected-next-145524700.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/equinox-gold-eqx-expected-next-145524700.html</guid>
-      <pubDate>08/04/2026 19:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/195ddd50766dc4fa0f12310b0696db20" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
