@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 18:13:28 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 18:17:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 do Grupo EMCOR: O que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/emcor-groups-q1-2026-earnings-130454453.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/emcor-groups-q1-2026-earnings-130454453.html</guid>
+      <pubDate>09/04/2026 18:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja quanto dinheiro o Irã pode ganhar cobrando pedágios de um quinto do petróleo transportado por mar do...</title>
       <description>O Irão não poderá ganhar muito dinheiro com o tráfego através do Estreito de Ormuz quase paralisado, mas pode arrecadar milhares de milhões de yuans chineses, ou centenas de...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/servicetitan-stock-hits-52week-low-at-5795-usd-93CH-4606470</guid>
       <pubDate>09/04/2026 16:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Paramount sela compromissos de dívida apoiando acordo com a Warner Bros.</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/paramount-seals-debt-commitments-backing-warner-bros-deal-4606359</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/paramount-seals-debt-commitments-backing-warner-bros-deal-4606359</guid>
-      <pubDate>09/04/2026 16:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3815A_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
