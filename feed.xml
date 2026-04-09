@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 02:41:59 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 03:06:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 2,02%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-202-4604525</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-202-4604525</guid>
+      <pubDate>09/04/2026 03:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8R190_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O humor do consumidor do Japão piora em março com a guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-says-ready-pounce-retail-150900440.html</guid>
       <pubDate>08/04/2026 23:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/wealth_management_474/dfe101555da44b086b0fd5898799a772" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE FTSE 100 Live: Ações aeronáuticas e de defesa lideram declínio à medida que o prazo de Trump para o Irã se...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-stocks-set-061600866.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-stocks-set-061600866.html</guid>
-      <pubDate>08/04/2026 23:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/proactive_us_504/9712e0cbd4a58fc11ae61014f6acbc0a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
