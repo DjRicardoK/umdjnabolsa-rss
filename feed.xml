@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 08:05:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 08:14:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da Neogen superou US$ 0,03, receita superou estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/neogen-earnings-beat-by-003-revenue-topped-estimates-4605155</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/neogen-earnings-beat-by-003-revenue-topped-estimates-4605155</guid>
+      <pubDate>09/04/2026 08:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Humana (HUM) sobe 7,9% antes dos ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-053-4604630</guid>
       <pubDate>09/04/2026 04:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/TOKYO-STOCK-EXCHANGE-IN-JAPAN-_2_M_1440048949.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Thor Explorations relata lucro recorde com maior produção de ouro</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/thor-explorations-reports-record-profit-on-higher-gold-output-93CH-4604628</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/thor-explorations-reports-record-profit-on-higher-gold-output-93CH-4604628</guid>
-      <pubDate>09/04/2026 04:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
