@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 03:06:32 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 03:08:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Invitation Homes: O que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/invitation-homes-q1-2026-earnings-184623889.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/invitation-homes-q1-2026-earnings-184623889.html</guid>
+      <pubDate>09/04/2026 03:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/7cf7296127d672558c2693e5e5701e3c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A confiança do consumidor no Japão cai acentuadamente em março com o peso do conflito no Médio Oriente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-losses-deepen-iran-war-151217382.html</guid>
       <pubDate>08/04/2026 23:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Analista explica por que a ontologia separa Palantir (PLTR) de pares</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/analyst-explains-why-ontology-separates-150759599.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analyst-explains-why-ontology-separates-150759599.html</guid>
-      <pubDate>08/04/2026 23:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2a1e83d3cf1f479e2ed9d6092ca05aaf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
