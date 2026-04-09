@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 21:07:12 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 21:08:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preço do ouro hoje, terça-feira, 7 de abril: O preço do ouro se mantém à medida que o prazo da guerra se...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-april-7-gold-price-holds-as-war-deadline-looms-110339758.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-april-7-gold-price-holds-as-war-deadline-looms-110339758.html</guid>
+      <pubDate>08/04/2026 21:08</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/xs7mrxGI84M.xOkOI_ISMg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tuesday.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE ARK de Cathie Wood vende ações da Teradyne e compra mais Tesla</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/medicare-advantage-2027-rate-hike-144052776.html</guid>
       <pubDate>08/04/2026 19:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/quartz_855/5235aee413c82bf4193de7ba5667f749" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jefferies reitera classificação das ações da FedEx sobre potencial de cisão</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/jefferies-reiterates-fedex-stock-rating-on-spinoff-potential-93CH-4604321</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-fedex-stock-rating-on-spinoff-potential-93CH-4604321</guid>
-      <pubDate>08/04/2026 19:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
