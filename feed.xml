@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 03:08:46 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 03:18:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Um recorde histórico, além de ótimas receitas e ganhos, fez com que esse estoque de tecnologia se elevasse...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/time-high-plus-great-revenue-182003085.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/time-high-plus-great-revenue-182003085.html</guid>
+      <pubDate>09/04/2026 03:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c895bde2c9f51ad5a3f1c3f479a4b84b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Invitation Homes: O que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-skittish-amid-doubts-over-usiran-ceasefire-4604493</guid>
       <pubDate>09/04/2026 00:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA9Q076_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Perdas de ações aumentam à medida que a guerra no Irã parece se intensificar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stock-losses-deepen-iran-war-151217382.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-losses-deepen-iran-war-151217382.html</guid>
-      <pubDate>08/04/2026 23:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
