@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 06:09:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:55:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Citizens reitera desempenho superior do mercado em ações da Terreno Realty, meta de US$ 70</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-market-outperform-on-terreno-realty-stock-70-target-93CH-4604805</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-market-outperform-on-terreno-realty-stock-70-target-93CH-4604805</guid>
+      <pubDate>09/04/2026 06:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercedes relata queda nas vendas do primeiro trimestre durante o ‘ano de transição’ para o mercado chinês</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/time-high-plus-great-revenue-182003085.html</guid>
       <pubDate>09/04/2026 03:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c895bde2c9f51ad5a3f1c3f479a4b84b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Invitation Homes: O que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/invitation-homes-q1-2026-earnings-184623889.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/invitation-homes-q1-2026-earnings-184623889.html</guid>
-      <pubDate>09/04/2026 03:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/7cf7296127d672558c2693e5e5701e3c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
