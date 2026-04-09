@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 06:56:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:15:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon arquiva carta anual aos acionistas e reconciliação não-GAAP com a SEC</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/amazon-files-annual-shareholder-letter-and-nongaap-reconciliation-with-sec-93CH-4604901</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/amazon-files-annual-shareholder-letter-and-nongaap-reconciliation-with-sec-93CH-4604901</guid>
+      <pubDate>09/04/2026 07:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/amazon_M_1440049058.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BTIG reitera venda de ações da American Express citando parceria com a Delta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-warns-of-major-war-escalation-if-iran-peace-process-fails-4604558</guid>
       <pubDate>09/04/2026 03:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3809O_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Microsoft em tendência de baixa em meio a problemas de guerra; A Microsoft é uma compra ou venda agora?</title>
-      <description></description>
-      <link>https://www.investors.com/research/microsoft-msft-stock-april-2026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/microsoft-msft-stock-april-2026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>09/04/2026 03:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/42ec45a676173a5ac3337427561ad03b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
