@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 01:28:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 01:48:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Investidores estrangeiros investem US$ 18,65 bilhões em ações japonesas após três semanas</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/foreign-investors-pour-1865-billion-into-japanese-stocks-on-return-after-three-weeks-4604508</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/foreign-investors-pour-1865-billion-into-japanese-stocks-on-return-after-three-weeks-4604508</guid>
+      <pubDate>09/04/2026 01:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3804Z_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Tesla despencam, Cathie Wood compra ações pela primeira vez desde julho</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-tick-lower-as-traders-weigh-renewed-middle-east-tensions-4604484</guid>
       <pubDate>08/04/2026 22:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5M0AC_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Retração na mineração de ouro apresenta uma oportunidade de compra atraente, diz corretor</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/gold-mining-pullback-presents-compelling-140007965.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-mining-pullback-presents-compelling-140007965.html</guid>
-      <pubDate>08/04/2026 22:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/proactive_us_504/4d1f8faccd1c042e742036fec733ca98" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
