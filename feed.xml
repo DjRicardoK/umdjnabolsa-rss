@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 16:53:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 16:54:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A American Express Company (AXP) é uma ação ridiculamente barata para comprar, de acordo com Wall Street?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/american-express-company-axp-ridiculously-094616341.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/american-express-company-axp-ridiculously-094616341.html</guid>
+      <pubDate>09/04/2026 16:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a44e70b22da11d3cbca7b31155886c1a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os estoques de software estão tendo um ‘colapso completo’ – e podem cair ainda mais</title>
       <description>Um estratega observa que o sector está mais uma vez a testar um nível de apoio técnico, o que aumenta a probabilidade de quebrar esse apoio.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/teslas-lowercost-ev-plan-seen-boosting-volume-risking-margins-4606360</guid>
       <pubDate>09/04/2026 14:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38157_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Trustmark Corporation atingem o máximo histórico de 45,45 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/trustmark-corporation-stock-hits-alltime-high-of-4545-usd-93CH-4606383</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/trustmark-corporation-stock-hits-alltime-high-of-4545-usd-93CH-4606383</guid>
-      <pubDate>09/04/2026 14:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
