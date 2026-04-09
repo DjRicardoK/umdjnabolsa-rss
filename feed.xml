@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 16:34:42 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 16:38:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Starmer, do Reino Unido, diz que o conflito no Irã mostra que a Grã-Bretanha deve seguir um novo caminho</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/uks-starmer-says-iran-conflict-shows-britain-must-take-a-new-path-4606458</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/uks-starmer-says-iran-conflict-shows-britain-must-take-a-new-path-4606458</guid>
+      <pubDate>09/04/2026 16:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3819G_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da PPL Corporation: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-to-stock-lillys-new-weightloss-pill-at-us-kiosks-offer-sameday-delivery-4605269</guid>
       <pubDate>09/04/2026 14:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM380NL_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Seneca Foods Corp A atingem o máximo histórico de 165,31 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/seneca-foods-corp-a-stock-hits-alltime-high-at-16531-usd-93CH-4606341</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/seneca-foods-corp-a-stock-hits-alltime-high-at-16531-usd-93CH-4606341</guid>
-      <pubDate>09/04/2026 14:22</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
