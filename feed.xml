@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 22:24:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 22:25:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs diz que é hora de comprar ações de tecnologia</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/buy-tech-stocks-goldman-sachs-7381121e?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/buy-tech-stocks-goldman-sachs-7381121e?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>08/04/2026 22:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/c63d254d83f65145fd0536f2dbdf80b8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da VICI Properties</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/crude-prices-soar-iran-war-153324824.html</guid>
       <pubDate>08/04/2026 20:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O CEO da Lowe alerta que a IA não pode subir uma escada enquanto a empresa faz uma aposta de US$ 250 milhões...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/lowe-ceo-warns-ai-t-153219862.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/lowe-ceo-warns-ai-t-153219862.html</guid>
-      <pubDate>08/04/2026 20:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/fox_business_text_367/cc494ddca0869286ea72b5741ce6c00e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
