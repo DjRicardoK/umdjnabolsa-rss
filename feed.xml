@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 16:38:46 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 16:44:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Servicetitan atingem baixa de 52 semanas a 57,95 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/servicetitan-stock-hits-52week-low-at-5795-usd-93CH-4606470</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/servicetitan-stock-hits-52week-low-at-5795-usd-93CH-4606470</guid>
+      <pubDate>09/04/2026 16:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Paramount sela compromissos de dívida apoiando acordo com a Warner Bros.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/politics-news/us-republicans-block-bid-to-rein-in-trump-iran-war-powers-4606343</guid>
       <pubDate>09/04/2026 14:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3814R_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bilibili (BILI) está entre as 7 melhores ações asiáticas de compra forte para investir</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bilibili-bili-among-7-best-171754381.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bilibili-bili-among-7-best-171754381.html</guid>
-      <pubDate>09/04/2026 14:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a35ab227d4ce097d1244be995f0db08a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
