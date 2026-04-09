@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 04:37:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:06:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Citi permanece otimista em relação aos bancos europeus e atualiza duas ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/citi-stays-bullish-on-european-banks-upgrades-two-stocks-4604682</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/citi-stays-bullish-on-european-banks-upgrades-two-stocks-4604682</guid>
+      <pubDate>09/04/2026 05:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC9I0KP_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os estoques de petróleo estão quentes. Aqui estão 9 que vale a pena conhecer.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/birds-not-missiles-should-fly-in-the-skies-taiwan-opposition-leader-says-in-china-4604511</guid>
       <pubDate>09/04/2026 02:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3805G_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Atividade incomum nas opções da Apple hoje mostra que os investidores estão otimistas em relação à AAPL</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/options/articles/unusual-activity-apple-options-today-173002926.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/unusual-activity-apple-options-today-173002926.html</guid>
-      <pubDate>09/04/2026 02:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c73a52b7903649f6e8fae3cb550b52f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
