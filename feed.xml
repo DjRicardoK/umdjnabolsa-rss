@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 18:08:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 18:13:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja quanto dinheiro o Irã pode ganhar cobrando pedágios de um quinto do petróleo transportado por mar do...</title>
+      <description>O Irão não poderá ganhar muito dinheiro com o tráfego através do Estreito de Ormuz quase paralisado, mas pode arrecadar milhares de milhões de yuans chineses, ou centenas de...</description>
+      <link>https://www.marketwatch.com/story/heres-how-much-money-iran-can-make-charging-tolls-on-one-fifth-of-the-worlds-seaborne-oil-46c05a8b?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/heres-how-much-money-iran-can-make-charging-tolls-on-one-fifth-of-the-worlds-seaborne-oil-46c05a8b?mod=mw_rss_topstories</guid>
+      <pubDate>09/04/2026 18:13</pubDate>
+      <enclosure url="https://images.mktw.net/im-16432835" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Netflix perdeu a batalha pela Warner Bros, mas Goldman Sachs diz que ganhou a guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/paramount-seals-debt-commitments-backing-warner-bros-deal-4606359</guid>
       <pubDate>09/04/2026 16:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3815A_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Starmer, do Reino Unido, diz que o conflito no Irã mostra que a Grã-Bretanha deve seguir um novo caminho</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/uks-starmer-says-iran-conflict-shows-britain-must-take-a-new-path-4606458</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/uks-starmer-says-iran-conflict-shows-britain-must-take-a-new-path-4606458</guid>
-      <pubDate>09/04/2026 16:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3819G_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
