@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 23:37:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 23:45:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE FTSE 100 Live: Ações aeronáuticas e de defesa lideram declínio à medida que o prazo de Trump para o Irã se...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-stocks-set-061600866.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-stocks-set-061600866.html</guid>
+      <pubDate>08/04/2026 23:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/proactive_us_504/9712e0cbd4a58fc11ae61014f6acbc0a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Trade Desk (TTD) é uma das ações de crescimento mais acessíveis do momento?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-april-7-gold-price-holds-as-war-deadline-looms-110339758.html</guid>
       <pubDate>08/04/2026 21:08</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/xs7mrxGI84M.xOkOI_ISMg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/tuesday.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE ARK de Cathie Wood vende ações da Teradyne e compra mais Tesla</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/cathie-woods-ark-sells-teradyne-stock-buys-more-tesla-93CH-4604407</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/cathie-woods-ark-sells-teradyne-stock-buys-more-tesla-93CH-4604407</guid>
-      <pubDate>08/04/2026 21:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
