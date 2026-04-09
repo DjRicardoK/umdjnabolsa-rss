@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 03:18:07 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 03:31:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump alerta para grande escalada da guerra se o processo de paz no Irão falhar</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/trump-warns-of-major-war-escalation-if-iran-peace-process-fails-4604558</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-warns-of-major-war-escalation-if-iran-peace-process-fails-4604558</guid>
+      <pubDate>09/04/2026 03:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3809O_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Microsoft em tendência de baixa em meio a problemas de guerra; A Microsoft é uma compra ou venda agora?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/north-korea-unveils-clusterbomb-missile-electronic-warfare-capability-4604498</guid>
       <pubDate>09/04/2026 00:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O novo CEO da BHP se reuniu com o chefe da Chinalco na China esta semana</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bhps-incoming-ceo-met-with-chinalco-boss-in-china-this-week-4604495</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bhps-incoming-ceo-met-with-chinalco-boss-in-china-this-week-4604495</guid>
-      <pubDate>09/04/2026 00:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38037_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
