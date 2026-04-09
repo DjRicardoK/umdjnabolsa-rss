@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 06:55:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:56:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BTIG reitera venda de ações da American Express citando parceria com a Delta</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/btig-reiterates-sell-on-american-express-stock-citing-delta-partnership-93CH-4604804</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/btig-reiterates-sell-on-american-express-stock-citing-delta-partnership-93CH-4604804</guid>
+      <pubDate>09/04/2026 06:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Citizens reitera desempenho superior do mercado em ações da Terreno Realty, meta de US$ 70</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/microsoft-msft-stock-april-2026/?src=A00220&yptr=yahoo</guid>
       <pubDate>09/04/2026 03:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/42ec45a676173a5ac3337427561ad03b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Um recorde histórico, além de ótimas receitas e ganhos, fez com que esse estoque de tecnologia se elevasse...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/time-high-plus-great-revenue-182003085.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/time-high-plus-great-revenue-182003085.html</guid>
-      <pubDate>09/04/2026 03:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c895bde2c9f51ad5a3f1c3f479a4b84b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
