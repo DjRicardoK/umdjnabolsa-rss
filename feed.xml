@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 17:35:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:45:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Pré-visualização de ganhos de processamento automático de dados: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/automatic-data-processing-earnings-preview-122311848.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/automatic-data-processing-earnings-preview-122311848.html</guid>
+      <pubDate>09/04/2026 17:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5e8f936c3140d7b4b2c375470b4a7378" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Este gráfico sugere uma próxima mudança geracional que poderia eliminar uma fonte crítica de demanda por ações</title>
       <description>À medida que os baby boomers se aposentarem, eles passarão de compradores de ações a vendedores.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-stock-market-correction-isnt-over-yet-heres-why-the-iran-cease-fire-is-actually-a-bad-omen-67732442?mod=mw_rss_topstories</guid>
       <pubDate>09/04/2026 16:00</pubDate>
       <enclosure url="https://images.mktw.net/im-66498965" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Como a Progressive Corp. (PGR) está planejando lidar com a inflação e os riscos de concorrência</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/progressive-corp-pgr-planning-navigate-090841506.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/progressive-corp-pgr-planning-navigate-090841506.html</guid>
-      <pubDate>09/04/2026 15:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6c66301f4ef87973c7eff9bccc953ef7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
