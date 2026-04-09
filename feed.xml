@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 17:48:08 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:49:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Kura Sushi USA, Inc. Resumo da teleconferência de ganhos do segundo trimestre de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/kura-sushi-usa-inc-q2-123000579.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kura-sushi-usa-inc-q2-123000579.html</guid>
+      <pubDate>09/04/2026 17:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/a64abf0e5bf4de22a304466d9426c202" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A sua conta da mercearia será a próxima vítima da guerra no Irão. Estas medidas de investimento podem...</title>
       <description>Quatro estrangulamentos no fornecimento de alimentos estão a comprimir as carteiras dos investidores. Veja o que fazer antes que sua conta do supermercado comprove isso em outubro.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-caterpillar-next-earnings-091625304.html</guid>
       <pubDate>09/04/2026 16:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/f4a3d4ca15f4605f095f41377efa19c8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE IAMGOLD atualizado para B1 pela Moody&apos;s na redução da dívida, aumento da Cote Gold</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/iamgold-upgraded-to-b1-by-moodys-on-debt-reduction-cote-gold-rampup-93CH-4606445</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/iamgold-upgraded-to-b1-by-moodys-on-debt-reduction-cote-gold-rampup-93CH-4606445</guid>
-      <pubDate>09/04/2026 16:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
