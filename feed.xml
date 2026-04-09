@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 03:57:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 04:02:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Thor Explorations relata lucro recorde com maior produção de ouro</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/thor-explorations-reports-record-profit-on-higher-gold-output-93CH-4604628</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/thor-explorations-reports-record-profit-on-higher-gold-output-93CH-4604628</guid>
+      <pubDate>09/04/2026 04:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Enquanto os touros e os ursos lutam pela IA, US$ 350 é o número-chave a ser observado para as ações da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/mainz-biomed-bv-earnings-beat-by-111-revenue-fell-short-of-estimates-4604504</guid>
       <pubDate>09/04/2026 01:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Raytheon é uma das principais ações de defesa para comprar em meio à Guerra do Irã, mas também se beneficiará...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/raytheon-top-defense-stock-buy-162736111.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/raytheon-top-defense-stock-buy-162736111.html</guid>
-      <pubDate>09/04/2026 01:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/007ec54f7fdc4ea41067317c64d0cf3a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
