@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 03:06:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 03:06:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A confiança do consumidor no Japão cai acentuadamente em março com o peso do conflito no Médio Oriente</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/japan-consumer-confidence-drops-sharply-in-march-as-middle-east-conflict-weighs-93CH-4604524</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-consumer-confidence-drops-sharply-in-march-as-middle-east-conflict-weighs-93CH-4604524</guid>
+      <pubDate>09/04/2026 03:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 2,02%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analyst-explains-why-ontology-separates-150759599.html</guid>
       <pubDate>08/04/2026 23:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2a1e83d3cf1f479e2ed9d6092ca05aaf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman diz que está pronto para atacar enquanto o varejo foge do crédito privado</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-says-ready-pounce-retail-150900440.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-says-ready-pounce-retail-150900440.html</guid>
-      <pubDate>08/04/2026 23:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wealth_management_474/dfe101555da44b086b0fd5898799a772" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
