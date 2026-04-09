@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 20:28:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 20:40:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Nvidia salta para resistência ao impacto; A Nvidia é uma compra ou venda agora?</title>
+      <description></description>
+      <link>https://www.investors.com/research/nvidia-nvda-stock-buy-now-april-2026/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/nvidia-nvda-stock-buy-now-april-2026/?src=A00220&yptr=yahoo</guid>
+      <pubDate>09/04/2026 20:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/dc6c8560336c4386dd622e3c71795d43" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ouro supera US$ 4.800 enquanto cessar-fogo EUA-Irã interrompe seis semanas de guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/know-ahead-humanas-earnings-release-124104968.html</guid>
       <pubDate>09/04/2026 17:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d54596b5777d835996569395044c76cc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do segundo trimestre de 2026 da Phoenix Education Partners, Inc</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/phoenix-education-partners-inc-q2-123000886.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/phoenix-education-partners-inc-q2-123000886.html</guid>
-      <pubDate>09/04/2026 17:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/95dd824decd8fe81593889c20965b538" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
