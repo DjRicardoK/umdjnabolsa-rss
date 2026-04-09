@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 09:17:53 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:30:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações caem à medida que persiste a cautela sobre a tensão no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-caution-persists-over-middle-east-tension-4605438</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-caution-persists-over-middle-east-tension-4605438</guid>
+      <pubDate>09/04/2026 09:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/London-Stock-Exchange_M_1440049524.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Caixa de fatos - Da OpenAI à Nvidia, as empresas canalizam bilhões para a infraestrutura de IA à medida que a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-007-4604703</guid>
       <pubDate>09/04/2026 05:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE310G7_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Penny Stock Xiao-I está surgindo com a conquista de patentes da Apple. Você deve comprar o pouco conhecido...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/penny-stock-xiao-surging-apple-204741801.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/penny-stock-xiao-surging-apple-204741801.html</guid>
-      <pubDate>09/04/2026 05:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/125a3ae061686d8ab9297ac1378a394f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
