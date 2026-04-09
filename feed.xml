@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 00:02:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 00:19:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O novo CEO da BHP se reuniu com o chefe da Chinalco na China esta semana</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/bhps-incoming-ceo-met-with-chinalco-boss-in-china-this-week-4604495</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bhps-incoming-ceo-met-with-chinalco-boss-in-china-this-week-4604495</guid>
+      <pubDate>09/04/2026 00:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38037_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas asiáticas ficam nervosas em meio a dúvidas sobre cessar-fogo EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/599-macbook-could-apples-smartest-133110372.html</guid>
       <pubDate>08/04/2026 22:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/Benzinga/00186b506e998324f486805d635c15ef" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O bilionário Warren Buffett diz que vendeu suas ações favoritas “muito cedo”. Os investidores devem dar ré no...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-warren-buffett-says-sold-132000335.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/billionaire-warren-buffett-says-sold-132000335.html</guid>
-      <pubDate>08/04/2026 21:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/70a8108d3e26f2768ae3a06539a8bc85" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
