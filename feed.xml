@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 00:19:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 01:00:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Coreia do Norte revela míssil bomba cluster e capacidade de guerra eletrônica</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/north-korea-unveils-clusterbomb-missile-electronic-warfare-capability-4604498</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/north-korea-unveils-clusterbomb-missile-electronic-warfare-capability-4604498</guid>
+      <pubDate>09/04/2026 00:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O novo CEO da BHP se reuniu com o chefe da Chinalco na China esta semana</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/fedex-reaches-tentative-wage-deal-with-pilots-after-years-of-talks-4604476</guid>
       <pubDate>08/04/2026 22:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM38018_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Este MacBook de US$ 599 pode ser a jogada mais inteligente da Apple até agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/599-macbook-could-apples-smartest-133110372.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/599-macbook-could-apples-smartest-133110372.html</guid>
-      <pubDate>08/04/2026 22:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Benzinga/00186b506e998324f486805d635c15ef" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
