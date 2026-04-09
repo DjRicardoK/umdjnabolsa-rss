@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 15:15:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 15:23:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que a First American Financial (FAF) é uma das melhores ações de seguros P&amp;C</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-first-american-financial-faf-090844750.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-first-american-financial-faf-090844750.html</guid>
+      <pubDate>09/04/2026 15:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fc0bddb1ffc43d37e9c5349d73cd963f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inflação no México dispara em março, alimentando debate dentro do banco central dividido</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/snowflake-stock-hits-52week-low-at-13533-usd-93CH-4606286</guid>
       <pubDate>09/04/2026 13:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro do BlackBerry superou US$ 0,02, receita superou estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/blackberry-earnings-beat-by-002-revenue-topped-estimates-4606260</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/blackberry-earnings-beat-by-002-revenue-topped-estimates-4606260</guid>
-      <pubDate>09/04/2026 13:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
