@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 12:35:09 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 12:35:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE DSV sai do contrato da área de Dallas, 391 empregos cortados em Wilmer DC</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/dsv-exits-dallas-area-contract-152547917.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/dsv-exits-dallas-area-contract-152547917.html</guid>
+      <pubDate>09/04/2026 12:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/freightwaves_373/da5d53fc9ddebef6897437252bd913bc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações de software dos EUA caem à medida que o novo modelo de IA da Anthropic revive temores de ruptura</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/hubbell-inc-stock-hits-alltime-high-at-53388-usd-93CH-4605995</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/hubbell-inc-stock-hits-alltime-high-at-53388-usd-93CH-4605995</guid>
       <pubDate>09/04/2026 11:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações do Grupo Marex atingem o máximo histórico de 49,38 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/marex-group-stock-hits-alltime-high-at-4938-usd-93CH-4605997</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/marex-group-stock-hits-alltime-high-at-4938-usd-93CH-4605997</guid>
-      <pubDate>09/04/2026 11:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
