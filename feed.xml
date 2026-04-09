@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 13:06:53 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:06:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da AAR Corp atingem o máximo histórico em 122,98 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/aar-corp-stock-hits-alltime-high-at-12298-usd-93CH-4606205</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/aar-corp-stock-hits-alltime-high-at-12298-usd-93CH-4606205</guid>
+      <pubDate>09/04/2026 13:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Banco Central atingem máximo histórico de 25,52 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sentinelone-one-best-mid-cap-144320009.html</guid>
       <pubDate>09/04/2026 12:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ea35b0e6ecbd2fd7acf5d2a3e06b5ef6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui estão algumas ações de bancos baratos entrando na temporada de lucros</title>
-      <description>Uma análise mais detalhada das avaliações dos maiores bancos dos EUA destaca oportunidades para investidores de longo prazo.</description>
-      <link>https://www.marketwatch.com/story/here-are-some-bargain-bank-stocks-heading-into-earnings-season-d0e6b3da?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/here-are-some-bargain-bank-stocks-heading-into-earnings-season-d0e6b3da?mod=mw_rss_topstories</guid>
-      <pubDate>09/04/2026 12:02</pubDate>
-      <enclosure url="https://images.mktw.net/im-06428627" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
