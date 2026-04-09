@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 11:04:58 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 11:05:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Hubbell Inc atingem o máximo histórico em 533,88 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/hubbell-inc-stock-hits-alltime-high-at-53388-usd-93CH-4605995</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/hubbell-inc-stock-hits-alltime-high-at-53388-usd-93CH-4605995</guid>
+      <pubDate>09/04/2026 11:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações do Grupo Marex atingem o máximo histórico de 49,38 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-pce-inflation-picks-up-in-february-consumer-spending-solid-4605652</guid>
       <pubDate>09/04/2026 09:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM380S9_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE CEO da Amazon afirma que o negócio de chips está &apos;em chamas&apos; enquanto a AWS intensifica o desafio para a...</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/amazon-stock-jassy-letter-2025-ai-chips-nvidia/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/amazon-stock-jassy-letter-2025-ai-chips-nvidia/?src=A00220&yptr=yahoo</guid>
-      <pubDate>09/04/2026 09:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/fbc8e12504fa008dd864dabbe664ca02" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
