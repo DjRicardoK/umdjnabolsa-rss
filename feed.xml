@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 11:30:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 11:30:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Nanálise Científica perde as expectativas de receita do quarto...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-nanalysis-scientific-misses-q4-2025-revenue-expectations-93CH-4606031</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nanalysis-scientific-misses-q4-2025-revenue-expectations-93CH-4606031</guid>
+      <pubDate>09/04/2026 11:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados da Byrna Technologies no primeiro trimestre de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/anglogold-ashanti-plc-au-arthur-124711358.html</guid>
       <pubDate>09/04/2026 09:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/50105f94f34ce9194fd2278dc921e26b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Unidade da Wheaton Precious Metals Corp. (WPM) compromete US$ 275 milhões para garantir suprimentos de ouro...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/wheaton-precious-metals-corp-wpm-124721131.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/wheaton-precious-metals-corp-wpm-124721131.html</guid>
-      <pubDate>09/04/2026 09:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/28bbf23a187db977f5f20c847cd0327e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
