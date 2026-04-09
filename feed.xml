@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 05:51:44 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:09:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mercedes relata queda nas vendas do primeiro trimestre durante o ‘ano de transição’ para o mercado chinês</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/mercedes-reports-drop-in-q1-sales-during-transition-year-for-china-market-4604765</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/mercedes-reports-drop-in-q1-sales-during-transition-year-for-china-market-4604765</guid>
+      <pubDate>09/04/2026 06:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM380H7_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Indonésia sobem no fechamento do pregão; Índice Composto IDX subiu 0,07%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/invitation-homes-q1-2026-earnings-184623889.html</guid>
       <pubDate>09/04/2026 03:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/7cf7296127d672558c2693e5e5701e3c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A confiança do consumidor no Japão cai acentuadamente em março com o peso do conflito no Médio Oriente</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japan-consumer-confidence-drops-sharply-in-march-as-middle-east-conflict-weighs-93CH-4604524</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-consumer-confidence-drops-sharply-in-march-as-middle-east-conflict-weighs-93CH-4604524</guid>
-      <pubDate>09/04/2026 03:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
