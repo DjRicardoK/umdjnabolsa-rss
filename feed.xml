@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 08:27:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 08:27:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mizuho reitera desempenho superior em ações da Expand Energy, meta de US$ 145</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/mizuho-reiterates-outperform-on-expand-energy-stock-145-target-93CH-4605185</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/mizuho-reiterates-outperform-on-expand-energy-stock-145-target-93CH-4605185</guid>
+      <pubDate>09/04/2026 08:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mizuho reitera classificação das ações da Marathon Petroleum citando falha no primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/citi-stays-bullish-on-european-banks-upgrades-two-stocks-4604682</guid>
       <pubDate>09/04/2026 05:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC9I0KP_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os estoques de petróleo estão quentes. Aqui estão 9 que vale a pena conhecer.</title>
-      <description></description>
-      <link>https://www.investors.com/news/oil-stocks-worth-getting-to-know-chevron-exxonmobil-slb-halliburton/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/oil-stocks-worth-getting-to-know-chevron-exxonmobil-slb-halliburton/?src=A00220&yptr=yahoo</guid>
-      <pubDate>09/04/2026 04:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/2c336c49052ad99ef7d9a41e2b4eb24b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
