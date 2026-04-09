@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 04:32:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 04:37:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os estoques de petróleo estão quentes. Aqui estão 9 que vale a pena conhecer.</title>
+      <description></description>
+      <link>https://www.investors.com/news/oil-stocks-worth-getting-to-know-chevron-exxonmobil-slb-halliburton/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/oil-stocks-worth-getting-to-know-chevron-exxonmobil-slb-halliburton/?src=A00220&yptr=yahoo</guid>
+      <pubDate>09/04/2026 04:37</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/2c336c49052ad99ef7d9a41e2b4eb24b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar cai antes do prazo final para o Irã na noite de terça-feira</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/unusual-activity-apple-options-today-173002926.html</guid>
       <pubDate>09/04/2026 02:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c73a52b7903649f6e8fae3cb550b52f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bendigo e Adelaide Bank sinalizam cortes de empregos em impulso de IA e registram aumento nos lucros do...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/australias-bendigo-bank-posts-13-jump-in-thirdquarter-earnings-confirms-layoffs-4604432</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australias-bendigo-bank-posts-13-jump-in-thirdquarter-earnings-confirms-layoffs-4604432</guid>
-      <pubDate>09/04/2026 01:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
