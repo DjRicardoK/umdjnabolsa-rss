@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 09:30:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 09:33:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O núcleo do índice de preços PCE se mantém estável, atendendo às expectativas do mercado</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/core-pce-price-index-holds-steady-meeting-market-expectations-93CH-4605525</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/core-pce-price-index-holds-steady-meeting-market-expectations-93CH-4605525</guid>
+      <pubDate>09/04/2026 09:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE FTSE 100 hoje: Ações caem à medida que persiste a cautela sobre a tensão no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/mercedes-reports-drop-in-q1-sales-during-transition-year-for-china-market-4604765</guid>
       <pubDate>09/04/2026 06:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM380H7_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Indonésia sobem no fechamento do pregão; Índice Composto IDX subiu 0,07%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-007-4604703</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-007-4604703</guid>
-      <pubDate>09/04/2026 05:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE310G7_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
