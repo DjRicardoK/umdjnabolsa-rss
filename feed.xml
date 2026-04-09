@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 04:08:04 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 04:21:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas europeias abrem mistas, com tensões no Oriente Médio e recuperação do petróleo pesando</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-stocks-open-mixed-as-middle-east-tensions-oil-rebound-weigh-4604638</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-open-mixed-as-middle-east-tensions-oil-rebound-weigh-4604638</guid>
+      <pubDate>09/04/2026 04:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5G0BF_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas do Japão caem no fechamento do pregão; Nikkei 225 caiu 0,53%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/foreign-investors-pour-1865-billion-into-japanese-stocks-on-return-after-three-weeks-4604508</guid>
       <pubDate>09/04/2026 01:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3804Z_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Tesla despencam, Cathie Wood compra ações pela primeira vez desde julho</title>
-      <description></description>
-      <link>https://www.investors.com/news/cathie-wood-buys-tesla-stock-first-time-july/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/cathie-wood-buys-tesla-stock-first-time-july/?src=A00220&yptr=yahoo</guid>
-      <pubDate>09/04/2026 01:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/5225dca9e94965ccd476ee6be7638fa7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
