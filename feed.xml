@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 08 Apr 2026 21:17:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 21:29:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Crown Castle: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/crown-castles-q1-2026-earnings-125130419.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/crown-castles-q1-2026-earnings-125130419.html</guid>
+      <pubDate>08/04/2026 21:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/59d742a5f75bdf49afb8833a66e4a47f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do terceiro trimestre de 2026 da Microsoft: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/equinox-gold-eqx-expected-next-145524700.html</guid>
       <pubDate>08/04/2026 19:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/195ddd50766dc4fa0f12310b0696db20" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Apenas um em cada cinco trabalhadores sente que os seus empregos são seguros – os fabricantes, os...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/only-22-people-felt-jobs-145025230.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/only-22-people-felt-jobs-145025230.html</guid>
-      <pubDate>08/04/2026 19:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/fortune_175/c336068625e75c81b839b273f2ecb673" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
