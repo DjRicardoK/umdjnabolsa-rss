@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 13:16:09 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 13:16:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações caem à medida que as esperanças de cessar-fogo compensam as tensões no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-ceasefire-hopes-lift-sentiment-4607119</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-ceasefire-hopes-lift-sentiment-4607119</guid>
+      <pubDate>10/04/2026 13:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7O0CS_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Itália sobem no fechamento do pregão; Investing.com Itália 40 sobe 0,49%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-indel-b-sees-growth-in-h2-2025-amid-challenges-93CH-4608088</guid>
       <pubDate>10/04/2026 11:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os slides do segundo trimestre de 2026 da Cogeco mostram planos de crescimento em meio a perdas de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/cogeco-q2-2026-slides-show-growth-plans-amid-earnings-miss-93CH-4608044</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/cogeco-q2-2026-slides-show-growth-plans-amid-earnings-miss-93CH-4608044</guid>
-      <pubDate>10/04/2026 11:00</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/b1d340684cfce508610a93f4ea70abb39078956edbfb64475d8b7cbc13a5243b.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
