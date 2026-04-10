@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 22:29:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 22:40:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco do Japão definirá política de olho na escala e duração do choque da guerra no Irã, diz vice-governador</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/boj-will-set-policy-with-eye-on-scale-length-of-iran-war-shock-deputy-governor-says-4607029</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-will-set-policy-with-eye-on-scale-length-of-iran-war-shock-deputy-governor-says-4607029</guid>
+      <pubDate>09/04/2026 22:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3902E_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações instáveis ​​enquanto ataques israelenses ao Líbano testam o cessar-fogo do Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/wedbush-reiterates-palantir-stock-rating-amid-anthropic-concerns-93CH-4606949</guid>
       <pubDate>09/04/2026 19:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Casa Branca alertou a equipe para não fazer apostas de mercado em meio à guerra no Irã, informa o WSJ</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/white-house-warned-staff-not-to-place-market-bets-amid-iran-war-wsj-reports-4606940</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/white-house-warned-staff-not-to-place-market-bets-amid-iran-war-wsj-reports-4606940</guid>
-      <pubDate>09/04/2026 19:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM381EU_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
