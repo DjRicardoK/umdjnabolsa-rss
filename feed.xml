@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 01:09:32 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 01:09:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O secretário do Tesouro, Bessent, e o presidente do Fed, Powell, reúnem-se com CEOs de bancos sobre os riscos...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/treasury-secretary-bessent-and-fed-chair-powell-meet-bank-ceos-on-anthropic-ai-risks-93CH-4607044</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/treasury-secretary-bessent-and-fed-chair-powell-meet-bank-ceos-on-anthropic-ai-risks-93CH-4607044</guid>
+      <pubDate>10/04/2026 01:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/citibank_M_1440049090.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Espera-se que a inflação ao consumidor dos EUA tenha aumentado em março em meio à guerra com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ifabric-corp-q4-2025-sees-stock-surge-1576-93CH-4606988</guid>
       <pubDate>09/04/2026 20:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do terceiro trimestre de 2026 da Western Digital: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/western-digitals-q3-2026-earnings-161007579.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/western-digitals-q3-2026-earnings-161007579.html</guid>
-      <pubDate>09/04/2026 20:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2c03be55463835123fe35a048ff23c1e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
