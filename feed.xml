@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 16:16:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 16:20:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Marvell estão subindo em direção à sua primeira alta em um ano. Aqui está o que está...</title>
+      <description>A narrativa em torno da Marvell está se concentrando nos negócios ópticos da empresa.</description>
+      <link>https://www.marketwatch.com/story/marvells-stock-is-soaring-toward-its-first-fresh-high-in-a-year-heres-whats-driving-the-momentum-aec611bc?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/marvells-stock-is-soaring-toward-its-first-fresh-high-in-a-year-heres-whats-driving-the-momentum-aec611bc?mod=mw_rss_topstories</guid>
+      <pubDate>10/04/2026 16:20</pubDate>
+      <enclosure url="https://images.mktw.net/im-251491" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A farmacêutica indiana Granules vai reforçar a supervisão após alerta da FDA dos EUA, diz o executivo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-6k-equinox-gold-corp-for-10-april-93CH-4608294</guid>
       <pubDate>10/04/2026 13:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Pesquisa do BofA mostra que investidores cobriram posições vendidas em dólar, mas permanecem pessimistas</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bofa-survey-shows-investors-covered-dollar-shorts-but-remain-bearish-93CH-4608275</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bofa-survey-shows-investors-covered-dollar-shorts-but-remain-bearish-93CH-4608275</guid>
-      <pubDate>10/04/2026 13:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
