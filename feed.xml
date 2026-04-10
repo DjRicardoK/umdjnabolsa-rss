@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 08:37:12 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 08:37:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Oncolytics Biotech na compra</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-oncolytics-biotech-stock-rating-at-buy-93CH-4607569</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-oncolytics-biotech-stock-rating-at-buy-93CH-4607569</guid>
+      <pubDate>10/04/2026 08:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Kymera Therapeutics na compra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/beasley-broadcast-group-inc-q4-204324415.html</guid>
       <pubDate>10/04/2026 05:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/ea98516ae26e072b84b7ddb7047b03fa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs atualiza classificação das ações da Southern Copper citando prêmio de escassez</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-southern-copper-stock-rating-citing-scarcity-premium-93CH-4607170</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-southern-copper-stock-rating-citing-scarcity-premium-93CH-4607170</guid>
-      <pubDate>10/04/2026 05:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
