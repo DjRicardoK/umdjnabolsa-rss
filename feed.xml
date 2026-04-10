@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 10:56:42 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 11:00:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os slides do segundo trimestre de 2026 da Cogeco mostram planos de crescimento em meio a perdas de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cogeco-q2-2026-slides-show-growth-plans-amid-earnings-miss-93CH-4608044</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cogeco-q2-2026-slides-show-growth-plans-amid-earnings-miss-93CH-4608044</guid>
+      <pubDate>10/04/2026 11:00</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/b1d340684cfce508610a93f4ea70abb39078956edbfb64475d8b7cbc13a5243b.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE The Southern Company (SO) – Entre as 15 ações de serviços públicos com maiores dividendos</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-zentalis-stock-rating-on-pivotal-dose-selection-93CH-4607571</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-zentalis-stock-rating-on-pivotal-dose-selection-93CH-4607571</guid>
       <pubDate>10/04/2026 08:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE HC Wainwright reitera compra de ações da Telix, meta de US$ 20 na revisão da FDA</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-telix-stock-20-target-on-fda-review-93CH-4607573</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-telix-stock-20-target-on-fda-review-93CH-4607573</guid>
-      <pubDate>10/04/2026 08:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
