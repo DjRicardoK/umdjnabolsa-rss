@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 14:28:49 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 14:45:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tesla está se aproximando de um marco importante – mas pode não ser suficiente para aumentar o estoque</title>
+      <description>Os investidores precisam de provas de que a tecnologia sem condutor da Tesla está a melhorar para justificar o preço das ações, afirma a Morgan Stanley.</description>
+      <link>https://www.marketwatch.com/story/tesla-is-approaching-a-major-milestone-but-it-may-not-be-enough-to-lift-the-stock-b61f4aca?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/tesla-is-approaching-a-major-milestone-but-it-may-not-be-enough-to-lift-the-stock-b61f4aca?mod=mw_rss_topstories</guid>
+      <pubDate>10/04/2026 14:45</pubDate>
+      <enclosure url="https://images.mktw.net/im-19995224" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações TSMC, parceira da Nvidia, relata fortes vendas em março. A demanda por chips de IA aumenta antes dos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-136-4608221</guid>
       <pubDate>10/04/2026 12:42</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE5Q0L9_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Este estoque de IA com ganhos vistos aumentando 48% sobe em direção à entrada</title>
-      <description></description>
-      <link>https://www.investors.com/stock-lists/stock-spotlight/ai-stock-celestica-cls-earnings-seen-rising-climbs-toward-entry/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/stock-lists/stock-spotlight/ai-stock-celestica-cls-earnings-seen-rising-climbs-toward-entry/?src=A00220&yptr=yahoo</guid>
-      <pubDate>10/04/2026 12:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/3f2c207212328eb5e0f288b9aac3af3a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
