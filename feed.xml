@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 10:28:03 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 10:28:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Jaguar Health Q4 2025 perde lucro por ação e metas de receita</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-jaguar-health-q4-2025-misses-eps-revenue-targets-93CH-4607922</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-jaguar-health-q4-2025-misses-eps-revenue-targets-93CH-4607922</guid>
+      <pubDate>10/04/2026 10:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Wall St deve abrir silenciosamente após dados de inflação em linha; Trégua no Médio Oriente em foco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/camping-world-holdings-updates-executive-contracts-and-grants-new-equity-awards-93CH-4607527</guid>
       <pubDate>10/04/2026 08:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Oppenheimer reitera classificação das ações da Sensata Technologies em Outperform</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-sensata-technologies-stock-rating-at-outperform-93CH-4607453</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-sensata-technologies-stock-rating-at-outperform-93CH-4607453</guid>
-      <pubDate>10/04/2026 07:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
