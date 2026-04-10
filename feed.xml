@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 18:08:15 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:13:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Caros fãs de ações da Amazon, marquem em seus calendários para 17 de abril</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/dear-amazon-stock-fans-mark-134502037.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dear-amazon-stock-fans-mark-134502037.html</guid>
+      <pubDate>10/04/2026 18:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/53921926b0ea4c196011ac50e860a881" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os investidores estão pessimistas em relação à inflação e à assunção de riscos antes das conversações de...</title>
       <description>O custo económico do conflito no Irão começa a fazer-se notar a nível interno.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-whiplash-iran-war-shock-to-flip-market-to-deficit-in-2026-analysts-say-4608356</guid>
       <pubDate>10/04/2026 15:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3913I_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O Fed precisará explicar por que o salto da inflação atual difere do aumento de 2022</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/fed-will-need-to-explain-why-current-inflation-jump-differs-from-2022-surge-4608353</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-will-need-to-explain-why-current-inflation-jump-differs-from-2022-surge-4608353</guid>
-      <pubDate>10/04/2026 15:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3913B_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
