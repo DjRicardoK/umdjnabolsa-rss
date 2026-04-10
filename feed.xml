@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 14:13:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 14:28:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Google, ação do dia do IBD, recuperando-se antes dos lucros do primeiro trimestre em meio a preocupações com...</title>
+      <description></description>
+      <link>https://www.investors.com/research/ibd-stock-of-the-day/google-ibd-stock-of-the-day-rebounding-ahead-of-first-quarter-earnings/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/ibd-stock-of-the-day/google-ibd-stock-of-the-day-rebounding-ahead-of-first-quarter-earnings/?src=A00220&yptr=yahoo</guid>
+      <pubDate>10/04/2026 14:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/2a39205b4026639d8d0ce7388cc1b17e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de companhias aéreas: o que acontece depois dos picos do petróleo?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/west-building-minerals-club-china-151939233.html</guid>
       <pubDate>10/04/2026 12:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/b7dc3eb3bffc897524e4e02c80bff6d6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE &apos;Podemos precisar aumentar as taxas&apos;: funcionário do Fed colocou um aumento das taxas de volta na mesa - e...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/might-raise-rates-fed-official-151500665.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/might-raise-rates-fed-official-151500665.html</guid>
-      <pubDate>10/04/2026 12:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/95ce08731bf50b587c462ad1f7a4ff66" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
