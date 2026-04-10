@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 03:26:51 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:26:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A China não tolerará a independência de Taiwan, diz Xi ao líder da oposição da ilha</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/people-on-both-sides-of-the-strait-are-chinese-xi-tells-taiwan-opposition-leader-4607047</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/people-on-both-sides-of-the-strait-are-chinese-xi-tells-taiwan-opposition-leader-4607047</guid>
+      <pubDate>10/04/2026 03:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3906C_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inflação alemã confirmada em 2,8% em março</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-sees-first-producer-inflation-in-over-three-years-4607034</guid>
       <pubDate>09/04/2026 22:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3902L_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar deve cair semanalmente antes das negociações de paz EUA-Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/dollar-set-for-weekly-drop-ahead-of-usiran-peace-talks-4607028</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-set-for-weekly-drop-ahead-of-usiran-peace-talks-4607028</guid>
-      <pubDate>09/04/2026 22:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3902C_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
