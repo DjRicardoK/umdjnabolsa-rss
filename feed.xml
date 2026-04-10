@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 18:02:35 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:03:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que as ações de hotéis Hyatt e Marriott estão em alta com notícias de cessar-fogo de 2 semanas?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-hotel-stocks-hyatt-marriott-133535779.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-hotel-stocks-hyatt-marriott-133535779.html</guid>
+      <pubDate>10/04/2026 18:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2152127d998ce3a7bb40b527e8bfeb2b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Terra Quantum, com sede na Suíça, planeja listar na Nasdaq via SPAC com avaliação de US$ 3,25 bilhões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-13f-finward-bancorp-for-10-april-93CH-4608359</guid>
       <pubDate>10/04/2026 15:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Trane Technologies: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/trane-technologies-q1-2026-earnings-090131543.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/trane-technologies-q1-2026-earnings-090131543.html</guid>
-      <pubDate>10/04/2026 15:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/aa8a5620cf9e56b478bc3e5e10a8b1ca" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
