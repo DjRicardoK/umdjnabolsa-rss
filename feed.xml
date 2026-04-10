@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 22:40:46 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 22:43:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE China vê primeira inflação ao produtor em mais de três anos</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/china-sees-first-producer-inflation-in-over-three-years-4607034</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-sees-first-producer-inflation-in-over-three-years-4607034</guid>
+      <pubDate>09/04/2026 22:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3902L_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar deve cair semanalmente antes das negociações de paz EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/meta-meta-among-hedge-fund-142326840.html</guid>
       <pubDate>09/04/2026 19:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d0cd1f6d2792f3027af333eb5f28780e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da Allstate</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-allstates-next-earnings-150312982.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-allstates-next-earnings-150312982.html</guid>
-      <pubDate>09/04/2026 19:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/72ef4f867543b46478b8809d96bb0121" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
