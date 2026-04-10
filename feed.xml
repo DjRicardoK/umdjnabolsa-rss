@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 22:56:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 23:16:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fábricas da China voltam à inflação com choque de preços da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/chinas-factories-jolts-back-to-inflation-on-iran-war-price-shock-4607037</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-factories-jolts-back-to-inflation-on-iran-war-price-shock-4607037</guid>
+      <pubDate>09/04/2026 23:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM39035_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE China March PPI retorna ao crescimento pela primeira vez desde 2022, CPI perde previsões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-one-most-142331831.html</guid>
       <pubDate>09/04/2026 19:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e7e98525ccabeaa87f20d3c767e1f7ef" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da International Paper: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/international-papers-q1-2026-earnings-151536488.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/international-papers-q1-2026-earnings-151536488.html</guid>
-      <pubDate>09/04/2026 19:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8641d2d4a2f648476d0f1b68da177252" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
