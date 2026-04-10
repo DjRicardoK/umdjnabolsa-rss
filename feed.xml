@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 03:33:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 04:13:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O JPMorgan ainda aposta que as ações da Tesla cairão 60% a partir daqui</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jpmorgan-still-betting-tesla-stock-191627646.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jpmorgan-still-betting-tesla-stock-191627646.html</guid>
+      <pubDate>10/04/2026 04:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/21c8de48decad8192bf12d56783343fb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da AI estão se dividindo. Aqui está 1 vencedor e 1 jogo de retorno</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-factories-jolts-back-to-inflation-on-iran-war-price-shock-4607037</guid>
       <pubDate>09/04/2026 23:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM39035_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE China March PPI retorna ao crescimento pela primeira vez desde 2022, CPI perde previsões</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/china-march-ppi-returns-to-growth-for-first-time-since-2022-cpi-misses-forecasts-4607035</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/china-march-ppi-returns-to-growth-for-first-time-since-2022-cpi-misses-forecasts-4607035</guid>
-      <pubDate>09/04/2026 22:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC6C0O4_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
