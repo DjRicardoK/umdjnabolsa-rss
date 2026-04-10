@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 18:02:29 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:02:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A Terra Quantum, com sede na Suíça, planeja listar na Nasdaq via SPAC com avaliação de US$ 3,25 bilhões</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/swiss-based-terra-quantum-plans-111902114.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/swiss-based-terra-quantum-plans-111902114.html</guid>
+      <pubDate>10/04/2026 18:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/6a3c206f71df9e04352400f3739c4a17" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Chevron prevê aumento de até US$ 2,2 bilhões nos lucros upstream devido aos preços mais altos do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/trane-technologies-q1-2026-earnings-090131543.html</guid>
       <pubDate>10/04/2026 15:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/aa8a5620cf9e56b478bc3e5e10a8b1ca" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Exportações de automóveis da China aceleram apesar das perturbações da crise no Médio Oriente</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/chinas-car-exports-accelerate-despite-090159772.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/chinas-car-exports-accelerate-despite-090159772.html</guid>
-      <pubDate>10/04/2026 15:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/590e3ab12a39d0e236ff21087f567b00" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
