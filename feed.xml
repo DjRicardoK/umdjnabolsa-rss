@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 05:22:36 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 05:25:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bank of America alerta que o choque do petróleo no Oriente Médio é uma má notícia para as ações da Carvana....</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bank-america-warns-middle-east-205821624.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bank-america-warns-middle-east-205821624.html</guid>
+      <pubDate>10/04/2026 05:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/76da9650373c5feceebced05191c13b4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Delta Air Lines, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-avalonbays-next-quarterly-earnings-175221571.html</guid>
       <pubDate>10/04/2026 02:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d1563ab40360b1b7eb064caf9a02d858" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Goldman Sachs podem gerar outro pop pós-lucro?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-deliver-another-earnings-175604946.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-deliver-another-earnings-175604946.html</guid>
-      <pubDate>10/04/2026 02:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/schaeffers_investment_research_24/9295013f3d16ca6d67405233f1c9ac6b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
