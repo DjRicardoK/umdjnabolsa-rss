@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 15:45:22 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:57:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Versamet conclui aquisição de fluxo de ouro da Eskay Creek por US$ 340 milhões</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/versamet-completes-340m-eskay-creek-gold-stream-acquisition-93CH-4608385</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/versamet-completes-340m-eskay-creek-gold-stream-acquisition-93CH-4608385</guid>
+      <pubDate>10/04/2026 15:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Comprar um carro fora do estado pode economizar milhares de dólares – mas faça estas três perguntas primeiro</title>
       <description>Os preços persistentemente elevados dos automóveis estão a levar mais compradores a expandir o seu raio de pesquisa para além das fronteiras estaduais para encontrar um negócio.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/apple-stock-market-share-gains-macbook-neo-iphone-17/?src=A00220&yptr=yahoo</guid>
       <pubDate>10/04/2026 13:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/c1568cb57f7b749f0169da3cd001e56d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações caem à medida que as esperanças de cessar-fogo compensam as tensões no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-ceasefire-hopes-lift-sentiment-4607119</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-ceasefire-hopes-lift-sentiment-4607119</guid>
-      <pubDate>10/04/2026 13:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7O0CS_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
