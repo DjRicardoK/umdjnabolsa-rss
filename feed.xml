@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 08:37:06 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 08:37:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Kymera Therapeutics na compra</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-kymera-therapeutics-stock-rating-at-buy-93CH-4607570</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-kymera-therapeutics-stock-rating-at-buy-93CH-4607570</guid>
+      <pubDate>10/04/2026 08:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Zentalis na seleção de dose essencial</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-southern-copper-stock-rating-citing-scarcity-premium-93CH-4607170</guid>
       <pubDate>10/04/2026 05:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do terceiro trimestre de 2026 da RPM International Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/rpm-international-inc-q3-2026-203941280.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rpm-international-inc-q3-2026-203941280.html</guid>
-      <pubDate>10/04/2026 05:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/afdfa1e92070f5dc8f9a2651d171d855" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
