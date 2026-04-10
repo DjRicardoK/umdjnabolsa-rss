@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 11:30:14 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 11:49:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Amazon é o melhor estoque de nuvem de IA no portfólio do bilionário Ken Fisher?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-best-ai-cloud-stock-143421412.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-best-ai-cloud-stock-143421412.html</guid>
+      <pubDate>10/04/2026 11:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bf5db36a1da6774e5e796de67b414473" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow oscila em dados surpreendentes de inflação do IPC; Nvidia Chipmaker TSMC salta...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/ustr-if-china-gets-involved-in-iran-will-complicate-matters-4607616</guid>
       <pubDate>10/04/2026 09:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM390NY_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Compass Inc (COMP) reflete o rali de Wall Street, sobe 11,4%</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/compass-inc-comp-mirrors-wall-004402148.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/compass-inc-comp-mirrors-wall-004402148.html</guid>
-      <pubDate>10/04/2026 09:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e3c84bffd95ecba3ede86d4a4cd63c08" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
