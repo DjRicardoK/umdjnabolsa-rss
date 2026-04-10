@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 02:56:14 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:08:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 4,61%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-461-4607064</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-461-4607064</guid>
+      <pubDate>10/04/2026 03:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8R190_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Analistas veem grande vantagem na Microsoft: hora de comprar ações da MSFT?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-will-set-policy-with-eye-on-scale-length-of-iran-war-shock-deputy-governor-says-4607029</guid>
       <pubDate>09/04/2026 22:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3902E_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações instáveis ​​enquanto ataques israelenses ao Líbano testam o cessar-fogo do Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/stocks-shaky-as-israeli-attacks-on-lebanon-tests-iran-ceasefire-4607026</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-shaky-as-israeli-attacks-on-lebanon-tests-iran-ceasefire-4607026</guid>
-      <pubDate>09/04/2026 22:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM39025_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
