@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 15:20:15 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:20:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Chicote do petróleo: choque da guerra no Irã levará o mercado ao déficit em 2026, dizem analistas</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/oil-whiplash-iran-war-shock-to-flip-market-to-deficit-in-2026-analysts-say-4608356</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-whiplash-iran-war-shock-to-flip-market-to-deficit-in-2026-analysts-say-4608356</guid>
+      <pubDate>10/04/2026 15:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3913I_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O Fed precisará explicar por que o salto da inflação atual difere do aumento de 2022</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-049-4608251</guid>
       <pubDate>10/04/2026 13:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/c9f7dfd63e3068e785b7fe83687a1adb_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Holanda sobem no fechamento do pregão; AEX sobe 0,51%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-051-4608252</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-051-4608252</guid>
-      <pubDate>10/04/2026 13:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
