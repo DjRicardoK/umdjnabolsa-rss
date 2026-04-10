@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 11:09:43 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 11:20:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os americanos culpam a guerra do Irão pela piora das perspectivas económicas, empurrando o sentimento para...</title>
+      <description>As opiniões são negativas sobre as condições de negócios, finanças pessoais e expectativas de inflação disparam</description>
+      <link>https://www.marketwatch.com/story/americans-blame-iran-war-for-worsening-economic-outlook-pushing-sentiment-down-to-record-low-db3332ef?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/americans-blame-iran-war-for-worsening-economic-outlook-pushing-sentiment-down-to-record-low-db3332ef?mod=mw_rss_topstories</guid>
+      <pubDate>10/04/2026 11:20</pubDate>
+      <enclosure url="https://images.mktw.net/im-14317309" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE DA. Davidson reitera classificação de ações da Repay em meio à resistência dos investidores</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/disney-plans-cut-1-000-003401037.html</guid>
       <pubDate>10/04/2026 09:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/3a52384c2fd4d71e226df1270b7f2ebf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Oncolytics Biotech na compra</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-oncolytics-biotech-stock-rating-at-buy-93CH-4607569</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-oncolytics-biotech-stock-rating-at-buy-93CH-4607569</guid>
-      <pubDate>10/04/2026 08:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
