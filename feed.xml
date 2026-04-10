@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 09 Apr 2026 21:18:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 21:19:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ásia-Pacífico enfrenta crescimento mais fraco e inflação mais alta devido à crise no Oriente Médio, alerta BAD</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/asia-pacific-faces-weaker-growth-and-higher-inflation-from-middle-east-crisis-adb-warns-4606999</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/asia-pacific-faces-weaker-growth-and-higher-inflation-from-middle-east-crisis-adb-warns-4606999</guid>
+      <pubDate>09/04/2026 21:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM39001_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A inflação no atacado no Japão acelera à medida que a guerra no Oriente Médio aumenta os custos de insumos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/netflix-big-banks-face-a-moment-of-truth-as-the-iran-cease-fire-rally-meets-earnings-season-35324a21?mod=mw_rss_topstories</guid>
       <pubDate>09/04/2026 19:00</pubDate>
       <enclosure url="https://images.mktw.net/im-02475678" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 do Grupo EMCOR: O que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/emcor-groups-q1-2026-earnings-130454453.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/emcor-groups-q1-2026-earnings-130454453.html</guid>
-      <pubDate>09/04/2026 18:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
