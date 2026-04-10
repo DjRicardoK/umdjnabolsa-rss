@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:49:11 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 08:15:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Camping World Holdings atualiza contratos executivos e concede novos prêmios de capital</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/camping-world-holdings-updates-executive-contracts-and-grants-new-equity-awards-93CH-4607527</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/camping-world-holdings-updates-executive-contracts-and-grants-new-equity-awards-93CH-4607527</guid>
+      <pubDate>10/04/2026 08:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Oppenheimer reitera classificação das ações da Sensata Technologies em Outperform</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/transocean-rig-12-high-growth-193838225.html</guid>
       <pubDate>10/04/2026 04:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/864585eccd6055bc222f7666b3c99efb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dólar cai e ouro sobe com cessar-fogo EUA-Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-falls-gold-rallies-us-193457583.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-falls-gold-rallies-us-193457583.html</guid>
-      <pubDate>10/04/2026 04:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/509023aecba52a4b6f4cb6cc61e4a34e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
