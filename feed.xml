@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 03:26:58 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:33:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da AI estão se dividindo. Aqui está 1 vencedor e 1 jogo de retorno</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/ai-stocks-splitting-1-winner-184000391.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ai-stocks-splitting-1-winner-184000391.html</guid>
+      <pubDate>10/04/2026 03:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/72969cd8320775c6cf8814d5d2c8f685" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A China não tolerará a independência de Taiwan, diz Xi ao líder da oposição da ilha</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/china-march-ppi-returns-to-growth-for-first-time-since-2022-cpi-misses-forecasts-4607035</guid>
       <pubDate>09/04/2026 22:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC6C0O4_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE China vê primeira inflação ao produtor em mais de três anos</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/china-sees-first-producer-inflation-in-over-three-years-4607034</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-sees-first-producer-inflation-in-over-three-years-4607034</guid>
-      <pubDate>09/04/2026 22:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3902L_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
