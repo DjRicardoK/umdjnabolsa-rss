@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 15:09:29 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:09:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Exportações de automóveis da China aceleram apesar das perturbações da crise no Médio Oriente</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/chinas-car-exports-accelerate-despite-090159772.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/chinas-car-exports-accelerate-despite-090159772.html</guid>
+      <pubDate>10/04/2026 15:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/590e3ab12a39d0e236ff21087f567b00" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que você precisa saber antes de C.H. Divulgação de lucros de Robinson</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/bentley-systems-stock-hits-52week-low-at-3095-usd-93CH-4608233</guid>
       <pubDate>10/04/2026 13:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preocupações com a competição de IA atacam novamente os estoques de software. Palantir martelado.</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/worries-over-ai-competition-pummel-software-stocks-palantir/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/worries-over-ai-competition-pummel-software-stocks-palantir/?src=A00220&yptr=yahoo</guid>
-      <pubDate>10/04/2026 12:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/e7f98663b06206a2c8dd94f188ca0a64" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
