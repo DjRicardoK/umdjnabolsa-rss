@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 03:08:19 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:26:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação alemã confirmada em 2,8% em março</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/german-inflation-confirmed-at-28-in-march-4607073</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/german-inflation-confirmed-at-28-in-march-4607073</guid>
+      <pubDate>10/04/2026 03:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3909L_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 4,61%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-set-for-weekly-drop-ahead-of-usiran-peace-talks-4607028</guid>
       <pubDate>09/04/2026 22:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3902C_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco do Japão definirá política de olho na escala e duração do choque da guerra no Irã, diz vice-governador</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/boj-will-set-policy-with-eye-on-scale-length-of-iran-war-shock-deputy-governor-says-4607029</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-will-set-policy-with-eye-on-scale-length-of-iran-war-shock-deputy-governor-says-4607029</guid>
-      <pubDate>09/04/2026 22:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3902E_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
