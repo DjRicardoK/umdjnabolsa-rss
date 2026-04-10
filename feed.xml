@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 15:57:26 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:57:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Check Point Software atingem o mínimo de 52 semanas a 135,76 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/check-point-software-stock-hits-52week-low-at-13576-usd-93CH-4608384</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/check-point-software-stock-hits-52week-low-at-13576-usd-93CH-4608384</guid>
+      <pubDate>10/04/2026 15:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Versamet conclui aquisição de fluxo de ouro da Eskay Creek por US$ 340 milhões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/nvidias-stock-extends-its-hot-streak-and-thats-great-news-for-the-s-p-500-a2197b41?mod=mw_rss_topstories</guid>
       <pubDate>10/04/2026 13:25</pubDate>
       <enclosure url="https://images.mktw.net/im-03914561" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Apple ganhando participação de mercado em PCs e smartphones</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/apple-stock-market-share-gains-macbook-neo-iphone-17/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/apple-stock-market-share-gains-macbook-neo-iphone-17/?src=A00220&yptr=yahoo</guid>
-      <pubDate>10/04/2026 13:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/c1568cb57f7b749f0169da3cd001e56d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
