@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 04:24:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 04:25:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar cai e ouro sobe com cessar-fogo EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-falls-gold-rallies-us-193457583.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-falls-gold-rallies-us-193457583.html</guid>
+      <pubDate>10/04/2026 04:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/509023aecba52a4b6f4cb6cc61e4a34e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Delta Pops, Oil Drops, isso vai parar? Como negociar ações e ETFs de companhias aéreas agora.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-dip-ahead-of-usiran-talks-cpi-data-set-for-weekly-rise-4607040</guid>
       <pubDate>09/04/2026 23:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1M0ED_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Sentimento misto dos analistas sobre Tesla (TSLA) em meio a preocupações de avaliação</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/mixed-analyst-sentiment-tesla-tsla-143403193.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mixed-analyst-sentiment-tesla-tsla-143403193.html</guid>
-      <pubDate>09/04/2026 23:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f605d006edcc6d4452a5aef69b1a7127" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
