@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 17:53:31 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 17:55:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos da Amcor: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amcor-earnings-preview-expect-110901401.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amcor-earnings-preview-expect-110901401.html</guid>
+      <pubDate>10/04/2026 17:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9dd7edea2fb82361e93ea51ec869191d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warren Buffett comprou 5 milhões de ações da UnitedHealth enquanto ela despencava. Um Medicare de US$ 13...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-c-h-robinsons-081022680.html</guid>
       <pubDate>10/04/2026 15:09</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b5209f041ff9b372cd16409e7d1352c9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE CEO de Howard Hanna enfrenta temores de crise imobiliária</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/howard-hanna-ceo-confronts-housing-200049242.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/howard-hanna-ceo-confronts-housing-200049242.html</guid>
-      <pubDate>10/04/2026 15:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/001e6d3a4c1d8fb48f94e55d9d33f04a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
