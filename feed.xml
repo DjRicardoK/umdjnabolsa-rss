@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 17:07:26 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 17:26:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Temporada de lucros dos EUA deve testar ações abaladas pela guerra</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/us-earnings-season-set-to-test-warrattled-stocks-4608277</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-earnings-season-set-to-test-warrattled-stocks-4608277</guid>
+      <pubDate>10/04/2026 17:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM390KQ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações caem antes da abertura à medida que o petróleo se recupera em meio ao frágil cessar-fogo EUA-Irã,...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/earnings-preview/tsmc-stock-taiwan-semiconductor-ai-chip-sales/?src=A00220&yptr=yahoo</guid>
       <pubDate>10/04/2026 14:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/a083b8244bac7095bb20f2b4297ae963" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Google, ação do dia do IBD, recuperando-se antes dos lucros do primeiro trimestre em meio a preocupações com...</title>
-      <description></description>
-      <link>https://www.investors.com/research/ibd-stock-of-the-day/google-ibd-stock-of-the-day-rebounding-ahead-of-first-quarter-earnings/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/ibd-stock-of-the-day/google-ibd-stock-of-the-day-rebounding-ahead-of-first-quarter-earnings/?src=A00220&yptr=yahoo</guid>
-      <pubDate>10/04/2026 14:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/2a39205b4026639d8d0ce7388cc1b17e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
