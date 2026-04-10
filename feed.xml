@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 09:07:41 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:07:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Compass Inc (COMP) reflete o rali de Wall Street, sobe 11,4%</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/compass-inc-comp-mirrors-wall-004402148.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/compass-inc-comp-mirrors-wall-004402148.html</guid>
+      <pubDate>10/04/2026 09:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e3c84bffd95ecba3ede86d4a4cd63c08" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Disney planeja cortar 1.000 empregos, informa WSJ</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bank-america-warns-middle-east-205821624.html</guid>
       <pubDate>10/04/2026 05:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/76da9650373c5feceebced05191c13b4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Delta Air Lines, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-inc-q1-204328375.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-inc-q1-204328375.html</guid>
-      <pubDate>10/04/2026 05:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/4b38dc67918321d3db79dec2610a1005" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
