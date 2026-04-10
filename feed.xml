@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 04:55:43 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 05:07:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações terminam em forte alta com cessar-fogo EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-finish-sharply-higher-us-203624151.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-finish-sharply-higher-us-203624151.html</guid>
+      <pubDate>10/04/2026 05:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bab324b7ff3e454bd77e3afc82d85ce5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Pare de se preocupar com CapEx e compre o mergulho nas ações da Amazon aqui</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/treasury-secretary-bessent-and-fed-chair-powell-meet-bank-ceos-on-anthropic-ai-risks-93CH-4607044</guid>
       <pubDate>10/04/2026 01:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/citibank_M_1440049090.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Espera-se que a inflação ao consumidor dos EUA tenha aumentado em março em meio à guerra com o Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-consumer-inflation-expected-to-have-surged-in-march-amid-iran-war-4607045</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-consumer-inflation-expected-to-have-surged-in-march-amid-iran-war-4607045</guid>
-      <pubDate>10/04/2026 01:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3905Z_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
