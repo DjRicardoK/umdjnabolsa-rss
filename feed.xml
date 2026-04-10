@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 14:45:13 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:09:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE CEO de Howard Hanna enfrenta temores de crise imobiliária</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/howard-hanna-ceo-confronts-housing-200049242.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/howard-hanna-ceo-confronts-housing-200049242.html</guid>
+      <pubDate>10/04/2026 15:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/001e6d3a4c1d8fb48f94e55d9d33f04a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tesla está se aproximando de um marco importante – mas pode não ser suficiente para aumentar o estoque</title>
       <description>Os investidores precisam de provas de que a tecnologia sem condutor da Tesla está a melhorar para justificar o preço das ações, afirma a Morgan Stanley.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/purecycle-technologies-inc-pct-one-152438594.html</guid>
       <pubDate>10/04/2026 12:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8a648f9b895bb3fcca3e3277fb31be4e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Polônia sobem no fechamento do pregão; WIG30 subiu 1,36%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-136-4608221</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-136-4608221</guid>
-      <pubDate>10/04/2026 12:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE5Q0L9_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
