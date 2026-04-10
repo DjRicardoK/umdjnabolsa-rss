@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 10:01:06 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 10:12:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (AXTI) sobe 17% antes dos lucros, empresa ‘otimista’ para o primeiro trimestre</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-soars-17-010637951.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/axt-inc-axti-soars-17-010637951.html</guid>
+      <pubDate>10/04/2026 10:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b1f74494dbd673685fd6854c90790287" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cantor Fitzgerald reitera classificação das ações da DigitalOcean sobre o crescimento da IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/tsmc-reports-forecast-beating-revenue-with-the-message-that-war-isnt-denting-ai-chip-demand-6bd25a27?mod=mw_rss_topstories</guid>
       <pubDate>10/04/2026 07:17</pubDate>
       <enclosure url="https://images.mktw.net/im-82304187" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Embarcadores avaliam rotas incomuns à medida que altas taxas de carga aérea e congestionamento oceânico...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/shippers-weigh-unusual-routes-as-high-air-cargo-rates-ocean-gridlock-persist-4607301</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/shippers-weigh-unusual-routes-as-high-air-cargo-rates-ocean-gridlock-persist-4607301</guid>
-      <pubDate>10/04/2026 07:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM390IN_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
