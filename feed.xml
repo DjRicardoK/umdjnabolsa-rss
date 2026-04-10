@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 15:09:23 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:09:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que você precisa saber antes de C.H. Divulgação de lucros de Robinson</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-c-h-robinsons-081022680.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-c-h-robinsons-081022680.html</guid>
+      <pubDate>10/04/2026 15:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b5209f041ff9b372cd16409e7d1352c9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE CEO de Howard Hanna enfrenta temores de crise imobiliária</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/worries-over-ai-competition-pummel-software-stocks-palantir/?src=A00220&yptr=yahoo</guid>
       <pubDate>10/04/2026 12:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/e7f98663b06206a2c8dd94f188ca0a64" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Purecycle Technologies Inc (PCT) é uma das ações de pequena capitalização que representa 0,28% da carteira...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/purecycle-technologies-inc-pct-one-152438594.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/purecycle-technologies-inc-pct-one-152438594.html</guid>
-      <pubDate>10/04/2026 12:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8a648f9b895bb3fcca3e3277fb31be4e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
