@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 18:38:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:59:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar cai com notícias econômicas fracas dos EUA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-slips-weak-us-economic-143801386.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-slips-weak-us-economic-143801386.html</guid>
+      <pubDate>10/04/2026 18:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/67b7103c6dca24a2cefa9c0b1e9a88a1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações de software estão sendo pulverizadas – mas a recuperação do bitcoin sugere que um fundo pode estar...</title>
       <description>A força relativa do Bitcoin na sexta-feira pode oferecer uma pista de alta para ações de software prejudicadas – isto é, se um relacionamento passado ainda se mantiver.</description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/company-news/check-point-software-stock-hits-52week-low-at-13576-usd-93CH-4608384</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/check-point-software-stock-hits-52week-low-at-13576-usd-93CH-4608384</guid>
-      <pubDate>10/04/2026 15:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Versamet conclui aquisição de fluxo de ouro da Eskay Creek por US$ 340 milhões</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/versamet-completes-340m-eskay-creek-gold-stream-acquisition-93CH-4608385</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/versamet-completes-340m-eskay-creek-gold-stream-acquisition-93CH-4608385</guid>
       <pubDate>10/04/2026 15:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
