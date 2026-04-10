@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 02:27:44 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 02:35:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Goldman Sachs podem gerar outro pop pós-lucro?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-deliver-another-earnings-175604946.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-deliver-another-earnings-175604946.html</guid>
+      <pubDate>10/04/2026 02:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/schaeffers_investment_research_24/9295013f3d16ca6d67405233f1c9ac6b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Astronautas Artemis II voltam da Lua para casa em direção à queda</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/south-korean-central-bank-stands-pat-as-middle-east-war-fuels-inflation-growth-risks-4607018</guid>
       <pubDate>09/04/2026 22:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM39016_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ásia-Pacífico enfrenta crescimento mais fraco e inflação mais alta devido à crise no Oriente Médio, alerta BAD</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/asia-pacific-faces-weaker-growth-and-higher-inflation-from-middle-east-crisis-adb-warns-4606999</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/asia-pacific-faces-weaker-growth-and-higher-inflation-from-middle-east-crisis-adb-warns-4606999</guid>
-      <pubDate>09/04/2026 21:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM39001_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
