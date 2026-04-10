@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 15:17:25 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:20:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O Fed precisará explicar por que o salto da inflação atual difere do aumento de 2022</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/fed-will-need-to-explain-why-current-inflation-jump-differs-from-2022-surge-4608353</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-will-need-to-explain-why-current-inflation-jump-differs-from-2022-surge-4608353</guid>
+      <pubDate>10/04/2026 15:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3913B_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 13F Finward Bancorp para: 10 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-051-4608252</guid>
       <pubDate>10/04/2026 13:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Este pode ser o melhor momento para você comprar ações da Big Tech</title>
-      <description>Também em leituras de fim de semana: Como se recuperar de erros financeiros, soluções para um problema tributário e conselhos do Moneyist.</description>
-      <link>https://www.marketwatch.com/story/this-might-be-the-best-time-for-you-to-load-up-on-big-tech-stocks-5bc6ea39?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/this-might-be-the-best-time-for-you-to-load-up-on-big-tech-stocks-5bc6ea39?mod=mw_rss_topstories</guid>
-      <pubDate>10/04/2026 13:10</pubDate>
-      <enclosure url="https://images.mktw.net/im-82445936" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
