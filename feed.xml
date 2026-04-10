@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 17:07:20 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 17:07:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações caem antes da abertura à medida que o petróleo se recupera em meio ao frágil cessar-fogo EUA-Irã,...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-oil-rebounds-103152617.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-oil-rebounds-103152617.html</guid>
+      <pubDate>10/04/2026 17:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/3716b415734e9ec3513eabe4054988f1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE CEO da Amazon revela receita de IA e descarta dúvidas sobre gastos em carta anual</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/ibd-stock-of-the-day/google-ibd-stock-of-the-day-rebounding-ahead-of-first-quarter-earnings/?src=A00220&yptr=yahoo</guid>
       <pubDate>10/04/2026 14:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/2a39205b4026639d8d0ce7388cc1b17e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de companhias aéreas: o que acontece depois dos picos do petróleo?</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/airline-stocks-what-happens-after-oil-peaks-4608304</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/airline-stocks-what-happens-after-oil-peaks-4608304</guid>
-      <pubDate>10/04/2026 14:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAJ07A_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
