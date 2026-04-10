@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:34:55 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:49:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Oppenheimer reitera classificação das ações da Sensata Technologies em Outperform</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-sensata-technologies-stock-rating-at-outperform-93CH-4607453</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-sensata-technologies-stock-rating-at-outperform-93CH-4607453</guid>
+      <pubDate>10/04/2026 07:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warburg Pincus e Munich Re arm se unem para investir no setor de defesa da Europa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-falls-gold-rallies-us-193457583.html</guid>
       <pubDate>10/04/2026 04:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/509023aecba52a4b6f4cb6cc61e4a34e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Delta Pops, Oil Drops, isso vai parar? Como negociar ações e ETFs de companhias aéreas agora.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/delta-pops-oil-drops-stop-192959549.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/delta-pops-oil-drops-stop-192959549.html</guid>
-      <pubDate>10/04/2026 04:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ff25765316957d609dc066b454e4d7bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
