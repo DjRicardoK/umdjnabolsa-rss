@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 09:18:45 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 09:25:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os futuros de ações dos EUA pouco mudaram enquanto os investidores aguardam os principais dados da inflação...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-iran-ceasefire-talks-cpi-data-in-focus-4607013</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-iran-ceasefire-talks-cpi-data-in-focus-4607013</guid>
+      <pubDate>10/04/2026 09:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB5N0PP_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE USTR: O envolvimento da China no Irã complicaria as coisas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/are-stocks-too-optimistic-about-a-smooth-path-to-peace-4607100</guid>
       <pubDate>10/04/2026 05:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5O0AM_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bitcoin sobe acima de US$ 72 mil com negociações EUA-Irã, dados de CPI em foco</title>
-      <description></description>
-      <link>https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-72k-with-usiran-talks-cpi-data-in-focus-4607105</link>
-      <guid isPermaLink="false">https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-72k-with-usiran-talks-cpi-data-in-focus-4607105</guid>
-      <pubDate>10/04/2026 05:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE060BB_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
