@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:22:48 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:26:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon aumentará a entrega de drones em 2025, diz CEO</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/amazon-scale-drone-delivery-2025-151325861.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazon-scale-drone-delivery-2025-151325861.html</guid>
+      <pubDate>10/04/2026 12:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/freightwaves_373/56cb9e3be5c420fd7130afcf86899e58" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da Palo Alto Networks lideram outra venda dramática de software. Aqui está o que os investidores...</title>
       <description>Os investidores parecem cada vez mais assustados com o Mythos, um futuro modelo Antrópico que a empresa afirma ser tão poderoso que poderia penetrar nas defesas cibernéticas...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/wall-st-futures-gain-after-march-inflation-data-4607786</guid>
       <pubDate>10/04/2026 09:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM390Q6_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Stifel reitera classificação das ações da Medtronic sobre crescimento da denervação renal</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-medtronic-stock-rating-on-renal-denervation-growth-93CH-4607782</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-medtronic-stock-rating-on-renal-denervation-growth-93CH-4607782</guid>
-      <pubDate>10/04/2026 09:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
