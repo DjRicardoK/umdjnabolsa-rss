@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 07:17:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:34:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warburg Pincus e Munich Re arm se unem para investir no setor de defesa da Europa</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/warburg-pincus-munich-re-arm-team-up-to-invest-in-europes-defence-sector-4607430</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/warburg-pincus-munich-re-arm-team-up-to-invest-in-europes-defence-sector-4607430</guid>
+      <pubDate>10/04/2026 07:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM390K0_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE TSMC relata receita que supera as previsões com a mensagem de que a guerra não está prejudicando a demanda...</title>
       <description>Os números das vendas em libras esterlinas nos primeiros três meses fornecerão a tão necessária garantia aos investidores de que a demanda por chips de última geração para uso em...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/delta-pops-oil-drops-stop-192959549.html</guid>
       <pubDate>10/04/2026 04:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ff25765316957d609dc066b454e4d7bc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 1,90%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-190-4607109</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-190-4607109</guid>
-      <pubDate>10/04/2026 04:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6200T_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
