@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 05:25:57 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 05:39:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bitcoin sobe acima de US$ 72 mil com negociações EUA-Irã, dados de CPI em foco</title>
+      <description></description>
+      <link>https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-72k-with-usiran-talks-cpi-data-in-focus-4607105</link>
+      <guid isPermaLink="false">https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-above-72k-with-usiran-talks-cpi-data-in-focus-4607105</guid>
+      <pubDate>10/04/2026 05:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE060BB_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bank of America alerta que o choque do petróleo no Oriente Médio é uma má notícia para as ações da Carvana....</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysts-see-massive-upside-microsoft-182128083.html</guid>
       <pubDate>10/04/2026 02:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5882360fb14b17c65d3aab9c9ee31457" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da AvalonBay</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-avalonbays-next-quarterly-earnings-175221571.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-avalonbays-next-quarterly-earnings-175221571.html</guid>
-      <pubDate>10/04/2026 02:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d1563ab40360b1b7eb064caf9a02d858" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
