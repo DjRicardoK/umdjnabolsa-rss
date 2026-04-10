@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 06:16:29 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:09:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A conta de pagamento do Fed da gigante criptográfica Kraken desperta preocupações sobre riscos</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/analysiscrypto-giant-krakens-fed-payment-account-sparks-concerns-about-risks-4607302</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysiscrypto-giant-krakens-fed-payment-account-sparks-concerns-about-risks-4607302</guid>
+      <pubDate>10/04/2026 07:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM390IM_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Apple lidera remessas globais de smartphones no primeiro trimestre, diz Counterpoint</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jpmorgan-still-betting-tesla-stock-191627646.html</guid>
       <pubDate>10/04/2026 04:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/21c8de48decad8192bf12d56783343fb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da AI estão se dividindo. Aqui está 1 vencedor e 1 jogo de retorno</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/ai-stocks-splitting-1-winner-184000391.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ai-stocks-splitting-1-winner-184000391.html</guid>
-      <pubDate>10/04/2026 03:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/72969cd8320775c6cf8814d5d2c8f685" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
