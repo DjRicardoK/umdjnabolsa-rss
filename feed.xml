@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 12:54:07 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 13:00:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Bentley Systems atingem o menor nível em 52 semanas, a 30,95 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/bentley-systems-stock-hits-52week-low-at-3095-usd-93CH-4608233</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/bentley-systems-stock-hits-52week-low-at-3095-usd-93CH-4608233</guid>
+      <pubDate>10/04/2026 13:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preocupações com a competição de IA atacam novamente os estoques de software. Palantir martelado.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-jaguar-health-q4-2025-misses-eps-revenue-targets-93CH-4607922</guid>
       <pubDate>10/04/2026 10:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Wall St deve abrir silenciosamente após dados de inflação em linha; Trégua no Médio Oriente em foco</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-stock-futures-subdued-ahead-of-inflation-data-mideast-in-focus-4607245</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-stock-futures-subdued-ahead-of-inflation-data-mideast-in-focus-4607245</guid>
-      <pubDate>10/04/2026 10:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM390HD_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
