@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 18:23:44 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 18:38:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações de software estão sendo pulverizadas – mas a recuperação do bitcoin sugere que um fundo pode estar...</title>
+      <description>A força relativa do Bitcoin na sexta-feira pode oferecer uma pista de alta para ações de software prejudicadas – isto é, se um relacionamento passado ainda se mantiver.</description>
+      <link>https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories</guid>
+      <pubDate>10/04/2026 18:38</pubDate>
+      <enclosure url="https://images.mktw.net/im-37151738" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da ConocoPhillips</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/versamet-completes-340m-eskay-creek-gold-stream-acquisition-93CH-4608385</guid>
       <pubDate>10/04/2026 15:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Comprar um carro fora do estado pode economizar milhares de dólares – mas faça estas três perguntas primeiro</title>
-      <description>Os preços persistentemente elevados dos automóveis estão a levar mais compradores a expandir o seu raio de pesquisa para além das fronteiras estaduais para encontrar um negócio.</description>
-      <link>https://www.marketwatch.com/story/buying-a-car-out-of-state-can-save-you-thousands-of-dollars-but-ask-these-3-questions-first-4a50158c?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/buying-a-car-out-of-state-can-save-you-thousands-of-dollars-but-ask-these-3-questions-first-4a50158c?mod=mw_rss_topstories</guid>
-      <pubDate>10/04/2026 15:45</pubDate>
-      <enclosure url="https://images.mktw.net/im-78625184" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
