@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Apr 2026 10:28:09 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 10:34:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Impulsionando a IA: Barclays nomeia as melhores ações de operadora de data center para possuir</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/powering-ai-barclays-names-best-data-center-operator-stocks-to-own-93CH-4607998</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/powering-ai-barclays-names-best-data-center-operator-stocks-to-own-93CH-4607998</guid>
+      <pubDate>10/04/2026 10:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Microsoft_2_M_1440048702.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Jaguar Health Q4 2025 perde lucro por ação e metas de receita</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/concorde-international-changes-ticker-symbol-to-yoov-on-nasdaq-93CH-4607526</guid>
       <pubDate>10/04/2026 08:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Camping World Holdings atualiza contratos executivos e concede novos prêmios de capital</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/camping-world-holdings-updates-executive-contracts-and-grants-new-equity-awards-93CH-4607527</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/camping-world-holdings-updates-executive-contracts-and-grants-new-equity-awards-93CH-4607527</guid>
-      <pubDate>10/04/2026 08:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
