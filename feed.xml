@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 12 Apr 2026 23:27:01 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 23:45:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O governo de Taiwan deve liderar o envolvimento com a China em novas medidas, diz alto funcionário</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/taiwan-government-should-lead-engagement-with-china-on-new-measures-senior-official-says-4609136</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/taiwan-government-should-lead-engagement-with-china-on-new-measures-senior-official-says-4609136</guid>
+      <pubDate>12/04/2026 23:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C03H_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE EUA, Austrália e Filipinas realizam segundo exercício conjunto no Mar da China Meridional este ano</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-hotel-stocks-hyatt-marriott-133535779.html</guid>
       <pubDate>10/04/2026 18:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/2152127d998ce3a7bb40b527e8bfeb2b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Terra Quantum, com sede na Suíça, planeja listar na Nasdaq via SPAC com avaliação de US$ 3,25 bilhões</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/swiss-based-terra-quantum-plans-111902114.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/swiss-based-terra-quantum-plans-111902114.html</guid>
-      <pubDate>10/04/2026 18:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/6a3c206f71df9e04352400f3739c4a17" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
