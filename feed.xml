@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 01:52:22 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 01:52:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (CTAS) é uma das melhores ações QQQ para comprar agora?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cintas-corp-ctas-one-best-173618722.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cintas-corp-ctas-one-best-173618722.html</guid>
+      <pubDate>13/04/2026 01:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/42a60e4b177747212fac11507182e5ea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Cadence (CDNS), Nvidia (NVDA) Expandem Colaboração Agentic AI</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-ev-stocks-getting-no-151500618.html</guid>
       <pubDate>12/04/2026 23:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/bc2af4481a8fd3336132e23f91dff25f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Warren Buffett possui quase 10% desta empresa - você deve seguir o exemplo dele?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-owns-nearly-10-150500929.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-owns-nearly-10-150500929.html</guid>
-      <pubDate>12/04/2026 23:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/fb618ae97d60c2dab7df96c4966d329c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
