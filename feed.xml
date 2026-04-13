@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 04:50:04 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 04:55:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Aumento do preço dos selos do USPS em 2026: correspondência de primeira classe pode subir para US$ 1 durante...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/usps-stamp-price-increase-2026-203046515.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/usps-stamp-price-increase-2026-203046515.html</guid>
+      <pubDate>13/04/2026 04:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/a4e53bfbdb875856a99f5adb33b1855d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Andy Jassy acaba de anunciar notícias maravilhosas para investidores em ações da Amazon</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-weakens-dollar-gains-after-usiran-peace-talks-falter-4609197</guid>
       <pubDate>13/04/2026 02:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC220WE_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Previsão: as ações da Nvidia podem ser compradas antes de 20 de maio</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-buy-may-175000516.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-buy-may-175000516.html</guid>
-      <pubDate>13/04/2026 01:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e32ded3a3480b873769ad084e38af0dc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
