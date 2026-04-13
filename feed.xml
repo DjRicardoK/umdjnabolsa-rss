@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:58:28 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:00:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de Israel caem no fechamento do pregão; TA 35 caiu 1,36%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-136-4610762</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-136-4610762</guid>
+      <pubDate>13/04/2026 12:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE0D09K_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs ocupa a primeira posição entre o S&amp;P 500 por esta estatística notável</title>
       <description>O banco de investimento tem recompensado consistentemente seus acionistas.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-goldman-sachs-stock-rating-on-strong-advisory-93CH-4610642</guid>
       <pubDate>13/04/2026 10:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da BlackRock sobem em meio a cortes nas estimativas e debate sobre crescimento</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/blackrock-earnings-on-deck-amid-estimate-cuts-growth-debate-93CH-4610614</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/blackrock-earnings-on-deck-amid-estimate-cuts-growth-debate-93CH-4610614</guid>
-      <pubDate>13/04/2026 10:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
