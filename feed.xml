@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 14:01:43 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 14:16:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reitera compra de ações da MBX Biosciences e mantém meta de US$ 50</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-mbx-biosciences-stock-keeps-50-target-93CH-4610959</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-on-mbx-biosciences-stock-keeps-50-target-93CH-4610959</guid>
+      <pubDate>13/04/2026 14:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Fastenal Company</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-way-cheaper-155000462.html</guid>
       <pubDate>13/04/2026 13:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e6b8f1e6bcf0ffb19f5219db9ed72ccc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Fastenal Q1 2026 mostra crescimento robusto em meio a desafios</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-fastenal-q1-2026-shows-robust-growth-amid-challenges-93CH-4610840</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-fastenal-q1-2026-shows-robust-growth-amid-challenges-93CH-4610840</guid>
-      <pubDate>13/04/2026 13:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
