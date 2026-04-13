@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 05:57:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 05:57:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O secretário do Tesouro, Bessent, chama os líderes criptográficos de &apos;niilistas&apos; à medida que o prazo da Lei...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/treasury-secretary-bessent-calls-crypto-220110838.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/treasury-secretary-bessent-calls-crypto-220110838.html</guid>
+      <pubDate>13/04/2026 05:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/c829c102d012225307df1de25c58fcb5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE É por isso que a CI&amp;T Inc (CINT) não é uma farsa, mas uma das melhores ações baratas para comprar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-cheaper-ev-could-game-192000013.html</guid>
       <pubDate>13/04/2026 03:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/5dc1741cd58f62599ff47d7310265c52" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O negócio da máquina Ether do Tesouro Ethereum de US$ 1,5 bilhão entra em colapso</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/1-5-billion-ethereum-treasury-190901556.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/1-5-billion-ethereum-treasury-190901556.html</guid>
-      <pubDate>13/04/2026 03:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/beincrypto_us_662/eb501c6724de64126dce8e463b4c20d2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
