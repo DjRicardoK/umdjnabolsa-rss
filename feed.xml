@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:25:07 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:29:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O presidente do Conselho de Estabilidade Financeira alerta sobre o &quot;golpe triplo&quot; da estabilidade à medida...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/financial-stability-board-chair-warns-of-stability-triple-whammy-as-funding-conditions-tighten-4611070</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/financial-stability-board-chair-warns-of-stability-triple-whammy-as-funding-conditions-tighten-4611070</guid>
+      <pubDate>13/04/2026 16:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C16V_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fed de NY diz que perda de papéis com participações em títulos encolheu no ano passado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/ai-stocks-taiwan-semiconductor-tsm-stock-market-asml/?src=A00220&yptr=yahoo</guid>
       <pubDate>13/04/2026 14:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/cc65d340c67be6c546b832106e10993e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Esta é a verdadeira razão por detrás da subida do dólar americano à medida que o conflito com o Irão se...</title>
-      <description>O dólar americano subiu este ano, com base nos níveis de negociação da tarde de segunda-feira, após negociações fracassadas entre os EUA e o Irã no fim de semana para encerrar o...</description>
-      <link>https://www.marketwatch.com/story/this-is-the-real-reason-behind-the-u-s-dollars-climb-as-the-iran-conflict-drags-on-e258b807?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/this-is-the-real-reason-behind-the-u-s-dollars-climb-as-the-iran-conflict-drags-on-e258b807?mod=mw_rss_topstories</guid>
-      <pubDate>13/04/2026 14:33</pubDate>
-      <enclosure url="https://images.mktw.net/im-57054682" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
