@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 20:35:59 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 20:36:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados da SBA Communications</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-sba-communications-earnings-154122762.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-sba-communications-earnings-154122762.html</guid>
+      <pubDate>13/04/2026 20:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4dd3b943aac13def9aec132abe9eddd0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do próximo relatório de lucros trimestrais da Cincinnati Financial</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/incredible-period-us-economy-ending-120000150.html</guid>
       <pubDate>13/04/2026 17:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/9ddb3f107010603fce9e919db785ad49" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Oracle se destacam enquanto o setor de software atinge seu melhor dia em um ano</title>
-      <description>Os investidores buscaram pechinchas na segunda-feira, dizem os analistas, após a forte liquidação da semana passada devido às preocupações com a ameaça de Claude Mythos da...</description>
-      <link>https://www.marketwatch.com/story/oracles-stock-stands-out-as-the-software-sector-bounces-to-its-best-day-in-a-year-4bc68d4b?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/oracles-stock-stands-out-as-the-software-sector-bounces-to-its-best-day-in-a-year-4bc68d4b?mod=mw_rss_topstories</guid>
-      <pubDate>13/04/2026 17:28</pubDate>
-      <enclosure url="https://images.mktw.net/im-46592887" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
