@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:28:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:48:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O “período incrível” para a economia dos EUA está a terminar, disse uma vez Warren Buffett. Sua previsão se...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/incredible-period-us-economy-ending-120000150.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/incredible-period-us-economy-ending-120000150.html</guid>
+      <pubDate>13/04/2026 17:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/9ddb3f107010603fce9e919db785ad49" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da Oracle se destacam enquanto o setor de software atinge seu melhor dia em um ano</title>
       <description>Os investidores buscaram pechinchas na segunda-feira, dizem os analistas, após a forte liquidação da semana passada devido às preocupações com a ameaça de Claude Mythos da...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-paccar-next-earnings-095637367.html</guid>
       <pubDate>13/04/2026 15:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/e7efb8739d31cb7b91fa354b539ce678" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Guerra no Oriente Médio aumenta custos do cobre da Codelco no Chile</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/middle-east-war-drives-up-codelco-copper-costs-in-chile-4611017</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/middle-east-war-drives-up-codelco-copper-costs-in-chile-4611017</guid>
-      <pubDate>13/04/2026 15:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C14Z_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
