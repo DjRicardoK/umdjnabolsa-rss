@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:30:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:31:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Lionsgate Studios atingem o máximo em 52 semanas, a 11,03 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/lionsgate-studios-stock-hits-52week-high-at-1103-usd-93CH-4611068</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/lionsgate-studios-stock-hits-52week-high-at-1103-usd-93CH-4611068</guid>
+      <pubDate>13/04/2026 16:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Chewy Inc (CHWY) é uma das ações que disparará com a queda dos preços do petróleo?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/let-not-naive-ray-dalio-090500188.html</guid>
       <pubDate>13/04/2026 15:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/ff8b1118eb6d792d971d3c3d94f1295b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE BofA nomeia principais ações de consumo básico antes da temporada de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bofa-names-top-consumer-staples-stocks-ahead-of-earnings-season-93CH-4610993</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bofa-names-top-consumer-staples-stocks-ahead-of-earnings-season-93CH-4610993</guid>
-      <pubDate>13/04/2026 15:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6L0NP_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
