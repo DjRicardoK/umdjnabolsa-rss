@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 07:56:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:56:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BOJ destaca volatilidade do mercado e impacto económico do conflito no Médio Oriente</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bojs-ueda-calls-for-vigilance-to-impact-of-middle-east-tension-4609242</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bojs-ueda-calls-for-vigilance-to-impact-of-middle-east-tension-4609242</guid>
+      <pubDate>13/04/2026 07:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C090_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BTIG reitera classificação das ações da Ascentage Pharma citando leituras de ensaios</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/new-round-of-usiran-talks-possible-within-days--wsj-4609109</guid>
       <pubDate>13/04/2026 06:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE1R1IN_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Traders veem caminho claro para taxas do BCE mais altas por mais tempo</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/traders-see-clear-path-to-higherforlonger-ecb-rates-4609373</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/traders-see-clear-path-to-higherforlonger-ecb-rates-4609373</guid>
-      <pubDate>13/04/2026 06:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0DQ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
