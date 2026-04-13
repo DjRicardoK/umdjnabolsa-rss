@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 14:33:26 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 14:50:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Taiwan Semiconductor, teste de ganhos faciais ASML; Estoque de telecomunicações também disponível</title>
+      <description></description>
+      <link>https://www.investors.com/research/ai-stocks-taiwan-semiconductor-tsm-stock-market-asml/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/ai-stocks-taiwan-semiconductor-tsm-stock-market-asml/?src=A00220&yptr=yahoo</guid>
+      <pubDate>13/04/2026 14:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/cc65d340c67be6c546b832106e10993e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Esta é a verdadeira razão por detrás da subida do dólar americano à medida que o conflito com o Irão se...</title>
       <description>O dólar americano subiu este ano, com base nos níveis de negociação da tarde de segunda-feira, após negociações fracassadas entre os EUA e o Irã no fim de semana para encerrar o...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-april-13-2026-170834921.html</guid>
       <pubDate>13/04/2026 13:17</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d9cd60-0c3a-11f1-bdff-87ef2d5000ac" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs supera estimativas de lucro; fraca negociação de renda fixa arrasta ações para baixo</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-posts-higher-profit-on-strength-in-dealmaking-equities-trading-4609993</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-posts-higher-profit-on-strength-in-dealmaking-equities-trading-4609993</guid>
-      <pubDate>13/04/2026 13:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0M5_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
