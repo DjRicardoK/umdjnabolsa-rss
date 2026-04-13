@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 06:09:59 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 06:26:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Entregas do Audi Q1 caem 6,1% devido à fraca demanda na China e na América do Norte</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/audi-q1-deliveries-fall-61-on-weak-demand-in-china-and-north-america-4609439</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/audi-q1-deliveries-fall-61-on-weak-demand-in-china-and-north-america-4609439</guid>
+      <pubDate>13/04/2026 06:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0ER_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do petróleo sobem à medida que acordo fracassado entre EUA e Irã aumenta risco de guerra prolongada</title>
       <description>O petróleo West Texas Intermediate e Brent subiram acima de US$ 100 por barril na segunda-feira, após um colapso nas negociações entre os EUA e o Irã no fim de semana.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/usps-stamp-price-increase-2026-203046515.html</guid>
       <pubDate>13/04/2026 04:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/Benzinga/a4e53bfbdb875856a99f5adb33b1855d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Andy Jassy acaba de anunciar notícias maravilhosas para investidores em ações da Amazon</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/andy-jassy-just-announced-wonderful-202000813.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/andy-jassy-just-announced-wonderful-202000813.html</guid>
-      <pubDate>13/04/2026 04:50</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/3704a0e91d9862e5321828c6134d00aa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
