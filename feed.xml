@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 12:55:28 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:00:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BofA Securities reitera classificação das ações do Goldman Sachs com resultados mistos</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bofa-securities-reiterates-goldman-sachs-stock-rating-on-mixed-results-93CH-4610844</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-securities-reiterates-goldman-sachs-stock-rating-on-mixed-results-93CH-4610844</guid>
+      <pubDate>13/04/2026 13:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A temporada de ganhos chegou. Microsoft e mais 7 empresas que normalmente entregam.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/allison-transmission-stock-hits-alltime-high-at-12895-usd-93CH-4610712</guid>
       <pubDate>13/04/2026 11:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A guerra do Irã pesa sobre a economia global no início da reunião do FMI</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/iran-war-weighs-on-global-economy-as-imf-meeting-starts-4610719</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/iran-war-weighs-on-global-economy-as-imf-meeting-starts-4610719</guid>
-      <pubDate>13/04/2026 11:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0VG_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
