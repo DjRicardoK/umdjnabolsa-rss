@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 12 Apr 2026 23:26:52 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 23:27:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE EUA, Austrália e Filipinas realizam segundo exercício conjunto no Mar da China Meridional este ano</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/us-australia-philippines-hold-second-joint-drills-in-south-china-sea-this-year-4609133</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-australia-philippines-hold-second-joint-drills-in-south-china-sea-this-year-4609133</guid>
+      <pubDate>12/04/2026 23:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C02I_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Jim Cramer diz que o próximo relatório de lucros do Goldman Sachs “deveria ser bom”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/swiss-based-terra-quantum-plans-111902114.html</guid>
       <pubDate>10/04/2026 18:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/6a3c206f71df9e04352400f3739c4a17" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Chevron prevê aumento de até US$ 2,2 bilhões nos lucros upstream devido aos preços mais altos do primeiro...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/chevron-forecasts-2-2-billion-111636684.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/chevron-forecasts-2-2-billion-111636684.html</guid>
-      <pubDate>10/04/2026 18:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/a430fe8a38d53ea076a459f49b42e7bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
