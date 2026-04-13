@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 13:56:34 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:56:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Caterpillar escava zona de compra impulsionada pelas proezas da Nvidia AI</title>
+      <description></description>
+      <link>https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/caterpillar-stock-nvidia-artificial-intelligence-plans-powers-breakout/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/caterpillar-stock-nvidia-artificial-intelligence-plans-powers-breakout/?src=A00220&yptr=yahoo</guid>
+      <pubDate>13/04/2026 13:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/12bd4b936c20b127cd0994dea00b48dc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE David Solomon, CEO do Goldman Sachs, sobre a guerra no Irã e a incerteza nas negociações: &apos;As coisas...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/lvmh-flags-sales-impact-of-iran-war-in-blow-to-hopes-for-luxury-revival-4610842</guid>
       <pubDate>13/04/2026 13:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0Z4_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BofA Securities reitera classificação das ações do Goldman Sachs com resultados mistos</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/bofa-securities-reiterates-goldman-sachs-stock-rating-on-mixed-results-93CH-4610844</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-securities-reiterates-goldman-sachs-stock-rating-on-mixed-results-93CH-4610844</guid>
-      <pubDate>13/04/2026 13:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
