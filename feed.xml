@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 06:26:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 06:26:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Entregas da Volkswagen caíram no início do ano, influenciadas pelos problemas da China</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/volkswagen-deliveries-down-at-start-of-year-weighed-by-china-woes-4609437</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/volkswagen-deliveries-down-at-start-of-year-weighed-by-china-woes-4609437</guid>
+      <pubDate>13/04/2026 06:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0EN_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Entregas do Audi Q1 caem 6,1% devido à fraca demanda na China e na América do Norte</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/philippines-warns-of-sabotage-after-cyanide-seizure-in-disputed-south-china-sea-atoll-4609310</guid>
       <pubDate>13/04/2026 04:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0CF_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Aumento do preço dos selos do USPS em 2026: correspondência de primeira classe pode subir para US$ 1 durante...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/usps-stamp-price-increase-2026-203046515.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/usps-stamp-price-increase-2026-203046515.html</guid>
-      <pubDate>13/04/2026 04:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Benzinga/a4e53bfbdb875856a99f5adb33b1855d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
