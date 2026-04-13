@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 15:10:38 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 15:11:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Essas ações estão sofrendo grandes impactos devido às preocupações com o aumento dos preços da gasolina</title>
+      <description>As acções de uma série de empresas do sector de consumo discricionário estavam a cair devido a preocupações de que o aumento dos preços da gasolina, como resultado da última...</description>
+      <link>https://www.marketwatch.com/story/these-stocks-are-taking-big-hits-from-worries-about-higher-gasoline-prices-4334f870?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/these-stocks-are-taking-big-hits-from-worries-about-higher-gasoline-prices-4334f870?mod=mw_rss_topstories</guid>
+      <pubDate>13/04/2026 15:11</pubDate>
+      <enclosure url="https://images.mktw.net/im-76975759" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Raymond James reitera forte compra de ações do Somnigroup após acordo com Leggett</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sandisk-bumps-atlassian-off-nasdaq-161342530.html</guid>
       <pubDate>13/04/2026 13:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/fcbbe7708cbd61a28538af502d31c8fa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Micron Technology são realmente tão baratas? Por que seus múltiplos de ganhos podem ser enganosos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/micron-technologys-stock-really-cheap-162000181.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-technologys-stock-really-cheap-162000181.html</guid>
-      <pubDate>13/04/2026 13:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/9a91eb40c7772516f860e60df0489ffb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
