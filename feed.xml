@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 03:08:14 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 03:22:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Marcas de luxo exclusivo enfrentam queda nos lucros à medida que o conflito no Irã reduz as vendas do Dubai...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/exclusiveluxury-brands-face-profits-squeeze-as-iran-conflict-shrinks-dubai-mall-sales-4609224</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/exclusiveluxury-brands-face-profits-squeeze-as-iran-conflict-shrinks-dubai-mall-sales-4609224</guid>
+      <pubDate>13/04/2026 03:22</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C086_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 1,60%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/dollar-jumps-as-failed-usiran-peace-talks-spark-safehaven-push-4609115</guid>
       <pubDate>13/04/2026 00:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3B0HJ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Primeiro-ministro espanhol pede à China que assuma um papel maior na ordem multipolar</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/spanish-premier-urges-china-to-take-bigger-role-in-multipolar-order-4609193</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/spanish-premier-urges-china-to-take-bigger-role-in-multipolar-order-4609193</guid>
-      <pubDate>13/04/2026 00:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C04W_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
