@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:07:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:07:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Grupo TransDigm (TDG) caiu apesar do forte relatório de ganhos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/transdigm-group-tdg-fell-despite-135651191.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/transdigm-group-tdg-fell-despite-135651191.html</guid>
+      <pubDate>13/04/2026 11:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a5f3752b43c14f4a856182aae97b2d44" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Três gráficos revelam o quanto Wall Street está delirando sobre o conflito no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/stocks-can-rally-even-without-a-full-return-to-normality-says-hsbc-ea0f2987?mod=mw_rss_topstories</guid>
       <pubDate>13/04/2026 09:52</pubDate>
       <enclosure url="https://images.mktw.net/im-37982271" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Futuros de Wall Street caem com bloqueio iminente de Hormuz dos EUA em foco</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-stock-futures-slide-over-1-after-iran-ceasefire-talks-fall-through-4609123</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-slide-over-1-after-iran-ceasefire-talks-fall-through-4609123</guid>
-      <pubDate>13/04/2026 09:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6M0LI_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
