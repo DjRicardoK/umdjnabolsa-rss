@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:07:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:09:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Principal inspetor do trabalho do Brasil demitido por adicionar BYD da China à ‘lista suja’, dizem fontes</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/brazils-top-labor-inspector-fired-for-adding-chinas-byd-to-dirty-list-sources-say-4611047</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/brazils-top-labor-inspector-fired-for-adding-chinas-byd-to-dirty-list-sources-say-4611047</guid>
+      <pubDate>13/04/2026 16:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C168_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘Não estamos nisso para ganhar 5% ou 6%’: Warren Buffett chama a queda do mercado da guerra no Irã de ‘nada’.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/ibd-stock-of-the-day/sqm-stock-buy-zone-iran-war-drags-on/?src=A00220&yptr=yahoo</guid>
       <pubDate>13/04/2026 14:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/70f307a7091247fec4f61a579d5b9472" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A OpenAI está superando a Microsoft? Uma nova aliança com a Amazon aumenta os riscos.</title>
-      <description>Um memorando vazado do chefe de receita da OpenAI sinaliza um conflito cada vez maior com a Microsoft, à medida que o criador do ChatGPT aprofunda seu relacionamento com a Amazon.</description>
-      <link>https://www.marketwatch.com/story/is-openai-outgrowing-microsoft-a-new-amazon-alliance-raises-the-stakes-8c44b9d0?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/is-openai-outgrowing-microsoft-a-new-amazon-alliance-raises-the-stakes-8c44b9d0?mod=mw_rss_topstories</guid>
-      <pubDate>13/04/2026 14:23</pubDate>
-      <enclosure url="https://images.mktw.net/im-57862345" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
