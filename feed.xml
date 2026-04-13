@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:39:08 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:44:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os rendimentos dos títulos alemães sobem enquanto o spread do CDS aumenta</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/german-bond-yields-edge-higher-while-cds-spread-widens-93CH-4610740</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/german-bond-yields-edge-higher-while-cds-spread-widens-93CH-4610740</guid>
+      <pubDate>13/04/2026 11:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman: Dólar se fortalece à medida que os preços da energia sobem e as ações caem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-to-probe-paramountwarner-bros-deal-in-coming-weeks-competition-watchdog-says-4610569</guid>
       <pubDate>13/04/2026 10:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0SM_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE TD Cowen reitera compra de ações da Abbott Labs, cita a força da Cologuard</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-buy-on-abbott-labs-stock-cites-cologuard-strength-93CH-4610570</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-buy-on-abbott-labs-stock-cites-cologuard-strength-93CH-4610570</guid>
-      <pubDate>13/04/2026 10:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
