@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 02:53:34 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 02:58:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE RBC escolhe essas ações enquanto o varejo europeu enfrenta risco de estagflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/rbc-picks-these-stocks-as-europe-retail-faces-stagflation-risk-4609209</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/rbc-picks-these-stocks-as-europe-retail-faces-stagflation-risk-4609209</guid>
+      <pubDate>13/04/2026 02:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF020B3_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 3 ações de dividendos que são compras óbvias no mercado incerto de hoje</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-dip-after-usiran-talks-fall-through-hormuz-disruptions-persist-4609140</guid>
       <pubDate>13/04/2026 00:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6H0CU_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Boas notícias: apesar dos problemas com os preços da energia, as empresas estão otimistas em relação aos...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/good-news-despite-energy-price-155500576.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/good-news-despite-energy-price-155500576.html</guid>
-      <pubDate>13/04/2026 00:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/0badf6626af62233bd08d49822fc600d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
