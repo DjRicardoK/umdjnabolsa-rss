@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 02:58:11 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 03:04:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE UBS silenciosamente redefine perspectivas sobre gigante de software de IA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/ubs-quietly-resets-outlook-ai-184248123.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ubs-quietly-resets-outlook-ai-184248123.html</guid>
+      <pubDate>13/04/2026 03:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/2634ffe179462115bd2ccef8b740b65d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços do ouro caem enquanto o nervosismo EUA-Irã e a forte inflação impulsionam o dólar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/spacex-ipo-tesla-merger-elon-musk-7e352054?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>13/04/2026 00:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/d4f1df05e5c299ac6fafc102f8cbb0c8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Previsão: a crise da Nasdaq terminará na próxima semana</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/prediction-nasdaq-downturn-going-end-161900256.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-nasdaq-downturn-going-end-161900256.html</guid>
-      <pubDate>13/04/2026 00:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/2f8c4211daa40fce35e4a860dbc0fc70" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
