@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 00:49:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 01:22:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O CEO do JPMorgan Chase, Jamie Dimon, acaba de emitir um aviso a Wall Street. O famoso banqueiro vê três...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-ceo-jamie-dimon-170700441.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-ceo-jamie-dimon-170700441.html</guid>
+      <pubDate>13/04/2026 01:21</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/886c9d9cf31ae429673684ef68d07c86" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações de crescimento mais inteligentes para investir US$ 1.000 à medida que os investidores abandonam a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/move-now-to-seize-this-potential-stock-market-crisis-and-opportunity-3c61dea9?mod=mw_rss_topstories</guid>
       <pubDate>12/04/2026 22:51</pubDate>
       <enclosure url="https://images.mktw.net/im-80470134" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Super Micro Computer está auditando as próprias alegações da China. Isso torna as ações da SMCI uma compra?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-auditing-china-150047188.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-auditing-china-150047188.html</guid>
-      <pubDate>10/04/2026 19:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/53d0ffeee78e540702bc43db8adfbf35" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
