@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 14:25:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 14:28:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: LVMH mostra resiliência em meio aos desafios do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lvmh-shows-resilience-amid-q1-2026-challenges-93CH-4610968</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lvmh-shows-resilience-amid-q1-2026-challenges-93CH-4610968</guid>
+      <pubDate>13/04/2026 14:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE SQM, ação do dia do IBD, surge enquanto a guerra no Irã fornece catalisadores duplos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/virtu-financial-stock-hits-alltime-high-at-4974-usd-93CH-4610885</guid>
       <pubDate>13/04/2026 13:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas da Alemanha caem no fechamento do pregão; DAX caiu 0,23%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-023-4610870</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-023-4610870</guid>
-      <pubDate>13/04/2026 13:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBB50B7_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
