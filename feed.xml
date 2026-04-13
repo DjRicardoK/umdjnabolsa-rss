@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:27:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 09:29:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações de viagens estão sendo prejudicadas à medida que o conflito com o Irã se arrasta. Aqui estão três...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/travel-stocks-getting-pummeled-iran-122000567.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/travel-stocks-getting-pummeled-iran-122000567.html</guid>
+      <pubDate>13/04/2026 09:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/9c88ae9bdb39162e751621a22a67c062" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Stifel reduz a meta de preço das ações da Amazon devido à incerteza do Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-april-13-2026-100000172.html</guid>
       <pubDate>13/04/2026 07:09</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Novos empréstimos da China em março saltam menos do que o esperado, sem sinal de nova flexibilização da...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/china-march-new-loans-jumps-less-than-expected-no-sign-of-fresh-policy-easing-4609505</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-march-new-loans-jumps-less-than-expected-no-sign-of-fresh-policy-easing-4609505</guid>
-      <pubDate>13/04/2026 07:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0HD_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
