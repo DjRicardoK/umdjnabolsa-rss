@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 08:05:36 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 08:05:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os preços da energia provavelmente atingiram o pico. O que isso significa para as ações, de acordo com Mike...</title>
+      <description>Os investidores deveriam estar atentos à diferença entre o Brent e o petróleo bruto dos EUA, o que envia uma mensagem de que as preocupações do mercado com a crise no Irão...</description>
+      <link>https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories</guid>
+      <pubDate>13/04/2026 08:05</pubDate>
+      <enclosure url="https://images.mktw.net/im-03343765" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Por que ações da &apos;Regra dos 10&apos;, como Nvidia e Meta, estão agora preparadas para um retorno, de acordo com...</title>
       <description>Os rendimentos mais elevados dos títulos têm atingido as ações de crescimento secular, mas isso pode estar prestes a mudar</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories</guid>
       <pubDate>13/04/2026 06:09</pubDate>
       <enclosure url="https://images.mktw.net/im-23617464" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE China preparada para recuperação do crescimento do PIB no primeiro trimestre, mas guerra no Irã prejudica...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/china-poised-q1-gdp-growth-083204978.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/china-poised-q1-gdp-growth-083204978.html</guid>
-      <pubDate>13/04/2026 06:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/ca7e4ac7717ffe4f1a937bbea5be70f5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
