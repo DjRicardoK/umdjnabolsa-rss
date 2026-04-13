@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 06:03:28 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 06:03:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Último conflito no Irã: EUA iniciarão bloqueio de Ormuz após negociações fracassadas no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/new-round-of-usiran-talks-possible-within-days--wsj-4609109</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/new-round-of-usiran-talks-possible-within-days--wsj-4609109</guid>
+      <pubDate>13/04/2026 06:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE1R1IN_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Traders veem caminho claro para taxas do BCE mais altas por mais tempo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/axt-inc-axt-21-5-214412877.html</guid>
       <pubDate>13/04/2026 03:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b1f74494dbd673685fd6854c90790287" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Gary Black diz que o slide de 8 semanas da Tesla foi impulsionado por entregas &apos;decepcionantes&apos;, Robotaxi...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/gary-black-says-teslas-8-193109616.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/gary-black-says-teslas-8-193109616.html</guid>
-      <pubDate>13/04/2026 03:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Benzinga/9c9addbd0bf1f433e74e256e97ef6abe" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
