@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 05:40:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 05:40:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE China preparada para recuperação do crescimento do PIB no primeiro trimestre, mas guerra no Irã prejudica...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/china-poised-for-q1-gdp-growth-rebound-but-iran-war-dims-2026-outlook-reuters-poll-4609341</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-poised-for-q1-gdp-growth-rebound-but-iran-war-dims-2026-outlook-reuters-poll-4609341</guid>
+      <pubDate>13/04/2026 05:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0D9_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações globais de energia sobem à medida que o petróleo se recupera acima de US$ 100 devido aos temores do...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/exclusiveluxury-brands-face-profits-squeeze-as-iran-conflict-shrinks-dubai-mall-sales-4609224</guid>
       <pubDate>13/04/2026 03:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C086_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 1,60%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-160-4609221</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-160-4609221</guid>
-      <pubDate>13/04/2026 03:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Taiwan_M_1440053344.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
