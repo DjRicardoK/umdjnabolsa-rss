@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 03:22:29 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 03:22:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Musical de ‘Paddington’ triunfa no Olivier Awards teatral de Londres</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/paddington-musical-triumphs-at-londons-theatrical-olivier-awards-4609236</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/paddington-musical-triumphs-at-londons-theatrical-olivier-awards-4609236</guid>
+      <pubDate>13/04/2026 03:22</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3B032_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Marcas de luxo exclusivo enfrentam queda nos lucros à medida que o conflito no Irã reduz as vendas do Dubai...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/smartest-growth-stocks-invest-1-164500790.html</guid>
       <pubDate>13/04/2026 00:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/8725ae1bc9d90a2e084fb688f0b31a5f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Petróleo salta, dólar firme e ações oscilam com o colapso das negociações de paz EUA-Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/dollar-jumps-as-failed-usiran-peace-talks-spark-safehaven-push-4609115</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/dollar-jumps-as-failed-usiran-peace-talks-spark-safehaven-push-4609115</guid>
-      <pubDate>13/04/2026 00:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3B0HJ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
