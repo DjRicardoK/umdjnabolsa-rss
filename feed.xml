@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 12:49:47 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:49:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE J.P.Morgan e Morgan Stanley pedem a compra da queda enquanto os lucros dos EUA permanecem resilientes</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-morgan-stanley-153806163.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-morgan-stanley-153806163.html</guid>
+      <pubDate>13/04/2026 12:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/7619d7a68da306dfdbe50c1008fc3ddb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Amazon estão liderando a recuperação do &apos;Magnificent 7&apos; - mas a alta está atingindo o teto:...</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-cisco-stock-buy-rating-on-ai-security-opportunity-93CH-4610681</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-cisco-stock-buy-rating-on-ai-security-opportunity-93CH-4610681</guid>
-      <pubDate>13/04/2026 11:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE UBS reitera classificação de compra de ações da Broadcom no acordo do Google TPU</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-broadcom-stock-buy-rating-on-google-tpu-deal-93CH-4610685</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-broadcom-stock-buy-rating-on-google-tpu-deal-93CH-4610685</guid>
       <pubDate>13/04/2026 11:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
