@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 12 Apr 2026 22:51:44 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 22:51:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump diz que está fechando o Estreito de Ormuz. Ele está lendo MarketWatch?</title>
+      <description>As notícias do fim de semana ilustram mais uma vez a vantagem de ter stocks de petróleo nas suas contas de reforma.</description>
+      <link>https://www.marketwatch.com/story/trump-says-hes-closing-the-strait-of-hormuz-has-he-been-reading-marketwatch-e059dd07?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/trump-says-hes-closing-the-strait-of-hormuz-has-he-been-reading-marketwatch-e059dd07?mod=mw_rss_topstories</guid>
+      <pubDate>12/04/2026 22:51</pubDate>
+      <enclosure url="https://images.mktw.net/im-73352728" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mova-se agora para aproveitar esta potencial crise e oportunidade do mercado de ações</title>
       <description>Se você tem uma lista de desejos de ações ou fundos fechados que gostaria de comprar caso fossem colocados à venda, agora é a hora de prepará-la.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/marvells-stock-is-soaring-toward-its-first-fresh-high-in-a-year-heres-whats-driving-the-momentum-aec611bc?mod=mw_rss_topstories</guid>
       <pubDate>10/04/2026 16:20</pubDate>
       <enclosure url="https://images.mktw.net/im-251491" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A farmacêutica indiana Granules vai reforçar a supervisão após alerta da FDA dos EUA, diz o executivo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/indian-drugmaker-granules-tighten-oversight-094243425.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/indian-drugmaker-granules-tighten-oversight-094243425.html</guid>
-      <pubDate>10/04/2026 16:16</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/7109df7b1d56007fe17bc9880a678462" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
