@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:13:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:27:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Guerra no Oriente Médio aumentará a inflação na Ucrânia, diz chefe do banco central</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/middle-east-war-to-boost-ukraine-inflation-central-bank-chief-says-4611082</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/middle-east-war-to-boost-ukraine-inflation-central-bank-chief-says-4611082</guid>
+      <pubDate>13/04/2026 17:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C171_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O segundo ano do mandato do presidente Donald Trump tem um padrão – aqui está o que isso significa para as...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-built-ai-chip-empire-092600465.html</guid>
       <pubDate>13/04/2026 15:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/f2a90741bf17ed1e548610ab4de694fb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (LOAR) é uma das melhores ações de defesa de média capitalização para investir?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/loar-holdings-inc-loar-one-074428819.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/loar-holdings-inc-loar-one-074428819.html</guid>
-      <pubDate>13/04/2026 15:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d1deb13e1d7be9e64e6705b1b51d47ad" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
