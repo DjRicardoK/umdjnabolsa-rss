@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:17:06 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:19:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE UBS reitera classificação de compra de ações da Broadcom no acordo do Google TPU</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-broadcom-stock-buy-rating-on-google-tpu-deal-93CH-4610685</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-broadcom-stock-buy-rating-on-google-tpu-deal-93CH-4610685</guid>
+      <pubDate>13/04/2026 11:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE UBS reitera classificação de ações da Nasdaq citando fortes volumes de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/buying-single-index-etf-smarter-130500100.html</guid>
       <pubDate>13/04/2026 10:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/c95c6f7c1deca3f0a233a71863888cc7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Leerink reitera classificação das ações da Spyre com base em dados de testes positivos</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/leerink-reiterates-spyre-stock-rating-on-positive-trial-data-93CH-4610520</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/leerink-reiterates-spyre-stock-rating-on-positive-trial-data-93CH-4610520</guid>
-      <pubDate>13/04/2026 10:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
