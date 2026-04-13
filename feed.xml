@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 09:03:19 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 09:06:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cantor Fitzgerald reitera classificação das ações da Tesla na aprovação do FSD na Europa</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-tesla-stock-rating-on-europe-fsd-approval-93CH-4610164</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-tesla-stock-rating-on-europe-fsd-approval-93CH-4610164</guid>
+      <pubDate>13/04/2026 09:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Atualizações ao vivo de lucros: os resultados do Goldman Sachs iniciam a temporada de lucros à medida que...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/not-as-bullish-big-banks-are-entering-q1-earnings-season-on-less-certain-footing-than-in-january-120803928.html</guid>
       <pubDate>13/04/2026 06:39</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/rsFPO.2kOTkMZLKe7uu6QA--~B/aD0xNzg5O3c9MzE4MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/12aa0777-1b45-422e-b3eb-da40fc1bb94f_9a0988d2ab0a841e57133a539b3e811c83d25213ce18f666930dc22cc36b27b5.net/images/2026-04/12aa0777-1b45-422e-b3eb-da40fc1bb94f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Klarna Group plc (KLAR): entre as melhores ações de média capitalização para investir, de acordo com...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/klarna-group-plc-klar-among-091901885.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/klarna-group-plc-klar-among-091901885.html</guid>
-      <pubDate>13/04/2026 06:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e480daa5fdabbe22c18ded0fa6c0e9a8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
