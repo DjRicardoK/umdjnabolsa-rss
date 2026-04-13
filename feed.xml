@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 18:09:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 18:17:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os bancos centrais estendem a sequência de compra de ouro para 23 meses, à medida que as reservas crescem em...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/central-banks-extend-gold-buying-123210801.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/central-banks-extend-gold-buying-123210801.html</guid>
+      <pubDate>13/04/2026 18:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/0db0822ec0bdc793551eff2af65d180a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE América Latina rica em petróleo atrai comerciantes que enfrentam nervosismo de guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/brazils-top-labor-inspector-fired-for-adding-chinas-byd-to-dirty-list-sources-say-4611047</guid>
       <pubDate>13/04/2026 16:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C168_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ‘Não estamos nisso para ganhar 5% ou 6%’: Warren Buffett chama a queda do mercado da guerra no Irã de ‘nada’.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/arent-5-6-warren-buffett-100700705.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/arent-5-6-warren-buffett-100700705.html</guid>
-      <pubDate>13/04/2026 16:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/51a218ab8f8e184dfacba4422a1d378b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
