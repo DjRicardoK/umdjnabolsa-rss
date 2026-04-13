@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 07:47:01 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:50:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Atualizações ao vivo de lucros: a temporada de lucros do primeiro trimestre começa com resultados bancários à...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/earnings-live-updates-q1-earnings-season-kicks-off-with-bank-results-as-macro-pressures-mount-104416663.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/earnings-live-updates-q1-earnings-season-kicks-off-with-bank-results-as-macro-pressures-mount-104416663.html</guid>
+      <pubDate>13/04/2026 07:50</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/L3x2pG3o3nafHK33sKR1Mw--~B/aD0zODQwO3c9NTc2MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/b7d7aa44-9e54-40b8-bfc7-a95a3f1d5bf4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Entregas de veículos do Grupo Volkswagen caem devido à fraqueza da China e dos EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/treasury-secretary-bessent-calls-crypto-220110838.html</guid>
       <pubDate>13/04/2026 05:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/benzinga_79/c829c102d012225307df1de25c58fcb5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE É por isso que a CI&amp;T Inc (CINT) não é uma farsa, mas uma das melhores ações baratas para comprar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-ci-t-inc-cint-220744617.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-ci-t-inc-cint-220744617.html</guid>
-      <pubDate>13/04/2026 05:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/641b965f23c71d06cfcf686dccd146e9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
