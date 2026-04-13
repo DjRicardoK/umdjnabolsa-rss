@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 12 Apr 2026 23:02:20 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 23:04:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warren Buffett possui quase 10% desta empresa - você deve seguir o exemplo dele?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-owns-nearly-10-150500929.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-owns-nearly-10-150500929.html</guid>
+      <pubDate>12/04/2026 23:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/fb618ae97d60c2dab7df96c4966d329c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Analistas oferecem opinião positiva sobre aumento do preço do ouro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-oil-rebounds-103152617.html</guid>
       <pubDate>10/04/2026 17:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/3716b415734e9ec3513eabe4054988f1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE CEO da Amazon revela receita de IA e descarta dúvidas sobre gastos em carta anual</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/amazon-says-annual-revenue-run-101958790.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazon-says-annual-revenue-run-101958790.html</guid>
-      <pubDate>10/04/2026 17:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/2dd0168bd147fda9cdf117abb56944d9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
