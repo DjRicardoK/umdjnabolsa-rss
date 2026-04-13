@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:31:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:47:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Melhores ações de Warren Buffett: American Express vs.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/better-warren-buffett-stock-american-104200161.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/better-warren-buffett-stock-american-104200161.html</guid>
+      <pubDate>13/04/2026 16:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/bf4539d72a435ec5a451471f86b8e215" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Lionsgate Studios atingem o máximo em 52 semanas, a 11,03 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-veralto-q1-2026-earnings-095321390.html</guid>
       <pubDate>13/04/2026 15:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/545018d3d1041df4a959c34b253c16cd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ‘Não sejamos ingénuos’: Ray Dalio diz que a ordem económica mundial ‘acabou’ – alerta para a ‘guerra civil’...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/let-not-naive-ray-dalio-090500188.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/let-not-naive-ray-dalio-090500188.html</guid>
-      <pubDate>13/04/2026 15:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/ff8b1118eb6d792d971d3c3d94f1295b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
