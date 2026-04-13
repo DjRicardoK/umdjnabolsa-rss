@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 13:00:46 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:04:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 3 ações de IA que são muito mais baratas que a Apple no momento</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-way-cheaper-155000462.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-way-cheaper-155000462.html</guid>
+      <pubDate>13/04/2026 13:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e6b8f1e6bcf0ffb19f5219db9ed72ccc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Fastenal Q1 2026 mostra crescimento robusto em meio a desafios</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-lowers-india-inflation-forecast-to-45-for-2026-93CH-4610760</guid>
       <pubDate>13/04/2026 11:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6L087_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os rendimentos dos títulos alemães sobem enquanto o spread do CDS aumenta</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/german-bond-yields-edge-higher-while-cds-spread-widens-93CH-4610740</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/german-bond-yields-edge-higher-while-cds-spread-widens-93CH-4610740</guid>
-      <pubDate>13/04/2026 11:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
