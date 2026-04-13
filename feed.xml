@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 10:00:15 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 10:01:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que as melhores apostas nos mercados de ações são as ações de tecnologia chinesas e este setor fora de...</title>
+      <description>O mercado de ações é agora demasiado grande para falir, avalia Michael Hartnett, do Bank of America. Portanto, nenhum aumento nas taxas antes das eleições intercalares e de uma...</description>
+      <link>https://www.marketwatch.com/story/why-the-best-stock-markets-bets-are-chinese-tech-stocks-and-this-out-of-fashion-sector-according-to-bank-of-america-d2ec6b6d?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/why-the-best-stock-markets-bets-are-chinese-tech-stocks-and-this-out-of-fashion-sector-according-to-bank-of-america-d2ec6b6d?mod=mw_rss_topstories</guid>
+      <pubDate>13/04/2026 10:01</pubDate>
+      <enclosure url="https://images.mktw.net/im-95064390" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs supera visualizações de lucros, impulsionado por bancos de investimento e fusões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/monday-top-wall-street-analyst-105044027.html</guid>
       <pubDate>13/04/2026 08:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/8338f370f249766d037be2988fc68cf3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BOJ destaca volatilidade do mercado e impacto económico do conflito no Médio Oriente</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/bojs-ueda-calls-for-vigilance-to-impact-of-middle-east-tension-4609242</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bojs-ueda-calls-for-vigilance-to-impact-of-middle-east-tension-4609242</guid>
-      <pubDate>13/04/2026 07:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C090_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
