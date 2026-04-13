@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 13:00:39 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:00:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Fastenal Q1 2026 mostra crescimento robusto em meio a desafios</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-fastenal-q1-2026-shows-robust-growth-amid-challenges-93CH-4610840</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-fastenal-q1-2026-shows-robust-growth-amid-challenges-93CH-4610840</guid>
+      <pubDate>13/04/2026 13:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE LVMH sinaliza impacto nas vendas da guerra no Irã em golpe às esperanças de renascimento do luxo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/german-bond-yields-edge-higher-while-cds-spread-widens-93CH-4610740</guid>
       <pubDate>13/04/2026 11:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman: Dólar se fortalece à medida que os preços da energia sobem e as ações caem</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/goldman-dollar-strengthens-as-energy-prices-rise-equities-decline-93CH-4610733</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-dollar-strengthens-as-energy-prices-rise-equities-decline-93CH-4610733</guid>
-      <pubDate>13/04/2026 11:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0D0_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
