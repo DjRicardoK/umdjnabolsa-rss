@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:32:56 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:39:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman: Dólar se fortalece à medida que os preços da energia sobem e as ações caem</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/goldman-dollar-strengthens-as-energy-prices-rise-equities-decline-93CH-4610733</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-dollar-strengthens-as-energy-prices-rise-equities-decline-93CH-4610733</guid>
+      <pubDate>13/04/2026 11:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0D0_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Allison Transmission atingem o máximo histórico de 128,95 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-buy-on-abbott-labs-stock-cites-cologuard-strength-93CH-4610570</guid>
       <pubDate>13/04/2026 10:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 2 ETFs internacionais para comprar enquanto as ações dos EUA são liquidadas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/world-indices/articles/2-international-etfs-buy-us-131054591.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/world-indices/articles/2-international-etfs-buy-us-131054591.html</guid>
-      <pubDate>13/04/2026 10:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/675de1d7d99b1b7659b37e3e62e9178b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
