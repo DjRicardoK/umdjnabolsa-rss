@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 03:45:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 03:51:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Gary Black diz que o slide de 8 semanas da Tesla foi impulsionado por entregas &apos;decepcionantes&apos;, Robotaxi...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/gary-black-says-teslas-8-193109616.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/gary-black-says-teslas-8-193109616.html</guid>
+      <pubDate>13/04/2026 03:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/9c9addbd0bf1f433e74e256e97ef6abe" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Previsão: um EV mais barato pode mudar o jogo para os negócios da Tesla</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-paychex-payx-one-best-173524042.html</guid>
       <pubDate>13/04/2026 01:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/686f174e32fc3181f738430a36fc6e9f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Como a Veritone (VERI) está posicionando o aiWARE e a Data Refinery para a mudança de IA da Agentic</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/veritone-veri-positioning-aiware-data-170645638.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/veritone-veri-positioning-aiware-data-170645638.html</guid>
-      <pubDate>13/04/2026 01:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ce7c9749adc9a10a60c020ca3a35ea0d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
