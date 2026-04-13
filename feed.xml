@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 06:39:21 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 06:46:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Craneware concede opção de compra de ações ao diretor jurídico</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/craneware-grants-share-option-to-chief-legal-officer-93CH-4609472</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/craneware-grants-share-option-to-chief-legal-officer-93CH-4609472</guid>
+      <pubDate>13/04/2026 06:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE &apos;Não tão otimistas&apos;: os grandes bancos estão entrando na temporada de lucros do primeiro trimestre em uma...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/artifical-intelligence-ai-stocks-rising-212000231.html</guid>
       <pubDate>13/04/2026 05:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/67d570964c3dd01f2eecaac47b48879d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs atualiza ações da LatAm Airlines com finanças sólidas</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-latam-airlines-stock-on-solid-finances-93CH-4609312</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-latam-airlines-stock-on-solid-finances-93CH-4609312</guid>
-      <pubDate>13/04/2026 05:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
