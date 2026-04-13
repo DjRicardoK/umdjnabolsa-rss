@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:44:07 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 11:54:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs reduz previsão de inflação na Índia para 4,5% em 2026</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-lowers-india-inflation-forecast-to-45-for-2026-93CH-4610760</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-lowers-india-inflation-forecast-to-45-for-2026-93CH-4610760</guid>
+      <pubDate>13/04/2026 11:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6L087_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os rendimentos dos títulos alemães sobem enquanto o spread do CDS aumenta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/fb-financial-earnings-on-deck-can-loan-growth-offset-margin-pressure-93CH-4610617</guid>
       <pubDate>13/04/2026 10:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Reino Unido investigará acordo entre Paramount e Warner Bros nas próximas semanas, diz órgão de fiscalização...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/uk-to-probe-paramountwarner-bros-deal-in-coming-weeks-competition-watchdog-says-4610569</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-to-probe-paramountwarner-bros-deal-in-coming-weeks-competition-watchdog-says-4610569</guid>
-      <pubDate>13/04/2026 10:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0SM_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
