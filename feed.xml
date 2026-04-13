@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 06:46:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 06:50:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O populismo perdeu na Hungria, mas ainda pode vencer a guerra, argumenta um estrategista</title>
+      <description>Um estrategista argumenta que a derrota de Viktor Orban foi contra a tendência prevalecente, mas a guerra do Irão irá cimentar um novo regime global de desglobalização, expansão...</description>
+      <link>https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/populism-lost-in-hungary-but-still-may-win-the-war-one-strategist-argues-181733f9?mod=mw_rss_topstories</guid>
+      <pubDate>13/04/2026 06:50</pubDate>
+      <enclosure url="https://images.mktw.net/im-35416446" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Craneware concede opção de compra de ações ao diretor jurídico</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/itm-power-grants-deferred-bonus-awards-to-executives-93CH-4609334</guid>
       <pubDate>13/04/2026 05:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os estoques de inteligência artificial (IA) estão aumentando com a notícia de um cessar-fogo na guerra no...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/artifical-intelligence-ai-stocks-rising-212000231.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/artifical-intelligence-ai-stocks-rising-212000231.html</guid>
-      <pubDate>13/04/2026 05:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/67d570964c3dd01f2eecaac47b48879d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
