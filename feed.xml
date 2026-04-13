@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 03:22:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 03:35:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O negócio da máquina Ether do Tesouro Ethereum de US$ 1,5 bilhão entra em colapso</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/1-5-billion-ethereum-treasury-190901556.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/1-5-billion-ethereum-treasury-190901556.html</guid>
+      <pubDate>13/04/2026 03:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/beincrypto_us_662/eb501c6724de64126dce8e463b4c20d2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Musical de ‘Paddington’ triunfa no Olivier Awards teatral de Londres</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-ceo-jamie-dimon-170700441.html</guid>
       <pubDate>13/04/2026 01:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/886c9d9cf31ae429673684ef68d07c86" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações de crescimento mais inteligentes para investir US$ 1.000 à medida que os investidores abandonam a...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/smartest-growth-stocks-invest-1-164500790.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/smartest-growth-stocks-invest-1-164500790.html</guid>
-      <pubDate>13/04/2026 00:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/8725ae1bc9d90a2e084fb688f0b31a5f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
