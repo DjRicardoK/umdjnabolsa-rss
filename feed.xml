@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 05:57:11 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 05:57:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE É por isso que a CI&amp;T Inc (CINT) não é uma farsa, mas uma das melhores ações baratas para comprar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-ci-t-inc-cint-220744617.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-ci-t-inc-cint-220744617.html</guid>
+      <pubDate>13/04/2026 05:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/641b965f23c71d06cfcf686dccd146e9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE ‘Big Short’ Michael Burry envia sinal sobre as ações da Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/1-5-billion-ethereum-treasury-190901556.html</guid>
       <pubDate>13/04/2026 03:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/beincrypto_us_662/eb501c6724de64126dce8e463b4c20d2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Musical de ‘Paddington’ triunfa no Olivier Awards teatral de Londres</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/paddington-musical-triumphs-at-londons-theatrical-olivier-awards-4609236</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/paddington-musical-triumphs-at-londons-theatrical-olivier-awards-4609236</guid>
-      <pubDate>13/04/2026 03:22</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3B032_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
