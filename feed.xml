@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 16:47:59 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 16:56:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Borderlands México: montadoras chinesas ganham terreno à medida que as exportações dos EUA diminuem</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-china-automakers-gain-110000477.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/borderlands-mexico-china-automakers-gain-110000477.html</guid>
+      <pubDate>13/04/2026 16:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/freightwaves_373/5deed1e3edff78463d3807a5ab1be250" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores ações de Warren Buffett: American Express vs.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-strong-buy-on-somnigroup-stock-after-leggett-deal-93CH-4611006</guid>
       <pubDate>13/04/2026 15:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Veralto</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-veralto-q1-2026-earnings-095321390.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-veralto-q1-2026-earnings-095321390.html</guid>
-      <pubDate>13/04/2026 15:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/545018d3d1041df4a959c34b253c16cd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
