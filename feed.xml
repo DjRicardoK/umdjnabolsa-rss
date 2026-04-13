@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 12:49:53 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:55:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A temporada de ganhos chegou. Microsoft e mais 7 empresas que normalmente entregam.</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/earnings-season-here-microsoft-and-7-more-stocks-cb39d12e?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/earnings-season-here-microsoft-and-7-more-stocks-cb39d12e?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>13/04/2026 12:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/19e6d958c7e5f72e2fe482196dda5c6c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE J.P.Morgan e Morgan Stanley pedem a compra da queda enquanto os lucros dos EUA permanecem resilientes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/iran-war-weighs-on-global-economy-as-imf-meeting-starts-4610719</guid>
       <pubDate>13/04/2026 11:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0VG_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE UBS reitera classificação de compra de ações da Cisco sobre oportunidade de segurança de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-cisco-stock-buy-rating-on-ai-security-opportunity-93CH-4610681</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-cisco-stock-buy-rating-on-ai-security-opportunity-93CH-4610681</guid>
-      <pubDate>13/04/2026 11:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
