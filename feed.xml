@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:48:33 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 17:53:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Exclusivo: BLS e ISM reagem às críticas do economista Rosenberg sobre reivindicações de dados de empregos...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/exclusive-bls-ism-fire-back-114618795.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/exclusive-bls-ism-fire-back-114618795.html</guid>
+      <pubDate>13/04/2026 17:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/9d83712b04d865ef37db5968bf96dcdd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O “período incrível” para a economia dos EUA está a terminar, disse uma vez Warren Buffett. Sua previsão se...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/financial-expert-warns-one-ira-100000048.html</guid>
       <pubDate>13/04/2026 15:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/b5caaf870cd42026938954bd90c8f585" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da PACCAR</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-paccar-next-earnings-095637367.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-paccar-next-earnings-095637367.html</guid>
-      <pubDate>13/04/2026 15:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e7efb8739d31cb7b91fa354b539ce678" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
