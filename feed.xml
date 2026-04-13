@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 12 Apr 2026 23:04:04 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 23:13:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Essas 2 ações EV não estão sendo apreciadas no momento e isso é uma oportunidade de compra</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/2-ev-stocks-getting-no-151500618.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-ev-stocks-getting-no-151500618.html</guid>
+      <pubDate>12/04/2026 23:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/bc2af4481a8fd3336132e23f91dff25f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warren Buffett possui quase 10% desta empresa - você deve seguir o exemplo dele?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-earnings-season-set-to-test-warrattled-stocks-4608277</guid>
       <pubDate>10/04/2026 17:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM390KQ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações caem antes da abertura à medida que o petróleo se recupera em meio ao frágil cessar-fogo EUA-Irã,...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-oil-rebounds-103152617.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-oil-rebounds-103152617.html</guid>
-      <pubDate>10/04/2026 17:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/3716b415734e9ec3513eabe4054988f1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
