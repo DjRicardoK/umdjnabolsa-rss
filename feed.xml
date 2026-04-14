@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 01:16:05 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 01:41:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ISS apóia acordo entre Warner Bros e Paramount, mas rejeita o pára-quedas dourado &apos;extraordinário&apos; de US$ 886...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/iss-backs-warner-bros-paramount-173111871.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/iss-backs-warner-bros-paramount-173111871.html</guid>
+      <pubDate>14/04/2026 01:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/286aba09e72705adcc95b4e25fc8552e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Xi da China pede laços mais robustos e dinâmicos com o mundo árabe</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/singapore-central-bank-tightens-monetary-policy-as-expected-4611599</guid>
       <pubDate>13/04/2026 22:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D00I_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar estável enquanto EUA bloqueiam navios iranianos, negociações continuam</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/dollar-steady-as-us-blocks-iranian-ships-talks-continue-4611612</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-steady-as-us-blocks-iranian-ships-talks-continue-4611612</guid>
-      <pubDate>13/04/2026 21:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D016_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
