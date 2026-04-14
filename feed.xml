@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 09:20:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 09:40:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação no atacado salta para maior nível em três anos</title>
+      <description>Os preços grossistas registaram um grande aumento em Março, pelo quarto mês consecutivo, num outro sinal de que a inflação aqueceu devido ao aumento dos preços do petróleo, mas,...</description>
+      <link>https://www.marketwatch.com/story/wholesale-inflation-jumps-to-highest-level-in-three-years-b48ed28b?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/wholesale-inflation-jumps-to-highest-level-in-three-years-b48ed28b?mod=mw_rss_topstories</guid>
+      <pubDate>14/04/2026 09:40</pubDate>
+      <enclosure url="https://images.mktw.net/im-23560832" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Amazon assina acordo de US$ 11,57 bilhões com empresa de satélites Globalstar para desafiar Starlink de Musk</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-reiterates-buy-rating-100112620.html</guid>
       <pubDate>14/04/2026 07:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4a31470717140dc0b5330d507cacd0ab" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Alphabet (GOOGL) é uma das melhores ações multibagger para comprar no longo prazo?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-one-best-multibagger-100120337.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-one-best-multibagger-100120337.html</guid>
-      <pubDate>14/04/2026 07:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ddded06c9301164bc21c334085fab02f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
