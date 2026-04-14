@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 02:26:58 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 02:29:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs, Bank of America, JP Morgan, Netflix, J&amp;J, preços do produtor e muito mais para assistir esta...</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/goldman-sachs-bank-of-america-jp-morgan-netflix-j-j-producer-prices-and-more-to-watch-this-week-b3703e94?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/goldman-sachs-bank-of-america-jp-morgan-netflix-j-j-producer-prices-and-more-to-watch-this-week-b3703e94?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>14/04/2026 02:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Barclays nomeia principais ações de companhias aéreas europeias em meio a custos elevados de combustível</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/australian-business-sentiment-crashes-in-march-on-worries-about-fallout-from-iran-war-4611625</guid>
       <pubDate>13/04/2026 22:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D02G_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE 11 palavras das atas do Fed de março que podem voltar a assombrar Wall Street</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/11-words-march-fed-minutes-132600881.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/11-words-march-fed-minutes-132600881.html</guid>
-      <pubDate>13/04/2026 22:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/1623eae5e9f94e0e77027831551b4535" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
