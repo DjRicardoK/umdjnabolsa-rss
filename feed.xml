@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 10:49:56 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 10:53:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Você pode negociar com as faculdades para pagar menos. Veja como eu fiz isso.</title>
+      <description>Cada dólar que você não precisa pedir emprestado para o ensino superior vale o esforço, mesmo que pedir um desconto seja desconfortável</description>
+      <link>https://www.marketwatch.com/story/you-can-negotiate-with-colleges-to-pay-less-heres-how-i-did-it-5845d916?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/you-can-negotiate-with-colleges-to-pay-less-heres-how-i-did-it-5845d916?mod=mw_rss_topstories</guid>
+      <pubDate>14/04/2026 10:53</pubDate>
+      <enclosure url="https://images.mktw.net/im-66444499" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As participações do indicado pelo Fed, Warsh, incluem SpaceX, Polymarket, criptografia e IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazon-signs-11-57-billion-120533254.html</guid>
       <pubDate>14/04/2026 09:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/e9227a1b413541d78c1fc9e89a616b4c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow oscila antes dos principais dados de inflação; Bloom sobe neste Oracle News...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-ppi/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-ppi/?src=A00220&yptr=yahoo</guid>
-      <pubDate>14/04/2026 09:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/55ca4252bd7c66820fc61ce444908e68" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
