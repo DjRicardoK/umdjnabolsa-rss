@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 20:42:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 21:03:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Chegou a “Grande Rotação” dos Ações de Inteligência Artificial (IA). Aqui está o que o dinheiro inteligente...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/great-rotation-artificial-intelligence-ai-123500706.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/great-rotation-artificial-intelligence-ai-123500706.html</guid>
+      <pubDate>13/04/2026 21:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/9df2fcfcc66b74e8215c0accefd103bf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Um salário de US $ 13 milhões do CEO da cooperativa de crédito fez com que Clark Howard dissesse que a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-amazon-stock-price-target-to-275-on-aws-growth-93CH-4611375</guid>
       <pubDate>13/04/2026 18:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE À medida que o conflito no Irão comprime o fornecimento global de energia, o petróleo americano torna-se uma...</title>
-      <description>O spread WTI-Brent não conta toda a história sobre o que está acontecendo no mercado petrolífero.</description>
-      <link>https://www.marketwatch.com/story/as-iran-conflict-squeezes-global-energy-supplies-american-oil-becomes-a-vital-safety-net-15ce3c82?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/as-iran-conflict-squeezes-global-energy-supplies-american-oil-becomes-a-vital-safety-net-15ce3c82?mod=mw_rss_topstories</guid>
-      <pubDate>13/04/2026 18:06</pubDate>
-      <enclosure url="https://images.mktw.net/im-39134396" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
