@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 00:10:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 00:20:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dimon, do JPMorgan, alerta sobre tempestade no mercado cervejeiro</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/jpmorgan-dimon-warns-brewing-market-160300060.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/jpmorgan-dimon-warns-brewing-market-160300060.html</guid>
+      <pubDate>14/04/2026 00:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/b9e5a2301ab2f8074545e4a45f0d4b18" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Um analista de Wall Street acaba de alertar os investidores que esta ação emitirá uma orientação fraca ainda...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/qantas-lifts-fuel-cost-forecast-as-middle-east-war-jolts-oil-markets-4611581</guid>
       <pubDate>13/04/2026 20:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C1CJ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Pesquisa Google gera US$ 615 milhões cada. Solteiro. Dia. A Alphabet é o estoque obrigatório?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/google-search-generates-615-million-150854702.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/google-search-generates-615-million-150854702.html</guid>
-      <pubDate>13/04/2026 20:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/f588a06dbcf14e962a53315fa530ab98" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
