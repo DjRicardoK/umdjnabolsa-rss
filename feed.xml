@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 03:02:07 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 03:02:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street otimista em relação ao Precigen (PGEN) à medida que a empresa transita para o estágio comercial</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-precigen-pgen-182908285.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-precigen-pgen-182908285.html</guid>
+      <pubDate>14/04/2026 03:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/01600d264d655ac506960f90984a0fe2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE BlackBerry Limited (BB): entre as melhores ações em ascensão após fortes resultados do FQ4 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-nears-deal-for-globalstar-to-rival-spacexs-starlink-bloomberg-4611637</guid>
       <pubDate>14/04/2026 00:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/satellite_M_1440051110.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da Revvity</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-revvitys-next-quarterly-earnings-154934132.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-revvitys-next-quarterly-earnings-154934132.html</guid>
-      <pubDate>14/04/2026 00:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/78f65b204aadc420e331b20bd621bcf2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
