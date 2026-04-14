@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 11:47:48 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 11:47:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bessent diz que China acumula petróleo e limita exportações durante guerra no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bessent-says-china-hoarding-oil-limiting-exports-during-mideast-war-93CH-4613234</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bessent-says-china-hoarding-oil-limiting-exports-during-mideast-war-93CH-4613234</guid>
+      <pubDate>14/04/2026 11:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Microsoft e do Google sobem com relatórios de acordo de fornecimento de memória</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/envirogold-develop-processing-hub-metal-134601282.html</guid>
       <pubDate>14/04/2026 10:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/mining_technology_700/238baafb7a19d2439add6d4a60423500" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs afirma que o papel do crédito privado nos mercados de financiamento permanece intacto e espera...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-private-credits-133000038.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-private-credits-133000038.html</guid>
-      <pubDate>14/04/2026 10:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/proactive_us_504/4e67ee5470dfdb312e8c66644d37b88b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
