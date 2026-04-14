@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 06:39:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 06:39:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BofA diz que taxas parecem sobrevendidas em meio a choque na oferta de petróleo paralelo à década de 1970</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/bofa-says-rates-look-oversold-amid-oil-supply-shock-parallels-to-1970s-93CH-4612061</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bofa-says-rates-look-oversold-amid-oil-supply-shock-parallels-to-1970s-93CH-4612061</guid>
+      <pubDate>14/04/2026 06:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAD000_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE EUA e Irã podem retomar negociações de guerra esta semana, apesar do bloqueio portuário</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/russian-foreign-minister-lavrov-arrives-in-china-for-talks-on-iran-and-ukraine-4611896</guid>
       <pubDate>14/04/2026 04:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0DC_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações da LVMH caem com a guerra no Oriente Médio arrastando vendas do primeiro trimestre abaixo das metas</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/lvmh-falls-as-fashion--leather-goods-sales-miss-estimates-4610867</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/lvmh-falls-as-fashion--leather-goods-sales-miss-estimates-4610867</guid>
-      <pubDate>14/04/2026 04:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED990FZ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
