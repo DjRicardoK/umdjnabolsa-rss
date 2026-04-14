@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 01:01:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 01:02:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações da Ásia: Nikkei e KOSPI sobem com ganhos de tecnologia; Dados da China, conflito no Irã em foco</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-rally-on-tech-gains-china-data-iran-conflict-in-focus-4611645</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-rally-on-tech-gains-china-data-iran-conflict-in-focus-4611645</guid>
+      <pubDate>14/04/2026 01:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEABM09Q_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Cessar-fogo no Irã, ganhos bancários e outras coisas importantes a serem observadas esta semana</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/great-rotation-artificial-intelligence-ai-123500706.html</guid>
       <pubDate>13/04/2026 21:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/9df2fcfcc66b74e8215c0accefd103bf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Um salário de US $ 13 milhões do CEO da cooperativa de crédito fez com que Clark Howard dissesse que a...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/13-million-credit-union-ceo-152031661.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/13-million-credit-union-ceo-152031661.html</guid>
-      <pubDate>13/04/2026 20:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/c7ccb448019fdea9bd69b855189b8a1d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
