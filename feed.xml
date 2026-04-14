@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 22:52:30 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 23:52:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Hauser do RBA não tem certeza se as taxas são adequadas para controlar a inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/rbas-hauser-uncertain-if-rates-adequate-to-control-inflation-93CH-4611634</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/rbas-hauser-uncertain-if-rates-adequate-to-control-inflation-93CH-4611634</guid>
+      <pubDate>13/04/2026 23:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações sobem, petróleo e dólar recuam com esperanças de resolução EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/sharonai-holdings-corrects-statement-on-nvidia-shareholding-in-annual-report-93CH-4611533</guid>
       <pubDate>13/04/2026 19:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Clark Howard afirma que o Congresso aprovou uma lei que punia especificamente as pessoas por doarem dinheiro...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/clark-howard-says-congress-passed-133539941.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/clark-howard-says-congress-passed-133539941.html</guid>
-      <pubDate>13/04/2026 19:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1d3bd0ce64bf0005e3aba415ea548dfe" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
