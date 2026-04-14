@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 06:37:56 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 06:39:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE EUA e Irã podem retomar negociações de guerra esta semana, apesar do bloqueio portuário</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/us-begins-iran-port-blockade-oil-prices-ease-on-hopes-for-dialogue-4611650</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-begins-iran-port-blockade-oil-prices-ease-on-hopes-for-dialogue-4611650</guid>
+      <pubDate>14/04/2026 06:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D05U_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os futuros de ações dos EUA sobem enquanto os comerciantes se apegam às esperanças de desescalada e aguardam...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/lvmh-falls-as-fashion--leather-goods-sales-miss-estimates-4610867</guid>
       <pubDate>14/04/2026 04:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED990FZ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Operadores de títulos voltam à inflação à medida que a alta por mais tempo se instala</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/bond-traders-snap-back-inflation-190000414.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/bond-traders-snap-back-inflation-190000414.html</guid>
-      <pubDate>14/04/2026 04:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/da16d142dea8fdc5f5507e4a2d3ada42" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
