@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 01:02:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 01:10:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Andy Jassy tem ótimas notícias para os investidores em ações da Amazon</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/andy-jassy-great-news-amazon-164700565.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/andy-jassy-great-news-amazon-164700565.html</guid>
+      <pubDate>14/04/2026 01:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/fc4dacc019814ddb0f31a826651ca35f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações da Ásia: Nikkei e KOSPI sobem com ganhos de tecnologia; Dados da China, conflito no Irã em foco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/us-gold-director-fipke-buys-10k-in-company-stock-93CH-4611601</guid>
       <pubDate>13/04/2026 21:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Chegou a “Grande Rotação” dos Ações de Inteligência Artificial (IA). Aqui está o que o dinheiro inteligente...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/great-rotation-artificial-intelligence-ai-123500706.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/great-rotation-artificial-intelligence-ai-123500706.html</guid>
-      <pubDate>13/04/2026 21:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/9df2fcfcc66b74e8215c0accefd103bf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
