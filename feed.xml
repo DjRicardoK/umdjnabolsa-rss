@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 04:49:18 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 04:57:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE É assim que a Microsoft está ganhando dinheiro com IA agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/microsoft-making-money-ai-now-205800389.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/microsoft-making-money-ai-now-205800389.html</guid>
+      <pubDate>14/04/2026 04:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/883f11b943a5b8fd62b1edf1ca1317e3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O ministro das Relações Exteriores da Rússia, Lavrov, chega à China para negociações sobre o Irã e a Ucrânia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/iss-backs-warner-bros-paramount-173111871.html</guid>
       <pubDate>14/04/2026 01:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/Benzinga/286aba09e72705adcc95b4e25fc8552e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Xi da China pede laços mais robustos e dinâmicos com o mundo árabe</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/chinas-xi-calls-for-more-robust-dynamic-ties-with-arab-world-4611647</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/chinas-xi-calls-for-more-robust-dynamic-ties-with-arab-world-4611647</guid>
-      <pubDate>14/04/2026 01:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D056_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
