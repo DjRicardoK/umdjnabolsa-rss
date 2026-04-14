@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 04:20:52 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 04:49:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O ministro das Relações Exteriores da Rússia, Lavrov, chega à China para negociações sobre o Irã e a Ucrânia</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/russian-foreign-minister-lavrov-arrives-in-china-for-talks-on-iran-and-ukraine-4611896</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/russian-foreign-minister-lavrov-arrives-in-china-for-talks-on-iran-and-ukraine-4611896</guid>
+      <pubDate>14/04/2026 04:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0DC_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações da LVMH caem com a guerra no Oriente Médio arrastando vendas do primeiro trimestre abaixo das metas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/chinas-xi-calls-for-more-robust-dynamic-ties-with-arab-world-4611647</guid>
       <pubDate>14/04/2026 01:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D056_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da BHP sobem após relato de China aliviando algumas restrições ao carregamento de minério de ferro</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bhp-shares-surge-on-report-of-china-easing-some-iron-ore-cargo-restrictions-4611648</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bhp-shares-surge-on-report-of-china-easing-some-iron-ore-cargo-restrictions-4611648</guid>
-      <pubDate>14/04/2026 01:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1N0C7_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
