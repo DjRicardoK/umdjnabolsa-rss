@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 03:22:13 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 03:38:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Austrália Inc começa a sentir as consequências da guerra no Irã, aumentando o risco de estagflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/australia-inc-starts-to-feel-iran-war-fallout-raising-stagflation-risk-4611777</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-inc-starts-to-feel-iran-war-fallout-raising-stagflation-risk-4611777</guid>
+      <pubDate>14/04/2026 03:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0AF_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Williams-Sonoma (WSM) é uma das ações de melhor qualidade para comprar de acordo com os fundos de hedge?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/jpmorgan-dimon-warns-brewing-market-160300060.html</guid>
       <pubDate>14/04/2026 00:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/b9e5a2301ab2f8074545e4a45f0d4b18" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Um analista de Wall Street acaba de alertar os investidores que esta ação emitirá uma orientação fraca ainda...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analyst-just-warned-155500844.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analyst-just-warned-155500844.html</guid>
-      <pubDate>14/04/2026 00:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/586e0a71a3d42cc6e8f44fde5912a3af" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
