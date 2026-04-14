@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 08:03:41 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 08:06:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Unity Bancorp supera estimativas com lucro no primeiro trimestre de US$ 1,40</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/unity-bancorp-beats-estimates-with-q1-earnings-of-140-93CH-4612309</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/unity-bancorp-beats-estimates-with-q1-earnings-of-140-93CH-4612309</guid>
+      <pubDate>14/04/2026 08:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘Não sobreviveremos’: CEOs da Toyota, Honda e Ford emitem alerta assustador sobre a China – e isso pode...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-traders-cling-to-deescalation-hopes-await-earnings-4612028</guid>
       <pubDate>14/04/2026 06:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0GT_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que existe uma desconexão entre dados econômicos sólidos e a confiança sombria do consumidor, de acordo...</title>
-      <description>Jim Grant está preocupado com o impacto sobre a inflação, não apenas da guerra, mas também com a forma como os bancos centrais agora a incorporam nas suas políticas monetárias.</description>
-      <link>https://www.marketwatch.com/story/why-theres-a-disconnect-between-solid-economic-data-and-dismal-consumer-confidence-according-to-jim-grant-64647231?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/why-theres-a-disconnect-between-solid-economic-data-and-dismal-consumer-confidence-according-to-jim-grant-64647231?mod=mw_rss_topstories</guid>
-      <pubDate>14/04/2026 06:37</pubDate>
-      <enclosure url="https://images.mktw.net/im-66155896" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
