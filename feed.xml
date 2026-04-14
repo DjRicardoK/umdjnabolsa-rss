@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 21:54:03 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 21:57:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar estável enquanto EUA bloqueiam navios iranianos, negociações continuam</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/dollar-steady-as-us-blocks-iranian-ships-talks-continue-4611612</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-steady-as-us-blocks-iranian-ships-talks-continue-4611612</guid>
+      <pubDate>13/04/2026 21:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D016_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Hauser, do RBA, não tem certeza se as taxas de juros estão no nível certo para controlar a inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/central-banks-extend-gold-buying-123210801.html</guid>
       <pubDate>13/04/2026 18:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/Benzinga/0db0822ec0bdc793551eff2af65d180a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE América Latina rica em petróleo atrai comerciantes que enfrentam nervosismo de guerra</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/oil-rich-latin-america-lures-123000176.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/oil-rich-latin-america-lures-123000176.html</guid>
-      <pubDate>13/04/2026 18:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/e3d1b71616290e48181948373134ea80" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
