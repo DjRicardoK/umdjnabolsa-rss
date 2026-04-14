@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 23:52:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 23:56:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon se aproxima de acordo para comprar Globalstar, informa Bloomberg News</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/amazon-nears-deal-to-buy-globalstar-bloomberg-news-reports-4611636</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-nears-deal-to-buy-globalstar-bloomberg-news-reports-4611636</guid>
+      <pubDate>13/04/2026 23:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D03O_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Hauser do RBA não tem certeza se as taxas são adequadas para controlar a inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/foldable-iphone-reason-buy-apples-134500324.html</guid>
       <pubDate>13/04/2026 19:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/ddbe40d21b4215885ce2b52b4d0d9cfd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE SharonAI Holdings corrige declaração sobre participação acionária da NVIDIA no relatório anual</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/sharonai-holdings-corrects-statement-on-nvidia-shareholding-in-annual-report-93CH-4611533</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/sharonai-holdings-corrects-statement-on-nvidia-shareholding-in-annual-report-93CH-4611533</guid>
-      <pubDate>13/04/2026 19:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
