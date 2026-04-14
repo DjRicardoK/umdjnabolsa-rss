@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:12:18 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:12:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs reitera classificação de compra de ações da Broadcom (AVGO)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-reiterates-buy-rating-100112620.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-reiterates-buy-rating-100112620.html</guid>
+      <pubDate>14/04/2026 07:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4a31470717140dc0b5330d507cacd0ab" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Alphabet (GOOGL) é uma das melhores ações multibagger para comprar no longo prazo?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/buy-vanguard-information-technology-etf-213500761.html</guid>
       <pubDate>14/04/2026 05:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/16f877cf9a56deae319fe811b89fe18e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Publicis Groupe Q1 2026 mostra forte crescimento de receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-publicis-groupe-q1-2026-shows-strong-revenue-growth-93CH-4611948</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-publicis-groupe-q1-2026-shows-strong-revenue-growth-93CH-4611948</guid>
-      <pubDate>14/04/2026 05:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
