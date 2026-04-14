@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 03:55:14 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 03:55:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que a Viper Energy (VNOM) está entre as melhores ações de energia americanas para comprar, de acordo...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/why-viper-energy-vnom-among-191102697.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/why-viper-energy-vnom-among-191102697.html</guid>
+      <pubDate>14/04/2026 03:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a738ed0125c98bfe4e33a8012a081f23" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O principal banco central acaba de fazer outro movimento silencioso sobre o ouro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-warren-buffett-162500169.html</guid>
       <pubDate>14/04/2026 00:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/35037d3b1e04db35bc1e4045be390b23" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As exportações da China em março diminuem à medida que a guerra no Irã anula os ganhos impulsionados pela IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/chinas-march-exports-slow-as-iran-war-wipes-out-aidriven-gains-4611643</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-march-exports-slow-as-iran-war-wipes-out-aidriven-gains-4611643</guid>
-      <pubDate>14/04/2026 00:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D04R_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
