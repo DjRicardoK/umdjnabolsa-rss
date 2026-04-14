@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 06:19:44 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 06:31:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Texas Chicken da Church entrará na China com negócio de 600 unidades</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/church-texas-chicken-enter-china-092150034.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/church-texas-chicken-enter-china-092150034.html</guid>
+      <pubDate>14/04/2026 06:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/verdict_food_service_772/13ef130ad98d2317da3567a812b988bd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O chefe bilionário da China Evergrande cai dos círculos de poder devido à alegação de fraude</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cirata-q1-2026-sees-record-growth-stock-rises-4-93CH-4611831</guid>
       <pubDate>14/04/2026 03:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Veja por que a Viper Energy (VNOM) está entre as melhores ações de energia americanas para comprar, de acordo...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/why-viper-energy-vnom-among-191102697.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/why-viper-energy-vnom-among-191102697.html</guid>
-      <pubDate>14/04/2026 03:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a738ed0125c98bfe4e33a8012a081f23" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
