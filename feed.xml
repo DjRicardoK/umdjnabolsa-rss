@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 06:39:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 06:40:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Uma das Forever Holdings de Greg Abel na Berkshire Hathaway está quebrando a regra de investimento mais...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/one-greg-abels-forever-holdings-092600244.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/one-greg-abels-forever-holdings-092600244.html</guid>
+      <pubDate>14/04/2026 06:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/1a4b80aecc1cd3cf8709924375c6677c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE HSBC concede prêmios em ações a funcionários sob plano de compra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/hallador-energy-hnrg-one-best-205620457.html</guid>
       <pubDate>14/04/2026 04:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b7888442fc6abfc172c1decf9ccc5a5b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE É assim que a Microsoft está ganhando dinheiro com IA agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/microsoft-making-money-ai-now-205800389.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/microsoft-making-money-ai-now-205800389.html</guid>
-      <pubDate>14/04/2026 04:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/883f11b943a5b8fd62b1edf1ca1317e3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
