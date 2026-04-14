@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 09:20:03 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 09:20:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon assina acordo de US$ 11,57 bilhões com empresa de satélites Globalstar para desafiar Starlink de Musk</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/amazon-signs-11-57-billion-120533254.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazon-signs-11-57-billion-120533254.html</guid>
+      <pubDate>14/04/2026 09:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/e9227a1b413541d78c1fc9e89a616b4c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow oscila antes dos principais dados de inflação; Bloom sobe neste Oracle News...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-one-best-multibagger-100120337.html</guid>
       <pubDate>14/04/2026 07:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ddded06c9301164bc21c334085fab02f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Gastos com diesel dos caminhoneiros dos EUA atingem recorde no conflito no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/us-truckers-diesel-spend-hits-record-high-on-middle-east-conflict-4612108</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/us-truckers-diesel-spend-hits-record-high-on-middle-east-conflict-4612108</guid>
-      <pubDate>14/04/2026 07:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0IO_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
