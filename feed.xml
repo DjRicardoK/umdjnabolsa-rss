@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 03:02:14 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 03:13:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Analistas de Wall Street dizem para vender essas ações. Veja por que eles estão errados.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-sell-stock-183300499.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-sell-stock-183300499.html</guid>
+      <pubDate>14/04/2026 03:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/f10f45a6dd85d299ddeaae7839b8a0c7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street otimista em relação ao Precigen (PGEN) à medida que a empresa transita para o estágio comercial</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-eatons-report-155446632.html</guid>
       <pubDate>14/04/2026 00:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/381736a2f07c7f9dad0d20fac60fdea6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon se aproxima de acordo para que Globalstar rivalize com Starlink da SpaceX-Bloomberg</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/amazon-nears-deal-for-globalstar-to-rival-spacexs-starlink-bloomberg-4611637</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-nears-deal-for-globalstar-to-rival-spacexs-starlink-bloomberg-4611637</guid>
-      <pubDate>14/04/2026 00:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/satellite_M_1440051110.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
