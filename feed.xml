@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 21:03:43 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 21:35:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Diretor de ouro dos EUA, Fipke, compra US$ 10 mil em ações da empresa</title>
+      <description></description>
+      <link>https://www.investing.com/news/insider-trading-news/us-gold-director-fipke-buys-10k-in-company-stock-93CH-4611601</link>
+      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/us-gold-director-fipke-buys-10k-in-company-stock-93CH-4611601</guid>
+      <pubDate>13/04/2026 21:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Chegou a “Grande Rotação” dos Ações de Inteligência Artificial (IA). Aqui está o que o dinheiro inteligente...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/hoffman-edward-j-radian-group-sr-evp-sells-69685-in-stock-93CH-4611374</guid>
       <pubDate>13/04/2026 18:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs reduz a meta de preço das ações da Amazon para US$ 275 com base no crescimento da AWS</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-amazon-stock-price-target-to-275-on-aws-growth-93CH-4611375</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-lowers-amazon-stock-price-target-to-275-on-aws-growth-93CH-4611375</guid>
-      <pubDate>13/04/2026 18:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
