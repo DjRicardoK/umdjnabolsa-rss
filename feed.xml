@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 11:01:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 11:02:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: JPMorgan Chase supera as expectativas de lucros do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-jpmorgan-chase-exceeds-q1-2026-earnings-expectations-93CH-4613123</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-jpmorgan-chase-exceeds-q1-2026-earnings-expectations-93CH-4613123</guid>
+      <pubDate>14/04/2026 11:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de tecnologia hoje: Amazon adquirirá a empresa de satélite Globalstar enquanto enfrenta Starlink de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rent-the-runway-reports-strong-q4-2025-growth-93CH-4612908</guid>
       <pubDate>14/04/2026 10:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Reino Unido é atingido por grande rebaixamento do crescimento do FMI enquanto a guerra no Irã alimenta a...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/uk-hit-with-big-imf-growth-downgrade-as-iran-war-fuels-inflation-4612909</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-hit-with-big-imf-growth-downgrade-as-iran-war-fuels-inflation-4612909</guid>
-      <pubDate>14/04/2026 10:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0TO_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
