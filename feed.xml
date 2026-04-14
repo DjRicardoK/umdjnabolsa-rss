@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 13:05:45 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 13:06:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Wisdomtree atingem alta de 52 semanas a 17,73 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/wisdomtree-stock-hits-52week-high-at-1773-usd-93CH-4613373</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/wisdomtree-stock-hits-52week-high-at-1773-usd-93CH-4613373</guid>
+      <pubDate>14/04/2026 13:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Este estudo contará tudo o que você precisa saber sobre como ser um investidor de sucesso</title>
       <description>A maior parte dos ganhos do mercado de ações vem de uma minoria de ações.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/super-stock-could-biggest-winner-140600011.html</guid>
       <pubDate>14/04/2026 11:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/c504a101cb72cb736d65d0b9ce82d14b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Woodward atingem o máximo histórico de US$ 403,59</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/woodward-stock-hits-alltime-high-at-40359-93CH-4613122</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/woodward-stock-hits-alltime-high-at-40359-93CH-4613122</guid>
-      <pubDate>14/04/2026 11:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
