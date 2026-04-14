@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 10:57:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 10:57:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE FMI reduz perspetivas de crescimento e alerta para potencial recessão global se a guerra no Irão piorar</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/imf-cuts-growth-outlook-warns-of-potential-global-recession-if-iran-war-worsens-4612904</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/imf-cuts-growth-outlook-warns-of-potential-global-recession-if-iran-war-worsens-4612904</guid>
+      <pubDate>14/04/2026 10:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0TC_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Com alta de 28%+, essas ações escolhidas pela IA estão provando que março foi uma oportunidade de compra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/citigroups-stock-jumps-toward-an-18-year-high-after-earnings-boosted-by-record-m-a-fees-e8e27555?mod=mw_rss_topstories</guid>
       <pubDate>14/04/2026 10:05</pubDate>
       <enclosure url="https://images.mktw.net/im-28520967" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os ganhos da BlackRock no primeiro trimestre de 2026 superaram...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-blackrocks-q1-2026-earnings-beat-expectations-93CH-4612827</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-blackrocks-q1-2026-earnings-beat-expectations-93CH-4612827</guid>
-      <pubDate>14/04/2026 09:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
