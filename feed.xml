@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:12:31 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:45:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que dois titãs de Wall Street se tornaram otimistas em relação às ações dos EUA</title>
+      <description>O Citigroup e o BlackRock Investment Institute tornaram-se otimistas em relação às ações dos EUA. Dizem que o domínio da tecnologia faz parte disso.</description>
+      <link>https://www.marketwatch.com/story/why-two-wall-street-titans-have-turned-bullish-on-u-s-stocks-afd0924a?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/why-two-wall-street-titans-have-turned-bullish-on-u-s-stocks-afd0924a?mod=mw_rss_topstories</guid>
+      <pubDate>14/04/2026 07:45</pubDate>
+      <enclosure url="https://images.mktw.net/im-72657760" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs levanta PT com ações da GE Vernova (GEV)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/bp-flags-trading-windfall-volatility-081855027.html</guid>
       <pubDate>14/04/2026 06:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/oilprice.com/09571c686ce54602028fb292033223b2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Março viu o maior aumento na inflação global de energia em 25 anos</title>
-      <description>A guerra do Irão causou o maior aumento da inflação energética global em 25 anos, de acordo com cálculos feitos por um economista que monitoriza dados governamentais.</description>
-      <link>https://www.marketwatch.com/story/march-saw-the-largest-increase-in-global-energy-inflation-in-25-years-78f1dd8b?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/march-saw-the-largest-increase-in-global-energy-inflation-in-25-years-78f1dd8b?mod=mw_rss_topstories</guid>
-      <pubDate>14/04/2026 06:05</pubDate>
-      <enclosure url="https://images.mktw.net/im-96382993" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
