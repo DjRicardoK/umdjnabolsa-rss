@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 07:58:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 08:03:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O investimento espacial está esquentando à medida que a SpaceX dispara em direção a um IPO recorde</title>
+      <description>O entusiasmo em torno de Elon Musk, uma grande missão lunar e centros de dados baseados no espaço está despertando o interesse no setor.</description>
+      <link>https://www.marketwatch.com/story/space-investing-is-heating-up-as-spacex-rockets-toward-a-record-breaking-ipo-78da2431?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/space-investing-is-heating-up-as-spacex-rockets-toward-a-record-breaking-ipo-78da2431?mod=mw_rss_topstories</guid>
+      <pubDate>14/04/2026 08:02</pubDate>
+      <enclosure url="https://images.mktw.net/im-47635856" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Fink elogia um dos “começos de ano mais fortes da nossa história” da BlackRock</title>
       <description>O maior gestor de ativos do mundo superou as previsões de lucros após um aumento nos seus fundos negociados em bolsa</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/church-texas-chicken-enter-china-092150034.html</guid>
       <pubDate>14/04/2026 06:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/verdict_food_service_772/13ef130ad98d2317da3567a812b988bd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O chefe bilionário da China Evergrande cai dos círculos de poder devido à alegação de fraude</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/china-evergrandes-billionaire-boss-falls-from-circles-of-power-to-fraud-plea-4611944</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-evergrandes-billionaire-boss-falls-from-circles-of-power-to-fraud-plea-4611944</guid>
-      <pubDate>14/04/2026 06:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0F7_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
