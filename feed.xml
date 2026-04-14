@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Apr 2026 22:40:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 22:52:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações sobem, petróleo e dólar recuam com esperanças de resolução EUA-Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/stocks-gain-oil-and-dollar-retreat-on-hopes-for-usiran-resolution-4611626</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-gain-oil-and-dollar-retreat-on-hopes-for-usiran-resolution-4611626</guid>
+      <pubDate>13/04/2026 22:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D02J_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O sentimento empresarial australiano despenca em março devido às preocupações com as consequências da guerra...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/clark-howard-says-congress-passed-133539941.html</guid>
       <pubDate>13/04/2026 19:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1d3bd0ce64bf0005e3aba415ea548dfe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que os analistas da Needham reduziram suas metas de preço das ações da IBM antes dos lucros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-needham-analysts-slashed-price-131502174.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-needham-analysts-slashed-price-131502174.html</guid>
-      <pubDate>13/04/2026 18:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0319f2f093d211588a202151ab0701db" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
