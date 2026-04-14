@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 11:03:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 11:13:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Este super estoque pode ser o maior vencedor na economia de inferência de IA. Não é Nvidia, Broadcom, Intel...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/super-stock-could-biggest-winner-140600011.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/super-stock-could-biggest-winner-140600011.html</guid>
+      <pubDate>14/04/2026 11:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/c504a101cb72cb736d65d0b9ce82d14b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da Woodward atingem o máximo histórico de US$ 403,59</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-u-s-iran-war-dealt-a-big-blow-to-the-global-economy-the-imf-tells-us-how-bad-it-could-get-496892dd?mod=mw_rss_topstories</guid>
       <pubDate>14/04/2026 10:13</pubDate>
       <enclosure url="https://images.mktw.net/im-72904168" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: AstroNova Q4 2026 vê receita estável, ligeira perda de EPS</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-astronova-q4-2026-sees-stable-revenue-slight-eps-miss-93CH-4612907</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-astronova-q4-2026-sees-stable-revenue-slight-eps-miss-93CH-4612907</guid>
-      <pubDate>14/04/2026 10:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
