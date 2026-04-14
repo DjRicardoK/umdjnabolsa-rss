@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 10:31:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 10:31:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Piper Sandler reitera classificação das ações da CrowdStrike sobre oportunidade de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-crowdstrike-stock-rating-on-ai-opportunity-93CH-4613014</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-crowdstrike-stock-rating-on-ai-opportunity-93CH-4613014</guid>
+      <pubDate>14/04/2026 10:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Piper Sandler reitera classificação de ações da FB Financial em trimestre sólido</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-cloud-114434964.html</guid>
       <pubDate>14/04/2026 08:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7d8d5d2c93e0496436c8272743df541d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs relata aumento de 19% no lucro do primeiro trimestre</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-reports-19-rise-114322974.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-reports-19-rise-114322974.html</guid>
-      <pubDate>14/04/2026 08:50</pubDate>
-      <enclosure url="https://media.zenfs.com/en/private_banker_international_938/b8ae20d736e82a7a4aeb4768f995f0e1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
