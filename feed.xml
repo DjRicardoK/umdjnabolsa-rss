@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 11:39:08 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 11:47:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Microsoft e do Google sobem com relatórios de acordo de fornecimento de memória</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/microsoft-google-shares-rise-on-memory-supply-deal-reports-93CH-4613236</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-google-shares-rise-on-memory-supply-deal-reports-93CH-4613236</guid>
+      <pubDate>14/04/2026 11:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB4E0TV_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE FMI alerta que guerra no Médio Oriente aumenta riscos para a estabilidade financeira</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-private-credits-133000038.html</guid>
       <pubDate>14/04/2026 10:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/proactive_us_504/4e67ee5470dfdb312e8c66644d37b88b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Piper Sandler reitera classificação das ações da CrowdStrike sobre oportunidade de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-crowdstrike-stock-rating-on-ai-opportunity-93CH-4613014</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-crowdstrike-stock-rating-on-ai-opportunity-93CH-4613014</guid>
-      <pubDate>14/04/2026 10:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
