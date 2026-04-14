@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 01:15:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 01:16:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Xi da China pede laços mais robustos e dinâmicos com o mundo árabe</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/chinas-xi-calls-for-more-robust-dynamic-ties-with-arab-world-4611647</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/chinas-xi-calls-for-more-robust-dynamic-ties-with-arab-world-4611647</guid>
+      <pubDate>14/04/2026 01:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D056_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da BHP sobem após relato de China aliviando algumas restrições ao carregamento de minério de ferro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-steady-as-us-blocks-iranian-ships-talks-continue-4611612</guid>
       <pubDate>13/04/2026 21:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D016_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Hauser, do RBA, não tem certeza se as taxas de juros estão no nível certo para controlar a inflação</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/rbas-hauser-not-sure-interest-rates-are-at-the-right-level-to-tame-inflation-4611610</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/rbas-hauser-not-sure-interest-rates-are-at-the-right-level-to-tame-inflation-4611610</guid>
-      <pubDate>13/04/2026 21:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D00Z_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
