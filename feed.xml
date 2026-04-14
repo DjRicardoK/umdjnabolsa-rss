@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 08:07:25 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 08:14:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Esperava-se que o Fed cortasse as taxas em 2026 – mas uma nova previsão de inflação sugere que o alívio...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/fed-expected-cut-rates-2026-110000248.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-expected-cut-rates-2026-110000248.html</guid>
+      <pubDate>14/04/2026 08:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/d9a88510ea0cb9af2a5a9534bceb2ecd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bernstein SocGen reitera classificação das ações da Sysco após pesquisa com investidores</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/one-greg-abels-forever-holdings-092600244.html</guid>
       <pubDate>14/04/2026 06:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/1a4b80aecc1cd3cf8709924375c6677c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE HSBC concede prêmios em ações a funcionários sob plano de compra</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/hsbc-grants-employee-share-awards-under-purchase-plan-93CH-4612060</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/hsbc-grants-employee-share-awards-under-purchase-plan-93CH-4612060</guid>
-      <pubDate>14/04/2026 06:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
