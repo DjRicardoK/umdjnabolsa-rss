@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 04:07:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 04:15:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Operadores de títulos voltam à inflação à medida que a alta por mais tempo se instala</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/bond-traders-snap-back-inflation-190000414.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/bond-traders-snap-back-inflation-190000414.html</guid>
+      <pubDate>14/04/2026 04:15</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/da16d142dea8fdc5f5507e4a2d3ada42" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Quer tocar o tema Reshoring? Você pode querer comprar essas ações ao sul da fronteira.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/andy-jassy-great-news-amazon-164700565.html</guid>
       <pubDate>14/04/2026 01:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/fc4dacc019814ddb0f31a826651ca35f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações da Ásia: Nikkei e KOSPI sobem com ganhos de tecnologia; Dados da China, conflito no Irã em foco</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-rally-on-tech-gains-china-data-iran-conflict-in-focus-4611645</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-rally-on-tech-gains-china-data-iran-conflict-in-focus-4611645</guid>
-      <pubDate>14/04/2026 01:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEABM09Q_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
