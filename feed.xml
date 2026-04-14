@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 11:21:20 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 11:31:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE FMI alerta que guerra no Médio Oriente aumenta riscos para a estabilidade financeira</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/imf-warns-middle-east-war-driving-up-financial-stability-risks-4613188</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/imf-warns-middle-east-war-driving-up-financial-stability-risks-4613188</guid>
+      <pubDate>14/04/2026 11:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0Y0_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Papa Leão emite alerta sobre democracia após críticas de Trump</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/imf-slashes-growth-forecast-for-middle-east-as-gulf-exporters-reel-from-impact-of-war-4612975</guid>
       <pubDate>14/04/2026 10:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0TW_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE FMI reduz estimativa de crescimento das economias emergentes à medida que a guerra obscurece as perspectivas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/imf-cuts-emerging-economies-growth-estimate-as-war-darkens-outlook-4612976</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/imf-cuts-emerging-economies-growth-estimate-as-war-darkens-outlook-4612976</guid>
-      <pubDate>14/04/2026 10:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0UI_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
