@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 11:02:55 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 11:03:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Woodward atingem o máximo histórico de US$ 403,59</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/woodward-stock-hits-alltime-high-at-40359-93CH-4613122</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/woodward-stock-hits-alltime-high-at-40359-93CH-4613122</guid>
+      <pubDate>14/04/2026 11:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: JPMorgan Chase supera as expectativas de lucros do primeiro...</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-astronova-q4-2026-sees-stable-revenue-slight-eps-miss-93CH-4612907</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-astronova-q4-2026-sees-stable-revenue-slight-eps-miss-93CH-4612907</guid>
-      <pubDate>14/04/2026 10:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Rent the Runway relata forte crescimento no quarto trimestre de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-rent-the-runway-reports-strong-q4-2025-growth-93CH-4612908</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rent-the-runway-reports-strong-q4-2025-growth-93CH-4612908</guid>
       <pubDate>14/04/2026 10:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
