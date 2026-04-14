@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 00:20:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 00:26:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A balança comercial da China cai acentuadamente em março, à medida que as exportações diminuem e as...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/china-trade-balance-falls-sharply-in-march-as-exports-slow-imports-surge-4611641</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/china-trade-balance-falls-sharply-in-march-as-exports-slow-imports-surge-4611641</guid>
+      <pubDate>14/04/2026 00:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0809H_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dimon, do JPMorgan, alerta sobre tempestade no mercado cervejeiro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-cincinnati-financials-next-quarterly-153137919.html</guid>
       <pubDate>13/04/2026 20:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/cf6f5d5cccaa5debb830d75c5ab41caa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Qantas eleva previsão de custo de combustível enquanto guerra no Oriente Médio sacode mercados de petróleo</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/qantas-lifts-fuel-cost-forecast-as-middle-east-war-jolts-oil-markets-4611581</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/qantas-lifts-fuel-cost-forecast-as-middle-east-war-jolts-oil-markets-4611581</guid>
-      <pubDate>13/04/2026 20:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C1CJ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
