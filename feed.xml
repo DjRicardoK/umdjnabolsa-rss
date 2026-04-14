@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 13:11:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 13:29:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Citi inicia inflexão na compra do Pacto Nvidia. Rally das ações de computação quântica.</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/quantum-computing-stocks-citi-rating-buy-infleqtion-stock-infq-nvidia/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/quantum-computing-stocks-citi-rating-buy-infleqtion-stock-infq-nvidia/?src=A00220&yptr=yahoo</guid>
+      <pubDate>14/04/2026 13:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/e9b535bd31539d258dbb8cb12f27c8bc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas do Reino Unido sobem no fechamento do pregão; Investing.com Reino Unido 100 sobe 0,29%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/pope-leo-issues-warning-on-democracy-after-trump-criticism-4613178</guid>
       <pubDate>14/04/2026 11:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0XH_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon assina acordo de US$ 11,57 bilhões com empresa de satélites Globalstar para desafiar Starlink de Musk</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/amazon-signs-1157-billion-deal-for-satellite-firm-globalstar-to-challenge-starlink-4612622</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-signs-1157-billion-deal-for-satellite-firm-globalstar-to-challenge-starlink-4612622</guid>
-      <pubDate>14/04/2026 11:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0PZ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
