@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 13:29:41 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 13:30:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jefferies reitera classificação das ações da Praxis Precision Medicines na revisão da FDA</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/jefferies-reiterates-praxis-precision-medicines-stock-rating-on-fda-review-93CH-4613418</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-praxis-precision-medicines-stock-rating-on-fda-review-93CH-4613418</guid>
+      <pubDate>14/04/2026 13:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Citi inicia inflexão na compra do Pacto Nvidia. Rally das ações de computação quântica.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/imf-warns-middle-east-war-driving-up-financial-stability-risks-4613188</guid>
       <pubDate>14/04/2026 11:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0Y0_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Papa Leão emite alerta sobre democracia após críticas de Trump</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/pope-leo-issues-warning-on-democracy-after-trump-criticism-4613178</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/pope-leo-issues-warning-on-democracy-after-trump-criticism-4613178</guid>
-      <pubDate>14/04/2026 11:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D0XH_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
