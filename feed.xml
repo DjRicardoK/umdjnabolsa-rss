@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 08:14:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 08:31:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Entregas da Volkswagen no primeiro trimestre caem à medida que EUA e China diminuem os volumes</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/volkswagen-q1-deliveries-fall-us-112433785.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/volkswagen-q1-deliveries-fall-us-112433785.html</guid>
+      <pubDate>14/04/2026 08:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/just_auto_187/20c0b7abb04f2c4e8a2f011cbf019ea8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Esperava-se que o Fed cortasse as taxas em 2026 – mas uma nova previsão de inflação sugere que o alívio...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://finance.yahoo.com/markets/stocks/articles/one-greg-abels-forever-holdings-092600244.html</link>
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/one-greg-abels-forever-holdings-092600244.html</guid>
       <pubDate>14/04/2026 06:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/1a4b80aecc1cd3cf8709924375c6677c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Uma das Forever Holdings de Greg Abel na Berkshire Hathaway está quebrando a regra de investimento mais...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/one-greg-abels-forever-holdings-092600244.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/one-greg-abels-forever-holdings-092600244.html</guid>
-      <pubDate>14/04/2026 06:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/1a4b80aecc1cd3cf8709924375c6677c" type="image/jpeg" length="0"/>
     </item>
   </channel>
