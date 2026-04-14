@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 02:29:11 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 02:52:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Fundador da China Evergrande se declara culpado de fraude no tribunal de Shenzhen</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/china-evergrande-founder-pleads-guilty-to-fraud-in-shenzhen-court-4611676</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-evergrande-founder-pleads-guilty-to-fraud-in-shenzhen-court-4611676</guid>
+      <pubDate>14/04/2026 02:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D066_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs, Bank of America, JP Morgan, Netflix, J&amp;J, preços do produtor e muito mais para assistir esta...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-gain-oil-and-dollar-retreat-on-hopes-for-usiran-resolution-4611626</guid>
       <pubDate>13/04/2026 22:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D02J_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O sentimento empresarial australiano despenca em março devido às preocupações com as consequências da guerra...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/australian-business-sentiment-crashes-in-march-on-worries-about-fallout-from-iran-war-4611625</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australian-business-sentiment-crashes-in-march-on-worries-about-fallout-from-iran-war-4611625</guid>
-      <pubDate>13/04/2026 22:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D02G_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
