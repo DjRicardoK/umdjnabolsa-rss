@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 05:07:36 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 05:17:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE ​American Airlines (AAL): entre as melhores ações de crescimento para comprar com maior potencial de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-among-best-205908038.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/american-airlines-aal-among-best-205908038.html</guid>
+      <pubDate>14/04/2026 05:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/dbbba142ff24fabd0f814f75b9f68279" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Rehn, do BCE: Desacelerar a transição verde devido à guerra seria um “erro grave”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-evergrande-founder-pleads-guilty-to-fraud-in-shenzhen-court-4611676</guid>
       <pubDate>14/04/2026 02:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D066_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs, Bank of America, JP Morgan, Netflix, J&amp;J, preços do produtor e muito mais para assistir esta...</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/goldman-sachs-bank-of-america-jp-morgan-netflix-j-j-producer-prices-and-more-to-watch-this-week-b3703e94?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/goldman-sachs-bank-of-america-jp-morgan-netflix-j-j-producer-prices-and-more-to-watch-this-week-b3703e94?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>14/04/2026 02:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/7db2b6f25a01944147a348761480a3c5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
