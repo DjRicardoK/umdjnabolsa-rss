@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 10:31:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 10:35:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs afirma que o papel do crédito privado nos mercados de financiamento permanece intacto e espera...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-private-credits-133000038.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-private-credits-133000038.html</guid>
+      <pubDate>14/04/2026 10:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/proactive_us_504/4e67ee5470dfdb312e8c66644d37b88b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Piper Sandler reitera classificação das ações da CrowdStrike sobre oportunidade de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-amazoncom-inc-for-14-april-93CH-4612642</guid>
       <pubDate>14/04/2026 09:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Unidade de nuvem AWS Inks da Amazon.com, Inc. (AMZN) negocia com Uber e Coupa</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-cloud-114434964.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-cloud-114434964.html</guid>
-      <pubDate>14/04/2026 08:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7d8d5d2c93e0496436c8272743df541d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
