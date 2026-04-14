@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Apr 2026 01:10:57 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 01:15:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da BHP sobem após relato de China aliviando algumas restrições ao carregamento de minério de ferro</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/bhp-shares-surge-on-report-of-china-easing-some-iron-ore-cargo-restrictions-4611648</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bhp-shares-surge-on-report-of-china-easing-some-iron-ore-cargo-restrictions-4611648</guid>
+      <pubDate>14/04/2026 01:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1N0C7_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Andy Jassy tem ótimas notícias para os investidores em ações da Amazon</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/rbas-hauser-not-sure-interest-rates-are-at-the-right-level-to-tame-inflation-4611610</guid>
       <pubDate>13/04/2026 21:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D00Z_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Diretor de ouro dos EUA, Fipke, compra US$ 10 mil em ações da empresa</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/us-gold-director-fipke-buys-10k-in-company-stock-93CH-4611601</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/us-gold-director-fipke-buys-10k-in-company-stock-93CH-4611601</guid>
-      <pubDate>13/04/2026 21:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
