@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 13:24:27 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:29:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Hannon Armstrong atingem alta de 52 semanas a 40,05 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/hannon-armstrong-stock-hits-52week-high-at-4005-usd-93CH-4616059</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/hannon-armstrong-stock-hits-52week-high-at-4005-usd-93CH-4616059</guid>
+      <pubDate>15/04/2026 13:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços das importações dos EUA aumentam abaixo das expectativas; aumento acentuado previsto devido à...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vinces-q4-2025-earnings-beat-boosts-stock-93CH-4615624</guid>
       <pubDate>15/04/2026 10:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump diz que a guerra no Irã pode terminar em breve, já que os EUA bloqueiam portos iranianos</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/us-shuts-down-irans-maritime-trade-despite-optimism-for-more-talks-4614222</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-shuts-down-irans-maritime-trade-despite-optimism-for-more-talks-4614222</guid>
-      <pubDate>15/04/2026 10:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E05X_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
