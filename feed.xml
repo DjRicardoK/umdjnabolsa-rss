@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 19:58:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 20:38:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação de 2% está mantendo o Federal Reserve como refém: é disso que o mercado de ações precisa...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/2-inflation-holding-federal-hostage-155038200.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/2-inflation-holding-federal-hostage-155038200.html</guid>
+      <pubDate>15/04/2026 20:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/eaf2c839d1e4d32f136359aad54e681a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do próximo relatório de lucros trimestrais da Xylem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-regeneron-pharmaceuticals-114419544.html</guid>
       <pubDate>15/04/2026 17:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b5fca612b3a61a67a2a2b488a7827af2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Deutsche Bank questiona as perspectivas de crescimento dos lucros da Diageo plc (DEO) sobre os ventos...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-questions-diageo-plc-114635794.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-questions-diageo-plc-114635794.html</guid>
-      <pubDate>15/04/2026 17:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/819916e67f4db588da395468ec7f83aa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
