@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 18:33:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 18:41:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Hims &amp; Hers saltam à medida que os EUA avançam com o plano de reavaliar peptídeos populares</title>
+      <description>O plano da Hims &amp; Hers Health de entrar no negócio de venda de peptídeos parece muito mais realista.</description>
+      <link>https://www.marketwatch.com/story/hims-hers-stock-jumps-as-u-s-moves-forward-with-plan-to-reassess-popular-peptides-4815d489?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/hims-hers-stock-jumps-as-u-s-moves-forward-with-plan-to-reassess-popular-peptides-4815d489?mod=mw_rss_topstories</guid>
+      <pubDate>15/04/2026 18:40</pubDate>
+      <enclosure url="https://images.mktw.net/im-08817513" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado petrolífero pensa que o pior da guerra com o Irão já passou. O dano sugere o contrário.</title>
       <description>As dispendiosas reparações no Médio Oriente apontam para uma recuperação lenta – uma condição que pode fazer com que os preços do petróleo permaneçam mais elevados durante mais...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/is-tesla-a-chip-stock-now-investors-are-cheering-a-semiconductor-milestone-56341cf8?mod=mw_rss_topstories</guid>
       <pubDate>15/04/2026 15:40</pubDate>
       <enclosure url="https://images.mktw.net/im-37471265" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A guerra no Irã é uma grande fonte de incerteza para as empresas dos EUA, diz o ‘livro bege’ do Fed</title>
-      <description>As empresas dos EUA estão a recuar na tomada de decisões importantes devido à incerteza resultante da guerra com o Irão, de acordo com o último relatório da Reserva Federal sobre...</description>
-      <link>https://www.marketwatch.com/story/iran-war-is-a-major-source-of-uncertainty-for-u-s-businesses-feds-beige-book-says-52d45d7b?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/iran-war-is-a-major-source-of-uncertainty-for-u-s-businesses-feds-beige-book-says-52d45d7b?mod=mw_rss_topstories</guid>
-      <pubDate>15/04/2026 15:30</pubDate>
-      <enclosure url="https://images.mktw.net/im-86460477" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
