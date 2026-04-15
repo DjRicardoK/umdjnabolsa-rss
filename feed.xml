@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 13:52:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:07:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Thoma Bravo CEO sobre ações SaaS: &quot;as oportunidades de compra mais incríveis</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/thoma-bravo-ceo-on-saas-stocks-the-most-incredible-buying-opportunities-93CH-4616104</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/thoma-bravo-ceo-on-saas-stocks-the-most-incredible-buying-opportunities-93CH-4616104</guid>
+      <pubDate>15/04/2026 14:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘Engajamento’ é o tema principal dos ganhos da Netflix após o colapso do acordo com a Warner Bros.</title>
       <description>Os analistas estão procurando quanto conteúdo os assinantes da Netflix estão realmente assistindo – mas espera-se que um recente aumento de preços e o crescente negócio de...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-higher-as-trump-signals-more-iran-talks-ahead-4614381</guid>
       <pubDate>15/04/2026 10:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF030BG_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wall Street abre em alta com lucros em foco</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/wall-street-opens-higher-with-earnings-in-focus-4615673</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wall-street-opens-higher-with-earnings-in-focus-4615673</guid>
-      <pubDate>15/04/2026 10:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E0VK_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
