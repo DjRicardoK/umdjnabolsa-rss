@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 18:06:28 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 18:13:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nvidia selam sua mais longa sequência de vitórias de todos os tempos. O impulso é real?</title>
+      <description>Alguns analistas dizem que a força recente da Nvidia reflete uma percepção melhorada do cenário da IA, enquanto outros simplesmente atribuem isso a uma recuperação ampla do...</description>
+      <link>https://www.marketwatch.com/story/nvidias-stock-seals-its-longest-winning-streak-ever-is-the-momentum-for-real-c37dc31c?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidias-stock-seals-its-longest-winning-streak-ever-is-the-momentum-for-real-c37dc31c?mod=mw_rss_topstories</guid>
+      <pubDate>15/04/2026 18:13</pubDate>
+      <enclosure url="https://images.mktw.net/im-41457054" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Expanda os ganhos do primeiro trimestre de 2026 da Energy: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/sionna-therapeutics-stock-hits-alltime-high-at-4517-usd-93CH-4616192</guid>
       <pubDate>15/04/2026 15:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tim Cook voltou a comprar ações da Nike, quatro meses após uma compra inoportuna</title>
-      <description>O CEO da Apple, Tim Cook, membro de longa data do conselho da Nike, gastou US$ 1 milhão de seu próprio dinheiro para comprar ações da Nike, que caíram para o nível mais baixo em...</description>
-      <link>https://www.marketwatch.com/story/tim-cook-is-back-to-buying-nike-stock-four-months-after-an-ill-timed-purchase-9e89fa35?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/tim-cook-is-back-to-buying-nike-stock-four-months-after-an-ill-timed-purchase-9e89fa35?mod=mw_rss_topstories</guid>
-      <pubDate>15/04/2026 15:00</pubDate>
-      <enclosure url="https://images.mktw.net/im-10554387" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
