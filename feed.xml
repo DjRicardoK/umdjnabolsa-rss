@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 09:50:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 10:02:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump diz que a guerra no Irã pode terminar em breve, já que os EUA bloqueiam portos iranianos</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/us-shuts-down-irans-maritime-trade-despite-optimism-for-more-talks-4614222</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-shuts-down-irans-maritime-trade-despite-optimism-for-more-talks-4614222</guid>
+      <pubDate>15/04/2026 10:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E05X_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A interrupção da IA ​​esmagará a Microsoft (MSFT)?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-says-he-asked-chinas-xi-not-to-give-iran-weapons-4614865</guid>
       <pubDate>15/04/2026 07:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E0M7_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do ouro recuam da máxima de um mês com negociações de paz entre EUA e Irã em foco</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-retreat-from-1mth-high-with-usiran-peace-talks-in-focus-4614368</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-retreat-from-1mth-high-with-usiran-peace-talks-in-focus-4614368</guid>
-      <pubDate>15/04/2026 07:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/gold_3_M_1440048042.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
