@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 13:01:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:01:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ministros das Finanças, afetados pelo impacto nas economias, pedem cessar-fogo total na guerra com o Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/finance-ministers-warn-of-prolonged-market-impact-from-middle-east-conflict-4615636</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/finance-ministers-warn-of-prolonged-market-impact-from-middle-east-conflict-4615636</guid>
+      <pubDate>15/04/2026 13:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_5_M_1440048359.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações quânticas ampliam seus ganhos. Por que os novos modelos da Nvidia podem impulsionar a indústria.</title>
       <description>Os avanços recentes da Nvidia podem tornar mais fácil para as empresas quânticas atingirem marcos comerciais.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/argus-cuts-lennar-stock-price-target-on-lower-earnings-outlook-93CH-4615275</guid>
       <pubDate>15/04/2026 09:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Essas ações e ETFs podem superar a queda da “venda em maio” – e evitar a tristeza de médio prazo de 2026</title>
-      <description>Você não precisa sair do mercado para sobreviver à calmaria do verão. Esta é a sua estratégia de ‘ficar e jogar’ para o ciclo eleitoral de 2026.</description>
-      <link>https://www.marketwatch.com/story/these-stocks-and-etfs-can-beat-the-sell-in-may-slump-and-dodge-the-2026-midterm-blues-6295b0c2?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/these-stocks-and-etfs-can-beat-the-sell-in-may-slump-and-dodge-the-2026-midterm-blues-6295b0c2?mod=mw_rss_topstories</guid>
-      <pubDate>15/04/2026 08:57</pubDate>
-      <enclosure url="https://images.mktw.net/im-823521" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
