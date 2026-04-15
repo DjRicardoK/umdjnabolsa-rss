@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 08:12:39 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 08:38:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que Wall Street adora o acordo da Amazon para comprar a empresa de satélites Globalstar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/why-wall-street-loves-amazons-deal-to-buy-satellite-firm-globalstar-112914748.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/why-wall-street-loves-amazons-deal-to-buy-satellite-firm-globalstar-112914748.html</guid>
+      <pubDate>15/04/2026 08:37</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/2d7ec360-38be-11f1-abfe-0e7a01773665" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Snap para reduzir a força de trabalho em 16%, dizendo que a IA reduziu a necessidade de trabalho repetitivo</title>
       <description>Wall Street continua a sua tendência de aplaudir notícias de grandes despedimentos no sector da tecnologia.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-praxis-precision-medicines-stock-rating-on-fda-review-93CH-4613418</guid>
       <pubDate>14/04/2026 13:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Citi inicia inflexão na compra do Pacto Nvidia. Rally das ações de computação quântica.</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/quantum-computing-stocks-citi-rating-buy-infleqtion-stock-infq-nvidia/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/quantum-computing-stocks-citi-rating-buy-infleqtion-stock-infq-nvidia/?src=A00220&yptr=yahoo</guid>
-      <pubDate>14/04/2026 13:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/e9b535bd31539d258dbb8cb12f27c8bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
