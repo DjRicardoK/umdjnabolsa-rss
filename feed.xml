@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 19:28:57 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 19:40:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da Sysco</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-syscos-next-earnings-144607271.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-syscos-next-earnings-144607271.html</guid>
+      <pubDate>15/04/2026 19:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/09e6fce7b2351017866eb1313b0d32cb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar recua devido ao otimismo de paz EUA-Irã e relatório PPI abaixo da estimativa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/behind-mixed-ratings-pepsico-inc-114734927.html</guid>
       <pubDate>15/04/2026 17:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/65e07a273cd32c8592c826535f82863d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Casa Branca não oferece nenhum indício do custo da guerra no Irã enquanto busca aumento de financiamento...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/white-house-offers-no-hint-of-iran-war-cost-as-it-seeks-military-funding-surge-4616343</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/white-house-offers-no-hint-of-iran-war-cost-as-it-seeks-military-funding-surge-4616343</guid>
-      <pubDate>15/04/2026 16:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E1AN_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
