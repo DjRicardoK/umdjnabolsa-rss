@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:29:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:29:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: First Horizon Q1 2026 EPS supera as previsões</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-first-horizon-q1-2026-eps-beats-forecasts-93CH-4616132</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-first-horizon-q1-2026-eps-beats-forecasts-93CH-4616132</guid>
+      <pubDate>15/04/2026 14:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Morgan Stanley Q1 2026 supera as previsões, as ações sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asian-shares-scale-sixweek-peak-on-hopes-for-usiran-peace-talks-4614170</guid>
       <pubDate>15/04/2026 13:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E01U_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ministros das Finanças, afetados pelo impacto nas economias, pedem cessar-fogo total na guerra com o Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/finance-ministers-warn-of-prolonged-market-impact-from-middle-east-conflict-4615636</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/finance-ministers-warn-of-prolonged-market-impact-from-middle-east-conflict-4615636</guid>
-      <pubDate>15/04/2026 13:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_5_M_1440048359.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
