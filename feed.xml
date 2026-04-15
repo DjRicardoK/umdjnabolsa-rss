@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 09:22:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 09:22:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE NOV corta orientação do primeiro trimestre sobre interrupções na guerra no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/nov-cuts-q1-guidance-on-middle-east-war-disruptions-93CH-4615274</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/nov-cuts-q1-guidance-on-middle-east-war-disruptions-93CH-4615274</guid>
+      <pubDate>15/04/2026 09:22</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Argus reduz meta de preço das ações da Lennar com perspectiva de lucros mais baixos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-regional-banks-may-be-key-front-in-battle-for-independence-4614591</guid>
       <pubDate>15/04/2026 07:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E0KT_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Presidente do UBS alerta sobre escolhas difíceis sobre regras de capital suíças</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ubs-chairman-warns-of-tough-choices-over-swiss-capital-rules-93CH-4614506</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ubs-chairman-warns-of-tough-choices-over-swiss-capital-rules-93CH-4614506</guid>
-      <pubDate>15/04/2026 07:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_5_M_1440048359.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
