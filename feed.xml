@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:25:52 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:29:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Transcrição da teleconferência de resultados: TRX Gold Q2 2026 supera as previsões, quedas de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-trx-gold-q2-2026-beats-forecasts-stock-dips-93CH-4616135</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-trx-gold-q2-2026-beats-forecasts-stock-dips-93CH-4616135</guid>
+      <pubDate>15/04/2026 14:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O desempenho da ASA International no segundo semestre de 2025...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/quantum-stocks-extend-their-gains-why-nvidias-new-models-could-give-the-industry-a-boost-f86d10f4?mod=mw_rss_topstories</guid>
       <pubDate>15/04/2026 13:01</pubDate>
       <enclosure url="https://images.mktw.net/im-09507877" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Início Lucros do BancShares sobem após ficar em segundo lugar no país</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/home-bancshares-earnings-on-deck-after-ranking-second-in-nation-93CH-4615725</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/home-bancshares-earnings-on-deck-after-ranking-second-in-nation-93CH-4615725</guid>
-      <pubDate>15/04/2026 10:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
