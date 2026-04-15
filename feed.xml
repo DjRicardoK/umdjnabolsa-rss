@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 17:56:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 18:06:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Expanda os ganhos do primeiro trimestre de 2026 da Energy: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/expand-energys-q1-2026-earnings-125541812.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/expand-energys-q1-2026-earnings-125541812.html</guid>
+      <pubDate>15/04/2026 18:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f4f4b1a3bc289b12c88421747826d3c1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tesla e Elon Musk vencem luta para transferir ações judiciais de Delaware para o Texas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/tim-cook-is-back-to-buying-nike-stock-four-months-after-an-ill-timed-purchase-9e89fa35?mod=mw_rss_topstories</guid>
       <pubDate>15/04/2026 15:00</pubDate>
       <enclosure url="https://images.mktw.net/im-10554387" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Kremlin diz que os EUA rejeitaram sua proposta de que a Rússia ficasse com os estoques de urânio iranianos</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/kremlin-says-us-has-rejected-its-proposal-that-russia-take-iranian-uranium-stocks-4616179</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/kremlin-says-us-has-rejected-its-proposal-that-russia-take-iranian-uranium-stocks-4616179</guid>
-      <pubDate>15/04/2026 14:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
