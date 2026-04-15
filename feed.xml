@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 13:29:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:35:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Como a compra da Globalstar poderia transformar Leo da Amazon em uma potência de satélite</title>
+      <description>O acordo Globalstar pode parecer trivial em relação ao tamanho da Amazon, mas representa um “sinal importante” de que a Amazon está comprometida com o espaço.</description>
+      <link>https://www.marketwatch.com/story/how-the-globalstar-purchase-could-turn-amazons-leo-into-a-satellite-powerhouse-4b27cdf5?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/how-the-globalstar-purchase-could-turn-amazons-leo-into-a-satellite-powerhouse-4b27cdf5?mod=mw_rss_topstories</guid>
+      <pubDate>15/04/2026 13:35</pubDate>
+      <enclosure url="https://images.mktw.net/im-05481687" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Merlin Inc atingem o máximo histórico de 14.64 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/citizens-financial-earnings-on-deck-can-profit-gains-offset-revenue-slide-93CH-4615674</guid>
       <pubDate>15/04/2026 10:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As cidades desconhecidas onde os recém-formados podem conseguir bons empregos – e até mesmo comprar uma casa</title>
-      <description>Uma nova classificação destaca cidades com as melhores oportunidades de emprego, moradias acessíveis e qualidade de vida para recém-formados. Veja como os jovens trabalhadores de...</description>
-      <link>https://www.marketwatch.com/story/the-under-the-radar-cities-where-new-college-grads-can-get-a-good-job-and-even-afford-to-buy-a-house-d750bba8?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-under-the-radar-cities-where-new-college-grads-can-get-a-good-job-and-even-afford-to-buy-a-house-d750bba8?mod=mw_rss_topstories</guid>
-      <pubDate>15/04/2026 10:37</pubDate>
-      <enclosure url="https://images.mktw.net/im-57702439" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
