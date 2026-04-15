@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 10:41:26 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 10:48:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas europeias moderadas enquanto Trump sinaliza mais negociações com o Irã pela frente</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-higher-as-trump-signals-more-iran-talks-ahead-4614381</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-higher-as-trump-signals-more-iran-talks-ahead-4614381</guid>
+      <pubDate>15/04/2026 10:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF030BG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street abre em alta com lucros em foco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/snap-to-slash-workforce-by-16-saying-ai-has-reduced-need-for-repetitive-work-a46143f2?mod=mw_rss_topstories</guid>
       <pubDate>15/04/2026 08:12</pubDate>
       <enclosure url="https://images.mktw.net/im-28716651" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Barclays mantém Equalweight nas ações da Tesla em meio à expansão da IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/barclays-maintains-equalweight-on-tesla-stock-amid-ai-expansion-93CH-4614936</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-maintains-equalweight-on-tesla-stock-amid-ai-expansion-93CH-4614936</guid>
-      <pubDate>15/04/2026 08:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
