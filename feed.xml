@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 13:17:28 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:18:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE American Express informa taxas de inadimplência e amortização de empréstimos de cartão no trimestre de março</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/american-express-reports-march-quarter-card-loan-delinquency-and-writeoff-rates-93CH-4616042</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/american-express-reports-march-quarter-card-loan-delinquency-and-writeoff-rates-93CH-4616042</guid>
+      <pubDate>15/04/2026 13:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0Q15T_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Nasdaq sobe em meio a comentários de Trump; Relatório do Fed se aproxima (cobertura ao...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/article/earnings-live-updates-bank-of-america-says-consumer-still-solid-asml-stock-drops-104416903.html</guid>
       <pubDate>15/04/2026 09:26</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/u_w9Na4VmDLIHcLsw1iRvw--~B/aD0zMzM0O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/5cc96c61-0dc4-4efd-a615-37fbec048d73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Morgan Stanley supera as previsões de lucros de Wall Street – de longe</title>
-      <description>O gigante bancário registrou lucro por ação de US$ 3,43, em comparação com as previsões de US$ 3,02.</description>
-      <link>https://www.marketwatch.com/story/morgan-stanley-beats-wall-street-earnings-forecasts-by-a-long-way-98aa9911?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/morgan-stanley-beats-wall-street-earnings-forecasts-by-a-long-way-98aa9911?mod=mw_rss_topstories</guid>
-      <pubDate>15/04/2026 09:24</pubDate>
-      <enclosure url="https://images.mktw.net/im-05169016" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
