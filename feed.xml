@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:10:49 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:25:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: American Strategic Investment vê queda na receita no quarto...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-american-strategic-investment-sees-revenue-dip-in-q4-2025-93CH-4616128</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-american-strategic-investment-sees-revenue-dip-in-q4-2025-93CH-4616128</guid>
+      <pubDate>15/04/2026 14:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mandato de Powell como presidente do Fed está a chegar ao fim. Trump quer demiti-lo de qualquer maneira.</title>
       <description>O presidente Donald Trump e os responsáveis ​​do Departamento de Justiça não mostram sinais de recuar num impasse sobre a liderança da Reserva Federal, mesmo que o mandato do...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/snap-faces-earnings-test-as-activist-pressure-user-losses-mount-93CH-4615727</guid>
       <pubDate>15/04/2026 10:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6T0NG_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 do M&amp;T Bank: superação dos lucros ofuscada por declínio sequencial</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/mt-bank-q1-2026-slides-earnings-beat-overshadowed-by-sequential-decline-93CH-4615717</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/mt-bank-q1-2026-slides-earnings-beat-overshadowed-by-sequential-decline-93CH-4615717</guid>
-      <pubDate>15/04/2026 10:48</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/fa2371c822d2d0b2cfcc1053e2ab5f09789948f736ff776091d5ccc6887cb499.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
