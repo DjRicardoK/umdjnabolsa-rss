@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 16:44:17 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 16:44:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BofA reitera compra de ações da American Express, meta de US$ 381</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-american-express-stock-381-target-93CH-4616334</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-american-express-stock-381-target-93CH-4616334</guid>
+      <pubDate>15/04/2026 16:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Marzetti Co atingem o mínimo de 52 semanas a 136,66 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-american-strategic-investment-sees-revenue-dip-in-q4-2025-93CH-4616128</guid>
       <pubDate>15/04/2026 14:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O mandato de Powell como presidente do Fed está a chegar ao fim. Trump quer demiti-lo de qualquer maneira.</title>
-      <description>O presidente Donald Trump e os responsáveis ​​do Departamento de Justiça não mostram sinais de recuar num impasse sobre a liderança da Reserva Federal, mesmo que o mandato do...</description>
-      <link>https://www.marketwatch.com/story/powells-term-as-fed-chair-is-coming-to-an-end-trump-wants-to-fire-him-anyway-18f3f488?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/powells-term-as-fed-chair-is-coming-to-an-end-trump-wants-to-fire-him-anyway-18f3f488?mod=mw_rss_topstories</guid>
-      <pubDate>15/04/2026 14:10</pubDate>
-      <enclosure url="https://images.mktw.net/im-36769489" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
