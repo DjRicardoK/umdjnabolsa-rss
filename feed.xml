@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 15:03:12 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 15:26:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bessent diz estar otimista que Warsh será presidente do Fed ‘na hora certa’</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bessent-says-he-is-optimistic-warsh-will-be-fed-chair-on-time-4616219</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bessent-says-he-is-optimistic-warsh-will-be-fed-chair-on-time-4616219</guid>
+      <pubDate>15/04/2026 15:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E17L_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tesla e Microsoft entre os movimentadores de ações de capitalização de mercado na quarta-feira</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/merlin-inc-stock-reaches-alltime-high-of-1464-usd-93CH-4616058</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/merlin-inc-stock-reaches-alltime-high-of-1464-usd-93CH-4616058</guid>
       <pubDate>15/04/2026 13:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Hannon Armstrong atingem alta de 52 semanas a 40,05 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/hannon-armstrong-stock-hits-52week-high-at-4005-usd-93CH-4616059</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/hannon-armstrong-stock-hits-52week-high-at-4005-usd-93CH-4616059</guid>
-      <pubDate>15/04/2026 13:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
