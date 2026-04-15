@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 16:41:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 16:44:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE FMI diz que Banco do Japão pode superar o choque inflacionário da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/imf-says-bank-of-japan-can-see-through-inflationary-shock-from-iran-war-4616324</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/imf-says-bank-of-japan-can-see-through-inflationary-shock-from-iran-war-4616324</guid>
+      <pubDate>15/04/2026 16:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E1AA_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Duke Energy busca aumento de taxas para recuperar custos de energia em tempestades de inverno</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/cadence-nvidia-working-together-on-developing-ai-for-robotics-4616108</guid>
       <pubDate>15/04/2026 14:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E15A_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Thoma Bravo CEO sobre ações SaaS: &quot;as oportunidades de compra mais incríveis</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/thoma-bravo-ceo-on-saas-stocks-the-most-incredible-buying-opportunities-93CH-4616104</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/thoma-bravo-ceo-on-saas-stocks-the-most-incredible-buying-opportunities-93CH-4616104</guid>
-      <pubDate>15/04/2026 14:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
