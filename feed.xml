@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 10:41:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 10:41:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street abre em alta com lucros em foco</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/wall-street-opens-higher-with-earnings-in-focus-4615673</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wall-street-opens-higher-with-earnings-in-focus-4615673</guid>
+      <pubDate>15/04/2026 10:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E0VK_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump ameaça demitir Powell se ele não deixar o conselho do Fed; sondar para continuar</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/barclays-maintains-equalweight-on-tesla-stock-amid-ai-expansion-93CH-4614936</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-maintains-equalweight-on-tesla-stock-amid-ai-expansion-93CH-4614936</guid>
       <pubDate>15/04/2026 08:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Barclays aumenta preço-alvo das ações do Citi para US$ 154 com lucros superados</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/barclays-raises-citi-stock-price-target-to-154-on-earnings-beat-93CH-4614937</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-raises-citi-stock-price-target-to-154-on-earnings-beat-93CH-4614937</guid>
-      <pubDate>15/04/2026 08:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
