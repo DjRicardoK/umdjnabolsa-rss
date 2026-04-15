@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 15:02:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 15:03:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tesla e Microsoft entre os movimentadores de ações de capitalização de mercado na quarta-feira</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/tesla-and-microsoft-among-market-cap-stock-movers-on-wednesday-93CH-4616194</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-and-microsoft-among-market-cap-stock-movers-on-wednesday-93CH-4616194</guid>
+      <pubDate>15/04/2026 15:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Sionna Therapeutics atingem o máximo histórico de 45,17 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/hannon-armstrong-stock-hits-52week-high-at-4005-usd-93CH-4616059</guid>
       <pubDate>15/04/2026 13:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços das importações dos EUA aumentam abaixo das expectativas; aumento acentuado previsto devido à...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/us-import-prices-increase-below-160507738.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/us-import-prices-increase-below-160507738.html</guid>
-      <pubDate>15/04/2026 13:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/f6d1a223d5c66ba5996467666f85f355" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
