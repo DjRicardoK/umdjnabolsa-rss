@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 10:41:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 10:41:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump ameaça demitir Powell se ele não deixar o conselho do Fed; sondar para continuar</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/trump-on-feds-powell-if-he-doesnt-leave-ill-have-to-fire-him-4615073</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-on-feds-powell-if-he-doesnt-leave-ill-have-to-fire-him-4615073</guid>
+      <pubDate>15/04/2026 10:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E0OV_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Cidadãos Ganhos financeiros em jogo: Os ganhos de lucro podem compensar a queda das receitas?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-raises-citi-stock-price-target-to-154-on-earnings-beat-93CH-4614937</guid>
       <pubDate>15/04/2026 08:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Chefe da VW China alerta que mercado pode encolher pela primeira vez desde 2018</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/vw-china-chief-warns-market-may-shrink-for-first-time-since-2018-93CH-4614939</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/vw-china-chief-warns-market-may-shrink-for-first-time-since-2018-93CH-4614939</guid>
-      <pubDate>15/04/2026 08:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Volkswagon_3_M_1440049006.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
