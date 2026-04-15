@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:50:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:55:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Kremlin diz que os EUA rejeitaram sua proposta de que a Rússia ficasse com os estoques de urânio iranianos</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/kremlin-says-us-has-rejected-its-proposal-that-russia-take-iranian-uranium-stocks-4616179</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/kremlin-says-us-has-rejected-its-proposal-that-russia-take-iranian-uranium-stocks-4616179</guid>
+      <pubDate>15/04/2026 14:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações dos EUA podem estar superando o conflito com o Irã – mas esses mercados ainda não estão enviando o...</title>
       <description>Não importa como você o analise, as ações dos EUA parecem já estar superando o conflito no Irã. Mas os mercados de matérias-primas e outros activos financeiros ainda não estão...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/ast-spacemobile-asts-stock-amazon-globalstar-iridium-viasat/?src=A00220&yptr=yahoo</guid>
       <pubDate>15/04/2026 13:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/bf91185ce248fe08a047579de51632cd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE American Express informa taxas de inadimplência e amortização de empréstimos de cartão no trimestre de março</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/american-express-reports-march-quarter-card-loan-delinquency-and-writeoff-rates-93CH-4616042</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/american-express-reports-march-quarter-card-loan-delinquency-and-writeoff-rates-93CH-4616042</guid>
-      <pubDate>15/04/2026 13:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0Q15T_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
