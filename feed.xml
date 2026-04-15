@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:45:02 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:50:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações dos EUA podem estar superando o conflito com o Irã – mas esses mercados ainda não estão enviando o...</title>
+      <description>Não importa como você o analise, as ações dos EUA parecem já estar superando o conflito no Irã. Mas os mercados de matérias-primas e outros activos financeiros ainda não estão...</description>
+      <link>https://www.marketwatch.com/story/u-s-stocks-may-be-moving-past-the-iran-conflict-but-these-markets-arent-sending-the-all-clear-just-yet-a781fb59?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-stocks-may-be-moving-past-the-iran-conflict-but-these-markets-arent-sending-the-all-clear-just-yet-a781fb59?mod=mw_rss_topstories</guid>
+      <pubDate>15/04/2026 14:50</pubDate>
+      <enclosure url="https://images.mktw.net/im-59151063" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Chefe do FMI diz que 12 ou mais países procuram empréstimos para lidar com o choque energético da guerra no...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/american-express-reports-march-quarter-card-loan-delinquency-and-writeoff-rates-93CH-4616042</guid>
       <pubDate>15/04/2026 13:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0Q15T_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Nasdaq sobe em meio a comentários de Trump; Relatório do Fed se aproxima (cobertura ao...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-peace-talks/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-peace-talks/?src=A00220&yptr=yahoo</guid>
-      <pubDate>15/04/2026 13:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/54efffaed4eb0f480c982a3545585fe5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
