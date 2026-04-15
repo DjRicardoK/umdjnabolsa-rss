@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 07:07:30 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:13:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dow Jones Futures: Nasdaq Win Streak atinge 10 dias enquanto Nvidia e Google Flash Buy Signals; O que fazer...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-nvidia-win-streaks-asml-bank-of-america/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-nvidia-win-streaks-asml-bank-of-america/?src=A00220&yptr=yahoo</guid>
+      <pubDate>15/04/2026 07:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/def4ca4d688e4a0b64225d1132bd53d1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os bancos regionais do Fed podem ser uma frente fundamental na batalha pela independência</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sandisk-falls-5-nasdaq-100-151543253.html</guid>
       <pubDate>14/04/2026 12:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/a44cb40bd29b94c10e9b0212c6cd0b82" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de Marrocos sobem no fechamento do pregão; Todas as ações marroquinas subiram 2,22%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-222-4613300</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-222-4613300</guid>
-      <pubDate>14/04/2026 12:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7D094_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
