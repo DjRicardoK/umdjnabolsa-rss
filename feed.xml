@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 18:25:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 18:33:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O mercado petrolífero pensa que o pior da guerra com o Irão já passou. O dano sugere o contrário.</title>
+      <description>As dispendiosas reparações no Médio Oriente apontam para uma recuperação lenta – uma condição que pode fazer com que os preços do petróleo permaneçam mais elevados durante mais...</description>
+      <link>https://www.marketwatch.com/story/the-oil-market-thinks-the-worst-is-over-from-the-iran-war-the-damage-suggests-otherwise-b8ddc5f9?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-oil-market-thinks-the-worst-is-over-from-the-iran-war-the-damage-suggests-otherwise-b8ddc5f9?mod=mw_rss_topstories</guid>
+      <pubDate>15/04/2026 18:33</pubDate>
+      <enclosure url="https://images.mktw.net/im-34963738" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da International Flavors</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/iran-war-is-a-major-source-of-uncertainty-for-u-s-businesses-feds-beige-book-says-52d45d7b?mod=mw_rss_topstories</guid>
       <pubDate>15/04/2026 15:30</pubDate>
       <enclosure url="https://images.mktw.net/im-86460477" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bessent diz estar otimista que Warsh será presidente do Fed ‘na hora certa’</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/bessent-says-he-is-optimistic-warsh-will-be-fed-chair-on-time-4616219</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bessent-says-he-is-optimistic-warsh-will-be-fed-chair-on-time-4616219</guid>
-      <pubDate>15/04/2026 15:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E17L_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
