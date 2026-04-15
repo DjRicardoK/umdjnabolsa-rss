@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:07:18 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:07:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Cadence e Nvidia trabalhando juntas no desenvolvimento de IA para robótica</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/cadence-nvidia-working-together-on-developing-ai-for-robotics-4616108</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/cadence-nvidia-working-together-on-developing-ai-for-robotics-4616108</guid>
+      <pubDate>15/04/2026 14:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E15A_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Thoma Bravo CEO sobre ações SaaS: &quot;as oportunidades de compra mais incríveis</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/first-financial-bankshares-earnings-on-deck-credit-quality-in-focus-93CH-4615718</guid>
       <pubDate>15/04/2026 10:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas europeias moderadas enquanto Trump sinaliza mais negociações com o Irã pela frente</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-higher-as-trump-signals-more-iran-talks-ahead-4614381</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-higher-as-trump-signals-more-iran-talks-ahead-4614381</guid>
-      <pubDate>15/04/2026 10:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF030BG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
