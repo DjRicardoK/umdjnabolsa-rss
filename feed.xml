@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 13:18:46 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:20:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações europeias caem à medida que os investidores acompanham as atualizações do Oriente Médio e os lucros...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-shares-flat-as-investors-weigh-corporate-earnings-middle-east-in-focus-4614389</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-shares-flat-as-investors-weigh-corporate-earnings-middle-east-in-focus-4614389</guid>
+      <pubDate>15/04/2026 13:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E0DR_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que a AST SpaceMobile poderia comprar Iridium e Viasat Spectrum para combater o acordo Globalstar da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ai-disruption-crush-microsoft-msft-123533138.html</guid>
       <pubDate>15/04/2026 09:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/719afd1292ed02bc2d7c68b806fc936b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs: Posicionamento do dólar retorna a níveis neutros em meio a mudanças no mercado</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-dollar-positioning-returns-to-neutral-levels-amid-market-shifts-93CH-4615377</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-dollar-positioning-returns-to-neutral-levels-amid-market-shifts-93CH-4615377</guid>
-      <pubDate>15/04/2026 09:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
