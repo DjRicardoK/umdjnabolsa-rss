@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 08:55:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 08:55:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nvidia estão repentinamente em alta</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/nvidia-stock-is-suddenly-on-a-roll-114721332.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/nvidia-stock-is-suddenly-on-a-roll-114721332.html</guid>
+      <pubDate>15/04/2026 08:55</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/0fd43dc0-38c0-11f1-b67e-b1a6d630ea1a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O salto de 30% do Bank of America na receita de ações ajuda a impulsionar a superação dos lucros</title>
       <description>O bom trimestre do Bank of America foi ajudado pela volatilidade e por um ambiente regulatório mais fácil.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/major-gold-holder-launches-self-174018917.html</guid>
       <pubDate>15/04/2026 07:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/0ed735440438c101f6da331dafe7108c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ministério das Finanças francês reduz perspectiva de crescimento e aumenta estimativa de inflação</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/french-finance-ministry-trims-growth-outlook-hikes-inflation-estimate-4613393</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/french-finance-ministry-trims-growth-outlook-hikes-inflation-estimate-4613393</guid>
-      <pubDate>14/04/2026 13:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3D14U_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
