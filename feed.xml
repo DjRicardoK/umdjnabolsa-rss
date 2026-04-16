@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 12:54:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 13:08:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Blacksky Technology atingem alta de 52 semanas a 37,01 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/blacksky-technology-stock-hits-52week-high-at-3701-usd-93CH-4618739</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/blacksky-technology-stock-hits-52week-high-at-3701-usd-93CH-4618739</guid>
+      <pubDate>16/04/2026 13:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Elon Musk foi expulso do PayPal. Agora ele está lançando um rival que pode “perturbar”.</title>
       <description>Musk tem um alcance mais amplo do que o PayPal, dizem os analistas, e seu X Money oferece uma alta taxa de juros de 6% para atrair usuários.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-fall-as-tech-sector-pulls-back-us-iran-truce-in-focus-230116270.html</guid>
       <pubDate>16/04/2026 11:28</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/35bee0e0-391e-11f1-9ecf-69a8cb7e34b3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE UBS reitera classificação das ações do Peloton sobre mudanças na política tarifária</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-peloton-stock-rating-on-tariff-policy-changes-93CH-4618517</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-peloton-stock-rating-on-tariff-policy-changes-93CH-4618517</guid>
-      <pubDate>16/04/2026 11:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
