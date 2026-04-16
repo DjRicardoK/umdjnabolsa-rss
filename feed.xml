@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 07:04:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:22:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jensen Huang, da Nvidia, assume o hype: IA não é uma bomba nuclear e não vai ocupar todos os empregos</title>
+      <description>Jensen Huang, da Nvidia – ao promover as exportações para a China – tenta acalmar os temores sobre as capacidades da IA.</description>
+      <link>https://www.marketwatch.com/story/nvidias-jensen-huang-takes-on-the-hype-ai-is-not-a-nuke-and-it-wont-take-all-the-jobs-1d8fb3e1?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidias-jensen-huang-takes-on-the-hype-ai-is-not-a-nuke-and-it-wont-take-all-the-jobs-1d8fb3e1?mod=mw_rss_topstories</guid>
+      <pubDate>16/04/2026 07:22</pubDate>
+      <enclosure url="https://images.mktw.net/im-85750374" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Revisão do Capital One Savor Cash Rewards: dinheiro de volta ilimitado sem taxa anual</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-14-2026/card/nasdaq-extends-its-winning-streak-1M2KeB7cAJLRUoXtzggC?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>16/04/2026 05:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A economia machista MAGA de Trump é um fracasso. Mas há muitos empregos bem remunerados para os homens – na...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/trump-macho-maga-economy-bust-195102692.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/trump-macho-maga-economy-bust-195102692.html</guid>
-      <pubDate>16/04/2026 04:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/fortune_175/1b5adcc0bc45361c89c5ff21fde620f7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
