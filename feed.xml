@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 05:22:39 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 05:23:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A guerra com o Irã ainda não acabou, então por que as ações voltaram a atingir níveis recordes?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/iran-war-isnt-over-why-202149867.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/iran-war-isnt-over-why-202149867.html</guid>
+      <pubDate>16/04/2026 05:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/investopedia_245/b8dc1c6af829782046b4259f43a0e7ee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Nokia (NOK) é uma das ações de IA com melhor desempenho para comprar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/most-businesses-tackling-payroll-accuracy-183000304.html</guid>
       <pubDate>16/04/2026 03:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/entrepreneur_869/64f7179f1b73d9c0060cabb7cd7f27cc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citi reitera classificação de compra para Boston Scientific (BSX)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/citi-reiterates-buy-rating-boston-182430318.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/citi-reiterates-buy-rating-boston-182430318.html</guid>
-      <pubDate>16/04/2026 03:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5ebeb797976f4b134f89e7fc0f1f7cd5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
