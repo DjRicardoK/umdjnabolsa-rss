@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 03:49:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:49:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street monitora o risco de crédito privado à medida que a interrupção da IA ​​e as saídas causam...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-monitors-private-credit-192321484.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-monitors-private-credit-192321484.html</guid>
+      <pubDate>16/04/2026 03:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/e0efc4edf4eddd8091e69df185fbf7ac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O indicado do Fed, Kevin Warsh, detalha mais de US$ 100 milhões em participações financeiras</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/chinas-new-home-prices-extend-decline-despite-improvement-in-major-cities-4616995</guid>
       <pubDate>16/04/2026 00:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F02A_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Visualização instantânea: O crescimento da China no primeiro trimestre supera as previsões enquanto a...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/instant-view-chinas-firstquarter-growth-beats-forecast-despite-iran-war-risks-4617017</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/instant-view-chinas-firstquarter-growth-beats-forecast-despite-iran-war-risks-4617017</guid>
-      <pubDate>16/04/2026 00:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F03T_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
