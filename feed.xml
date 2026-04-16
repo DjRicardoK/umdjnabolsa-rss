@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 19:19:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 19:19:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar pouco alterado aguardando notícias sobre negociações de paz EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-little-changed-awaiting-news-143811505.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-little-changed-awaiting-news-143811505.html</guid>
+      <pubDate>16/04/2026 19:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/509023aecba52a4b6f4cb6cc61e4a34e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Citi obtém aumento triplo de preço-alvo do Goldman Sachs, Truist e Wells Fargo: essas são as ações do banco...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/former-treasury-secretary-henry-paulson-warns-u-s-needs-an-emergency-break-the-glass-plan-if-treasury-demand-collapses-051e2a2c?mod=mw_rss_topstories</guid>
       <pubDate>16/04/2026 17:40</pubDate>
       <enclosure url="https://images.mktw.net/im-52867277" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Da Warehouse Powerhouse à Blue Chip: Por que a Costco pode ser a próxima para o Dow</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warehouse-powerhouse-blue-chip-why-122056659.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warehouse-powerhouse-blue-chip-why-122056659.html</guid>
-      <pubDate>16/04/2026 17:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/46ed172f6019ad7b14b44f3c02d6e7b1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
