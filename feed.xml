@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 15:15:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 15:22:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Formulário 8K Federal Home Loan Bank of Cincinnati para: 16 de abril</title>
+      <description></description>
+      <link>https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-cincinnati-for-16-april-93CH-4618931</link>
+      <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-cincinnati-for-16-april-93CH-4618931</guid>
+      <pubDate>16/04/2026 15:22</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Rogoff chama o dólar de 20% supervalorizado e alerta os mercados de ‘ingênuos’ sobre a guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/arxis-pops-nasdaq-debut-signals-163232702.html</guid>
       <pubDate>16/04/2026 13:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/f01f82a36e8f61d03b1a6a6b5ba9fb78" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Estoque da Microsoft após analistas redefinirem expectativas</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/microsoft-stock-msft-analysts-reset-expectations/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/microsoft-stock-msft-analysts-reset-expectations/?src=A00220&yptr=yahoo</guid>
-      <pubDate>16/04/2026 13:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/bb3933368f80fcf9cfc36026a427ac47" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
