@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 11:44:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 11:50:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Marsh McLennan Q1 2026 mostra resiliência em meio à pressão de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-marsh-mclennan-q1-2026-shows-resilience-amid-pricing-pressure-93CH-4618581</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-marsh-mclennan-q1-2026-shows-resilience-amid-pricing-pressure-93CH-4618581</guid>
+      <pubDate>16/04/2026 11:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China espera lançar Yuan Stablecoin dentro de cinco anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/fifth-third-earnings-on-deck-as-comerica-merger-faces-first-test-93CH-4618425</guid>
       <pubDate>16/04/2026 10:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump declarou a inflação &apos;derrotada&apos; - agora prevê-se que os EUA tenham a pior inflação entre os países do...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/trump-declared-inflation-defeated-now-131500457.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/trump-declared-inflation-defeated-now-131500457.html</guid>
-      <pubDate>16/04/2026 10:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/125d2c7841aa3aa3ea5e36bf5034d8b9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
