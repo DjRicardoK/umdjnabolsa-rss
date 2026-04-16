@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 15:07:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 15:07:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE REX: Lucros monstruosos superam o fim do ano fiscal de 2025 – Relatório de atualização trimestral</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/rex-monster-earnings-beat-end-083051662.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rex-monster-earnings-beat-end-083051662.html</guid>
+      <pubDate>16/04/2026 15:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/exec_edge_220/0dac6ca120d3520a5d2d609ede81db3e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Exclusivo-China pondera restrições às exportações de equipamentos de fabricação solar para os EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-miran-may-scale-back-ratecut-outlook-again-due-to-less-favorable-inflation-developments-4618801</guid>
       <pubDate>16/04/2026 13:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F17T_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Prologis sobem enquanto Truist reitera a compra com bons resultados</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/prologis-stock-rises-as-truist-reiterates-buy-on-strong-results-93CH-4618803</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/prologis-stock-rises-as-truist-reiterates-buy-on-strong-results-93CH-4618803</guid>
-      <pubDate>16/04/2026 13:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
