@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 04:19:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 04:19:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que as ações da Amazon acabaram de estourar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-amazon-stock-just-popped-191851976.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-amazon-stock-just-popped-191851976.html</guid>
+      <pubDate>16/04/2026 04:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/b220559345bb80679ec3cc345a93133c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do petróleo caem com esperança de que a diplomacia possa acabar com a guerra EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/ai-chip-stock-sitime-sitm-technology-markets-buy-zone/?src=A00220&yptr=yahoo</guid>
       <pubDate>16/04/2026 02:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/bdcc5b24677695e1a4ed861528be6cb4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Capital One Spark Miles for Business: recompensas simples para proprietários de empresas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/credit-cards/review/capital-one-spark-miles-for-business-review-174514920.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/review/capital-one-spark-miles-for-business-review-174514920.html</guid>
-      <pubDate>16/04/2026 02:38</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-05/7c31d4a0-1149-11ef-be8b-82998ca16fb3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
