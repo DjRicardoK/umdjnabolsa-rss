@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 12:05:42 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 12:05:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE CoStar Group (CSGP) está entre as melhores ações de baixo risco e alta recompensa</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/costar-group-csgp-among-best-145113071.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/costar-group-csgp-among-best-145113071.html</guid>
+      <pubDate>16/04/2026 12:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ff37a26d751da1ddbe16a9ff42f713e3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Schwab (SCHW) Transcrição da teleconferência de resultados do primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/us-weekly-jobless-claims-decline-as-labor-market-remains-stable-4618139</guid>
       <pubDate>16/04/2026 10:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F0VK_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O crescimento do usuário Starlink acelera à medida que a SpaceX planeja a estreia no mercado público, diz o...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/starlink-user-growth-accelerates-as-spacex-eyes-public-market-debut-report-says-4618445</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/starlink-user-growth-accelerates-as-spacex-eyes-public-market-debut-report-says-4618445</guid>
-      <pubDate>16/04/2026 10:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F0Z3_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
