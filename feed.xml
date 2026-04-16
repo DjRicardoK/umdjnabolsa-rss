@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 17:23:20 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:23:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Formulário 13F Warren Street Wealth Advisors para: 16 de abril</title>
+      <description></description>
+      <link>https://www.investing.com/news/filings/form-13f-warren-street-wealth-advisors-for-16-april-93CH-4619175</link>
+      <guid isPermaLink="false">https://www.investing.com/news/filings/form-13f-warren-street-wealth-advisors-for-16-april-93CH-4619175</guid>
+      <pubDate>16/04/2026 17:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Golden Sun Technology Group recebe aviso da Nasdaq sobre preço mínimo de oferta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-cincinnati-for-16-april-93CH-4618931</guid>
       <pubDate>16/04/2026 15:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Rogoff chama o dólar de 20% supervalorizado e alerta os mercados de ‘ingênuos’ sobre a guerra</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/rogoff-calls-dollar-20-overvalued-081658111.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/rogoff-calls-dollar-20-overvalued-081658111.html</guid>
-      <pubDate>16/04/2026 15:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/ffc025bb426c13d9a3cf58fb676a5e4f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
