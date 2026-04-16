@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 16:39:22 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 16:39:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A guerra do Irã está atingindo agora seus pedidos na Amazon – uma nova sobretaxa de combustível força os...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/iran-war-now-hitting-amazon-095000268.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/iran-war-now-hitting-amazon-095000268.html</guid>
+      <pubDate>16/04/2026 16:39</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/01935751d874b5014b69327dc30b0496" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O preço do Bitcoin estagna em US$ 76.000 enquanto Wall Street cria um fundo que lucra com isso</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/amd-stock-onsemi-latest-chip-stocks-to-break-out/?src=A00220&yptr=yahoo</guid>
       <pubDate>16/04/2026 14:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/2c490a2b397072a210ee326dedaf0d7b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Pepsi diz que cortes de preços e impulso ao bem-estar estão trazendo clientes de volta – e as ações sobem</title>
-      <description>As ações da PepsiCo subiram na quinta-feira depois que a gigante de bebidas e salgadinhos indicou que novos produtos e recentes reduções de preços trouxeram de volta clientes...</description>
-      <link>https://www.marketwatch.com/story/pepsi-says-price-cuts-and-wellness-push-are-bringing-back-customers-and-the-stock-surges-e6e5ea05?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/pepsi-says-price-cuts-and-wellness-push-are-bringing-back-customers-and-the-stock-surges-e6e5ea05?mod=mw_rss_topstories</guid>
-      <pubDate>16/04/2026 14:20</pubDate>
-      <enclosure url="https://images.mktw.net/im-05714594" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
