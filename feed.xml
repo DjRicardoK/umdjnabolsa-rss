@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 05:58:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:03:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Capital One Quicksilver Student Cash Rewards: um cartão de recompensas para iniciantes com bônus em dinheiro</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/credit-cards/review/capital-one-quicksilver-student-cash-rewards-credit-card-review-200719561.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/review/capital-one-quicksilver-student-cash-rewards-credit-card-review-200719561.html</guid>
+      <pubDate>16/04/2026 06:03</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-08/eafaae80-5a77-11ef-ae98-6252795b0bd1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da Data Storage Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-pressured-sliding-bond-yields-193425848.html</guid>
       <pubDate>16/04/2026 04:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/28daf3562e3582568bec527cdf7175ed" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que as ações da Amazon acabaram de estourar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-amazon-stock-just-popped-191851976.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-amazon-stock-just-popped-191851976.html</guid>
-      <pubDate>16/04/2026 04:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/b220559345bb80679ec3cc345a93133c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
