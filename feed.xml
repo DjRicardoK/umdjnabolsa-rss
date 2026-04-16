@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 19:49:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 19:49:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Otimismo de paz EUA-Irã eleva ações</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/us-iran-peace-optimism-lifts-151610527.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/us-iran-peace-optimism-lifts-151610527.html</guid>
+      <pubDate>16/04/2026 19:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Vince (VNCE) Transcrição da teleconferência de resultados do quarto trimestre de 2025</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/worlds-top-oil-companies-rake-133000364.html</guid>
       <pubDate>16/04/2026 18:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/oilprice.com/d0be9b83dad90af80a69013bcd969978" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE S&amp;P 500 está a caminho de um fechamento recorde. Nasdaq estende sequência de vitórias para 11 dias.</title>
-      <description></description>
-      <link>https://www.barrons.com/livecoverage/stock-market-news-today-041526/card/s-p-500-is-on-track-for-a-record-high-nasdaq-extends-win-streak-to-11-days--FGQvcKThR3iMOn7NDI8c?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-041526/card/s-p-500-is-on-track-for-a-record-high-nasdaq-extends-win-streak-to-11-days--FGQvcKThR3iMOn7NDI8c?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>16/04/2026 18:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
