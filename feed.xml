@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 11:35:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 11:35:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE UBS reitera classificação de compra de ações da Spire após venda de armazenamento de gás</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-spire-stock-buy-rating-after-gas-storage-sale-93CH-4618550</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-spire-stock-buy-rating-after-gas-storage-sale-93CH-4618550</guid>
+      <pubDate>16/04/2026 11:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE UBS reitera classificação das ações de Helen of Troy antes dos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-rise-with-fresh-records-in-view-amid-hopes-for-renewed-truce-230116738.html</guid>
       <pubDate>16/04/2026 10:37</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/35bee0e0-391e-11f1-9ecf-69a8cb7e34b3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BMO reitera classificação das ações da Diamondback Energy em forte posicionamento</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/bmo-reiterates-diamondback-energy-stock-rating-on-strong-positioning-93CH-4618257</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bmo-reiterates-diamondback-energy-stock-rating-on-strong-positioning-93CH-4618257</guid>
-      <pubDate>16/04/2026 10:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
