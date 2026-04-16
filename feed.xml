@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 10:07:21 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 10:09:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BMO reitera classificação das ações da Murphy Oil sobre a força da Eagle Ford</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bmo-reiterates-murphy-oil-stock-rating-on-eagle-ford-strength-93CH-4618258</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bmo-reiterates-murphy-oil-stock-rating-on-eagle-ford-strength-93CH-4618258</guid>
+      <pubDate>16/04/2026 10:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Como abrir um IRA ouro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/business/energy-oil/china-backed-yancoal-australia-to-buy-kestrel-coal-mine-stake-for-up-to-2-4-billion-c8bd9060?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>16/04/2026 08:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/6e2ca4df719a4f329307405a293313cc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Abbott reporta lucros do primeiro trimestre e conclui aquisição da Exact Sciences</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/abbott-reports-q1-earnings-completes-exact-sciences-acquisition-93CH-4617830</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/abbott-reports-q1-earnings-completes-exact-sciences-acquisition-93CH-4617830</guid>
-      <pubDate>16/04/2026 08:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
