@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 03:17:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:17:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tencent Music Entertainment (TME) é uma das ações sobrevendidas que oferece crescimento de ROE de dois...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tencent-music-entertainment-tme-one-182425250.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tencent-music-entertainment-tme-one-182425250.html</guid>
+      <pubDate>16/04/2026 03:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/94916e27a17443ee130172c7aefb0b85" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Preços do açúcar se recuperam com queda do dólar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-buy-sell-135718376.html</guid>
       <pubDate>15/04/2026 22:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/916cfc305c0ed57547938e7610013518" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Uma ‘camisa de força’ na descoberta de preços: como a guerra no Irã está empurrando os mercados modernos em...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/articles/straitjacket-price-discovery-iran-war-134501086.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/articles/straitjacket-price-discovery-iran-war-134501086.html</guid>
-      <pubDate>15/04/2026 22:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
