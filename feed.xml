@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 09:00:58 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 09:01:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Títulos do Bahrein sobem enquanto o apoio regional compensa o impacto da guerra</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bahrain-bonds-rally-as-regional-support-offsets-war-impact-93CH-4617882</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bahrain-bonds-rally-as-regional-support-offsets-war-impact-93CH-4617882</guid>
+      <pubDate>16/04/2026 09:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Brazil-Stock-Market_3_M_1440048532.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: R. Stahl AG Q4 2025 reporta EBITDA estável em meio a desafios</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/spx-technologies-spxc-among-best-203800940.html</guid>
       <pubDate>16/04/2026 05:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1c7b16942787c8c8e5fff674d6d6467a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Wells Fargo &amp; Company</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wells-fargo-company-q1-2026-204720219.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wells-fargo-company-q1-2026-204720219.html</guid>
-      <pubDate>16/04/2026 05:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/03d7e33f498832888ade6cb5a19f8c6b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
