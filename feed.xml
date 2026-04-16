@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 13:39:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 13:44:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O rali explosivo da Nvidia enfrentará um grande teste em breve</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/nvidias-explosive-rally-faces-one-big-test-soon-163054893.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/nvidias-explosive-rally-faces-one-big-test-soon-163054893.html</guid>
+      <pubDate>16/04/2026 13:44</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/1119ae30-2197-11f1-ae4e-8c03daf9b4f9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Stagwell Inc atingem alta de 52 semanas a 7,18 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/compass-comp-one-best-low-145112429.html</guid>
       <pubDate>16/04/2026 12:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/77566076d24abec2c77c725572bbd527" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE CoStar Group (CSGP) está entre as melhores ações de baixo risco e alta recompensa</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/costar-group-csgp-among-best-145113071.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/costar-group-csgp-among-best-145113071.html</guid>
-      <pubDate>16/04/2026 12:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ff37a26d751da1ddbe16a9ff42f713e3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
