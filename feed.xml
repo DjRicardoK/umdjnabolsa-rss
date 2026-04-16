@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 13:08:20 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 13:10:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ServiceNow (AGORA) sofreu com a narrativa de “morte de software” e “contração de assento de IA”</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/servicenow-now-suffered-death-software-160113168.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/servicenow-now-suffered-death-software-160113168.html</guid>
+      <pubDate>16/04/2026 13:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a0b5a5aa8c246d188becebe9dfc8abac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE BitMEX lança campanha TradFi 24 horas por dia, 7 dias por semana, com um conjunto de prêmios de 50.000 USDT</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-helen-of-troy-stock-rating-ahead-of-earnings-93CH-4618551</guid>
       <pubDate>16/04/2026 11:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Como Andy Jassy acabou de me convencer de que as ações da Amazon são uma compra</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/andy-jassy-just-convinced-amazon-142000338.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/andy-jassy-just-convinced-amazon-142000338.html</guid>
-      <pubDate>16/04/2026 11:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/664f6844f89b6c0897cc15764f87ff20" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
