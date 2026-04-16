@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 14:12:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 14:16:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Paulson pede plano de emergência para evitar colapso do mercado do Tesouro</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/paulson-calls-for-emergency-plan-to-prevent-treasury-market-collapse-4618843</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/paulson-calls-for-emergency-plan-to-prevent-treasury-market-collapse-4618843</guid>
+      <pubDate>16/04/2026 14:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE7L17B_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 da Prologis (PLD)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/press-releases/bitmex-launches-the-247-tradfi-campaign-featuring-a-50000-usdt-prize-pool-4618735</guid>
       <pubDate>16/04/2026 13:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Blacksky Technology atingem alta de 52 semanas a 37,01 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/blacksky-technology-stock-hits-52week-high-at-3701-usd-93CH-4618739</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/blacksky-technology-stock-hits-52week-high-at-3701-usd-93CH-4618739</guid>
-      <pubDate>16/04/2026 13:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
