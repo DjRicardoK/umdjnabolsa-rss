@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 18:58:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:58:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Devon Energy</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/expect-devon-energys-q1-2026-135503558.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/expect-devon-energys-q1-2026-135503558.html</guid>
+      <pubDate>16/04/2026 18:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4d4e3e38fdd6a666fb3da07054904691" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warren Buffett transformou as economias de US $ 65 mil de um vizinho em US $ 25 milhões, mas eles quase não...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/why-wall-street-watching-really-120342624.html</guid>
       <pubDate>16/04/2026 17:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/exec_edge_220/1fe975636d709d58ff34195bf3870910" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Netflix quebra as expectativas de lucro graças ao aumento de preços e à taxa de rescisão de US$ 2,8 bilhões...</title>
-      <description>O fundador Reed Hastings não se candidatará à reeleição para o conselho após o término de seu mandato</description>
-      <link>https://www.marketwatch.com/story/netflix-shatters-profit-expectations-thanks-to-price-increase-and-2-8-billion-breakup-fee-from-warner-bros-ea3a80f8?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/netflix-shatters-profit-expectations-thanks-to-price-increase-and-2-8-billion-breakup-fee-from-warner-bros-ea3a80f8?mod=mw_rss_topstories</guid>
-      <pubDate>16/04/2026 17:25</pubDate>
-      <enclosure url="https://images.mktw.net/im-80279023" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
