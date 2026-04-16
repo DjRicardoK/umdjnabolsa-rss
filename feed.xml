@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 09:47:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 09:52:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BCE cauteloso com aumento prematuro na reunião de março, mostram contas</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ecb-wary-of-premature-hike-at-march-meeting-accounts-show-4618141</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-wary-of-premature-hike-at-march-meeting-accounts-show-4618141</guid>
+      <pubDate>16/04/2026 09:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F0T9_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sobe após pedidos surpresa de seguro-desemprego; Slides TSMC, próximos ganhos da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/rare-earth-trap-china-outmaneuvered-000000878.html</guid>
       <pubDate>16/04/2026 08:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/oilprice.com/f399a2d54d51fdbeba24805d3a52f678" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Futuros de Wall St sobem com esperanças diplomáticas no Oriente Médio e fortes ganhos</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/wall-st-futures-edge-higher-on-mideast-diplomacy-hopes-strong-earnings-4617346</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wall-st-futures-edge-higher-on-mideast-diplomacy-hopes-strong-earnings-4617346</guid>
-      <pubDate>16/04/2026 08:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F0KW_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
