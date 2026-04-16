@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 03:28:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:28:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Por que o Fed continua ameaçando aumentos nas taxas? Tem medo de sua própria impressora secreta.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/why-does-fed-keep-threatening-183714598.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/why-does-fed-keep-threatening-183714598.html</guid>
+      <pubDate>16/04/2026 03:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/aa2c686535dccc7ee09e9715e44e0f9f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A maioria das empresas está lidando com a precisão da folha de pagamento da maneira errada – esta é a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/bitcoin-jumps-to-74000-but-wall-street-is-cautious-crypto-bear-market-isnt-over-151420711.html</guid>
       <pubDate>15/04/2026 23:55</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2021-04/5af69a20-a8e5-11eb-bf7f-5f2e9fe992ce" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados da Corning</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-corning-earnings-release-145914071.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-corning-earnings-release-145914071.html</guid>
-      <pubDate>15/04/2026 23:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9680c304e936f001c10494591a878e1a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
