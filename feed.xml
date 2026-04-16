@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 10:09:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 10:09:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BMO reitera classificação das ações da Diamondback Energy em forte posicionamento</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bmo-reiterates-diamondback-energy-stock-rating-on-strong-positioning-93CH-4618257</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bmo-reiterates-diamondback-energy-stock-rating-on-strong-positioning-93CH-4618257</guid>
+      <pubDate>16/04/2026 10:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BMO reitera classificação das ações da Murphy Oil sobre a força da Eagle Ford</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/hopes-for-middle-east-peace-grow-as-israel-discusses-lebanon-ceasefire-4617025</guid>
       <pubDate>16/04/2026 08:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F055_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Yancoal Australia, apoiada pela China, comprará participação na mina de carvão Kestrel por até US$ 2,4 bilhões</title>
-      <description></description>
-      <link>https://www.wsj.com/business/energy-oil/china-backed-yancoal-australia-to-buy-kestrel-coal-mine-stake-for-up-to-2-4-billion-c8bd9060?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/business/energy-oil/china-backed-yancoal-australia-to-buy-kestrel-coal-mine-stake-for-up-to-2-4-billion-c8bd9060?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>16/04/2026 08:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/6e2ca4df719a4f329307405a293313cc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
