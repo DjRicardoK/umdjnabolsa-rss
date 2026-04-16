@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 14:34:28 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 14:35:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: S&amp;P 500, Nasdaq sobem enquanto Trump diz que Israel e Líbano concordaram com um...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-edge-higher-as-trump-says-israel-lebanon-agreed-to-a-ceasefire-230116829.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-edge-higher-as-trump-says-israel-lebanon-agreed-to-a-ceasefire-230116829.html</guid>
+      <pubDate>16/04/2026 14:35</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/35bee0e0-391e-11f1-9ecf-69a8cb7e34b3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE UPS x FedEx: quais ações de dividendos devem ser entregues em 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/keycorp-q1-earnings-call-highlights-160405209.html</guid>
       <pubDate>16/04/2026 13:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/7dbb22e784b445542d85ad011e0e1e4a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: S&amp;P 500, Dow, Nasdaq se recuperam enquanto Trump diz que Israel e Líbano concordaram...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-rebound-as-trump-says-israel-lebanon-agreed-to-a-ceasefire-230116941.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-rebound-as-trump-says-israel-lebanon-agreed-to-a-ceasefire-230116941.html</guid>
-      <pubDate>16/04/2026 13:12</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/35bee0e0-391e-11f1-9ecf-69a8cb7e34b3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
