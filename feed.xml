@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 12:19:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 12:29:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 do ManpowerGroup (MAN)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/manpowergroup-man-q1-2026-earnings-151803802.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/manpowergroup-man-q1-2026-earnings-151803802.html</guid>
+      <pubDate>16/04/2026 12:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre das empresas de viajantes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-somnigroup-stock-rating-on-ma-execution-confidence-93CH-4618488</guid>
       <pubDate>16/04/2026 11:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O crescimento do usuário Starlink acelera à medida que a SpaceX planeja a estreia no mercado público, diz o...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/starlink-user-growth-accelerates-spacex-134543370.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/starlink-user-growth-accelerates-spacex-134543370.html</guid>
-      <pubDate>16/04/2026 11:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/5c1966b36511e480732768b494fea642" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
