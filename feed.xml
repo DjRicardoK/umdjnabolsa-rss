@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 09:41:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 09:47:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sobe após pedidos surpresa de seguro-desemprego; Slides TSMC, próximos ganhos da...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-tsmc-netflix-earnings/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-tsmc-netflix-earnings/?src=A00220&yptr=yahoo</guid>
+      <pubDate>16/04/2026 09:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Charles Schwab caem na base, apesar do relatório de ganhos recordes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wall-st-futures-edge-higher-on-mideast-diplomacy-hopes-strong-earnings-4617346</guid>
       <pubDate>16/04/2026 08:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F0KW_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jim Cramer sinaliza movimento importante que o Goldman Sachs pode precisar a seguir</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flags-key-move-231656708.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flags-key-move-231656708.html</guid>
-      <pubDate>16/04/2026 08:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/645e274ffb00c9fea5e02201eae8fd7e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
