@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 18:27:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:29:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Duas principais ações da Nasdaq para comprar antes de dispararem em 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/2-top-nasdaq-stocks-buy-132000351.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/2-top-nasdaq-stocks-buy-132000351.html</guid>
+      <pubDate>16/04/2026 18:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/164ba4d4a2c9374de950c7cb26eb4672" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As principais empresas petrolíferas do mundo arrecadarão US$ 234 bilhões extras em lucros de guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kraft-heinzs-quarterly-earnings-preview-114323387.html</guid>
       <pubDate>16/04/2026 17:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/429cf925eaccd1fa58788ab02fbf57db" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Amazon estão sobrecompradas em meio ao acordo da Globalstar. Está chegando um retrocesso?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-stock-overbought-amid-globalstar-114502099.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-stock-overbought-amid-globalstar-114502099.html</guid>
-      <pubDate>16/04/2026 17:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/53921926b0ea4c196011ac50e860a881" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
