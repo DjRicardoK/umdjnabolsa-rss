@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 03:28:24 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:44:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs dá um salto surpresa para ETFs de Bitcoin com um produto que um analista chama de “doce boomer”</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-makes-surprise-jump-183128769.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-makes-surprise-jump-183128769.html</guid>
+      <pubDate>16/04/2026 03:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/fortune_175/42b32a7662e90e1a6119fda1a64414df" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Por que o Fed continua ameaçando aumentos nas taxas? Tem medo de sua própria impressora secreta.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-rally-us-iran-peace-151824946.html</guid>
       <pubDate>16/04/2026 00:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/754d1add9645fb46c7ad31fc4fa63ccc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bitcoin salta para US$ 74.000, mas Wall Street está ‘cautelosa’. O mercado baixista de criptomoedas ainda não...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/bitcoin-jumps-to-74000-but-wall-street-is-cautious-crypto-bear-market-isnt-over-151420711.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/bitcoin-jumps-to-74000-but-wall-street-is-cautious-crypto-bear-market-isnt-over-151420711.html</guid>
-      <pubDate>15/04/2026 23:55</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2021-04/5af69a20-a8e5-11eb-bf7f-5f2e9fe992ce" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
