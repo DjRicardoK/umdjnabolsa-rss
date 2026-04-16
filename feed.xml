@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 08:19:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 08:26:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A armadilha das terras raras: como a China superou toda a indústria de defesa ocidental</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/rare-earth-trap-china-outmaneuvered-000000878.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/rare-earth-trap-china-outmaneuvered-000000878.html</guid>
+      <pubDate>16/04/2026 08:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/oilprice.com/f399a2d54d51fdbeba24805d3a52f678" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Futuros de Wall St sobem com esperanças diplomáticas no Oriente Médio e fortes ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/makes-eqt-corporation-eqt-one-203144805.html</guid>
       <pubDate>16/04/2026 05:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bff0942a48c8ab7f0471c02863e21981" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 3 ações de crescimento brilhante para comprar agora e manter no longo prazo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-brilliant-growth-stocks-buy-203500976.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-brilliant-growth-stocks-buy-203500976.html</guid>
-      <pubDate>16/04/2026 05:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/f9c67a779dd818137673c609703b0c97" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
