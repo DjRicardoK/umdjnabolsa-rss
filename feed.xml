@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 09:06:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 09:16:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Este ETF fácil de ignorar dispara 663% ao vencer a guerra no Irã</title>
+      <description></description>
+      <link>https://www.investors.com/etfs-and-funds/etfs/sp500-this-easy-to-overlook-etf-soars-as-it-wins-from-iran-war/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/etfs-and-funds/etfs/sp500-this-easy-to-overlook-etf-soars-as-it-wins-from-iran-war/?src=A00220&yptr=yahoo</guid>
+      <pubDate>16/04/2026 09:16</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/4093e00772331d8b5a43e809a1bc4b63" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dow Jones Futures sobe, Nvidia Chipmaker cai; S&amp;P 500, Nasdaq em alta, liderado por Tesla, Robinhood</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/data-storage-corporation-q4-2025-204648001.html</guid>
       <pubDate>16/04/2026 05:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/c8216a3da7cd8ebc18bef3b8987dfdcd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da BlackRock, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/blackrock-inc-q1-2026-earnings-204639703.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/blackrock-inc-q1-2026-earnings-204639703.html</guid>
-      <pubDate>16/04/2026 05:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/5b4c975c8b855de6c4b77ae085e46685" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
