@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 12:07:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 12:07:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Cirrus Logic atingem o máximo histórico de 162,79 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cirrus-logic-stock-hits-alltime-high-of-16279-usd-93CH-4618609</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cirrus-logic-stock-hits-alltime-high-of-16279-usd-93CH-4618609</guid>
+      <pubDate>16/04/2026 12:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Equinix atingem o máximo histórico em 1.060,23 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-raises-bank-of-america-stock-price-target-to-61-on-earnings-93CH-4618457</guid>
       <pubDate>16/04/2026 10:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Não são apenas os preços do gás. Como a guerra do Irã está afetando sua conta de supermercado.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/its-not-just-gas-prices-how-the-iran-war-is-coming-for-your-grocery-bill-135110743.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/its-not-just-gas-prices-how-the-iran-war-is-coming-for-your-grocery-bill-135110743.html</guid>
-      <pubDate>16/04/2026 10:57</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-04/aad53ea0-15f8-11f0-976d-6dd4e23243a2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
