@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 08:05:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 08:17:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jim Cramer sinaliza movimento importante que o Goldman Sachs pode precisar a seguir</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flags-key-move-231656708.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flags-key-move-231656708.html</guid>
+      <pubDate>16/04/2026 08:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/645e274ffb00c9fea5e02201eae8fd7e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Huaqin da China busca levantar quase US$ 581 milhões em listagem em HK em meio à volatilidade do mercado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/iran-war-isnt-over-why-202149867.html</guid>
       <pubDate>16/04/2026 05:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/investopedia_245/b8dc1c6af829782046b4259f43a0e7ee" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Nokia (NOK) é uma das ações de IA com melhor desempenho para comprar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nokia-nok-one-best-performing-202346429.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nokia-nok-one-best-performing-202346429.html</guid>
-      <pubDate>16/04/2026 05:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6e05024de04e2f40c1093571a18bf29f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
