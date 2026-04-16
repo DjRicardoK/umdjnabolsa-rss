@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 01:17:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 01:31:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Johnson &amp; Johnson</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-q1-2026-earnings-164635179.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/johnson-johnson-q1-2026-earnings-164635179.html</guid>
+      <pubDate>16/04/2026 01:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/bce65a4c142cb16d9d39e2ca362557a0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Fraqueza do dólar desencadeia cobertura curta em futuros de açúcar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/microsofts-stock-has-sprung-back-to-life-its-on-its-strongest-run-in-3-years-by-one-measure-02b7e184?mod=mw_rss_topstories</guid>
       <pubDate>15/04/2026 19:16</pubDate>
       <enclosure url="https://images.mktw.net/im-45773542" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Glencore subiram 120% no ano passado. Poderá sobreviver à guerra no Irão?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/glencore-stock-120-past-survive-141502056.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/glencore-stock-120-past-survive-141502056.html</guid>
-      <pubDate>15/04/2026 19:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5e8f936c3140d7b4b2c375470b4a7378" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
