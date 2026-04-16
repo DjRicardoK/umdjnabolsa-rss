@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 09:19:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 09:19:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cantor reitera excesso de peso nas ações da eToro na aquisição da Zengo</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/cantor-reiterates-etoro-stock-overweight-on-zengo-acquisition-93CH-4617985</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-reiterates-etoro-stock-overweight-on-zengo-acquisition-93CH-4617985</guid>
+      <pubDate>16/04/2026 09:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os resultados da Wipro no quarto trimestre de 2026 refletem um...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mamas-creations-q4-earnings-call-220456204.html</guid>
       <pubDate>16/04/2026 07:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/23b65f773552e463ad3386364624c82f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O que faz com que valha a pena manter um estoque de saúde durante uma recessão?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/makes-healthcare-stock-worth-holding-205900942.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/makes-healthcare-stock-worth-holding-205900942.html</guid>
-      <pubDate>16/04/2026 06:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/ba49ab13e6c567e95e8b7ddf888d0df4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
