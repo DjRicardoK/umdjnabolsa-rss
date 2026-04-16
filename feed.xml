@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 10:58:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 11:02:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Um indicador de alta para ações de software acabou de piscar. Por que um verdadeiro retorno pode estar nos...</title>
+      <description>Depois de uma queda de cinco meses alimentada por receios de perturbação da IA, o setor de software fechou acima da sua média móvel de 50 dias, num importante rompimento técnico.</description>
+      <link>https://www.marketwatch.com/story/a-bullish-indicator-for-software-stocks-just-flashed-why-a-true-comeback-could-be-in-the-cards-129f0010?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/a-bullish-indicator-for-software-stocks-just-flashed-why-a-true-comeback-could-be-in-the-cards-129f0010?mod=mw_rss_topstories</guid>
+      <pubDate>16/04/2026 11:02</pubDate>
+      <enclosure url="https://images.mktw.net/im-49193114" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Truist aumenta a meta de preço das ações do Bank of America para US$ 61 em lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-steady-after-record-high-closes-amid-hopes-for-renewed-iran-truce-230116905.html</guid>
       <pubDate>16/04/2026 09:37</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/35bee0e0-391e-11f1-9ecf-69a8cb7e34b3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Oklo Rockets na semana de grandes novidades para ações de energia nuclear</title>
-      <description></description>
-      <link>https://www.investors.com/news/oklo-stock-soars-in-big-news-week-for-nuclear-energy-stocks/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/oklo-stock-soars-in-big-news-week-for-nuclear-energy-stocks/?src=A00220&yptr=yahoo</guid>
-      <pubDate>16/04/2026 09:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/ccc122c61aeb4a90856fcc9fecb7d6e6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
