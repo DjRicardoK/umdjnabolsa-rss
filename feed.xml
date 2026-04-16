@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 17:31:58 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:32:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bitwise afirma que o conflito global pode expandir o mercado de Bitcoin além do ouro: isso é plausível?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/bitwise-says-global-conflict-could-120940947.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/bitwise-says-global-conflict-could-120940947.html</guid>
+      <pubDate>16/04/2026 17:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/99bitcoins_us_315/71729c15f60d2e000251248fab24d651" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Waters Corporation: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/diebold-nixdorf-stock-hits-alltime-high-at-8616-usd-93CH-4618978</guid>
       <pubDate>16/04/2026 16:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Choques petrolíferos e receios tarifários? Essas três ações de rendimento ultra-alto continuarão pagando você.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/oil-shocks-tariff-fears-3-090000859.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/oil-shocks-tariff-fears-3-090000859.html</guid>
-      <pubDate>16/04/2026 15:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/76a6b19936a04dd7ded205403d354b69" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
