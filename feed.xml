@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Apr 2026 23:33:25 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 23:55:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bitcoin salta para US$ 74.000, mas Wall Street está ‘cautelosa’. O mercado baixista de criptomoedas ainda não...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/bitcoin-jumps-to-74000-but-wall-street-is-cautious-crypto-bear-market-isnt-over-151420711.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/bitcoin-jumps-to-74000-but-wall-street-is-cautious-crypto-bear-market-isnt-over-151420711.html</guid>
+      <pubDate>15/04/2026 23:55</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2021-04/5af69a20-a8e5-11eb-bf7f-5f2e9fe992ce" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados da Corning</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-earnings-preview-expect-130632014.html</guid>
       <pubDate>15/04/2026 18:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/7d938a87a94fd82f1c415089cfd00eee" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Nvidia selam sua mais longa sequência de vitórias de todos os tempos. O impulso é real?</title>
-      <description>Alguns analistas dizem que a força recente da Nvidia reflete uma percepção melhorada do cenário da IA, enquanto outros simplesmente atribuem isso a uma recuperação ampla do...</description>
-      <link>https://www.marketwatch.com/story/nvidias-stock-seals-its-longest-winning-streak-ever-is-the-momentum-for-real-c37dc31c?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidias-stock-seals-its-longest-winning-streak-ever-is-the-momentum-for-real-c37dc31c?mod=mw_rss_topstories</guid>
-      <pubDate>15/04/2026 18:13</pubDate>
-      <enclosure url="https://images.mktw.net/im-41457054" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
