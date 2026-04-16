@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 06:03:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:07:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O que faz com que valha a pena manter um estoque de saúde durante uma recessão?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/makes-healthcare-stock-worth-holding-205900942.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/makes-healthcare-stock-worth-holding-205900942.html</guid>
+      <pubDate>16/04/2026 06:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/ba49ab13e6c567e95e8b7ddf888d0df4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Capital One Quicksilver Student Cash Rewards: um cartão de recompensas para iniciantes com bônus em dinheiro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-amzn-stock-buy-point-google/?src=A00220&yptr=yahoo</guid>
       <pubDate>16/04/2026 04:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/bd7518d751a1e695a531f54ca158e732" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dólar pressionado pela queda nos rendimentos dos títulos e aumento das ações</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-pressured-sliding-bond-yields-193425848.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-pressured-sliding-bond-yields-193425848.html</guid>
-      <pubDate>16/04/2026 04:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/28daf3562e3582568bec527cdf7175ed" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
