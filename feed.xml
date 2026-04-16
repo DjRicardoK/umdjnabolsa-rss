@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 05:33:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 05:33:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bolsas sobem em busca de diplomacia para acabar com a guerra EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-rally-push-diplomacy-end-203309842.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-rally-push-diplomacy-end-203309842.html</guid>
+      <pubDate>16/04/2026 05:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bab324b7ff3e454bd77e3afc82d85ce5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Oklo (OKLO) é um dos melhores estoques de energia de IA para comprar em 2026?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/finance/investing/fed-nominee-kevin-warsh-discloses-vast-wealth-15896865?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>16/04/2026 03:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/583afe2e509a5255fedda4d79fd902c1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações de banco de 176 anos pagam a Warren Buffett US$ 576 milhões em dividendos anuais</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/176-old-bank-stock-pays-184700844.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/176-old-bank-stock-pays-184700844.html</guid>
-      <pubDate>16/04/2026 03:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/8da0f20466d087398a45ce87db339d44" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
