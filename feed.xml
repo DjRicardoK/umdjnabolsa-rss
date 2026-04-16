@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 09:03:21 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 09:06:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dow Jones Futures sobe, Nvidia Chipmaker cai; S&amp;P 500, Nasdaq em alta, liderado por Tesla, Robinhood</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-highs-tesla-robinhood-nvidia-chipmaker-taiwan-semiconductor/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-highs-tesla-robinhood-nvidia-chipmaker-taiwan-semiconductor/?src=A00220&yptr=yahoo</guid>
+      <pubDate>16/04/2026 09:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/cc5c97ccaa42b69e95b7b7a633ba673c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nasdaq registra a mais longa sequência de vitórias desde 2021, enquanto os investidores olham além da guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/blackrock-inc-q1-2026-earnings-204639703.html</guid>
       <pubDate>16/04/2026 05:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/5b4c975c8b855de6c4b77ae085e46685" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O indicado para presidente do Fed, Kevin Warsh, é dono da criptografia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/fed-chair-nominee-kevin-warsh-205700461.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/fed-chair-nominee-kevin-warsh-205700461.html</guid>
-      <pubDate>16/04/2026 05:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/f2745afaedeb7fa4c31a20149d1d6137" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
