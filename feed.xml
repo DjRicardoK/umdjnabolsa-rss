@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 18:45:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:45:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os chefes financeiros do G7 dizem que é urgente limitar o custo da guerra no Médio Oriente para a economia...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/g7-finance-chiefs-say-it-is-urgent-to-limit-middle-east-wars-cost-to-global-economy-4619467</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/g7-finance-chiefs-say-it-is-urgent-to-limit-middle-east-wars-cost-to-global-economy-4619467</guid>
+      <pubDate>16/04/2026 18:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F1HL_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Netflix supera estimativas de EPS do primeiro trimestre de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-13f-warren-street-wealth-advisors-for-16-april-93CH-4619175</guid>
       <pubDate>16/04/2026 17:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Golden Sun Technology Group recebe aviso da Nasdaq sobre preço mínimo de oferta</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/golden-sun-technology-group-receives-nasdaq-notice-on-minimum-bid-price-93CH-4619177</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/golden-sun-technology-group-receives-nasdaq-notice-on-minimum-bid-price-93CH-4619177</guid>
-      <pubDate>16/04/2026 17:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
