@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 17:46:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:46:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da SurgePays, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/surgepays-inc-q4-2025-earnings-123000423.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/surgepays-inc-q4-2025-earnings-123000423.html</guid>
+      <pubDate>16/04/2026 17:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/3914e7d645e8f0a4ed1bb461933be06d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da Vince Holding Corp.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/iran-war-now-hitting-amazon-095000268.html</guid>
       <pubDate>16/04/2026 16:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/01935751d874b5014b69327dc30b0496" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O preço do Bitcoin estagna em US$ 76.000 enquanto Wall Street cria um fundo que lucra com isso</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-stalls-76-000-092645577.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-stalls-76-000-092645577.html</guid>
-      <pubDate>16/04/2026 16:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/beincrypto_us_662/887bb8f014aa5b5418d1f1d589016fcf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
