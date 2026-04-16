@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 11:50:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 11:50:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Travellers Companies supera as expectativas do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-travelers-companies-beats-q1-2026-expectations-93CH-4618580</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-travelers-companies-beats-q1-2026-expectations-93CH-4618580</guid>
+      <pubDate>16/04/2026 11:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Marsh McLennan Q1 2026 mostra resiliência em meio à pressão de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/independent-bank-earnings-on-deck-can-growth-streak-continue-93CH-4618421</guid>
       <pubDate>16/04/2026 10:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro do quinto terço em ação enquanto a fusão da Comerica enfrenta o primeiro teste</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/fifth-third-earnings-on-deck-as-comerica-merger-faces-first-test-93CH-4618425</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/fifth-third-earnings-on-deck-as-comerica-merger-faces-first-test-93CH-4618425</guid>
-      <pubDate>16/04/2026 10:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
