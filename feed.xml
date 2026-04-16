@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 10:46:17 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 10:56:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nvidia fizeram isso pela primeira vez. Os investidores devem prestar atenção</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-just-did-first-134821274.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-just-did-first-134821274.html</guid>
+      <pubDate>16/04/2026 10:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/00762a26b270cabf22d302b0809ec492" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros de bancos independentes em jogo: a seqüência de crescimento pode continuar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-highs-tesla-robinhood-nvidia-chipmaker-taiwan-semiconductor/?src=A00220&yptr=yahoo</guid>
       <pubDate>16/04/2026 09:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/cc5c97ccaa42b69e95b7b7a633ba673c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Nasdaq registra a mais longa sequência de vitórias desde 2021, enquanto os investidores olham além da guerra</title>
-      <description></description>
-      <link>https://www.wsj.com/finance/stocks/nasdaq-logs-longest-winning-streak-since-2021-as-investors-look-beyond-war-81d07c61?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/finance/stocks/nasdaq-logs-longest-winning-streak-since-2021-as-investors-look-beyond-war-81d07c61?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>16/04/2026 09:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/6f23da0f1b5d067c189cb2ce15928cb8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
