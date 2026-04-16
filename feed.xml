@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 03:17:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:27:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Citi reitera classificação de compra para Boston Scientific (BSX)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/citi-reiterates-buy-rating-boston-182430318.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/citi-reiterates-buy-rating-boston-182430318.html</guid>
+      <pubDate>16/04/2026 03:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5ebeb797976f4b134f89e7fc0f1f7cd5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tencent Music Entertainment (TME) é uma das ações sobrevendidas que oferece crescimento de ROE de dois...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fastenal-stock-sold-off-q1-140115806.html</guid>
       <pubDate>15/04/2026 22:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d9dcb0b1e77e5db283b3324d9bcf94fe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O estoque da Unity Software é uma parceria de compra, venda ou retenção de VR com metaplataformas?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-buy-sell-135718376.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/unity-software-stock-buy-sell-135718376.html</guid>
-      <pubDate>15/04/2026 22:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/916cfc305c0ed57547938e7610013518" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
