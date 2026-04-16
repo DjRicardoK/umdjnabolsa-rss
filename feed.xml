@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 18:00:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:26:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Colômbia sobem no fechamento do pregão; COLCAP sobe 0,35%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-035-4619431</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-035-4619431</guid>
+      <pubDate>16/04/2026 18:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056298.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O máximo recorde do S&amp;P 500 pode ser uma ilusão – e esta alta é um aviso</title>
       <description>Tesla, IBM e Intel relatam lucros na próxima semana: Esta é a melhor maneira de jogar com a volatilidade.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-genius-ai-stocks-youll-095000858.html</guid>
       <pubDate>16/04/2026 17:01</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/2f101d206b6306285fef6335152aba46" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump anuncia nova liderança no CDC e nomeia Erica Schwartz como diretora</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/trump-announces-new-leadership-at-cdc-nominates-erica-schwartz-as-director-4619026</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-announces-new-leadership-at-cdc-nominates-erica-schwartz-as-director-4619026</guid>
-      <pubDate>16/04/2026 16:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
