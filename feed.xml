@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 11:05:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 11:10:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE UBS reitera classificação das ações do Somnigroup sobre confiança na execução de fusões e aquisições</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-somnigroup-stock-rating-on-ma-execution-confidence-93CH-4618488</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-somnigroup-stock-rating-on-ma-execution-confidence-93CH-4618488</guid>
+      <pubDate>16/04/2026 11:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O crescimento do usuário Starlink acelera à medida que a SpaceX planeja a estreia no mercado público, diz o...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-tsmc-netflix-earnings/?src=A00220&yptr=yahoo</guid>
       <pubDate>16/04/2026 09:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Charles Schwab caem na base, apesar do relatório de ganhos recordes</title>
-      <description></description>
-      <link>https://www.investors.com/news/charles-schwab-stock-earnings-q1-2026-cup-base-schw-stock-banks-brokers/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/charles-schwab-stock-earnings-q1-2026-cup-base-schw-stock-banks-brokers/?src=A00220&yptr=yahoo</guid>
-      <pubDate>16/04/2026 09:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/7e7edd33a5699640daad8fee7cdcea09" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
