@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 03:27:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:28:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A maioria das empresas está lidando com a precisão da folha de pagamento da maneira errada – esta é a...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/most-businesses-tackling-payroll-accuracy-183000304.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/most-businesses-tackling-payroll-accuracy-183000304.html</guid>
+      <pubDate>16/04/2026 03:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/entrepreneur_869/64f7179f1b73d9c0060cabb7cd7f27cc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Citi reitera classificação de compra para Boston Scientific (BSX)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-corning-earnings-release-145914071.html</guid>
       <pubDate>15/04/2026 23:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/9680c304e936f001c10494591a878e1a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Fastenal foram vendidas com base nos lucros do primeiro trimestre. Não compre o mergulho.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/fastenal-stock-sold-off-q1-140115806.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fastenal-stock-sold-off-q1-140115806.html</guid>
-      <pubDate>15/04/2026 22:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d9dcb0b1e77e5db283b3324d9bcf94fe" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
