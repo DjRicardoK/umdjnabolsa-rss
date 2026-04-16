@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 17:40:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:46:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da Vince Holding Corp.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/vince-holding-corp-q4-2025-123000962.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/vince-holding-corp-q4-2025-123000962.html</guid>
+      <pubDate>16/04/2026 17:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/6a5bf26e843f02352d10aa29831850d8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O ex-secretário do Tesouro Henry Paulson alerta que os EUA precisam de um plano emergencial de “quebrar o...</title>
       <description>O ex-secretário do Tesouro, Henry Paulson, instou na quinta-feira os legisladores dos EUA a prepararem um plano de emergência no caso de a procura por títulos do Tesouro quebrar –...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-stalls-76-000-092645577.html</guid>
       <pubDate>16/04/2026 16:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/beincrypto_us_662/887bb8f014aa5b5418d1f1d589016fcf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações batem recorde com esperanças de acordo de paz entre EUA e Irã, mas dúvidas elevam petróleo</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-markets-advance-on-peace-deal-hopes-corporate-earnings-4616973</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-markets-advance-on-peace-deal-hopes-corporate-earnings-4616973</guid>
-      <pubDate>16/04/2026 16:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F015_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
