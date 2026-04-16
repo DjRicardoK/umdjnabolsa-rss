@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 08:17:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 08:19:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Futuros de Wall St sobem com esperanças diplomáticas no Oriente Médio e fortes ganhos</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/wall-st-futures-edge-higher-on-mideast-diplomacy-hopes-strong-earnings-4617346</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wall-st-futures-edge-higher-on-mideast-diplomacy-hopes-strong-earnings-4617346</guid>
+      <pubDate>16/04/2026 08:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F0KW_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Jim Cramer sinaliza movimento importante que o Goldman Sachs pode precisar a seguir</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-brilliant-growth-stocks-buy-203500976.html</guid>
       <pubDate>16/04/2026 05:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/f9c67a779dd818137673c609703b0c97" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A guerra com o Irã ainda não acabou, então por que as ações voltaram a atingir níveis recordes?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/iran-war-isnt-over-why-202149867.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/iran-war-isnt-over-why-202149867.html</guid>
-      <pubDate>16/04/2026 05:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/investopedia_245/b8dc1c6af829782046b4259f43a0e7ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
