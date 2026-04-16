@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 08:26:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 08:37:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Abbott reporta lucros do primeiro trimestre e conclui aquisição da Exact Sciences</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/abbott-reports-q1-earnings-completes-exact-sciences-acquisition-93CH-4617830</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/abbott-reports-q1-earnings-completes-exact-sciences-acquisition-93CH-4617830</guid>
+      <pubDate>16/04/2026 08:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A armadilha das terras raras: como a China superou toda a indústria de defesa ocidental</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/oklo-oklo-one-best-ai-203310219.html</guid>
       <pubDate>16/04/2026 05:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5fb608dfe08c42a4829b20fc9e55d283" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que torna a EQT Corporation (EQT) uma das melhores ações de energia de IA para comprar em 2026?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/makes-eqt-corporation-eqt-one-203144805.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/makes-eqt-corporation-eqt-one-203144805.html</guid>
-      <pubDate>16/04/2026 05:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bff0942a48c8ab7f0471c02863e21981" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
