@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 10:09:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 10:37:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: S&amp;P 500, Dow, Nasdaq sobem, com novos recordes em vista em meio a esperanças de uma...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-rise-with-fresh-records-in-view-amid-hopes-for-renewed-truce-230116738.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-sp-500-dow-nasdaq-rise-with-fresh-records-in-view-amid-hopes-for-renewed-truce-230116738.html</guid>
+      <pubDate>16/04/2026 10:37</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/35bee0e0-391e-11f1-9ecf-69a8cb7e34b3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BMO reitera classificação das ações da Diamondback Energy em forte posicionamento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/wells-fargo-reiterates-equal-weight-on-kaiser-aluminum-stock-93CH-4617880</guid>
       <pubDate>16/04/2026 08:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Crescem as esperanças de um acordo para acabar com a guerra no Irão, mas as questões nucleares não são...</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/hopes-for-middle-east-peace-grow-as-israel-discusses-lebanon-ceasefire-4617025</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/hopes-for-middle-east-peace-grow-as-israel-discusses-lebanon-ceasefire-4617025</guid>
-      <pubDate>16/04/2026 08:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3F055_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
