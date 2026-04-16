@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 20:30:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 20:40:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transforme a pressão sobre as ações da Tesla em um retorno com uma opção de venda garantida em dinheiro</title>
+      <description></description>
+      <link>https://www.investors.com/research/options/tesla-stock-tesla-ev-technology-options-trade-markets/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/options/tesla-stock-tesla-ev-technology-options-trade-markets/?src=A00220&yptr=yahoo</guid>
+      <pubDate>16/04/2026 20:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/b978deda5349b23dbd4e3bb021c10efa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE À medida que Michael Burry acrescenta às suas opções de venda da Nvidia, você deve comprar, vender ou manter...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-netflix-beats-q1-2026-eps-estimates-stock-dips-93CH-4619468</guid>
       <pubDate>16/04/2026 18:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE À medida que a turbulência da guerra no Irã continua, Wedbush diz que você deveria comprar ações da...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/iran-war-turbulence-continues-wedbush-133002308.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/iran-war-turbulence-continues-wedbush-133002308.html</guid>
-      <pubDate>16/04/2026 18:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d3b0735997823ab2c69af690f505d319" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
