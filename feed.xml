@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 05:33:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 05:43:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do JPMorgan Chase &amp; Co.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-q1-2026-204654501.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-q1-2026-204654501.html</guid>
+      <pubDate>16/04/2026 05:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/6d413dee674e9056b8009698f19e7d8b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bolsas sobem em busca de diplomacia para acabar com a guerra EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-monitors-private-credit-192321484.html</guid>
       <pubDate>16/04/2026 03:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/e0efc4edf4eddd8091e69df185fbf7ac" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O indicado do Fed, Kevin Warsh, detalha mais de US$ 100 milhões em participações financeiras</title>
-      <description></description>
-      <link>https://www.wsj.com/finance/investing/fed-nominee-kevin-warsh-discloses-vast-wealth-15896865?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/finance/investing/fed-nominee-kevin-warsh-discloses-vast-wealth-15896865?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>16/04/2026 03:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/583afe2e509a5255fedda4d79fd902c1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
