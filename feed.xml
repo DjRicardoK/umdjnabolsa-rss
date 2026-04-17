@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 23:29:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 23:47:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Coreia do Sul diz não ter conhecimento do protesto dos EUA contra comentários do ministro sobre instalação...</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/south-korea-says-not-aware-of-us-protest-over-ministers-remarks-on-north-korea-nuclear-site-4619689</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/south-korea-says-not-aware-of-us-protest-over-ministers-remarks-on-north-korea-nuclear-site-4619689</guid>
+      <pubDate>16/04/2026 23:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G03O_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações devem subir semanalmente, petróleo abaixo de US$ 100 com esperanças de acordo de paz</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/blackrock-gets-dual-price-target-153716793.html</guid>
       <pubDate>16/04/2026 20:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/96a91db4483c5673a667fbf6c4c4b0ec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os fundos de hedge estão vendendo a descoberto o dólar americano, então faça esta primeira negociação agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/hedge-funds-shorting-u-dollar-151923481.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/hedge-funds-shorting-u-dollar-151923481.html</guid>
-      <pubDate>16/04/2026 19:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/130a6c13039d6788e04853c43f4b42a0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
