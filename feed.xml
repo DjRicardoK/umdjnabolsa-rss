@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 14:20:55 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:22:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O aumento histórico nos estoques de chips destaca a avaliação da Micron e um aviso relacionado</title>
+      <description>O ETF iShares Semiconductor disparou 34% em meio a uma longa sequência de vitórias – seu melhor período de 13 dias em 24 anos.</description>
+      <link>https://www.marketwatch.com/story/the-historic-surge-in-chip-stocks-highlights-microns-valuation-and-a-related-warning-25b1c5f3?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-historic-surge-in-chip-stocks-highlights-microns-valuation-and-a-related-warning-25b1c5f3?mod=mw_rss_topstories</guid>
+      <pubDate>17/04/2026 14:22</pubDate>
+      <enclosure url="https://images.mktw.net/im-40268001" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE FMI diz que guerra no Médio Oriente aprofundará divisão económica na América Latina e Caraíbas</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/immunovant-stock-hits-52week-high-at-2926-usd-93CH-4621272</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/immunovant-stock-hits-52week-high-at-2926-usd-93CH-4621272</guid>
       <pubDate>17/04/2026 13:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Hewlett Packard Enterprise atingem o máximo histórico de 26,45 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/hewlett-packard-enterprise-stock-hits-alltime-high-at-2645-usd-93CH-4621270</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/hewlett-packard-enterprise-stock-hits-alltime-high-at-2645-usd-93CH-4621270</guid>
-      <pubDate>17/04/2026 13:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
