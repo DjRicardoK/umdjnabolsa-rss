@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 14:40:08 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:48:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro sobe pela quarta semana consecutiva; PPI fraco e dólar fraco superam o cessar-fogo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/gold-climbs-fourth-straight-week-173715651.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-climbs-fourth-straight-week-173715651.html</guid>
+      <pubDate>17/04/2026 14:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/gold_price_group_184/17a024aa6fce9e66530b2d4998f492a8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações de companhias aéreas e cruzeiros disparam, à medida que &apos;TACO&apos; dá lugar à &apos;confiança apenas em Trump&apos;</title>
       <description>As ações da United Airlines e da Royal Caribbean lideravam os ganhos do S&amp;P 500, à medida que os investidores “confiam em Trump” para alcançar a paz.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-wells-fargo-161414165.html</guid>
       <pubDate>17/04/2026 13:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3043336953bc189983a96fe150c48a8b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Quatro ações de biotecnologia perto de pontos de compra com o início da temporada de ganhos</title>
-      <description></description>
-      <link>https://www.investors.com/stock-lists/ibd-50/biotech-travere-tvtx-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/stock-lists/ibd-50/biotech-travere-tvtx-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>17/04/2026 13:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/13861da916aca5d6dbbe83a595409098" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
