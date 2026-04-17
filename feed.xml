@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 10:58:30 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 10:59:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Element Solutions atingem o máximo histórico de 38,5 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/element-solutions-stock-reaches-alltime-high-at-385-usd-93CH-4620484</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/element-solutions-stock-reaches-alltime-high-at-385-usd-93CH-4620484</guid>
+      <pubDate>17/04/2026 10:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Banco Central atingem máximo histórico de 25,58 USD</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/analyst-ratings/benchmark-reiterates-rank-one-computing-stock-rating-citing-geopolitical-opportunity-93CH-4620117</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/benchmark-reiterates-rank-one-computing-stock-rating-citing-geopolitical-opportunity-93CH-4620117</guid>
-      <pubDate>17/04/2026 08:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Benchmark reitera classificação de ações da Knight-Swift citando recuperação no 2S</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/benchmark-reiterates-knightswift-stock-rating-citing-2h-recovery-93CH-4620118</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/benchmark-reiterates-knightswift-stock-rating-citing-2h-recovery-93CH-4620118</guid>
       <pubDate>17/04/2026 08:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
