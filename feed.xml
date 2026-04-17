@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 02:32:22 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:33:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump diz que a guerra no Irã deve terminar “em breve”, ambos os lados podem se reunir no fim de semana</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/trump-says-iran-war-should-end-soon-both-sides-may-meet-at-weekend-4619715</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-says-iran-war-should-end-soon-both-sides-may-meet-at-weekend-4619715</guid>
+      <pubDate>17/04/2026 02:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G08A_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Snap corta 1.000 empregos, estoque aumenta 6%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-muted-with-iran-peace-in-focus-yen-weakens-as-boj-dents-rate-hike-bets-4619698</guid>
       <pubDate>17/04/2026 00:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE090L2_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Ásia caem, mas caminham para fortes ganhos semanais devido às esperanças de paz no Irã e ao...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-dip-but-head-for-sharp-weekly-gains-on-iran-peace-hopes-tech-boost-4619691</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-dip-but-head-for-sharp-weekly-gains-on-iran-peace-hopes-tech-boost-4619691</guid>
-      <pubDate>16/04/2026 23:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0B0BR_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
