@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 01:22:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 01:27:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do Morgan Stanley</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-q1-2026-earnings-164644989.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-q1-2026-earnings-164644989.html</guid>
+      <pubDate>17/04/2026 01:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/260bac434a7aacf4472aafaeea45ab35" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Chefe do BOJ evita sugestões de aumento das taxas em abril, destruindo apostas agressivas do mercado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/api-group-apg-shows-commitment-121221940.html</guid>
       <pubDate>16/04/2026 21:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f85df96daecd44a837721b81d25666c6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE AECOM (ACM) é uma das melhores ações de construção e engenharia para comprar, aqui está o porquê</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/aecom-acm-one-best-construction-121216344.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/aecom-acm-one-best-construction-121216344.html</guid>
-      <pubDate>16/04/2026 21:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/af6a34ab13aa2f2cfbaa201c133c31e1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
