@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 21:30:51 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 21:41:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE É tarde demais para comprar ações da Globalstar após o anúncio de aquisição da Amazon?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/too-buy-globalstar-stock-following-125202395.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/too-buy-globalstar-stock-following-125202395.html</guid>
+      <pubDate>16/04/2026 21:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e15592a796a0b27fd0dd0079655e8a69" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Elizabeth Warren adverte que o X Money de Elon Musk ameaça a &apos;estabilidade do sistema financeiro&apos;</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/citi-gets-triple-price-target-144536637.html</guid>
       <pubDate>16/04/2026 19:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/2eed3dd9e2f3234879dc2ae674cbb4fa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE AI Bull Brad Gerstner está comprando Amazon.com (AMZN) – Aqui está o porquê</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/ai-bull-brad-gerstner-buying-143534447.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ai-bull-brad-gerstner-buying-143534447.html</guid>
-      <pubDate>16/04/2026 19:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bf5db36a1da6774e5e796de67b414473" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
