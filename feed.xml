@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 11:07:14 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 11:21:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Aeon Co. vê lucros recordes apesar da perda de receita no quarto...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-aeon-co-sees-record-profits-despite-revenue-miss-in-q4-2025-93CH-4621010</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-aeon-co-sees-record-profits-despite-revenue-miss-in-q4-2025-93CH-4621010</guid>
+      <pubDate>17/04/2026 11:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE KeyBanc nomeia as melhores ações de mídia e banda larga após pesquisa com consumidores</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/inception-growth-acquisition-withdraws-nasdaq-listing-application-for-merger-93CH-4620179</guid>
       <pubDate>17/04/2026 09:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citizens aumenta meta de preço das ações da Pitney Bowes com aumento da taxa postal</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/citizens-raises-pitney-bowes-stock-price-target-on-postal-rate-hike-93CH-4620155</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-raises-pitney-bowes-stock-price-target-on-postal-rate-hike-93CH-4620155</guid>
-      <pubDate>17/04/2026 09:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
