@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 10:34:26 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 10:37:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reitera classificação das ações da Inhibrx Biosciences sobre potencial de medicamentos</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-inhibrx-biosciences-stock-rating-on-drug-potential-93CH-4620368</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-inhibrx-biosciences-stock-rating-on-drug-potential-93CH-4620368</guid>
+      <pubDate>17/04/2026 10:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A guerra do Irã aproxima os EUA do exportador líquido de petróleo pela primeira vez desde a Segunda Guerra...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/signs-point-to-a-solid-earnings-season-and-with-the-s-p-500-topping-7-000-you-should-believe-them-69cddf67?mod=mw_rss_topstories</guid>
       <pubDate>17/04/2026 08:57</pubDate>
       <enclosure url="https://images.mktw.net/im-14651819" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE FMI alerta sobre potencial recessão global em meio a altos preços do petróleo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/imf-warns-potential-global-recession-000000844.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/imf-warns-potential-global-recession-000000844.html</guid>
-      <pubDate>17/04/2026 08:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/oilprice.com/38b5dd020c1f15962815dcc73f040b93" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
