@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 10:38:05 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 10:42:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nisource atingem o máximo histórico de 48,81 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/nisource-stock-hits-alltime-high-at-4881-usd-93CH-4620420</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/nisource-stock-hits-alltime-high-at-4881-usd-93CH-4620420</guid>
+      <pubDate>17/04/2026 10:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Matson atingem o máximo histórico de 178,08 USD</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/jefferies-raises-cheniere-energy-stock-price-target-on-earnings-growth-outlook-93CH-4620119</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-raises-cheniere-energy-stock-price-target-on-earnings-growth-outlook-93CH-4620119</guid>
       <pubDate>17/04/2026 08:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Benchmark reitera classificação de ações Hold nas ações da Netflix</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/benchmark-reiterates-hold-stock-rating-on-netflix-shares-93CH-4620120</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/benchmark-reiterates-hold-stock-rating-on-netflix-shares-93CH-4620120</guid>
-      <pubDate>17/04/2026 08:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
