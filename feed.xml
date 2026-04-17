@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 09:30:07 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 09:57:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Rigetti (RGTI), Quantum Stocks sobe ‘dois dígitos’ com suporte da Nvidia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/rigetti-rgti-quantum-stocks-climb-010835750.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rigetti-rgti-quantum-stocks-climb-010835750.html</guid>
+      <pubDate>17/04/2026 09:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Diginex adquirirá Resulticks em acordo de US$ 1,5 bilhão com todas as ações na Nasdaq</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/hedge-fund-stock-buying-hits-86-billion-as-iran-peace-hopes-goldman-data-shows-4619971</guid>
       <pubDate>17/04/2026 07:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0LW_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Truist caem devido à queda nas receitas, apesar da queda nos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/truist-shares-edge-down-on-revenue-shortfall-despite-earnings-beat-93CH-4619973</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/truist-shares-edge-down-on-revenue-shortfall-despite-earnings-beat-93CH-4619973</guid>
-      <pubDate>17/04/2026 07:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
