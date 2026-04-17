@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:57:13 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:12:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Air Canada cortará quatro voos com destino a NY à medida que os preços dos combustíveis disparam devido ao...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/air-canada-to-cut-four-nybound-flights-as-fuel-prices-soar-due-to-iran-conflict-4621337</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/air-canada-to-cut-four-nybound-flights-as-fuel-prices-soar-due-to-iran-conflict-4621337</guid>
+      <pubDate>17/04/2026 14:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G14X_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Como 50 dias de guerra no Irão levaram à perda de 50 mil milhões de dólares em petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-british-stocks-slip-on-middle-east-uncertainty-pound-firm-4620207</guid>
       <pubDate>17/04/2026 13:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sobe 1.000 pontos na abertura do Hormuz; Tesla faz esse movimento de alta...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-netflix-stock-nflx-earnings/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-netflix-stock-nflx-earnings/?src=A00220&yptr=yahoo</guid>
-      <pubDate>17/04/2026 12:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/4f1fa106a49c603c17f0aadb20cc8971" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
