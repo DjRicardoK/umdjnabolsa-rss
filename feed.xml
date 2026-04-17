@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:34:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:36:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações do Grupo Api atingem o máximo histórico de 46,89 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/api-group-stock-hits-alltime-high-at-4689-usd-93CH-4621280</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/api-group-stock-hits-alltime-high-at-4689-usd-93CH-4621280</guid>
+      <pubDate>17/04/2026 13:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O Irão declarou o Estreito de Ormuz “completamente aberto”.</title>
       <description>Quase sete semanas após o início do conflito no Médio Oriente, o Irão anunciou na sexta-feira que uma passagem marítima crucial para o petróleo marítimo estava “completamente...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cognyte-software-cgnt-just-hinted-150953356.html</guid>
       <pubDate>17/04/2026 12:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/19250eea28a9859104e746a52f6fd1dc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que as ações da Tesla estão subindo novamente hoje?</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/why-is-tesla-stock-surging-again-today-93CH-4621161</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/why-is-tesla-stock-surging-again-today-93CH-4621161</guid>
-      <pubDate>17/04/2026 12:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
