@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:48:39 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:48:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações do Hope Bancorp atingem o máximo de 52 semanas em 12,79 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/hope-bancorp-stock-hits-52week-high-at-1279-usd-93CH-4621319</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/hope-bancorp-stock-hits-52week-high-at-1279-usd-93CH-4621319</guid>
+      <pubDate>17/04/2026 13:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da GE Vernova atingem o máximo histórico em 1.007,43 USD</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/company-news/formfactor-stock-hits-alltime-high-at-1360-usd-93CH-4621222</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/formfactor-stock-hits-alltime-high-at-1360-usd-93CH-4621222</guid>
-      <pubDate>17/04/2026 12:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do Peoples Bancorp atingem alta de 52 semanas a 34,98 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/peoples-bancorp-stock-hits-52week-high-at-3498-usd-93CH-4621223</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/peoples-bancorp-stock-hits-52week-high-at-3498-usd-93CH-4621223</guid>
       <pubDate>17/04/2026 12:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
