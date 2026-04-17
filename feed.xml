@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:03:31 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:14:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Eaton Corporation atingem o máximo histórico em 408,46 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/eaton-corporation-stock-hits-alltime-high-at-40846-usd-93CH-4621271</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/eaton-corporation-stock-hits-alltime-high-at-40846-usd-93CH-4621271</guid>
+      <pubDate>17/04/2026 13:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jefferies destaca ações do consumidor após reabertura de Hormuz</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-aeon-co-sees-record-profits-despite-revenue-miss-in-q4-2025-93CH-4621010</guid>
       <pubDate>17/04/2026 11:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE KeyBanc nomeia as melhores ações de mídia e banda larga após pesquisa com consumidores</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/keybanc-names-best-media-and-broadband-stocks-after-consumer-survey-93CH-4620961</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/keybanc-names-best-media-and-broadband-stocks-after-consumer-survey-93CH-4620961</guid>
-      <pubDate>17/04/2026 11:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/google_2_M_1440049078.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
