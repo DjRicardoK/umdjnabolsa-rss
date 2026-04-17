@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 17:11:53 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:11:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nasdaq Futures sobe enquanto TSMC aumenta o otimismo tecnológico</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-tsmc-boosts-103553137.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-tsmc-boosts-103553137.html</guid>
+      <pubDate>17/04/2026 17:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9a1ff5003151ccd77c6a21a4e3c76ded" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Michael Burry analisou mais de 1.000 relatórios e descobriu uma ‘ilusão de ganhos’ de US$ 1,7 trilhão...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/exclusive-eu-push-jet-fuel-170354948.html</guid>
       <pubDate>17/04/2026 14:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/d100baa68b348aa4b20482751fb03208" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O que vem a seguir para os investidores após a recuperação do mercado de ações?</title>
-      <description>Também em leituras de fim de semana: táticas de negociação de opções, ações de software e uma mudança de seguridade social conjugal.</description>
-      <link>https://www.marketwatch.com/story/whats-next-for-investors-after-the-stock-markets-rebound-bd5cce2d?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/whats-next-for-investors-after-the-stock-markets-rebound-bd5cce2d?mod=mw_rss_topstories</guid>
-      <pubDate>17/04/2026 14:12</pubDate>
-      <enclosure url="https://images.mktw.net/im-46760237" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
