@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:04:04 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:09:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do petróleo caem depois que Trump diz que a guerra com o Irã deve terminar “muito em breve”</title>
+      <description>O petróleo bruto West Texas Intermediate e Brent caiu depois que o presidente dos EUA, Donald Trump, disse que parece “muito bom” que uma trégua seja feita</description>
+      <link>https://www.marketwatch.com/story/oil-prices-dropping-after-trump-says-iran-war-should-end-pretty-soon-da53676a?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/oil-prices-dropping-after-trump-says-iran-war-should-end-pretty-soon-da53676a?mod=mw_rss_topstories</guid>
+      <pubDate>17/04/2026 07:09</pubDate>
+      <enclosure url="https://images.mktw.net/im-01183970" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As entradas de fundos de ações aumentam à medida que os riscos de guerra diminuem e os lucros otimistas...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/quantum-stocks-back-sector-rallying-190436590.html</guid>
       <pubDate>17/04/2026 04:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/schaeffers_investment_research_24/58b828692f56eb85644693dc479c8a8a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla recupera linha de 50 dias. É aqui que o estoque pode se tornar acionável.</title>
-      <description></description>
-      <link>https://www.investors.com/news/tesla-stock-up-today-sp-500-nasdaq/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/tesla-stock-up-today-sp-500-nasdaq/?src=A00220&yptr=yahoo</guid>
-      <pubDate>17/04/2026 04:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/5b754475b0418d83332511041a32bfe0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
