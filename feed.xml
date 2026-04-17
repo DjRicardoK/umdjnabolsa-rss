@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 04:11:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 04:18:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas do Japão caem no fechamento do pregão; Nikkei 225 caiu 1,57%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-157-4619748</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-157-4619748</guid>
+      <pubDate>17/04/2026 04:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB5N00I_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Quantum estão de volta? O setor está se recuperando</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/exclusive-two-sigma-d-e-171353888.html</guid>
       <pubDate>17/04/2026 02:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/55ede77469d8bc356a850f9da9a4b9ef" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Applied Materials (AMAT) é uma das 15 principais ações para comprar para uma carteira de aposentadoria...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-one-top-172826158.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-one-top-172826158.html</guid>
-      <pubDate>17/04/2026 02:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/207b5aad170b9e2a9fb492aaeaf0539a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
