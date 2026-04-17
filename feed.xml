@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 02:33:11 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:43:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Uma mudança tectônica na IA está em andamento e as ações da AMD não são mais um concorrente de ‘desconto’ da...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tectonic-shift-ai-underway-amd-180326285.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tectonic-shift-ai-underway-amd-180326285.html</guid>
+      <pubDate>17/04/2026 02:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/86e42503cb1997798849ac8549ff0a7f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Principais ações de saúde da China, de acordo com o Morgan Stanley</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-kweichow-moutai-shares-slip-on-soft-fy-earnings-4619699</guid>
       <pubDate>17/04/2026 00:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0C0UG_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A guerra no Irão aumenta os custos e estraga o ambiente na maior feira comercial da China</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/iran-war-drives-up-costs-spoils-the-mood-at-chinas-largest-trade-fair-4619700</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/iran-war-drives-up-costs-spoils-the-mood-at-chinas-largest-trade-fair-4619700</guid>
-      <pubDate>17/04/2026 00:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G04Z_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
