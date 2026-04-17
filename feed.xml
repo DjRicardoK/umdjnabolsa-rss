@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 15:07:43 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 15:08:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Waller, do Fed, diz que fim rápido da guerra pode manter vivas as esperanças de corte de juros</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/feds-waller-says-swift-war-end-could-keep-rate-cut-hopes-alive-4621395</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-waller-says-swift-war-end-could-keep-rate-cut-hopes-alive-4621395</guid>
+      <pubDate>17/04/2026 15:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G172_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Waller, do Fed, torna-se cauteloso em relação aos cortes nas taxas e alerta sobre um “aumento duradouro da...</title>
       <description>O governador da Reserva Federal, Chris Waller, disse que o aumento dos preços do petróleo ligado à guerra do Irão e os efeitos persistentes das tarifas dos EUA poderiam “levar a...</description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/national-bank-holdings-stock-hits-52week-high-at-430-usd-93CH-4621301</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/national-bank-holdings-stock-hits-52week-high-at-430-usd-93CH-4621301</guid>
       <pubDate>17/04/2026 13:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações do Grupo Api atingem o máximo histórico de 46,89 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/api-group-stock-hits-alltime-high-at-4689-usd-93CH-4621280</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/api-group-stock-hits-alltime-high-at-4689-usd-93CH-4621280</guid>
-      <pubDate>17/04/2026 13:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
