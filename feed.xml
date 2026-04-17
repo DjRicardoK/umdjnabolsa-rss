@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 05:07:39 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 05:16:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Cora Gold sobem após garantir financiamento contínuo de US$ 120 milhões</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cora-gold-stock-surges-after-securing-120m-stream-financing-4619783</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cora-gold-stock-surges-after-securing-120m-stream-financing-4619783</guid>
+      <pubDate>17/04/2026 05:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/gold_2_M_1440047838.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tomada Cinco: Guerra, guerra e piora das condições?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-expected-to-keep-benchmark-lending-rates-steady-after-strong-gdp-data-4619737</guid>
       <pubDate>17/04/2026 03:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0B1_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Cenovus Energy (CVE) é uma das ações obrigatórias dos EUA depois que a S&amp;P atualiza sua perspectiva?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/cenovus-energy-cve-one-must-182120049.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/cenovus-energy-cve-one-must-182120049.html</guid>
-      <pubDate>17/04/2026 03:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6bd622ad183dafda95b62f9a3dc1a5c8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
