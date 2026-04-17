@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 20:08:25 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 20:31:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street está otimista com a GE Aerospace antes dos resultados do primeiro trimestre - comprar ações da GE...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-ge-aerospace-162216284.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-ge-aerospace-162216284.html</guid>
+      <pubDate>17/04/2026 20:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/efc39ce5ecf13a70080c38a5251ad189" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas estão divididos sobre a Tesla antes dos lucros do primeiro trimestre, mas as ações da TSLA são...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/sow-good-implements-15to1-reverse-stock-split-to-meet-nasdaq-rules-93CH-4621803</guid>
       <pubDate>17/04/2026 18:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As apostas recordes dos fundos de hedge no Tesouro correm o risco de enviar uma ‘onda de choque’ através do...</title>
-      <description>Os investidores têm agora mais uma razão para estarem preocupados com o maior mercado de dívida do mundo.</description>
-      <link>https://www.marketwatch.com/story/hedge-funds-record-treasury-bets-risk-sending-a-shockwave-through-the-global-bond-market-apollo-says-cfe079ba?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/hedge-funds-record-treasury-bets-risk-sending-a-shockwave-through-the-global-bond-market-apollo-says-cfe079ba?mod=mw_rss_topstories</guid>
-      <pubDate>17/04/2026 18:15</pubDate>
-      <enclosure url="https://images.mktw.net/im-253452" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
