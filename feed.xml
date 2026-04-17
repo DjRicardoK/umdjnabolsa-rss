@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 20:42:02 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 20:42:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A desenvolvedora geotérmica Fervo Energy solicita IPO da Nasdaq à medida que as perdas aumentam</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/geothermal-developer-fervo-energy-files-for-nasdaq-ipo-as-losses-widen-4622042</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/geothermal-developer-fervo-energy-files-for-nasdaq-ipo-as-losses-widen-4622042</guid>
+      <pubDate>17/04/2026 20:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECA71EU_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldsmith, CEO da Revolution Medicines, vende US$ 18 milhões em ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/arxis-completes-13-billion-ipo-and-corporate-reorganization-on-nasdaq-93CH-4621866</guid>
       <pubDate>17/04/2026 18:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O CEO da Apple, Tim Cook, acaba de comprar mais 25.000 ações da Nike. Você também deve carregar o NKE?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-just-135634808.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-just-135634808.html</guid>
-      <pubDate>17/04/2026 18:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a4977b80534dae3398e391c09fa8763e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
