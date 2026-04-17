@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 05:17:06 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 06:09:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Opere comprado HUF/USD, diz BCA</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/go-long-hufusd-bca-says-93CH-4619815</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/go-long-hufusd-bca-says-93CH-4619815</guid>
+      <pubDate>17/04/2026 06:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1P09W_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ericsson perde as previsões do primeiro trimestre de 2026,...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/workspace-warns-of-fy27-profit-drop-resets-dividend-cover-4619733</guid>
       <pubDate>17/04/2026 03:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE7G0MD_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O núcleo da inflação do Japão provavelmente aumentou em março, alimentado pelos custos de energia: pesquisa...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/japans-core-inflation-likely-ticked-up-in-march-fuelled-by-energy-costs-reuters-poll-4619736</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japans-core-inflation-likely-ticked-up-in-march-fuelled-by-energy-costs-reuters-poll-4619736</guid>
-      <pubDate>17/04/2026 03:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0B5_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
