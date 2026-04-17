@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:03:25 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:03:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jefferies destaca ações do consumidor após reabertura de Hormuz</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/jefferies-highlights-consumer-stocks-after-hormuz-reopening-93CH-4621226</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/jefferies-highlights-consumer-stocks-after-hormuz-reopening-93CH-4621226</guid>
+      <pubDate>17/04/2026 13:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Estresse geopolítico ainda não refletido nos lucros dos bancos da zona do euro, diz supervisor</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/keybanc-names-best-media-and-broadband-stocks-after-consumer-survey-93CH-4620961</guid>
       <pubDate>17/04/2026 11:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/google_2_M_1440049078.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Seven &amp; i Holdings Q4 2025 supera as expectativas de EPS</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-seven--i-holdings-q4-2025-beats-eps-expectations-93CH-4620970</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-seven--i-holdings-q4-2025-beats-eps-expectations-93CH-4620970</guid>
-      <pubDate>17/04/2026 11:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
