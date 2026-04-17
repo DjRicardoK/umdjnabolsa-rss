@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:32:59 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:33:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer discute Wells Fargo enquanto destaca desconto de avaliação para ações de grandes bancos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-wells-fargo-161414165.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-wells-fargo-161414165.html</guid>
+      <pubDate>17/04/2026 13:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3043336953bc189983a96fe150c48a8b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Quatro ações de biotecnologia perto de pontos de compra com o início da temporada de ganhos</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/marvell-technology-stock-hits-alltime-high-of-13826-usd-93CH-4621163</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/marvell-technology-stock-hits-alltime-high-of-13826-usd-93CH-4621163</guid>
       <pubDate>17/04/2026 12:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Regions Financial Q1 2026 supera previsão de EPS, ações sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-regions-financial-q1-2026-beats-eps-forecast-stock-rises-93CH-4621141</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-regions-financial-q1-2026-beats-eps-forecast-stock-rises-93CH-4621141</guid>
-      <pubDate>17/04/2026 12:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
