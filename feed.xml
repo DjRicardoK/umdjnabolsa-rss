@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:36:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:45:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações do National Bank Holdings atingem alta de 52 semanas em 43,0 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/national-bank-holdings-stock-hits-52week-high-at-430-usd-93CH-4621301</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/national-bank-holdings-stock-hits-52week-high-at-430-usd-93CH-4621301</guid>
+      <pubDate>17/04/2026 13:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações do Grupo Api atingem o máximo histórico de 46,89 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/china-deepseek-raising-funds-10-145318333.html</guid>
       <pubDate>17/04/2026 12:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/445744d841f464b415667fa410d952ea" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Cognyte Software (CGNT) acaba de sugerir algo maior para 2028</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/cognyte-software-cgnt-just-hinted-150953356.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cognyte-software-cgnt-just-hinted-150953356.html</guid>
-      <pubDate>17/04/2026 12:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/19250eea28a9859104e746a52f6fd1dc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
