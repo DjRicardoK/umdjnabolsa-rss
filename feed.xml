@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 19:35:53 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 19:41:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Aviso de ações da Microsoft: por que os analistas da Piper Sandler reduziram sua meta de preço da MSFT em...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-warning-why-piper-152403647.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-warning-why-piper-152403647.html</guid>
+      <pubDate>17/04/2026 19:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/33c5d3ff84b8329590939225add2955c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE (BKE) está entre as melhores ações de vestuário para comprar em 2026?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/wm-technology-reports-q1-revenue-plans-nasdaq-delisting-93CH-4621616</guid>
       <pubDate>17/04/2026 17:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Nasdaq Futures sobe enquanto TSMC aumenta o otimismo tecnológico</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-tsmc-boosts-103553137.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-tsmc-boosts-103553137.html</guid>
-      <pubDate>17/04/2026 17:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9a1ff5003151ccd77c6a21a4e3c76ded" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
