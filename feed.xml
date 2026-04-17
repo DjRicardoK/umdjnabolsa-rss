@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 03:33:18 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 03:38:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cora Gold garante financiamento de US$ 120 milhões para projeto de ouro no Mali</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cora-gold-secures-120m-stream-financing-for-mali-gold-project-93CH-4619738</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cora-gold-secures-120m-stream-financing-for-mali-gold-project-93CH-4619738</guid>
+      <pubDate>17/04/2026 03:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Workspace alerta sobre queda nos lucros do ano fiscal de 27 e redefine cobertura de dividendos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/first-horizon-corporation-q1-2026-164651197.html</guid>
       <pubDate>17/04/2026 01:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/43ec8e28b861a94f80d99f69263d9915" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do M&amp;T Bank Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/m-t-bank-corporation-q1-164637698.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/m-t-bank-corporation-q1-164637698.html</guid>
-      <pubDate>17/04/2026 01:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/921c410706a4a49f0447d3f37da1b3e7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
