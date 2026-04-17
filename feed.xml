@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 02:33:04 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:33:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Principais ações de saúde da China, de acordo com o Morgan Stanley</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/top-china-healthcare-stocks-according-to-morgan-stanley-93CH-4619718</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-china-healthcare-stocks-according-to-morgan-stanley-93CH-4619718</guid>
+      <pubDate>17/04/2026 02:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB170IO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump diz que a guerra no Irã deve terminar “em breve”, ambos os lados podem se reunir no fim de semana</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/iran-war-drives-up-costs-spoils-the-mood-at-chinas-largest-trade-fair-4619700</guid>
       <pubDate>17/04/2026 00:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G04Z_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Asia FX silenciado com a paz no Irã em foco; Iene enfraquece enquanto Banco do Japão prejudica apostas de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/asia-fx-muted-with-iran-peace-in-focus-yen-weakens-as-boj-dents-rate-hike-bets-4619698</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-muted-with-iran-peace-in-focus-yen-weakens-as-boj-dents-rate-hike-bets-4619698</guid>
-      <pubDate>17/04/2026 00:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE090L2_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
