@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 14:12:20 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:12:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O que vem a seguir para os investidores após a recuperação do mercado de ações?</title>
+      <description>Também em leituras de fim de semana: táticas de negociação de opções, ações de software e uma mudança de seguridade social conjugal.</description>
+      <link>https://www.marketwatch.com/story/whats-next-for-investors-after-the-stock-markets-rebound-bd5cce2d?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/whats-next-for-investors-after-the-stock-markets-rebound-bd5cce2d?mod=mw_rss_topstories</guid>
+      <pubDate>17/04/2026 14:12</pubDate>
+      <enclosure url="https://images.mktw.net/im-46760237" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Exclusivo da UE pressionará pela diversificação do combustível de aviação enquanto a guerra no Irã ameaça o...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/jefferies-highlights-consumer-stocks-after-hormuz-reopening-93CH-4621226</guid>
       <pubDate>17/04/2026 13:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Estresse geopolítico ainda não refletido nos lucros dos bancos da zona do euro, diz supervisor</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/geopolitical-stress-not-yet-reflected-in-euro-zone-bank-earnings-supervisor-says-4621227</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/geopolitical-stress-not-yet-reflected-in-euro-zone-bank-earnings-supervisor-says-4621227</guid>
-      <pubDate>17/04/2026 13:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_2_M_1440048332.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
