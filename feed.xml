@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 00:30:45 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 00:55:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A guerra no Irão aumenta os custos e estraga o ambiente na maior feira comercial da China</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/iran-war-drives-up-costs-spoils-the-mood-at-chinas-largest-trade-fair-4619700</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/iran-war-drives-up-costs-spoils-the-mood-at-chinas-largest-trade-fair-4619700</guid>
+      <pubDate>17/04/2026 00:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G04Z_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Asia FX silenciado com a paz no Irã em foco; Iene enfraquece enquanto Banco do Japão prejudica apostas de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/bancfirst-earnings-beat-by-010-revenue-topped-estimates-4619631</guid>
       <pubDate>16/04/2026 21:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transforme a pressão sobre as ações da Tesla em um retorno com uma opção de venda garantida em dinheiro</title>
-      <description></description>
-      <link>https://www.investors.com/research/options/tesla-stock-tesla-ev-technology-options-trade-markets/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/options/tesla-stock-tesla-ev-technology-options-trade-markets/?src=A00220&yptr=yahoo</guid>
-      <pubDate>16/04/2026 20:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/b978deda5349b23dbd4e3bb021c10efa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
