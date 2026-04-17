@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 01:48:06 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 01:54:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Honda planeja fechamento de fábrica de JV na China, relata Reuters</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/honda-plans-jv-plant-closures-in-china-reuters-reports-4619708</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/honda-plans-jv-plant-closures-in-china-reuters-reports-4619708</guid>
+      <pubDate>17/04/2026 01:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8G03M_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2026 da Vince Holding Corp.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-set-for-second-weekly-loss-on-iran-war-peace-hopes-4619682</guid>
       <pubDate>16/04/2026 23:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G02B_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Países discutirão missão Ormuz para quando o conflito terminar</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/countries-to-discuss-hormuz-mission-for-when-conflict-ends-4619683</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/countries-to-discuss-hormuz-mission-for-when-conflict-ends-4619683</guid>
-      <pubDate>16/04/2026 23:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G025_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
