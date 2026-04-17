@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 05:04:15 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 05:07:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Tomada Cinco: Guerra, guerra e piora das condições?</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/take-five-warsh-war-and-worsening-conditions-4619777</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/take-five-warsh-war-and-worsening-conditions-4619777</guid>
+      <pubDate>17/04/2026 05:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0F0_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As esperanças de paz EUA-Irã levam o S&amp;P 500 e o Nasdaq 100 a máximos recordes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/cenovus-energy-cve-one-must-182120049.html</guid>
       <pubDate>17/04/2026 03:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6bd622ad183dafda95b62f9a3dc1a5c8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE China volta as vozes de Taiwan contra ela na guerra de informação</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/china-turns-taiwans-own-voices-against-it-in-information-war-4619729</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-turns-taiwans-own-voices-against-it-in-information-war-4619729</guid>
-      <pubDate>17/04/2026 03:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0A2_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
