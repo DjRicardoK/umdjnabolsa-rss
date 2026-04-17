@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:17:36 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:31:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Semrush Holdings atingem alta de 52 semanas a 11,98 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/semrush-holdings-stock-hits-52week-high-at-1198-usd-93CH-4621284</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/semrush-holdings-stock-hits-52week-high-at-1198-usd-93CH-4621284</guid>
+      <pubDate>17/04/2026 13:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Imunovant atingem alta de 52 semanas a 29,26 USD</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/bgc-group-stock-hits-52week-high-at-118-usd-93CH-4621058</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/bgc-group-stock-hits-52week-high-at-118-usd-93CH-4621058</guid>
       <pubDate>17/04/2026 11:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do Banco Latinoamericano atingem alta de 52 semanas a 56,51 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/banco-latinoamericano-stock-hits-52week-high-at-5651-usd-93CH-4621008</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/banco-latinoamericano-stock-hits-52week-high-at-5651-usd-93CH-4621008</guid>
-      <pubDate>17/04/2026 11:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
