@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 23:09:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 23:23:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Comentário: FedEx e UPS precisam subir na cadeia alimentar do comércio eletrônico</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/commentary-fedex-ups-move-e-141751961.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/commentary-fedex-ups-move-e-141751961.html</guid>
+      <pubDate>16/04/2026 23:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/freightwaves_373/c4ba31d1d5bd7180d969c69c50946b66" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dólar deve ter segunda perda semanal devido às esperanças de paz na guerra com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/vince-vnce-q4-2025-earnings-151601733.html</guid>
       <pubDate>16/04/2026 19:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Microsoft registram seu melhor trecho de quatro dias em seis anos – com uma recuperação extrema</title>
-      <description>A extensão dos recentes ganhos das ações da Microsoft, em relação ao preço que o mercado de opções estava precificando, é algo que “só deveria acontecer cerca de uma em cada cem...</description>
-      <link>https://www.marketwatch.com/story/microsofts-stock-sees-its-best-four-day-stretch-in-six-years-with-an-extreme-bounce-3eb834d6?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/microsofts-stock-sees-its-best-four-day-stretch-in-six-years-with-an-extreme-bounce-3eb834d6?mod=mw_rss_topstories</guid>
-      <pubDate>16/04/2026 19:48</pubDate>
-      <enclosure url="https://images.mktw.net/im-80629527" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
