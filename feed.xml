@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 19:46:09 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 20:01:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Grupo de vigilância processa USDA por registros de segurança alimentar relacionados ao desastre de trem em...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/watchdog-group-sues-usda-over-food-safety-records-related-to-ohio-train-disaster-4622011</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/watchdog-group-sues-usda-over-food-safety-records-related-to-ohio-train-disaster-4622011</guid>
+      <pubDate>17/04/2026 20:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G1EP_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações sobem com a recuperação dos fabricantes de chips</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/2-undervalued-ai-stocks-could-113002714.html</guid>
       <pubDate>17/04/2026 18:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/68e703c3a7ceec6923cfa4542a9ce88b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer observa “O grande desastre da Amazon, seja lá o que fosse, não aconteceu”</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-big-disaster-133525384.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-big-disaster-133525384.html</guid>
-      <pubDate>17/04/2026 18:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/990b7edf68d640b729ce75bb5a0624ac" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
