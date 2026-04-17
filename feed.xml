@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:14:06 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:14:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Hewlett Packard Enterprise atingem o máximo histórico de 26,45 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/hewlett-packard-enterprise-stock-hits-alltime-high-at-2645-usd-93CH-4621270</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/hewlett-packard-enterprise-stock-hits-alltime-high-at-2645-usd-93CH-4621270</guid>
+      <pubDate>17/04/2026 13:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Eaton Corporation atingem o máximo histórico em 408,46 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/reopened-strait-of-hormuz-and-falling-oil-prices-may-recast-feds-options-for-future-cuts-4620995</guid>
       <pubDate>17/04/2026 11:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0W9_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Aeon Co. vê lucros recordes apesar da perda de receita no quarto...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-aeon-co-sees-record-profits-despite-revenue-miss-in-q4-2025-93CH-4621010</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-aeon-co-sees-record-profits-despite-revenue-miss-in-q4-2025-93CH-4621010</guid>
-      <pubDate>17/04/2026 11:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
