@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 16:20:07 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 16:20:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Microsoft Corporation (MSFT) expande presença de IA e data center</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/microsoft-corporation-msft-expands-ai-092651648.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/microsoft-corporation-msft-expands-ai-092651648.html</guid>
+      <pubDate>17/04/2026 16:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/23914345699024b9148da17e9290f04c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE American Resources recupera conformidade com regra de listagem da Nasdaq</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/ge-vernova-stock-hits-alltime-high-at-100743-usd-93CH-4621320</guid>
       <pubDate>17/04/2026 13:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Warsh pode ter ideias para o Fed, mas a economia pode exigir algo diferente, diz Daly</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/warsh-may-have-ideas-for-fed-but-economy-may-require-something-different-daly-says-4621298</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/warsh-may-have-ideas-for-fed-but-economy-may-require-something-different-daly-says-4621298</guid>
-      <pubDate>17/04/2026 13:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G134_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
