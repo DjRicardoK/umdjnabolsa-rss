@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 12:21:24 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 12:38:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Arcos Dorados atingem alta de 52 semanas a 8,98 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/arcos-dorados-stock-hits-52week-high-at-898-usd-93CH-4621203</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/arcos-dorados-stock-hits-52week-high-at-898-usd-93CH-4621203</guid>
+      <pubDate>17/04/2026 12:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE DeepSeek da China está levantando fundos com avaliação de US$ 10 bilhões, relata The Information</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-inhibrx-biosciences-stock-rating-on-drug-potential-93CH-4620368</guid>
       <pubDate>17/04/2026 10:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A guerra do Irã aproxima os EUA do exportador líquido de petróleo pela primeira vez desde a Segunda Guerra...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/iran-war-brings-us-close-023327078.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/iran-war-brings-us-close-023327078.html</guid>
-      <pubDate>17/04/2026 10:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/ef1a575f9f9cb9d7713df1f8e51b51bf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
