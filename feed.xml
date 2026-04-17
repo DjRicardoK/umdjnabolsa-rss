@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 12:18:21 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 12:18:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que as ações da Tesla estão subindo novamente hoje?</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/why-is-tesla-stock-surging-again-today-93CH-4621161</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/why-is-tesla-stock-surging-again-today-93CH-4621161</guid>
+      <pubDate>17/04/2026 12:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Marvell Technology atingem o máximo histórico de 138,26 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-soars-21-nvidia-012510417.html</guid>
       <pubDate>17/04/2026 10:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b1f74494dbd673685fd6854c90790287" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE RBC Capital reitera classificação das ações da Ally Financial com resultados sólidos do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-ally-financial-stock-rating-on-solid-q1-results-93CH-4620336</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rbc-capital-reiterates-ally-financial-stock-rating-on-solid-q1-results-93CH-4620336</guid>
-      <pubDate>17/04/2026 10:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
