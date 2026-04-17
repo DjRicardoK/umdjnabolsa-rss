@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 05:16:59 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 05:17:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ericsson perde as previsões do primeiro trimestre de 2026,...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ericsson-misses-q1-2026-forecasts-shares-dip-93CH-4619782</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ericsson-misses-q1-2026-forecasts-shares-dip-93CH-4619782</guid>
+      <pubDate>17/04/2026 05:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da Cora Gold sobem após garantir financiamento contínuo de US$ 120 milhões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/japans-core-inflation-likely-ticked-up-in-march-fuelled-by-energy-costs-reuters-poll-4619736</guid>
       <pubDate>17/04/2026 03:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0B5_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE China espera manter taxas de juros de referência estáveis ​​após fortes dados do PIB</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/china-expected-to-keep-benchmark-lending-rates-steady-after-strong-gdp-data-4619737</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-expected-to-keep-benchmark-lending-rates-steady-after-strong-gdp-data-4619737</guid>
-      <pubDate>17/04/2026 03:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0B1_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
