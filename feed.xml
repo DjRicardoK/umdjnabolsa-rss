@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 01:38:35 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 01:38:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da First Horizon Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/first-horizon-corporation-q1-2026-164651197.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/first-horizon-corporation-q1-2026-164651197.html</guid>
+      <pubDate>17/04/2026 01:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/43ec8e28b861a94f80d99f69263d9915" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do M&amp;T Bank Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-seeks-taiwan-chip-engineers-for-terafab-project-4619675</guid>
       <pubDate>16/04/2026 22:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G01W_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de lucros da Fair Isaac Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-fair-isaac-corporations-130244026.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-fair-isaac-corporations-130244026.html</guid>
-      <pubDate>16/04/2026 22:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2d0c4f324e232feb6afcf843fc2554ef" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
