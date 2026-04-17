@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 20:31:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 20:42:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldsmith, CEO da Revolution Medicines, vende US$ 18 milhões em ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/insider-trading-news/revolution-medicines-ceo-goldsmith-sells-18-million-in-shares-93CH-4622044</link>
+      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/revolution-medicines-ceo-goldsmith-sells-18-million-in-shares-93CH-4622044</guid>
+      <pubDate>17/04/2026 20:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street está otimista com a GE Aerospace antes dos resultados do primeiro trimestre - comprar ações da GE...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-just-135634808.html</guid>
       <pubDate>17/04/2026 18:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/a4977b80534dae3398e391c09fa8763e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Sow Good implementa grupamento reverso de ações de 15 para 1 para atender às regras da Nasdaq</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/sow-good-implements-15to1-reverse-stock-split-to-meet-nasdaq-rules-93CH-4621803</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/sow-good-implements-15to1-reverse-stock-split-to-meet-nasdaq-rules-93CH-4621803</guid>
-      <pubDate>17/04/2026 18:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
