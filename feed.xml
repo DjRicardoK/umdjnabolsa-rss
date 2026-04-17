@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 21:41:13 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 21:51:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os números da SpaceX apontam para o Starlink como a galinha dos ovos de ouro por trás do aumento da receita</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/spacex-numbers-point-starlink-golden-124757617.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/spacex-numbers-point-starlink-golden-124757617.html</guid>
+      <pubDate>16/04/2026 21:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/tipranks_452/6f3ddaf0015bb31b1d2bd1eaba5dca80" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE É tarde demais para comprar ações da Globalstar após o anúncio de aquisição da Amazon?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-little-changed-awaiting-news-143811505.html</guid>
       <pubDate>16/04/2026 19:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/509023aecba52a4b6f4cb6cc61e4a34e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citi obtém aumento triplo de preço-alvo do Goldman Sachs, Truist e Wells Fargo: essas são as ações do banco...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/citi-gets-triple-price-target-144536637.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/citi-gets-triple-price-target-144536637.html</guid>
-      <pubDate>16/04/2026 19:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/2eed3dd9e2f3234879dc2ae674cbb4fa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
