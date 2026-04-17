@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 08:57:16 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 08:59:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Benchmark reitera classificação de ações Hold nas ações da Netflix</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/benchmark-reiterates-hold-stock-rating-on-netflix-shares-93CH-4620120</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/benchmark-reiterates-hold-stock-rating-on-netflix-shares-93CH-4620120</guid>
+      <pubDate>17/04/2026 08:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O ativo mais estável do mundo está perdendo controle – deixando seu salário e sua aposentadoria vulneráveis...</title>
       <description>Os títulos do Tesouro não são mais portos seguros garantidos – e seu poder de compra está em jogo.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/go-long-hufusd-bca-says-93CH-4619815</guid>
       <pubDate>17/04/2026 06:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1P09W_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ericsson perde as previsões do primeiro trimestre de 2026,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ericsson-misses-q1-2026-forecasts-shares-dip-93CH-4619782</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ericsson-misses-q1-2026-forecasts-shares-dip-93CH-4619782</guid>
-      <pubDate>17/04/2026 05:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
