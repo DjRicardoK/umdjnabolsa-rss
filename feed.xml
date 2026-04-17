@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 16:43:35 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:02:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Xi Jinping alerta que o mundo está “desmoronando” à medida que o bloqueio “perigoso” dos EUA atinge os...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/xi-jinping-warns-world-crumbling-101100558.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/xi-jinping-warns-world-crumbling-101100558.html</guid>
+      <pubDate>17/04/2026 17:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/5520ac8c4a9131079c405b1ed2c40335" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores taxas de contas do mercado monetário hoje, 16 de abril de 2026 (ganhe até 4,01% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/air-canada-to-cut-four-nybound-flights-as-fuel-prices-soar-due-to-iran-conflict-4621337</guid>
       <pubDate>17/04/2026 14:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G14X_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Como 50 dias de guerra no Irão levaram à perda de 50 mil milhões de dólares em petróleo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/50-days-iran-war-led-164733438.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/50-days-iran-war-led-164733438.html</guid>
-      <pubDate>17/04/2026 13:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/036d62542fb459409a6ae1db99d9e4f2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
