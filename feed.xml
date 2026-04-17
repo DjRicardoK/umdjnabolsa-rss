@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 02:14:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:15:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE FMI espera que BCE aumente taxas em meio ponto percentual em 2026</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/imf-expects-ecb-to-raise-rates-by-half-a-percentage-point-in-2026-4619711</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/imf-expects-ecb-to-raise-rates-by-half-a-percentage-point-in-2026-4619711</guid>
+      <pubDate>17/04/2026 02:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G07I_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Walmart (WMT) – Entre o portfólio de aposentadoria antecipada: as 15 principais ações para comprar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/south-korea-says-not-aware-of-us-protest-over-ministers-remarks-on-north-korea-nuclear-site-4619689</guid>
       <pubDate>16/04/2026 23:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G03O_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações devem subir semanalmente, petróleo abaixo de US$ 100 com esperanças de acordo de paz</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/stocks-set-for-weekly-gain-oil-below-100-on-peace-deal-hopes-4619687</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-set-for-weekly-gain-oil-below-100-on-peace-deal-hopes-4619687</guid>
-      <pubDate>16/04/2026 23:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G02R_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
