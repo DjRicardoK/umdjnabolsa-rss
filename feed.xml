@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 23:09:30 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 23:09:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar deve ter segunda perda semanal devido às esperanças de paz na guerra com o Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/dollar-set-for-second-weekly-loss-on-iran-war-peace-hopes-4619682</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-set-for-second-weekly-loss-on-iran-war-peace-hopes-4619682</guid>
+      <pubDate>16/04/2026 23:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G02B_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Países discutirão missão Ormuz para quando o conflito terminar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/microsofts-stock-sees-its-best-four-day-stretch-in-six-years-with-an-extreme-bounce-3eb834d6?mod=mw_rss_topstories</guid>
       <pubDate>16/04/2026 19:48</pubDate>
       <enclosure url="https://images.mktw.net/im-80629527" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla acaba de obter uma vitória no FSD na Europa. O que isso significa para as ações da TSLA?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-just-scored-fsd-win-145832425.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-just-scored-fsd-win-145832425.html</guid>
-      <pubDate>16/04/2026 19:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/393ce00a7c473fbc123fc0a1aff59c80" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
