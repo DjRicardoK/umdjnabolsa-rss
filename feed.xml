@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 13:03:18 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:03:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Estresse geopolítico ainda não refletido nos lucros dos bancos da zona do euro, diz supervisor</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/geopolitical-stress-not-yet-reflected-in-euro-zone-bank-earnings-supervisor-says-4621227</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/geopolitical-stress-not-yet-reflected-in-euro-zone-bank-earnings-supervisor-says-4621227</guid>
+      <pubDate>17/04/2026 13:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_2_M_1440048332.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE FTSE 100 hoje: Ações sobem enquanto o Irã diz que o Estreito de Ormuz está temporariamente aberto</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-seven--i-holdings-q4-2025-beats-eps-expectations-93CH-4620970</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-seven--i-holdings-q4-2025-beats-eps-expectations-93CH-4620970</guid>
       <pubDate>17/04/2026 11:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Aura Minerals atingem o máximo histórico de 109,33 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/aura-minerals-stock-hits-alltime-high-of-10933-usd-93CH-4620483</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/aura-minerals-stock-hits-alltime-high-of-10933-usd-93CH-4620483</guid>
-      <pubDate>17/04/2026 10:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
