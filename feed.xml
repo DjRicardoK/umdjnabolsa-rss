@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 14:48:25 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:49:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O risco comercial de ações da Apple em torno dos ganhos oferece uma recompensa de 27%</title>
+      <description></description>
+      <link>https://www.investors.com/research/options/apple-stock-aapl-trade-options-earnings-volatiity-markets/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/options/apple-stock-aapl-trade-options-earnings-volatiity-markets/?src=A00220&yptr=yahoo</guid>
+      <pubDate>17/04/2026 14:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/4e12c54846e9015a11d69fb6cbe86acc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ouro sobe pela quarta semana consecutiva; PPI fraco e dólar fraco superam o cessar-fogo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/iran-has-declared-the-strait-of-hormuz-completely-open-heres-what-that-really-means-ed234299?mod=mw_rss_topstories</guid>
       <pubDate>17/04/2026 13:34</pubDate>
       <enclosure url="https://images.mktw.net/im-84411460" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer discute Wells Fargo enquanto destaca desconto de avaliação para ações de grandes bancos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-wells-fargo-161414165.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-wells-fargo-161414165.html</guid>
-      <pubDate>17/04/2026 13:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3043336953bc189983a96fe150c48a8b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
