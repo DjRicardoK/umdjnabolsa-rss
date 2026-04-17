@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 18:15:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 18:20:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Sow Good implementa grupamento reverso de ações de 15 para 1 para atender às regras da Nasdaq</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/sow-good-implements-15to1-reverse-stock-split-to-meet-nasdaq-rules-93CH-4621803</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/sow-good-implements-15to1-reverse-stock-split-to-meet-nasdaq-rules-93CH-4621803</guid>
+      <pubDate>17/04/2026 18:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As apostas recordes dos fundos de hedge no Tesouro correm o risco de enviar uma ‘onda de choque’ através do...</title>
       <description>Os investidores têm agora mais uma razão para estarem preocupados com o maior mercado de dívida do mundo.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/options/apple-stock-aapl-trade-options-earnings-volatiity-markets/?src=A00220&yptr=yahoo</guid>
       <pubDate>17/04/2026 14:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/4e12c54846e9015a11d69fb6cbe86acc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro sobe pela quarta semana consecutiva; PPI fraco e dólar fraco superam o cessar-fogo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/gold-climbs-fourth-straight-week-173715651.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-climbs-fourth-straight-week-173715651.html</guid>
-      <pubDate>17/04/2026 14:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/gold_price_group_184/17a024aa6fce9e66530b2d4998f492a8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
