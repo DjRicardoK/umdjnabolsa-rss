@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 09:08:33 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 09:17:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inception Growth Acquisition retira pedido de listagem da Nasdaq para fusão</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/inception-growth-acquisition-withdraws-nasdaq-listing-application-for-merger-93CH-4620179</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/inception-growth-acquisition-withdraws-nasdaq-listing-application-for-merger-93CH-4620179</guid>
+      <pubDate>17/04/2026 09:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Citizens aumenta meta de preço das ações da Pitney Bowes com aumento da taxa postal</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-jinkosolar-stock-sell-rating-on-margin-pressure-93CH-4619944</guid>
       <pubDate>17/04/2026 07:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O setor financeiro das regiões supera os lucros, mas perde as receitas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/regions-financial-beats-earnings-but-misses-on-revenue-93CH-4619927</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/regions-financial-beats-earnings-but-misses-on-revenue-93CH-4619927</guid>
-      <pubDate>17/04/2026 07:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
