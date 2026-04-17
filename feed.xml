@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 18:45:03 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 18:45:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A rival da Nvidia, Cerebras, está dando outra tacada em um IPO</title>
+      <description>A empresa de chips de IA entrou com pedido de abertura de capital pela última vez no final de 2024, antes de abandonar seus planos.</description>
+      <link>https://www.marketwatch.com/story/nvidia-rival-cerebras-is-taking-another-swing-at-an-ipo-057f4deb?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidia-rival-cerebras-is-taking-another-swing-at-an-ipo-057f4deb?mod=mw_rss_topstories</guid>
+      <pubDate>17/04/2026 18:45</pubDate>
+      <enclosure url="https://images.mktw.net/im-09861778" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações pressionadas pela fraqueza dos fabricantes de chips</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/american-resources-regains-compliance-with-nasdaq-listing-rule-93CH-4621462</guid>
       <pubDate>17/04/2026 16:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Nasdaq caminha em direção à sua mais longa sequência de vitórias desde 1992, à medida que a histórica...</title>
-      <description>Uma recuperação que já catapultou as ações para cima com uma velocidade raramente vista antes, continuou a ganhar velocidade na sexta-feira.</description>
-      <link>https://www.marketwatch.com/story/nasdaq-heads-toward-its-longest-winning-streak-since-1992-as-historic-stock-market-comeback-continues-e84c2c59?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/nasdaq-heads-toward-its-longest-winning-streak-since-1992-as-historic-stock-market-comeback-continues-e84c2c59?mod=mw_rss_topstories</guid>
-      <pubDate>17/04/2026 16:19</pubDate>
-      <enclosure url="https://images.mktw.net/im-01673873" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
