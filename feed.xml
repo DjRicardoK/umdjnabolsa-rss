@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:45:35 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:45:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Compra de ações de fundos de hedge atinge US$ 86 bilhões, com esperanças de paz no Irã, mostram dados do...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/hedge-fund-stock-buying-hits-86-billion-as-iran-peace-hopes-goldman-data-shows-4619971</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/hedge-fund-stock-buying-hits-86-billion-as-iran-peace-hopes-goldman-data-shows-4619971</guid>
+      <pubDate>17/04/2026 07:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0LW_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Truist caem devido à queda nas receitas, apesar da queda nos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/foreign-investors-grow-more-wary-of-india-as-fx-curbs-hit-bonds-earnings-risks-haunt-equities-4619754</guid>
       <pubDate>17/04/2026 04:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E0CM_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ford faz recall de cerca de 1,4 milhão de veículos por problema de software, diz NHTSA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ford-recalls-about-14-million-vehicles-over-software-issue-nhtsa-says-4619755</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ford-recalls-about-14-million-vehicles-over-software-issue-nhtsa-says-4619755</guid>
-      <pubDate>17/04/2026 04:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0DA_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
