@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 03:54:11 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 03:54:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ganhos da ASML mostram que o verdadeiro mecanismo da IA ​​ainda é hardware</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/asml-earnings-show-ai-real-190019235.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/asml-earnings-show-ai-real-190019235.html</guid>
+      <pubDate>17/04/2026 03:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/2aafd6ce7ed5f5439ff5eff5f48bbf09" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tesla ainda é um ‘líder em IA física’ e você deveria comprar ações da TSLA agora, afirma o UBS</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/vince-holding-corp-q4-2026-164711194.html</guid>
       <pubDate>17/04/2026 01:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/6a5bf26e843f02352d10aa29831850d8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A meta de lucro foi subestimada na recuperação da margem, acredita Jefferies</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/target-earnings-upside-underestimated-margin-164300523.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/target-earnings-upside-underestimated-margin-164300523.html</guid>
-      <pubDate>17/04/2026 01:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/proactive_us_504/a9b07bb3dfba20e32dd7cee7cc118c0c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
