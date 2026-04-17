@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 21:16:20 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 21:24:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE AECOM (ACM) é uma das melhores ações de construção e engenharia para comprar, aqui está o porquê</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/aecom-acm-one-best-construction-121216344.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/aecom-acm-one-best-construction-121216344.html</guid>
+      <pubDate>16/04/2026 21:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/af6a34ab13aa2f2cfbaa201c133c31e1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da WaFd Inc superou US$ 0,07, receita superou estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/expect-devon-energys-q1-2026-135503558.html</guid>
       <pubDate>16/04/2026 18:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/4d4e3e38fdd6a666fb3da07054904691" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Warren Buffett transformou as economias de US $ 65 mil de um vizinho em US $ 25 milhões, mas eles quase não...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-flipped-neighbors-65k-140105093.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-flipped-neighbors-65k-140105093.html</guid>
-      <pubDate>16/04/2026 18:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/benzinga_79/b305eb6c82cdc0d4ee836af62da30448" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
