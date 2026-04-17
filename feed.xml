@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 07:31:17 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:45:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Truist caem devido à queda nas receitas, apesar da queda nos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/truist-shares-edge-down-on-revenue-shortfall-despite-earnings-beat-93CH-4619973</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/truist-shares-edge-down-on-revenue-shortfall-despite-earnings-beat-93CH-4619973</guid>
+      <pubDate>17/04/2026 07:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs reitera classificação de venda de ações da JinkoSolar sob pressão de margem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ford-recalls-about-14-million-vehicles-over-software-issue-nhtsa-says-4619755</guid>
       <pubDate>17/04/2026 04:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0DA_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Quando as taxas de hipoteca cairão para 5%?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-to-5-201806162.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-to-5-201806162.html</guid>
-      <pubDate>17/04/2026 04:19</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-03/589485c0-e13c-11ee-bddf-ed1ab68c7f18" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
