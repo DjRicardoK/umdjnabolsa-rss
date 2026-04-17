@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Apr 2026 23:28:54 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 23:29:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações devem subir semanalmente, petróleo abaixo de US$ 100 com esperanças de acordo de paz</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/stocks-set-for-weekly-gain-oil-below-100-on-peace-deal-hopes-4619687</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-set-for-weekly-gain-oil-below-100-on-peace-deal-hopes-4619687</guid>
+      <pubDate>16/04/2026 23:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G02R_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Análise-China intensifica diplomacia iraniana enquanto busca cúpula tranquila com Trump</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/hedge-funds-shorting-u-dollar-151923481.html</guid>
       <pubDate>16/04/2026 19:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/130a6c13039d6788e04853c43f4b42a0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Otimismo de paz EUA-Irã eleva ações</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/us-iran-peace-optimism-lifts-151610527.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/us-iran-peace-optimism-lifts-151610527.html</guid>
-      <pubDate>16/04/2026 19:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
