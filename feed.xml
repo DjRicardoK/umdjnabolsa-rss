@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 10:25:37 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 10:34:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A guerra do Irã aproxima os EUA do exportador líquido de petróleo pela primeira vez desde a Segunda Guerra...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/iran-war-brings-us-close-023327078.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/iran-war-brings-us-close-023327078.html</guid>
+      <pubDate>17/04/2026 10:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/ef1a575f9f9cb9d7713df1f8e51b51bf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Duke Energy busca aumento de taxas após pico de custos nas compras de energia no inverno</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/imf-warns-potential-global-recession-000000844.html</guid>
       <pubDate>17/04/2026 08:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/oilprice.com/38b5dd020c1f15962815dcc73f040b93" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Factbox-Airlines cancelam voos em meio ao conflito no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-amid-middle-east-conflict-4620098</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-amid-middle-east-conflict-4620098</guid>
-      <pubDate>17/04/2026 08:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E0TG_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
