@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 04:21:31 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 04:21:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os investidores estrangeiros ficam mais cautelosos em relação à Índia à medida que as restrições cambiais...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/foreign-investors-grow-more-wary-of-india-as-fx-curbs-hit-bonds-earnings-risks-haunt-equities-4619754</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/foreign-investors-grow-more-wary-of-india-as-fx-curbs-hit-bonds-earnings-risks-haunt-equities-4619754</guid>
+      <pubDate>17/04/2026 04:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3E0CM_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ford faz recall de cerca de 1,4 milhão de veículos por problema de software, diz NHTSA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/unusual-kraft-heinz-options-trading-173002641.html</guid>
       <pubDate>17/04/2026 02:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/f2605854531a9a5a7fc36dd5689a79d8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE FMI espera que BCE aumente taxas em meio ponto percentual em 2026</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/imf-expects-ecb-to-raise-rates-by-half-a-percentage-point-in-2026-4619711</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/imf-expects-ecb-to-raise-rates-by-half-a-percentage-point-in-2026-4619711</guid>
-      <pubDate>17/04/2026 02:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G07I_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
