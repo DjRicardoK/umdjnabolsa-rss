@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 08:54:48 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 08:57:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os sinais apontam para uma temporada de lucros sólida – e com o S&amp;P 500 chegando a 7.000, você deve acreditar...</title>
+      <description>Os executivos empresariais com um lugar de destaque na economia estão a transmitir uma mensagem optimista e a abafar o ruído da guerra no Irão.</description>
+      <link>https://www.marketwatch.com/story/signs-point-to-a-solid-earnings-season-and-with-the-s-p-500-topping-7-000-you-should-believe-them-69cddf67?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/signs-point-to-a-solid-earnings-season-and-with-the-s-p-500-topping-7-000-you-should-believe-them-69cddf67?mod=mw_rss_topstories</guid>
+      <pubDate>17/04/2026 08:57</pubDate>
+      <enclosure url="https://images.mktw.net/im-14651819" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE FMI alerta sobre potencial recessão global em meio a altos preços do petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/cora-gold-stock-surges-after-securing-120m-stream-financing-4619783</guid>
       <pubDate>17/04/2026 05:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/gold_2_M_1440047838.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tomada Cinco: Guerra, guerra e piora das condições?</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/take-five-warsh-war-and-worsening-conditions-4619777</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/take-five-warsh-war-and-worsening-conditions-4619777</guid>
-      <pubDate>17/04/2026 05:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G0F0_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
