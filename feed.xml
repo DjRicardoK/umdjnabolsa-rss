@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 12:18:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 12:19:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cognyte Software (CGNT) acaba de sugerir algo maior para 2028</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cognyte-software-cgnt-just-hinted-150953356.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cognyte-software-cgnt-just-hinted-150953356.html</guid>
+      <pubDate>17/04/2026 12:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/19250eea28a9859104e746a52f6fd1dc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que as ações da Tesla estão subindo novamente hoje?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/duke-energy-seeks-rate-hike-014017327.html</guid>
       <pubDate>17/04/2026 10:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/oilprice.com/50e55dbc30d737b78066228fb80dac92" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE IonQ (IONQ) sobe 21% no suporte de computação quântica da Nvidia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-soars-21-nvidia-012510417.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-soars-21-nvidia-012510417.html</guid>
-      <pubDate>17/04/2026 10:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b1f74494dbd673685fd6854c90790287" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
