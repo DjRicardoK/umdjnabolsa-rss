@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 02:06:30 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:14:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Walmart (WMT) – Entre o portfólio de aposentadoria antecipada: as 15 principais ações para comprar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-among-early-retirement-173051439.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-among-early-retirement-173051439.html</guid>
+      <pubDate>17/04/2026 02:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/cef11e3f3d20b7c8b4627c6969af45cf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Exclusivo-Dois Sigma, D.E. Shaw se junta à pressão de Wall Street contra a tentativa da SEC dos EUA de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-set-for-weekly-gain-oil-below-100-on-peace-deal-hopes-4619687</guid>
       <pubDate>16/04/2026 23:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G02R_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Análise-China intensifica diplomacia iraniana enquanto busca cúpula tranquila com Trump</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/analysischina-steps-up-iran-diplomacy-while-seeking-smooth-summit-with-trump-4619686</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysischina-steps-up-iran-diplomacy-while-seeking-smooth-summit-with-trump-4619686</guid>
-      <pubDate>16/04/2026 23:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G02V_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
