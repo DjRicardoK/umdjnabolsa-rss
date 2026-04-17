@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 08:59:03 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 08:59:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jefferies aumenta a meta de preço das ações da Cheniere Energy com base nas perspectivas de crescimento dos...</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/jefferies-raises-cheniere-energy-stock-price-target-on-earnings-growth-outlook-93CH-4620119</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-raises-cheniere-energy-stock-price-target-on-earnings-growth-outlook-93CH-4620119</guid>
+      <pubDate>17/04/2026 08:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Benchmark reitera classificação de ações Hold nas ações da Netflix</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/press-releases/breaking-the-rwa-value-monopoly-zoomex-launches-spacex-token-airdrop-carnival-sharing-a-300000-reward-pool-4619811</guid>
       <pubDate>17/04/2026 06:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Opere comprado HUF/USD, diz BCA</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/go-long-hufusd-bca-says-93CH-4619815</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/go-long-hufusd-bca-says-93CH-4619815</guid>
-      <pubDate>17/04/2026 06:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1P09W_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
