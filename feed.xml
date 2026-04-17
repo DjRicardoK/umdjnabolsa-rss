@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 18:20:02 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 18:23:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O CEO da Apple, Tim Cook, acaba de comprar mais 25.000 ações da Nike. Você também deve carregar o NKE?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-just-135634808.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-just-135634808.html</guid>
+      <pubDate>17/04/2026 18:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a4977b80534dae3398e391c09fa8763e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Sow Good implementa grupamento reverso de ações de 15 para 1 para atender às regras da Nasdaq</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/feds-waller-turns-cautious-on-rate-cuts-and-warns-of-a-lasting-increase-in-inflation-ad7d7e4d?mod=mw_rss_topstories</guid>
       <pubDate>17/04/2026 15:07</pubDate>
       <enclosure url="https://images.mktw.net/im-84342214" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O risco comercial de ações da Apple em torno dos ganhos oferece uma recompensa de 27%</title>
-      <description></description>
-      <link>https://www.investors.com/research/options/apple-stock-aapl-trade-options-earnings-volatiity-markets/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/options/apple-stock-aapl-trade-options-earnings-volatiity-markets/?src=A00220&yptr=yahoo</guid>
-      <pubDate>17/04/2026 14:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/4e12c54846e9015a11d69fb6cbe86acc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
