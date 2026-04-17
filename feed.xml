@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 04:48:37 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 04:54:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE X lança cashtags inteligentes para criptomoedas e ações em direção a um impulso financeiro maior</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/x-rolls-smart-cashtags-crypto-200300997.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/x-rolls-smart-cashtags-crypto-200300997.html</guid>
+      <pubDate>17/04/2026 04:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/0b83510ecce72f1c87f81fac0091c345" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar cai enquanto S&amp;P 500 registra alta recorde</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tectonic-shift-ai-underway-amd-180326285.html</guid>
       <pubDate>17/04/2026 02:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/86e42503cb1997798849ac8549ff0a7f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Principais ações de saúde da China, de acordo com o Morgan Stanley</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/top-china-healthcare-stocks-according-to-morgan-stanley-93CH-4619718</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-china-healthcare-stocks-according-to-morgan-stanley-93CH-4619718</guid>
-      <pubDate>17/04/2026 02:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB170IO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
