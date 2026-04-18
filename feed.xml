@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 21:11:21 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 21:11:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da The Travellers Companies, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/travelers-companies-inc-q1-2026-164737068.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/travelers-companies-inc-q1-2026-164737068.html</guid>
+      <pubDate>17/04/2026 21:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/367231ca59e0d5fffbbc12e89c2d56e3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Citizens Financial Group, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/citi-trims-pt-guidewire-software-145110734.html</guid>
       <pubDate>17/04/2026 19:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3de976900b9bf0d27423eece4bb417fd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos do Grupo TransDigm</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-transdigm-groups-next-145434117.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-transdigm-groups-next-145434117.html</guid>
-      <pubDate>17/04/2026 19:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c093e5bf337c814e41eee93ec50b8315" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
