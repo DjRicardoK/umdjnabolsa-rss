@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 21:10:41 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 21:11:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Citizens Financial Group, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/citizens-financial-group-inc-q1-164633929.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/citizens-financial-group-inc-q1-164633929.html</guid>
+      <pubDate>17/04/2026 21:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/bc1855895eefc419359dc317c44b175f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘Mais barato que um Mercedes’: os americanos anseiam por pechinchas domésticas da era da Grande Recessão – e...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-transdigm-groups-next-145434117.html</guid>
       <pubDate>17/04/2026 19:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c093e5bf337c814e41eee93ec50b8315" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BioXcel Therapeutics emite garantias aos credores como parte da alteração do contrato de crédito</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/bioxcel-therapeutics-issues-warrants-to-lenders-as-part-of-credit-agreement-amendment-93CH-4621926</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/bioxcel-therapeutics-issues-warrants-to-lenders-as-part-of-credit-agreement-amendment-93CH-4621926</guid>
-      <pubDate>17/04/2026 19:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
