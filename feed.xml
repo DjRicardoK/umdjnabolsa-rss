@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 21:21:03 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 21:21:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer ainda não descobriu por que o estoque da NVIDIA (NVDA) caiu</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-still-hasn-t-164445479.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-still-hasn-t-164445479.html</guid>
+      <pubDate>17/04/2026 21:21</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6857607624d018154569190d8bf2f815" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Abbott Laboratories</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-warning-why-piper-152403647.html</guid>
       <pubDate>17/04/2026 19:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/33c5d3ff84b8329590939225add2955c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (BKE) está entre as melhores ações de vestuário para comprar em 2026?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/buckle-inc-bke-among-best-151809696.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/buckle-inc-bke-among-best-151809696.html</guid>
-      <pubDate>17/04/2026 19:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f4c0b2607c91af2e3810df1e51fcad60" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
