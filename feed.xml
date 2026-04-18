@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 21:11:27 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 21:18:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A baixa compra interna de ações do Reino Unido é um problema?</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-sees-deep-valuation-discount-in-uk-equities-despite-global-rally-4622060</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-sees-deep-valuation-discount-in-uk-equities-despite-global-rally-4622060</guid>
+      <pubDate>17/04/2026 21:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/london_M_1440050619.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da The Travellers Companies, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/know-ahead-zoetis-earnings-release-151229618.html</guid>
       <pubDate>17/04/2026 19:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/319dd44eee076319f72b86c2c96247bd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citi reduz PT na Guidewire Software (GWRE) para US$ 137 em meio a preocupações de avaliação no setor de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/citi-trims-pt-guidewire-software-145110734.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/citi-trims-pt-guidewire-software-145110734.html</guid>
-      <pubDate>17/04/2026 19:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3de976900b9bf0d27423eece4bb417fd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
