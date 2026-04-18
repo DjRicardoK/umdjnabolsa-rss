@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 21:26:21 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 21:31:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Duke Energy</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/expect-duke-energys-q1-2026-165539849.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/expect-duke-energys-q1-2026-165539849.html</guid>
+      <pubDate>17/04/2026 21:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/99cda9d228c28ed9ef094d7666c67eaa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE RedCloud recebe aviso de deficiência de preço mínimo de oferta da Nasdaq</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-edge-higher-chipmakers-rebound-152726159.html</guid>
       <pubDate>17/04/2026 19:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/f5650663b22ff6c046f216a8665badb0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Enveric Biosciences fecha colocação privada de US$ 5 milhões com garantias</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/enveric-biosciences-closes-5m-private-placement-with-warrants-93CH-4621982</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/enveric-biosciences-closes-5m-private-placement-with-warrants-93CH-4621982</guid>
-      <pubDate>17/04/2026 19:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
