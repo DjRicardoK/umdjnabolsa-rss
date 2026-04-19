@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 17 Apr 2026 22:04:54 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 19:48:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Palavras duras do Goldman Sachs para investidores em ações da Amazon após grande negócio</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-words-amazon-150700510.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-words-amazon-150700510.html</guid>
+      <pubDate>19/04/2026 19:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/9e25cbb529e37f961638060d87ad306e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A expansão da margem torna as ações da Seagate uma vencedora nesta temporada de lucros, de acordo com...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysts-divided-over-tesla-ahead-160122516.html</guid>
       <pubDate>17/04/2026 20:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c9768b724915bd5726850b8bf3f4cf93" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Grupo de vigilância processa USDA por registros de segurança alimentar relacionados ao desastre de trem em...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/watchdog-group-sues-usda-over-food-safety-records-related-to-ohio-train-disaster-4622011</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/watchdog-group-sues-usda-over-food-safety-records-related-to-ohio-train-disaster-4622011</guid>
-      <pubDate>17/04/2026 20:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G1EP_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
