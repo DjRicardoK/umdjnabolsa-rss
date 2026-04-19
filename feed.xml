@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 19 Apr 2026 19:48:30 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 19:48:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O S&amp;P 500 ultrapassou os 7.000 pontos numa recuperação épica. Veja por que isso pode continuar.</title>
+      <description>A guerra do Irão pode ou não estar perto do fim. Mas no que diz respeito ao mercado de ações, já não vale a pena preocupar-se com ele.</description>
+      <link>https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories</guid>
+      <pubDate>19/04/2026 19:48</pubDate>
+      <enclosure url="https://images.mktw.net/im-71367139" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os futuros das ações dos EUA caem, o petróleo sobe enquanto os acontecimentos deste fim de semana no Irã...</title>
       <description>Depois de uma recuperação de três semanas que levou o S&amp;P 500 a novos máximos históricos, os investidores estão novamente a preparar-se para a incerteza após um turbilhão de...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/revolution-medicines-ceo-goldsmith-sells-18-million-in-shares-93CH-4622044</guid>
       <pubDate>17/04/2026 20:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wall Street está otimista com a GE Aerospace antes dos resultados do primeiro trimestre - comprar ações da GE...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-ge-aerospace-162216284.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-ge-aerospace-162216284.html</guid>
-      <pubDate>17/04/2026 20:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/efc39ce5ecf13a70080c38a5251ad189" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
