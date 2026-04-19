@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 19 Apr 2026 19:48:35 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 19:49:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar se recupera enquanto as tensões no Oriente Médio reacendem e Ormuz fecha</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/dollar-rebounds-as-middle-east-tensions-reignite-hormuz-closed-4622264</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-rebounds-as-middle-east-tensions-reignite-hormuz-closed-4622264</guid>
+      <pubDate>19/04/2026 19:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3I0CY_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O S&amp;P 500 ultrapassou os 7.000 pontos numa recuperação épica. Veja por que isso pode continuar.</title>
       <description>A guerra do Irão pode ou não estar perto do fim. Mas no que diz respeito ao mercado de ações, já não vale a pena preocupar-se com ele.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/geothermal-developer-fervo-energy-files-for-nasdaq-ipo-as-losses-widen-4622042</guid>
       <pubDate>17/04/2026 20:42</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECA71EU_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldsmith, CEO da Revolution Medicines, vende US$ 18 milhões em ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/revolution-medicines-ceo-goldsmith-sells-18-million-in-shares-93CH-4622044</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/revolution-medicines-ceo-goldsmith-sells-18-million-in-shares-93CH-4622044</guid>
-      <pubDate>17/04/2026 20:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
