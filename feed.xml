@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 08:27:58 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:28:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Legend Biotech sobre o progresso do pipeline</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-legend-biotech-stock-rating-on-pipeline-progress-93CH-4623033</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-legend-biotech-stock-rating-on-pipeline-progress-93CH-4623033</guid>
+      <pubDate>20/04/2026 08:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE HC Wainwright reitera classificação de ações da Emergent BioSolutions sobre refinanciamento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/apple-withholds-data-india-antitrust-093850418.html</guid>
       <pubDate>20/04/2026 06:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/c461cd81db064f8aa4a25abdaef61849" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Apple retém dados no caso antitruste da Índia, órgão de fiscalização marca audiência final</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/apple-withholds-data-in-india-antitrust-case-watchdog-sets-final-hearing-4622640</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apple-withholds-data-in-india-antitrust-case-watchdog-sets-final-hearing-4622640</guid>
-      <pubDate>20/04/2026 06:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0FO_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
