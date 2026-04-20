@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 02:25:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 02:43:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE RBC Capital Markets nomeia as principais ações de E&amp;P dos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/rbc-capital-markets-names-top-us-ep-stocks-93CH-4622354</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/rbc-capital-markets-names-top-us-ep-stocks-93CH-4622354</guid>
+      <pubDate>20/04/2026 02:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6606G_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Evercore ISI reitera classificação das ações da Amphenol sobre a força da IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/sk-hynix-begins-mass-production-of-memory-module-for-nvidia-vera-rubin-4622286</guid>
       <pubDate>19/04/2026 22:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED2S0FH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Petróleo salta, ações oscilam enquanto cessar-fogo no Oriente Médio está em jogo</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/oil-jumps-and-stock-futures-slip-as-iran-tensions-unsettle-markets-4622263</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/oil-jumps-and-stock-futures-slip-as-iran-tensions-unsettle-markets-4622263</guid>
-      <pubDate>19/04/2026 22:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3I0CF_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
