@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 10:16:22 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:24:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os estoques de semicondutores não estão tão aquecidos desde a bolha pontocom – e isso pode acabar mal</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/semiconductor-stocks-havent-been-this-hot-since-the-dot-com-bubble--and-it-could-end-badly-131124176.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/semiconductor-stocks-havent-been-this-hot-since-the-dot-com-bubble--and-it-could-end-badly-131124176.html</guid>
+      <pubDate>20/04/2026 10:24</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/tTcDcyy8LK_GaaPJl8ZJmQ--~B/aD0yNjUwO3c9Mzk3NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/71c3265c-a313-46cb-ba01-7c5b15b40928" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Lucros da IBM em meio ao debate sobre risco de software de IA. Aqui está o que Wall Street está dizendo.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/heres-the-stealthy-reason-stocks-are-at-record-highs-110852589.html</guid>
       <pubDate>20/04/2026 08:16</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/394f3d70-3ca9-11f1-befb-f31934991fcd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O verdadeiro significado dos Emirados Árabes Unidos supostamente solicitarem uma linha de swap em dólar</title>
-      <description>Os Emirados Árabes Unidos têm reservas e participações formidáveis ​​em títulos do Tesouro dos EUA que tornam improvável uma crise financeira após apenas sete semanas de guerra. É...</description>
-      <link>https://www.marketwatch.com/story/the-real-meaning-of-uae-reportedly-requesting-a-dollar-swap-line-6a40d630?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-real-meaning-of-uae-reportedly-requesting-a-dollar-swap-line-6a40d630?mod=mw_rss_topstories</guid>
-      <pubDate>20/04/2026 08:05</pubDate>
-      <enclosure url="https://images.mktw.net/im-73295329" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
