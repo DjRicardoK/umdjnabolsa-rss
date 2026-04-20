@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 11:07:09 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 11:09:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Investidores se preparam para ganhos da Wintrust à medida que a receita se aproxima</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/investors-brace-for-wintrust-earnings-as-revenue-slide-looms-93CH-4623804</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/investors-brace-for-wintrust-earnings-as-revenue-slide-looms-93CH-4623804</guid>
+      <pubDate>20/04/2026 11:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da H2O America atingem alta de 52 semanas a 60,23 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-comeback-2026-131738258.html</guid>
       <pubDate>20/04/2026 10:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/93c7318f6d92da51bca75b7ff517c10c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Construtoras residenciais dos EUA se preparam para outro ano desafiador enquanto a guerra e as tarifas...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-homebuilders-brace-for-another-challenging-year-as-war-tariffs-hurt-margins-4623644</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-homebuilders-brace-for-another-challenging-year-as-war-tariffs-hurt-margins-4623644</guid>
-      <pubDate>20/04/2026 10:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0PO_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
