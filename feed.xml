@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 12:56:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:01:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE RTX e Lockheed Martin lideram ganhos de defesa. Pentágono detalha solicitação de orçamento.</title>
+      <description></description>
+      <link>https://www.investors.com/news/rtx-lockheed-martin-defense-earnings-ge-aerospace-northrop-grumman-pentagon-budget-rtx-stock-lmt-iran-war-missiles-munitions/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/rtx-lockheed-martin-defense-earnings-ge-aerospace-northrop-grumman-pentagon-budget-rtx-stock-lmt-iran-war-missiles-munitions/?src=A00220&yptr=yahoo</guid>
+      <pubDate>20/04/2026 13:01</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/e751bc3f2ac44eed9200c1d992440c63" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Executivos da AECI vendem ações para cobrir impostos sobre prêmios adquiridos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-raises-amazon-stock-price-target-to-298-on-aws-growth-outlook-93CH-4623866</guid>
       <pubDate>20/04/2026 11:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mercado de ações hoje: índice Dow oscila à medida que aumentam as tensões EUA-Irã; Os estoques de energia...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices/?src=A00220&yptr=yahoo</guid>
-      <pubDate>20/04/2026 11:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/1f84960c7e5a18738bbbe0cb6ba5907b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
