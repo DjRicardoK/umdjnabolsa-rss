@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 11:29:29 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 11:31:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE BofA aumenta a meta de preço das ações da Amazon para US$ 298 com base nas perspectivas de crescimento da AWS</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bofa-raises-amazon-stock-price-target-to-298-on-aws-growth-outlook-93CH-4623866</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-raises-amazon-stock-price-target-to-298-on-aws-growth-outlook-93CH-4623866</guid>
+      <pubDate>20/04/2026 11:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: índice Dow oscila à medida que aumentam as tensões EUA-Irã; Os estoques de energia...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/atlantic-union-earnings-on-deck-can-regional-bank-deliver-93CH-4623699</guid>
       <pubDate>20/04/2026 10:42</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações do Hamilton Insurance Group atingem o máximo histórico de 32,48 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/hamilton-insurance-group-stock-hits-alltime-high-at-3248-usd-93CH-4623676</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/hamilton-insurance-group-stock-hits-alltime-high-at-3248-usd-93CH-4623676</guid>
-      <pubDate>20/04/2026 10:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
