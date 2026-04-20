@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 02:23:22 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 02:23:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise – Ações de defesa europeias esfriam enquanto os investidores reavaliam os vencedores da guerra</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/analysiseuropean-defence-stocks-cool-as-investors-reassess-war-winners-4622338</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysiseuropean-defence-stocks-cool-as-investors-reassess-war-winners-4622338</guid>
+      <pubDate>20/04/2026 02:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J069_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Nomura aumenta a meta de preço das ações do ICICI Bank para INR 1.620 sobre os lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/anet-fn-cien-why-3-140002072.html</guid>
       <pubDate>19/04/2026 21:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/21b3e121a99cb25406bfa2657ca87846" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Semana do mercado de ações à frente: olhando além da guerra no Irã</title>
-      <description></description>
-      <link>https://www.investors.com/research/investing-action-plan/stock-market-looking-beyond-the-iran-war-tesla-boeing-intel/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/investing-action-plan/stock-market-looking-beyond-the-iran-war-tesla-boeing-intel/?src=A00220&yptr=yahoo</guid>
-      <pubDate>19/04/2026 21:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/4c682b01576563db3e6123d485144047" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
