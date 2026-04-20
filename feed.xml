@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 06:40:21 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:40:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE KuCoin se baseia no lançamento do PROOF com novas competições e recompensas expandidas de até US$ 500.000</title>
+      <description></description>
+      <link>https://www.investing.com/news/press-releases/kucoin-builds-on-proof-launch-with-new-competitions-and-expanded-rewards-of-up-to-usd-500000-4622622</link>
+      <guid isPermaLink="false">https://www.investing.com/news/press-releases/kucoin-builds-on-proof-launch-with-new-competitions-and-expanded-rewards-of-up-to-usd-500000-4622622</guid>
+      <pubDate>20/04/2026 06:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BofA reitera compra de ações da AppLovin e cita crescimento do comércio eletrônico</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-069-4622424</guid>
       <pubDate>20/04/2026 04:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB5N00I_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Austrália sobem no fechamento do pregão; S&amp;P/ASX 200 sobe 0,07%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-007-4622405</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-007-4622405</guid>
-      <pubDate>20/04/2026 03:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB4C1BD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
