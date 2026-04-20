@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 03:42:37 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 04:15:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 0,69%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-069-4622424</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-069-4622424</guid>
+      <pubDate>20/04/2026 04:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB5N00I_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Austrália sobem no fechamento do pregão; S&amp;P/ASX 200 sobe 0,07%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusiveeu-to-push-for-jet-fuel-diversification-as-iran-war-threatens-supply-4622293</guid>
       <pubDate>19/04/2026 22:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G14T_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China deixa parâmetros de referência de empréstimos inalterados pelo 11º mês de abril</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/china-leaves-lending-benchmarks-unchanged-for-11th-month-in-april-4622289</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-leaves-lending-benchmarks-unchanged-for-11th-month-in-april-4622289</guid>
-      <pubDate>19/04/2026 22:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J012_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
