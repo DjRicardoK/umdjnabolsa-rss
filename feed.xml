@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 00:54:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 01:02:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco da Indonésia manterá taxas em 4,75% até 2026, enquanto a guerra no Irã alimenta riscos de inflação:...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bank-indonesia-to-hold-rates-at-475-through-2026-as-iran-war-fuels-inflation-risks-reuters-poll-4622302</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-indonesia-to-hold-rates-at-475-through-2026-as-iran-war-fuels-inflation-risks-reuters-poll-4622302</guid>
+      <pubDate>20/04/2026 01:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J052_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Emirados Árabes Unidos buscam apoio financeiro dos EUA em meio a preocupações com a guerra no Irã – WSJ</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/margin-expansion-makes-seagate-stock-182306462.html</guid>
       <pubDate>17/04/2026 22:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c9dcbd741a7c09ce0894c773d88613e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Duke Energy</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/expect-duke-energys-q1-2026-165539849.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/expect-duke-energys-q1-2026-165539849.html</guid>
-      <pubDate>17/04/2026 21:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/99cda9d228c28ed9ef094d7666c67eaa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
