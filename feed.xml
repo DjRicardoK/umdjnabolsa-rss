@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 19:03:47 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 19:05:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Netflix gera enormes margens FCF e FCF - as metas de preços da NFLX são mais altas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/netflix-generates-massive-fcf-fcf-133002954.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netflix-generates-massive-fcf-fcf-133002954.html</guid>
+      <pubDate>20/04/2026 19:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f6f52bffea7da044754aaa0e8feb0b5f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ServisFirst Bancshares relata resultados mistos do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/1930s-ray-dalio-warns-trump-101700486.html</guid>
       <pubDate>20/04/2026 15:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/183b1832ca835939de66db961a67fb7c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Stmicroelectronics atingem alta de 52 semanas a 44,64 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/stmicroelectronics-stock-hits-52week-high-at-4464-usd-93CH-4624234</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/stmicroelectronics-stock-hits-52week-high-at-4464-usd-93CH-4624234</guid>
-      <pubDate>20/04/2026 15:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
