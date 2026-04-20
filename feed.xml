@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 05:41:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 05:41:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Grande terremoto de magnitude 7,5 atinge o Japão, alerta de tsunami emitido</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/major-75magnitude-quake-hits-off-japan-tsunami-warning-issued-4622536</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/major-75magnitude-quake-hits-off-japan-tsunami-warning-issued-4622536</guid>
+      <pubDate>20/04/2026 05:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0DD_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE B2Gold corta previsão de produção de ouro do 2T da Goose Mine após danos causados ​​por incêndio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-one-184031397.html</guid>
       <pubDate>20/04/2026 01:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações da Japan Petroleum caem devido ao alerta sobre lucros causados ​​pelas tensões no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japan-petroleum-shares-slide-on-profit-hit-warning-from-middle-east-tensions-4622306</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-petroleum-shares-slide-on-profit-hit-warning-from-middle-east-tensions-4622306</guid>
-      <pubDate>20/04/2026 01:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC190AN_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
