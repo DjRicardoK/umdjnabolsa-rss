@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 07:35:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:44:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Serviço Tesla Robotaxi se expande para Dallas e Houston</title>
+      <description></description>
+      <link>https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&yptr=yahoo</guid>
+      <pubDate>20/04/2026 07:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/58bf42c749d90f7e3e8df96a672ea38c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Musk desprezou brechas “obscuras”, mas truques fiscais offshore provavelmente salvaram a Tesla centenas de...</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-strong-buy-on-expand-energy-stock-145-target-93CH-4622607</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-strong-buy-on-expand-energy-stock-145-target-93CH-4622607</guid>
-      <pubDate>20/04/2026 06:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Raymond James reitera forte compra das ações da Antero Resources nas perspectivas de produção</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-antero-resources-stock-strong-buy-on-production-outlook-93CH-4622608</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-antero-resources-stock-strong-buy-on-production-outlook-93CH-4622608</guid>
       <pubDate>20/04/2026 06:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
