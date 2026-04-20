@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 05:12:37 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 05:14:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de luxo na Europa caem devido às tensões no Oriente Médio e ao nervosismo na demanda</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/europe-luxury-stocks-slide-on-middle-east-tensions-demand-jitters-4622478</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/europe-luxury-stocks-slide-on-middle-east-tensions-demand-jitters-4622478</guid>
+      <pubDate>20/04/2026 05:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED280D0_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer sobre NVIDIA: “Quando se trata de GPUs e serviços, quero ir com Jensen”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uae-seeks-us-financial-backstop-amid-iran-war-concerns-wsj-93CH-4622299</guid>
       <pubDate>20/04/2026 00:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que RBC Capital tem a dizer sobre Tesla (TSLA)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/rbc-capital-tesla-tsla-182608514.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rbc-capital-tesla-tsla-182608514.html</guid>
-      <pubDate>20/04/2026 00:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1277c6032fd09b727a10249a170024cf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
