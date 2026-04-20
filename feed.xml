@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 13:15:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:47:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações do Google em foco para muito mais do que apenas ganhos</title>
+      <description></description>
+      <link>https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/google-stock-googl-alphabet-earnings-in-focus/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/google-stock-googl-alphabet-earnings-in-focus/?src=A00220&yptr=yahoo</guid>
+      <pubDate>20/04/2026 13:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/69be92fe501e27e5465f20cdd5f10adf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump diz que chefe de energia está ‘errado’ e espera preços mais baixos do gás assim que a guerra no Irã...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-056-4623929</guid>
       <pubDate>20/04/2026 12:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nvidia desliza após rali histórico; A Nvidia é uma compra agora?</title>
-      <description></description>
-      <link>https://www.investors.com/research/nvidia-nvda-stock-april-2026-2/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/nvidia-nvda-stock-april-2026-2/?src=A00220&yptr=yahoo</guid>
-      <pubDate>20/04/2026 11:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/1a40068adc22bbe891aa50d253e7b27e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
