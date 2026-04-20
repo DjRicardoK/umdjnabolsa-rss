@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 13:01:19 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:12:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas da Itália caem no fechamento do pregão; Investing.com Itália 40 caiu 1,45%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-145-4624086</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-145-4624086</guid>
+      <pubDate>20/04/2026 13:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/c9f7dfd63e3068e785b7fe83687a1adb_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE RTX e Lockheed Martin lideram ganhos de defesa. Pentágono detalha solicitação de orçamento.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/fmc-chief-ocean-carriers-knew-141715560.html</guid>
       <pubDate>20/04/2026 11:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/freightwaves_373/2f0eb12e4edf4669a644477474a9bedf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE BofA aumenta a meta de preço das ações da Amazon para US$ 298 com base nas perspectivas de crescimento da AWS</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/bofa-raises-amazon-stock-price-target-to-298-on-aws-growth-outlook-93CH-4623866</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-raises-amazon-stock-price-target-to-298-on-aws-growth-outlook-93CH-4623866</guid>
-      <pubDate>20/04/2026 11:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
