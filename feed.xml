@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 19 Apr 2026 23:07:09 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 23:43:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do ouro caem com o ressurgimento das tensões no Irã e os preços do petróleo sobem</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-prices-dip-as-iran-tensions-reemerge-oil-prices-jump-4622296</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-dip-as-iran-tensions-reemerge-oil-prices-jump-4622296</guid>
+      <pubDate>19/04/2026 23:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7C067_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Como 50 dias de guerra no Irão levaram à perda de 50 mil milhões de dólares em petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/abbott-laboratories-q1-2026-earnings-164631420.html</guid>
       <pubDate>17/04/2026 21:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/c16151d72592b5b9938bfb652c9aaf06" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A baixa compra interna de ações do Reino Unido é um problema?</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-sees-deep-valuation-discount-in-uk-equities-despite-global-rally-4622060</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-sees-deep-valuation-discount-in-uk-equities-despite-global-rally-4622060</guid>
-      <pubDate>17/04/2026 21:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/london_M_1440050619.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
