@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 16:05:46 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 16:52:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Stag Industrial atingem o máximo de 52 semanas em 39,98 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/stag-industrial-stock-hits-52week-high-at-3998-usd-93CH-4624329</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/stag-industrial-stock-hits-52week-high-at-3998-usd-93CH-4624329</guid>
+      <pubDate>20/04/2026 16:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 144 Dakota Gold Corp. Para: 20 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-chair-nominee-warsh-commits-to-independence-with-limits-4624127</guid>
       <pubDate>20/04/2026 14:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0YK_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE CEO do Wells Fargo diz que cortes nas taxas são prematuros em meio à incerteza do conflito no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/wells-fargo-ceo-says-rate-cuts-premature-amid-iran-conflict-uncertainty-93CH-4624170</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/wells-fargo-ceo-says-rate-cuts-premature-amid-iran-conflict-uncertainty-93CH-4624170</guid>
-      <pubDate>20/04/2026 14:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Brazil-Stock-Market_3_M_1440048532.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
