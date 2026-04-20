@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 19 Apr 2026 22:58:50 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 23:07:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Como 50 dias de guerra no Irão levaram à perda de 50 mil milhões de dólares em petróleo</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil-4621321</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil-4621321</guid>
+      <pubDate>19/04/2026 23:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G13Y_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Exclusivo da UE pressionará pela diversificação do combustível de aviação enquanto a guerra no Irã ameaça o...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-sees-deep-valuation-discount-in-uk-equities-despite-global-rally-4622060</guid>
       <pubDate>17/04/2026 21:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/london_M_1440050619.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da The Travellers Companies, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/travelers-companies-inc-q1-2026-164737068.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/travelers-companies-inc-q1-2026-164737068.html</guid>
-      <pubDate>17/04/2026 21:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/367231ca59e0d5fffbbc12e89c2d56e3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
