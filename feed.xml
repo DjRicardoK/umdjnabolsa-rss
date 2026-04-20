@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 10:30:29 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:39:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Broadstone Net Lease atingem o máximo de 52 semanas a 20,38 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/broadstone-net-lease-stock-hits-52week-high-at-2038-usd-93CH-4623679</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/broadstone-net-lease-stock-hits-52week-high-at-2038-usd-93CH-4623679</guid>
+      <pubDate>20/04/2026 10:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tesla (TSLA) retornará em 2026?</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-legend-biotech-stock-rating-on-pipeline-progress-93CH-4623033</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-legend-biotech-stock-rating-on-pipeline-progress-93CH-4623033</guid>
       <pubDate>20/04/2026 08:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE HC Wainwright reitera classificação de ações da Emergent BioSolutions sobre refinanciamento</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-emergent-biosolutions-stock-rating-on-refinancing-93CH-4623035</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-emergent-biosolutions-stock-rating-on-refinancing-93CH-4623035</guid>
-      <pubDate>20/04/2026 08:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
