@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 01:02:11 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 01:37:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações da Japan Petroleum caem devido ao alerta sobre lucros causados ​​pelas tensões no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/japan-petroleum-shares-slide-on-profit-hit-warning-from-middle-east-tensions-4622306</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-petroleum-shares-slide-on-profit-hit-warning-from-middle-east-tensions-4622306</guid>
+      <pubDate>20/04/2026 01:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC190AN_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os estoques de entrega de alimentos na China diminuíram enquanto as autoridades reprimiam as ‘entregas...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories</guid>
       <pubDate>19/04/2026 19:48</pubDate>
       <enclosure url="https://images.mktw.net/im-32839821" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Palavras duras do Goldman Sachs para investidores em ações da Amazon após grande negócio</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-words-amazon-150700510.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-words-amazon-150700510.html</guid>
-      <pubDate>19/04/2026 19:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/9e25cbb529e37f961638060d87ad306e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
