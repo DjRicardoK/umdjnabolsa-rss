@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 04:23:37 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 05:03:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE China alerta que exercícios conjuntos entre EUA, Filipinas e Japão arriscam a confiança regional</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/china-warns-joint-us-philippines-and-japandrills-risk-regional-trust-4622457</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/china-warns-joint-us-philippines-and-japandrills-risk-regional-trust-4622457</guid>
+      <pubDate>20/04/2026 05:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE FTSE 100 hoje: Ações caem com o aumento das tensões no Oriente Médio e recuperação do petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-dip-as-iran-tensions-reemerge-oil-prices-jump-4622296</guid>
       <pubDate>19/04/2026 23:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7C067_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Como 50 dias de guerra no Irão levaram à perda de 50 mil milhões de dólares em petróleo</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil-4621321</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil-4621321</guid>
-      <pubDate>19/04/2026 23:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G13Y_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
