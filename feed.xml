@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 17:36:24 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:38:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE ServisFirst Bancshares supera estimativa de lucros do primeiro trimestre e fica aquém da receita</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/servisfirst-bancshares-beats-q1-earnings-estimate-falls-short-on-revenue-93CH-4624579</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/servisfirst-bancshares-beats-q1-earnings-estimate-falls-short-on-revenue-93CH-4624579</guid>
+      <pubDate>20/04/2026 17:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As empresas que tentam reivindicar reembolsos tarifários já estão enfrentando problemas</title>
       <description>Nem tudo foi tranquilo na segunda-feira, quando o governo federal iniciou o processo de aceitação de pedidos de grandes quantidades de reembolsos tarifários.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/warsh-vows-to-protect-fed-independence-at-confirmation-hearing-93CH-4624173</guid>
       <pubDate>20/04/2026 14:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_1_M_1440048330.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O conluio da Amazon elevou os preços ao consumidor, diz a Califórnia, citando novas evidências</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/amazons-collusion-drove-up-consumer-prices-california-says-citing-new-evidence-4624174</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazons-collusion-drove-up-consumer-prices-california-says-citing-new-evidence-4624174</guid>
-      <pubDate>20/04/2026 14:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J106_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
