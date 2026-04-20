@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 01:47:47 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 01:58:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Microsoft (MSFT) é uma das melhores ações incomparáveis ​​dos próximos 5 anos?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-best-unrivaled-184144197.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-best-unrivaled-184144197.html</guid>
+      <pubDate>20/04/2026 01:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8357d4801c2f5a834455cbcc99383b11" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE (AMZN): uma das principais ações incomparáveis ​​dos próximos 5 anos?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-rebounds-as-middle-east-tensions-reignite-hormuz-closed-4622264</guid>
       <pubDate>19/04/2026 19:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3I0CY_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O S&amp;P 500 ultrapassou os 7.000 pontos numa recuperação épica. Veja por que isso pode continuar.</title>
-      <description>A guerra do Irão pode ou não estar perto do fim. Mas no que diz respeito ao mercado de ações, já não vale a pena preocupar-se com ele.</description>
-      <link>https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories</guid>
-      <pubDate>19/04/2026 19:48</pubDate>
-      <enclosure url="https://images.mktw.net/im-71367139" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
