@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 19:53:27 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 19:54:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Anthropic tem uma demanda “sem precedentes” — e está contando com o apoio da Amazon</title>
+      <description>A Amazon está investindo outros US$ 5 bilhões na fabricante de Claude.</description>
+      <link>https://www.marketwatch.com/story/anthropic-has-unprecedented-demand-and-its-leaning-on-amazon-for-support-fba025bb?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/anthropic-has-unprecedented-demand-and-its-leaning-on-amazon-for-support-fba025bb?mod=mw_rss_topstories</guid>
+      <pubDate>20/04/2026 19:54</pubDate>
+      <enclosure url="https://images.mktw.net/im-62078069" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Thermador Groupe no primeiro trimestre de 2026 vê forte...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/warrior-met-coal-declares-008-quarterly-dividend-93CH-4624532</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/warrior-met-coal-declares-008-quarterly-dividend-93CH-4624532</guid>
       <pubDate>20/04/2026 17:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Stag Industrial atingem o máximo de 52 semanas em 39,98 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/stag-industrial-stock-hits-52week-high-at-3998-usd-93CH-4624329</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/stag-industrial-stock-hits-52week-high-at-3998-usd-93CH-4624329</guid>
-      <pubDate>20/04/2026 16:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
