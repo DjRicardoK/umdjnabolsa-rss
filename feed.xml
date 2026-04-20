@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 15:21:05 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 15:22:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Carpenter Technology Corp atingem o máximo histórico de 450,03 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/carpenter-technology-corp-stock-hits-alltime-high-at-45003-usd-93CH-4624222</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/carpenter-technology-corp-stock-hits-alltime-high-at-45003-usd-93CH-4624222</guid>
+      <pubDate>20/04/2026 15:22</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Jersey Mike&apos;s escolheu um momento difícil para os restaurantes abrirem o capital</title>
       <description>A lanchonete entrou com pedido confidencial de IPO, mesmo quando as redes de fast-food e de lanchonetes estão presas em uma guerra de descontos para conquistar os consumidores...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/google-stock-googl-alphabet-earnings-in-focus/?src=A00220&yptr=yahoo</guid>
       <pubDate>20/04/2026 13:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/69be92fe501e27e5465f20cdd5f10adf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump diz que chefe de energia está ‘errado’ e espera preços mais baixos do gás assim que a guerra no Irã...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/trump-says-energy-chief-wrong-expects-lower-gas-prices-as-soon-as-iran-war-ends-4624107</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-says-energy-chief-wrong-expects-lower-gas-prices-as-soon-as-iran-war-ends-4624107</guid>
-      <pubDate>20/04/2026 13:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0XY_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
