@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 10:55:34 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:56:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do Northern Trust em foco conforme mudança de estratégia enfrenta teste</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/northern-trust-earnings-in-focus-as-strategy-shift-faces-test-93CH-4623747</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/northern-trust-earnings-in-focus-as-strategy-shift-faces-test-93CH-4623747</guid>
+      <pubDate>20/04/2026 10:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Negociações sobre fusão entre United e American estão à frente dos resultados. Lucros da Alaska Air devidos.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/barclays-1h-2026-cio-survey-results-are-bullish-for-these-stocks-4623328</guid>
       <pubDate>20/04/2026 09:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF080OM_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Atualizações ao vivo de ganhos: Cleveland-Cliffs enfrenta ventos contrários no preço da energia, Tesla e...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/live/earnings-live-updates-cleveland-cliffs-faces-energy-price-headwinds-tesla-and-others-report-this-week-104416792.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/live/earnings-live-updates-cleveland-cliffs-faces-energy-price-headwinds-tesla-and-others-report-this-week-104416792.html</guid>
-      <pubDate>20/04/2026 09:14</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2023-12/a7ecb090-9df1-11ee-ad7e-ec436b95e182" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
