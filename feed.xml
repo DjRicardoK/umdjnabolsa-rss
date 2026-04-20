@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 01:58:12 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 02:01:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Expectativas de inflação das famílias japonesas praticamente estáveis, mostra pesquisa do BOJ</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/japan-households-inflation-expectations-roughly-steady-boj-survey-shows-4622320</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japan-households-inflation-expectations-roughly-steady-boj-survey-shows-4622320</guid>
+      <pubDate>20/04/2026 02:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J05K_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Microsoft (MSFT) é uma das melhores ações incomparáveis ​​dos próximos 5 anos?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/national-australia-bank-hikes-credit-provisions-on-iran-war-flags-961-mln-charge-4622277</guid>
       <pubDate>19/04/2026 20:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE2D05D_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar se recupera enquanto as tensões no Oriente Médio reacendem e Ormuz fecha</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/dollar-rebounds-as-middle-east-tensions-reignite-hormuz-closed-4622264</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-rebounds-as-middle-east-tensions-reignite-hormuz-closed-4622264</guid>
-      <pubDate>19/04/2026 19:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3I0CY_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
