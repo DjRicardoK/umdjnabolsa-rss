@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 14:29:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:29:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pesquisa semanal de credores hipotecários com as melhores taxas: 5 credores oferecem TAEG abaixo de 6%</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-april-20-2026-170834027.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-april-20-2026-170834027.html</guid>
+      <pubDate>20/04/2026 14:29</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d9cd60-0c3a-11f1-bdff-87ef2d5000ac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os trabalhadores não estão satisfeitos com seus salários. Mas eles também não pretendem mudar de emprego.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/motley-fool-asset-management-top-154250967.html</guid>
       <pubDate>20/04/2026 12:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f44d956d3c5dc0b8c077dfd303fc4707" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Pesquisa do Banco do Canadá: as perspectivas das empresas estavam melhorando antes da guerra com o Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/bank-of-canada-survey-firms-outlooks-were-improving-before-iran-war-4624016</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-canada-survey-firms-outlooks-were-improving-before-iran-war-4624016</guid>
-      <pubDate>20/04/2026 12:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0WP_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
