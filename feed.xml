@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 14:16:13 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:29:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os trabalhadores não estão satisfeitos com seus salários. Mas eles também não pretendem mudar de emprego.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/article/workers-arent-happy-with-their-pay-but-theyre-not-looking-to-switch-jobs-either-172151650.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/article/workers-arent-happy-with-their-pay-but-theyre-not-looking-to-switch-jobs-either-172151650.html</guid>
+      <pubDate>20/04/2026 14:29</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/cd_almdoGk8VbrL8jSvpNA--~B/aD0yMzEyO3c9MzQ2ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/3947c4dc-ea4e-4e81-b800-586ff756a1ac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 6K B2GOLD CORP Para: 20 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-canada-survey-firms-outlooks-were-improving-before-iran-war-4624016</guid>
       <pubDate>20/04/2026 12:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0WP_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da KLA Corporation atingem o máximo histórico de 1.798,33 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/kla-corporation-stock-hits-alltime-high-of-179833-usd-93CH-4623990</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/kla-corporation-stock-hits-alltime-high-of-179833-usd-93CH-4623990</guid>
-      <pubDate>20/04/2026 12:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
