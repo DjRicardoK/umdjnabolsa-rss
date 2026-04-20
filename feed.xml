@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 12:18:13 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 12:23:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 2 gráficos mostram por que as ações Magnificent 7 estão sendo amadas novamente</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/2-charts-show-why-magnificent-7-stocks-are-being-loved-again-151105348.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/2-charts-show-why-magnificent-7-stocks-are-being-loved-again-151105348.html</guid>
+      <pubDate>20/04/2026 12:23</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/134c9320-3cc7-11f1-bfd7-d34848931aa2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os títulos podem ficar atrás das ações pelo resto de 2026, de acordo com este sinal contrário</title>
       <description>Fluxos recordes de fundos de títulos são um sinal de alerta de que retornos mais baixos estão por vir.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/some-stocks-have-risen-but-others-have-flopped-i-will-soon-inherit-my-parents-1-5-million-estate-do-i-fire-the-adviser-who-charges-a-3-fee-6b5b2caa?mod=mw_rss_topstories</guid>
       <pubDate>20/04/2026 11:00</pubDate>
       <enclosure url="https://images.mktw.net/im-89734726" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Esta ação Magnificent 7 é uma boa ‘tática de longo prazo’: Morgan Stanley</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/this-magnificent-7-stock-is-a-good-tactical-long-into-earnings-morgan-stanley-4623105</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/this-magnificent-7-stock-is-a-good-tactical-long-into-earnings-morgan-stanley-4623105</guid>
-      <pubDate>20/04/2026 10:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED9U0NH_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
