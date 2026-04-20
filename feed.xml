@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 10:39:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:42:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Atlantic Union em ação: o banco regional pode cumprir?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/atlantic-union-earnings-on-deck-can-regional-bank-deliver-93CH-4623699</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/atlantic-union-earnings-on-deck-can-regional-bank-deliver-93CH-4623699</guid>
+      <pubDate>20/04/2026 10:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações do Hamilton Insurance Group atingem o máximo histórico de 32,48 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/biogen-acquires-china-rights-to-felzartamab-for-up-to-850m-93CH-4623086</guid>
       <pubDate>20/04/2026 08:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O SocGen comparou a guerra com o Irão a todas as crises desde 1956. É aqui que os preços do petróleo voltam...</title>
-      <description>Analistas do Societe Generale prevêem que a normalização total ocorrerá no final do ano</description>
-      <link>https://www.marketwatch.com/story/socgen-benchmarked-the-iran-war-to-every-crisis-since-1956-heres-when-oil-prices-return-to-normal-7549b537?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/socgen-benchmarked-the-iran-war-to-every-crisis-since-1956-heres-when-oil-prices-return-to-normal-7549b537?mod=mw_rss_topstories</guid>
-      <pubDate>20/04/2026 08:30</pubDate>
-      <enclosure url="https://images.mktw.net/im-79885601" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
