@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 17:50:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 18:03:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Tim Cook deixará o cargo após 15 anos à frente da Apple</title>
+      <description>John Ternus, vice-presidente sênior de engenharia de hardware da Apple, assumirá o cargo de CEO em setembro.</description>
+      <link>https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories</guid>
+      <pubDate>20/04/2026 18:03</pubDate>
+      <enclosure url="https://images.mktw.net/im-68835675" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE BofA aumenta a meta de preço das ações da CMS Energy para US$ 88 com ganhos maiores</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/baxter-international-earnings-preview-expect-084556923.html</guid>
       <pubDate>20/04/2026 15:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/1a086eb4dcda3e5f9048a77ad61ad693" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da Fortive</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-fortive-report-085627171.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-fortive-report-085627171.html</guid>
-      <pubDate>20/04/2026 15:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4ba0821a14ee55e76aca9654a791d1bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
