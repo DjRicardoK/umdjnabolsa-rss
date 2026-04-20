@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 06:24:56 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:25:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Evercore ISI reitera classificação das ações da Arista Networks antes dos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-arista-networks-stock-rating-ahead-of-earnings-93CH-4622606</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-arista-networks-stock-rating-ahead-of-earnings-93CH-4622606</guid>
+      <pubDate>20/04/2026 06:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Raymond James reitera forte compra de ações da Expand Energy, meta de US$ 145</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/wishbone-gold-mobilizes-drill-rig-to-red-setter-project-93CH-4622376</guid>
       <pubDate>20/04/2026 03:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE RBC Capital Markets nomeia as principais ações de E&amp;P dos EUA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/rbc-capital-markets-names-top-us-ep-stocks-93CH-4622354</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/rbc-capital-markets-names-top-us-ep-stocks-93CH-4622354</guid>
-      <pubDate>20/04/2026 02:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6606G_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
