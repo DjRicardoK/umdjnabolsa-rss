@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 08:05:23 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:16:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Esta é a razão furtiva pela qual as ações estão em níveis recordes</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/heres-the-stealthy-reason-stocks-are-at-record-highs-110852589.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/heres-the-stealthy-reason-stocks-are-at-record-highs-110852589.html</guid>
+      <pubDate>20/04/2026 08:16</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/394f3d70-3ca9-11f1-befb-f31934991fcd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O verdadeiro significado dos Emirados Árabes Unidos supostamente solicitarem uma linha de swap em dólar</title>
       <description>Os Emirados Árabes Unidos têm reservas e participações formidáveis ​​em títulos do Tesouro dos EUA que tornam improvável uma crise financeira após apenas sete semanas de guerra. É...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/bofa-sees-turkey-central-bank-holding-rates-or-hiking-to-40-93CH-4622639</guid>
       <pubDate>20/04/2026 06:42</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_M_1440048891.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE KuCoin se baseia no lançamento do PROOF com novas competições e recompensas expandidas de até US$ 500.000</title>
-      <description></description>
-      <link>https://www.investing.com/news/press-releases/kucoin-builds-on-proof-launch-with-new-competitions-and-expanded-rewards-of-up-to-usd-500000-4622622</link>
-      <guid isPermaLink="false">https://www.investing.com/news/press-releases/kucoin-builds-on-proof-launch-with-new-competitions-and-expanded-rewards-of-up-to-usd-500000-4622622</guid>
-      <pubDate>20/04/2026 06:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
