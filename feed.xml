@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 13:47:33 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:55:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Wearable Devices garante US$ 5 milhões por meio de contrato de exercício de garantia</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/wearable-devices-secures-5m-through-warrant-exercise-agreement-93CH-4624154</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/wearable-devices-secures-5m-through-warrant-exercise-agreement-93CH-4624154</guid>
+      <pubDate>20/04/2026 13:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Google em foco para muito mais do que apenas ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-google-and-marvell-reportedly-developing-ai-chips-tesla-falls-with-earnings-set-for-wednesday-144220621.html</guid>
       <pubDate>20/04/2026 12:04</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/R7t7s0hVe7_AaaE09_0zUA--~B/aD0yMjE5O3c9MzMyOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/fd05360d-b667-4d98-b362-c348623c06f9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Noruega sobem no fechamento do pregão; Oslo OBX sobe 0,56%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-056-4623929</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-056-4623929</guid>
-      <pubDate>20/04/2026 12:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
