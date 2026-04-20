@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 01:37:36 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 01:47:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (AMZN): uma das principais ações incomparáveis ​​dos próximos 5 anos?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-one-184031397.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-one-184031397.html</guid>
+      <pubDate>20/04/2026 01:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações da Japan Petroleum caem devido ao alerta sobre lucros causados ​​pelas tensões no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories</guid>
       <pubDate>19/04/2026 19:48</pubDate>
       <enclosure url="https://images.mktw.net/im-71367139" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os futuros das ações dos EUA caem, o petróleo sobe enquanto os acontecimentos deste fim de semana no Irã...</title>
-      <description>Depois de uma recuperação de três semanas que levou o S&amp;P 500 a novos máximos históricos, os investidores estão novamente a preparar-se para a incerteza após um turbilhão de...</description>
-      <link>https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/investors-brace-for-renewed-volatility-after-this-weekends-iran-developments-4b707c11?mod=mw_rss_topstories</guid>
-      <pubDate>19/04/2026 19:48</pubDate>
-      <enclosure url="https://images.mktw.net/im-32839821" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
