@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 09:34:09 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 09:44:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O IPC anual do Canadá sobe para 2,4% à medida que a guerra no Irão aumenta os custos da gasolina</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/canadas-annual-cpi-rises-to-24-as-iran-war-spikes-gasoline-costs-4623464</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/canadas-annual-cpi-rises-to-24-as-iran-war-spikes-gasoline-costs-4623464</guid>
+      <pubDate>20/04/2026 09:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0NP_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ovid Therapeutics recebe US$ 53,9 milhões em exercícios de mandado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-roku-stock-rating-on-streaming-market-position-93CH-4622767</guid>
       <pubDate>20/04/2026 07:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Serviço Tesla Robotaxi se expande para Dallas e Houston</title>
-      <description></description>
-      <link>https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/tesla-robotaxi-service-expands-dallas-houston/?src=A00220&yptr=yahoo</guid>
-      <pubDate>20/04/2026 07:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/58bf42c749d90f7e3e8df96a672ea38c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
