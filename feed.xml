@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 05:14:55 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 05:15:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs reitera compra de ações da Apple em meio a preocupações com DRAM</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-buy-on-apple-stock-amid-dram-concerns-93CH-4622459</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-buy-on-apple-stock-amid-dram-concerns-93CH-4622459</guid>
+      <pubDate>20/04/2026 05:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de luxo na Europa caem devido às tensões no Oriente Médio e ao nervosismo na demanda</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-indonesia-to-hold-rates-at-475-through-2026-as-iran-war-fuels-inflation-risks-reuters-poll-4622302</guid>
       <pubDate>20/04/2026 01:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J052_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Emirados Árabes Unidos buscam apoio financeiro dos EUA em meio a preocupações com a guerra no Irã – WSJ</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/uae-seeks-us-financial-backstop-amid-iran-war-concerns-wsj-93CH-4622299</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uae-seeks-us-financial-backstop-amid-iran-war-concerns-wsj-93CH-4622299</guid>
-      <pubDate>20/04/2026 00:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
