@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 15:22:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 15:24:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer está vendendo ações enquanto o S&amp;P 500 apresenta sobrecompra – mas uma aposta de US$ 100 de 2000...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-selling-stocks-p-094500715.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-selling-stocks-p-094500715.html</guid>
+      <pubDate>20/04/2026 15:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/52cf0070fd12edca7d69899d1799777f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Carpenter Technology Corp atingem o máximo histórico de 450,03 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/wearable-devices-secures-5m-through-warrant-exercise-agreement-93CH-4624154</guid>
       <pubDate>20/04/2026 13:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do Google em foco para muito mais do que apenas ganhos</title>
-      <description></description>
-      <link>https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/google-stock-googl-alphabet-earnings-in-focus/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/google-stock-googl-alphabet-earnings-in-focus/?src=A00220&yptr=yahoo</guid>
-      <pubDate>20/04/2026 13:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/69be92fe501e27e5465f20cdd5f10adf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
