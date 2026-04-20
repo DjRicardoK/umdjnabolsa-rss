@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 18:10:05 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 18:50:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Formulário 8K Apple Inc para: 20 de abril</title>
+      <description></description>
+      <link>https://www.investing.com/news/filings/form-8k-apple-inc-for-20-april-93CH-4624836</link>
+      <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-apple-inc-for-20-april-93CH-4624836</guid>
+      <pubDate>20/04/2026 18:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Fed alterou discretamente a sua previsão de inflação para Março – e isso aponta para mais sofrimento para...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/retired-journalist-loses-270-000-093500832.html</guid>
       <pubDate>20/04/2026 15:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/7fad89603d5ff6377dbdff135b53c6bc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Clear Secure Inc atingem o máximo de 52 semanas a 56,54 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/clear-secure-inc-stock-hits-52week-high-at-5654-usd-93CH-4624216</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/clear-secure-inc-stock-hits-52week-high-at-5654-usd-93CH-4624216</guid>
-      <pubDate>20/04/2026 15:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
