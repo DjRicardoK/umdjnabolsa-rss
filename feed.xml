@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 12:56:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 12:56:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pesquisa do Banco do Canadá mostra que os consumidores esperam que a guerra no Oriente Médio aumente os preços</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bank-of-canada-survey-shows-consumers-expect-middle-east-war-to-raise-prices-93CH-4624059</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-canada-survey-shows-consumers-expect-middle-east-war-to-raise-prices-93CH-4624059</guid>
+      <pubDate>20/04/2026 12:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Melhor escolha de ações de IA da Motley Fool Asset Management: Amazon.com (AMZN)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/cue-biopharma-cue-appoints-lucinda-141548673.html</guid>
       <pubDate>20/04/2026 11:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1e9120b21df9d4584216be519950b41a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE NVIDIA (NVDA) vendida devido a preocupações dos investidores sobre a sustentabilidade dos gastos de capital...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-sold-off-due-140050849.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-sold-off-due-140050849.html</guid>
-      <pubDate>20/04/2026 11:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e27167f0d0ea28c9ccebcdb03eceb280" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
