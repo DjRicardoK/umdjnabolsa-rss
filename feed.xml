@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 12:10:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 12:10:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Dynex Capital Q1 2026 perde lucro por ação, ações caem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-dynex-capital-q1-2026-misses-eps-stock-drops-93CH-4623962</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dynex-capital-q1-2026-misses-eps-stock-drops-93CH-4623962</guid>
+      <pubDate>20/04/2026 12:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Marrocos caem no fechamento do pregão; Todas as ações marroquinas caíram 1,03%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-flags-shifting-sentiment-in-us-biotech-ahead-of-1q26-earnings-4623746</guid>
       <pubDate>20/04/2026 10:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF102VH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do Northern Trust em foco conforme mudança de estratégia enfrenta teste</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/northern-trust-earnings-in-focus-as-strategy-shift-faces-test-93CH-4623747</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/northern-trust-earnings-in-focus-as-strategy-shift-faces-test-93CH-4623747</guid>
-      <pubDate>20/04/2026 10:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
