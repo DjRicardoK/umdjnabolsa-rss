@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 00:36:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 00:54:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Emirados Árabes Unidos buscam apoio financeiro dos EUA em meio a preocupações com a guerra no Irã – WSJ</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/uae-seeks-us-financial-backstop-amid-iran-war-concerns-wsj-93CH-4622299</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uae-seeks-us-financial-backstop-amid-iran-war-concerns-wsj-93CH-4622299</guid>
+      <pubDate>20/04/2026 00:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que RBC Capital tem a dizer sobre Tesla (TSLA)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/expect-duke-energys-q1-2026-165539849.html</guid>
       <pubDate>17/04/2026 21:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/99cda9d228c28ed9ef094d7666c67eaa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE RedCloud recebe aviso de deficiência de preço mínimo de oferta da Nasdaq</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/redcloud-receives-nasdaq-minimum-bid-price-deficiency-notice-93CH-4622062</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/redcloud-receives-nasdaq-minimum-bid-price-deficiency-notice-93CH-4622062</guid>
-      <pubDate>17/04/2026 21:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
