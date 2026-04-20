@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 15:17:42 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 15:21:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jersey Mike&apos;s escolheu um momento difícil para os restaurantes abrirem o capital</title>
+      <description>A lanchonete entrou com pedido confidencial de IPO, mesmo quando as redes de fast-food e de lanchonetes estão presas em uma guerra de descontos para conquistar os consumidores...</description>
+      <link>https://www.marketwatch.com/story/jersey-mikes-has-picked-a-tough-time-for-restaurants-to-go-public-ab113893?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/jersey-mikes-has-picked-a-tough-time-for-restaurants-to-go-public-ab113893?mod=mw_rss_topstories</guid>
+      <pubDate>20/04/2026 15:21</pubDate>
+      <enclosure url="https://images.mktw.net/im-03565817" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Jornalista aposentado perde US$ 270 mil em esquema de ‘abate de porcos’ depois que romance online se...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-says-energy-chief-wrong-expects-lower-gas-prices-as-soon-as-iran-war-ends-4624107</guid>
       <pubDate>20/04/2026 13:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0XY_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Warsh, nomeado chefe do Fed, promete novo desinvestimento em arquivo financeiro atualizado</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/fed-chief-nominee-warsh-pledges-155556947.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-chief-nominee-warsh-pledges-155556947.html</guid>
-      <pubDate>20/04/2026 13:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/fd36575223c02ab5bc53a02f89b03ef1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
