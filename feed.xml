@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 19:12:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 19:53:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Thermador Groupe no primeiro trimestre de 2026 vê forte...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-thermador-groupe-q1-2026-sees-strong-revenue-growth-93CH-4624943</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-thermador-groupe-q1-2026-sees-strong-revenue-growth-93CH-4624943</guid>
+      <pubDate>20/04/2026 19:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE OneMedNet recebe notificação da Nasdaq por não cumprimento do preço mínimo de oferta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/stag-industrial-stock-hits-52week-high-at-3998-usd-93CH-4624329</guid>
       <pubDate>20/04/2026 16:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Formulário 144 Dakota Gold Corp. Para: 20 de abril</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-144-dakota-gold-corp-for-20-april-93CH-4624287</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-144-dakota-gold-corp-for-20-april-93CH-4624287</guid>
-      <pubDate>20/04/2026 16:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
