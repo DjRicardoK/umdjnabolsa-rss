@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 19 Apr 2026 21:39:28 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 22:03:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Petróleo salta, ações oscilam enquanto cessar-fogo no Oriente Médio está em jogo</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/oil-jumps-and-stock-futures-slip-as-iran-tensions-unsettle-markets-4622263</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/oil-jumps-and-stock-futures-slip-as-iran-tensions-unsettle-markets-4622263</guid>
+      <pubDate>19/04/2026 22:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3I0CF_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE ANET, FN, CIEN: Por que essas três ações de data centers são as principais compras nesta temporada de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-buy-amidst-164433630.html</guid>
       <pubDate>17/04/2026 20:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b51d4083c48c068654f8ae5eac5e8ac2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jim Cramer discute ações da RTX Corporation (RTX) em meio à guerra no Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-rtx-corporation-164415589.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-rtx-corporation-164415589.html</guid>
-      <pubDate>17/04/2026 20:50</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b17124e8173b56c40a8fa07d1a27f287" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
