@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 14:38:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 15:08:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da Fortive</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-fortive-report-085627171.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-fortive-report-085627171.html</guid>
+      <pubDate>20/04/2026 15:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4ba0821a14ee55e76aca9654a791d1bc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Principais ações de roupas esportivas à medida que surge a tendência de calçados elegantes, afirma Bernstein</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/aeci-executives-sell-shares-to-cover-tax-on-vested-awards-93CH-4624058</guid>
       <pubDate>20/04/2026 12:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Pesquisa do Banco do Canadá mostra que os consumidores esperam que a guerra no Oriente Médio aumente os preços</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/bank-of-canada-survey-shows-consumers-expect-middle-east-war-to-raise-prices-93CH-4624059</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-canada-survey-shows-consumers-expect-middle-east-war-to-raise-prices-93CH-4624059</guid>
-      <pubDate>20/04/2026 12:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
