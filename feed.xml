@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 10:42:40 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:42:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Avnet atingem o máximo histórico de 74,45 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/avnet-stock-hits-alltime-high-at-7445-usd-93CH-4623696</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/avnet-stock-hits-alltime-high-at-7445-usd-93CH-4623696</guid>
+      <pubDate>20/04/2026 10:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Atlantic Union em ação: o banco regional pode cumprir?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/columnamid-middle-east-chaos-china-changes-tactics-on-taiwan-and-japan-4623146</guid>
       <pubDate>20/04/2026 08:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0KQ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Biogen adquire direitos chineses do felzartamab por até US$ 850 milhões</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/biogen-acquires-china-rights-to-felzartamab-for-up-to-850m-93CH-4623086</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/biogen-acquires-china-rights-to-felzartamab-for-up-to-850m-93CH-4623086</guid>
-      <pubDate>20/04/2026 08:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
