@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 14:16:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:16:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warsh promete proteger a independência do Fed em audiência de confirmação</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/warsh-vows-to-protect-fed-independence-at-confirmation-hearing-93CH-4624173</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/warsh-vows-to-protect-fed-independence-at-confirmation-hearing-93CH-4624173</guid>
+      <pubDate>20/04/2026 14:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_1_M_1440048330.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O conluio da Amazon elevou os preços ao consumidor, diz a Califórnia, citando novas evidências</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-nominee-warsh-prepares-for-monetary-policy-road-test-before-senate-panel-4622743</guid>
       <pubDate>20/04/2026 12:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0GU_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE S&amp;P 500 e Nasdaq recuam à medida que crescentes tensões EUA-Irã diminuem o sentimento</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-stock-futures-fall-after-rally-as-mideast-tensions-flare-4622671</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-fall-after-rally-as-mideast-tensions-flare-4622671</guid>
-      <pubDate>20/04/2026 12:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0G6_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
