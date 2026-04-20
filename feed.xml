@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 18:03:55 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 18:08:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O menu de US$ 3 do McDonald’s está prestes a começar. É por isso que Wall Street já é fã.</title>
+      <description>Analistas do UBS dizem que as novas opções de menu mais acessíveis apoiam ainda mais a força de valor do McDonald&apos;s.</description>
+      <link>https://www.marketwatch.com/story/mcdonalds-3-menu-is-about-to-kick-off-heres-why-wall-street-is-already-a-fan-8906ea71?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/mcdonalds-3-menu-is-about-to-kick-off-heres-why-wall-street-is-already-a-fan-8906ea71?mod=mw_rss_topstories</guid>
+      <pubDate>20/04/2026 18:08</pubDate>
+      <enclosure url="https://images.mktw.net/im-21854492" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tim Cook deixará o cargo após 15 anos à frente da Apple</title>
       <description>John Ternus, vice-presidente sênior de engenharia de hardware da Apple, assumirá o cargo de CEO em setembro.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/ralph-lauren-stock-hits-alltime-high-at-38938-usd-93CH-4624218</guid>
       <pubDate>20/04/2026 15:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos lucros da Baxter International: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/baxter-international-earnings-preview-expect-084556923.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/baxter-international-earnings-preview-expect-084556923.html</guid>
-      <pubDate>20/04/2026 15:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1a086eb4dcda3e5f9048a77ad61ad693" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
