@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 19 Apr 2026 22:20:43 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 22:38:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aumento recorde das ações dos EUA para avançar ainda mais na temporada de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/surging-recordhigh-us-stocks-to-wade-deeper-into-earnings-season-4622291</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/surging-recordhigh-us-stocks-to-wade-deeper-into-earnings-season-4622291</guid>
+      <pubDate>19/04/2026 22:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J01F_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE SK Hynix inicia produção em massa de módulo de memória para Nvidia Vera Rubin</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/cheaper-mercedes-americans-pining-great-164500572.html</guid>
       <pubDate>17/04/2026 21:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/78a92ce03eb114788d042d8b5e2f9679" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do segundo trimestre de 2026 da Insteel Industries, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/insteel-industries-inc-q2-2026-164639540.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/insteel-industries-inc-q2-2026-164639540.html</guid>
-      <pubDate>17/04/2026 21:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/df233acc5ef39f2a17f6492315b905b2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
