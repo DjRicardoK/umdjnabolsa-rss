@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 19 Apr 2026 20:58:20 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 21:07:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Semana do mercado de ações à frente: olhando além da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investors.com/research/investing-action-plan/stock-market-looking-beyond-the-iran-war-tesla-boeing-intel/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/investing-action-plan/stock-market-looking-beyond-the-iran-war-tesla-boeing-intel/?src=A00220&yptr=yahoo</guid>
+      <pubDate>19/04/2026 21:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/4c682b01576563db3e6123d485144047" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco Nacional da Austrália aumenta provisões de crédito para a guerra no Irã; sinaliza cobrança de US$ 961...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apple-defeats-bid-for-new-apple-watch-import-ban-at-us-trade-tribunal-4622031</guid>
       <pubDate>17/04/2026 20:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3G1F6_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A impressionante recuperação da Nvidia enfrenta um grande teste</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/nvidias-impressive-rally-faces-one-big-test-163054251.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/nvidias-impressive-rally-faces-one-big-test-163054251.html</guid>
-      <pubDate>17/04/2026 20:42</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/1119ae30-2197-11f1-ae4e-8c03daf9b4f9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
