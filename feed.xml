@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 06:24:43 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:24:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Raymond James reitera forte compra das ações da Antero Resources nas perspectivas de produção</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-antero-resources-stock-strong-buy-on-production-outlook-93CH-4622608</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-antero-resources-stock-strong-buy-on-production-outlook-93CH-4622608</guid>
+      <pubDate>20/04/2026 06:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Evercore ISI reitera classificação das ações da IBM no primeiro trimestre, superando as expectativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-amphenol-stock-rating-on-ai-strength-93CH-4622348</guid>
       <pubDate>20/04/2026 02:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise – Ações de defesa europeias esfriam enquanto os investidores reavaliam os vencedores da guerra</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/analysiseuropean-defence-stocks-cool-as-investors-reassess-war-winners-4622338</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysiseuropean-defence-stocks-cool-as-investors-reassess-war-winners-4622338</guid>
-      <pubDate>20/04/2026 02:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J069_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
