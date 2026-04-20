@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 17:49:24 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:50:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Evercore ISI aumenta a meta de preço das ações da KeyCorp com base nas perspectivas de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-raises-keycorp-stock-price-target-on-earnings-outlook-93CH-4624642</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-raises-keycorp-stock-price-target-on-earnings-outlook-93CH-4624642</guid>
+      <pubDate>20/04/2026 17:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Grupo QVC será retirado da Nasdaq após pedido de falência</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-sportswear-stocks-as-dressy-shoe-trend-emerges-bernstein-says-93CH-4624193</guid>
       <pubDate>20/04/2026 14:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5P106_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Pesquisa semanal de credores hipotecários com as melhores taxas: 5 credores oferecem TAEG abaixo de 6%</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-april-20-2026-170834027.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-lenders-with-the-best-rates-this-week-april-20-2026-170834027.html</guid>
-      <pubDate>20/04/2026 14:29</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d9cd60-0c3a-11f1-bdff-87ef2d5000ac" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
