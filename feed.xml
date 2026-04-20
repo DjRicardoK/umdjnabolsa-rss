@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 05:15:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 05:23:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O valor dos acordos globais recupera à medida que as empresas realizam grandes transações após a guerra no...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/value-of-global-dealmaking-recovers-as-firms-pursue-big-transactions-after-iran-war-4622485</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/value-of-global-dealmaking-recovers-as-firms-pursue-big-transactions-after-iran-war-4622485</guid>
+      <pubDate>20/04/2026 05:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0CU_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs reitera compra de ações da Apple em meio a preocupações com DRAM</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-food-delivery-stocks-subdued-as-authorities-crack-down-on-ghost-deliveries-4622300</guid>
       <pubDate>20/04/2026 01:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7E0N7_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco da Indonésia manterá taxas em 4,75% até 2026, enquanto a guerra no Irã alimenta riscos de inflação:...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/bank-indonesia-to-hold-rates-at-475-through-2026-as-iran-war-fuels-inflation-risks-reuters-poll-4622302</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-indonesia-to-hold-rates-at-475-through-2026-as-iran-war-fuels-inflation-risks-reuters-poll-4622302</guid>
-      <pubDate>20/04/2026 01:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J052_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
