@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 05:23:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 05:41:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE B2Gold corta previsão de produção de ouro do 2T da Goose Mine após danos causados ​​por incêndio</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/b2gold-cuts-goose-mine-2q-gold-output-forecast-after-fire-damage-93CH-4622539</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/b2gold-cuts-goose-mine-2q-gold-output-forecast-after-fire-damage-93CH-4622539</guid>
+      <pubDate>20/04/2026 05:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O valor dos acordos globais recupera à medida que as empresas realizam grandes transações após a guerra no...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-petroleum-shares-slide-on-profit-hit-warning-from-middle-east-tensions-4622306</guid>
       <pubDate>20/04/2026 01:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC190AN_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os estoques de entrega de alimentos na China diminuíram enquanto as autoridades reprimiam as ‘entregas...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/china-food-delivery-stocks-subdued-as-authorities-crack-down-on-ghost-deliveries-4622300</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-food-delivery-stocks-subdued-as-authorities-crack-down-on-ghost-deliveries-4622300</guid>
-      <pubDate>20/04/2026 01:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7E0N7_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
