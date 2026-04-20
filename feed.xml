@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 01:02:06 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 01:02:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os estoques de entrega de alimentos na China diminuíram enquanto as autoridades reprimiam as ‘entregas...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/china-food-delivery-stocks-subdued-as-authorities-crack-down-on-ghost-deliveries-4622300</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-food-delivery-stocks-subdued-as-authorities-crack-down-on-ghost-deliveries-4622300</guid>
+      <pubDate>20/04/2026 01:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7E0N7_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco da Indonésia manterá taxas em 4,75% até 2026, enquanto a guerra no Irã alimenta riscos de inflação:...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-words-amazon-150700510.html</guid>
       <pubDate>19/04/2026 19:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/9e25cbb529e37f961638060d87ad306e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A expansão da margem torna as ações da Seagate uma vencedora nesta temporada de lucros, de acordo com...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/margin-expansion-makes-seagate-stock-182306462.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/margin-expansion-makes-seagate-stock-182306462.html</guid>
-      <pubDate>17/04/2026 22:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c9dcbd741a7c09ce0894c773d88613e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
