@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 06:42:47 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:42:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Barclays atualiza classificação das ações do UBS devido à melhoria das perspectivas de risco/recompensa</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/barclays-upgrades-ubs-stock-rating-on-improved-riskreward-outlook-93CH-4622636</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-upgrades-ubs-stock-rating-on-improved-riskreward-outlook-93CH-4622636</guid>
+      <pubDate>20/04/2026 06:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BofA vê banco central da Turquia mantendo taxas ou subindo para 40%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/china-warns-joint-us-philippines-and-japandrills-risk-regional-trust-4622457</guid>
       <pubDate>20/04/2026 05:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações caem com o aumento das tensões no Oriente Médio e recuperação do petróleo</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-on-rising-middle-east-tensions-oil-rebound-4622437</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-on-rising-middle-east-tensions-oil-rebound-4622437</guid>
-      <pubDate>20/04/2026 04:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7O0CS_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
