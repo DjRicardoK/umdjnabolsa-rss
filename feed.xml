@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 13:12:46 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 13:12:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE RBC reitera desempenho superior das ações da Eli Lilly na aquisição da Kelonia</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/rbc-reiterates-eli-lilly-stock-outperform-on-kelonia-acquisition-93CH-4624085</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rbc-reiterates-eli-lilly-stock-outperform-on-kelonia-acquisition-93CH-4624085</guid>
+      <pubDate>20/04/2026 13:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas da Itália caem no fechamento do pregão; Investing.com Itália 40 caiu 1,45%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/inside-one-of-amsterdams-first-supervised-selfdriving-teslas-4623501</guid>
       <pubDate>20/04/2026 11:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0O9_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Chefe da FMC: As transportadoras marítimas sabiam que a guerra poderia aumentar os preços dos combustíveis</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/fmc-chief-ocean-carriers-knew-141715560.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/fmc-chief-ocean-carriers-knew-141715560.html</guid>
-      <pubDate>20/04/2026 11:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/freightwaves_373/2f0eb12e4edf4669a644477474a9bedf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
