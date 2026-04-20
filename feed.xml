@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 07:45:31 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:45:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Citizens reitera classificação das ações da Twilio sobre crescimento de voz de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-twilio-stock-rating-on-ai-voice-growth-93CH-4622762</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-twilio-stock-rating-on-ai-voice-growth-93CH-4622762</guid>
+      <pubDate>20/04/2026 07:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Citizens reitera classificação das ações da Roku na posição do mercado de streaming</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-applovin-stock-cites-ecommerce-growth-93CH-4622623</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-applovin-stock-cites-ecommerce-growth-93CH-4622623</guid>
       <pubDate>20/04/2026 06:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Evercore ISI reitera classificação das ações da Arista Networks antes dos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-arista-networks-stock-rating-ahead-of-earnings-93CH-4622606</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-arista-networks-stock-rating-ahead-of-earnings-93CH-4622606</guid>
-      <pubDate>20/04/2026 06:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
