@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 15:24:43 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 15:54:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ‘Como na década de 1930’: Ray Dalio adverte que a agenda de Trump poderá mergulhar os EUA em tempos ‘piores...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/1930s-ray-dalio-warns-trump-101700486.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/1930s-ray-dalio-warns-trump-101700486.html</guid>
+      <pubDate>20/04/2026 15:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/183b1832ca835939de66db961a67fb7c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Stmicroelectronics atingem alta de 52 semanas a 44,64 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/kevin-warshs-testimony-to-congress-is-out-early-he-wants-the-fed-to-stay-in-its-lane-d6249040?mod=mw_rss_topstories</guid>
       <pubDate>20/04/2026 14:08</pubDate>
       <enclosure url="https://images.mktw.net/im-96178305" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mizuho reitera classificação das ações da Arcus Biosciences após suspensão do teste</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/mizuho-reiterates-arcus-biosciences-stock-rating-after-trial-halt-93CH-4624153</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/mizuho-reiterates-arcus-biosciences-stock-rating-after-trial-halt-93CH-4624153</guid>
-      <pubDate>20/04/2026 13:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
