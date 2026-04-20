@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 12:39:28 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 12:56:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Melhor escolha de ações de IA da Motley Fool Asset Management: Amazon.com (AMZN)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/motley-fool-asset-management-top-154250967.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/motley-fool-asset-management-top-154250967.html</guid>
+      <pubDate>20/04/2026 12:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f44d956d3c5dc0b8c077dfd303fc4707" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Pesquisa do Banco do Canadá: as perspectivas das empresas estavam melhorando antes da guerra com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-sold-off-due-140050849.html</guid>
       <pubDate>20/04/2026 11:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e27167f0d0ea28c9ccebcdb03eceb280" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Investidores se preparam para ganhos da Wintrust à medida que a receita se aproxima</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/investors-brace-for-wintrust-earnings-as-revenue-slide-looms-93CH-4623804</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/investors-brace-for-wintrust-earnings-as-revenue-slide-looms-93CH-4623804</guid>
-      <pubDate>20/04/2026 11:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
