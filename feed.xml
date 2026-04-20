@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 06:42:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:44:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Apple retém dados no caso antitruste da Índia, órgão de fiscalização marca audiência final</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/apple-withholds-data-in-india-antitrust-case-watchdog-sets-final-hearing-4622640</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apple-withholds-data-in-india-antitrust-case-watchdog-sets-final-hearing-4622640</guid>
+      <pubDate>20/04/2026 06:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J0FO_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Barclays atualiza classificação das ações do UBS devido à melhoria das perspectivas de risco/recompensa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/global-oil-stocks-rise-as-renewed-hormuz-tensions-drive-energy-prices-higher-4622452</guid>
       <pubDate>20/04/2026 05:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC950UL_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE China alerta que exercícios conjuntos entre EUA, Filipinas e Japão arriscam a confiança regional</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/china-warns-joint-us-philippines-and-japandrills-risk-regional-trust-4622457</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/china-warns-joint-us-philippines-and-japandrills-risk-regional-trust-4622457</guid>
-      <pubDate>20/04/2026 05:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
