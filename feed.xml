@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 19 Apr 2026 22:38:23 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 22:42:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE China deixa parâmetros de referência de empréstimos inalterados pelo 11º mês de abril</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/china-leaves-lending-benchmarks-unchanged-for-11th-month-in-april-4622289</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-leaves-lending-benchmarks-unchanged-for-11th-month-in-april-4622289</guid>
+      <pubDate>19/04/2026 22:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J012_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aumento recorde das ações dos EUA para avançar ainda mais na temporada de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/citizens-financial-group-inc-q1-164633929.html</guid>
       <pubDate>17/04/2026 21:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/bc1855895eefc419359dc317c44b175f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ‘Mais barato que um Mercedes’: os americanos anseiam por pechinchas domésticas da era da Grande Recessão – e...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/cheaper-mercedes-americans-pining-great-164500572.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/cheaper-mercedes-americans-pining-great-164500572.html</guid>
-      <pubDate>17/04/2026 21:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/78a92ce03eb114788d042d8b5e2f9679" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
