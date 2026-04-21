@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:12:02 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:12:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Adtran atingem o máximo de 52 semanas a 17,97 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/adtran-stock-hits-52week-high-at-1797-usd-93CH-4626605</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/adtran-stock-hits-52week-high-at-1797-usd-93CH-4626605</guid>
+      <pubDate>21/04/2026 11:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Boston Scientific em alta enquanto EP e Watchman duvidam do redemoinho</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/unitedhealth-stock-jumps-7-on-earnings-outlook-beat-125216924.html</guid>
       <pubDate>21/04/2026 10:02</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/aVlI0jcLRfRbRBCSF7yFfw--~B/aD0zMDAwO3c9NDUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/3861665e-7f35-4e28-a957-ff036c51e051" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Keefe Bruyette aumenta a meta de preço das ações da Chemung Financial após a queda dos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/keefe-bruyette-raises-chemung-financial-stock-price-target-on-earnings-beat-93CH-4626245</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/keefe-bruyette-raises-chemung-financial-stock-price-target-on-earnings-beat-93CH-4626245</guid>
-      <pubDate>21/04/2026 09:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
