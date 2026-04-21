@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:30:57 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 14:32:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer observa “O mercado total endereçável para produtos da NVIDIA continua em expansão”</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-total-addressable-171915742.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-total-addressable-171915742.html</guid>
+      <pubDate>21/04/2026 14:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita da Moncler no primeiro trimestre de 2026 supera...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/boeing-earnings-737-deliveries-boeing-stock/?src=A00220&yptr=yahoo</guid>
       <pubDate>21/04/2026 12:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/e1b53e0557b58a2ddf695b2bee7abe9a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Stifel reitera classificação de compra de ações da Halliburton na batida do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-halliburton-stock-buy-rating-on-q1-beat-93CH-4626832</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-halliburton-stock-buy-rating-on-q1-beat-93CH-4626832</guid>
-      <pubDate>21/04/2026 12:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
