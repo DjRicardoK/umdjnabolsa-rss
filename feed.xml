@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 10:02:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 10:13:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Visualização instantânea: Forte primeiro trimestre da UnitedHealth, previsão eleva a alegria de Wall Street</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/instant-view-unitedhealths-strong-first-125422543.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/instant-view-unitedhealths-strong-first-125422543.html</guid>
+      <pubDate>21/04/2026 10:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/a43e2b65c38282054b48b52f8a8dc82c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da UnitedHealth saltam 7% com queda na perspectiva de lucros</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-inflarx-stock-rating-on-aav-opportunity-93CH-4625829</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-inflarx-stock-rating-on-aav-opportunity-93CH-4625829</guid>
       <pubDate>21/04/2026 08:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Principais ações de software posicionadas para o boom de segurança de IA, de acordo com o Morgan Stanley</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/top-software-stocks-positioned-for-ai-security-boom-according-to-morgan-stanley-93CH-4625795</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-software-stocks-positioned-for-ai-security-boom-according-to-morgan-stanley-93CH-4625795</guid>
-      <pubDate>21/04/2026 08:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
