@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:14:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:26:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Muitos norte-americanos questionam o temperamento de Trump em meio à guerra no Irã, cuspiu papa, diz pesquisa...</title>
+      <description></description>
+      <link>https://www.investing.com/news/politics-news/many-americans-question-trumps-temperament-amid-iran-war-pope-spat-reutersipsos-poll-4625484</link>
+      <guid isPermaLink="false">https://www.investing.com/news/politics-news/many-americans-question-trumps-temperament-amid-iran-war-pope-spat-reutersipsos-poll-4625484</guid>
+      <pubDate>21/04/2026 07:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0JJ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE UnitedHealth registra lucro trimestral acima das estimativas de Wall Street, no caminho certo para recuperação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-employers-turn-cautious-after-start-of-iran-war-4625264</guid>
       <pubDate>21/04/2026 05:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0EI_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Veja por que a Lantheus Holdings Inc (LNTH) está entre as melhores ações de IA médica para investir</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/why-lantheus-holdings-inc-lnth-205100222.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/why-lantheus-holdings-inc-lnth-205100222.html</guid>
-      <pubDate>21/04/2026 04:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c3503a37299ef5942ac0adf2737fe4ea" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
