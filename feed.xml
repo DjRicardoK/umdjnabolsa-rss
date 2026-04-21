@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 06:25:13 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:27:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE William Blair eleva a classificação das ações da Kforce em termos de risco-recompensa atraente</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/william-blair-upgrades-kforce-stock-rating-on-compelling-riskreward-93CH-4625329</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/william-blair-upgrades-kforce-stock-rating-on-compelling-riskreward-93CH-4625329</guid>
+      <pubDate>21/04/2026 06:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise-Tiroteios em massa reacendem pressão para flexibilizar leis sobre armas na Ucrânia devastada pela...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/applebee-ihop-owner-dine-brands-191807544.html</guid>
       <pubDate>21/04/2026 03:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d3b0735997823ab2c69af690f505d319" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Europa enfrenta crise de combustível de aviação no verão enquanto a guerra no Irã reduz a oferta</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/europe-faces-summer-jet-fuel-190000293.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/europe-faces-summer-jet-fuel-190000293.html</guid>
-      <pubDate>21/04/2026 03:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/oilprice.com/009b8841f6dd0c1252ee297bd6f5daf3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
