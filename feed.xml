@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:05:03 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:06:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da SanDisk subiram 2.817% em um ano. Wall Street diz que ainda não acabou.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-2-817-wall-113002492.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-2-817-wall-113002492.html</guid>
+      <pubDate>21/04/2026 17:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e7d9281efcd52df9885e2aa41365a29b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da AtriCure atingem o menor nível em 52 semanas, a 27,26 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-atlanta-for-21-april-93CH-4627038</guid>
       <pubDate>21/04/2026 14:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: BOK Financial supera as previsões de lucros do primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bok-financial-beats-q1-2026-earnings-forecasts-93CH-4627040</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bok-financial-beats-q1-2026-earnings-forecasts-93CH-4627040</guid>
-      <pubDate>21/04/2026 14:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
