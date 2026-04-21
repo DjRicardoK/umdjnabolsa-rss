@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:53:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 15:05:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Analistas otimistas com relação às minas de prata e ouro da Avino (ASM) em meio a um aumento de 180% no...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/analyst-bullish-avino-silver-gold-173958960.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/analyst-bullish-avino-silver-gold-173958960.html</guid>
+      <pubDate>21/04/2026 15:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7ecd40f6a0c8bb9f0de6f1b80a930ee5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Rivian lança software de licenciamento para montadoras. O Android dos EVs?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-msci-q1-2026-earnings-beat-lifts-stock-93CH-4626932</guid>
       <pubDate>21/04/2026 13:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações europeias caem à medida que a incerteza cerca as negociações de paz no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-subdued-as-uncertainty-surrounds-mideast-peace-talks-4625110</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-subdued-as-uncertainty-surrounds-mideast-peace-talks-4625110</guid>
-      <pubDate>21/04/2026 13:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF030BG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
