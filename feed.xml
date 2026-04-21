@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 04:43:41 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 04:43:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: SKF Q1 2026 mostra resiliência em meio aos desafios cambiais</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-skf-q1-2026-shows-resilience-amid-fx-challenges-93CH-4625138</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-skf-q1-2026-shows-resilience-amid-fx-challenges-93CH-4625138</guid>
+      <pubDate>21/04/2026 04:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Changan da China pretende estar entre os 10 maiores fabricantes de automóveis do mundo até 2030</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/morning-bid-markets-long-for-peace-prepare-for-warsh-4625023</guid>
       <pubDate>21/04/2026 01:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K04K_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de fornecedores asiáticos da Apple mistas nos planos de sucessão de CEO</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/apple-asian-supplier-shares-mixed-on-ceo-succession-plans-4625022</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apple-asian-supplier-shares-mixed-on-ceo-succession-plans-4625022</guid>
-      <pubDate>21/04/2026 01:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5I13Q_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
