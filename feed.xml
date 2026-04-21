@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:26:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 14:27:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reitera classificação das ações da Summit Therapeutics com base em dados de ensaios</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-summit-therapeutics-stock-rating-on-trial-data-93CH-4626994</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-summit-therapeutics-stock-rating-on-trial-data-93CH-4626994</guid>
+      <pubDate>21/04/2026 14:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Alaska Air diz que tarifas se mantêm enquanto aumento de combustível testa ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-registrations-plunge-in-california-industry-body-says-4626756</guid>
       <pubDate>21/04/2026 12:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0XQ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs mantém preço do cobre para 2026 e previsões de superávit</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/goldman-sachs-maintains-2026-copper-price-surplus-forecasts-4626819</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/goldman-sachs-maintains-2026-copper-price-surplus-forecasts-4626819</guid>
-      <pubDate>21/04/2026 12:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0YU_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
