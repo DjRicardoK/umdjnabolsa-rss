@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:54:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:05:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da AtriCure atingem o menor nível em 52 semanas, a 27,26 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/atricure-stock-hits-52week-low-at-2726-usd-93CH-4627229</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/atricure-stock-hits-52week-low-at-2726-usd-93CH-4627229</guid>
+      <pubDate>21/04/2026 17:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Morgan Stanley reitera classificação de ações da Circle Internet em Equalweight</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bok-financial-beats-q1-2026-earnings-forecasts-93CH-4627040</guid>
       <pubDate>21/04/2026 14:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Apple vai sentir falta de Tim Cook – uma estatística ilustra perfeitamente o porquê</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/apple-going-miss-tim-cook-173345904.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-going-miss-tim-cook-173345904.html</guid>
-      <pubDate>21/04/2026 14:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/cfcd0d9c3d1ee8af46ddcf300476c0e1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
