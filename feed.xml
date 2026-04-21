@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 18:10:47 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 18:14:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação dos lucros do McDonald&apos;s</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-mcdonalds-earnings-release-125447764.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-mcdonalds-earnings-release-125447764.html</guid>
+      <pubDate>21/04/2026 18:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/319d4ffee84040393e13c5158e06294f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos trimestrais da Mastercard: o que você precisa saber</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-waller-calls-for-overhaul-of-regional-fed-bank-operations-4627122</guid>
       <pubDate>21/04/2026 15:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K15M_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Setor de viagens mostra perspectivas mistas antes da temporada de lucros de 2026, diz Jefferies</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/travel-sector-shows-mixed-outlook-ahead-of-2026-earnings-season-jefferies-says-4627103</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/travel-sector-shows-mixed-outlook-ahead-of-2026-earnings-season-jefferies-says-4627103</guid>
-      <pubDate>21/04/2026 15:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC5S097_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
