@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 21:09:05 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 21:23:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Blackberry sobem com a colaboração expandida da Nvidia AI</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/blackberry-stock-surges-on-expanded-nvidia-ai-collaboration-4624972</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/blackberry-stock-surges-on-expanded-nvidia-ai-collaboration-4624972</guid>
+      <pubDate>20/04/2026 21:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEABI0K0_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE ARK de Cathie Wood vende ações da Iridium, compra Kratos e Amazon</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/analyst-ratings/bofa-raises-cms-energy-stock-price-target-to-88-on-higher-earnings-93CH-4624641</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-raises-cms-energy-stock-price-target-to-88-on-higher-earnings-93CH-4624641</guid>
-      <pubDate>20/04/2026 17:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Evercore ISI aumenta a meta de preço das ações da KeyCorp com base nas perspectivas de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-raises-keycorp-stock-price-target-on-earnings-outlook-93CH-4624642</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-raises-keycorp-stock-price-target-on-earnings-outlook-93CH-4624642</guid>
       <pubDate>20/04/2026 17:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
