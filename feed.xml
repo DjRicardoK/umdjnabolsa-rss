@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:27:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 14:30:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita da Moncler no primeiro trimestre de 2026 supera...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-moncler-q1-2026-revenue-beats-forecast-stock-rises-93CH-4627002</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-moncler-q1-2026-revenue-beats-forecast-stock-rises-93CH-4627002</guid>
+      <pubDate>21/04/2026 14:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Stifel reitera classificação das ações da Summit Therapeutics com base em dados de ensaios</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-halliburton-stock-buy-rating-on-q1-beat-93CH-4626832</guid>
       <pubDate>21/04/2026 12:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Registros da Tesla na Califórnia caem à medida que os incentivos diminuem, diz órgão da indústria</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/tesla-registrations-plunge-in-california-industry-body-says-4626756</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-registrations-plunge-in-california-industry-body-says-4626756</guid>
-      <pubDate>21/04/2026 12:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0XQ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
