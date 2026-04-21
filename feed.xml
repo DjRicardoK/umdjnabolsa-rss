@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:06:47 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:21:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE AI Stocks: Google faz proposta de &apos;Agentic Cloud&apos;, Adobe Conference sobe ao palco</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-tech-earnings-april202026/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-tech-earnings-april202026/?src=A00220&yptr=yahoo</guid>
+      <pubDate>21/04/2026 17:21</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/d7cf9ddd4d7e16b4173298be6f3ba2a3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da SanDisk subiram 2.817% em um ano. Wall Street diz que ainda não acabou.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/politics-news/us-senate-republicans-to-move-forward-with-budget-plan-for-trump-immigration-enforcement-4626732</guid>
       <pubDate>21/04/2026 14:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0WI_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Formulário 8K FEDERAL HOME LOAN BANK OF ATLANTA Para: 21 de abril</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-atlanta-for-21-april-93CH-4627038</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-atlanta-for-21-april-93CH-4627038</guid>
-      <pubDate>21/04/2026 14:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
