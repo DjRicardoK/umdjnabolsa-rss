@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 13:21:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 13:46:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ganhos do MSCI no primeiro trimestre de 2026 superam ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-msci-q1-2026-earnings-beat-lifts-stock-93CH-4626932</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-msci-q1-2026-earnings-beat-lifts-stock-93CH-4626932</guid>
+      <pubDate>21/04/2026 13:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações europeias caem à medida que a incerteza cerca as negociações de paz no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/eu-weighs-more-us-jet-fuel-cleaner-aviation-amid-iran-war-strains-4626131</guid>
       <pubDate>21/04/2026 11:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0LE_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Acionistas da Warrior Met Coal aprovam diretores e plano de capital na reunião anual</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/warrior-met-coal-shareholders-approve-directors-and-equity-plan-at-annual-meeting-93CH-4626688</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/warrior-met-coal-shareholders-approve-directors-and-equity-plan-at-annual-meeting-93CH-4626688</guid>
-      <pubDate>21/04/2026 11:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
