@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 03:30:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 03:38:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As grandes montadoras alemãs costumavam liderar a corrida na China, mas agora são “para os pais”</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/germanys-big-carmakers-used-to-lead-the-race-in-china-but-now-theyre-for-the-parents-4625077</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/germanys-big-carmakers-used-to-lead-the-race-in-china-but-now-theyre-for-the-parents-4625077</guid>
+      <pubDate>21/04/2026 03:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K08V_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer sobre os próximos ganhos da GE Aerospace: “Pode ser um pouco decepcionante”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-muted-with-iran-talks-in-focus-dollar-steady-ahead-of-warsh-hearing-4625013</guid>
       <pubDate>21/04/2026 00:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED6I01K_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Wells Fargo diz que o ouro pode quase dobrar para US$ 8.000 a onça – mesmo depois de sua pior queda mensal em...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/wells-fargo-says-gold-could-163500630.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/wells-fargo-says-gold-could-163500630.html</guid>
-      <pubDate>21/04/2026 00:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/2c544a0ceb3717ab428a5cbaf10801b6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
