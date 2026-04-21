@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 08:18:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 08:19:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O futuro pós-Cook da Apple depende de a Ternus conseguir impulsionar o crescimento da IA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/apples-post-cook-future-hinges-110821646.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/apples-post-cook-future-hinges-110821646.html</guid>
+      <pubDate>21/04/2026 08:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/544006ced6b4877e515d2f4498674b1b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Valmont Industries sobem 5% com a queda dos lucros e aumentou a orientação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/william-blair-upgrades-kforce-stock-rating-on-compelling-riskreward-93CH-4625329</guid>
       <pubDate>21/04/2026 06:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise-Tiroteios em massa reacendem pressão para flexibilizar leis sobre armas na Ucrânia devastada pela...</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/analysismass-shooting-reignites-push-to-loosen-gun-laws-in-wartorn-ukraine-4625314</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysismass-shooting-reignites-push-to-loosen-gun-laws-in-wartorn-ukraine-4625314</guid>
-      <pubDate>21/04/2026 06:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0GL_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
