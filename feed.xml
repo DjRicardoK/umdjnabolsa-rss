@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 02:16:03 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:44:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Shell (SHEL) é um dos 12 estoques de gás natural mais subvalorizados para comprar agora?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/shell-shel-one-12-most-181642382.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/shell-shel-one-12-most-181642382.html</guid>
+      <pubDate>21/04/2026 02:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5d97a53f16f1aea0bd9ad2bfae35e924" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Análise-Com as tarifas estagnadas, a política de Trump para a China muda</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-rebound-as-iran-peace-talks-in-focus-warsh-hearing-looms-4624997</guid>
       <pubDate>20/04/2026 22:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K01Y_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar subjugado enquanto mercados visam negociações de cessar-fogo; iene pressionado pelo atraso do BOJ</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/dollar-subdued-as-markets-eye-ceasefire-talks-yen-pressured-by-boj-delay-4624996</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-subdued-as-markets-eye-ceasefire-talks-yen-pressured-by-boj-delay-4624996</guid>
-      <pubDate>20/04/2026 22:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K01T_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
