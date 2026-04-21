@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 00:25:57 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 00:26:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Taxa de desemprego juvenil na China sobe para 16,9% em março</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/chinas-youth-jobless-rate-rises-to-169-in-march-4625011</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/chinas-youth-jobless-rate-rises-to-169-in-march-4625011</guid>
+      <pubDate>21/04/2026 00:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K03F_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas da Ásia mistas em meio à incerteza do Irã; KOSPI atinge recorde histórico em rali de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-thermador-groupe-q1-2026-sees-strong-revenue-growth-93CH-4624943</guid>
       <pubDate>20/04/2026 19:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE OneMedNet recebe notificação da Nasdaq por não cumprimento do preço mínimo de oferta</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/onemednet-receives-nasdaq-notice-for-minimum-bid-price-noncompliance-93CH-4624886</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/onemednet-receives-nasdaq-notice-for-minimum-bid-price-noncompliance-93CH-4624886</guid>
-      <pubDate>20/04/2026 19:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
