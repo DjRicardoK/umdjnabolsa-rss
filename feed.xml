@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:52:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 14:52:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Republicanos do Senado dos EUA avançarão com plano orçamentário para aplicação da imigração de Trump</title>
+      <description></description>
+      <link>https://www.investing.com/news/politics-news/us-senate-republicans-to-move-forward-with-budget-plan-for-trump-immigration-enforcement-4626732</link>
+      <guid isPermaLink="false">https://www.investing.com/news/politics-news/us-senate-republicans-to-move-forward-with-budget-plan-for-trump-immigration-enforcement-4626732</guid>
+      <pubDate>21/04/2026 14:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0WI_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 8K FEDERAL HOME LOAN BANK OF ATLANTA Para: 21 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-nominee-warsh-spars-with-democratic-senators-over-asset-divestment-plan-4626891</guid>
       <pubDate>21/04/2026 13:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K10C_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Bélgica caem no fechamento do pregão; BEL 20 caiu 1,45%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-145-4626856</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-145-4626856</guid>
-      <pubDate>21/04/2026 13:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB820J9_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
