@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 22:38:13 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 22:38:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE RedotPay integra SUI e USDC-Sui para permitir pagamentos contínuos baseados em Stablecoin e pagamentos globais</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/redotpay-integrates-sui-and-usdcsui-to-enable-seamless-stablecoinbased-payments-and-global-payouts-4624995</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/redotpay-integrates-sui-and-usdcsui-to-enable-seamless-stablecoinbased-payments-and-global-payouts-4624995</guid>
+      <pubDate>20/04/2026 22:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Factbox-Quem é John Ternus, o novo CEO da Apple?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-apple-inc-for-20-april-93CH-4624836</guid>
       <pubDate>20/04/2026 18:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Fed alterou discretamente a sua previsão de inflação para Março – e isso aponta para mais sofrimento para...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/fed-quietly-altered-march-inflation-123300030.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-quietly-altered-march-inflation-123300030.html</guid>
-      <pubDate>20/04/2026 18:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/b394fa11a3e5513b47c66274de0edc6c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
