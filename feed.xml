@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 01:14:48 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 01:24:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação dos resultados da Hubbell</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-hubbells-earnings-release-170131659.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-hubbells-earnings-release-170131659.html</guid>
+      <pubDate>21/04/2026 01:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/320be81adf730f0fb1ff1a0b67d9ad3e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Tesla, Hormuz e outras coisas importantes para assistir esta semana</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-travere-tvtx-overlooked-growth-154215507.html</guid>
       <pubDate>20/04/2026 21:00</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bdef92312c1e33ac5f58650e8a9893fa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Legend Biotech (LEGN) é uma das ações de crescimento negligenciadas para comprar agora?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/legend-biotech-legn-one-overlooked-154203702.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/legend-biotech-legn-one-overlooked-154203702.html</guid>
-      <pubDate>20/04/2026 20:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e6a67f8e431995a1c93180e617e450ab" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
