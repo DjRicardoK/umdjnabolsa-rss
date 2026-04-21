@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 18:14:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 18:26:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE United Airlines ecoa cautela da indústria enquanto aumento de combustível de guerra no Irã comprime margens</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/united-airlines-sees-weak-q2-fullyear-profit-as-fuel-shock-squeezes-margins-4627334</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/united-airlines-sees-weak-q2-fullyear-profit-as-fuel-shock-squeezes-margins-4627334</guid>
+      <pubDate>21/04/2026 18:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K17V_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação dos lucros do McDonald&apos;s</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rbb-bancorp-q1-2026-tops-forecasts-shares-surge-93CH-4627137</guid>
       <pubDate>21/04/2026 15:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Waller, do Fed, pede revisão das operações regionais do banco Fed</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/feds-waller-calls-for-overhaul-of-regional-fed-bank-operations-4627122</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-waller-calls-for-overhaul-of-regional-fed-bank-operations-4627122</guid>
-      <pubDate>21/04/2026 15:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K15M_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
