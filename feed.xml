@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 21:55:22 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 22:05:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O co-CEO da Warby Parker, Neil Blumenthal, vende US$ 2,47 milhões em ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/insider-trading-news/warby-parker-coceo-neil-blumenthal-sells-247m-in-shares-93CH-4624985</link>
+      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/warby-parker-coceo-neil-blumenthal-sells-247m-in-shares-93CH-4624985</guid>
+      <pubDate>20/04/2026 22:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE IPC da Nova Zelândia mais forte do que o esperado no primeiro trimestre, acima da meta do RBNZ</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/mcdonalds-3-menu-is-about-to-kick-off-heres-why-wall-street-is-already-a-fan-8906ea71?mod=mw_rss_topstories</guid>
       <pubDate>20/04/2026 18:08</pubDate>
       <enclosure url="https://images.mktw.net/im-21854492" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tim Cook deixará o cargo após 15 anos à frente da Apple</title>
-      <description>John Ternus, vice-presidente sênior de engenharia de hardware da Apple, assumirá o cargo de CEO em setembro.</description>
-      <link>https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/tim-cook-to-step-down-after-15-years-at-the-helm-of-apple-68d0e126?mod=mw_rss_topstories</guid>
-      <pubDate>20/04/2026 18:03</pubDate>
-      <enclosure url="https://images.mktw.net/im-68835675" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
