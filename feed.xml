@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 10:58:57 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 10:59:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE DA. Davidson reitera classificação de compra de ações da Wintrust Financial em US$ 165</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-wintrust-financial-stock-buy-rating-at-165-93CH-4626539</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-wintrust-financial-stock-buy-rating-at-165-93CH-4626539</guid>
+      <pubDate>21/04/2026 10:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE DA Davidson reitera classificação de compra de ações da Diebold Nixdorf em US$ 100</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/unitedhealth-earnings-unh-stock-dow-jones-q12026/?src=A00220&yptr=yahoo</guid>
       <pubDate>21/04/2026 09:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/0ef648ae20d98adf962f47ccf22969a2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As vendas no varejo saltam para o maior nível em 3 anos, mas isso se deve aos altos preços do gás</title>
-      <description>As vendas nos retalhistas norte-americanos registaram o maior ganho em Março em três anos, mas o aumento foi impulsionado pelos preços mais elevados da gasolina e pelo aumento da...</description>
-      <link>https://www.marketwatch.com/story/retail-sales-jump-to-3-year-high-but-its-due-to-high-gas-prices-0dbfc66b?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/retail-sales-jump-to-3-year-high-but-its-due-to-high-gas-prices-0dbfc66b?mod=mw_rss_topstories</guid>
-      <pubDate>21/04/2026 09:37</pubDate>
-      <enclosure url="https://images.mktw.net/im-83073218" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
