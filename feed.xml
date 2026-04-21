@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 23:16:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 00:25:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas da Ásia mistas em meio à incerteza do Irã; KOSPI atinge recorde histórico em rali de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-mixed-amid-iran-uncertainty-kospi-hits-record-high-on-ai-rally-4625012</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-mixed-amid-iran-uncertainty-kospi-hits-record-high-on-ai-rally-4625012</guid>
+      <pubDate>21/04/2026 00:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0Q00K_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O novo CEO da Apple é um perfeccionista de produtos que está enfrentando a era da IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/onemednet-receives-nasdaq-notice-for-minimum-bid-price-noncompliance-93CH-4624886</guid>
       <pubDate>20/04/2026 19:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Netflix gera enormes margens FCF e FCF - as metas de preços da NFLX são mais altas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/netflix-generates-massive-fcf-fcf-133002954.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netflix-generates-massive-fcf-fcf-133002954.html</guid>
-      <pubDate>20/04/2026 19:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f6f52bffea7da044754aaa0e8feb0b5f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
