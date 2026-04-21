@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 10:47:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 10:49:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Sonoco enfrenta teste de lucros à medida que aumentos de preços atendem à fraca demanda</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/sonoco-faces-earnings-test-as-price-hikes-meet-soft-demand-93CH-4626525</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/sonoco-faces-earnings-test-as-price-hikes-meet-soft-demand-93CH-4626525</guid>
+      <pubDate>21/04/2026 10:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Xenia Hotels &amp; Resorts atingem o máximo em 52 semanas, a 16,5 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/ges-profit-beats-by-wide-margin-sending-its-stock-into-positive-territory-for-the-year-8463b635?mod=mw_rss_topstories</guid>
       <pubDate>21/04/2026 09:25</pubDate>
       <enclosure url="https://images.mktw.net/im-80688907" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Einride da Suécia implantará 75 caminhões elétricos para frete da Amazon nos EUA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/swedens-einride-deploy-75-electric-120630987.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/swedens-einride-deploy-75-electric-120630987.html</guid>
-      <pubDate>21/04/2026 09:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/c4eff0aaa055e003c50f1b6db35d44a5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
