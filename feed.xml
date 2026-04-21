@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 04:51:37 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 05:37:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Empregadores do Reino Unido ficam cautelosos após o início da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/uk-employers-turn-cautious-after-start-of-iran-war-4625264</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-employers-turn-cautious-after-start-of-iran-war-4625264</guid>
+      <pubDate>21/04/2026 05:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0EI_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que a Lantheus Holdings Inc (LNTH) está entre as melhores ações de IA médica para investir</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/shell-shel-one-12-most-181642382.html</guid>
       <pubDate>21/04/2026 02:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5d97a53f16f1aea0bd9ad2bfae35e924" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Análise-Com as tarifas estagnadas, a política de Trump para a China muda</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/analysiswith-tariffs-stalled-trumps-china-policy-drifts-4625031</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/analysiswith-tariffs-stalled-trumps-china-policy-drifts-4625031</guid>
-      <pubDate>21/04/2026 02:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K04W_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
