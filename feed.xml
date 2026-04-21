@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 03:13:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 03:16:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer espera clareza sobre os planos de expansão da United Airlines após os lucros</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-expects-clarity-united-185124912.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-expects-clarity-united-185124912.html</guid>
+      <pubDate>21/04/2026 03:16</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/86b6f1eab4d4c0ffbf065f3a834e0a1b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer espera comentários tranquilizadores durante a próxima teleconferência sobre lucros da Boeing</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/chinas-youth-jobless-rate-rises-to-169-in-march-4625011</guid>
       <pubDate>21/04/2026 00:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K03F_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas da Ásia mistas em meio à incerteza do Irã; KOSPI atinge recorde histórico em rali de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-mixed-amid-iran-uncertainty-kospi-hits-record-high-on-ai-rally-4625012</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-mixed-amid-iran-uncertainty-kospi-hits-record-high-on-ai-rally-4625012</guid>
-      <pubDate>21/04/2026 00:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0Q00K_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
