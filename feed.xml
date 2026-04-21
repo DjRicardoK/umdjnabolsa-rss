@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 20:42:15 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 20:54:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do próximo relatório de lucros trimestrais da Amgen</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/expect-amgens-next-quarterly-earnings-154906289.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/expect-amgens-next-quarterly-earnings-154906289.html</guid>
+      <pubDate>21/04/2026 20:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8edc41ee642c072b019eddb5984ee1e7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do segundo trimestre de 2026 da Apple: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-east-west-bancorp-beats-q1-2026-forecasts-93CH-4627816</guid>
       <pubDate>21/04/2026 18:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Especialistas emitem alerta sobre contas bancárias nos EUA ociosas: o dinheiro agora pode ser entregue ao...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/expert-issues-warning-over-us-133000140.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/expert-issues-warning-over-us-133000140.html</guid>
-      <pubDate>21/04/2026 18:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/85a394fd64e572dbe5bd3055706b19b1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
