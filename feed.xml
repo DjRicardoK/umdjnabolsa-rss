@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:48:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 14:52:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: BOK Financial supera as previsões de lucros do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bok-financial-beats-q1-2026-earnings-forecasts-93CH-4627040</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bok-financial-beats-q1-2026-earnings-forecasts-93CH-4627040</guid>
+      <pubDate>21/04/2026 14:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Apple vai sentir falta de Tim Cook – uma estatística ilustra perfeitamente o porquê</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/france-stocks-lower-at-close-of-trade-cac-40-down-114-4626857</guid>
       <pubDate>21/04/2026 13:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7D09D_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de hipoteca e refinanciamento hoje, 21 de abril de 2026: as taxas permanecem praticamente firmes</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-april-21-2026-100000413.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-april-21-2026-100000413.html</guid>
-      <pubDate>21/04/2026 13:10</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
