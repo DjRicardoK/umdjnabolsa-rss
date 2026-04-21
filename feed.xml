@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 18:29:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 18:52:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Especialistas emitem alerta sobre contas bancárias nos EUA ociosas: o dinheiro agora pode ser entregue ao...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/expert-issues-warning-over-us-133000140.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/expert-issues-warning-over-us-133000140.html</guid>
+      <pubDate>21/04/2026 18:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/85a394fd64e572dbe5bd3055706b19b1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia de ganhos: o que esperar do relatório da EPAM Systems</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/paraguay-central-bank-holds-rate-at-55-on-stable-inflation-93CH-4627155</guid>
       <pubDate>21/04/2026 16:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações devem abrir em baixa com o aumento do petróleo após o aumento das tensões EUA-Irã; Dados económicos e...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-oil-102433804.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-set-open-lower-oil-102433804.html</guid>
-      <pubDate>21/04/2026 16:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fcebfc40d659e147fc2e5eab7e6cb524" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
