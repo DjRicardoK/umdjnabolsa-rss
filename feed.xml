@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 01:34:50 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 01:51:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de fornecedores asiáticos da Apple mistas nos planos de sucessão de CEO</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/apple-asian-supplier-shares-mixed-on-ceo-succession-plans-4625022</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apple-asian-supplier-shares-mixed-on-ceo-succession-plans-4625022</guid>
+      <pubDate>21/04/2026 01:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5I13Q_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados do Charles River Laboratories</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/warby-parker-coceo-neil-blumenthal-sells-247m-in-shares-93CH-4624985</guid>
       <pubDate>20/04/2026 22:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE IPC da Nova Zelândia mais forte do que o esperado no primeiro trimestre, acima da meta do RBNZ</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/new-zealand-cpi-stronger-than-expected-in-q1-above-rbnz-target-93CH-4624979</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/new-zealand-cpi-stronger-than-expected-in-q1-above-rbnz-target-93CH-4624979</guid>
-      <pubDate>20/04/2026 21:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
