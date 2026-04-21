@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 19:57:42 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:57:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da Amazon.com</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-amazon-coms-144036169.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-amazon-coms-144036169.html</guid>
+      <pubDate>21/04/2026 19:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5315b40465374421aadcde536da55dfe" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Caros fãs do Apple Stock, marquem em seus calendários para 30 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mastercards-quarterly-earnings-preview-know-125022609.html</guid>
       <pubDate>21/04/2026 18:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/a9da660f9acba3247d2effc5ef941bcc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do próximo relatório de lucros trimestrais da Parker-Hannifin</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-parker-hannifins-next-quarterly-123103334.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-parker-hannifins-next-quarterly-123103334.html</guid>
-      <pubDate>21/04/2026 18:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/507ee2f2ca2b9ae330396235fabab44b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
