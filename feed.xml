@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:21:04 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:41:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Monolithic Power Systems: o que você precisa saber</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-quarterly-earnings-120130491.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/monolithic-power-systems-quarterly-earnings-120130491.html</guid>
+      <pubDate>21/04/2026 17:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6a596bc576d595713a444ae547233958" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE AI Stocks: Google faz proposta de &apos;Agentic Cloud&apos;, Adobe Conference sobe ao palco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/rivian-self-driving-software-licensing-tesla-nvidia-uber/?src=A00220&yptr=yahoo</guid>
       <pubDate>21/04/2026 14:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/63b1596cbe3776b2534bf5cdb40a1a2f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Republicanos do Senado dos EUA avançarão com plano orçamentário para aplicação da imigração de Trump</title>
-      <description></description>
-      <link>https://www.investing.com/news/politics-news/us-senate-republicans-to-move-forward-with-budget-plan-for-trump-immigration-enforcement-4626732</link>
-      <guid isPermaLink="false">https://www.investing.com/news/politics-news/us-senate-republicans-to-move-forward-with-budget-plan-for-trump-immigration-enforcement-4626732</guid>
-      <pubDate>21/04/2026 14:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0WI_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
