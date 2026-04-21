@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 03:38:28 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 03:40:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Europa enfrenta crise de combustível de aviação no verão enquanto a guerra no Irã reduz a oferta</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/europe-faces-summer-jet-fuel-190000293.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/europe-faces-summer-jet-fuel-190000293.html</guid>
+      <pubDate>21/04/2026 03:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/oilprice.com/009b8841f6dd0c1252ee297bd6f5daf3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As grandes montadoras alemãs costumavam liderar a corrida na China, mas agora são “para os pais”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/vistra-earnings-preview-expect-165339252.html</guid>
       <pubDate>21/04/2026 00:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/6feb43f2267bc35c351d4272a0b3e448" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Asia FX silenciado com negociações sobre o Irã em foco; dólar estável antes da audiência de Warsh</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/asia-fx-muted-with-iran-talks-in-focus-dollar-steady-ahead-of-warsh-hearing-4625013</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-muted-with-iran-talks-in-focus-dollar-steady-ahead-of-warsh-hearing-4625013</guid>
-      <pubDate>21/04/2026 00:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED6I01K_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
