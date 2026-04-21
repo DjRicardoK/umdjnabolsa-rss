@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 13:21:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 13:21:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações europeias caem à medida que a incerteza cerca as negociações de paz no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-subdued-as-uncertainty-surrounds-mideast-peace-talks-4625110</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-open-mostly-subdued-as-uncertainty-surrounds-mideast-peace-talks-4625110</guid>
+      <pubDate>21/04/2026 13:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF030BG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warsh, indicado do Fed, discute com senadores democratas sobre plano de desinvestimento de ativos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/warrior-met-coal-shareholders-approve-directors-and-equity-plan-at-annual-meeting-93CH-4626688</guid>
       <pubDate>21/04/2026 11:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Caseys General Stores atingem o máximo histórico de 775,69 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/caseys-general-stores-stock-hits-alltime-high-at-77569-usd-93CH-4626652</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/caseys-general-stores-stock-hits-alltime-high-at-77569-usd-93CH-4626652</guid>
-      <pubDate>21/04/2026 11:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
