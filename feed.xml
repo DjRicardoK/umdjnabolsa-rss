@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 09:25:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:37:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As vendas no varejo saltam para o maior nível em 3 anos, mas isso se deve aos altos preços do gás</title>
+      <description>As vendas nos retalhistas norte-americanos registaram o maior ganho em Março em três anos, mas o aumento foi impulsionado pelos preços mais elevados da gasolina e pelo aumento da...</description>
+      <link>https://www.marketwatch.com/story/retail-sales-jump-to-3-year-high-but-its-due-to-high-gas-prices-0dbfc66b?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/retail-sales-jump-to-3-year-high-but-its-due-to-high-gas-prices-0dbfc66b?mod=mw_rss_topstories</guid>
+      <pubDate>21/04/2026 09:37</pubDate>
+      <enclosure url="https://images.mktw.net/im-83073218" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da GE caem, à medida que o conflito no Irã tempera as perspectivas, apesar da queda nos lucros</title>
       <description>As ações da GE Aerospace caem à medida que as perspectivas para o ano inteiro foram mantidas praticamente intactas, apesar de uma grande queda nos lucros.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/compass-point-just-downgraded-circle-105601557.html</guid>
       <pubDate>21/04/2026 08:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/898ac99033be0ba00668e896158b6569" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Northrop Grumman registra receita maior em meio a conflitos globais crescentes</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/northrop-grumman-posts-higher-revenue-104854865.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/northrop-grumman-posts-higher-revenue-104854865.html</guid>
-      <pubDate>21/04/2026 08:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/136f59a68b0bb036104c4a922920e787" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
