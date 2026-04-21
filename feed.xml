@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 09:58:23 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:58:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Keefe Bruyette aumenta a meta de preço das ações da Chemung Financial após a queda dos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/keefe-bruyette-raises-chemung-financial-stock-price-target-on-earnings-beat-93CH-4626245</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/keefe-bruyette-raises-chemung-financial-stock-price-target-on-earnings-beat-93CH-4626245</guid>
+      <pubDate>21/04/2026 09:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE TD Cowen reitera classificação das ações da Lyft com meta de US$ 30 em reservas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/why-goldman-sachs-thinks-stocks-will-rip-even-higher-112018077.html</guid>
       <pubDate>21/04/2026 08:26</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/074ccb50-3d74-11f1-bd23-baf94bf785e2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O futuro pós-Cook da Apple depende de a Ternus conseguir impulsionar o crescimento da IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/apples-postcook-future-hinges-on-whether-ternus-can-ignite-ai-growth-4625722</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apples-postcook-future-hinges-on-whether-ternus-can-ignite-ai-growth-4625722</guid>
-      <pubDate>21/04/2026 08:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0M3_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
