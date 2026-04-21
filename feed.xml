@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 01:51:49 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 01:56:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Oferta matinal: os mercados anseiam pela paz, preparem-se para Warsh</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/morning-bid-markets-long-for-peace-prepare-for-warsh-4625023</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/morning-bid-markets-long-for-peace-prepare-for-warsh-4625023</guid>
+      <pubDate>21/04/2026 01:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K04K_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de fornecedores asiáticos da Apple mistas nos planos de sucessão de CEO</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/factboxwho-is-john-ternus-apples-new-ceo-4624857</guid>
       <pubDate>20/04/2026 22:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3J183_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O co-CEO da Warby Parker, Neil Blumenthal, vende US$ 2,47 milhões em ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/warby-parker-coceo-neil-blumenthal-sells-247m-in-shares-93CH-4624985</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/warby-parker-coceo-neil-blumenthal-sells-247m-in-shares-93CH-4624985</guid>
-      <pubDate>20/04/2026 22:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
