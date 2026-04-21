@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 04:45:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 04:51:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que a Lantheus Holdings Inc (LNTH) está entre as melhores ações de IA médica para investir</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/why-lantheus-holdings-inc-lnth-205100222.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/why-lantheus-holdings-inc-lnth-205100222.html</guid>
+      <pubDate>21/04/2026 04:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c3503a37299ef5942ac0adf2737fe4ea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O fim da liberdade dos mares: por que o transporte marítimo global pode nunca mais ser o mesmo</title>
       <description>A liberdade de navegação marítima tem sido considerada há muito tempo uma característica fundamental da ordem liberal do pós-guerra, mas tudo isto está a mudar na era das...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/analysiswith-tariffs-stalled-trumps-china-policy-drifts-4625031</guid>
       <pubDate>21/04/2026 02:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K04W_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mesoblast Limited (MESO), uma das melhores ações ASX de longo prazo para comprar agora; Veja por quê</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/mesoblast-limited-meso-one-best-173522404.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mesoblast-limited-meso-one-best-173522404.html</guid>
-      <pubDate>21/04/2026 02:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2c6af9abc0ed048a4d4e97d83ed9c5c8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
