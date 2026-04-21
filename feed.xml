@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:40:42 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 16:47:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Celsius Holdings atingem o mínimo de 52 semanas, a 32,35 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/celsius-holdings-stock-hits-52week-low-at-3235-usd-93CH-4627202</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/celsius-holdings-stock-hits-52week-low-at-3235-usd-93CH-4627202</guid>
+      <pubDate>21/04/2026 16:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Isso é o que os críticos da Apple e de Tim Cook erram completamente</title>
       <description>A verdadeira inovação da Apple é apostar no hardware como o caminho mais claro para lucrar com a revolução da IA.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-total-addressable-171915742.html</guid>
       <pubDate>21/04/2026 14:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita da Moncler no primeiro trimestre de 2026 supera...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-moncler-q1-2026-revenue-beats-forecast-stock-rises-93CH-4627002</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-moncler-q1-2026-revenue-beats-forecast-stock-rises-93CH-4627002</guid>
-      <pubDate>21/04/2026 14:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
