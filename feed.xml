@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:37:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:51:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas da Grécia caem no fechamento do pregão; Atenas General Composite caiu 0,01%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-001-4626726</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-001-4626726</guid>
+      <pubDate>21/04/2026 11:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0S0CP_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE UE avalia mais combustível de aviação dos EUA e aviação mais limpa em meio às tensões da guerra no Irã</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/xenia-hotels--resorts-stock-hits-52week-high-at-165-usd-93CH-4626458</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/xenia-hotels--resorts-stock-hits-52week-high-at-165-usd-93CH-4626458</guid>
       <pubDate>21/04/2026 10:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Advanced Energy Industries atingem o máximo histórico de 388,0 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/advanced-energy-industries-stock-hits-alltime-high-at-3880-usd-93CH-4626459</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/advanced-energy-industries-stock-hits-alltime-high-at-3880-usd-93CH-4626459</guid>
-      <pubDate>21/04/2026 10:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
