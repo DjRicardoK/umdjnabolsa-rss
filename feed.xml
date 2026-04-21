@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 19:57:47 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:57:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ford e General Motors poderiam se tornar fabricantes de armas. Isso faz compras de ações F e GM aqui?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/ford-general-motors-could-become-144244882.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ford-general-motors-could-become-144244882.html</guid>
+      <pubDate>21/04/2026 19:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fae4b372a461424f51dd553a237b350d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da Amazon.com</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-mcdonalds-earnings-release-125447764.html</guid>
       <pubDate>21/04/2026 18:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/319d4ffee84040393e13c5158e06294f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos ganhos trimestrais da Mastercard: o que você precisa saber</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/mastercards-quarterly-earnings-preview-know-125022609.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mastercards-quarterly-earnings-preview-know-125022609.html</guid>
-      <pubDate>21/04/2026 18:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a9da660f9acba3247d2effc5ef941bcc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
