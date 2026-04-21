@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 09:57:44 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:58:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE TD Cowen reitera classificação das ações da Lyft com meta de US$ 30 em reservas</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-lyft-stock-rating-with-30-target-on-bookings-93CH-4626246</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-lyft-stock-rating-with-30-target-on-bookings-93CH-4626246</guid>
+      <pubDate>21/04/2026 09:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE CEO do Goldman vê petróleo atingindo US$ 80-US$ 100 nos próximos meses</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apples-postcook-future-hinges-on-whether-ternus-can-ignite-ai-growth-4625722</guid>
       <pubDate>21/04/2026 08:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0M3_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O futuro pós-Cook da Apple depende de a Ternus conseguir impulsionar o crescimento da IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/apples-post-cook-future-hinges-110821646.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/apples-post-cook-future-hinges-110821646.html</guid>
-      <pubDate>21/04/2026 08:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/544006ced6b4877e515d2f4498674b1b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
