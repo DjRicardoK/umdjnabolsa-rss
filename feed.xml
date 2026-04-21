@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 08:03:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 08:11:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Círculo do ponto da bússola recém rebaixado (CRCL); Então, por que ainda está entre as melhores ações...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/compass-point-just-downgraded-circle-105601557.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/compass-point-just-downgraded-circle-105601557.html</guid>
+      <pubDate>21/04/2026 08:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/898ac99033be0ba00668e896158b6569" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Northrop Grumman registra receita maior em meio a conflitos globais crescentes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-apple-stock-slips-after-ceo-tim-cook-announces-he-will-step-down-144220058.html</guid>
       <pubDate>21/04/2026 06:09</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/6e988e60-1327-11f1-bfff-079b15344ad1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar americano sobe à medida que o prazo do cessar-fogo no Irã se aproxima</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/us-dollar-edges-higher-iran-084015564.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/us-dollar-edges-higher-iran-084015564.html</guid>
-      <pubDate>21/04/2026 06:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/fa9e2e7a1088d0ae5ea786158bae9be3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
