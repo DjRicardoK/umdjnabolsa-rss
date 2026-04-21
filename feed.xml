@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 06:27:36 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:32:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Proprietário da Primark alerta para o impacto da guerra no Irão nas perspectivas – tornando-o um dos...</title>
+      <description>A Associated British Foods relatou um declínio de 18% no lucro operacional e disse que estava monitorando uma possível desaceleração nos gastos do consumidor</description>
+      <link>https://www.marketwatch.com/story/primark-owner-warns-of-impact-of-war-in-iran-on-outlook-making-it-one-of-the-first-european-retailers-to-do-so-f4c8cac4?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/primark-owner-warns-of-impact-of-war-in-iran-on-outlook-making-it-one-of-the-first-european-retailers-to-do-so-f4c8cac4?mod=mw_rss_topstories</guid>
+      <pubDate>21/04/2026 06:32</pubDate>
+      <enclosure url="https://images.mktw.net/im-12275923" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Avanza Bank no primeiro trimestre de 2026 registra lucro recorde e...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-buy-on-apple-stock-keeps-325-target-93CH-4625120</guid>
       <pubDate>21/04/2026 04:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 0,88%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-088-4625104</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-088-4625104</guid>
-      <pubDate>21/04/2026 04:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8O09I_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
