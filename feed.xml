@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 09:06:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 09:07:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BoE manterá taxas de juros até 2026, apesar da ameaça de inflação, diz pesquisa da Reuters</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/boe-to-hold-interest-rates-through-2026-despite-inflation-threat-reuters-poll-4625876</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boe-to-hold-interest-rates-through-2026-despite-inflation-threat-reuters-poll-4625876</guid>
+      <pubDate>21/04/2026 09:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0NR_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que Wheaton Precious Metals (WPM) é uma das melhores ações canadenses para comprar no longo prazo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/unitedhealths-stock-surges-as-profit-beats-expectations-by-widest-margin-in-five-years-9d1cebb1?mod=mw_rss_topstories</guid>
       <pubDate>21/04/2026 07:47</pubDate>
       <enclosure url="https://images.mktw.net/im-39440907" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon investirá até US$ 25 bilhões na startup de IA Anthropic. Por que o estoque está subindo.</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/amazon-to-invest-25-billion-ai-startup-anthropic-why-amzn-stock-rising/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/amazon-to-invest-25-billion-ai-startup-anthropic-why-amzn-stock-rising/?src=A00220&yptr=yahoo</guid>
-      <pubDate>21/04/2026 07:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/819ecf1385c68630a974c3bfb29460a0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
