@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 23:16:26 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 23:16:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O novo CEO da Apple é um perfeccionista de produtos que está enfrentando a era da IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/apples-new-ceo-is-a-product-perfectionist-taking-on-the-ai-age-4625004</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apples-new-ceo-is-a-product-perfectionist-taking-on-the-ai-age-4625004</guid>
+      <pubDate>20/04/2026 23:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K02D_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Amaero Ltd, terceiro trimestre de 2026, vê aumento de receita...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netflix-generates-massive-fcf-fcf-133002954.html</guid>
       <pubDate>20/04/2026 19:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/f6f52bffea7da044754aaa0e8feb0b5f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ServisFirst Bancshares relata resultados mistos do primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-servisfirst-bancshares-reports-mixed-q1-2026-results-93CH-4624871</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-servisfirst-bancshares-reports-mixed-q1-2026-results-93CH-4624871</guid>
-      <pubDate>20/04/2026 19:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
