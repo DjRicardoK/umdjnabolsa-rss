@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 03:40:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 04:08:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 0,88%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-088-4625104</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-088-4625104</guid>
+      <pubDate>21/04/2026 04:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8O09I_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dine Brands, proprietário da Applebee&apos;s e IHOP, parece pronta para ser comprada</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-earnings-hormuz-other-key-170002865.html</guid>
       <pubDate>21/04/2026 01:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/a3f8b7b175c2147da9ed22b631b9dee3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da IDEX Corporation: o que você precisa saber</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/idex-corporations-quarterly-earnings-preview-165836619.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/idex-corporations-quarterly-earnings-preview-165836619.html</guid>
-      <pubDate>21/04/2026 01:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/06b6550d3190c96a2783e62eeb352199" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
