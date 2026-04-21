@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 15:23:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 15:29:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Setor de viagens mostra perspectivas mistas antes da temporada de lucros de 2026, diz Jefferies</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/travel-sector-shows-mixed-outlook-ahead-of-2026-earnings-season-jefferies-says-4627103</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/travel-sector-shows-mixed-outlook-ahead-of-2026-earnings-season-jefferies-says-4627103</guid>
+      <pubDate>21/04/2026 15:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC5S097_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Apple retém dados no caso antitruste da Índia, órgão de fiscalização marca audiência final</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/from-allbirds-to-ai-the-meme-stock-frenzy-is-warning-you-to-own-this-quality-antimeme-portfolio-instead-6714bb16?mod=mw_rss_topstories</guid>
       <pubDate>21/04/2026 14:00</pubDate>
       <enclosure url="https://images.mktw.net/im-05048336" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de tecnologia hoje: as ações da Apple caem enquanto Wall Street avalia o novo CEO John Ternus,...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-apple-stock-falls-as-wall-street-sizes-up-new-ceo-john-ternus-anthropic-makes-progress-on-pentagon-deal-144220057.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-apple-stock-falls-as-wall-street-sizes-up-new-ceo-john-ternus-anthropic-makes-progress-on-pentagon-deal-144220057.html</guid>
-      <pubDate>21/04/2026 13:56</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/9459def0-3d03-11f1-bfff-954e8ad27b6e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
