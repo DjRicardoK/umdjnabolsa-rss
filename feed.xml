@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:35:30 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:35:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Caseys General Stores atingem o máximo histórico de 775,69 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/caseys-general-stores-stock-hits-alltime-high-at-77569-usd-93CH-4626652</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/caseys-general-stores-stock-hits-alltime-high-at-77569-usd-93CH-4626652</guid>
+      <pubDate>21/04/2026 11:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE UBS reitera classificação das ações da Crocs em cenários de perspectiva de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/unitedhealth-stock-jumps-8-on-earnings-outlook-beat-125216776.html</guid>
       <pubDate>21/04/2026 10:44</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/aVlI0jcLRfRbRBCSF7yFfw--~B/aD0zMDAwO3c9NDUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/3861665e-7f35-4e28-a957-ff036c51e051" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Poet Technologies atingem alta de 52 semanas a 9,48 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/poet-technologies-stock-hits-52week-high-at-948-usd-93CH-4626451</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/poet-technologies-stock-hits-52week-high-at-948-usd-93CH-4626451</guid>
-      <pubDate>21/04/2026 10:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
