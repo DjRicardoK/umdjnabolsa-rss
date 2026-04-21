@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 13:11:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 13:12:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Bélgica caem no fechamento do pregão; BEL 20 caiu 1,45%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-145-4626856</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/belgium-stocks-lower-at-close-of-trade-bel-20-down-145-4626856</guid>
+      <pubDate>21/04/2026 13:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB820J9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas da França caem no fechamento do pregão; CAC 40 caiu 1,14%</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-crocs-stock-rating-on-earnings-outlook-scenarios-93CH-4626654</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-crocs-stock-rating-on-earnings-outlook-scenarios-93CH-4626654</guid>
-      <pubDate>21/04/2026 11:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Empresa saudita de TI Dar Al Balad listará ações apesar do conflito com o Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/saudi-it-firm-dar-al-balad-to-list-shares-despite-iran-conflict-93CH-4626656</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/saudi-it-firm-dar-al-balad-to-list-shares-despite-iran-conflict-93CH-4626656</guid>
       <pubDate>21/04/2026 11:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
