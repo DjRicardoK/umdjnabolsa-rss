@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 01:33:07 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 01:34:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados do Charles River Laboratories</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/know-ahead-charles-river-laboratories-171045488.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/know-ahead-charles-river-laboratories-171045488.html</guid>
+      <pubDate>21/04/2026 01:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/3f5c1810be7e451a8edffbdd51432896" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Exclusivo-SpaceX tenta cortejar Wall Street com reunião de analistas de três dias esta semana, dizem fontes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/new-zealand-cpi-stronger-than-expected-in-q1-above-rbnz-target-93CH-4624979</guid>
       <pubDate>20/04/2026 21:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Blackberry sobem com a colaboração expandida da Nvidia AI</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/blackberry-stock-surges-on-expanded-nvidia-ai-collaboration-4624972</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/blackberry-stock-surges-on-expanded-nvidia-ai-collaboration-4624972</guid>
-      <pubDate>20/04/2026 21:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEABI0K0_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
