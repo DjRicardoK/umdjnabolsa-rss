@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Apr 2026 22:57:03 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 22:57:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Mitchell Services, terceiro trimestre de 2026, vê aumento de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-mitchell-services-q3-2026-sees-stock-rise-93CH-4624999</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mitchell-services-q3-2026-sees-stock-rise-93CH-4624999</guid>
+      <pubDate>20/04/2026 22:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações se recuperam enquanto as negociações de paz com o Irã estão em foco; A audição de Warsh se aproxima</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/article/the-million-dollar-retirement-planning-question-how-long-will-you-live-132449323.html</guid>
       <pubDate>20/04/2026 19:02</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/rHO5Xi9_YBONRcUof2m6qQ--~B/aD0zODAwO3c9NTcwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/36d4a38a-2c3d-4948-a297-915beae47039" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Análise: Investidores investem nas ações dos EUA enquanto o renascimento da &apos;TINA&apos; derruba as negociações da...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/analysis-investors-pile-us-stocks-091058959.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/analysis-investors-pile-us-stocks-091058959.html</guid>
-      <pubDate>20/04/2026 19:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/d58aca44e6fc56c065b8f22c66683195" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
