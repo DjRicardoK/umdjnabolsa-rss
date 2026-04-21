@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 12:51:38 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 12:51:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Registros da Tesla na Califórnia caem à medida que os incentivos diminuem, diz órgão da indústria</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/tesla-registrations-plunge-in-california-industry-body-says-4626756</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-registrations-plunge-in-california-industry-body-says-4626756</guid>
+      <pubDate>21/04/2026 12:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0XQ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs mantém preço do cobre para 2026 e previsões de superávit</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/halliburton-stock-oilfield-services-giant-halliburton-earnings-iran-war/?src=A00220&yptr=yahoo</guid>
       <pubDate>21/04/2026 11:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/e939d6a61c1596169aa9ee057aadd8bf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Vishay Intertechnology atingem o máximo de 52 semanas a 27,03 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/vishay-intertechnology-stock-hits-52week-high-at-2703-usd-93CH-4626603</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/vishay-intertechnology-stock-hits-52week-high-at-2703-usd-93CH-4626603</guid>
-      <pubDate>21/04/2026 11:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
