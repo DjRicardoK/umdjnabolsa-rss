@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 02:44:30 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:55:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE TotalEnergies espera fortes ganhos no primeiro trimestre em meio à guerra EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/totalenergies-expecting-strong-q1-earnings-182017116.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/totalenergies-expecting-strong-q1-earnings-182017116.html</guid>
+      <pubDate>21/04/2026 02:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b78a3cd50213ee5d752e8a503c8cf90c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Shell (SHEL) é um dos 12 estoques de gás natural mais subvalorizados para comprar agora?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mitchell-services-q3-2026-sees-stock-rise-93CH-4624999</guid>
       <pubDate>20/04/2026 22:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações se recuperam enquanto as negociações de paz com o Irã estão em foco; A audição de Warsh se aproxima</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/stocks-rebound-as-iran-peace-talks-in-focus-warsh-hearing-looms-4624997</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-rebound-as-iran-peace-talks-in-focus-warsh-hearing-looms-4624997</guid>
-      <pubDate>20/04/2026 22:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K01Y_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
