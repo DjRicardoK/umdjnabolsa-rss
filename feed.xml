@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 19:42:21 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:53:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar sobe à medida que aumentam as tensões da guerra EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-us-iran-war-143508419.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-climbs-us-iran-war-143508419.html</guid>
+      <pubDate>21/04/2026 19:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1c78243ff6ea0f56104ce694dab841ee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que o efeito trade down pode não ser suficiente para as ações da Dollar Tree (DLTR)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/earnings-preview-expect-dte-energys-124410195.html</guid>
       <pubDate>21/04/2026 18:09</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/be7e73722052df773b2a2940f3eb7a7f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Terri A. Sewell vende ações da GE Healthcare Technologies and Tapestry</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/terri-a-sewell-sells-stocks-in-ge-healthcare-technologies-and-tapestry-93CH-4627649</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/terri-a-sewell-sells-stocks-in-ge-healthcare-technologies-and-tapestry-93CH-4627649</guid>
-      <pubDate>21/04/2026 18:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
