@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 07:47:26 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:49:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Gresham House Energy vê forte recuperação no ano fiscal de 2025</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-gresham-house-energy-sees-strong-fy-2025-recovery-93CH-4625593</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-gresham-house-energy-sees-strong-fy-2025-recovery-93CH-4625593</guid>
+      <pubDate>21/04/2026 07:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da UnitedHealth sobem à medida que o lucro supera as expectativas pela maior margem em cinco anos</title>
       <description>A gigante da saúde aumentou a sua previsão de lucros para o ano e revelou resultados inesperadamente fortes no primeiro trimestre.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/alaska-air-says-it-will-spend-more-on-fuel-this-quarter-than-it-earned-the-last-two-years-587d85c8?mod=mw_rss_topstories</guid>
       <pubDate>21/04/2026 05:49</pubDate>
       <enclosure url="https://images.mktw.net/im-67595998" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Morgan Stanley espera reação positiva do mercado para as ações de energia do Reino Unido após reformas...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/morgan-stanley-expects-positive-market-reaction-for-uk-power-stocks-following-government-reforms-93CH-4625268</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morgan-stanley-expects-positive-market-reaction-for-uk-power-stocks-following-government-reforms-93CH-4625268</guid>
-      <pubDate>21/04/2026 05:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
