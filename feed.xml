@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:15:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 11:25:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Amplitude (AMPL) caiu em meio à ampla liquidação de software</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amplitude-ampl-slipped-amid-broad-141239445.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amplitude-ampl-slipped-amid-broad-141239445.html</guid>
+      <pubDate>21/04/2026 11:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/55297b594cedce761c7054246b9fde68" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Que bolha de IA? Por que o JPMorgan afirma que as ações de IA recuperaram o impulso.</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/ngl-energy-partners-lp-stock-hits-alltime-high-of-1395-usd-93CH-4626454</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/ngl-energy-partners-lp-stock-hits-alltime-high-of-1395-usd-93CH-4626454</guid>
       <pubDate>21/04/2026 10:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Roth / MKM reitera compra de ações da Amazon e mantém meta de US$ 285</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/rothmkm-reiterates-buy-on-amazon-stock-keeps-285-target-93CH-4626401</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rothmkm-reiterates-buy-on-amazon-stock-keeps-285-target-93CH-4626401</guid>
-      <pubDate>21/04/2026 10:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
