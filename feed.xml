@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 10:34:28 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 10:34:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações do Grupo Emcor atingem o máximo histórico em 837,12 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/emcor-group-stock-hits-alltime-high-at-83712-usd-93CH-4626452</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/emcor-group-stock-hits-alltime-high-at-83712-usd-93CH-4626452</guid>
+      <pubDate>21/04/2026 10:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Digi International Inc atingem o máximo histórico de 56,25 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/shopify-shop-best-canadian-stocks-115656955.html</guid>
       <pubDate>21/04/2026 09:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4e892c2fdbb4900df39d6933180d923b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os lucros da Halliburton são afetados pelo conflito no Irã, mas ainda estão no topo das previsões</title>
-      <description>As ações da Halliburton valorizaram-se depois de o lucro ter mais do que duplicado e superado as expectativas, mesmo quando o conflito no Médio Oriente prejudicou os resultados do...</description>
-      <link>https://www.marketwatch.com/story/halliburtons-earnings-take-a-hit-from-the-iran-conflict-but-they-still-top-forecasts-acca3198?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/halliburtons-earnings-take-a-hit-from-the-iran-conflict-but-they-still-top-forecasts-acca3198?mod=mw_rss_topstories</guid>
-      <pubDate>21/04/2026 09:05</pubDate>
-      <enclosure url="https://images.mktw.net/im-84307412" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
