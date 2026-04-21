@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 19:14:11 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:22:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: W. R. Berkley supera as estimativas do primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-w-r-berkley-beats-q1-2026-estimates-stock-rises-93CH-4627865</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-w-r-berkley-beats-q1-2026-estimates-stock-rises-93CH-4627865</guid>
+      <pubDate>21/04/2026 19:22</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Microsoft Corporation (MSFT) caiu apesar de apresentar resultados robustos</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/atricure-stock-hits-52week-low-at-2726-usd-93CH-4627229</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/atricure-stock-hits-52week-low-at-2726-usd-93CH-4627229</guid>
       <pubDate>21/04/2026 17:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Morgan Stanley reitera classificação de ações da Circle Internet em Equalweight</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-circle-internet-stock-rating-at-equalweight-93CH-4627222</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-circle-internet-stock-rating-at-equalweight-93CH-4627222</guid>
-      <pubDate>21/04/2026 16:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
