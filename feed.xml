@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:47:23 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 16:54:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Morgan Stanley reitera classificação de ações da Circle Internet em Equalweight</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-circle-internet-stock-rating-at-equalweight-93CH-4627222</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-circle-internet-stock-rating-at-equalweight-93CH-4627222</guid>
+      <pubDate>21/04/2026 16:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Celsius Holdings atingem o mínimo de 52 semanas, a 32,35 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-going-miss-tim-cook-173345904.html</guid>
       <pubDate>21/04/2026 14:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/cfcd0d9c3d1ee8af46ddcf300476c0e1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer observa “O mercado total endereçável para produtos da NVIDIA continua em expansão”</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-total-addressable-171915742.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-total-addressable-171915742.html</guid>
-      <pubDate>21/04/2026 14:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
