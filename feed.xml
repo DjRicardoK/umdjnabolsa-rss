@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 15:40:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 15:48:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: RBB Bancorp Q1 2026 supera as previsões, ações sobem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-rbb-bancorp-q1-2026-tops-forecasts-shares-surge-93CH-4627137</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rbb-bancorp-q1-2026-tops-forecasts-shares-surge-93CH-4627137</guid>
+      <pubDate>21/04/2026 15:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Waller, do Fed, pede revisão das operações regionais do banco Fed</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-registrations-drop-24-in-california-as-hybrids-gain-ground-93CH-4626975</guid>
       <pubDate>21/04/2026 14:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Comandante dos EUA alerta Taiwan para não ‘deixar o frango passar fome’ na defesa</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-commander-warns-taiwan-not-to-starve-the-chicken-on-defense-4626955</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-commander-warns-taiwan-not-to-starve-the-chicken-on-defense-4626955</guid>
-      <pubDate>21/04/2026 14:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K12B_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
