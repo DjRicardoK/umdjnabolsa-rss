@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:08:27 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 16:11:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Arrow Electronics atingem o máximo histórico de 179,42 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/arrow-electronics-stock-hits-alltime-high-at-17942-usd-93CH-4627156</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/arrow-electronics-stock-hits-alltime-high-at-17942-usd-93CH-4627156</guid>
+      <pubDate>21/04/2026 16:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco central do Paraguai mantém taxa em 5,5% com inflação estável</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/quote-boxinvestor-reactions-to-senate-hearing-for-fed-chair-candidate-kevin-warsh-4626980</guid>
       <pubDate>21/04/2026 14:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K134_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE EUA alertam que ficarão sem dinheiro para pagar trabalhadores de segurança aeroportuária nas próximas semanas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-warns-it-will-run-out-of-money-to-pay-airport-security-workers-in-coming-weeks-4626981</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-warns-it-will-run-out-of-money-to-pay-airport-security-workers-in-coming-weeks-4626981</guid>
-      <pubDate>21/04/2026 14:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K133_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
