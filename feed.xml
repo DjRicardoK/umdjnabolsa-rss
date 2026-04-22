@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:27:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:39:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os lucros da AT&amp;T mostram que o impulso da fibra da empresa está valendo a pena</title>
+      <description>Mais clientes da AT&amp;T estão optando por agrupar serviços de Internet e sem fio.</description>
+      <link>https://www.marketwatch.com/story/at-t-earnings-show-the-companys-fiber-push-is-paying-off-5723bc94?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/at-t-earnings-show-the-companys-fiber-push-is-paying-off-5723bc94?mod=mw_rss_topstories</guid>
+      <pubDate>22/04/2026 07:39</pubDate>
+      <enclosure url="https://images.mktw.net/im-83058773" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Stifel aumenta a meta de preço das ações do Monarch Casino após superar os lucros do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/innodata-inc-inod-pivot-data-205512219.html</guid>
       <pubDate>22/04/2026 05:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a76b7beb0bc6722f80b42436e15e39b6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tim Cook está deixando o cargo de CEO da Apple, ações da AAPL caem nas negociações após o expediente</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tim-cook-stepping-down-apple-205445049.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tim-cook-stepping-down-apple-205445049.html</guid>
-      <pubDate>22/04/2026 05:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a4977b80534dae3398e391c09fa8763e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
