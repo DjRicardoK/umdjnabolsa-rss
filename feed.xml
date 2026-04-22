@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 10:27:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 10:41:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da QCR Holdings em foco enquanto a expansão da margem enfrenta teste</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/qcr-holdings-earnings-in-focus-as-margin-expansion-faces-test-93CH-4629593</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/qcr-holdings-earnings-in-focus-as-margin-expansion-faces-test-93CH-4629593</guid>
+      <pubDate>22/04/2026 10:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7D094_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bernstein reitera classificação das ações da GE Aerospace após forte batida no primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/google-debuts-two-new-custom-chips-in-latest-bid-to-challenge-nvidias-dominance-147cc8d0?mod=mw_rss_topstories</guid>
       <pubDate>22/04/2026 09:09</pubDate>
       <enclosure url="https://images.mktw.net/im-90923246" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações dos mercados emergentes voltaram ao topo em abril, depois de punir a liquidação no Irão. Por que...</title>
-      <description>Um popular fundo negociado em bolsa que monitoriza ações em mercados emergentes subiu em abril – mas o ETF ainda está atrás do S&amp;P 500 desde o início do conflito no Irão.</description>
-      <link>https://www.marketwatch.com/story/emerging-market-stocks-are-back-on-top-in-april-after-punishing-iran-selloff-why-they-can-keep-on-climbing-0b62aae6?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/emerging-market-stocks-are-back-on-top-in-april-after-punishing-iran-selloff-why-they-can-keep-on-climbing-0b62aae6?mod=mw_rss_topstories</guid>
-      <pubDate>22/04/2026 09:04</pubDate>
-      <enclosure url="https://images.mktw.net/im-03721724" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
