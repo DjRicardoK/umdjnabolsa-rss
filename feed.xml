@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 18:33:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 18:40:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Kinder Morgan Q1 2026 supera as expectativas, as ações sobem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-kinder-morgan-q1-2026-beats-expectations-stock-rises-93CH-4630897</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kinder-morgan-q1-2026-beats-expectations-stock-rises-93CH-4630897</guid>
+      <pubDate>22/04/2026 18:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Goosehead Insurance supera as previsões do primeiro trimestre...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-paas-one-115631161.html</guid>
       <pubDate>22/04/2026 17:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0b039d8987d1d0e2cc26f01f11cf038f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O CEO da Uber diz que outros executivos estão mentindo sobre a IA: ‘Eles dizem que vai ficar tudo bem’, mas...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/uber-ceo-says-other-execs-120500927.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/uber-ceo-says-other-execs-120500927.html</guid>
-      <pubDate>22/04/2026 17:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/1327a1c75a9b459eb9051c8625cbe63f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
