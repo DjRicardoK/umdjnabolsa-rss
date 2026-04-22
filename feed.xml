@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 15:41:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:50:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tilray e outras ações de cannabis disparam enquanto Trump está supostamente pronto para reclassificar a...</title>
+      <description>A medida, que poderia abrir a investigação médica sobre a cannabis, bem como serviços bancários para os produtores, segue-se a uma ordem executiva de reclassificação da substância...</description>
+      <link>https://www.marketwatch.com/story/tilray-and-other-cannabis-stocks-soar-as-trump-is-reportedly-ready-to-reclassify-the-substance-b4e1458d?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/tilray-and-other-cannabis-stocks-soar-as-trump-is-reportedly-ready-to-reclassify-the-substance-b4e1458d?mod=mw_rss_topstories</guid>
+      <pubDate>22/04/2026 15:50</pubDate>
+      <enclosure url="https://images.mktw.net/im-54269557" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Veja por que o Intapp (INTA) é um dos melhores estoques de software de pequena capitalização sobrevendidos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/moodys-corporation-q1-2026-earnings-164615295.html</guid>
       <pubDate>22/04/2026 14:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/a7cbc386f0953de78479a0c27d76b699" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da GE Vernova Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/ge-vernova-inc-q1-2026-164633523.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/ge-vernova-inc-q1-2026-164633523.html</guid>
-      <pubDate>22/04/2026 14:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/61bbe607408dbeb89c9fa2f357812975" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
