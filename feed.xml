@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 04:09:01 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 04:20:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações abrem mistas devido à incerteza do cessar-fogo no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-open-mixed-on-iran-ceasefire-uncertainty-4628147</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-open-mixed-on-iran-ceasefire-uncertainty-4628147</guid>
+      <pubDate>22/04/2026 04:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar enfraquece com esperança de retomada das negociações de paz entre EUA e Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/strykers-q1-2026-earnings-expect-170601846.html</guid>
       <pubDate>22/04/2026 01:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/a74c4e633dcb3af45889f7a10edc3be1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da SmartFinancial, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/smartfinancial-inc-q1-2026-earnings-164629056.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/smartfinancial-inc-q1-2026-earnings-164629056.html</guid>
-      <pubDate>22/04/2026 01:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/d877a4d7614411fbae4b9697eb0679db" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
