@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 03:07:49 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 03:16:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação no Reino Unido sobe para 3,3% à medida que o impacto da guerra no Irão começa a atingir</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/uk-inflation-rises-to-33-as-iran-war-impact-begins-to-hit-4628066</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-inflation-rises-to-33-as-iran-war-impact-begins-to-hit-4628066</guid>
+      <pubDate>22/04/2026 03:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L08F_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Oracle Power recebe autorização de patrimônio para projeto de ouro australiano</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/yesway-prices-ipo-at-20-per-share-to-list-on-nasdaq-93CH-4628025</guid>
       <pubDate>22/04/2026 00:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE BHP supera estimativas de produção de minério de ferro e resolve disputa com a China; ações sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bhps-thirdquarter-iron-ore-output-rises-3-4627896</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bhps-thirdquarter-iron-ore-output-rises-3-4627896</guid>
-      <pubDate>22/04/2026 00:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K1D5_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
