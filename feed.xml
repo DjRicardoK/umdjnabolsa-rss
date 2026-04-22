@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 02:21:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 02:36:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos do primeiro trimestre da Alphabet: as ações do GOOGL são uma compra, uma venda ou uma...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/alphabet-q1-earnings-preview-googl-175009714.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alphabet-q1-earnings-preview-googl-175009714.html</guid>
+      <pubDate>22/04/2026 02:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/92ef183c42026825f0de825fd26975b4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Apple tem atividade incomum de opções de venda - as ações da AAPL atingiram o pico antes dos lucros?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/buy-meta-platforms-meta-earnings-134253816.html</guid>
       <pubDate>21/04/2026 22:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/74f2a5055692aa65cc62b73db8582631" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Bank of Queensland relata declínio nos lucros no primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bank-of-queensland-reports-h1-2026-decline-in-earnings-93CH-4628005</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bank-of-queensland-reports-h1-2026-decline-in-earnings-93CH-4628005</guid>
-      <pubDate>21/04/2026 22:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
