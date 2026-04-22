@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 05:32:22 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 05:35:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de terras raras sobem ainda mais acima dos níveis-chave, lideradas por 2 apostas Trump</title>
+      <description></description>
+      <link>https://www.investors.com/news/usa-rare-earth-stock-soars-brazil-mega-deal-china-battle-heats-up/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/usa-rare-earth-stock-soars-brazil-mega-deal-china-battle-heats-up/?src=A00220&yptr=yahoo</guid>
+      <pubDate>22/04/2026 05:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/157fece5222606467d06bf6448e72bf2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Indonésia caem no fechamento do pregão; Índice Composto IDX caiu 0,20%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-042-4628065</guid>
       <pubDate>22/04/2026 03:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3K0AH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs rebaixa classificação das ações da Valneva para vender devido à incerteza da vacina Lyme</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-valneva-stock-rating-to-sell-on-lyme-vaccine-uncertainty-93CH-4628062</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-valneva-stock-rating-to-sell-on-lyme-vaccine-uncertainty-93CH-4628062</guid>
-      <pubDate>22/04/2026 02:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
