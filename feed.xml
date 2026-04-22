@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 19:40:52 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 19:47:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Vistra Corp. (VST): uma das melhores ações para comprar, de acordo com Nancy Pelosi?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-one-best-144834278.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-one-best-144834278.html</guid>
+      <pubDate>22/04/2026 19:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/57b81ea1e72d313d24fc6a07166bf74e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Evercore ISI aumenta a meta de preço das ações da Elevance com base nas perspectivas de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/flexsteel-industries-inc-q3-2026-123000337.html</guid>
       <pubDate>22/04/2026 17:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/bc531c3f065d93e1e883ca85ee68971c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da ServisFirst Bancshares, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/servisfirst-bancshares-inc-q1-2026-123000374.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/servisfirst-bancshares-inc-q1-2026-123000374.html</guid>
-      <pubDate>22/04/2026 17:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/4ee0e8ed5b624fb661917c87a4300c58" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
