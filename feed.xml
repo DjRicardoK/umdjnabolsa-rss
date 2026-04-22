@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:20:35 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:23:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O CEO da Uber diz que outros executivos estão mentindo sobre a IA: ‘Eles dizem que vai ficar tudo bem’, mas...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/uber-ceo-says-other-execs-120500927.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/uber-ceo-says-other-execs-120500927.html</guid>
+      <pubDate>22/04/2026 17:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/1327a1c75a9b459eb9051c8625cbe63f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Equinox Gold (EQX) projeta crescimento anual da produção apoiado por relatórios técnicos atualizados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-one-top-101900261.html</guid>
       <pubDate>22/04/2026 16:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3e774935ab995a6891792ef0331e4011" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da Builders FirstSource</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-builders-firstsources-next-quarterly-100943041.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-builders-firstsources-next-quarterly-100943041.html</guid>
-      <pubDate>22/04/2026 16:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fe2bdf61baff01466d13d4e48275f9e4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
