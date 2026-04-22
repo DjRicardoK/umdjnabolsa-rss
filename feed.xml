@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 14:10:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 14:12:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Taylor Morrison Home Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/taylor-morrison-home-corporation-q1-164701018.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/taylor-morrison-home-corporation-q1-164701018.html</guid>
+      <pubDate>22/04/2026 14:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/26ba674221aef5b010b835350cc25c59" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Philip Morris International Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-triumph-bancorp-beats-q1-2026-eps-forecast-93CH-4630000</guid>
       <pubDate>22/04/2026 12:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Comcast sobem à medida que problemas de banda larga enfrentam problemas da NBA</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/comcast-earnings-on-deck-as-broadband-woes-meet-nba-drag-93CH-4630001</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/comcast-earnings-on-deck-as-broadband-woes-meet-nba-drag-93CH-4630001</guid>
-      <pubDate>22/04/2026 12:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
