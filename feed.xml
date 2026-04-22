@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 19:13:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 19:23:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE CSX diz que mais empresas estão enviando transporte ferroviário para evitar aumento nos custos de combustível</title>
+      <description>As ações da CSX subiram na quarta-feira, depois que a gigante ferroviária aumentou suas perspectivas de vendas para o ano, à medida que mais empresas escolhem o transporte...</description>
+      <link>https://www.marketwatch.com/story/csx-says-more-businesses-are-shipping-via-rail-to-avoid-surging-fuel-costs-c674dbab?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/csx-says-more-businesses-are-shipping-via-rail-to-avoid-surging-fuel-costs-c674dbab?mod=mw_rss_topstories</guid>
+      <pubDate>22/04/2026 19:22</pubDate>
+      <enclosure url="https://images.mktw.net/im-710507" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações apoiadas por sinais de que o Irã participará das negociações de paz</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/vivos-therapeutics-receives-nasdaq-notice-for-stockholders-equity-deficiency-93CH-4630654</guid>
       <pubDate>22/04/2026 17:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais consolidados da Edison</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-consolidated-edisons-next-quarterly-121057559.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-consolidated-edisons-next-quarterly-121057559.html</guid>
-      <pubDate>22/04/2026 17:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/335479cc098935601f6cc769a24fff4f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
