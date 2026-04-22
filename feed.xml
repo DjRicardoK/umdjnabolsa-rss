@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 00:07:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 00:46:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE BHP supera estimativas de produção de minério de ferro e resolve disputa com a China; ações sobem</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/bhps-thirdquarter-iron-ore-output-rises-3-4627896</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bhps-thirdquarter-iron-ore-output-rises-3-4627896</guid>
+      <pubDate>22/04/2026 00:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K1D5_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do ouro sobem da mínima de 1 semana após extensão do cessar-fogo EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/nvidia-just-launched-ai-models-150003425.html</guid>
       <pubDate>21/04/2026 20:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/cef86ae09b4ca75f44eb2d76d13c404f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ford e General Motors poderiam se tornar fabricantes de armas. Isso faz compras de ações F e GM aqui?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/ford-general-motors-could-become-144244882.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ford-general-motors-could-become-144244882.html</guid>
-      <pubDate>21/04/2026 19:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fae4b372a461424f51dd553a237b350d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
