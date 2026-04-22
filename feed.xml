@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 14:10:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 14:10:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Philip Morris International Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/philip-morris-international-inc-q1-164717980.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/philip-morris-international-inc-q1-164717980.html</guid>
+      <pubDate>22/04/2026 14:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/25686ac9bf8c7bc3524c54c224447d31" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Travel + Leisure Co.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/comcast-earnings-on-deck-as-broadband-woes-meet-nba-drag-93CH-4630001</guid>
       <pubDate>22/04/2026 12:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE United Rentals sob pressão com a aproximação dos lucros do primeiro trimestre na quarta-feira</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/united-rentals-under-pressure-as-q1-earnings-loom-wednesday-93CH-4630004</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/united-rentals-under-pressure-as-q1-earnings-loom-wednesday-93CH-4630004</guid>
-      <pubDate>22/04/2026 12:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
