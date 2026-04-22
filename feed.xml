@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 05:59:02 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 06:08:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas europeias estáveis ​​após Trump prolongar cessar-fogo com o Irão; ganhos corporativos disponíveis</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-shares-rise-as-trump-extends-iran-ceasefire-corporate-earnings-on-tap-4628154</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-shares-rise-as-trump-extends-iran-ceasefire-corporate-earnings-on-tap-4628154</guid>
+      <pubDate>22/04/2026 06:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L0BN_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mizuho reitera classificação das ações da Adobe e cita lançamento de produto de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-open-mixed-on-iran-ceasefire-uncertainty-4628147</guid>
       <pubDate>22/04/2026 04:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar enfraquece com esperança de retomada das negociações de paz entre EUA e Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-hopes-us-iran-193814231.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-hopes-us-iran-193814231.html</guid>
-      <pubDate>22/04/2026 04:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/67b7103c6dca24a2cefa9c0b1e9a88a1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
