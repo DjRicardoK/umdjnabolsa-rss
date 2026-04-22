@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 19:31:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 19:40:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Evercore ISI aumenta a meta de preço das ações da Masco após a queda dos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-raises-masco-stock-price-target-on-earnings-beat-93CH-4630996</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-raises-masco-stock-price-target-on-earnings-beat-93CH-4630996</guid>
+      <pubDate>22/04/2026 19:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar sobe com fortes relatórios econômicos dos EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-camden-propertys-next-quarterly-122009677.html</guid>
       <pubDate>22/04/2026 17:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/49199e19b7bc8d80df289632b4197848" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados da Ingersoll Rand</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-ingersoll-rands-earnings-122444695.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-ingersoll-rands-earnings-122444695.html</guid>
-      <pubDate>22/04/2026 17:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/42309f91e222b6f626ba75adea37aea3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
