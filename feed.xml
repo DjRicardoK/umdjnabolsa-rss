@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 10:55:27 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 11:01:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: EPS da Annaly Capital no primeiro trimestre de 2026 supera a...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-annaly-capitals-q1-2026-eps-beats-forecast-despite-revenue-miss-93CH-4629670</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-annaly-capitals-q1-2026-eps-beats-forecast-despite-revenue-miss-93CH-4629670</guid>
+      <pubDate>22/04/2026 11:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que torna a Microsoft Corporation (MSFT) uma aposta forte a longo prazo?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/from-paint-to-planes-iran-war-lifts-costs-darkens-outlooks-4629081</guid>
       <pubDate>22/04/2026 09:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L0PZ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Sandvik supera a previsão de lucro por ação no primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-sandvik-edges-past-eps-forecast-in-q1-2026-93CH-4629097</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sandvik-edges-past-eps-forecast-in-q1-2026-93CH-4629097</guid>
-      <pubDate>22/04/2026 09:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
