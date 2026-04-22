@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 13:15:22 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 13:20:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Analista baixista da Tesla tem boas notícias para investidores em ações da Rivian</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bearish-tesla-analyst-good-news-181700034.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bearish-tesla-analyst-good-news-181700034.html</guid>
+      <pubDate>22/04/2026 13:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/f638e88585e3e1507dda1d31b999de4f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita da América Móvil no primeiro trimestre de 2026 supera...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-overweight-on-travel--leisure-stock-93CH-4629886</guid>
       <pubDate>22/04/2026 11:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas da Grécia caem no fechamento do pregão; Atenas General Composite caiu 1,38%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-138-4629887</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-138-4629887</guid>
-      <pubDate>22/04/2026 11:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC5N0UX_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
