@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 10:41:59 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 10:44:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Estoque de armas atinge alta de 52 semanas em 183,61 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/arm-stock-hits-52week-high-at-18361-usd-93CH-4629586</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/arm-stock-hits-52week-high-at-18361-usd-93CH-4629586</guid>
+      <pubDate>22/04/2026 10:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da QCR Holdings em foco enquanto a expansão da margem enfrenta teste</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/live/earnings-live-updates-unitedhealth-stock-jumps-on-upbeat-guidance-tesla-and-others-report-this-week-104416983.html</guid>
       <pubDate>22/04/2026 09:12</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2023-12/a7ecb090-9df1-11ee-ad7e-ec436b95e182" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Google lança dois novos chips personalizados na última tentativa de desafiar o domínio da Nvidia</title>
-      <description>As novas TPUs oferecem vantagens de custo e funções de armazenamento aprimoradas.</description>
-      <link>https://www.marketwatch.com/story/google-debuts-two-new-custom-chips-in-latest-bid-to-challenge-nvidias-dominance-147cc8d0?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/google-debuts-two-new-custom-chips-in-latest-bid-to-challenge-nvidias-dominance-147cc8d0?mod=mw_rss_topstories</guid>
-      <pubDate>22/04/2026 09:09</pubDate>
-      <enclosure url="https://images.mktw.net/im-90923246" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
