@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 18:27:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 18:33:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Goosehead Insurance supera as previsões do primeiro trimestre...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-goosehead-insurance-beats-q1-2026-forecasts-93CH-4630881</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-goosehead-insurance-beats-q1-2026-forecasts-93CH-4630881</guid>
+      <pubDate>22/04/2026 18:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Como as ações da Tesla mudaram após os últimos relatórios de ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/uber-ceo-says-other-execs-120500927.html</guid>
       <pubDate>22/04/2026 17:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/1327a1c75a9b459eb9051c8625cbe63f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Equinox Gold (EQX) projeta crescimento anual da produção apoiado por relatórios técnicos atualizados</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/equinox-gold-eqx-projects-annual-115613262.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/equinox-gold-eqx-projects-annual-115613262.html</guid>
-      <pubDate>22/04/2026 17:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/27db7112fc608ee34f8285dac9f64cb6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
