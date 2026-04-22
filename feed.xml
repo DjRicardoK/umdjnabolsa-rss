@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 05:23:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 05:23:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação ao consumidor na África do Sul sobe para 3,1% anual em março</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/south-africa-consumer-inflation-rises-to-31-yy-in-march-4628207</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/south-africa-consumer-inflation-rises-to-31-yy-in-march-4628207</guid>
+      <pubDate>22/04/2026 05:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L0DA_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar estável enquanto mercados navegam pela incerteza do cessar-fogo no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/china-restarting-massive-coal-gas-175712827.html</guid>
       <pubDate>22/04/2026 02:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/power_magazine_984/1b4ac7cd32edf2e8e25291b78f739969" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Explicador - Como o choque no fornecimento de petróleo e gás da guerra no Irã se compara às interrupções do...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/explainerhow-the-iran-war-oil-and-gas-supply-shock-compares-with-past-disruptions-4628057</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/explainerhow-the-iran-war-oil-and-gas-supply-shock-compares-with-past-disruptions-4628057</guid>
-      <pubDate>22/04/2026 02:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L06E_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
