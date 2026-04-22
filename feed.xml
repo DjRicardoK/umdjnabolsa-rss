@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 15:33:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:34:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que Simmons First National (SFNC) é uma das ações bancárias mais subvalorizadas para comprar agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-simmons-first-national-sfnc-093246039.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-simmons-first-national-sfnc-093246039.html</guid>
+      <pubDate>22/04/2026 15:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d75d8735e2c93e8d3fcba15561d1dffd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Poderia Blackbaud (BLKB) ser o próximo estoque de software de pequena capitalização a subir</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/national-healthcare-properties-shares-fall-in-nasdaq-debut-after-462-million-ipo-4630181</guid>
       <pubDate>22/04/2026 13:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L153_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: PensionBee Group vê forte crescimento no primeiro trimestre de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-pensionbee-group-sees-strong-q1-2026-growth-93CH-4630183</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pensionbee-group-sees-strong-q1-2026-growth-93CH-4630183</guid>
-      <pubDate>22/04/2026 13:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
