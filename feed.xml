@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 03:42:30 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 03:53:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Operadora fecha hub em Nova Jersey e corta mais de 175 empregos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/carrier-shutters-jersey-hub-cuts-192405231.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/carrier-shutters-jersey-hub-cuts-192405231.html</guid>
+      <pubDate>22/04/2026 03:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/freightwaves_373/845167e2891ef855b01bae93a7bb1390" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A inflação no Reino Unido acelera para 3,3% em março, impulsionada pelos custos de combustível e alimentos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-fall-despite-usiran-truce-extension-nikkei-hits-record-high-4628028</guid>
       <pubDate>22/04/2026 01:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6R07D_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE EUA bloqueiam remessas de dólares do Iraque para pressionar milícias apoiadas pelo Irã, informa o WSJ</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/us-blocks-iraqs-dollar-shipments-to-squeeze-iranbacked-militias-wsj-reports-4628026</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-blocks-iraqs-dollar-shipments-to-squeeze-iranbacked-militias-wsj-reports-4628026</guid>
-      <pubDate>22/04/2026 01:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L04I_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
