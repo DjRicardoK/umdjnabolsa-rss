@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 10:27:24 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 10:27:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bernstein reitera classificação das ações da GE Aerospace após forte batida no primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bernstein-reiterates-ge-aerospace-stock-rating-on-strong-q1-beat-93CH-4629484</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-ge-aerospace-stock-rating-on-strong-q1-beat-93CH-4629484</guid>
+      <pubDate>22/04/2026 10:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bernstein reitera classificação das ações do SLB antes dos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/emerging-market-stocks-are-back-on-top-in-april-after-punishing-iran-selloff-why-they-can-keep-on-climbing-0b62aae6?mod=mw_rss_topstories</guid>
       <pubDate>22/04/2026 09:04</pubDate>
       <enclosure url="https://images.mktw.net/im-03721724" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os investidores redescobrem o gosto por ações extremamente especulativas à medida que o mercado sobe em abril</title>
-      <description>As ações de tecnologia “Magnificent Seven” finalmente subiram mais uma vez em abril, após um período de meses de mau desempenho. No entanto, os verdadeiros vencedores da...</description>
-      <link>https://www.marketwatch.com/story/investors-rediscover-a-taste-for-extremely-speculative-stocks-as-market-rips-higher-in-april-9ef6cd37?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/investors-rediscover-a-taste-for-extremely-speculative-stocks-as-market-rips-higher-in-april-9ef6cd37?mod=mw_rss_topstories</guid>
-      <pubDate>22/04/2026 09:01</pubDate>
-      <enclosure url="https://images.mktw.net/im-63278058" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
