@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:02:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:05:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia de ganhos: o que esperar do relatório da Targa Resources</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/earnings-preview-expect-targa-resources-113700324.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/earnings-preview-expect-targa-resources-113700324.html</guid>
+      <pubDate>22/04/2026 17:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2965daa931c2c16478b45bc1b81d95a3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Taysha Gene Therapies atingem o máximo de 52 semanas a 6,7 ​​USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/banc-california-banc-carrying-optimism-093233047.html</guid>
       <pubDate>22/04/2026 15:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bb28b6a5e3b58738355dc9b03338b423" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que torna o Barclays (BCS) uma das melhores ações bancárias subvalorizadas para investir</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/makes-barclays-bcs-one-best-093232118.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/makes-barclays-bcs-one-best-093232118.html</guid>
-      <pubDate>22/04/2026 15:21</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/50dc44a3eba0cad562baf1b0204eefda" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
