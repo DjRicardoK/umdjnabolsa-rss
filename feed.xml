@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 15:11:26 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:21:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que torna o Barclays (BCS) uma das melhores ações bancárias subvalorizadas para investir</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/makes-barclays-bcs-one-best-093232118.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/makes-barclays-bcs-one-best-093232118.html</guid>
+      <pubDate>22/04/2026 15:21</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/50dc44a3eba0cad562baf1b0204eefda" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da CVS Health</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-cme-group-stock-rating-citing-volatility-93CH-4630158</guid>
       <pubDate>22/04/2026 13:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Uma nova pista de que Jensen Huang e TSMC da Nvidia estão certos sobre a força da demanda de IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/one-new-clue-that-nvidias-jensen-huang-and-tsmc-are-right-about-ai-demand-strength-162138937.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/one-new-clue-that-nvidias-jensen-huang-and-tsmc-are-right-about-ai-demand-strength-162138937.html</guid>
-      <pubDate>22/04/2026 13:31</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-03/0c7e65e0-2170-11f1-bef7-a44ecaa04b4c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
