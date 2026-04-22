@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 21:26:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 21:26:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Grupo Plenti mostra forte crescimento no quarto trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-plenti-group-shows-strong-growth-in-q4-2026-93CH-4627970</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-plenti-group-shows-strong-growth-in-q4-2026-93CH-4627970</guid>
+      <pubDate>21/04/2026 21:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: sólido fluxo de caixa e crescimento do terceiro trimestre de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/know-ahead-becton-dickinson-companys-134916794.html</guid>
       <pubDate>21/04/2026 19:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/2f199ebb328af4b992a97d04db609268" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Intuitive Surgical Q1 2026 supera as previsões, ações reagem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-intuitive-surgical-q1-2026-beats-forecasts-stock-reacts-93CH-4627814</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-intuitive-surgical-q1-2026-beats-forecasts-stock-reacts-93CH-4627814</guid>
-      <pubDate>21/04/2026 18:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
