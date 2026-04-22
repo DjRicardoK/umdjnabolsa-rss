@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:59:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 08:00:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Parceiro da Nvidia supera visualizações com crescimento acelerado de ganhos. Mas as ações da AI caem.</title>
+      <description></description>
+      <link>https://www.investors.com/news/vertiv-stock-vertiv-earnings-nvidia-partner-data-centers/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/vertiv-stock-vertiv-earnings-nvidia-partner-data-centers/?src=A00220&yptr=yahoo</guid>
+      <pubDate>22/04/2026 08:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/e78b422298241411d481a75cccf7e92c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado de ações dos EUA está progredindo em direção a uma bolha – e é aqui que estão os extremos agora</title>
       <description>À medida que o mercado se aproxima de uma bolha, os analistas do BofA destacam onde já existe espuma.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-shares-rise-as-trump-extends-iran-ceasefire-corporate-earnings-on-tap-4628154</guid>
       <pubDate>22/04/2026 06:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L0BN_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mizuho reitera classificação das ações da Adobe e cita lançamento de produto de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/mizuho-reiterates-adobe-stock-rating-cites-ai-product-launch-93CH-4628300</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/mizuho-reiterates-adobe-stock-rating-cites-ai-product-launch-93CH-4628300</guid>
-      <pubDate>22/04/2026 05:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
