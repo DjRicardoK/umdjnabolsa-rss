@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 14:22:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 14:37:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da POET Technologies estão disparando. O que está por trás da polêmica ascensão da empresa...</title>
+      <description>As ações da empresa fotônica subiram mais de 70% esta semana devido à especulação de um grande parceiro hiperescalador, mesmo com os vendedores a descoberto alertando sobre um...</description>
+      <link>https://www.marketwatch.com/story/poet-technologies-stock-is-rocketing-whats-behind-the-companys-controversial-ai-powered-rise-154613a9?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/poet-technologies-stock-is-rocketing-whats-behind-the-companys-controversial-ai-powered-rise-154613a9?mod=mw_rss_topstories</guid>
+      <pubDate>22/04/2026 14:37</pubDate>
+      <enclosure url="https://images.mktw.net/im-14166831" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Apple e a Best Buy acabaram de mudar de liderança. Aqui estão outras saídas de CEOs importantes em 2026.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/federal-signal-shareholders-elect-directors-and-approve-proposals-at-annual-meeting-93CH-4630123</guid>
       <pubDate>22/04/2026 13:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Community Health Systems Q1 2026 EPS miss hits stock</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-community-health-systems-q1-2026-eps-miss-hits-stock-93CH-4630109</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-community-health-systems-q1-2026-eps-miss-hits-stock-93CH-4630109</guid>
-      <pubDate>22/04/2026 13:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
