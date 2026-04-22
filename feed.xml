@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 04:56:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 04:57:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da BlackBerry estão subindo com um novo acordo com a Nvidia. Isso faz do BB uma compra aqui?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/blackberry-stock-soaring-nvidia-deal-203621231.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/blackberry-stock-soaring-nvidia-deal-203621231.html</guid>
+      <pubDate>22/04/2026 04:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/dbdc7c2edf54399c1816854f540cc947" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações caem devido a dúvidas sobre um acordo de paz no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/apple-unusual-put-options-activity-173002844.html</guid>
       <pubDate>22/04/2026 02:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c73a52b7903649f6e8fae3cb550b52f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ganhos em destaque para chips, data centers, energia e infraestrutura</title>
-      <description></description>
-      <link>https://www.investors.com/research/chip-data-center-stocks-taiwan-semiconductor-tsm/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/chip-data-center-stocks-taiwan-semiconductor-tsm/?src=A00220&yptr=yahoo</guid>
-      <pubDate>22/04/2026 02:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/a87f9364a7b0f01a13f2ac1134e38e6b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
