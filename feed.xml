@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 18:40:16 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 19:13:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações apoiadas por sinais de que o Irã participará das negociações de paz</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-supported-signs-iran-attend-141756206.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-supported-signs-iran-attend-141756206.html</guid>
+      <pubDate>22/04/2026 19:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9a1ff5003151ccd77c6a21a4e3c76ded" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Kinder Morgan Q1 2026 supera as expectativas, as ações sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-consolidated-edisons-next-quarterly-121057559.html</guid>
       <pubDate>22/04/2026 17:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/335479cc098935601f6cc769a24fff4f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Pan American Silver (PAAS) é uma das melhores ações canadenses para comprar no longo prazo?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-paas-one-115631161.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-paas-one-115631161.html</guid>
-      <pubDate>22/04/2026 17:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0b039d8987d1d0e2cc26f01f11cf038f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
