@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 02:55:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 02:55:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs rebaixa classificação das ações da Valneva para vender devido à incerteza da vacina Lyme</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-valneva-stock-rating-to-sell-on-lyme-vaccine-uncertainty-93CH-4628062</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-valneva-stock-rating-to-sell-on-lyme-vaccine-uncertainty-93CH-4628062</guid>
+      <pubDate>22/04/2026 02:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações do GOOG são uma compra antes dos lucros do primeiro trimestre e em meio à paz frágil no Oriente...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-weaker-middle-east-peace-151318504.html</guid>
       <pubDate>22/04/2026 00:00</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/504dba31bff02fcd8f8d5c2ba86af089" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Hillgrove Resources no primeiro trimestre de 2026 vê forte...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-hillgrove-resources-q1-2026-sees-strong-copper-production-93CH-4628013</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hillgrove-resources-q1-2026-sees-strong-copper-production-93CH-4628013</guid>
-      <pubDate>21/04/2026 23:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
