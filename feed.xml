@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:11:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:12:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos da McKesson: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/mckesson-earnings-preview-expect-114824006.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/mckesson-earnings-preview-expect-114824006.html</guid>
+      <pubDate>22/04/2026 17:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b5f7bf12496597a59d018304c705bfca" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Intercontinental Exchange</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-intapp-inta-one-best-093258945.html</guid>
       <pubDate>22/04/2026 15:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/420282b22f2e62f4c2290b66cb5b97c0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Veja por que Simmons First National (SFNC) é uma das ações bancárias mais subvalorizadas para comprar agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-simmons-first-national-sfnc-093246039.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-simmons-first-national-sfnc-093246039.html</guid>
-      <pubDate>22/04/2026 15:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d75d8735e2c93e8d3fcba15561d1dffd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
