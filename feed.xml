@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 11:41:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 11:43:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Northpointe Bancshares vê aumento no lucro líquido do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-northpointe-bancshares-sees-q1-2026-net-income-rise-93CH-4629849</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-northpointe-bancshares-sees-q1-2026-net-income-rise-93CH-4629849</guid>
+      <pubDate>22/04/2026 11:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores taxas de CD hoje, 22 de abril de 2026 (ganhe até 4,15% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/qcr-holdings-earnings-in-focus-as-margin-expansion-faces-test-93CH-4629593</guid>
       <pubDate>22/04/2026 10:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7D094_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bernstein reitera classificação das ações da GE Aerospace após forte batida no primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/bernstein-reiterates-ge-aerospace-stock-rating-on-strong-q1-beat-93CH-4629484</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-ge-aerospace-stock-rating-on-strong-q1-beat-93CH-4629484</guid>
-      <pubDate>22/04/2026 10:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
