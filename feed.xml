@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 01:31:57 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 01:46:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Stryker: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/strykers-q1-2026-earnings-expect-170601846.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/strykers-q1-2026-earnings-expect-170601846.html</guid>
+      <pubDate>22/04/2026 01:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a74c4e633dcb3af45889f7a10edc3be1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da SmartFinancial, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-church-dwights-next-130031360.html</guid>
       <pubDate>21/04/2026 21:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/31ba6cc10ee8eb8afeae0f2862d0ca52" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Samsung quadruplica fornecimento mensal de DRAM para Tesla – relatório</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/samsung-quadruples-monthly-dram-supply-to-tesla-report-4627975</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/samsung-quadruples-monthly-dram-supply-to-tesla-report-4627975</guid>
-      <pubDate>21/04/2026 21:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC9D0FS_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
