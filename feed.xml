@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 18:11:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 18:12:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da IBM caem à medida que a receita de software desanima</title>
+      <description>Os investidores estão preocupados com o impacto da IA ​​nos negócios de software e consultoria da IBM.</description>
+      <link>https://www.marketwatch.com/story/ibms-stock-falls-as-software-revenue-underwhelms-61ae8276?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/ibms-stock-falls-as-software-revenue-underwhelms-61ae8276?mod=mw_rss_topstories</guid>
+      <pubDate>22/04/2026 18:12</pubDate>
+      <enclosure url="https://images.mktw.net/im-32576044" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros trimestrais da CSX aumentam à medida que os volumes intermodais se fortalecem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/first-majestic-silver-ag-announces-115558970.html</guid>
       <pubDate>22/04/2026 17:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ccd1aa8fc512e5948cc4dcfd9d0899f2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos ganhos da McKesson: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/mckesson-earnings-preview-expect-114824006.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/mckesson-earnings-preview-expect-114824006.html</guid>
-      <pubDate>22/04/2026 17:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b5f7bf12496597a59d018304c705bfca" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
