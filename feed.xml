@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 18:03:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 18:11:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros trimestrais da CSX aumentam à medida que os volumes intermodais se fortalecem</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/csx-quarterly-earnings-climb-as-intermodal-volumes-strengthen-4630757</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/csx-quarterly-earnings-climb-as-intermodal-volumes-strengthen-4630757</guid>
+      <pubDate>22/04/2026 18:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L1E1_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Palo Alto Networks parecem baratas antes dos ganhos - a venda a descoberto do PANW coloca obras</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/mckesson-earnings-preview-expect-114824006.html</guid>
       <pubDate>22/04/2026 17:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b5f7bf12496597a59d018304c705bfca" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Intercontinental Exchange</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-intercontinental-exchanges-q1-2026-114438721.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-intercontinental-exchanges-q1-2026-114438721.html</guid>
-      <pubDate>22/04/2026 17:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c47f872c83cf4bf27b564ce7033e64d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
