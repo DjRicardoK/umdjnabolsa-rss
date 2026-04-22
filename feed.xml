@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 13:15:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 13:15:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE EUA esperam acordo mais amplo para compras de produtos agrícolas da China na viagem de Trump, diz Greer</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/us-hoping-for-wider-farm-goods-purchases-deal-from-china-in-trumps-trip-greer-says-4630122</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/us-hoping-for-wider-farm-goods-purchases-deal-from-china-in-trumps-trip-greer-says-4630122</guid>
+      <pubDate>22/04/2026 13:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L13G_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Acionistas da Federal Signal elegem diretores e aprovam propostas em assembleia anual</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/hni-earnings-on-deck-as-steelcase-deal-tests-margin-outlook-93CH-4629888</guid>
       <pubDate>22/04/2026 11:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O senador Roger Marshall diz que a segurança nacional é “mais importante do que o seu bolso”. Proteja o seu...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/sen-roger-marshall-says-national-143700757.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/sen-roger-marshall-says-national-143700757.html</guid>
-      <pubDate>22/04/2026 11:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/8e7082cd501dee72242514d4d3c43e3e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
