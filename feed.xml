@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 16:35:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 16:35:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Kevin Warsh traz pedido de emprego desconfortável para audiência de confirmação do Senado</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/kevin-warsh-brings-uncomfortable-job-104008056.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/kevin-warsh-brings-uncomfortable-job-104008056.html</guid>
+      <pubDate>22/04/2026 16:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/b6b51d70f75ebd8b2cc1038364916e87" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Futuros de índices de ações ganham com esperanças de negociações EUA-Irã, dados de vendas no varejo e...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/apple-and-best-buy-just-changed-leadership-here-are-other-top-ceo-departures-in-2026-171310537.html</guid>
       <pubDate>22/04/2026 14:22</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/f65a1900-3d6f-11f1-bff9-a43d8f4af2e5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da National HealthCare Corp atingem o máximo histórico de 177,6 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/national-healthcare-corp-stock-hits-alltime-high-at-1776-usd-93CH-4630223</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/national-healthcare-corp-stock-hits-alltime-high-at-1776-usd-93CH-4630223</guid>
-      <pubDate>22/04/2026 14:22</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
