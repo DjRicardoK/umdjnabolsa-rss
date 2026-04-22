@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 10:08:18 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 10:08:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cantor Fitzgerald reitera a classificação das ações da Kodiak AI no posicionamento AV</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-kodiak-ai-stock-rating-on-av-positioning-93CH-4629357</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-kodiak-ai-stock-rating-on-av-positioning-93CH-4629357</guid>
+      <pubDate>22/04/2026 10:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cantor Fitzgerald reitera classificação de excesso de peso nas ações da Tesla</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/apples-new-ceo-is-a-hardware-legend-that-didnt-save-intel-investors-and-it-wont-guarantee-an-ai-win-c9a0911a?mod=mw_rss_topstories</guid>
       <pubDate>22/04/2026 08:51</pubDate>
       <enclosure url="https://images.mktw.net/im-69667875" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Rogers sobem 3% com forte queda nos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/rogers-shares-rise-3-on-strong-earnings-beat-93CH-4628941</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/rogers-shares-rise-3-on-strong-earnings-beat-93CH-4628941</guid>
-      <pubDate>22/04/2026 08:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
