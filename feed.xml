@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 09:43:44 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:49:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O aumento do risco de mercado é o novo normal em Wall Street, e a CME está adorando isso</title>
+      <description>A CME estabeleceu um recorde de atividade diária de negociação, mas as ações deveriam cair, pois a receita estava apenas em linha com as altas expectativas dos investidores.</description>
+      <link>https://www.marketwatch.com/story/increasing-market-risk-is-the-new-normal-on-wall-street-and-cme-is-loving-it-5930ed2c?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/increasing-market-risk-is-the-new-normal-on-wall-street-and-cme-is-loving-it-5930ed2c?mod=mw_rss_topstories</guid>
+      <pubDate>22/04/2026 09:49</pubDate>
+      <enclosure url="https://images.mktw.net/im-85971077" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Tesla, Elon Musk devido com ações próximas aos níveis-chave; O que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/klarna-group-klar-10-oversold-110950485.html</guid>
       <pubDate>22/04/2026 08:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/40a08797903de0225894ba306a075df4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que um aumento global do petróleo atingirá mais os EUA do que a China</title>
-      <description>A China tem múltiplas fontes de importação de energia e preparou-se bem para um período sustentado de preços elevados do petróleo. Ao contrário da América.</description>
-      <link>https://www.marketwatch.com/story/why-a-global-oil-spike-will-hit-the-u-s-harder-than-china-902b0d13?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/why-a-global-oil-spike-will-hit-the-u-s-harder-than-china-902b0d13?mod=mw_rss_topstories</guid>
-      <pubDate>22/04/2026 08:21</pubDate>
-      <enclosure url="https://images.mktw.net/im-49555636" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
