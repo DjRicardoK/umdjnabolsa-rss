@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 06:42:25 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 06:42:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: BPI Q1 2026 perde previsões em meio a desafios econômicos</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bpi-q1-2026-misses-forecasts-amid-economic-challenges-93CH-4628356</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bpi-q1-2026-misses-forecasts-amid-economic-challenges-93CH-4628356</guid>
+      <pubDate>22/04/2026 06:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Barclays reitera classificação de excesso de peso nas ações da United Airlines</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-doubts-over-203330707.html</guid>
       <pubDate>22/04/2026 04:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/bc1ca70c2b48d920c5437c60396a6beb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE AkzoNobel supera previsões de lucros com preços mais altos e cortes de custos; saltos de ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/akzonobel-tops-earnings-forecasts-on-higher-pricing-and-cost-cuts-sales-slip-4628133</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/akzonobel-tops-earnings-forecasts-on-higher-pricing-and-cost-cuts-sales-slip-4628133</guid>
-      <pubDate>22/04/2026 04:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED3O0TI_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
