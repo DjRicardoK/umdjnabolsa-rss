@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 09:28:14 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:32:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que torna a Tesla (TSLA) uma participação de longo prazo?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/makes-tesla-tsla-long-term-122808517.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/makes-tesla-tsla-long-term-122808517.html</guid>
+      <pubDate>22/04/2026 09:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2f1bf47b64f185ad29af8e89f576d5c3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sobe com cessar-fogo de Trump; Lucros da Tesla devidos (cobertura ao vivo)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/economic-turbulence-and-rate-hikes-could-jeopardise-frances-deficit-efforts-fiscal-watchdog-warns-4628798</guid>
       <pubDate>22/04/2026 08:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L0MH_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Chip europeu, ações elétricas sobem à medida que o otimismo da IA ​​se baseia nos lucros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/european-chip-electrical-stocks-surge-110002304.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/european-chip-electrical-stocks-surge-110002304.html</guid>
-      <pubDate>22/04/2026 08:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/9a249d2abcf98eed12d6e5b09a3953c7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
