@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 11:55:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 12:05:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Reliance Steel enfrenta teste de lucros com aumento dos preços do alumínio</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/reliance-steel-faces-earnings-test-as-aluminum-prices-surge-93CH-4629931</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/reliance-steel-faces-earnings-test-as-aluminum-prices-surge-93CH-4629931</guid>
+      <pubDate>22/04/2026 12:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Harley-Davidson em alta: a marca pode redefinir o slide reverso?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/happy-54-birthday-to-me-im-now-exactly-5-years-from-retirement-heres-what-ill-do-first-to-prepare-cc0bf06b?mod=mw_rss_topstories</guid>
       <pubDate>22/04/2026 11:01</pubDate>
       <enclosure url="https://images.mktw.net/im-76544510" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Investidores do S&amp;T Bancorp se preparam para lucros após divulgação da recompra</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/st-bancorp-investors-brace-for-earnings-after-buyback-unveil-93CH-4629667</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/st-bancorp-investors-brace-for-earnings-after-buyback-unveil-93CH-4629667</guid>
-      <pubDate>22/04/2026 11:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
