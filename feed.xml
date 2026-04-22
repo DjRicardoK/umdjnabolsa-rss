@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:39:22 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:48:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wabtec supera os lucros, mas as ações caem mais de 2% devido à perda de receita</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/wabtec-beats-earnings-but-stock-slips-over-2-on-revenue-miss-93CH-4628614</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/wabtec-beats-earnings-but-stock-slips-over-2-on-revenue-miss-93CH-4628614</guid>
+      <pubDate>22/04/2026 07:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os lucros da AT&amp;T mostram que o impulso da fibra da empresa está valendo a pena</title>
       <description>Mais clientes da AT&amp;T estão optando por agrupar serviços de Internet e sem fio.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-one-best-210007279.html</guid>
       <pubDate>22/04/2026 05:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/800b4a2c79b1256a4ac3e884a8f2e790" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (INOD): pivô para engenharia de dados virando cabeças em Wall Street</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/innodata-inc-inod-pivot-data-205512219.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/innodata-inc-inod-pivot-data-205512219.html</guid>
-      <pubDate>22/04/2026 05:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a76b7beb0bc6722f80b42436e15e39b6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
