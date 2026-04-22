@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 11:36:15 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 11:36:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O preço-alvo das ações da Chubb é mantido em US$ 326 pela BMO na estabilização das taxas</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/chubb-stock-price-target-held-at-326-by-bmo-on-stabilizing-rates-93CH-4629833</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/chubb-stock-price-target-held-at-326-by-bmo-on-stabilizing-rates-93CH-4629833</guid>
+      <pubDate>22/04/2026 11:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Raymond James reitera a classificação das ações do First BanCorp com fortes ganhos</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/bernstein-reiterates-slb-stock-rating-ahead-of-earnings-93CH-4629486</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-slb-stock-rating-ahead-of-earnings-93CH-4629486</guid>
       <pubDate>22/04/2026 10:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Zurn Elkay supera as previsões do primeiro trimestre de 2026,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-zurn-elkay-beats-q1-2026-forecasts-stock-rises-93CH-4629427</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-zurn-elkay-beats-q1-2026-forecasts-stock-rises-93CH-4629427</guid>
-      <pubDate>22/04/2026 10:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
