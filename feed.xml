@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 09:54:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:55:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui estão as opiniões do Nightview Fund sobre NVIDIA (NVDA)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nightview-fund-views-nvidia-nvda-123946393.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nightview-fund-views-nvidia-nvda-123946393.html</guid>
+      <pubDate>22/04/2026 09:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e27167f0d0ea28c9ccebcdb03eceb280" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warren Buffett abandonou 77% da Amazon para comprar ações de mídia em alta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/similarweb-smwb-launches-unified-retail-110924287.html</guid>
       <pubDate>22/04/2026 08:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/06bfddf0c68636bb68958abd042e84c0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Yext (YEXT) é uma das ações de tecnologia sobrevendidas para comprar, de acordo com analistas?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/yext-yext-one-oversold-tech-110936298.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/yext-yext-one-oversold-tech-110936298.html</guid>
-      <pubDate>22/04/2026 08:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f6c7dc65ae30d171b711e1d618d8b238" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
