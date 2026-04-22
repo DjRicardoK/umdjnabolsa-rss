@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 05:23:34 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 05:32:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Indonésia caem no fechamento do pregão; Índice Composto IDX caiu 0,20%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-020-4628255</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-020-4628255</guid>
+      <pubDate>22/04/2026 05:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE850IL_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco central da Indonésia mantém taxas estáveis ​​em meio às consequências da guerra no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-valneva-stock-rating-to-sell-on-lyme-vaccine-uncertainty-93CH-4628062</guid>
       <pubDate>22/04/2026 02:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações do GOOG são uma compra antes dos lucros do primeiro trimestre e em meio à paz frágil no Oriente...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goog-stock-buy-ahead-q1-180929728.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goog-stock-buy-ahead-q1-180929728.html</guid>
-      <pubDate>22/04/2026 02:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/7fc3d9c49e2f2c84962fcd00d05df4be" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
