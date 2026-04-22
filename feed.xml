@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 10:00:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 10:08:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cantor Fitzgerald reitera classificação das ações do East West Bancorp em US$ 133</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-east-west-bancorp-stock-rating-at-133-93CH-4629361</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-east-west-bancorp-stock-rating-at-133-93CH-4629361</guid>
+      <pubDate>22/04/2026 10:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cantor Fitzgerald reitera classificação das ações da National Health Investors na venda do portfólio da NHC</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/vinfast-auto-ltd-vfs-among-112725420.html</guid>
       <pubDate>22/04/2026 08:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d6f32540bfef05b71c9ec5a44ffde9fb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Foghorn Therapeutics na compra</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-foghorn-therapeutics-stock-rating-at-buy-93CH-4628876</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-foghorn-therapeutics-stock-rating-at-buy-93CH-4628876</guid>
-      <pubDate>22/04/2026 08:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
