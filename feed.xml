@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 07:48:44 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:50:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os futuros do Dow Jones sobem à medida que Trump estende o cessar-fogo no Irã; Lucros da Tesla devidos</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-extends-iran-ceasefire-tesla-earnings/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-extends-iran-ceasefire-tesla-earnings/?src=A00220&yptr=yahoo</guid>
+      <pubDate>22/04/2026 07:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/553a55a5438576064cccd15ab67dbdc4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wabtec supera os lucros, mas as ações caem mais de 2% devido à perda de receita</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/georgias-film-boom-made-75-210500598.html</guid>
       <pubDate>22/04/2026 05:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/98f4c8239d4194a1acb17ea5602f93ba" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (CLS): uma das melhores ações de data center de IA para comprar agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-one-best-210007279.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/celestica-inc-cls-one-best-210007279.html</guid>
-      <pubDate>22/04/2026 05:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/800b4a2c79b1256a4ac3e884a8f2e790" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
