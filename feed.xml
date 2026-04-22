@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 20:12:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 20:22:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Microsoft podem ser compradas antes do terceiro trimestre? Tendências de nuvem e IA apontam para...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-buy-q3-cloud-153048679.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-buy-q3-cloud-153048679.html</guid>
+      <pubDate>22/04/2026 20:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/70f0cef0c027d2d0ac959916cfe49457" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações anulam ganhos iniciais à medida que os preços do petróleo saltam devido às preocupações com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-revenue-misses-estimates-as-demand-weakens-4630488</guid>
       <pubDate>22/04/2026 17:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L1CM_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE USDA anunciará próxima fase de reorganização da agência esta semana, disse secretário de agricultura</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/usda-to-announce-next-phase-of-agency-reorganization-this-week-agriculture-secretary-says-4630741</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/usda-to-announce-next-phase-of-agency-reorganization-this-week-agriculture-secretary-says-4630741</guid>
-      <pubDate>22/04/2026 17:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L1DV_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
