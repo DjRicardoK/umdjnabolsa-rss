@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:47:57 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:56:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE USDA anunciará próxima fase de reorganização da agência esta semana, disse secretário de agricultura</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/usda-to-announce-next-phase-of-agency-reorganization-this-week-agriculture-secretary-says-4630741</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/usda-to-announce-next-phase-of-agency-reorganization-this-week-agriculture-secretary-says-4630741</guid>
+      <pubDate>22/04/2026 17:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L1DV_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Steel Dynamics, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/taysha-gene-therapies-stock-hits-52week-high-at-67-usd-93CH-4630449</guid>
       <pubDate>22/04/2026 17:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Secretário de Agricultura dos EUA diz que o USDA está conversando diariamente com a Casa Branca sobre os...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/us-farm-secretary-says-usda-is-speaking-with-white-house-daily-on-high-fertilizer-prices-4630455</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/us-farm-secretary-says-usda-is-speaking-with-white-house-daily-on-high-fertilizer-prices-4630455</guid>
-      <pubDate>22/04/2026 17:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L1CC_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
