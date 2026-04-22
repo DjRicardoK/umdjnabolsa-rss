@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 16:13:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 16:31:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Kirby Corp atingem o máximo histórico de 147,49 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/kirby-corp-stock-hits-alltime-high-at-14749-usd-93CH-4630394</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/kirby-corp-stock-hits-alltime-high-at-14749-usd-93CH-4630394</guid>
+      <pubDate>22/04/2026 16:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que Sprinklr (CXM) é uma das principais ações ocultas de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/us-oil-prices-rise-as-usiran-peace-talks-remain-uncertain-4627899</guid>
       <pubDate>22/04/2026 14:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K1DK_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Microsoft integrará Mythos da Anthropic em seu programa de desenvolvimento de segurança</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/microsoft-to-integrate-anthropics-mythos-into-its-security-development-program-4630211</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-to-integrate-anthropics-mythos-into-its-security-development-program-4630211</guid>
-      <pubDate>22/04/2026 14:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L16V_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
