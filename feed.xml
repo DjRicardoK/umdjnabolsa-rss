@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 05:45:42 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 05:45:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (INOD): pivô para engenharia de dados virando cabeças em Wall Street</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/innodata-inc-inod-pivot-data-205512219.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/innodata-inc-inod-pivot-data-205512219.html</guid>
+      <pubDate>22/04/2026 05:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a76b7beb0bc6722f80b42436e15e39b6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tim Cook está deixando o cargo de CEO da Apple, ações da AAPL caem nas negociações após o expediente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/coinbase-bybit-join-forces-tokenization-185400002.html</guid>
       <pubDate>22/04/2026 03:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/fbb7edff49fa88570ab75b3c1a3ea5e1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação no Reino Unido sobe para 3,3% à medida que o impacto da guerra no Irão começa a atingir</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/uk-inflation-rises-to-33-as-iran-war-impact-begins-to-hit-4628066</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-inflation-rises-to-33-as-iran-war-impact-begins-to-hit-4628066</guid>
-      <pubDate>22/04/2026 03:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L08F_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
