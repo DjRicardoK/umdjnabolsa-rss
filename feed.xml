@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 09:21:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 09:28:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sobe com cessar-fogo de Trump; Lucros da Tesla devidos (cobertura ao vivo)</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-tesla-earnings-tsla-stock/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-tesla-earnings-tsla-stock/?src=A00220&yptr=yahoo</guid>
+      <pubDate>22/04/2026 09:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/961f00256e85b9af63f9bb60bf2852fb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Da pintura aos aviões, a guerra no Irão aumenta os custos e obscurece as perspectivas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/european-chip-electrical-stocks-surge-110002304.html</guid>
       <pubDate>22/04/2026 08:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/9a249d2abcf98eed12d6e5b09a3953c7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE TE prevê lucro maior, mas alerta para aumento de preços devido à guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/te-projects-forecasts-higher-profit-but-warns-of-price-hikes-due-to-iran-war-4628515</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/te-projects-forecasts-higher-profit-but-warns-of-price-hikes-due-to-iran-war-4628515</guid>
-      <pubDate>22/04/2026 08:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L0J5_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
