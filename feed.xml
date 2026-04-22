@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:30:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:34:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Vivos Therapeutics recebe notificação da Nasdaq por deficiência de patrimônio líquido</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/vivos-therapeutics-receives-nasdaq-notice-for-stockholders-equity-deficiency-93CH-4630654</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/vivos-therapeutics-receives-nasdaq-notice-for-stockholders-equity-deficiency-93CH-4630654</guid>
+      <pubDate>22/04/2026 17:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais consolidados da Edison</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-hopes-102746703.html</guid>
       <pubDate>22/04/2026 16:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ae7ee21b7adc3615d29d0e151145646a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Kirby Corp atingem o máximo histórico de 147,49 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/kirby-corp-stock-hits-alltime-high-at-14749-usd-93CH-4630394</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/kirby-corp-stock-hits-alltime-high-at-14749-usd-93CH-4630394</guid>
-      <pubDate>22/04/2026 16:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
