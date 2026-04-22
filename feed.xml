@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 01:06:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 01:22:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas da Ásia caem apesar da extensão da trégua EUA-Irã; Nikkei bate recorde</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-fall-despite-usiran-truce-extension-nikkei-hits-record-high-4628028</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-fall-despite-usiran-truce-extension-nikkei-hits-record-high-4628028</guid>
+      <pubDate>22/04/2026 01:22</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6R07D_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE EUA bloqueiam remessas de dólares do Iraque para pressionar milícias apoiadas pelo Irã, informa o WSJ</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-northern-stars-q3-2026-solid-cash-flow-and-growth-93CH-4627971</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-northern-stars-q3-2026-solid-cash-flow-and-growth-93CH-4627971</guid>
       <pubDate>21/04/2026 21:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Grupo Vamos Q4 2025 perde estimativas de EPS</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-vamos-q4-2025-misses-eps-estimates-93CH-4627965</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-vamos-q4-2025-misses-eps-estimates-93CH-4627965</guid>
-      <pubDate>21/04/2026 20:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
