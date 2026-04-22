@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 08:23:03 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 08:28:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Molecular Partners na compra</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-molecular-partners-stock-rating-at-buy-93CH-4628875</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-molecular-partners-stock-rating-at-buy-93CH-4628875</guid>
+      <pubDate>22/04/2026 08:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Similarweb (SMWB) lança pacote unificado de inteligência de varejo com integração Amazon IQ</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-april-22-2025-100000563.html</guid>
       <pubDate>22/04/2026 07:08</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os resultados do primeiro trimestre de 2026 da Metso Outotec...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-metso-outotecs-q1-2026-results-miss-forecasts-stock-drops-93CH-4628409</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-metso-outotecs-q1-2026-results-miss-forecasts-stock-drops-93CH-4628409</guid>
-      <pubDate>22/04/2026 07:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
