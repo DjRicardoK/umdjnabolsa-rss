@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 10:08:26 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 10:20:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Zurn Elkay supera as previsões do primeiro trimestre de 2026,...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-zurn-elkay-beats-q1-2026-forecasts-stock-rises-93CH-4629427</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-zurn-elkay-beats-q1-2026-forecasts-stock-rises-93CH-4629427</guid>
+      <pubDate>22/04/2026 10:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cantor Fitzgerald reitera a classificação das ações da Kodiak AI no posicionamento AV</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/meta-seeks-workers-no-experience-114500395.html</guid>
       <pubDate>22/04/2026 08:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/b97307915cd84628b2ea42916c514877" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O novo CEO da Apple é uma lenda do hardware. Isso não salvou os investidores da Intel – e não garantirá uma...</title>
-      <description>Pontuação da Microsoft ou desastre da Intel? A aposta de US$ 4 trilhões do CEO da Apple baseia-se em um grande pivô.</description>
-      <link>https://www.marketwatch.com/story/apples-new-ceo-is-a-hardware-legend-that-didnt-save-intel-investors-and-it-wont-guarantee-an-ai-win-c9a0911a?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/apples-new-ceo-is-a-hardware-legend-that-didnt-save-intel-investors-and-it-wont-guarantee-an-ai-win-c9a0911a?mod=mw_rss_topstories</guid>
-      <pubDate>22/04/2026 08:51</pubDate>
-      <enclosure url="https://images.mktw.net/im-69667875" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
