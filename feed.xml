@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 14:12:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 14:13:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Microsoft integrará Mythos da Anthropic em seu programa de desenvolvimento de segurança</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/microsoft-to-integrate-anthropics-mythos-into-its-security-development-program-4630211</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-to-integrate-anthropics-mythos-into-its-security-development-program-4630211</guid>
+      <pubDate>22/04/2026 14:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L16V_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Taylor Morrison Home Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/ge-vernova-earnings-ai-data-center-power-gev-stock/?src=A00220&yptr=yahoo</guid>
       <pubDate>22/04/2026 12:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/b705cc9f3e1afed0fd1cfa6c05c29d07" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Triumph Bancorp supera a previsão de EPS do primeiro trimestre...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-triumph-bancorp-beats-q1-2026-eps-forecast-93CH-4630000</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-triumph-bancorp-beats-q1-2026-eps-forecast-93CH-4630000</guid>
-      <pubDate>22/04/2026 12:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
