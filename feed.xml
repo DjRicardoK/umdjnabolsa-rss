@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 06:53:30 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:06:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Corbion Q1 2026 revela mudanças estratégicas em meio à queda...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-corbion-q1-2026-reveals-strategic-shifts-amid-stock-dip-93CH-4628412</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-corbion-q1-2026-reveals-strategic-shifts-amid-stock-dip-93CH-4628412</guid>
+      <pubDate>22/04/2026 07:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE GLJ Research reitera classificação de venda de ações da Tesla com base nas perspectivas de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-at-week-high-as-markets-raise-doubts-over-iran-ceasefire-4627983</guid>
       <pubDate>22/04/2026 05:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L00B_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Libra hoje: Libra sobe à medida que o testemunho de Warsh acalma os mercados cambiais</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-warsh-testimony-calms-currency-markets-4628187</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-warsh-testimony-calms-currency-markets-4628187</guid>
-      <pubDate>22/04/2026 05:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED9503H_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
