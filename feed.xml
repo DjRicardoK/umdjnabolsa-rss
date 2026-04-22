@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:34:04 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:36:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de lucros da AES Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-aes-corporations-next-121434551.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-aes-corporations-next-121434551.html</guid>
+      <pubDate>22/04/2026 17:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0eccb85bcf496d86301c7868b5d68165" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Vivos Therapeutics recebe notificação da Nasdaq por deficiência de patrimônio líquido</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/kevin-warsh-brings-uncomfortable-job-104008056.html</guid>
       <pubDate>22/04/2026 16:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/b6b51d70f75ebd8b2cc1038364916e87" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Futuros de índices de ações ganham com esperanças de negociações EUA-Irã, dados de vendas no varejo e...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-hopes-102746703.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-gain-hopes-102746703.html</guid>
-      <pubDate>22/04/2026 16:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ae7ee21b7adc3615d29d0e151145646a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
