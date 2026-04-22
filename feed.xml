@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 05:35:49 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 05:45:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tim Cook está deixando o cargo de CEO da Apple, ações da AAPL caem nas negociações após o expediente</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tim-cook-stepping-down-apple-205445049.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tim-cook-stepping-down-apple-205445049.html</guid>
+      <pubDate>22/04/2026 05:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a4977b80534dae3398e391c09fa8763e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do Bank of Hawaii Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-inflation-rises-to-33-as-iran-war-impact-begins-to-hit-4628066</guid>
       <pubDate>22/04/2026 03:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L08F_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Oracle Power recebe autorização de patrimônio para projeto de ouro australiano</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/oracle-power-receives-heritage-clearance-for-australian-gold-project-93CH-4628063</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/oracle-power-receives-heritage-clearance-for-australian-gold-project-93CH-4628063</guid>
-      <pubDate>22/04/2026 03:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
