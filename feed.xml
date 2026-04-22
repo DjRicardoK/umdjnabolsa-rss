@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 20:22:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 20:33:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos trimestrais da Aptiv: o que você precisa saber</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/aptivs-quarterly-earnings-preview-know-154718046.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/aptivs-quarterly-earnings-preview-know-154718046.html</guid>
+      <pubDate>22/04/2026 20:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0a4e1b7bda35adcf0b916f276eaef0d8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Microsoft podem ser compradas antes do terceiro trimestre? Tendências de nuvem e IA apontam para...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/why-servicenows-stock-is-sliding-in-the-wake-of-earnings-d1f63e4e?mod=mw_rss_topstories</guid>
       <pubDate>22/04/2026 18:02</pubDate>
       <enclosure url="https://images.mktw.net/im-10012347" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla relata superávit de caixa surpreendente no primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/tesla-revenue-misses-estimates-as-demand-weakens-4630488</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-revenue-misses-estimates-as-demand-weakens-4630488</guid>
-      <pubDate>22/04/2026 17:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3L1CM_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
