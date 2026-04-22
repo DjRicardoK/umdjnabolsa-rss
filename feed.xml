@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 21 Apr 2026 22:20:42 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 22:40:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Bank of Queensland relata declínio nos lucros no primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bank-of-queensland-reports-h1-2026-decline-in-earnings-93CH-4628005</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bank-of-queensland-reports-h1-2026-decline-in-earnings-93CH-4628005</guid>
+      <pubDate>21/04/2026 22:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Vinho do Tesouro revela novo modelo regional; ações em máxima de dois meses</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/quetta-acquisition-receives-additional-nasdaq-delisting-notice-over-late-filing-93CH-4627869</guid>
       <pubDate>21/04/2026 19:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Recuo das ações devido às dúvidas sobre a paz no Oriente Médio</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-middle-east-peace-141216429.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-middle-east-peace-141216429.html</guid>
-      <pubDate>21/04/2026 19:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9702f20631207874aa69ec4c7402dbba" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
