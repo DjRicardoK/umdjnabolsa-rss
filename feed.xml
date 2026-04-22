@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 15:05:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 15:05:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Intel, Newmont Mining, Comcast e outras devem divulgar lucros na quinta-feira</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/intel-newmont-mining-comcast-and-more-set-to-report-earnings-thursday-93CH-4630295</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/intel-newmont-mining-comcast-and-more-set-to-report-earnings-thursday-93CH-4630295</guid>
+      <pubDate>22/04/2026 15:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Intel dispararam antes dos lucros. As expectativas agora são muito altas?</title>
       <description>As ações da Intel se beneficiaram do otimismo da fundição e da CPU – mas o entusiasmo pode estar fora de sintonia com a realidade, dizem os analistas.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vertiv-holdings-co-beats-q1-2026-eps-forecast-stock-dips-93CH-4630137</guid>
       <pubDate>22/04/2026 13:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Analista baixista da Tesla tem boas notícias para investidores em ações da Rivian</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bearish-tesla-analyst-good-news-181700034.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bearish-tesla-analyst-good-news-181700034.html</guid>
-      <pubDate>22/04/2026 13:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/f638e88585e3e1507dda1d31b999de4f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
