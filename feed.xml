@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 04:48:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 04:56:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações caem devido a dúvidas sobre um acordo de paz no Oriente Médio</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-doubts-over-203330707.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-doubts-over-203330707.html</guid>
+      <pubDate>22/04/2026 04:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bc1ca70c2b48d920c5437c60396a6beb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE AkzoNobel supera previsões de lucros com preços mais altos e cortes de custos; saltos de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/chip-data-center-stocks-taiwan-semiconductor-tsm/?src=A00220&yptr=yahoo</guid>
       <pubDate>22/04/2026 02:01</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/a87f9364a7b0f01a13f2ac1134e38e6b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE À medida que a Tesla elimina o chip AI5, você deve comprar, vender ou manter ações da TSLA?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-tapes-ai5-chip-buy-171058012.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-tapes-ai5-chip-buy-171058012.html</guid>
-      <pubDate>22/04/2026 01:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/da8b3ba9989a875d846b3ba5f6ee8c1b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
