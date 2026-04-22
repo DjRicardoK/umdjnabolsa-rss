@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 05:47:01 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 05:50:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O boom cinematográfico da Geórgia possibilitou 75.000 empregos – agora a saída da Marvel está privando os...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/georgias-film-boom-made-75-210500598.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/georgias-film-boom-made-75-210500598.html</guid>
+      <pubDate>22/04/2026 05:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/98f4c8239d4194a1acb17ea5602f93ba" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE (CLS): uma das melhores ações de data center de IA para comprar agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/uk-inflation-speeds-up-to-33-in-march-driven-by-fuel-and-food-costs-4628072</guid>
       <pubDate>22/04/2026 03:42</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Arjo Q1 2026 mostra crescimento estável em meio a desafios</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-arjo-q1-2026-shows-stable-growth-amid-challenges-93CH-4628081</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-arjo-q1-2026-shows-stable-growth-amid-challenges-93CH-4628081</guid>
-      <pubDate>22/04/2026 03:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
