@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 02:48:53 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 02:55:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações do GOOG são uma compra antes dos lucros do primeiro trimestre e em meio à paz frágil no Oriente...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goog-stock-buy-ahead-q1-180929728.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goog-stock-buy-ahead-q1-180929728.html</guid>
+      <pubDate>22/04/2026 02:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/7fc3d9c49e2f2c84962fcd00d05df4be" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China reinicia projeto massivo de carvão em gás após pausa de uma década</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-hillgrove-resources-q1-2026-sees-strong-copper-production-93CH-4628013</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hillgrove-resources-q1-2026-sees-strong-copper-production-93CH-4628013</guid>
-      <pubDate>21/04/2026 23:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Airtasker Q3 2026 revela forte crescimento nos principais...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-airtasker-q3-2026-reveals-strong-growth-in-key-markets-93CH-4628014</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-airtasker-q3-2026-reveals-strong-growth-in-key-markets-93CH-4628014</guid>
       <pubDate>21/04/2026 23:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
