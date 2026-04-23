@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 01:38:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 01:38:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do Mercantile Bank Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/mercantile-bank-corporation-q1-2026-164713560.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mercantile-bank-corporation-q1-2026-164713560.html</guid>
+      <pubDate>23/04/2026 01:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/71ffbe533ccc72075cfc4d370e298a3c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do segundo trimestre de 2026 do Forestar Group Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/goldman-sachs-sells-qvc-group-stock-worth-5081-93CH-4631099</guid>
       <pubDate>22/04/2026 21:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/goldman_sachs_M_1440049080.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do RBB Bancorp</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/rbb-bancorp-q1-2026-earnings-123000749.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rbb-bancorp-q1-2026-earnings-123000749.html</guid>
-      <pubDate>22/04/2026 21:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/a4a0f7f230bdc72c7266c493a813624a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
