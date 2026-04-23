@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 23:11:27 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 23:24:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE USDA expandirá pesquisas de área cultivada para mais agricultores dos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/usda-to-expand-acreage-surveys-to-more-us-farmers-4631140</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/usda-to-expand-acreage-surveys-to-more-us-farmers-4631140</guid>
+      <pubDate>22/04/2026 23:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M034_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações asiáticas acompanham Wall Street em máximas recordes, mas preços mais altos do petróleo são um risco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/pathward-q2-2026-slides-tax-services-surge-offsets-margin-pressure-93CH-4630970</guid>
       <pubDate>22/04/2026 19:23</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/98d27b77357ada28f56e4605aed55cc8778fd621fa4753bfa167cd9937fd92c7.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: IBM Q1 2026 supera as expectativas de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ibm-q1-2026-beats-earnings-expectations-93CH-4630972</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ibm-q1-2026-beats-earnings-expectations-93CH-4630972</guid>
-      <pubDate>22/04/2026 19:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
