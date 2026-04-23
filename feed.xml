@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 03:30:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 03:34:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Austrália caem no fechamento do pregão; S&amp;P/ASX 200 caiu 0,57%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-057-4631228</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-057-4631228</guid>
+      <pubDate>23/04/2026 03:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC6B0B9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dow Jones AI Giant Nvidia, Sterling, Viking em ou perto de zonas de compra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-earnings-preview-expect-163207413.html</guid>
       <pubDate>23/04/2026 01:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/f1c12b128a1e0fadb366bb9321d7ee6d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados da Dominion Energy</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-dominion-energys-earnings-161712590.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-dominion-energys-earnings-161712590.html</guid>
-      <pubDate>23/04/2026 01:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/eeeac767fbe5d9b78e08d1e01cd0ff5b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
