@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 01:46:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 01:46:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Senado dos EUA avança em direção ao avanço do ICE e plano de financiamento fronteiriço</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/us-senate-edges-toward-advancing-ice-border-funding-plan-4631160</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-senate-edges-toward-advancing-ice-border-funding-plan-4631160</guid>
+      <pubDate>23/04/2026 01:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M05A_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE BofA escolhe as principais ações de petróleo e gás da Argentina</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-holds-near-112week-high-as-iranus-standoff-persists-4631129</guid>
       <pubDate>22/04/2026 22:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M02B_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Microsoft investirá US$ 18 bilhões na Austrália em impulso de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/microsoft-to-invest-18-billion-in-australia-in-ai-push-4631125</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-to-invest-18-billion-in-australia-in-ai-push-4631125</guid>
-      <pubDate>22/04/2026 22:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M01M_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
