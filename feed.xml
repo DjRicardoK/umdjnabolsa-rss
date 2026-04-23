@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 04:13:04 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 04:13:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Europris Q1 2026 vê aumento nas vendas desde a Páscoa</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-europris-q1-2026-sees-sales-boost-from-easter-93CH-4631267</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-europris-q1-2026-sees-sales-boost-from-easter-93CH-4631267</guid>
+      <pubDate>23/04/2026 04:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Apesar dos avisos terríveis, o aumento dos salários dos fast-food da Califórnia para 20 dólares não resultou...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/d-r-horton-inc-q2-164636596.html</guid>
       <pubDate>23/04/2026 01:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/724f836b9d9d1cd716dd54b0c0204ee5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do Mercantile Bank Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/mercantile-bank-corporation-q1-2026-164713560.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mercantile-bank-corporation-q1-2026-164713560.html</guid>
-      <pubDate>23/04/2026 01:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/71ffbe533ccc72075cfc4d370e298a3c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
