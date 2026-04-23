@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 03:18:44 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 03:19:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 5 melhores ações de biotecnologia de pequena capitalização de acordo com fundos de hedge</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/5-best-small-cap-biotech-181612162.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/5-best-small-cap-biotech-181612162.html</guid>
+      <pubDate>23/04/2026 03:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c6229daecaf9390ad6350c5d3454bac6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A guerra no Irão aumenta os lucros da logística europeia à medida que o caos no transporte marítimo persiste</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amid-the-gloom-iran-conflict-hands-indian-cotton-yarn-hub-a-win-4631155</guid>
       <pubDate>23/04/2026 00:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos do primeiro trimestre impulsionarão o estoque da GE Vernova para US$ 1.225?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/q1-earnings-power-ge-vernova-160836851.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/q1-earnings-power-ge-vernova-160836851.html</guid>
-      <pubDate>23/04/2026 00:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
