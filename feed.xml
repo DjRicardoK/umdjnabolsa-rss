@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 02:40:52 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:55:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Heineken supera previsões no primeiro trimestre, mas cautelosa com os impactos da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/heinekens-q1-revenue-beats-forecasts-4631181</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/heinekens-q1-revenue-beats-forecasts-4631181</guid>
+      <pubDate>23/04/2026 02:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M06X_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Vortex e Brimstone da Hycroft Mining (HYMC) superam as expectativas com extensão da descoberta de prata e...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-fall-further-as-uncertainty-over-iran-talks-us-rates-boosts-dollar-4631150</guid>
       <pubDate>23/04/2026 00:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5N0EK_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Sandfire Resources Q3 2026 vê resultados recordes apesar dos...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-sandfire-resources-q3-2026-sees-record-outcomes-despite-challenges-93CH-4631145</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sandfire-resources-q3-2026-sees-record-outcomes-despite-challenges-93CH-4631145</guid>
-      <pubDate>23/04/2026 00:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
