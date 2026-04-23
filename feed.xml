@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 03:19:53 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 03:30:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dow Jones AI Giant Nvidia, Sterling, Viking em ou perto de zonas de compra</title>
+      <description></description>
+      <link>https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-nvidia-nvda-stock-buy-zone-strl-vik-xpo-markets/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-nvidia-nvda-stock-buy-zone-strl-vik-xpo-markets/?src=A00220&yptr=yahoo</guid>
+      <pubDate>23/04/2026 03:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/f03cefc66c99ad3663b794cf2b11f456" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 5 melhores ações de biotecnologia de pequena capitalização de acordo com fundos de hedge</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-dominion-energys-earnings-161712590.html</guid>
       <pubDate>23/04/2026 01:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/eeeac767fbe5d9b78e08d1e01cd0ff5b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Em meio à escuridão, o conflito no Irã dá uma vitória ao centro indiano de fios de algodão</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/amid-the-gloom-iran-conflict-hands-indian-cotton-yarn-hub-a-win-4631155</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amid-the-gloom-iran-conflict-hands-indian-cotton-yarn-hub-a-win-4631155</guid>
-      <pubDate>23/04/2026 00:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
