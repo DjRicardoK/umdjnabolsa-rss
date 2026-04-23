@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 22 Apr 2026 22:29:01 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 23:11:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: terceiro trimestre de 2026 da Regis Resources destaca forte...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-regis-resources-q3-2026-highlights-strong-cash-flow-93CH-4631139</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-regis-resources-q3-2026-highlights-strong-cash-flow-93CH-4631139</guid>
+      <pubDate>22/04/2026 23:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar permanece perto de alta de uma semana e meia enquanto persiste impasse entre Irã e EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-supported-signs-iran-attend-141756206.html</guid>
       <pubDate>22/04/2026 19:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/9a1ff5003151ccd77c6a21a4e3c76ded" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Kinder Morgan Q1 2026 supera as expectativas, as ações sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-kinder-morgan-q1-2026-beats-expectations-stock-rises-93CH-4630897</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kinder-morgan-q1-2026-beats-expectations-stock-rises-93CH-4630897</guid>
-      <pubDate>22/04/2026 18:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
