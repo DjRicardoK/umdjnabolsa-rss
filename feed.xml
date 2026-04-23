@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 00:19:30 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 00:54:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos do primeiro trimestre impulsionarão o estoque da GE Vernova para US$ 1.225?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/q1-earnings-power-ge-vernova-160836851.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/q1-earnings-power-ge-vernova-160836851.html</guid>
+      <pubDate>23/04/2026 00:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Ásia caem à medida que as tensões no Irã persistem; Nikkei e KOSPI recuam dos picos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/southern-company-earnings-preview-expect-145747400.html</guid>
       <pubDate>22/04/2026 19:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/895b13a6e0142c4f0101415316d1b222" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Vistra Corp. (VST): uma das melhores ações para comprar, de acordo com Nancy Pelosi?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-one-best-144834278.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-one-best-144834278.html</guid>
-      <pubDate>22/04/2026 19:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/57b81ea1e72d313d24fc6a07166bf74e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
