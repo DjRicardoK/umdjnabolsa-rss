@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 02:56:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 03:17:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Análise – O mercado de alimentos para animais de estimação da China, de US$ 24 bilhões, esquenta à medida que...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/analysischinas-24-billion-pet-food-market-heats-up-as-local-brands-challenge-global-players-4631215</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysischinas-24-billion-pet-food-market-heats-up-as-local-brands-challenge-global-players-4631215</guid>
+      <pubDate>23/04/2026 03:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M09J_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Xpeng da China espera começar a entregar carros ‘voadores’ em 2027</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-iran-tensions-persist-nikkei-kospi-retreat-from-peaks-4631151</guid>
       <pubDate>23/04/2026 00:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB380HB_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco do Japão vê queda nos sinais de linha dura, mesmo mantendo as taxas estáveis</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/bank-of-japan-seen-dropping-hawkish-signs-even-as-it-keeps-rates-steady-4631148</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-japan-seen-dropping-hawkish-signs-even-as-it-keeps-rates-steady-4631148</guid>
-      <pubDate>23/04/2026 00:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M044_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
