@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 01:57:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:12:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Exclusivo-SpaceX tem como alvo GPUs internas, pois alerta os investidores sobre fornecimento e custos de chips</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/exclusivespacex-targets-inhouse-gpus-as-it-warns-investors-of-chip-supply-costs-4631165</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusivespacex-targets-inhouse-gpus-as-it-warns-investors-of-chip-supply-costs-4631165</guid>
+      <pubDate>23/04/2026 02:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M060_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da AMETEK</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asian-shares-track-wall-street-to-record-highs-but-higher-oil-prices-a-risk-4631137</guid>
       <pubDate>22/04/2026 23:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M02X_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ministro de Taiwan faz rara visita à ilha do Mar do Sul da China para exercícios</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/taiwan-minister-makes-rare-visit-to-south-china-sea-island-for-drills-4631138</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/taiwan-minister-makes-rare-visit-to-south-china-sea-island-for-drills-4631138</guid>
-      <pubDate>22/04/2026 23:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M02Y_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
