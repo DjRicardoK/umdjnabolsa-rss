@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 01:38:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 01:46:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE BofA escolhe as principais ações de petróleo e gás da Argentina</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/bofa-picks-top-argentina-oil--gas-stocks-93CH-4631161</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bofa-picks-top-argentina-oil--gas-stocks-93CH-4631161</guid>
+      <pubDate>23/04/2026 01:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dr.R. Resumo da teleconferência de resultados do segundo trimestre de 2026 da Horton, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-to-invest-18-billion-in-australia-in-ai-push-4631125</guid>
       <pubDate>22/04/2026 22:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M01M_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: DroneShield Q1 2026 registra fluxo de caixa recorde</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-droneshield-q1-2026-sees-record-cash-flow-93CH-4631095</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-droneshield-q1-2026-sees-record-cash-flow-93CH-4631095</guid>
-      <pubDate>22/04/2026 21:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
