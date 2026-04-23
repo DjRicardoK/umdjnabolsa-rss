@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 00:57:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 01:03:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação de resultados da Dominion Energy</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/know-ahead-dominion-energys-earnings-161712590.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-dominion-energys-earnings-161712590.html</guid>
+      <pubDate>23/04/2026 01:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/eeeac767fbe5d9b78e08d1e01cd0ff5b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Em meio à escuridão, o conflito no Irã dá uma vitória ao centro indiano de fios de algodão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-buy-q3-cloud-153048679.html</guid>
       <pubDate>22/04/2026 20:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/70f0cef0c027d2d0ac959916cfe49457" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações anulam ganhos iniciais à medida que os preços do petróleo saltam devido às preocupações com o Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-erase-early-gains-crude-152628449.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-erase-early-gains-crude-152628449.html</guid>
-      <pubDate>22/04/2026 20:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
