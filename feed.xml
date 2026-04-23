@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 03:49:58 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 03:56:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nestlé mantém perspectiva para o ano inteiro, já que a guerra no Irã tem impacto limitado até agora</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nestle-beats-firstquarter-sales-estimates-4631178</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nestle-beats-firstquarter-sales-estimates-4631178</guid>
+      <pubDate>23/04/2026 03:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M06R_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘Choque no mercado do Tesouro’: por que este ex-secretário do Tesouro alerta que uma grande crise pode estar...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/microsoft-must-face-2-8-163907031.html</guid>
       <pubDate>23/04/2026 01:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/07ec227438f1d489ff23ee84e8a4551e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Investidores estrangeiros compram ações do Japão com base nas esperanças de paz EUA-Irã e recuperação da IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/foreign-investors-buy-japan-stocks-on-usiran-peace-hopes-ai-rally-4631158</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/foreign-investors-buy-japan-stocks-on-usiran-peace-hopes-ai-rally-4631158</guid>
-      <pubDate>23/04/2026 01:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M058_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
