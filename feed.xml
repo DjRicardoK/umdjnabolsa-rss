@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 02:12:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:40:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações da Contango Silver &amp; Gold (CTGO) começarão a ser negociadas na Bolsa de Valores de Toronto; Analistas...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/contango-silver-gold-ctgo-shares-173955603.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/contango-silver-gold-ctgo-shares-173955603.html</guid>
+      <pubDate>23/04/2026 02:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/cba3b877906d4bc6d52aef0eefaf5c73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Exclusivo-SpaceX tem como alvo GPUs internas, pois alerta os investidores sobre fornecimento e custos de chips</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/usda-to-expand-acreage-surveys-to-more-us-farmers-4631140</guid>
       <pubDate>22/04/2026 23:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M034_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações asiáticas acompanham Wall Street em máximas recordes, mas preços mais altos do petróleo são um risco</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asian-shares-track-wall-street-to-record-highs-but-higher-oil-prices-a-risk-4631137</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asian-shares-track-wall-street-to-record-highs-but-higher-oil-prices-a-risk-4631137</guid>
-      <pubDate>22/04/2026 23:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M02X_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
