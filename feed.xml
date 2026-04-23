@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 04:13:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 04:19:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preço-alvo da LyondellBasell (LYB) vê impulso ascendente na RBC Capital</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-price-target-sees-192639802.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-price-target-sees-192639802.html</guid>
+      <pubDate>23/04/2026 04:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5ebd6ae560277bf056c18572f9e01ebc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE FTSE 100 hoje: as ações abrem em baixa enquanto as tensões no Oriente Médio mantêm a pressão sobre os mercados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-senate-edges-toward-advancing-ice-border-funding-plan-4631160</guid>
       <pubDate>23/04/2026 01:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M05A_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE BofA escolhe as principais ações de petróleo e gás da Argentina</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bofa-picks-top-argentina-oil--gas-stocks-93CH-4631161</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bofa-picks-top-argentina-oil--gas-stocks-93CH-4631161</guid>
-      <pubDate>23/04/2026 01:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
