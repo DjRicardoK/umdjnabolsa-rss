@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 01:31:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 01:34:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Microsoft deve enfrentar processo de US$ 2,8 bilhões no Reino Unido por licenças de computação em nuvem</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/microsoft-must-face-2-8-163907031.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/microsoft-must-face-2-8-163907031.html</guid>
+      <pubDate>23/04/2026 01:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/07ec227438f1d489ff23ee84e8a4551e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Investidores estrangeiros compram ações do Japão com base nas esperanças de paz EUA-Irã e recuperação da IA</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-develop-globals-q3-2025-performance-boosts-stock-93CH-4631067</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-develop-globals-q3-2025-performance-boosts-stock-93CH-4631067</guid>
       <pubDate>22/04/2026 20:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Perseus Mining Q3 2026 mostra forte desempenho</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-perseus-mining-q3-2026-shows-strong-performance-93CH-4631062</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-perseus-mining-q3-2026-shows-strong-performance-93CH-4631062</guid>
-      <pubDate>22/04/2026 20:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
