@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 04:47:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 04:47:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Vendas do grupo de peças automotivas Forvia são prejudicadas pela fraqueza na China</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/car-parts-group-forvias-sales-dragged-by-weakness-in-china-4634779</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/car-parts-group-forvias-sales-dragged-by-weakness-in-china-4634779</guid>
+      <pubDate>24/04/2026 04:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N05Y_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Castellum Q1 2026 vê reação moderada do mercado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/us-oil-executives-expect-crude-outputto-rise-as-iran-war-continues-survey-shows-4634561</guid>
       <pubDate>24/04/2026 02:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M161_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Câmbio asiático fraco, dólar caminha para semana forte enquanto o nervosismo EUA-Irã persiste</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/asia-fx-soft-dollar-heads-for-strong-week-as-usiran-jitters-persist-4634552</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-soft-dollar-heads-for-strong-week-as-usiran-jitters-persist-4634552</guid>
-      <pubDate>24/04/2026 02:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED9H01L_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
