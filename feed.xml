@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 13:31:18 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:35:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Intel acaba de ultrapassar o teto da era pontocom após os lucros: Gráfico do Dia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/intel-just-cleared-its-dot-com-era-ceiling-after-earnings-chart-of-the-day-110711546.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/intel-just-cleared-its-dot-com-era-ceiling-after-earnings-chart-of-the-day-110711546.html</guid>
+      <pubDate>24/04/2026 13:35</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/C0htdYVouHopDeCw2qg9bg--~B/aD0xNDEyO3c9MTkwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/af82f8cf-d9ef-48d5-8ddc-c01490ecd637" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Departamento de Justiça encerra investigação sobre o presidente do Fed, Powell, removendo obstáculo para Warsh</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/mortgage-rates-inch-lower-and-chip-away-at-the-lock-in-effect-that-has-hurt-home-buyers-f1d27717?mod=mw_rss_topstories</guid>
       <pubDate>24/04/2026 12:17</pubDate>
       <enclosure url="https://images.mktw.net/im-20340902" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aquisições de funcionários como a da Microsoft podem se tornar mais comuns. Aqui está o que os trabalhadores...</title>
-      <description>No mercado de trabalho atual, aquisições como a que a Microsoft está supostamente propondo podem se tornar mais comuns.</description>
-      <link>https://www.marketwatch.com/story/employee-buyouts-like-microsofts-could-become-more-common-heres-what-workers-need-to-know-2b439281?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/employee-buyouts-like-microsofts-could-become-more-common-heres-what-workers-need-to-know-2b439281?mod=mw_rss_topstories</guid>
-      <pubDate>24/04/2026 12:14</pubDate>
-      <enclosure url="https://images.mktw.net/im-67764331" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
