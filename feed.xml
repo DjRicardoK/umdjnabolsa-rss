@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 03:09:33 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 03:18:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Pegando a faca que cai: essas quatro ações perdedoras caíram 50% ou mais, valem o risco?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/catching-falling-knife-4-loser-182523844.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/catching-falling-knife-4-loser-182523844.html</guid>
+      <pubDate>24/04/2026 03:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ebaf75dbf610c84068745a6257ad7ec9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE GE Vernova (GEV) – Entre os 8 melhores estoques de energia eólica e solar para comprar agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-tech-losses-oil-surge-weigh-japan-cpi-in-focus-4634540</guid>
       <pubDate>24/04/2026 00:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB810CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos lucros: o que esperar do relatório da Fox Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-fox-corporations-153051545.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-fox-corporations-153051545.html</guid>
-      <pubDate>24/04/2026 00:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1e7dc97e17315c2ceab4ce69fa289796" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
