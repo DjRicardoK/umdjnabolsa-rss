@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 21:48:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:49:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Opções de ações baratas sugerem uma grande oscilação pós-lucro na próxima semana para Meta e outros titãs da...</title>
+      <description>Wall Street está subestimando uma potencial explosão de preços nos relatórios de lucros de ações de tecnologia da próxima semana.</description>
+      <link>https://www.marketwatch.com/story/cheap-options-suggest-a-big-post-earnings-swing-next-week-for-these-tech-titans-d9b56126?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/cheap-options-suggest-a-big-post-earnings-swing-next-week-for-these-tech-titans-d9b56126?mod=mw_rss_topstories</guid>
+      <pubDate>23/04/2026 21:48</pubDate>
+      <enclosure url="https://images.mktw.net/im-75543221" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que as ações da Intel estão a caminho de um aumento histórico após os lucros</title>
       <description>As ações da Intel poderão ter seu melhor desempenho pós-lucro já registrado e finalmente superar a máxima de fechamento de 2000 em meio a um “renascimento da CPU”.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-xpeng-expects-to-start-delivering-flying-cars-in-2027-4631197</guid>
       <pubDate>23/04/2026 02:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M08G_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Heineken supera previsões no primeiro trimestre, mas cautelosa com os impactos da guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/heinekens-q1-revenue-beats-forecasts-4631181</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/heinekens-q1-revenue-beats-forecasts-4631181</guid>
-      <pubDate>23/04/2026 02:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M06X_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
