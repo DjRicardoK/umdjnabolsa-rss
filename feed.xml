@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:19:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:30:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Stifel aumenta a meta de preço das ações da Pool Corp para US$ 240 com lucros superados</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-raises-pool-corp-stock-price-target-to-240-on-earnings-beat-93CH-4634954</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-raises-pool-corp-stock-price-target-to-240-on-earnings-beat-93CH-4634954</guid>
+      <pubDate>24/04/2026 06:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tesla Cybercab entra em produção, ações sobem no pré-mercado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/slowing-services-growth-hardware-bottleneck-204914755.html</guid>
       <pubDate>24/04/2026 05:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/21a3884aaea54d8e34ff2f7c65232ab7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE NVIDIA Corporation (NVDA) visa oportunidade de computação quântica de US$ 11 bilhões com Ising</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/nvidia-corporation-nvda-sets-sight-204817080.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/nvidia-corporation-nvda-sets-sight-204817080.html</guid>
-      <pubDate>24/04/2026 05:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
