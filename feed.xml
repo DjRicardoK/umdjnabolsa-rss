@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 02:36:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 03:09:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE GE Vernova (GEV) – Entre os 8 melhores estoques de energia eólica e solar para comprar agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/ge-vernova-gev-among-8-181349680.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/ge-vernova-gev-among-8-181349680.html</guid>
+      <pubDate>24/04/2026 03:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/57b81ea1e72d313d24fc6a07166bf74e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O Barclays ainda está apostando alto nas ações da Amazon: AMZN &apos;continuará a ter desempenho superior&apos;</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-fox-corporations-153051545.html</guid>
       <pubDate>24/04/2026 00:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/1e7dc97e17315c2ceab4ce69fa289796" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Será que Ternus pode inventar a nova história que as ações da Apple precisam urgentemente</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/ternus-come-story-apple-stock-152214942.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ternus-come-story-apple-stock-152214942.html</guid>
-      <pubDate>24/04/2026 00:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/13eeb713efd52d28173dcbb6d9c7c567" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
