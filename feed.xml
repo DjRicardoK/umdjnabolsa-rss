@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 04:12:53 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 04:20:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da KKR &amp; Co.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/expect-kkr-co-q1-2026-191730792.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-kkr-co-q1-2026-191730792.html</guid>
+      <pubDate>24/04/2026 04:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b755108c26b96e02f25cd85e604fb509" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Visualização dos ganhos do primeiro trimestre da Amazon: IA, AWS e anúncios podem aumentar o estoque da AMZN?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cme-group-inc-q1-2026-164623068.html</guid>
       <pubDate>24/04/2026 01:36</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/8735086027d32914337c18d8f64b70b4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Masco Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/masco-corporation-q1-2026-earnings-164638312.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/masco-corporation-q1-2026-earnings-164638312.html</guid>
-      <pubDate>24/04/2026 01:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/302c3d219e597657efa622558d919a23" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
