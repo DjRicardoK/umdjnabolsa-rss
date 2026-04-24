@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 04:20:06 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 04:30:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar se recupera com o aumento das tensões no Estreito de Ormuz</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-recovers-rising-tensions-over-193617017.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-recovers-rising-tensions-over-193617017.html</guid>
+      <pubDate>24/04/2026 04:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/28daf3562e3582568bec527cdf7175ed" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da KKR &amp; Co.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/westinghouse-air-brake-technologies-corporation-164653761.html</guid>
       <pubDate>24/04/2026 01:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/3e2d36a7711b9dbbc634f89c1107bb93" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do CME Group Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/cme-group-inc-q1-2026-164623068.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cme-group-inc-q1-2026-164623068.html</guid>
-      <pubDate>24/04/2026 01:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/8735086027d32914337c18d8f64b70b4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
