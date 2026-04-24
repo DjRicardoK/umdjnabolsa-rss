@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 12:30:30 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 12:38:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: OceanFirst Q1 2026 supera as previsões de EPS, pequena perda de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-oceanfirst-q1-2026-beats-eps-forecasts-minor-revenue-miss-93CH-4636324</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-oceanfirst-q1-2026-beats-eps-forecasts-minor-revenue-miss-93CH-4636324</guid>
+      <pubDate>24/04/2026 12:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Becton Dickinson and Company (BDX): ações defensivas padrão ouro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-amid-middle-east-conflict-4636119</guid>
       <pubDate>24/04/2026 11:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0RG_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: KB Financial Group supera as previsões do primeiro trimestre de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-kb-financial-group-beats-q1-2026-forecasts-93CH-4636146</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kb-financial-group-beats-q1-2026-forecasts-93CH-4636146</guid>
-      <pubDate>24/04/2026 11:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
