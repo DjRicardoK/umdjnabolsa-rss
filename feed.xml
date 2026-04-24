@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 14:32:06 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 14:38:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE China restringirá startups de IA de receber financiamento dos EUA, relata Bloomberg</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/china-to-restricts-ai-startups-from-taking-us-funding-bloomberg-reports-93CH-4636544</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-to-restricts-ai-startups-from-taking-us-funding-bloomberg-reports-93CH-4636544</guid>
+      <pubDate>24/04/2026 14:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Primeiros slides do primeiro trimestre de 2026 da Western: ganhos aumentam 85%, eficiência melhora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-074-4636425</guid>
       <pubDate>24/04/2026 13:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5I0BU_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Arcbest Corp atingem alta de 52 semanas a 122,52 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/arcbest-corp-stock-hits-52week-high-at-12252-usd-93CH-4636362</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/arcbest-corp-stock-hits-52week-high-at-12252-usd-93CH-4636362</guid>
-      <pubDate>24/04/2026 13:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
