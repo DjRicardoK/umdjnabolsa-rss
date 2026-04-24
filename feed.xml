@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 08:01:36 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:04:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Acionistas da Warner Bros aprovam aquisição da gigante de Hollywood pela Paramount por US$ 81 bilhões</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warner-bros-shareholders-vote-paramounts-230850708.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warner-bros-shareholders-vote-paramounts-230850708.html</guid>
+      <pubDate>24/04/2026 08:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ap.org/227b8239d7355e48ac8f24d0013db685" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Triller Group recebe aviso de fechamento de capital da Nasdaq devido ao cumprimento do preço mínimo de oferta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-payment-network-bolstered-213003035.html</guid>
       <pubDate>24/04/2026 06:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2f4ff15fa8092684aa24fb51c1c1fcad" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Signify caem após os lucros do primeiro trimestre serem atingidos pela fraca demanda e custos</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/signify-shares-fall-after-q1-earnings-hit-by-weak-demand-costs-4634895</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/signify-shares-fall-after-q1-earnings-hit-by-weak-demand-costs-4634895</guid>
-      <pubDate>24/04/2026 05:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
