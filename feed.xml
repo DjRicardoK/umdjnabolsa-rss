@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 05:55:33 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:55:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O sentimento empresarial alemão atinge o menor nível desde 2020, com o peso da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/german-business-sentiment-falls-in-april-to-lowest-level-since-2020-4634816</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/german-business-sentiment-falls-in-april-to-lowest-level-since-2020-4634816</guid>
+      <pubDate>24/04/2026 05:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0DL_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas mundiais e petróleo em risco com impasse entre EUA e Irã pesando</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-hut-8-corp-hut-195620907.html</guid>
       <pubDate>24/04/2026 04:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/067fc8124bd327a90f5a216f442bdf3d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Vendas do grupo de peças automotivas Forvia são prejudicadas pela fraqueza na China</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/car-parts-group-forvias-sales-dragged-by-weakness-in-china-4634779</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/car-parts-group-forvias-sales-dragged-by-weakness-in-china-4634779</guid>
-      <pubDate>24/04/2026 04:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N05Y_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
