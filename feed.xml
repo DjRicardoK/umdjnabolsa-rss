@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 17:05:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 17:17:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações caem antes da abertura devido à incerteza das negociações EUA-Irã, lucros e dados do PMI em foco</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-u-iran-103331501.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-u-iran-103331501.html</guid>
+      <pubDate>24/04/2026 17:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/504dba31bff02fcd8f8d5c2ba86af089" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Netflix aumenta plano de recompra de ações em US$ 25 bilhões após oferta fracassada da Warner Bros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/salesforce-inc-crm-pt-reduced-083956773.html</guid>
       <pubDate>24/04/2026 15:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/057172d1bddd5e7eaee5fc08e2756794" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Oppenheimer reitera classificação de ações da Compass Pathways na revisão da FDA</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-compass-pathways-stock-rating-on-fda-review-93CH-4636591</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/oppenheimer-reiterates-compass-pathways-stock-rating-on-fda-review-93CH-4636591</guid>
-      <pubDate>24/04/2026 15:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
