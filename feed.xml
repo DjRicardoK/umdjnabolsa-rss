@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 16:14:03 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 16:34:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Serviços Nacionais de Energia (NESR): As concessões de contratos revelam muito</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/national-energy-services-nesr-contract-094755496.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/national-energy-services-nesr-contract-094755496.html</guid>
+      <pubDate>24/04/2026 16:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/61c2c85e5a9aa680cb0c9313500377b2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs atualiza estimativas da ASML Holding NV (ASML)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/us-legal-adviser-says-iran-war-justified-by-tehrans-aggression-over-decades-4636556</guid>
       <pubDate>24/04/2026 14:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N15J_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O presidente assume a pose de vitória enquanto as ações dos EUA atingem novos máximos em meio à guerra,...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/president-takes-victory-pose-us-172500383.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/president-takes-victory-pose-us-172500383.html</guid>
-      <pubDate>24/04/2026 14:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/7b250c04414a083a438c9a6723001b35" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
