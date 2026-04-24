@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:12:09 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:13:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da CSX Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/csx-corporation-q1-2026-earnings-001702036.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/csx-corporation-q1-2026-earnings-001702036.html</guid>
+      <pubDate>24/04/2026 09:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/b3e76a28a72c8263c52d6c1adb5ef21d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Intel ampliam sua corrida espetacular – e podem ver seu melhor ganho diário já registrado</title>
       <description>Há um debate em Wall Street sobre se as perspectivas financeiras da Intel mudaram materialmente.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/forty-years-after-nuclear-disaster-ukraines-chornobyl-plant-is-haunted-by-war-4634987</guid>
       <pubDate>24/04/2026 06:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0HO_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China restringirá investimento dos EUA em empresas de tecnologia, informa Bloomberg News</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/china-to-curb-us-investment-in-tech-companies-bloomberg-news-reports-4634988</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-to-curb-us-investment-in-tech-companies-bloomberg-news-reports-4634988</guid>
-      <pubDate>24/04/2026 06:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0HN_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
