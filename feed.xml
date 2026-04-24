@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 15:48:42 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:48:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Guggenheim ajusta Amgen Inc. (AMGN) PT para US$ 351, cita modelo atualizado antes dos ganhos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/guggenheim-adjusts-amgen-inc-amgn-084126409.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/guggenheim-adjusts-amgen-inc-amgn-084126409.html</guid>
+      <pubDate>24/04/2026 15:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/221ca71178ac98317518fd4db57e369e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BofA sinaliza cautela dos investidores sobre o Goldman Sachs Group, Inc. (GS), apesar do sólido desempenho...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-first-western-financial-beats-q1-2026-eps-estimates-93CH-4636502</guid>
       <pubDate>24/04/2026 14:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Cálculo da IA ​​do Google: Gêmeos pode transformar domínio em dólares?</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/google-stock-artificial-intelligence-ai-models-gemini/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/google-stock-artificial-intelligence-ai-models-gemini/?src=A00220&yptr=yahoo</guid>
-      <pubDate>24/04/2026 14:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/630931321c3d8d4f14fb898b03f4b703" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
