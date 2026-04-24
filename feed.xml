@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:35:07 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:59:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE China restringirá investimento dos EUA em empresas de tecnologia, informa Bloomberg News</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/china-to-curb-us-investment-in-tech-companies-bloomberg-news-reports-4634988</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-to-curb-us-investment-in-tech-companies-bloomberg-news-reports-4634988</guid>
+      <pubDate>24/04/2026 06:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0HN_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Stifel aumenta a meta de preço das ações da Gentherm após forte queda nos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-prisma-properties-ab-q1-2026-shows-strong-growth-93CH-4634843</guid>
       <pubDate>24/04/2026 05:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon.com, Inc. (AMZN) fortalece perspectiva de serviço de satélite com acordo Globalstar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-strengthens-205122489.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-strengthens-205122489.html</guid>
-      <pubDate>24/04/2026 05:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0f80d62d30186855ddb1b0392843bf40" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
