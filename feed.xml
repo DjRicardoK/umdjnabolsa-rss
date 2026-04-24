@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 11:56:15 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:56:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Noruega caem no fechamento do pregão; Oslo OBX caiu 0,71%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-071-4636212</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-071-4636212</guid>
+      <pubDate>24/04/2026 11:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 de Hartford: forte crescimento do ROE mascara perda de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-asta-energy-solutions-historic-2025-performance-93CH-4635895</guid>
       <pubDate>24/04/2026 10:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Xanadu (XNDU) dispara 52% com apoio da Nvidia Quantum</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/xanadu-xndu-soars-52-nvidia-014247029.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/xanadu-xndu-soars-52-nvidia-014247029.html</guid>
-      <pubDate>24/04/2026 10:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f114d008897a19c732ab87a550b73a55" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
