@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 05:10:57 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:11:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do segundo trimestre de 2026 da TE Connectivity Ltd.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/te-connectivity-ltd-q2-2026-204519165.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/te-connectivity-ltd-q2-2026-204519165.html</guid>
+      <pubDate>24/04/2026 05:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/d293bc6f8d03473341207e3a17fef00e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da China Automotive Systems, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tomra-systems-sees-revenue-growth-in-q1-2026-93CH-4634712</guid>
       <pubDate>24/04/2026 03:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A corrida de combustível dos motoristas do Reino Unido quando a guerra no Irã começou impulsiona as vendas no...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/uk-retail-sales-rise-07-in-march-4634616</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/uk-retail-sales-rise-07-in-march-4634616</guid>
-      <pubDate>24/04/2026 03:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N08U_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
