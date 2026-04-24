@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 16:07:48 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 16:10:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Por que os preços do petróleo não cairão tão cedo para os níveis observados antes da guerra com o Irão</title>
+      <description>SLB e Halliburton disseram esta semana que esperam que os preços do petróleo permaneçam mais altos por mais tempo. Isso terá implicações imediatas para uma série de produtos –...</description>
+      <link>https://www.marketwatch.com/story/why-crude-prices-wont-fall-back-to-levels-seen-before-the-iran-war-anytime-soon-9bdceed1?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/why-crude-prices-wont-fall-back-to-levels-seen-before-the-iran-war-anytime-soon-9bdceed1?mod=mw_rss_topstories</guid>
+      <pubDate>24/04/2026 16:10</pubDate>
+      <enclosure url="https://images.mktw.net/im-35826895" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Nvidia atingem o primeiro fechamento recorde em 6 meses – graças à Intel</title>
       <description>A Nvidia está finalmente no caminho certo para fechar o território de US$ 5 trilhões, encerrando uma “semana incrível” para os fabricantes de chips.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-to-restricts-ai-startups-from-taking-us-funding-bloomberg-reports-93CH-4636544</guid>
       <pubDate>24/04/2026 14:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Primeiros slides do primeiro trimestre de 2026 da Western: ganhos aumentam 85%, eficiência melhora</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/first-western-q1-2026-slides-earnings-surge-85-efficiency-improves-93CH-4636529</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/first-western-q1-2026-slides-earnings-surge-85-efficiency-improves-93CH-4636529</guid>
-      <pubDate>24/04/2026 14:32</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/20d69291afbf4e29f47afbe5f693763e296990484131b5dcf2cdb5a2fa8893ee.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
