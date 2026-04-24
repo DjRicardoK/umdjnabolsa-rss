@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 13:02:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:02:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Visualização instantânea: Fim da investigação de Powell alivia incerteza sobre o plano de sucessão do Fed</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/instant-view-end-of-powell-probe-relieves-uncertainty-over-fed-succession-plan-4636375</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/instant-view-end-of-powell-probe-relieves-uncertainty-over-fed-succession-plan-4636375</guid>
+      <pubDate>24/04/2026 13:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N11O_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE CEO da Deutsche Boerse alerta contra negociações 24 horas por dia, 7 dias por semana, enquanto Wall Street se...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-primis-financial-beats-q1-2026-expectations-93CH-4636187</guid>
       <pubDate>24/04/2026 11:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tecnologia Micron (MU): o próximo gigante de um trilhão de dólares escondido em sua lista de observação</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-next-trillion-144328640.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-next-trillion-144328640.html</guid>
-      <pubDate>24/04/2026 11:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/01d28f5d850b10f3f89f48baae258b43" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
