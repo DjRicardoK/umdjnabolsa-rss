@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 15:53:23 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:58:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do próximo relatório de lucros trimestrais da Estée Lauder</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/expect-est-e-lauders-next-090439031.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-est-e-lauders-next-090439031.html</guid>
+      <pubDate>24/04/2026 15:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/31c53bccadf1d884e344c28e24c52f09" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: First Business supera as estimativas de lucros do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/tesla-is-headed-down-a-path-of-runaway-unsustainable-spending-analysts-warn-60f16c6c?mod=mw_rss_topstories</guid>
       <pubDate>24/04/2026 14:17</pubDate>
       <enclosure url="https://images.mktw.net/im-32298168" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE BofA aumenta meta de preço das ações da Xcel Energy com base nas perspectivas de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/bofa-raises-xcel-energy-stock-price-target-on-earnings-outlook-93CH-4636517</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-raises-xcel-energy-stock-price-target-on-earnings-outlook-93CH-4636517</guid>
-      <pubDate>24/04/2026 14:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
