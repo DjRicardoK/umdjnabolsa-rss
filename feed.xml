@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 08:06:51 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:11:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Formulário 8K Woodward Inc para: 24 de abril</title>
+      <description></description>
+      <link>https://www.investing.com/news/filings/form-8k-woodward-inc-for-24-april-93CH-4635247</link>
+      <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-woodward-inc-for-24-april-93CH-4635247</guid>
+      <pubDate>24/04/2026 08:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE InvestingPro alertou que a AeroVironment estava supervalorizada antes da queda de 40%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/french-consumer-confidence-falls-sharply-in-april-4634710</guid>
       <pubDate>24/04/2026 06:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0AT_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Canaccord corta meta de preço das ações da Edwards Lifesciences na avaliação</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/canaccord-cuts-edwards-lifesciences-stock-price-target-on-valuation-93CH-4634912</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/canaccord-cuts-edwards-lifesciences-stock-price-target-on-valuation-93CH-4634912</guid>
-      <pubDate>24/04/2026 06:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
