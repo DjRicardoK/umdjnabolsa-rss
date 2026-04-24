@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 00:51:40 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 00:51:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da NRG Energy</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/expect-nrg-energys-next-quarterly-160613612.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-nrg-energys-next-quarterly-160613612.html</guid>
+      <pubDate>24/04/2026 00:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/00e2333af91cb149672effa8464bcd60" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE 3 fatores “externos” que impulsionam os preços do ouro e da prata no momento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-exelon-corporations-next-135800615.html</guid>
       <pubDate>23/04/2026 22:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/eaeb8fc5bde0735a2b9d579196e56cba" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 do Simon Property Group: o que esperar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/simon-property-groups-q1-2026-135423336.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/simon-property-groups-q1-2026-135423336.html</guid>
-      <pubDate>23/04/2026 22:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0152b61f9cd3c3f0b699d21a3a76619b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
