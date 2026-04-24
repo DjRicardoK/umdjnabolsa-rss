@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 13:10:40 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:10:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 do USCB: lucros superaram as previsões sobre depósitos e crescimento de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/uscb-q1-2026-slides-earnings-beat-forecasts-on-deposit-loan-growth-93CH-4636423</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/uscb-q1-2026-slides-earnings-beat-forecasts-on-deposit-loan-growth-93CH-4636423</guid>
+      <pubDate>24/04/2026 13:10</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/8add58d25bb30201a81672902a2fc01c3ac1c3a6865f5dfb7f88d87e67dcca06.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas do Reino Unido caem no fechamento do pregão; Investing.com Reino Unido 100 caiu 0,74%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/waste-management-wm-one-best-145402656.html</guid>
       <pubDate>24/04/2026 12:09</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e195d28129e998d767dce0e167fcd6b9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Amazon sobem para registrar alta no negócio de chips Meta AI</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/amazon-stock-meta-stock-ai-chip/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/amazon-stock-meta-stock-ai-chip/?src=A00220&yptr=yahoo</guid>
-      <pubDate>24/04/2026 12:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/79737d30c6d5dd226bb6f31f7241ed32" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
