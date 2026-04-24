@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 05:04:46 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:10:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da M/I Homes, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/m-homes-inc-q1-2026-204447617.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/m-homes-inc-q1-2026-204447617.html</guid>
+      <pubDate>24/04/2026 05:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/fbd47051464163b02bf9946c774ea4d5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nomura registra lucro anual recorde e não vê impacto prolongado da guerra no Irã até agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/google-cloud-next-tpu-artificial-intelligence-enterprise-agentic-platform/?src=A00220&yptr=yahoo</guid>
       <pubDate>24/04/2026 03:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/928d271a2c1510fbc21cc24be3a783e0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ATOSS Software aumenta orientação de margem EBIT para 2026 após forte primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/atoss-software-raises-2026-ebit-margin-guidance-after-strong-q1-93CH-4634640</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/atoss-software-raises-2026-ebit-margin-guidance-after-strong-q1-93CH-4634640</guid>
-      <pubDate>24/04/2026 03:36</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
