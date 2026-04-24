@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 18:49:04 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 18:49:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE EUA acrescentando pelotões de fuzilamento, eletrocussão e gaseamento aos métodos federais de execução</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/justice-department-readopts-firing-squads-in-us-federal-executions-4636297</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/justice-department-readopts-firing-squads-in-us-federal-executions-4636297</guid>
+      <pubDate>24/04/2026 18:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N10H_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Alliant Energy</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/adapthealth-corp-stock-hits-52week-high-at-1287-usd-93CH-4636696</guid>
       <pubDate>24/04/2026 16:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Serviços Nacionais de Energia (NESR): As concessões de contratos revelam muito</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/national-energy-services-nesr-contract-094755496.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/national-energy-services-nesr-contract-094755496.html</guid>
-      <pubDate>24/04/2026 16:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/61c2c85e5a9aa680cb0c9313500377b2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
