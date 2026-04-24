@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 17:17:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 17:32:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Há uma nova ação para o IPO de energia nuclear e Wall Street está se acumulando.</title>
+      <description>As ações da X-Energy dispararam após o aumento do IPO do AI-power play com preço bem acima da faixa esperada. Mas a forma como uma ação começa não determina seu desempenho no...</description>
+      <link>https://www.marketwatch.com/story/theres-a-new-stock-for-the-nuclear-power-ipo-trade-and-wall-street-is-piling-in-should-you-b07269fa?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/theres-a-new-stock-for-the-nuclear-power-ipo-trade-and-wall-street-is-piling-in-should-you-b07269fa?mod=mw_rss_topstories</guid>
+      <pubDate>24/04/2026 17:32</pubDate>
+      <enclosure url="https://images.mktw.net/im-26751897" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações caem antes da abertura devido à incerteza das negociações EUA-Irã, lucros e dados do PMI em foco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-space-force-taps-12-firms-for-32-billion-golden-dome-missile-defense-contracts-4636613</guid>
       <pubDate>24/04/2026 15:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N16K_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE (CRM) PT reduzida à medida que Piper Sandler sinaliza crescente competição de IA em software empresarial</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/salesforce-inc-crm-pt-reduced-083956773.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/salesforce-inc-crm-pt-reduced-083956773.html</guid>
-      <pubDate>24/04/2026 15:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/057172d1bddd5e7eaee5fc08e2756794" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
