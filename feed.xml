@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 14:15:23 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 14:17:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE BofA aumenta meta de preço das ações da Xcel Energy com base nas perspectivas de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bofa-raises-xcel-energy-stock-price-target-on-earnings-outlook-93CH-4636517</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-raises-xcel-energy-stock-price-target-on-earnings-outlook-93CH-4636517</guid>
+      <pubDate>24/04/2026 14:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Phillips Edison supera as previsões do primeiro trimestre de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/instant-view-end-of-powell-probe-relieves-uncertainty-over-fed-succession-plan-4636375</guid>
       <pubDate>24/04/2026 13:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N11O_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE CEO da Deutsche Boerse alerta contra negociações 24 horas por dia, 7 dias por semana, enquanto Wall Street se...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/deutsche-boerse-ceo-warns-against-247-trading-as-wall-street-gears-up-for-it-4636376</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/deutsche-boerse-ceo-warns-against-247-trading-as-wall-street-gears-up-for-it-4636376</guid>
-      <pubDate>24/04/2026 13:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N11R_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
