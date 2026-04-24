@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 05:24:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:24:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon.com, Inc. (AMZN) fortalece perspectiva de serviço de satélite com acordo Globalstar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-strengthens-205122489.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-strengthens-205122489.html</guid>
+      <pubDate>24/04/2026 05:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0f80d62d30186855ddb1b0392843bf40" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE (AVGO) amplia o alcance da IA ​​com a plataforma VMware Tanzu para IA empresarial</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-q1-earnings-preview-ai-191414968.html</guid>
       <pubDate>24/04/2026 04:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/53921926b0ea4c196011ac50e860a881" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Kalshi lança &apos;centro de commodities&apos; que oferece mercados de ouro e petróleo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/kalshi-launches-commodities-hub-offers-185700357.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/kalshi-launches-commodities-hub-offers-185700357.html</guid>
-      <pubDate>24/04/2026 04:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/761d6c6b8042ea7499ed54a2c8f86917" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
