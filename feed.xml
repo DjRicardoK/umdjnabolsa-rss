@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 11:55:58 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:56:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Primis Financial supera as expectativas do primeiro trimestre...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-primis-financial-beats-q1-2026-expectations-93CH-4636187</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-primis-financial-beats-q1-2026-expectations-93CH-4636187</guid>
+      <pubDate>24/04/2026 11:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tecnologia Micron (MU): o próximo gigante de um trilhão de dólares escondido em sua lista de observação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/navitas-nvts-hits-time-high-013530969.html</guid>
       <pubDate>24/04/2026 10:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/38132271611fe864c6208804c8a8170e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: A superação dos lucros da Vicor no primeiro trimestre de 2026...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-vicors-q1-2026-earnings-beat-drives-stock-surge-93CH-4635846</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vicors-q1-2026-earnings-beat-drives-stock-surge-93CH-4635846</guid>
-      <pubDate>24/04/2026 10:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
