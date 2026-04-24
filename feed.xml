@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 04:40:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 04:40:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lifco AB relata desempenho estável no primeiro trimestre de 2026</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lifco-ab-reports-stable-q1-2026-performance-93CH-4634769</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lifco-ab-reports-stable-q1-2026-performance-93CH-4634769</guid>
+      <pubDate>24/04/2026 04:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Slides Frequentis 2025: receita aumenta 21%, expansão nas Américas acelera</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/otis-worldwide-corporation-q1-2026-164657281.html</guid>
       <pubDate>24/04/2026 01:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/cd3668d52742a24cffc764f361fac1b6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Elevance Health Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/elevance-health-inc-q1-2026-164548658.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/elevance-health-inc-q1-2026-164548658.html</guid>
-      <pubDate>24/04/2026 01:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/edcd3adc28424994878af2e8e0081340" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
