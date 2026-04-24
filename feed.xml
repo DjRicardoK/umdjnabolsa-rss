@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 21:49:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 21:50:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Ameren Corporation: o que você precisa saber</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/ameren-corporations-quarterly-earnings-preview-124524610.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ameren-corporations-quarterly-earnings-preview-124524610.html</guid>
+      <pubDate>23/04/2026 21:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1b635c6ce738bdd52773708a8f97cb3a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Opções de ações baratas sugerem uma grande oscilação pós-lucro na próxima semana para Meta e outros titãs da...</title>
       <description>Wall Street está subestimando uma potencial explosão de preços nos relatórios de lucros de ações de tecnologia da próxima semana.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysischinas-24-billion-pet-food-market-heats-up-as-local-brands-challenge-global-players-4631215</guid>
       <pubDate>23/04/2026 03:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M09J_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Xpeng da China espera começar a entregar carros ‘voadores’ em 2027</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/chinas-xpeng-expects-to-start-delivering-flying-cars-in-2027-4631197</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-xpeng-expects-to-start-delivering-flying-cars-in-2027-4631197</guid>
-      <pubDate>23/04/2026 02:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M08G_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
