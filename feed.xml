@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 22:53:46 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 22:56:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 do Simon Property Group: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/simon-property-groups-q1-2026-135423336.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/simon-property-groups-q1-2026-135423336.html</guid>
+      <pubDate>23/04/2026 22:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0152b61f9cd3c3f0b699d21a3a76619b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do terceiro trimestre de 2026 da MGX Resources...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-renault-q1-2026-revenue-up-stock-rises-156-93CH-4631264</guid>
       <pubDate>23/04/2026 04:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preço-alvo da LyondellBasell (LYB) vê impulso ascendente na RBC Capital</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-price-target-sees-192639802.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-price-target-sees-192639802.html</guid>
-      <pubDate>23/04/2026 04:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5ebd6ae560277bf056c18572f9e01ebc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
