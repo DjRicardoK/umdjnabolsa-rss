@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:16:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:20:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Slides do primeiro trimestre de 2026 da Inderes: receita recorrente acelera em meio a ventos contrários do...</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/inderes-q1-2026-slides-recurring-revenue-accelerates-amid-market-headwinds-93CH-4635501</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/inderes-q1-2026-slides-recurring-revenue-accelerates-amid-market-headwinds-93CH-4635501</guid>
+      <pubDate>24/04/2026 09:20</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/3de016328baecf597b6a624b73eb159d5bcaf73d0fec4b633f717ba893f39395.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do Cathay General Bancorp</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/shimizu-raises-earnings-guidance-above-consensus-boosts-dividend-93CH-4635103</guid>
       <pubDate>24/04/2026 07:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7D094_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ‘A IA realmente me assusta’: Devo deixar meu emprego de US$ 150.000 por uma função de US$ 215.000 em análise...</title>
-      <description>“Basicamente não há mobilidade ascendente, a menos que alguém acima de mim saia.”</description>
-      <link>https://www.marketwatch.com/story/ai-genuinely-freaks-me-out-do-i-leave-my-150-000-job-for-a-215-000-role-in-data-analytics-with-a-50-minute-commute-440b4c36?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/ai-genuinely-freaks-me-out-do-i-leave-my-150-000-job-for-a-215-000-role-in-data-analytics-with-a-50-minute-commute-440b4c36?mod=mw_rss_topstories</guid>
-      <pubDate>24/04/2026 07:19</pubDate>
-      <enclosure url="https://images.mktw.net/im-91034926" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
