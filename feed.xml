@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 08:11:21 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:54:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Citizens reitera classificação de ações de jogos e lazer no primeiro trimestre forte</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-gaming-and-leisure-stock-rating-on-strong-q1-93CH-4635387</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-gaming-and-leisure-stock-rating-on-strong-q1-93CH-4635387</guid>
+      <pubDate>24/04/2026 08:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 8K Woodward Inc para: 24 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/war-drought-aid-shortfall-to-fuel-hunger-in-2026-global-report-says-4634916</guid>
       <pubDate>24/04/2026 06:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0FN_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A confiança do consumidor francês cai acentuadamente em abril, à medida que a guerra afeta a economia</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/french-consumer-confidence-falls-sharply-in-april-4634710</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/french-consumer-confidence-falls-sharply-in-april-4634710</guid>
-      <pubDate>24/04/2026 06:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0AT_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
