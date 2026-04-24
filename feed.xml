@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 05:40:56 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:41:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ING Bank Śląski conclui aquisição do Goldman Sachs TFI</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/ing-bank-slaski-completes-goldman-sachs-tfi-acquisition-93CH-4634849</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/ing-bank-slaski-completes-goldman-sachs-tfi-acquisition-93CH-4634849</guid>
+      <pubDate>24/04/2026 05:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: lucros perdidos da Kemira no primeiro trimestre de 2026, ações...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lifco-ab-reports-stable-q1-2026-performance-93CH-4634769</guid>
       <pubDate>24/04/2026 04:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Slides Frequentis 2025: receita aumenta 21%, expansão nas Américas acelera</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/frequentis-2025-slides-revenue-surges-21-americas-expansion-accelerates-93CH-4634771</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/frequentis-2025-slides-revenue-surges-21-americas-expansion-accelerates-93CH-4634771</guid>
-      <pubDate>24/04/2026 04:40</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/f9d128c4a0a03a6f3e098fa5de6b4633ec3870257bd725e110e07edb759677c2.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
