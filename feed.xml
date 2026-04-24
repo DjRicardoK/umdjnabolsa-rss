@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 14:15:17 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 14:15:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Phillips Edison supera as previsões do primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-phillips-edison-beats-q1-2026-forecasts-with-strong-eps-93CH-4636501</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-phillips-edison-beats-q1-2026-forecasts-with-strong-eps-93CH-4636501</guid>
+      <pubDate>24/04/2026 14:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: First Western Financial supera as estimativas de EPS do...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/deutsche-boerse-ceo-warns-against-247-trading-as-wall-street-gears-up-for-it-4636376</guid>
       <pubDate>24/04/2026 13:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N11R_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas da Polônia caem no fechamento do pregão; WIG30 caiu 0,68%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-068-4636319</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-068-4636319</guid>
-      <pubDate>24/04/2026 12:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
