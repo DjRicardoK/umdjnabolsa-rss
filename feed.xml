@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 05:29:24 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:40:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: lucros perdidos da Kemira no primeiro trimestre de 2026, ações...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-kemira-q1-2026-earnings-miss-stock-slides-7-93CH-4634850</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kemira-q1-2026-earnings-miss-stock-slides-7-93CH-4634850</guid>
+      <pubDate>24/04/2026 05:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Isso é o que significa fita adesiva do chip A15 da Tesla Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/frequentis-2025-slides-revenue-surges-21-americas-expansion-accelerates-93CH-4634771</guid>
       <pubDate>24/04/2026 04:40</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/f9d128c4a0a03a6f3e098fa5de6b4633ec3870257bd725e110e07edb759677c2.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar se recupera com o aumento das tensões no Estreito de Ormuz</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-recovers-rising-tensions-over-193617017.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-recovers-rising-tensions-over-193617017.html</guid>
-      <pubDate>24/04/2026 04:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/28daf3562e3582568bec527cdf7175ed" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
