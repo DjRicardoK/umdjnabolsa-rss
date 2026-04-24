@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:59:16 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:59:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Oppenheimer aumenta a meta de preço das ações da Amazon para US$ 275 com base nas perspectivas da AWS</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/oppenheimer-raises-amazon-stock-price-target-to-275-on-aws-outlook-93CH-4634986</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/oppenheimer-raises-amazon-stock-price-target-to-275-on-aws-outlook-93CH-4634986</guid>
+      <pubDate>24/04/2026 06:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Quarenta anos após o desastre nuclear, a central ucraniana de Chornobyl é assombrada pela guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kemira-q1-2026-earnings-miss-stock-slides-7-93CH-4634850</guid>
       <pubDate>24/04/2026 05:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Isso é o que significa fita adesiva do chip A15 da Tesla Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/tesla-inc-tsla-a15-chip-205628830.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/tesla-inc-tsla-a15-chip-205628830.html</guid>
-      <pubDate>24/04/2026 05:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/29a6aea20a7c867bec3078256880ee1c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
