@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 13:18:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:25:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Ultra Clean Holdings atingem o máximo histórico de 84,23 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/ultra-clean-holdings-stock-hits-alltime-high-at-8423-usd-93CH-4636402</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/ultra-clean-holdings-stock-hits-alltime-high-at-8423-usd-93CH-4636402</guid>
+      <pubDate>24/04/2026 13:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de tecnologia hoje: ações da Intel sobem 25%, Meta corta 10% da força de trabalho, Microsoft oferece...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/nextera-energy-nee-one-best-145309648.html</guid>
       <pubDate>24/04/2026 12:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/57b81ea1e72d313d24fc6a07166bf74e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Jabil Circuit atingem o máximo histórico em 345,08 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/jabil-circuit-stock-hits-alltime-high-at-34508-usd-93CH-4636249</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/jabil-circuit-stock-hits-alltime-high-at-34508-usd-93CH-4636249</guid>
-      <pubDate>24/04/2026 12:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
