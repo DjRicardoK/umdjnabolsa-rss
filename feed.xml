@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 08:58:39 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:10:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Century Communities, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/century-communities-inc-q1-2026-001641548.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/century-communities-inc-q1-2026-001641548.html</guid>
+      <pubDate>24/04/2026 09:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/325f351fff6b5d62f5f933496f6aa13c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do primeiro trimestre de 2024 da Inderes mostram...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/stifel-raises-pool-corp-stock-price-target-to-240-on-earnings-beat-93CH-4634954</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-raises-pool-corp-stock-price-target-to-240-on-earnings-beat-93CH-4634954</guid>
       <pubDate>24/04/2026 06:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla Cybercab entra em produção, ações sobem no pré-mercado</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/tesla-cybercab-enters-production-shares-rise-in-premarket-93CH-4634935</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/tesla-cybercab-enters-production-shares-rise-in-premarket-93CH-4634935</guid>
-      <pubDate>24/04/2026 06:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
