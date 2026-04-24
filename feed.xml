@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 14:59:40 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:06:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Europa corre o risco de ficar atrás dos EUA e da China na construção de data centers de IA, afirma o CEO da...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/europe-risks-falling-behind-us-081729480.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/europe-risks-falling-behind-us-081729480.html</guid>
+      <pubDate>24/04/2026 15:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/6ec260b408a291efbe5a0fbbc46daa07" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Consultor jurídico dos EUA diz que guerra no Irã é justificada pela ‘agressão’ de Teerã ao longo de décadas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-intel-stock-soars-25-meta-to-cut-10-of-workforce-microsoft-offerings-buyouts-144220036.html</guid>
       <pubDate>24/04/2026 13:18</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-08/b9973db0-7414-11f0-bdbb-135ff97353ff" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 do USCB: lucros superaram as previsões sobre depósitos e crescimento de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/uscb-q1-2026-slides-earnings-beat-forecasts-on-deposit-loan-growth-93CH-4636423</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/uscb-q1-2026-slides-earnings-beat-forecasts-on-deposit-loan-growth-93CH-4636423</guid>
-      <pubDate>24/04/2026 13:10</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/8add58d25bb30201a81672902a2fc01c3ac1c3a6865f5dfb7f88d87e67dcca06.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
