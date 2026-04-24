@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 03:44:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 03:44:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A corrida de combustível dos motoristas do Reino Unido quando a guerra no Irã começou impulsiona as vendas no...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/uk-retail-sales-rise-07-in-march-4634616</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/uk-retail-sales-rise-07-in-march-4634616</guid>
+      <pubDate>24/04/2026 03:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N08U_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Google Cloud: novos &apos;TPUs&apos; de IA visam Nvidia, estreia da plataforma Agentic</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-nrg-energys-next-quarterly-160613612.html</guid>
       <pubDate>24/04/2026 00:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/00e2333af91cb149672effa8464bcd60" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE 3 fatores “externos” que impulsionam os preços do ouro e da prata no momento</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/3-outside-factors-driving-gold-155645500.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/3-outside-factors-driving-gold-155645500.html</guid>
-      <pubDate>24/04/2026 00:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/53c50d06d64e6ed17574208698dad79a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
