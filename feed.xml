@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 10:22:08 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 10:24:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Esta alternativa à carteira equilibrada caminha para o seu melhor ano desde 1933</title>
+      <description>A estratégia de dividir uma carteira em quatro pesos iguais de ações, títulos, dinheiro e commodities funcionou perfeitamente</description>
+      <link>https://www.marketwatch.com/story/this-alternative-to-the-balanced-portfolio-is-on-track-for-its-best-year-since-1933-16505a08?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/this-alternative-to-the-balanced-portfolio-is-on-track-for-its-best-year-since-1933-16505a08?mod=mw_rss_topstories</guid>
+      <pubDate>24/04/2026 10:24</pubDate>
+      <enclosure url="https://images.mktw.net/im-10107922" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Aurelion compromete US$ 48 milhões em tokens de ouro para render protocolo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/tesla-says-mass-production-electric-231006034.html</guid>
       <pubDate>24/04/2026 08:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/freightwaves_373/ace4417b41edf20b0fb48d3d563c72f5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Acionistas da Warner Bros aprovam aquisição da gigante de Hollywood pela Paramount por US$ 81 bilhões</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warner-bros-shareholders-vote-paramounts-230850708.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warner-bros-shareholders-vote-paramounts-230850708.html</guid>
-      <pubDate>24/04/2026 08:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ap.org/227b8239d7355e48ac8f24d0013db685" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
