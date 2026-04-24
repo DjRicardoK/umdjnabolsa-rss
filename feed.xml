@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 22:59:58 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 23:06:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Em meio à mudança de Tim Cook, aqui está o que os dados de opções do gráfico de barras mostram para as ações...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/amidst-tim-cook-shake-barchart-140201391.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/amidst-tim-cook-shake-barchart-140201391.html</guid>
+      <pubDate>23/04/2026 23:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0ebcb181fa5c1dc0fd30a445fb867adb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de lucros da Exelon Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-eneas-q1-2026-revenue-beats-forecast-stock-surges-93CH-4631274</guid>
       <pubDate>23/04/2026 04:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas do Japão caem no fechamento do pregão; Nikkei 225 caiu 0,74%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-074-4631263</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-074-4631263</guid>
-      <pubDate>23/04/2026 04:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0H0BD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
