@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 01:42:04 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:42:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Elevance Health Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/elevance-health-inc-q1-2026-164548658.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/elevance-health-inc-q1-2026-164548658.html</guid>
+      <pubDate>24/04/2026 01:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/edcd3adc28424994878af2e8e0081340" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Westinghouse Air Brake Technologies...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-april-30-could-clearing-150002792.html</guid>
       <pubDate>23/04/2026 23:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/0ebcb181fa5c1dc0fd30a445fb867adb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Fox Corporation: o que você precisa saber</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/fox-corporations-quarterly-earnings-preview-144206863.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fox-corporations-quarterly-earnings-preview-144206863.html</guid>
-      <pubDate>23/04/2026 23:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/898b52e1c9263895182af5cef30e23d5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
