@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 04:40:35 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 04:42:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ambev S.A. (ABEV) rebaixada pelo UBS por questões de risco/recompensa</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/ambev-abev-downgraded-ubs-risk-194506274.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ambev-abev-downgraded-ubs-risk-194506274.html</guid>
+      <pubDate>24/04/2026 04:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2fb6db5d49a9f2bc8f17bb73347ff3f7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lifco AB relata desempenho estável no primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-ai-darling-deepseek-previews-new-model-4634553</guid>
       <pubDate>24/04/2026 02:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N03S_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Otis Worldwide Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/otis-worldwide-corporation-q1-2026-164657281.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/otis-worldwide-corporation-q1-2026-164657281.html</guid>
-      <pubDate>24/04/2026 01:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/cd3668d52742a24cffc764f361fac1b6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
