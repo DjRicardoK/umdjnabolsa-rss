@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 07:54:16 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:01:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O órgão de fiscalização dos mercados europeus alerta que as ameaças cibernéticas estão a crescer à medida que...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/europes-markets-watchdog-warns-cyber-threats-are-growing-as-ai-speeds-up-risks-4635206</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/europes-markets-watchdog-warns-cyber-threats-are-growing-as-ai-speeds-up-risks-4635206</guid>
+      <pubDate>24/04/2026 08:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0M6_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nunca houve um rali de semicondutores como este – e isso está gerando uma série de alertas</title>
       <description>Movimentos parabólicos no mercado ‘só terminam em uma direção’, diz Krinsky da BTIG</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/german-business-sentiment-falls-in-april-to-lowest-level-since-2020-4634816</guid>
       <pubDate>24/04/2026 05:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0DL_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas mundiais e petróleo em risco com impasse entre EUA e Irã pesando</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-shares-mixed-oil-advances-on-usiran-deadlock-4634531</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-shares-mixed-oil-advances-on-usiran-deadlock-4634531</guid>
-      <pubDate>24/04/2026 05:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N02Z_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
