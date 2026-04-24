@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 23:46:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 23:54:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Applied Materials acaba de ingressar no projeto Tesla Terafab. Isso torna as ações da AMAT uma compra?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/applied-materials-just-joined-tesla-150246099.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/applied-materials-just-joined-tesla-150246099.html</guid>
+      <pubDate>23/04/2026 23:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5ef243ea7a704d796474adbe69abdc47" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que 30 de abril pode ser um ‘evento de compensação’ para a Apple que eleva as ações da AAPL para US$ 300</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-kenvues-next-earnings-125214293.html</guid>
       <pubDate>23/04/2026 21:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/378e6cbace0012d5d229fc23c2ce4ff6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE ‘Posso comer um pouco, por favor?’: Trump brinca enquanto assina o pedido de psicodélicos após a pressão de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/please-trump-jokes-signs-psychedelics-124900986.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/please-trump-jokes-signs-psychedelics-124900986.html</guid>
-      <pubDate>23/04/2026 21:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/c12de003f64b5c377510fc98577b3391" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
