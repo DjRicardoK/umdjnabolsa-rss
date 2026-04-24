@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 05:55:40 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:55:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Signify caem após os lucros do primeiro trimestre serem atingidos pela fraca demanda e custos</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/signify-shares-fall-after-q1-earnings-hit-by-weak-demand-costs-4634895</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/signify-shares-fall-after-q1-earnings-hit-by-weak-demand-costs-4634895</guid>
+      <pubDate>24/04/2026 05:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O sentimento empresarial alemão atinge o menor nível desde 2020, com o peso da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/white-house-accuses-china-of-industrial-scale-theft-of-ai-technology-ft-reports-4633186</guid>
       <pubDate>24/04/2026 04:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M11N_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que a Hut 8 Corp. (HUT) é uma das melhores ações de Bitcoin para comprar agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-hut-8-corp-hut-195620907.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-hut-8-corp-hut-195620907.html</guid>
-      <pubDate>24/04/2026 04:50</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/067fc8124bd327a90f5a216f442bdf3d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
