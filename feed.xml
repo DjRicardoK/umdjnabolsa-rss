@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 12:38:31 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 12:38:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: PGE SA reporta EBITDA recorde no quarto trimestre de 2025</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-pge-sa-reports-record-ebitda-in-q4-2025-93CH-4636323</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pge-sa-reports-record-ebitda-in-q4-2025-93CH-4636323</guid>
+      <pubDate>24/04/2026 12:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: OceanFirst Q1 2026 supera as previsões de EPS, pequena perda de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/jpmorgan-issues-blunt-warning-investors-193000280.html</guid>
       <pubDate>24/04/2026 11:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/a5e5fcb703ba649136b75610dbde784a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Factbox-Airlines cancelam voos em meio ao conflito no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-amid-middle-east-conflict-4636119</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-amid-middle-east-conflict-4636119</guid>
-      <pubDate>24/04/2026 11:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3K0RG_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
