@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 00:51:46 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:04:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O procurador-geral da Califórnia diz que a Amazon usou ‘intimidação’ para fazer com que concorrentes como...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/california-attorney-general-says-amazon-161500155.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/california-attorney-general-says-amazon-161500155.html</guid>
+      <pubDate>24/04/2026 01:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/bfbc31e4fa82bf2dd3bcaad459f3d40b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do próximo relatório de ganhos trimestrais da NRG Energy</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/amidst-tim-cook-shake-barchart-140201391.html</guid>
       <pubDate>23/04/2026 23:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/0ebcb181fa5c1dc0fd30a445fb867adb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de lucros da Exelon Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-exelon-corporations-next-135800615.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-exelon-corporations-next-135800615.html</guid>
-      <pubDate>23/04/2026 22:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/eaeb8fc5bde0735a2b9d579196e56cba" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
