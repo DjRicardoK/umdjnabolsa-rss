@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 04:59:45 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:04:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nomura registra lucro anual recorde e não vê impacto prolongado da guerra no Irã até agora</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nomura-posts-record-annual-profit-sees-no-prolonged-impact-from-iran-war-so-far-4634796</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nomura-posts-record-annual-profit-sees-no-prolonged-impact-from-iran-war-so-far-4634796</guid>
+      <pubDate>24/04/2026 05:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0AJ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Axe Compute dispara com acordo de US$ 260 milhões com a Nvidia. É tarde demais para comprar ações da AGPU?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/atoss-software-raises-2026-ebit-margin-guidance-after-strong-q1-93CH-4634640</guid>
       <pubDate>24/04/2026 03:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações IBD 50 a serem observadas: testes de fornecedores de data center compram ponto à frente dos ganhos</title>
-      <description></description>
-      <link>https://www.investors.com/research/amphenol-aph-stock-ibd-50-stocks-to-watch/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/amphenol-aph-stock-ibd-50-stocks-to-watch/?src=A00220&yptr=yahoo</guid>
-      <pubDate>24/04/2026 03:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/44fbb53ff468be180c77765e134b4e6c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
