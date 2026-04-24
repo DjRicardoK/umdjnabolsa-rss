@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 05:41:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:55:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas mundiais e petróleo em risco com impasse entre EUA e Irã pesando</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-shares-mixed-oil-advances-on-usiran-deadlock-4634531</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-shares-mixed-oil-advances-on-usiran-deadlock-4634531</guid>
+      <pubDate>24/04/2026 05:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N02Z_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O quarto trimestre de 2025 do Grupo Kofola sinaliza recuperação...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/car-parts-group-forvias-sales-dragged-by-weakness-in-china-4634779</guid>
       <pubDate>24/04/2026 04:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N05Y_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Castellum Q1 2026 vê reação moderada do mercado</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-castellum-q1-2026-sees-moderate-market-reaction-93CH-4634781</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-castellum-q1-2026-sees-moderate-market-reaction-93CH-4634781</guid>
-      <pubDate>24/04/2026 04:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
