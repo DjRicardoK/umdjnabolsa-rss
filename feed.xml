@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 03:18:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 03:24:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações IBD 50 a serem observadas: testes de fornecedores de data center compram ponto à frente dos ganhos</title>
+      <description></description>
+      <link>https://www.investors.com/research/amphenol-aph-stock-ibd-50-stocks-to-watch/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/amphenol-aph-stock-ibd-50-stocks-to-watch/?src=A00220&yptr=yahoo</guid>
+      <pubDate>24/04/2026 03:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/44fbb53ff468be180c77765e134b4e6c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Pegando a faca que cai: essas quatro ações perdedoras caíram 50% ou mais, valem o risco?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/fitch-says-no-immediate-downgrade-if-indonesias-deficit-tops-3-due-to-iran-war-impact-4634539</guid>
       <pubDate>24/04/2026 00:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N03W_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bolsas da Ásia caem com peso de perdas tecnológicas e aumento do petróleo; IPC do Japão em foco</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-tech-losses-oil-surge-weigh-japan-cpi-in-focus-4634540</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-tech-losses-oil-surge-weigh-japan-cpi-in-focus-4634540</guid>
-      <pubDate>24/04/2026 00:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB810CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
