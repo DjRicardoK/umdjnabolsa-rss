@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 11:56:53 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:57:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Truist reitera classificação das ações da Ascentage Pharma sobre o progresso do pipeline</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-ascentage-pharma-stock-rating-on-pipeline-progress-93CH-4636210</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-ascentage-pharma-stock-rating-on-pipeline-progress-93CH-4636210</guid>
+      <pubDate>24/04/2026 11:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Noruega caem no fechamento do pregão; Oslo OBX caiu 0,71%</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-norfolk-southern-q1-2026-results-show-mixed-growth-93CH-4635954</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-norfolk-southern-q1-2026-results-show-mixed-growth-93CH-4635954</guid>
       <pubDate>24/04/2026 10:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: desempenho histórico da ASTA Energy Solutions em 2025</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-asta-energy-solutions-historic-2025-performance-93CH-4635895</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-asta-energy-solutions-historic-2025-performance-93CH-4635895</guid>
-      <pubDate>24/04/2026 10:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
