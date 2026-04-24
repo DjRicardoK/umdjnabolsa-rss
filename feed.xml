@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 11:11:30 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 11:20:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Cisco Systems (CSCO): Será que pode atingir o marco de um trilhão de dólares?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-hit-trillion-140845446.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-hit-trillion-140845446.html</guid>
+      <pubDate>24/04/2026 11:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7b0410266b850714650425852167c9ae" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow cai, Nasdaq sobe à medida que a Intel dispara nos lucros (cobertura ao vivo)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/csx-corporation-q1-2026-earnings-001702036.html</guid>
       <pubDate>24/04/2026 09:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/b3e76a28a72c8263c52d6c1adb5ef21d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Intel ampliam sua corrida espetacular – e podem ver seu melhor ganho diário já registrado</title>
-      <description>Há um debate em Wall Street sobre se as perspectivas financeiras da Intel mudaram materialmente.</description>
-      <link>https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories</guid>
-      <pubDate>24/04/2026 09:12</pubDate>
-      <enclosure url="https://images.mktw.net/im-70803730" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
