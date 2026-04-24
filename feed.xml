@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 06:15:29 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:16:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Como os temores do SaaSpocalypse realmente aumentaram os lucros da SAP em mais de US$ 150 milhões</title>
+      <description>Para uma gigante do software, o receio de que a inteligência artificial torne os seus produtos obsoletos tem um lado positivo.</description>
+      <link>https://www.marketwatch.com/story/how-saaspocalypse-fears-actually-bolstered-sap-profits-by-over-150-million-7c2986a2?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/how-saaspocalypse-fears-actually-bolstered-sap-profits-by-over-150-million-7c2986a2?mod=mw_rss_topstories</guid>
+      <pubDate>24/04/2026 06:16</pubDate>
+      <enclosure url="https://images.mktw.net/im-36793039" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Guerra, seca e escassez de ajuda alimentarão a fome em 2026, diz relatório global</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/te-connectivity-ltd-q2-2026-204519165.html</guid>
       <pubDate>24/04/2026 05:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/d293bc6f8d03473341207e3a17fef00e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2025 da China Automotive Systems, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/china-automotive-systems-inc-q4-204514969.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/china-automotive-systems-inc-q4-204514969.html</guid>
-      <pubDate>24/04/2026 05:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/1bf415c8da4ffd0ae8d2dbca971bc015" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
