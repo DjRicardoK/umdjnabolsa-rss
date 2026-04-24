@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 01:42:11 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:52:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Otis Worldwide Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/otis-worldwide-corporation-q1-2026-164657281.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/otis-worldwide-corporation-q1-2026-164657281.html</guid>
+      <pubDate>24/04/2026 01:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/cd3668d52742a24cffc764f361fac1b6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Elevance Health Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/applied-materials-just-joined-tesla-150246099.html</guid>
       <pubDate>23/04/2026 23:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5ef243ea7a704d796474adbe69abdc47" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que 30 de abril pode ser um ‘evento de compensação’ para a Apple que eleva as ações da AAPL para US$ 300</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-april-30-could-clearing-150002792.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-april-30-could-clearing-150002792.html</guid>
-      <pubDate>23/04/2026 23:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0ebcb181fa5c1dc0fd30a445fb867adb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
