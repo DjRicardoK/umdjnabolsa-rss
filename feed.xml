@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 13:02:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:10:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas do Reino Unido caem no fechamento do pregão; Investing.com Reino Unido 100 caiu 0,74%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-074-4636425</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-074-4636425</guid>
+      <pubDate>24/04/2026 13:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5I0BU_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Arcbest Corp atingem alta de 52 semanas a 122,52 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-ascentage-pharma-stock-rating-on-pipeline-progress-93CH-4636210</guid>
       <pubDate>24/04/2026 11:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Noruega caem no fechamento do pregão; Oslo OBX caiu 0,71%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-071-4636212</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-071-4636212</guid>
-      <pubDate>24/04/2026 11:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
