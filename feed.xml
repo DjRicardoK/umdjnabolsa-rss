@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 15:24:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:25:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Força Espacial concede US$ 3,2 bilhões em contratos para Golden Dome</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/space-force-awards-32-billion-in-contracts-for-golden-dome-93CH-4636609</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/space-force-awards-32-billion-in-contracts-for-golden-dome-93CH-4636609</guid>
+      <pubDate>24/04/2026 15:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Força Espacial dos EUA contrata 12 empresas para contratos de defesa antimísseis Golden Dome de US$ 3,2...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/why-the-party-for-intel-and-other-chip-stocks-could-last-a-long-time-dae55c89?mod=mw_rss_topstories</guid>
       <pubDate>24/04/2026 13:54</pubDate>
       <enclosure url="https://images.mktw.net/im-77977471" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Veja por que a Infosys (INFY) está entre as melhores ações indianas para comprar, de acordo com os fundos de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-infosys-infy-among-best-163948577.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-infosys-infy-among-best-163948577.html</guid>
-      <pubDate>24/04/2026 13:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b94a9a23f139023583c70ed6d6e27453" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
