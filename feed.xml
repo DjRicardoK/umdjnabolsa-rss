@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 23:11:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 23:11:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Qoria relata forte crescimento de ARR em meio ao declínio das...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-qoria-reports-strong-arr-growth-amid-stock-decline-in-q3-2025-93CH-4634526</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-qoria-reports-strong-arr-growth-amid-stock-decline-in-q3-2025-93CH-4634526</guid>
+      <pubDate>23/04/2026 23:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações sobem enquanto EUA estendem cessar-fogo ao Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/know-ahead-coinbase-globals-earnings-124421630.html</guid>
       <pubDate>23/04/2026 21:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/92993647cf93262f3b2cbb3810df9c17" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE LSB Industries (LXU) rebaixada para desempenho do setor em meio ao conflito com o Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/lsb-industries-lxu-downgraded-sector-192647394.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lsb-industries-lxu-downgraded-sector-192647394.html</guid>
-      <pubDate>23/04/2026 04:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ad5fbd6cc7298be3466fbdba95fe35d7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
