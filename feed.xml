@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 22:20:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 22:21:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O senador dos EUA Steve Daines liderará visita à China antes da cúpula de maio, informa o SCMP</title>
+      <description></description>
+      <link>https://www.investing.com/news/politics-news/us-senator-steve-daines-to-lead-visit-to-china-before-may-summit-scmp-reports-4634514</link>
+      <guid isPermaLink="false">https://www.investing.com/news/politics-news/us-senator-steve-daines-to-lead-visit-to-china-before-may-summit-scmp-reports-4634514</guid>
+      <pubDate>23/04/2026 22:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N01B_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar definido para ganho semanal devido à paralisação das negociações entre EUA e Irã e incerteza no Oriente...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nestle-beats-firstquarter-sales-estimates-4631178</guid>
       <pubDate>23/04/2026 03:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M06R_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ‘Choque no mercado do Tesouro’: por que este ex-secretário do Tesouro alerta que uma grande crise pode estar...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/treasury-market-shock-why-former-184934943.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/treasury-market-shock-why-former-184934943.html</guid>
-      <pubDate>23/04/2026 03:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6572c8ec764e692feb34471602509410" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
