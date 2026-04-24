@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 23 Apr 2026 22:48:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 22:53:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do terceiro trimestre de 2026 da MGX Resources...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-mgx-resources-q3-2026-results-show-strategic-shifts-93CH-4634522</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mgx-resources-q3-2026-results-show-strategic-shifts-93CH-4634522</guid>
+      <pubDate>23/04/2026 22:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE À medida que os americanos recorrem a empregos de colarinho azul em busca de estabilidade, aqui estão quais...</title>
       <description>As questões de acessibilidade universitária e os despedimentos tecnológicos aumentaram o interesse nas profissões especializadas, mas “o trabalho de colarinho azul não está...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-price-target-sees-192639802.html</guid>
       <pubDate>23/04/2026 04:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5ebd6ae560277bf056c18572f9e01ebc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE FTSE 100 hoje: as ações abrem em baixa enquanto as tensões no Oriente Médio mantêm a pressão sobre os mercados</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-open-lower-as-middle-east-tensions-keep-pressure-on-markets-4631266</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-open-lower-as-middle-east-tensions-keep-pressure-on-markets-4631266</guid>
-      <pubDate>23/04/2026 04:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC4J0DY_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
