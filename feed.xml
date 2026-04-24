@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 13:02:41 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:02:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Rexford Industrial Realty Q1 2026 supera previsão de EPS</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-rexford-industrial-realty-q1-2026-beats-eps-forecast-93CH-4636363</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rexford-industrial-realty-q1-2026-beats-eps-forecast-93CH-4636363</guid>
+      <pubDate>24/04/2026 13:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Visualização instantânea: Fim da investigação de Powell alivia incerteza sobre o plano de sucessão do Fed</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/hartford-q1-2026-slides-strong-roe-growth-masks-earnings-miss-93CH-4636186</guid>
       <pubDate>24/04/2026 11:56</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/e4aec5d87cfbcc4502194d48b5cd0776a180ff2e4b369b5fed676718b81aa17c.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Primis Financial supera as expectativas do primeiro trimestre...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-primis-financial-beats-q1-2026-expectations-93CH-4636187</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-primis-financial-beats-q1-2026-expectations-93CH-4636187</guid>
-      <pubDate>24/04/2026 11:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
