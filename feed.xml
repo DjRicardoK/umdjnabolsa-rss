@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 17:37:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 17:38:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O último avanço do setor de energia desses estoques de chips</title>
+      <description></description>
+      <link>https://www.investors.com/news/chip-stocks-power-chips-texas-instruments/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/chip-stocks-power-chips-texas-instruments/?src=A00220&yptr=yahoo</guid>
+      <pubDate>24/04/2026 17:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/851e534ec4b81298c32d0b5b606c79f1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da AMD estão em alta – e acabaram de atingir um marco importante</title>
       <description>A AMD juntou-se ao grupo de empresas de US$ 500 bilhões, com suas ações disparando após o relatório de lucros da Intel.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-outperform-on-amazon-stock-ahead-of-q1-93CH-4636616</guid>
       <pubDate>24/04/2026 15:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Força Espacial concede US$ 3,2 bilhões em contratos para Golden Dome</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/space-force-awards-32-billion-in-contracts-for-golden-dome-93CH-4636609</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/space-force-awards-32-billion-in-contracts-for-golden-dome-93CH-4636609</guid>
-      <pubDate>24/04/2026 15:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
