@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 00:27:13 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 00:33:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos do segundo trimestre da Apple: as ações da AAPL são compradas, vendidas ou mantidas?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/apple-q2-earnings-preview-aapl-154221571.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-q2-earnings-preview-aapl-154221571.html</guid>
+      <pubDate>24/04/2026 00:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4ca6b40d38b1c86c226d23312ce78d65" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fitch diz que não haverá rebaixamento imediato se o déficit da Indonésia ultrapassar 3% devido ao impacto da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mgx-resources-q3-2026-results-show-strategic-shifts-93CH-4634522</guid>
       <pubDate>23/04/2026 22:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE À medida que os americanos recorrem a empregos de colarinho azul em busca de estabilidade, aqui estão quais...</title>
-      <description>As questões de acessibilidade universitária e os despedimentos tecnológicos aumentaram o interesse nas profissões especializadas, mas “o trabalho de colarinho azul não está...</description>
-      <link>https://www.marketwatch.com/story/as-americans-turn-to-blue-collar-jobs-for-stability-heres-which-ones-offer-the-most-security-and-which-offer-the-least-b24c8b2d?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/as-americans-turn-to-blue-collar-jobs-for-stability-heres-which-ones-offer-the-most-security-and-which-offer-the-least-b24c8b2d?mod=mw_rss_topstories</guid>
-      <pubDate>23/04/2026 22:48</pubDate>
-      <enclosure url="https://images.mktw.net/im-23272469" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
