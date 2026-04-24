@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:10:17 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:10:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do terceiro trimestre de 2026 da Lam Research Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-q3-2026-001716343.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lam-research-corporation-q3-2026-001716343.html</guid>
+      <pubDate>24/04/2026 09:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/d8f21a6a312400a5d61cd8364e8494be" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Knight-Swift Transportation Holdings...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/stifel-raises-gentherm-stock-price-target-on-strong-earnings-beat-93CH-4634971</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-raises-gentherm-stock-price-target-on-strong-earnings-beat-93CH-4634971</guid>
       <pubDate>24/04/2026 06:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Stifel aumenta a meta de preço das ações da Liberty Energy devido à demanda da Guerra do Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/stifel-raises-liberty-energy-stock-price-target-on-iran-war-demand-93CH-4634952</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-raises-liberty-energy-stock-price-target-on-iran-war-demand-93CH-4634952</guid>
-      <pubDate>24/04/2026 06:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
