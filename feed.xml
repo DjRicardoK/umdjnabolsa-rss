@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 15:31:12 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:48:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BofA sinaliza cautela dos investidores sobre o Goldman Sachs Group, Inc. (GS), apesar do sólido desempenho...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bofa-flags-investor-caution-goldman-084117855.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bofa-flags-investor-caution-goldman-084117855.html</guid>
+      <pubDate>24/04/2026 15:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/49b505a51ba0218597ee8894f7e57449" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melius reitera classificação de compra de ações do SLB citando força internacional</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/google-stock-artificial-intelligence-ai-models-gemini/?src=A00220&yptr=yahoo</guid>
       <pubDate>24/04/2026 14:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/630931321c3d8d4f14fb898b03f4b703" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Sensient Technologies Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/sensient-technologies-corporation-q1-2026-165114360.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sensient-technologies-corporation-q1-2026-165114360.html</guid>
-      <pubDate>24/04/2026 14:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/cf799e299a63b1e9152ca5fc43ca0f0d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
