@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 19:00:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 19:08:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE 1 ação que lucrará com a “corrida do ouro moderna” nos data centers</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/1-stock-profit-modern-day-145002636.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/1-stock-profit-modern-day-145002636.html</guid>
+      <pubDate>24/04/2026 19:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/316e532ff2838ae5ce5390a4610377e6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Alt5 Sigma nomeia Tony Isaac como CEO e concede prêmio de capital</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-slip-open-u-iran-103331501.html</guid>
       <pubDate>24/04/2026 17:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/504dba31bff02fcd8f8d5c2ba86af089" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Netflix aumenta plano de recompra de ações em US$ 25 bilhões após oferta fracassada da Warner Bros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/netflix-announces-25-billion-share-101845782.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netflix-announces-25-billion-share-101845782.html</guid>
-      <pubDate>24/04/2026 17:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/2855e9a84bdce6893c76aa22425be173" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
