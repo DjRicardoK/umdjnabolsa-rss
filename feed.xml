@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 18:20:24 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 18:37:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Michael Burry analisou mais de 1.000 relatórios e descobriu uma ‘ilusão de ganhos’ de US$ 1,7 trilhão...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/michael-burry-analyzed-1-000-141500664.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/michael-burry-analyzed-1-000-141500664.html</guid>
+      <pubDate>24/04/2026 18:37</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/ed8258072ed845674b12d304bb397e5d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que EquipmentShare.com (EQPT) é uma das melhores ações de alta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/nvidias-stock-heads-for-first-record-close-in-6-months-thanks-to-intel-21af7d28?mod=mw_rss_topstories</guid>
       <pubDate>24/04/2026 16:07</pubDate>
       <enclosure url="https://images.mktw.net/im-17401539" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do próximo relatório de lucros trimestrais da Estée Lauder</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-est-e-lauders-next-090439031.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-est-e-lauders-next-090439031.html</guid>
-      <pubDate>24/04/2026 15:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/31c53bccadf1d884e344c28e24c52f09" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
