@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 15:31:06 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:31:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Melius reitera classificação de compra de ações do SLB citando força internacional</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/melius-reiterates-slb-stock-buy-rating-citing-international-strength-93CH-4636615</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/melius-reiterates-slb-stock-buy-rating-citing-international-strength-93CH-4636615</guid>
+      <pubDate>24/04/2026 15:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Evercore ISI reitera desempenho superior em ações da Amazon antes do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sensient-technologies-corporation-q1-2026-165114360.html</guid>
       <pubDate>24/04/2026 14:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/cf799e299a63b1e9152ca5fc43ca0f0d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da The Western Union Company</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/western-union-company-q1-2026-165154928.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/western-union-company-q1-2026-165154928.html</guid>
-      <pubDate>24/04/2026 14:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/15aeb2f8efd0e3ad8e7da782fb9a9eee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
