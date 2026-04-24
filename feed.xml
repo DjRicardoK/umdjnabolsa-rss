@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 04:42:49 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 04:47:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Castellum Q1 2026 vê reação moderada do mercado</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-castellum-q1-2026-sees-moderate-market-reaction-93CH-4634781</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-castellum-q1-2026-sees-moderate-market-reaction-93CH-4634781</guid>
+      <pubDate>24/04/2026 04:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ambev S.A. (ABEV) rebaixada pelo UBS por questões de risco/recompensa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-soft-dollar-heads-for-strong-week-as-usiran-jitters-persist-4634552</guid>
       <pubDate>24/04/2026 02:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED9H01L_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE DeepSeek, queridinho da IA ​​da China, apresenta novo modelo</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/chinas-ai-darling-deepseek-previews-new-model-4634553</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-ai-darling-deepseek-previews-new-model-4634553</guid>
-      <pubDate>24/04/2026 02:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N03S_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
