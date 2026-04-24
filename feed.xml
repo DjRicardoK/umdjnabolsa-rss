@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 24 Apr 2026 18:49:13 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 18:49:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Intel divulga ganhos ainda hoje, mas graças ao projeto Terafab de Elon Musk, seus resultados podem nem...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/intel-reports-earnings-later-today-142534281.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-reports-earnings-later-today-142534281.html</guid>
+      <pubDate>24/04/2026 18:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/04c8dee0ba679bcf3008dc087e227f7d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE EUA acrescentando pelotões de fuzilamento, eletrocussão e gaseamento aos métodos federais de execução</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/sensient-technologies-stock-hits-alltime-high-of-12158-usd-93CH-4636695</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/sensient-technologies-stock-hits-alltime-high-of-12158-usd-93CH-4636695</guid>
       <pubDate>24/04/2026 16:36</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Adapthealth Corp atingem alta de 52 semanas a 12,87 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/adapthealth-corp-stock-hits-52week-high-at-1287-usd-93CH-4636696</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/adapthealth-corp-stock-hits-52week-high-at-1287-usd-93CH-4636696</guid>
-      <pubDate>24/04/2026 16:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
