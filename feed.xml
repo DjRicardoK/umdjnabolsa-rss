@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 18:27:33 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 19:20:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Futuros de ações dos EUA caem, petróleo sobe antes de uma semana movimentada para Wall Street</title>
+      <description>Os futuros do índice de ações dos EUA caíram no domingo, com a alta dos preços do petróleo, antes de uma semana importante para Wall Street, após máximas recordes do S&amp;P 500 e do...</description>
+      <link>https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories</guid>
+      <pubDate>26/04/2026 19:20</pubDate>
+      <enclosure url="https://images.mktw.net/im-59469210" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Rússia caem no fechamento do pregão; Índice MOEX Rússia inalterado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-reports-earnings-later-today-142534281.html</guid>
       <pubDate>24/04/2026 18:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/04c8dee0ba679bcf3008dc087e227f7d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE EUA acrescentando pelotões de fuzilamento, eletrocussão e gaseamento aos métodos federais de execução</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/justice-department-readopts-firing-squads-in-us-federal-executions-4636297</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/justice-department-readopts-firing-squads-in-us-federal-executions-4636297</guid>
-      <pubDate>24/04/2026 18:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N10H_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
