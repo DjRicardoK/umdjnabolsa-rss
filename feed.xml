@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 17:37:20 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 17:37:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ezdan Holding Group relata forte crescimento no primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ezdan-holding-group-reports-strong-q1-2026-growth-93CH-4637496</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ezdan-holding-group-reports-strong-q1-2026-growth-93CH-4637496</guid>
+      <pubDate>26/04/2026 17:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ataques israelenses matam 14 no Líbano enquanto Israel alerta os residentes para deixarem as cidades além da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-equipmentshare-com-eqpt-one-135717883.html</guid>
       <pubDate>24/04/2026 18:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f944dd11862327f7273a45143ca48a32" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Kratos Defense &amp; Security Solutions (KTOS) é uma das melhores ações de alta para comprar, de acordo com...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/kratos-defense-security-solutions-ktos-135723085.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kratos-defense-security-solutions-ktos-135723085.html</guid>
-      <pubDate>24/04/2026 18:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0d4bbb411085d0bc83225ab4d73b06e2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
