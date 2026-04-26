@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 20:23:59 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 20:24:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Como a China expandiu o seu conjunto de ferramentas económicas durante a trégua comercial com os EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/how-china-has-expanded-its-economic-toolkit-during-its-trade-truce-with-the-us-4637503</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/how-china-has-expanded-its-economic-toolkit-during-its-trade-truce-with-the-us-4637503</guid>
+      <pubDate>26/04/2026 20:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3P0GH_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A alta recorde do Japão está ameaçada enquanto a guerra no Oriente Médio obscurece a temporada de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-getting-chief-hardware-officer-150002268.html</guid>
       <pubDate>24/04/2026 19:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/13eeb713efd52d28173dcbb6d9c7c567" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE 1 ação que lucrará com a “corrida do ouro moderna” nos data centers</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/1-stock-profit-modern-day-145002636.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/1-stock-profit-modern-day-145002636.html</guid>
-      <pubDate>24/04/2026 19:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/316e532ff2838ae5ce5390a4610377e6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
