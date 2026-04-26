@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 17:38:11 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 17:47:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE McDonald’s Corporation (MCD): uma das melhores ações de baixo risco e alto crescimento para comprar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/mcdonald-corporation-mcd-one-best-202824002.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mcdonald-corporation-mcd-one-best-202824002.html</guid>
+      <pubDate>26/04/2026 17:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/293792cc913c4edd6da800ee80d5256e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Toyota Motor Corporation (TM): uma das melhores ações de baixo risco e alto crescimento para investir</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/fcx-stock-dives-freeport-mcmoran-cuts-copper-output/?src=A00220&yptr=yahoo</guid>
       <pubDate>24/04/2026 18:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/d6627705d7f7121a1ccfd92ce0136ebd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Com o Hardware Center Stage na Apple, aqui estão cinco áreas principais a serem observadas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/hardware-center-stage-apple-5-141502986.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/hardware-center-stage-apple-5-141502986.html</guid>
-      <pubDate>24/04/2026 18:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c73a52b7903649f6e8fae3cb550b52f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
