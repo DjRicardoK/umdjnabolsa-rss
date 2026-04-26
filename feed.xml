@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 19:56:50 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 20:12:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Análise-Ao abrigo da trégua comercial com Trump, China expande kit de ferramentas de pressão económica</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/analysis-under-cover-trade-truce-230416731.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/analysis-under-cover-trade-truce-230416731.html</guid>
+      <pubDate>26/04/2026 20:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/57789daf71b5dcd424ead85cabc9196e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE RBC Capital reduz PT no Chipotle Mexican Grill (CMG) antes dos lucros do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/alt5-sigma-appoints-tony-isaac-as-ceo-and-grants-equity-award-93CH-4637145</guid>
       <pubDate>24/04/2026 19:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tensões no Médio Oriente apoiam o dólar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/middle-east-tensions-support-dollar-143353411.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/middle-east-tensions-support-dollar-143353411.html</guid>
-      <pubDate>24/04/2026 18:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/84ae0eb9df2ee375c1348da6ad2c252a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
