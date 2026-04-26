@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 17:47:36 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 18:02:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Super Bowl de Wall Street na quarta-feira: relatório da Alphabet, Amazon, Microsoft e Meta junto com a última...</title>
+      <description>É uma quarta-feira histórica para Wall Street, com relatórios da Alphabet, Amazon, Microsoft e Meta ao lado da última conferência de imprensa de Jerome Powell</description>
+      <link>https://www.marketwatch.com/story/wall-streets-super-bowl-wednesday-alphabet-amazon-microsoft-and-meta-report-along-with-powells-last-fed-meeting-88eb1710?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/wall-streets-super-bowl-wednesday-alphabet-amazon-microsoft-and-meta-report-along-with-powells-last-fed-meeting-88eb1710?mod=mw_rss_topstories</guid>
+      <pubDate>26/04/2026 18:02</pubDate>
+      <enclosure url="https://images.mktw.net/im-17344052" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE McDonald’s Corporation (MCD): uma das melhores ações de baixo risco e alto crescimento para comprar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-alliant-energys-q1-2026-142242566.html</guid>
       <pubDate>24/04/2026 18:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/a5e579435e5c1cb5e1043a755498f6ef" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da FCX despencam com corte na produção de cobre. Essas ações estão subindo.</title>
-      <description></description>
-      <link>https://www.investors.com/news/fcx-stock-dives-freeport-mcmoran-cuts-copper-output/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/fcx-stock-dives-freeport-mcmoran-cuts-copper-output/?src=A00220&yptr=yahoo</guid>
-      <pubDate>24/04/2026 18:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/d6627705d7f7121a1ccfd92ce0136ebd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
