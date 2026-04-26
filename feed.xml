@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 18:02:29 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 18:27:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Rússia caem no fechamento do pregão; Índice MOEX Rússia inalterado</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4637498</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4637498</guid>
+      <pubDate>26/04/2026 18:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB5E0DZ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Super Bowl de Wall Street na quarta-feira: relatório da Alphabet, Amazon, Microsoft e Meta junto com a última...</title>
       <description>É uma quarta-feira histórica para Wall Street, com relatórios da Alphabet, Amazon, Microsoft e Meta ao lado da última conferência de imprensa de Jerome Powell</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/justice-department-readopts-firing-squads-in-us-federal-executions-4636297</guid>
       <pubDate>24/04/2026 18:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N10H_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2026 da Alliant Energy</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-alliant-energys-q1-2026-142242566.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-alliant-energys-q1-2026-142242566.html</guid>
-      <pubDate>24/04/2026 18:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a5e579435e5c1cb5e1043a755498f6ef" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
