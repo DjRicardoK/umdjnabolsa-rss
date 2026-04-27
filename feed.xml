@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 07:28:16 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:39:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Petróleo pode terminar o ano a US$ 100 se os fluxos não normalizarem logo, diz Goldman Sachs</title>
+      <description>Analistas do banco de investimento atualizaram sua previsão para o West Texas Intermediate para US$ 83 o barril no quarto trimestre de 2026</description>
+      <link>https://www.marketwatch.com/story/oil-could-end-the-year-at-100-if-flows-dont-normalize-soon-says-goldman-sachs-e35d542c?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/oil-could-end-the-year-at-100-if-flows-dont-normalize-soon-says-goldman-sachs-e35d542c?mod=mw_rss_topstories</guid>
+      <pubDate>27/04/2026 07:39</pubDate>
+      <enclosure url="https://images.mktw.net/im-85497080" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fed provavelmente manterá as taxas estáveis ​​enquanto Powell se prepara para um possível canto do cisne</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/lng-tanker-orders-gain-pace-despite-mixed-outlook-from-iran-war-4637721</guid>
       <pubDate>27/04/2026 04:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0E1_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 0,97%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-097-4637693</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-097-4637693</guid>
-      <pubDate>27/04/2026 04:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB5S0BG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
