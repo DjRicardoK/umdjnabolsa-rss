@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:05:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:05:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE International Business Machines (IBM): uma das melhores ações de baixo risco e alto crescimento?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-one-135535848.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-one-135535848.html</guid>
+      <pubDate>27/04/2026 11:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/006bcfc0bf6a5e2502bce632646ee7ea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE (BHC): O bilionário Howard Marks gosta deste estoque farmacêutico</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rs-large-cap-value-strategy-123923836.html</guid>
       <pubDate>27/04/2026 09:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2678c515e0a6c1082759b9606b643c42" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O que torna a FedEx Corporation (FDX) uma escolha de investimento?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/makes-fedex-corporation-fdx-investment-124105153.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/makes-fedex-corporation-fdx-investment-124105153.html</guid>
-      <pubDate>27/04/2026 09:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b3a5e4a0de96df00306311aafc088610" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
