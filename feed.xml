@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 13:00:06 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:02:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O retorno de 26 anos da Intel é um alerta para os investidores que perseguem os vencedores da IA ​​de hoje:...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/intels-26-year-comeback-is-a-warning-for-investors-chasing-todays-ai-winners-chart-of-the-day-155124778.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/intels-26-year-comeback-is-a-warning-for-investors-chasing-todays-ai-winners-chart-of-the-day-155124778.html</guid>
+      <pubDate>27/04/2026 13:02</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/7hDI1FNVjm8SFwmm_02HYg--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/e0ce76bc-069e-4f1f-b1dc-dd128519922a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Wedbush reitera classificação das ações da Microsoft quanto à clareza do acordo OpenAI</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/microsoft-and-openai-arent-breaking-up-but-theyre-not-exclusive-anymore-47d17848?mod=mw_rss_topstories</guid>
       <pubDate>27/04/2026 11:52</pubDate>
       <enclosure url="https://images.mktw.net/im-709709" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE (CORZ): O bilionário Howard Marks mantém posição otimista</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/core-scientific-inc-corz-billionaire-142601231.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/core-scientific-inc-corz-billionaire-142601231.html</guid>
-      <pubDate>27/04/2026 11:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/78a9ad40da0dc2f3da8edd0eabb58068" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
