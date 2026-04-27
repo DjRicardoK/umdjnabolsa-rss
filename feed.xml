@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:08:49 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:23:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O movimento da Tesla (TSLA) em direção à liderança em IA física</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-move-toward-physical-130606579.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-move-toward-physical-130606579.html</guid>
+      <pubDate>27/04/2026 10:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2f1bf47b64f185ad29af8e89f576d5c3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bernstein reitera classificação das ações da Zillow sobre perspectiva de ganho de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/verizons-stock-rises-as-the-company-posts-surprise-subscriber-growth-under-new-ceo-2752e52d?mod=mw_rss_topstories</guid>
       <pubDate>27/04/2026 08:11</pubDate>
       <enclosure url="https://images.mktw.net/im-03314900" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do ouro estáveis ​​em meio a antecipação do Fed e nervosismo do Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-steady-as-dollar-drifts-amid-iran-jitters-fed-anticipation-4637674</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-steady-as-dollar-drifts-amid-iran-jitters-fed-anticipation-4637674</guid>
-      <pubDate>27/04/2026 07:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAH0G6_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
