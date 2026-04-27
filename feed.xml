@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 02:16:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 03:37:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Austrália caem no fechamento do pregão; S&amp;P/ASX 200 caiu 0,23%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-023-4637676</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-023-4637676</guid>
+      <pubDate>27/04/2026 03:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC6B0B9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco da Inglaterra manterá as taxas inalteradas enquanto avalia o impacto da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/deepseek-unveils-new-ai-model-tailored-for-huawei-chips-as-china-pushes-for-tech-autonomy-4637544</guid>
       <pubDate>26/04/2026 23:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3O0B1_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE China realiza exercícios de tiro real em águas perto de Luzon enquanto EUA e Filipinas organizam jogos de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/china-holds-livefire-drills-in-waters-near-luzon-as-us-philippines-stage-war-games-4637545</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/china-holds-livefire-drills-in-waters-near-luzon-as-us-philippines-stage-war-games-4637545</guid>
-      <pubDate>26/04/2026 23:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
