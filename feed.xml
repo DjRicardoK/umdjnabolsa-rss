@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:10:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:11:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da COPT Defense no convés: força do leasing para compensar a queda na receita?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/copt-defense-earnings-on-deck-leasing-strength-to-offset-revenue-dip-93CH-4639237</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/copt-defense-earnings-on-deck-leasing-strength-to-offset-revenue-dip-93CH-4639237</guid>
+      <pubDate>27/04/2026 11:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE DA. Davidson reitera classificação de compra de ações da Shake Shack devido ao impulso das vendas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/germanys-finance-ministry-open-to-suspending-debt-brake-amid-iran-war-93CH-4638991</guid>
       <pubDate>27/04/2026 10:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/Brazil-Stock-Market_3_M_1440048532.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O movimento da Tesla (TSLA) em direção à liderança em IA física</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-move-toward-physical-130606579.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-move-toward-physical-130606579.html</guid>
-      <pubDate>27/04/2026 10:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2f1bf47b64f185ad29af8e89f576d5c3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
