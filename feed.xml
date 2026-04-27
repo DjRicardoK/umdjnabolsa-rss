@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:43:08 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 12:43:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Microsoft enfrenta processo antitruste do Slack no Reino Unido por causa do agrupamento de equipes</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/microsoft-facing-uk-antitrust-lawsuit-153441638.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/microsoft-facing-uk-antitrust-lawsuit-153441638.html</guid>
+      <pubDate>27/04/2026 12:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/64be60d3dd53257fb9eb61c136ca8b1a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que Charles Payne, da Fox Business Network, possui ações da Apple há mais de 30 anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/crane-earnings-up-next-amid-ceo-change-and-acquisition-bets-93CH-4639296</guid>
       <pubDate>27/04/2026 11:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE AngloGold Ashanti plc (AU): O bilionário Howard Marks continua com participação considerável</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-plc-au-billionaire-141701969.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-plc-au-billionaire-141701969.html</guid>
-      <pubDate>27/04/2026 11:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/de77ec1fbe46c7869bd544717acf6801" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
