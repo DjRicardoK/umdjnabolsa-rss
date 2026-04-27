@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 13:59:31 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 14:05:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon fecha acordo exclusivo para podcast de Oprah Winfrey</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/amazon-lands-exclusive-deal-for-oprah-winfreys-podcast-93CH-4639550</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/amazon-lands-exclusive-deal-for-oprah-winfreys-podcast-93CH-4639550</guid>
+      <pubDate>27/04/2026 14:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Truist reitera compra de ações da Microsoft, meta de US$ 675 em meio à mudança da OpenAI</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-128-4639453</guid>
       <pubDate>27/04/2026 12:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/Istanbul_Stock_Exchange_M_1440056250.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Cementos Pacasmayo supera previsão de EPS do primeiro trimestre...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-cementos-pacasmayo-beats-q1-2026-eps-forecast-stock-up-93CH-4639440</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cementos-pacasmayo-beats-q1-2026-eps-forecast-stock-up-93CH-4639440</guid>
-      <pubDate>27/04/2026 12:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
