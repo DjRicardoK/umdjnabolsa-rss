@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:54:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 16:55:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do primeiro trimestre de 2027 da Dell Technologies</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/expect-dell-technologies-q1-2027-104708441.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-dell-technologies-q1-2027-104708441.html</guid>
+      <pubDate>27/04/2026 16:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/51ef4d346eaaed7b3656c3cf333cd3e7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do segundo trimestre de 2026 da Hewlett Packard Enterprise</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-sunday-april-26-2026-100000552.html</guid>
       <pubDate>27/04/2026 15:06</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e0-4f64-11ef-afb3-0ed5867646a0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A administração Trump aguarda com expectativa o trabalho do Senado na confirmação do presidente do Warsh Fed</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/trump-administration-looks-forward-to-senate-work-on-warsh-fed-chair-confirmation-93CH-4639588</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-administration-looks-forward-to-senate-work-on-warsh-fed-chair-confirmation-93CH-4639588</guid>
-      <pubDate>27/04/2026 14:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_6_M_1440048362.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
