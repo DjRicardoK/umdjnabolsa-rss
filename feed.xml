@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:59:58 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:03:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Elon Musk registra 304 milhões de ações da Tesla. Pias de estoque.</title>
+      <description></description>
+      <link>https://www.investors.com/news/tesla-stock-elon-musk-robotaxi/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/tesla-stock-elon-musk-robotaxi/?src=A00220&yptr=yahoo</guid>
+      <pubDate>27/04/2026 11:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/24d64fd18b50aae5a00211516ebd6bec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Asbury Automotive sobem em meio ao teste de transformação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/verizon-earnings-beat-revenue-light-as-subscriber-additions-surprise/?src=A00220&yptr=yahoo</guid>
       <pubDate>27/04/2026 09:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/f42e168e2fa7978db02a7ac95cf6f37b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Eles têm milhões no banco – mas sem filhos, quem toma as decisões de vida ou morte?</title>
-      <description>Wall Street atende à riqueza geracional, mas uma classe crescente de “agentes solo” sem crianças está contratando parentes mais próximos profissionais.</description>
-      <link>https://www.marketwatch.com/story/they-have-millions-in-the-bank-but-without-kids-who-makes-their-life-or-death-decisions-78874d8c?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/they-have-millions-in-the-bank-but-without-kids-who-makes-their-life-or-death-decisions-78874d8c?mod=mw_rss_topstories</guid>
-      <pubDate>27/04/2026 09:11</pubDate>
-      <enclosure url="https://images.mktw.net/im-61601788" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
