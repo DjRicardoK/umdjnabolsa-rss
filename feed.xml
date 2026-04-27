@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 03:56:45 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 04:08:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 0,97%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-097-4637693</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-097-4637693</guid>
+      <pubDate>27/04/2026 04:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB5S0BG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Barclays atualiza classificação das ações da Kingfisher em relação risco-recompensa equilibrado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusivespacex-warns-that-inquiries-into-sexually-abusive-ai-imagery-may-hurt-market-access-4637550</guid>
       <pubDate>26/04/2026 23:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M1HV_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Departamento de Estado exclusivo dos EUA ordena alerta global sobre supostos roubos de IA pela DeepSeek e...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/exclusiveus-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-4637543</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusiveus-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-4637543</guid>
-      <pubDate>26/04/2026 23:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N1CN_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
