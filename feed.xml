@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 13:22:23 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:27:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Índices de Wall Street entram em semana de lucros intensos com cautela</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/us-stock-index-futures-muted-on-stalled-usiran-peace-talks-4638114</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-index-futures-muted-on-stalled-usiran-peace-talks-4638114</guid>
+      <pubDate>27/04/2026 13:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0JI_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nações se reúnem para discutir a saída dos combustíveis fósseis enquanto a guerra no Irã aumenta os preços</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/fdm-group-grants-share-awards-to-executives-and-managers-93CH-4639395</guid>
       <pubDate>27/04/2026 11:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Spotify enfrenta teste de lucros à medida que o poder de precificação atende à sazonalidade do primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/spotify-faces-earnings-test-as-pricing-power-meets-q1-seasonality-93CH-4639396</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/spotify-faces-earnings-test-as-pricing-power-meets-q1-seasonality-93CH-4639396</guid>
-      <pubDate>27/04/2026 11:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAA112_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
