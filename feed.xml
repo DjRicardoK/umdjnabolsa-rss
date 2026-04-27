@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:54:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:00:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Wedbush reitera classificação das ações da Microsoft quanto à clareza do acordo OpenAI</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/wedbush-reiterates-microsoft-stock-rating-on-openai-deal-clarity-93CH-4639479</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/wedbush-reiterates-microsoft-stock-rating-on-openai-deal-clarity-93CH-4639479</guid>
+      <pubDate>27/04/2026 13:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Microsoft_2_M_1440048702.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Evercore ISI reitera desempenho superior em ações da Microsoft em US$ 580</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/core-scientific-inc-corz-billionaire-142601231.html</guid>
       <pubDate>27/04/2026 11:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/78a9ad40da0dc2f3da8edd0eabb58068" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Expectativas futuras moderadas prejudicam a Repligen Corp. (RGEN) no primeiro trimestre</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tempered-forward-expectations-hurt-repligen-142604425.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tempered-forward-expectations-hurt-repligen-142604425.html</guid>
-      <pubDate>27/04/2026 11:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9566e54eafdb7eb193f977b607cfa6dd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
