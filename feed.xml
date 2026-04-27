@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 23:19:49 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 23:21:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Departamento de Estado exclusivo dos EUA ordena alerta global sobre supostos roubos de IA pela DeepSeek e...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/exclusiveus-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-4637543</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusiveus-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-4637543</guid>
+      <pubDate>26/04/2026 23:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N1CN_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE DeepSeek revela novo modelo de IA feito sob medida para chips Huawei enquanto a China busca autonomia...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-close-ipo-means-223222531.html</guid>
       <pubDate>26/04/2026 19:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Futuros de ações dos EUA caem, petróleo sobe antes de uma semana movimentada para Wall Street</title>
-      <description>Os futuros do índice de ações dos EUA caíram no domingo, com a alta dos preços do petróleo, antes de uma semana importante para Wall Street, após máximas recordes do S&amp;P 500 e do...</description>
-      <link>https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-rises-ahead-of-a-busy-week-for-wall-street-c3e49958?mod=mw_rss_topstories</guid>
-      <pubDate>26/04/2026 19:20</pubDate>
-      <enclosure url="https://images.mktw.net/im-59469210" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
