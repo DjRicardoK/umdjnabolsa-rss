@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 23:39:50 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 23:49:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE SLB e Baker Hughes veem aumento nos gastos com exploração de petróleo à medida que a guerra no Irã interrompe...</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/slb-baker-hughes-see-oil-exploration-spending-rising-as-iran-war-disrupts-supply-4637565</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/slb-baker-hughes-see-oil-exploration-spending-rising-as-iran-war-disrupts-supply-4637565</guid>
+      <pubDate>26/04/2026 23:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N168_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que SES AI (SES) está entre as 8 melhores ações de EV de pequena capitalização para comprar agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/how-china-has-expanded-its-economic-toolkit-during-its-trade-truce-with-the-us-4637503</guid>
       <pubDate>26/04/2026 20:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3P0GH_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A alta recorde do Japão está ameaçada enquanto a guerra no Oriente Médio obscurece a temporada de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japans-record-bull-run-under-threat-as-mideast-war-clouds-earnings-season-4637506</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japans-record-bull-run-under-threat-as-mideast-war-clouds-earnings-season-4637506</guid>
-      <pubDate>26/04/2026 20:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3P0GV_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
