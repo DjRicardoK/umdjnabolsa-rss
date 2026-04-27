@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:14:58 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:27:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Simpson Manufacturing: As margens podem compensar os problemas imobiliários?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/simpson-manufacturing-earnings-can-margins-offset-housing-woes-93CH-4639268</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/simpson-manufacturing-earnings-can-margins-offset-housing-woes-93CH-4639268</guid>
+      <pubDate>27/04/2026 11:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Apple está desafiando a crise global dos smartphones, como mostra este feito inédito</title>
       <description>A Apple conquistou o primeiro lugar global em smartphones pela primeira vez no trimestre de março, graças ao sucesso do iPhone 17e e aos movimentos bacanas da cadeia de...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nordex-q1-2026-sees-strong-growth-stock-rises-428-93CH-4638989</guid>
       <pubDate>27/04/2026 10:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Microsoft não terá mais acesso exclusivo à tecnologia OpenAI</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/microsoft-to-end-exclusive-license-for-openais-technology-4638956</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-to-end-exclusive-license-for-openais-technology-4638956</guid>
-      <pubDate>27/04/2026 10:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0UL_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
