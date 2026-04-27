@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 09:52:56 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:06:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Economias do Golfo caminham para a pior crise desde a pandemia enquanto a guerra agita a linha de vida...</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gulf-economies-head-for-worst-crisis-since-pandemic-as-war-roils-energy-lifeline-reuters-poll-4638894</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gulf-economies-head-for-worst-crisis-since-pandemic-as-war-roils-energy-lifeline-reuters-poll-4638894</guid>
+      <pubDate>27/04/2026 10:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0TG_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A estratégia de valor de grande capitalização da RS acredita que os investimentos de longo prazo da Mattel...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/oil-could-end-the-year-at-100-if-flows-dont-normalize-soon-says-goldman-sachs-e35d542c?mod=mw_rss_topstories</guid>
       <pubDate>27/04/2026 07:39</pubDate>
       <enclosure url="https://images.mktw.net/im-85497080" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fed provavelmente manterá as taxas estáveis ​​enquanto Powell se prepara para um possível canto do cisne</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-as-powell-prepares-for-possible-swan-song-4638159</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-as-powell-prepares-for-possible-swan-song-4638159</guid>
-      <pubDate>27/04/2026 07:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0K3_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
