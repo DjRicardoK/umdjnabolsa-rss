@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 21:57:10 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 22:02:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: UnitedHealth Q1 2026 supera as expectativas, as ações sobem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-unitedhealth-q1-2026-beats-expectations-stock-rises-93CH-4637516</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-unitedhealth-q1-2026-beats-expectations-stock-rises-93CH-4637516</guid>
+      <pubDate>26/04/2026 22:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘Tive uma ideia totalmente errada’: Warren Buffett pensava que prever o mercado era tudo - até ler este livro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html</guid>
       <pubDate>26/04/2026 17:15</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/QW.26kmiYfTRiEy3Zd7TgQ--~B/aD01MzI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-04/84c8e311-44ba-4c1d-83da-a37fa2ebce99" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Futuros do Dow Jones se aproximam após o arquivamento das negociações com o Irã; Apple, Amazon e Google...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-google-earnings-ai-iran-talks/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-google-earnings-ai-iran-talks/?src=A00220&yptr=yahoo</guid>
-      <pubDate>26/04/2026 17:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/47aaa52efcced0122c4ef8c46d77f0ab" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
