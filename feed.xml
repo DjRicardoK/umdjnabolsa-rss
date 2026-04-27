@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 13:27:56 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:29:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Nvidia aumentando valor de mercado de US$ 5 trilhões com grandes gastos em tecnologia em foco; A Nvidia é uma...</title>
+      <description></description>
+      <link>https://www.investors.com/research/nvidia-nvda-stock-amazon-alphabet-meta-apple/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/nvidia-nvda-stock-amazon-alphabet-meta-apple/?src=A00220&yptr=yahoo</guid>
+      <pubDate>27/04/2026 13:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/fdb94943d2246b226d3097f7cc05b8d0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Índices de Wall Street entram em semana de lucros intensos com cautela</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-news-nvidia-stock-nvda/?src=A00220&yptr=yahoo</guid>
       <pubDate>27/04/2026 11:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Grupo FDM atribui prémios em ações a executivos e gestores</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/fdm-group-grants-share-awards-to-executives-and-managers-93CH-4639395</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/fdm-group-grants-share-awards-to-executives-and-managers-93CH-4639395</guid>
-      <pubDate>27/04/2026 11:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
