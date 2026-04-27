@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 08:16:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 08:29:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A SEC teme que estejamos presos a um pensamento de curto prazo. Tesla e Amazon provam que os investidores...</title>
+      <description>A divulgação semestral de lucros tenta “consertar” um problema que as histórias de sucesso do mercado já resolveram.</description>
+      <link>https://www.marketwatch.com/story/the-sec-fears-were-trapped-in-short-term-thinking-tesla-and-amazon-prove-investors-play-the-long-game-4181fa55?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-sec-fears-were-trapped-in-short-term-thinking-tesla-and-amazon-prove-investors-play-the-long-game-4181fa55?mod=mw_rss_topstories</guid>
+      <pubDate>27/04/2026 08:29</pubDate>
+      <enclosure url="https://images.mktw.net/im-71650612" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os retrocessos serão superficiais à medida que os riscos de mercado diminuem, diz Morgan Stanley</title>
       <description>Os ganhos, o investimento e a adoção da IA ​​estão a desenvolver uma dinâmica e a reduzir as oportunidades para os investidores aderirem às fraquezas motivadas pela geopolítica</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/why-jpmorgan-is-telling-investors-to-keep-buying-the-dips-even-as-market-hits-new-highs-4c8b7763?mod=mw_rss_topstories</guid>
       <pubDate>27/04/2026 05:44</pubDate>
       <enclosure url="https://images.mktw.net/im-48518658" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BofA reitera classificação das ações da Nvidia sobre potencial de retorno aos acionistas</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/bofa-reiterates-nvidia-stock-rating-on-shareholder-return-potential-93CH-4637861</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-nvidia-stock-rating-on-shareholder-return-potential-93CH-4637861</guid>
-      <pubDate>27/04/2026 05:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
