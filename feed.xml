@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 23:28:43 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 23:37:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A guerra do Irão atinge os fornecedores de poliéster da Ásia para a fast fashion global</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/iran-war-hits-asias-polyester-suppliers-to-global-fast-fashion-4637554</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/iran-war-hits-asias-polyester-suppliers-to-global-fast-fashion-4637554</guid>
+      <pubDate>26/04/2026 23:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N06D_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Exclusive-SpaceX alerta que investigações sobre imagens de IA sexualmente abusivas podem prejudicar o acesso...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/analysis-under-cover-trade-truce-230416731.html</guid>
       <pubDate>26/04/2026 20:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/57789daf71b5dcd424ead85cabc9196e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE RBC Capital reduz PT no Chipotle Mexican Grill (CMG) antes dos lucros do primeiro trimestre</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/rbc-capital-reduces-pt-chipotle-223818699.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rbc-capital-reduces-pt-chipotle-223818699.html</guid>
-      <pubDate>26/04/2026 19:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b81a859b45533ff4280a6d306633720c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
