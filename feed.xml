@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 14:16:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 14:16:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Suprema Corte dos EUA luta com mandados de ‘cerca geográfica’ em investigações criminais</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/us-supreme-court-weighs-lawfulness-of-geofence-warrants-in-crime-probes-4639311</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-supreme-court-weighs-lawfulness-of-geofence-warrants-in-crime-probes-4639311</guid>
+      <pubDate>27/04/2026 14:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0ZL_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os resultados do quarto trimestre de 2025 da Advantest mostram...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/microsoft-facing-uk-antitrust-lawsuit-153441638.html</guid>
       <pubDate>27/04/2026 12:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/64be60d3dd53257fb9eb61c136ca8b1a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que Charles Payne, da Fox Business Network, possui ações da Apple há mais de 30 anos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/why-fox-business-networks-charles-payne-has-owned-apple-stock-for-more-than-30-years-153647855.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/why-fox-business-networks-charles-payne-has-owned-apple-stock-for-more-than-30-years-153647855.html</guid>
-      <pubDate>27/04/2026 12:43</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/c5483460-424b-11f1-9dfe-4e4ad0ca9b9e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
