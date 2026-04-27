@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 22:02:48 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 22:06:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Analistas da Roth Capital: O que mais importa para as ações da Tesla agora não é a Tesla… é a SpaceX</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/roth-capital-analysts-matters-most-140002363.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/roth-capital-analysts-matters-most-140002363.html</guid>
+      <pubDate>26/04/2026 22:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d359d8594ff0023d477e0873b4f785ef" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: UnitedHealth Q1 2026 supera as expectativas, as ações sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/israel-issues-evacuation-warning-for-seven-lebanese-towns-beyond-buffer-zone-4637485</guid>
       <pubDate>26/04/2026 17:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_6_M_1440048362.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE &apos;Um retorno ao otimismo&apos;: estrategistas de Wall Street estão otimistas com o comércio de IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/a-return-to-optimism-wall-street-strategists-are-bullish-on-the-ai-trade-143000172.html</guid>
-      <pubDate>26/04/2026 17:15</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/QW.26kmiYfTRiEy3Zd7TgQ--~B/aD01MzI7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-04/84c8e311-44ba-4c1d-83da-a37fa2ebce99" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
