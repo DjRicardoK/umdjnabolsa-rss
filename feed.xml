@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 01:51:49 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 02:16:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro industrial da China aumenta 15,8% em março em meio a tensões globais</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/chinas-industrial-profit-surges-158-in-march-amid-global-tensions-93CH-4637619</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/chinas-industrial-profit-surges-158-in-march-amid-global-tensions-93CH-4637619</guid>
+      <pubDate>27/04/2026 02:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A guerra no Irã interrompe a cadeia de fornecimento de placas de circuito e aumenta os custos para empresas...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-earnings-confirm-cpu-demand-153002223.html</guid>
       <pubDate>26/04/2026 22:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/fa34ffabb30933c9de6fa5fe37361c9d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE EUA acrescentando pelotões de fuzilamento, eletrocussão e gaseamento aos métodos federais de execução</title>
-      <description></description>
-      <link>https://www.investing.com/news/politics-news/us-adding-firing-squads-electrocution-and-gassing-to-federal-execution-methods-4637536</link>
-      <guid isPermaLink="false">https://www.investing.com/news/politics-news/us-adding-firing-squads-electrocution-and-gassing-to-federal-execution-methods-4637536</guid>
-      <pubDate>26/04/2026 22:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N12P_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
