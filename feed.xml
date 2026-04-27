@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 01:51:42 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 01:51:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A guerra no Irã interrompe a cadeia de fornecimento de placas de circuito e aumenta os custos para empresas...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/iran-war-disrupts-thecircuit-board-supply-chain-raises-costs-for-tech-firms-4637593</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/iran-war-disrupts-thecircuit-board-supply-chain-raises-costs-for-tech-firms-4637593</guid>
+      <pubDate>27/04/2026 01:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q078_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Factbox-Goldman Sachs eleva previsões sobre o preço do petróleo devido à produção mais fraca no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/politics-news/us-adding-firing-squads-electrocution-and-gassing-to-federal-execution-methods-4637536</guid>
       <pubDate>26/04/2026 22:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N12P_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro das empresas industriais da China aumenta 15,5% no primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/chinas-industrial-firms-profit-rises-155-in-first-quarter-4637539</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/chinas-industrial-firms-profit-rises-155-in-first-quarter-4637539</guid>
-      <pubDate>26/04/2026 22:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q02G_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
