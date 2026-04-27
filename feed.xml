@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 07:39:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:48:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Enquanto o Novo México investiga Epstein, sobreviventes locais se apresentam</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/as-new-mexico-probes-epstein-local-survivors-come-forward-4638160</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/as-new-mexico-probes-epstein-local-survivors-come-forward-4638160</guid>
+      <pubDate>27/04/2026 07:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0JW_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Petróleo pode terminar o ano a US$ 100 se os fluxos não normalizarem logo, diz Goldman Sachs</title>
       <description>Analistas do banco de investimento atualizaram sua previsão para o West Texas Intermediate para US$ 83 o barril no quarto trimestre de 2026</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-meiragtx-holdings-mgtx-one-210617073.html</guid>
       <pubDate>27/04/2026 04:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e6a67f8e431995a1c93180e617e450ab" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Encomendas de navios-tanque de GNL ganham ritmo apesar das perspectivas mistas da guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/lng-tanker-orders-gain-pace-despite-mixed-outlook-from-iran-war-4637721</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/lng-tanker-orders-gain-pace-despite-mixed-outlook-from-iran-war-4637721</guid>
-      <pubDate>27/04/2026 04:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0E1_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
