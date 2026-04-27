@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 04:47:10 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 04:52:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que MeiraGTx Holdings (MGTX) é uma das ações de melhor crescimento abaixo de US$ 10</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-meiragtx-holdings-mgtx-one-210617073.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-meiragtx-holdings-mgtx-one-210617073.html</guid>
+      <pubDate>27/04/2026 04:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e6a67f8e431995a1c93180e617e450ab" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Encomendas de navios-tanque de GNL ganham ritmo apesar das perspectivas mistas da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-ses-ai-ses-among-153712077.html</guid>
       <pubDate>26/04/2026 23:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2591297d5a9e1aed5470dece9f0101ce" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A guerra do Irão atinge os fornecedores de poliéster da Ásia para a fast fashion global</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/iran-war-hits-asias-polyester-suppliers-to-global-fast-fashion-4637554</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/iran-war-hits-asias-polyester-suppliers-to-global-fast-fashion-4637554</guid>
-      <pubDate>26/04/2026 23:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N06D_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
