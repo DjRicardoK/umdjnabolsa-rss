@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 00:20:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 00:32:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os ganhos da RTX no primeiro trimestre de 2026 mostram forte...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-rtx-q1-2026-earnings-show-strong-growth-amidst-stock-dip-93CH-4637579</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rtx-q1-2026-earnings-show-strong-growth-amidst-stock-dip-93CH-4637579</guid>
+      <pubDate>27/04/2026 00:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Aurelion aloca US$ 48 milhões em Tether Gold para o protocolo de rendimento XAUE</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/roth-capital-analysts-matters-most-140002363.html</guid>
       <pubDate>26/04/2026 22:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d359d8594ff0023d477e0873b4f785ef" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: UnitedHealth Q1 2026 supera as expectativas, as ações sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-unitedhealth-q1-2026-beats-expectations-stock-rises-93CH-4637516</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-unitedhealth-q1-2026-beats-expectations-stock-rises-93CH-4637516</guid>
-      <pubDate>26/04/2026 22:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
