@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 22:27:38 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 22:54:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro das empresas industriais da China aumenta 15,5% no primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/chinas-industrial-firms-profit-rises-155-in-first-quarter-4637539</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/chinas-industrial-firms-profit-rises-155-in-first-quarter-4637539</guid>
+      <pubDate>26/04/2026 22:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q02G_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Starbucks está investindo US$ 100 milhões e 2.000 empregos em Nashville – 5 meses depois que o prefeito de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/toyota-motor-corporation-tm-one-202448353.html</guid>
       <pubDate>26/04/2026 17:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fd7c45a3abcc22a635fe1099dde0a969" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE (PM): Rumo a alta margem e tecnologia livre de fumaça</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/philip-morris-international-inc-pm-202627222.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/philip-morris-international-inc-pm-202627222.html</guid>
-      <pubDate>26/04/2026 17:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b3f09c1275bf3ea7891143ed8ec882dd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
