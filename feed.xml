@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:08:07 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:08:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Próximos ganhos do Northwest Bancshares: Integração em foco</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/northwest-bancshares-earnings-up-next-integration-in-focus-93CH-4639224</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/northwest-bancshares-earnings-up-next-integration-in-focus-93CH-4639224</guid>
+      <pubDate>27/04/2026 11:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Microsoft e OpenAI reescrevem parceria para eliminar acesso exclusivo a modelos e alterar divisão de receita</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-medicure-q4-2025-revenue-climbs-stock-drops-93CH-4638887</guid>
       <pubDate>27/04/2026 10:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Economias do Golfo caminham para a pior crise desde a pandemia enquanto a guerra agita a linha de vida...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gulf-economies-head-for-worst-crisis-since-pandemic-as-war-roils-energy-lifeline-reuters-poll-4638894</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gulf-economies-head-for-worst-crisis-since-pandemic-as-war-roils-energy-lifeline-reuters-poll-4638894</guid>
-      <pubDate>27/04/2026 10:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0TG_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
