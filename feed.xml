@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:54:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:57:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Spotify enfrenta teste de lucros à medida que o poder de precificação atende à sazonalidade do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/spotify-faces-earnings-test-as-pricing-power-meets-q1-seasonality-93CH-4639396</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/spotify-faces-earnings-test-as-pricing-power-meets-q1-seasonality-93CH-4639396</guid>
+      <pubDate>27/04/2026 11:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAA112_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Brown &amp; Brown sobem à medida que as pressões nas taxas imobiliárias são testadas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/article/microsoft-openai-rewrite-partnership-to-eliminate-exclusive-model-access-change-revenue-sharing-140522820.html</guid>
       <pubDate>27/04/2026 11:08</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2023-11/0a76ada0-7cec-11ee-bbc6-12c2f8f3e178" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE International Business Machines (IBM): uma das melhores ações de baixo risco e alto crescimento?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-one-135535848.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-one-135535848.html</guid>
-      <pubDate>27/04/2026 11:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/006bcfc0bf6a5e2502bce632646ee7ea" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
