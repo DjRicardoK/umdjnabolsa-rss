@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:51:48 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:51:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Axsome Therapeutics atingem o máximo histórico de 191,69 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/axsome-therapeutics-stock-hits-alltime-high-at-19169-usd-93CH-4639118</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/axsome-therapeutics-stock-hits-alltime-high-at-19169-usd-93CH-4639118</guid>
+      <pubDate>27/04/2026 10:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Matson atingem o máximo histórico de 180,88 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/citi-to-boost-japan-china-investment-banking-teams-plans-senior-sectorfocused-hires-4638566</guid>
       <pubDate>27/04/2026 08:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0QC_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Samsung Elec retirará vendas de eletrodomésticos e TV da China este ano, informa Nikkei</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/samsung-elec-to-withdraw-home-appliances-tv-sales-from-china-this-year-nikkei-reports-4638535</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/samsung-elec-to-withdraw-home-appliances-tv-sales-from-china-this-year-nikkei-reports-4638535</guid>
-      <pubDate>27/04/2026 08:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0PF_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
