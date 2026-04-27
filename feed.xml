@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 05:46:21 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 06:06:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Sartorius compartilha enquanto Berenberg vê entrada “atraente” após venda pós-lucro</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/sartorius-shares-up-as-berenberg-sees-attractive-entry-after-postearnings-sello-4637896</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/sartorius-shares-up-as-berenberg-sees-attractive-entry-after-postearnings-sello-4637896</guid>
+      <pubDate>27/04/2026 06:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Marqeta (MQ) é uma das melhores ações de crescimento abaixo de US$ 10 para investir?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/aurelion-allocates-48-million-tether-162100751.html</guid>
       <pubDate>27/04/2026 00:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/333672907fadd2ea81ca83066f4c2307" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Sentimento do consumidor nos EUA cai para mínimo histórico em abril; expectativas de inflação aumentam</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-consumer-sentiment-slumps-to-record-low-in-april-inflation-expectations-rise-4637575</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-consumer-sentiment-slumps-to-record-low-in-april-inflation-expectations-rise-4637575</guid>
-      <pubDate>27/04/2026 00:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0X7_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
