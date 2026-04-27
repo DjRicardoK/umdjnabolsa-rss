@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 05:44:06 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 05:46:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Marqeta (MQ) é uma das melhores ações de crescimento abaixo de US$ 10 para investir?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/marqeta-mq-one-best-growth-210647961.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/marqeta-mq-one-best-growth-210647961.html</guid>
+      <pubDate>27/04/2026 05:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/565e885b1b1e6a17dcedf30c45ec20dc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que o JPMorgan está dizendo aos investidores para continuarem comprando nas quedas, mesmo quando o...</title>
       <description>Os investidores deveriam usar qualquer fraqueza induzida geopolíticamente como oportunidades de compra, diz o JPMorgan. As expectativas de taxas deverão diminuir no segundo...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-consumer-sentiment-slumps-to-record-low-in-april-inflation-expectations-rise-4637575</guid>
       <pubDate>27/04/2026 00:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N0X7_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Departamento de Justiça encerra investigação sobre o presidente do Fed, Powell, removendo obstáculo para Warsh</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/justice-dept-drops-investigation-into-fed-chair-powell-removing-obstacle-to-warsh-4637576</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/justice-dept-drops-investigation-into-fed-chair-powell-removing-obstacle-to-warsh-4637576</guid>
-      <pubDate>27/04/2026 00:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N103_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
