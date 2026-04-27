@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 21:34:35 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 21:47:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita da DDC no quarto trimestre de 2025 dispara, lucro por...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ddcs-q4-2025-revenue-soars-eps-remains-negative-93CH-4637515</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ddcs-q4-2025-revenue-soars-eps-remains-negative-93CH-4637515</guid>
+      <pubDate>26/04/2026 21:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que a Brookfield Corp. (BN) está entre as 8 melhores ações de holding para investir agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/sen-thom-tillis-drops-opposition-says-hell-back-kevin-warshs-fed-confirmation-b7252136?mod=mw_rss_topstories</guid>
       <pubDate>26/04/2026 17:08</pubDate>
       <enclosure url="https://images.mktw.net/im-93108388" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os cortes de empregos da Big Tech parecem um alerta econômico</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/article/big-techs-jobs-cuts-feel-like-an-economic-warning-100000161.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/big-techs-jobs-cuts-feel-like-an-economic-warning-100000161.html</guid>
-      <pubDate>26/04/2026 17:08</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/j6jCwSxQ.K2TlcEcmneaBw--~B/aD0yODQ1O3c9NDAzMjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/d879baee-a0c0-43a3-a8b7-a64a962f601e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
