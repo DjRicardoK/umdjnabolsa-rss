@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:11:49 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 12:11:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Corning deve relatar lucros à medida que o frenesi da fibra de IA encontra a realidade</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/corning-set-to-report-earnings-as-ai-fiber-frenzy-meets-reality-check-93CH-4639411</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/corning-set-to-report-earnings-as-ai-fiber-frenzy-meets-reality-check-93CH-4639411</guid>
+      <pubDate>27/04/2026 12:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/facebook_2_M_1440049069.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os ganhos da Cadence são os próximos, à medida que os investidores olham para o impulso da automação de IA</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/earnings/copt-defense-earnings-on-deck-leasing-strength-to-offset-revenue-dip-93CH-4639237</link>
       <guid isPermaLink="false">https://www.investing.com/news/earnings/copt-defense-earnings-on-deck-leasing-strength-to-offset-revenue-dip-93CH-4639237</guid>
       <pubDate>27/04/2026 11:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE DA. Davidson reitera classificação de compra de ações da Shake Shack devido ao impulso das vendas</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-shake-shack-stock-buy-rating-on-sales-momentum-93CH-4639209</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-shake-shack-stock-buy-rating-on-sales-momentum-93CH-4639209</guid>
-      <pubDate>27/04/2026 11:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
