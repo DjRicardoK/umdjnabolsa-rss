@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:58:26 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 12:07:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A IA lança uma sombra existencial sobre as empresas de software legado, alertam os CIOs da Bridgewater</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/ai-casts-existential-shadow-over-145920203.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/ai-casts-existential-shadow-over-145920203.html</guid>
+      <pubDate>27/04/2026 12:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/c8b3cb35533f80e406b71d3d40cc0848" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: Dow se firma enquanto as ações farmacêuticas brilham; Nvidia se aproxima de recordes...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/applied-industrial-earnings-on-deck-can-momentum-sustain-93CH-4639213</guid>
       <pubDate>27/04/2026 11:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros alegados: o crescimento comercial pode reacender o ímpeto?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/allegion-earnings-on-deck-can-commercial-growth-reignite-momentum-93CH-4639221</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/allegion-earnings-on-deck-can-commercial-growth-reignite-momentum-93CH-4639221</guid>
-      <pubDate>27/04/2026 11:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
