@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 06:06:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 06:25:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Hitachi Q4 2025 registra receita e lucro recordes</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-hitachi-q4-2025-sees-record-revenue-and-profit-93CH-4637944</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hitachi-q4-2025-sees-record-revenue-and-profit-93CH-4637944</guid>
+      <pubDate>27/04/2026 06:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Sartorius compartilha enquanto Berenberg vê entrada “atraente” após venda pós-lucro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rtx-q1-2026-earnings-show-strong-growth-amidst-stock-dip-93CH-4637579</guid>
       <pubDate>27/04/2026 00:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Aurelion aloca US$ 48 milhões em Tether Gold para o protocolo de rendimento XAUE</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/aurelion-allocates-48-million-tether-162100751.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/aurelion-allocates-48-million-tether-162100751.html</guid>
-      <pubDate>27/04/2026 00:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/333672907fadd2ea81ca83066f4c2307" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
