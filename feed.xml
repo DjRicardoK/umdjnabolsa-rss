@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 04:08:48 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 04:47:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Encomendas de navios-tanque de GNL ganham ritmo apesar das perspectivas mistas da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/lng-tanker-orders-gain-pace-despite-mixed-outlook-from-iran-war-4637721</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/lng-tanker-orders-gain-pace-despite-mixed-outlook-from-iran-war-4637721</guid>
+      <pubDate>27/04/2026 04:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0E1_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 0,97%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/iran-war-hits-asias-polyester-suppliers-to-global-fast-fashion-4637554</guid>
       <pubDate>26/04/2026 23:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N06D_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Exclusive-SpaceX alerta que investigações sobre imagens de IA sexualmente abusivas podem prejudicar o acesso...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/exclusivespacex-warns-that-inquiries-into-sexually-abusive-ai-imagery-may-hurt-market-access-4637550</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusivespacex-warns-that-inquiries-into-sexually-abusive-ai-imagery-may-hurt-market-access-4637550</guid>
-      <pubDate>26/04/2026 23:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M1HV_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
