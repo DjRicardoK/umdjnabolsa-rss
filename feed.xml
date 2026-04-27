@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 13:30:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:40:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Grande petroleiro mergulha profundamente no Canadá em meio a uma pausa na guerra no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investors.com/news/oil-major-shell-shel-stock-arc-resources-merger/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/oil-major-shell-shel-stock-arc-resources-merger/?src=A00220&yptr=yahoo</guid>
+      <pubDate>27/04/2026 13:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/54a01f3c6e1d4262cb8ea391f3d2f3b9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Negociação da American Rebel é retomada na Nasdaq após interrupção</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/corning-set-to-report-earnings-as-ai-fiber-frenzy-meets-reality-check-93CH-4639411</guid>
       <pubDate>27/04/2026 12:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/facebook_2_M_1440049069.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos da Cadence são os próximos, à medida que os investidores olham para o impulso da automação de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/cadence-earnings-up-next-as-investors-eye-ai-automation-push-93CH-4639412</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/cadence-earnings-up-next-as-investors-eye-ai-automation-push-93CH-4639412</guid>
-      <pubDate>27/04/2026 12:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
