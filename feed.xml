@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 20:13:21 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 20:21:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os slides do primeiro trimestre de 2026 da TFI International destacam o histórico em meio à queda nos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/tfi-international-q1-2026-slides-highlight-track-record-amid-earnings-dip-93CH-4640123</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/tfi-international-q1-2026-slides-highlight-track-record-amid-earnings-dip-93CH-4640123</guid>
+      <pubDate>27/04/2026 20:21</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/909178a7376ad92181b8f0173c0acdcf9f542fe2857d1504b6032a133fbbe491.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Virgin Galactic Holdings (SPCE) planejando programa de testes de voo e voos espaciais</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-ulta-beauty-next-104151146.html</guid>
       <pubDate>27/04/2026 16:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/bdc4ecb3151e3f740184665f9e865d63" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Rambus Inc (RMBS) dispara 24,8% antes dos lucros de segunda-feira</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/rambus-inc-rmbs-soars-24-103608694.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rambus-inc-rmbs-soars-24-103608694.html</guid>
-      <pubDate>27/04/2026 16:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0c8c0b17bdeadd648ed7c20507b57bac" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
