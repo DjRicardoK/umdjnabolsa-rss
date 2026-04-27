@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 03:37:07 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 03:56:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Barclays atualiza classificação das ações da Kingfisher em relação risco-recompensa equilibrado</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/barclays-upgrades-kingfisher-stock-rating-on-balanced-riskreward-93CH-4637681</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-upgrades-kingfisher-stock-rating-on-balanced-riskreward-93CH-4637681</guid>
+      <pubDate>27/04/2026 03:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Austrália caem no fechamento do pregão; S&amp;P/ASX 200 caiu 0,23%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusiveus-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-4637543</guid>
       <pubDate>26/04/2026 23:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3N1CN_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE DeepSeek revela novo modelo de IA feito sob medida para chips Huawei enquanto a China busca autonomia...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/deepseek-unveils-new-ai-model-tailored-for-huawei-chips-as-china-pushes-for-tech-autonomy-4637544</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/deepseek-unveils-new-ai-model-tailored-for-huawei-chips-as-china-pushes-for-tech-autonomy-4637544</guid>
-      <pubDate>26/04/2026 23:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3O0B1_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
