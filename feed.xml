@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:27:10 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:27:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Microsoft não terá mais acesso exclusivo à tecnologia OpenAI</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/microsoft-to-end-exclusive-license-for-openais-technology-4638956</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-to-end-exclusive-license-for-openais-technology-4638956</guid>
+      <pubDate>27/04/2026 10:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0UL_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ministério das Finanças da Alemanha está aberto à suspensão do freio à dívida em meio à guerra com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-sec-fears-were-trapped-in-short-term-thinking-tesla-and-amazon-prove-investors-play-the-long-game-4181fa55?mod=mw_rss_topstories</guid>
       <pubDate>27/04/2026 08:29</pubDate>
       <enclosure url="https://images.mktw.net/im-71650612" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os retrocessos serão superficiais à medida que os riscos de mercado diminuem, diz Morgan Stanley</title>
-      <description>Os ganhos, o investimento e a adoção da IA ​​estão a desenvolver uma dinâmica e a reduzir as oportunidades para os investidores aderirem às fraquezas motivadas pela geopolítica</description>
-      <link>https://www.marketwatch.com/story/pullbacks-will-be-shallow-as-market-risks-diminish-says-morgan-stanley-ef6cd708?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/pullbacks-will-be-shallow-as-market-risks-diminish-says-morgan-stanley-ef6cd708?mod=mw_rss_topstories</guid>
-      <pubDate>27/04/2026 08:16</pubDate>
-      <enclosure url="https://images.mktw.net/im-72426376" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
