@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:37:34 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 12:43:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que Charles Payne, da Fox Business Network, possui ações da Apple há mais de 30 anos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/why-fox-business-networks-charles-payne-has-owned-apple-stock-for-more-than-30-years-153647855.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/why-fox-business-networks-charles-payne-has-owned-apple-stock-for-more-than-30-years-153647855.html</guid>
+      <pubDate>27/04/2026 12:43</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/c5483460-424b-11f1-9dfe-4e4ad0ca9b9e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Turquia sobem no fechamento do pregão; BIST 100 subiu 1,28%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-plc-au-billionaire-141701969.html</guid>
       <pubDate>27/04/2026 11:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/de77ec1fbe46c7869bd544717acf6801" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE NOV enfrenta teste de lucros enquanto a guerra no Oriente Médio interrompe as operações</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/nov-faces-earnings-test-as-middle-east-war-disrupts-operations-93CH-4639265</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/nov-faces-earnings-test-as-middle-east-war-disrupts-operations-93CH-4639265</guid>
-      <pubDate>27/04/2026 11:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7D094_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
