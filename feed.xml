@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 22:06:07 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 22:26:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar avança enquanto negociações EUA-Irã sofrem revés</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/dollar-advances-as-usiran-talks-suffer-setback-4637530</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-advances-as-usiran-talks-suffer-setback-4637530</guid>
+      <pubDate>26/04/2026 22:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q01F_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Analistas da Roth Capital: O que mais importa para as ações da Tesla agora não é a Tesla… é a SpaceX</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ezdan-holding-group-reports-strong-q1-2026-growth-93CH-4637496</guid>
       <pubDate>26/04/2026 17:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ataques israelenses matam 14 no Líbano enquanto Israel alerta os residentes para deixarem as cidades além da...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/israel-issues-evacuation-warning-for-seven-lebanese-towns-beyond-buffer-zone-4637485</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/israel-issues-evacuation-warning-for-seven-lebanese-towns-beyond-buffer-zone-4637485</guid>
-      <pubDate>26/04/2026 17:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_6_M_1440048362.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
