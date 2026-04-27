@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:46:48 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 12:54:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Evercore ISI reitera desempenho superior em ações da Microsoft em US$ 580</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-outperform-on-microsoft-stock-at-580-93CH-4639475</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-outperform-on-microsoft-stock-at-580-93CH-4639475</guid>
+      <pubDate>27/04/2026 12:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Microsoft_2_M_1440048702.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Microsoft enfrenta processo antitruste do Slack no Reino Unido por causa do agrupamento de equipes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tempered-forward-expectations-hurt-repligen-142604425.html</guid>
       <pubDate>27/04/2026 11:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9566e54eafdb7eb193f977b607cfa6dd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Incyte ganhos em ação: as perspectivas do povorcitinibe atendem à realidade do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/incyte-earnings-on-deck-povorcitinib-prospects-meet-q1-reality-93CH-4639293</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/incyte-earnings-on-deck-povorcitinib-prospects-meet-q1-reality-93CH-4639293</guid>
-      <pubDate>27/04/2026 11:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
