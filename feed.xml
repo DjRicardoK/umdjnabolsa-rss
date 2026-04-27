@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 15:34:58 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 15:42:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Há uma guerra de preços de pizza acontecendo e a Domino&apos;s está sentindo a dor</title>
+      <description>A Domino’s apostará na “inovação da pizza” como uma forma de envolver os clientes que estão a tornar-se mais seletivos nos seus gastos.</description>
+      <link>https://www.marketwatch.com/story/theres-a-pizza-price-war-going-on-and-dominos-is-feeling-the-pain-99487d92?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/theres-a-pizza-price-war-going-on-and-dominos-is-feeling-the-pain-99487d92?mod=mw_rss_topstories</guid>
+      <pubDate>27/04/2026 15:42</pubDate>
+      <enclosure url="https://images.mktw.net/im-39573642" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Elon Musk está prestes a ficar muito mais rico. Valeu a pena as dores de cabeça.</title>
       <description>Musk teve de esperar oito anos, mas finalmente conseguiu os direitos sobre as 304 milhões de ações que lhe foram atribuídas como parte do pacote de compensação de 2018.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/oil-major-shell-shel-stock-arc-resources-merger/?src=A00220&yptr=yahoo</guid>
       <pubDate>27/04/2026 13:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/54a01f3c6e1d4262cb8ea391f3d2f3b9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Negociação da American Rebel é retomada na Nasdaq após interrupção</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/american-rebel-trading-resumes-on-nasdaq-after-halt-93CH-4639521</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/american-rebel-trading-resumes-on-nasdaq-after-halt-93CH-4639521</guid>
-      <pubDate>27/04/2026 13:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
