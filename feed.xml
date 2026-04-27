@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 20:21:09 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 20:21:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Descontos de Páscoa reduzem a inflação dos preços nas lojas no Reino Unido em abril, mostra pesquisa do BRC</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/easter-discounts-lower-uk-shop-price-inflation-in-april-brc-survey-shows-4640122</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/easter-discounts-lower-uk-shop-price-inflation-in-april-brc-survey-shows-4640122</guid>
+      <pubDate>27/04/2026 20:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q1HW_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os slides do primeiro trimestre de 2026 da TFI International destacam o histórico em meio à queda nos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/power-integrations-powi-soars-25-104414149.html</guid>
       <pubDate>27/04/2026 16:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2f81169e56709ee578124845f2ca360c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da Ulta Beauty</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-ulta-beauty-next-104151146.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-ulta-beauty-next-104151146.html</guid>
-      <pubDate>27/04/2026 16:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bdc4ecb3151e3f740184665f9e865d63" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
