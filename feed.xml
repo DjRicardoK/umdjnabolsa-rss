@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 08:29:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 08:39:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de tecnologia hoje: as ações da Qualcomm disparam, a Nvidia ultrapassa US $ 5 trilhões novamente, com...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-magnificent-seven-113535737.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-magnificent-seven-113535737.html</guid>
+      <pubDate>27/04/2026 08:39</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/VWEMqYqrPB3ZH1d281pRig--~B/aD0yMTM4O3c9MzIwNzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/bc51f65f-9e17-4d44-8ae9-840701b66e9f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A SEC teme que estejamos presos a um pensamento de curto prazo. Tesla e Amazon provam que os investidores...</title>
       <description>A divulgação semestral de lucros tenta “consertar” um problema que as histórias de sucesso do mercado já resolveram.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/marqeta-mq-one-best-growth-210647961.html</guid>
       <pubDate>27/04/2026 05:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/565e885b1b1e6a17dcedf30c45ec20dc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que o JPMorgan está dizendo aos investidores para continuarem comprando nas quedas, mesmo quando o...</title>
-      <description>Os investidores deveriam usar qualquer fraqueza induzida geopolíticamente como oportunidades de compra, diz o JPMorgan. As expectativas de taxas deverão diminuir no segundo...</description>
-      <link>https://www.marketwatch.com/story/why-jpmorgan-is-telling-investors-to-keep-buying-the-dips-even-as-market-hits-new-highs-4c8b7763?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/why-jpmorgan-is-telling-investors-to-keep-buying-the-dips-even-as-market-hits-new-highs-4c8b7763?mod=mw_rss_topstories</guid>
-      <pubDate>27/04/2026 05:44</pubDate>
-      <enclosure url="https://images.mktw.net/im-48518658" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
