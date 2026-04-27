@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 23:21:34 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 23:28:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Exclusive-SpaceX alerta que investigações sobre imagens de IA sexualmente abusivas podem prejudicar o acesso...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/exclusivespacex-warns-that-inquiries-into-sexually-abusive-ai-imagery-may-hurt-market-access-4637550</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusivespacex-warns-that-inquiries-into-sexually-abusive-ai-imagery-may-hurt-market-access-4637550</guid>
+      <pubDate>26/04/2026 23:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3M1HV_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Departamento de Estado exclusivo dos EUA ordena alerta global sobre supostos roubos de IA pela DeepSeek e...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rbc-capital-reduces-pt-chipotle-223818699.html</guid>
       <pubDate>26/04/2026 19:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b81a859b45533ff4280a6d306633720c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Cerebras Systems perto do IPO, aqui está o que isso significa para a Nvidia (NVDA)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-close-ipo-means-223222531.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-close-ipo-means-223222531.html</guid>
-      <pubDate>26/04/2026 19:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
