@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 14:23:59 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 14:26:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Weatherford International atingem alta de 52 semanas em 110,6 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/weatherford-international-stock-hits-52week-high-at-1106-usd-93CH-4639574</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/weatherford-international-stock-hits-52week-high-at-1106-usd-93CH-4639574</guid>
+      <pubDate>27/04/2026 14:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Google vai aumentar investimento antrópico; OpenAI, parceria Microsoft Shake Up</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-facing-uk-antitrust-lawsuit-from-slack-over-teams-bundling-4639460</guid>
       <pubDate>27/04/2026 12:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q12T_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Paramount busca aprovação da FCC para investidores estrangeiros que ajudam a financiar a aquisição da Warner...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/paramount-seeks-fcc-approval-for-foreign-investors-helping-fund-warner-bros-acquisition-4639461</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/paramount-seeks-fcc-approval-for-foreign-investors-helping-fund-warner-bros-acquisition-4639461</guid>
-      <pubDate>27/04/2026 12:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q12U_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
