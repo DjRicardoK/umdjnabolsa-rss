@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 17:04:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:10:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do ouro perderam quase 11% desde o início da guerra no Irão. Razões para comprar o metal estão se...</title>
+      <description>Os elevados preços do petróleo deverão contribuir para o abrandamento do crescimento do PIB, aumentando o apelo do ouro.</description>
+      <link>https://www.marketwatch.com/story/gold-prices-have-lost-nearly-11-since-the-iran-war-began-reasons-to-buy-the-metal-are-piling-up-again-87cc5158?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/gold-prices-have-lost-nearly-11-since-the-iran-war-began-reasons-to-buy-the-metal-are-piling-up-again-87cc5158?mod=mw_rss_topstories</guid>
+      <pubDate>27/04/2026 17:10</pubDate>
+      <enclosure url="https://images.mktw.net/im-22631629" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da CrowdStrike</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/why-individual-investors-are-cautious-ahead-of-earnings-for-microsoft-amazon-and-the-rest-of-the-magnificent-seven-c4a92504?mod=mw_rss_topstories</guid>
       <pubDate>27/04/2026 15:07</pubDate>
       <enclosure url="https://images.mktw.net/im-76455447" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As melhores taxas de conta do mercado monetário hoje, 26 de abril de 2026 (a melhor conta oferece 4,01% APY)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-april-26-2026-100000980.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-april-26-2026-100000980.html</guid>
-      <pubDate>27/04/2026 15:06</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e3d4f60-1cdc-11f0-b66f-8aec820566bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
