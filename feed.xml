@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 18:13:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 19:09:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Melhor mais tarde do que nunca? As ações da Tesla estão na mira enquanto o Cybercab finalmente entra em...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/better-later-never-tesla-stock-140002269.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/better-later-never-tesla-stock-140002269.html</guid>
+      <pubDate>27/04/2026 19:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0092cb611925d2a4d0382be68cd52ee4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BofA reitera classificação das ações da Catalyst Pharmaceuticals no relatório de fusões e aquisições</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/theres-a-pizza-price-war-going-on-and-dominos-is-feeling-the-pain-99487d92?mod=mw_rss_topstories</guid>
       <pubDate>27/04/2026 15:42</pubDate>
       <enclosure url="https://images.mktw.net/im-39573642" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Elon Musk está prestes a ficar muito mais rico. Valeu a pena as dores de cabeça.</title>
-      <description>Musk teve de esperar oito anos, mas finalmente conseguiu os direitos sobre as 304 milhões de ações que lhe foram atribuídas como parte do pacote de compensação de 2018.</description>
-      <link>https://www.marketwatch.com/story/elon-musk-is-about-to-get-a-lot-richer-it-was-worth-the-headaches-49a64535?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/elon-musk-is-about-to-get-a-lot-richer-it-was-worth-the-headaches-49a64535?mod=mw_rss_topstories</guid>
-      <pubDate>27/04/2026 15:34</pubDate>
-      <enclosure url="https://images.mktw.net/im-38884311" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
