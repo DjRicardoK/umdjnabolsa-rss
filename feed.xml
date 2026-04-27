@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 26 Apr 2026 21:47:51 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 21:57:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ‘Tive uma ideia totalmente errada’: Warren Buffett pensava que prever o mercado era tudo - até ler este livro</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/had-whole-wrong-idea-warren-141500813.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/had-whole-wrong-idea-warren-141500813.html</guid>
+      <pubDate>26/04/2026 21:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/5d9fbb73815104ab12ecc3b2d7ae9780" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita da DDC no quarto trimestre de 2025 dispara, lucro por...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-google-earnings-ai-iran-talks/?src=A00220&yptr=yahoo</guid>
       <pubDate>26/04/2026 17:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/47aaa52efcced0122c4ef8c46d77f0ab" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O senador Thom Tillis abandona a oposição e diz que apoiará a confirmação de Kevin Warsh pelo Fed</title>
-      <description>O senador Thom Tills disse no domingo que está pronto para apoiar a confirmação de Kevin Warsh como o novo presidente do Federal Reserve, agora que o Departamento de Justiça...</description>
-      <link>https://www.marketwatch.com/story/sen-thom-tillis-drops-opposition-says-hell-back-kevin-warshs-fed-confirmation-b7252136?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/sen-thom-tillis-drops-opposition-says-hell-back-kevin-warshs-fed-confirmation-b7252136?mod=mw_rss_topstories</guid>
-      <pubDate>26/04/2026 17:08</pubDate>
-      <enclosure url="https://images.mktw.net/im-93108388" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
