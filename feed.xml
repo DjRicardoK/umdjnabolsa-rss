@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 12:23:07 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 12:23:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Cementos Pacasmayo supera previsão de EPS do primeiro trimestre...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-cementos-pacasmayo-beats-q1-2026-eps-forecast-stock-up-93CH-4639440</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cementos-pacasmayo-beats-q1-2026-eps-forecast-stock-up-93CH-4639440</guid>
+      <pubDate>27/04/2026 12:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Norwood Financial Corp perde previsão de lucros do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/watsco-faces-earnings-test-as-distributor-eyes-posttransition-rebound-93CH-4639266</guid>
       <pubDate>27/04/2026 11:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA601E0_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Simpson Manufacturing: As margens podem compensar os problemas imobiliários?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/simpson-manufacturing-earnings-can-margins-offset-housing-woes-93CH-4639268</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/simpson-manufacturing-earnings-can-margins-offset-housing-woes-93CH-4639268</guid>
-      <pubDate>27/04/2026 11:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
