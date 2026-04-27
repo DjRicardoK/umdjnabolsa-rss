@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:51:55 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:52:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Heartland Express atingem o máximo de 52 semanas a 13,24 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/heartland-express-stock-hits-52week-high-at-1324-usd-93CH-4639117</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/heartland-express-stock-hits-52week-high-at-1324-usd-93CH-4639117</guid>
+      <pubDate>27/04/2026 10:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Axsome Therapeutics atingem o máximo histórico de 191,69 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-price-today-monday-april-27-2026-prices-hold-ahead-of-potential-peace-talks-and-fed-meeting-114927492.html</guid>
       <pubDate>27/04/2026 09:01</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/8IgKHs0.oTwPcn40eBVnmg--~B/aD00MDg7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_1_3688.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Citi impulsionará equipes de bancos de investimento no Japão e na China e planeja contratações seniores com...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/citi-to-boost-japan-china-investment-banking-teams-plans-senior-sectorfocused-hires-4638566</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/citi-to-boost-japan-china-investment-banking-teams-plans-senior-sectorfocused-hires-4638566</guid>
-      <pubDate>27/04/2026 08:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0QC_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
