@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 05:16:12 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 05:41:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BofA reitera classificação das ações da Nvidia sobre potencial de retorno aos acionistas</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bofa-reiterates-nvidia-stock-rating-on-shareholder-return-potential-93CH-4637861</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-nvidia-stock-rating-on-shareholder-return-potential-93CH-4637861</guid>
+      <pubDate>27/04/2026 05:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inquérito do BCE mostra poucos sinais de efeitos inflacionários de segunda ordem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/oil-jumps-stock-futures-slip-as-usiran-talks-stall-4637501</guid>
       <pubDate>27/04/2026 00:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3P0FK_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Peças originais do primeiro trimestre de 2026 superam as...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-genuine-parts-q1-2026-beats-expectations-stock-dips-93CH-4637578</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-genuine-parts-q1-2026-beats-expectations-stock-dips-93CH-4637578</guid>
-      <pubDate>27/04/2026 00:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
