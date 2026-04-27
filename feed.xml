@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 00:32:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 00:48:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Ásia: Nikkei e KOSPI atingiram máximos recordes acompanhando Wall St; As tensões no Irão permanecem</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-hit-record-highs-tracking-wall-st-iran-tensions-remain-4637582</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-hit-record-highs-tracking-wall-st-iran-tensions-remain-4637582</guid>
+      <pubDate>27/04/2026 00:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEABM09Q_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os ganhos da RTX no primeiro trimestre de 2026 mostram forte...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-advances-as-usiran-talks-suffer-setback-4637530</guid>
       <pubDate>26/04/2026 22:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q01F_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Analistas da Roth Capital: O que mais importa para as ações da Tesla agora não é a Tesla… é a SpaceX</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/roth-capital-analysts-matters-most-140002363.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/roth-capital-analysts-matters-most-140002363.html</guid>
-      <pubDate>26/04/2026 22:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d359d8594ff0023d477e0873b4f785ef" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
