@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 02:16:47 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 02:16:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco da Inglaterra manterá as taxas inalteradas enquanto avalia o impacto da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bank-of-england-to-keep-rates-on-hold-while-it-gauges-impact-of-iran-war-4637608</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-england-to-keep-rates-on-hold-while-it-gauges-impact-of-iran-war-4637608</guid>
+      <pubDate>27/04/2026 02:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q08L_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro industrial da China aumenta 15,8% em março em meio a tensões globais</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/china-holds-livefire-drills-in-waters-near-luzon-as-us-philippines-stage-war-games-4637545</guid>
       <pubDate>26/04/2026 23:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos da Intel confirmam que a demanda por CPU está ultrapassando a oferta, mas a empresa realmente tem...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/intel-earnings-confirm-cpu-demand-153002223.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-earnings-confirm-cpu-demand-153002223.html</guid>
-      <pubDate>26/04/2026 22:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fa34ffabb30933c9de6fa5fe37361c9d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
