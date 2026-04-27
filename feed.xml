@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:07:34 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 16:12:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Uma inflação mais alta está a caminho. O Fed precisa deixar isso mais claro antes de aumentar as taxas.</title>
+      <description>A comunicação da Fed deverá ajudar os investidores a gerir o risco – incluindo a possibilidade de as taxas subirem.</description>
+      <link>https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories</guid>
+      <pubDate>27/04/2026 16:12</pubDate>
+      <enclosure url="https://images.mktw.net/im-28127124" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da Micron e da Sandisk podem subir ainda mais graças a um modelo de assinatura semelhante ao software</title>
       <description>A memória é crucial para o desenvolvimento da IA, e um analista vê clientes garantindo o fornecimento com “assinaturas”.</description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/amazon-lands-exclusive-deal-for-oprah-winfreys-podcast-93CH-4639550</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/amazon-lands-exclusive-deal-for-oprah-winfreys-podcast-93CH-4639550</guid>
       <pubDate>27/04/2026 14:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Truist reitera compra de ações da Microsoft, meta de US$ 675 em meio à mudança da OpenAI</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-microsoft-stock-675-target-amid-openai-shift-93CH-4639548</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-microsoft-stock-675-target-amid-openai-shift-93CH-4639548</guid>
-      <pubDate>27/04/2026 13:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
