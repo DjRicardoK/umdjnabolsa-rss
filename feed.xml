@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 06:25:14 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 06:44:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A aquisição de US$ 2 bilhões da Meta é bloqueada pela China. Em primeiro lugar, o que era o acordo.</title>
+      <description>A Meta Platforms sofreu um revés na segunda-feira quando um acordo para adquirir uma empresa focada em produtos autônomos de inteligência artificial foi bloqueado.</description>
+      <link>https://www.marketwatch.com/story/metas-2-billion-acquisition-gets-blocked-by-china-what-the-deal-was-all-about-in-the-first-place-bbdc7b98?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/metas-2-billion-acquisition-gets-blocked-by-china-what-the-deal-was-all-about-in-the-first-place-bbdc7b98?mod=mw_rss_topstories</guid>
+      <pubDate>27/04/2026 06:44</pubDate>
+      <enclosure url="https://images.mktw.net/im-08068189" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BoE espera manter taxas apesar das preocupações com a inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-preview-april-hawkish-hold-expected-amid-inflation-meast-uncertainty-4637583</guid>
       <pubDate>27/04/2026 01:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC2L077_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Ásia: Nikkei e KOSPI atingiram máximos recordes acompanhando Wall St; As tensões no Irão permanecem</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-hit-record-highs-tracking-wall-st-iran-tensions-remain-4637582</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-nikkei-kospi-hit-record-highs-tracking-wall-st-iran-tensions-remain-4637582</guid>
-      <pubDate>27/04/2026 00:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEABM09Q_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
