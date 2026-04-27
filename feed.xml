@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 06:44:08 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 06:45:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Devyser Diagnostics Q1 2026 mostra crescimento robusto</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-devyser-diagnostics-q1-2026-shows-robust-growth-93CH-4637998</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-devyser-diagnostics-q1-2026-shows-robust-growth-93CH-4637998</guid>
+      <pubDate>27/04/2026 06:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A aquisição de US$ 2 bilhões da Meta é bloqueada pela China. Em primeiro lugar, o que era o acordo.</title>
       <description>A Meta Platforms sofreu um revés na segunda-feira quando um acordo para adquirir uma empresa focada em produtos autônomos de inteligência artificial foi bloqueado.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/factboxgoldman-sachs-lifts-oil-price-forecasts-on-weaker-middle-east-output-4637590</guid>
       <pubDate>27/04/2026 01:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3C0NQ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Prévia do BOJ, abril: espera-se uma manutenção agressiva em meio à inflação e incerteza no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/boj-preview-april-hawkish-hold-expected-amid-inflation-meast-uncertainty-4637583</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-preview-april-hawkish-hold-expected-amid-inflation-meast-uncertainty-4637583</guid>
-      <pubDate>27/04/2026 01:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC2L077_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
