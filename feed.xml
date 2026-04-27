@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:08:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:08:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bernstein reitera classificação das ações da Zillow sobre perspectiva de ganho de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bernstein-reiterates-zillow-stock-rating-on-share-gain-outlook-93CH-4638910</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-zillow-stock-rating-on-share-gain-outlook-93CH-4638910</guid>
+      <pubDate>27/04/2026 10:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Morgan Stanley reitera Equalweight nas ações da Domino’s Pizza em US$ 430</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-steady-as-dollar-drifts-amid-iran-jitters-fed-anticipation-4637674</guid>
       <pubDate>27/04/2026 07:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAH0G6_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Galp Energia 1º trimestre de 2026 apresenta desempenho robusto...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-galp-energia-q1-2026-sees-robust-performance-amid-challenges-93CH-4638320</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-galp-energia-q1-2026-sees-robust-performance-amid-challenges-93CH-4638320</guid>
-      <pubDate>27/04/2026 07:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
