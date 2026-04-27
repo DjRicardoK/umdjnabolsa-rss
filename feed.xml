@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 11:39:40 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 11:52:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Microsoft e OpenAI não estão se separando. Mas eles não são mais exclusivos.</title>
+      <description>As empresas concordaram com um acordo que, segundo elas, lhes dá mais flexibilidade. Como parte disso, a Microsoft deixará de compartilhar suas receitas.</description>
+      <link>https://www.marketwatch.com/story/microsoft-and-openai-arent-breaking-up-but-theyre-not-exclusive-anymore-47d17848?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/microsoft-and-openai-arent-breaking-up-but-theyre-not-exclusive-anymore-47d17848?mod=mw_rss_topstories</guid>
+      <pubDate>27/04/2026 11:52</pubDate>
+      <enclosure url="https://images.mktw.net/im-709709" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE (CORZ): O bilionário Howard Marks mantém posição otimista</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/tesla-stock-elon-musk-robotaxi/?src=A00220&yptr=yahoo</guid>
       <pubDate>27/04/2026 11:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/24d64fd18b50aae5a00211516ebd6bec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Asbury Automotive sobem em meio ao teste de transformação</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/asbury-automotive-earnings-on-deck-amid-transformation-test-93CH-4639167</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/asbury-automotive-earnings-on-deck-amid-transformation-test-93CH-4639167</guid>
-      <pubDate>27/04/2026 10:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
