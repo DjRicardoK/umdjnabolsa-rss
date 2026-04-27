@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 09:52:49 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 09:52:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A estratégia de valor de grande capitalização da RS acredita que os investimentos de longo prazo da Mattel...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/rs-large-cap-value-strategy-123923836.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rs-large-cap-value-strategy-123923836.html</guid>
+      <pubDate>27/04/2026 09:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2678c515e0a6c1082759b9606b643c42" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O que torna a FedEx Corporation (FDX) uma escolha de investimento?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-as-powell-prepares-for-possible-swan-song-4638159</guid>
       <pubDate>27/04/2026 07:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0K3_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco do Canadá deve manter as taxas em 2,25%, já que o choque do petróleo provavelmente terá vida curta</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/bank-of-canada-set-to-hold-rates-at-225-as-oil-shock-likely-shortlived-4638158</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-canada-set-to-hold-rates-at-225-as-oil-shock-likely-shortlived-4638158</guid>
-      <pubDate>27/04/2026 07:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0K6_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
