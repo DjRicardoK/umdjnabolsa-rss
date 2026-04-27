@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:06:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 10:08:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Morgan Stanley reitera Equalweight nas ações da Domino’s Pizza em US$ 430</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-equalweight-on-dominos-pizza-stock-at-430-93CH-4638911</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-equalweight-on-dominos-pizza-stock-at-430-93CH-4638911</guid>
+      <pubDate>27/04/2026 10:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita da Medicure no quarto trimestre de 2025 sobe, ações caem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-galp-energia-q1-2026-sees-robust-performance-amid-challenges-93CH-4638320</guid>
       <pubDate>27/04/2026 07:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Enquanto o Novo México investiga Epstein, sobreviventes locais se apresentam</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/as-new-mexico-probes-epstein-local-survivors-come-forward-4638160</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/as-new-mexico-probes-epstein-local-survivors-come-forward-4638160</guid>
-      <pubDate>27/04/2026 07:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0JW_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
