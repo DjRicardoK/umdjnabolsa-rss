@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 16:45:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 16:54:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Navitas (NVTS) sobe 40% à medida que os investidores se posicionam antes dos lucros do primeiro trimestre</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/navitas-nvts-soars-40-investors-104930274.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/navitas-nvts-soars-40-investors-104930274.html</guid>
+      <pubDate>27/04/2026 16:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Power Integrations (POWI) sobe 25% antes do resultado dos ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/data-center-stocks-sanmina-amd-servers-ai-artificial-intelligence/?src=A00220&yptr=yahoo</guid>
       <pubDate>27/04/2026 14:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/571786716f5729a7e84df2731b8af419" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Outro ex-touro joga a toalha nas ações da Adobe. Aqui está o estoque de software que ele agora prefere.</title>
-      <description>O analista da Mizuho, ​​Gregg Moskowitz, rebaixou as ações da Adobe para neutras de desempenho superior e atualizou as ações da CrowdStrike para desempenho superior de neutras na...</description>
-      <link>https://www.marketwatch.com/story/another-former-bull-throws-in-the-towel-on-adobes-stock-heres-the-software-stock-he-now-favors-4597c611?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/another-former-bull-throws-in-the-towel-on-adobes-stock-heres-the-software-stock-he-now-favors-4597c611?mod=mw_rss_topstories</guid>
-      <pubDate>27/04/2026 14:29</pubDate>
-      <enclosure url="https://images.mktw.net/im-07536670" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
