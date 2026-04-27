@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 07:28:08 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:28:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fed provavelmente manterá as taxas estáveis ​​enquanto Powell se prepara para um possível canto do cisne</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-as-powell-prepares-for-possible-swan-song-4638159</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-as-powell-prepares-for-possible-swan-song-4638159</guid>
+      <pubDate>27/04/2026 07:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0K3_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco do Canadá deve manter as taxas em 2,25%, já que o choque do petróleo provavelmente terá vida curta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-097-4637693</guid>
       <pubDate>27/04/2026 04:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB5S0BG_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Barclays atualiza classificação das ações da Kingfisher em relação risco-recompensa equilibrado</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/barclays-upgrades-kingfisher-stock-rating-on-balanced-riskreward-93CH-4637681</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-upgrades-kingfisher-stock-rating-on-balanced-riskreward-93CH-4637681</guid>
-      <pubDate>27/04/2026 03:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
