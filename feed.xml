@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 14:40:19 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 14:47:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A administração Trump aguarda com expectativa o trabalho do Senado na confirmação do presidente do Warsh Fed</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/trump-administration-looks-forward-to-senate-work-on-warsh-fed-chair-confirmation-93CH-4639588</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-administration-looks-forward-to-senate-work-on-warsh-fed-chair-confirmation-93CH-4639588</guid>
+      <pubDate>27/04/2026 14:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_6_M_1440048362.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Estoque de data center sobe 40% este mês reporta ganhos hoje</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/article/intels-26-year-comeback-is-a-warning-for-investors-chasing-todays-ai-winners-chart-of-the-day-155124778.html</guid>
       <pubDate>27/04/2026 13:02</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/7hDI1FNVjm8SFwmm_02HYg--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/e0ce76bc-069e-4f1f-b1dc-dd128519922a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Wedbush reitera classificação das ações da Microsoft quanto à clareza do acordo OpenAI</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/wedbush-reiterates-microsoft-stock-rating-on-openai-deal-clarity-93CH-4639479</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/wedbush-reiterates-microsoft-stock-rating-on-openai-deal-clarity-93CH-4639479</guid>
-      <pubDate>27/04/2026 13:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Microsoft_2_M_1440048702.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
