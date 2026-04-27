@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 20:36:19 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 20:48:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer discute o desempenho recente e o resultado dos lucros da Dow Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-recent-performance-151920834.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-recent-performance-151920834.html</guid>
+      <pubDate>27/04/2026 20:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/61065709a1bdf54b4284c76a9977e4c9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Transcrição da teleconferência de resultados: Predictive Discovery Q1 2026 vê produção robusta de ouro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-dell-technologies-q1-2027-104708441.html</guid>
       <pubDate>27/04/2026 16:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/51ef4d346eaaed7b3656c3cf333cd3e7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do segundo trimestre de 2026 da Hewlett Packard Enterprise</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/expect-hewlett-packard-enterprise-q2-105316715.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-hewlett-packard-enterprise-q2-105316715.html</guid>
-      <pubDate>27/04/2026 16:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ab1a628a8984279bc632bfe42c3b21cf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
