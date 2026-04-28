@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 10:34:21 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:35:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos do primeiro trimestre da Amazon destacam os gastos e receitas de IA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/article/amazon-q1-earnings-put-the-spotlight-on-ai-spending-and-revenue-132251483.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/article/amazon-q1-earnings-put-the-spotlight-on-ai-spending-and-revenue-132251483.html</guid>
+      <pubDate>28/04/2026 10:34</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/1Pn29VOEmhSQkhZTIOn5BA--~B/aD0yNzU0O3c9NDg5NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a1644a8b-3451-4cbb-800f-4ed61ac6e24a_60078c356433860cd5b88a42d9194e809f70fcc7e3194a5e55ee9ca6e9db135e.net/images/2026-04/a1644a8b-3451-4cbb-800f-4ed61ac6e24a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Emirados Árabes Unidos abandonam a OPEP. Eis o que isso significa para os preços do petróleo e para a...</title>
       <description>A decisão dos Emirados Árabes Unidos, na terça-feira, de abandonar a Organização dos Países Exportadores de Petróleo é um sinal de que o cartel está a perder o controlo sobre a...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-28-2026-values-falling-ahead-of-fed-meeting-114535390.html</guid>
       <pubDate>28/04/2026 08:52</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/R4fhNy.vnr_QIatr9RUOpQ--~B/aD00MDU7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ethereum_%20_bitcoin_2_2928.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Espero que as ações do Bancorp caiam 2% depois de superar os lucros, pois a receita fica aquém</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/hope-bancorp-stock-falls-2-after-beats-earnings-as-revenue-falls-short-93CH-4641162</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/hope-bancorp-stock-falls-2-after-beats-earnings-as-revenue-falls-short-93CH-4641162</guid>
-      <pubDate>28/04/2026 08:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
