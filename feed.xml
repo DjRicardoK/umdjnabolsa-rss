@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 03:27:13 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 03:50:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE SSAB supera estimativas de lucros do primeiro trimestre sobre a força da Europa e das Américas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/ssab-tops-firstquarter-earnings-estimates-on-europe-americas-strength-4640351</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/ssab-tops-firstquarter-earnings-estimates-on-europe-americas-strength-4640351</guid>
+      <pubDate>28/04/2026 03:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC7E0NY_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Domino’s Pizza Australia caem após lucros suaves do proprietário da marca nos EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-project-kuiper-could-165355097.html</guid>
       <pubDate>28/04/2026 01:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bf5db36a1da6774e5e796de67b414473" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Honeywell (HON) é uma das ações a serem compradas antes do IPO da SpaceX</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-one-stocks-buy-165422842.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-one-stocks-buy-165422842.html</guid>
-      <pubDate>28/04/2026 01:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ad32e889e163b3a7c5fc1c720624cf38" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
