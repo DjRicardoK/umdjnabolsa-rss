@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:00:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 12:00:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Applied Industrial Technologies, terceiro trimestre de 2026,...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-applied-industrial-technologies-q3-2026-sees-record-sales-93CH-4642134</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-applied-industrial-technologies-q3-2026-sees-record-sales-93CH-4642134</guid>
+      <pubDate>28/04/2026 12:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Noruega sobem no fechamento do pregão; Oslo OBX sobe 0,19%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-boeing-stock-rating-on-production-progress-93CH-4641944</guid>
       <pubDate>28/04/2026 11:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla Rival BYD relata ganhos decrescentes. A China EV Giant está apostando na recuperação do Flash.</title>
-      <description></description>
-      <link>https://www.investors.com/news/tesla-rival-byd-earnings-china-ev-giant/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/tesla-rival-byd-earnings-china-ev-giant/?src=A00220&yptr=yahoo</guid>
-      <pubDate>28/04/2026 11:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/1dbb41b046a58536e1ac1e186819812e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
