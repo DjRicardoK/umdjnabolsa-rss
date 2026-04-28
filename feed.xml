@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 21:58:21 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 22:11:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do petróleo sobem enquanto o impasse da guerra no Irão não parece à vista</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/oil-prices-rise-as-no-end-to-iran-war-standoff-seems-in-sight-4640185</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-rise-as-no-end-to-iran-war-standoff-seems-in-sight-4640185</guid>
+      <pubDate>27/04/2026 22:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R027_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Califórnia está um passo mais perto do primeiro imposto sobre a riqueza bilionária da América – e a divisão...</title>
       <description>Este ano parece ser um marco para os impostos estaduais sobre a renda, após as grandes mudanças do ano passado nos impostos federais sobre a renda.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/cameco-corporation-ccj-one-best-141557484.html</guid>
       <pubDate>27/04/2026 19:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3d20326d6ca50812c875e9add574d7ff" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Melhor mais tarde do que nunca? As ações da Tesla estão na mira enquanto o Cybercab finalmente entra em...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/better-later-never-tesla-stock-140002269.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/better-later-never-tesla-stock-140002269.html</guid>
-      <pubDate>27/04/2026 19:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0092cb611925d2a4d0382be68cd52ee4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
