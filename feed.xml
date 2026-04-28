@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 15:57:47 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 16:09:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bitcoin enfrenta semana de políticas pesadas com presidente da SEC, decisão do Fed em foco</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-policy-heavy-week-100216290.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-policy-heavy-week-100216290.html</guid>
+      <pubDate>28/04/2026 16:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ccn_928/f97df3675e5a35ad7cc65f5906020c9b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Estoques de embalagens aumentam após aumento de preço da Smurfit Westrock</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/factbox-airlines-cancel-flights-us-123532820.html</guid>
       <pubDate>28/04/2026 14:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/d3f56ed79eace3ea2a8535131c4d02b9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Alphabet mostra força à medida que o crescimento da OpenAI preocupa as ações da Sink Tech; Lucros futuros</title>
-      <description></description>
-      <link>https://www.investors.com/research/alphabet-google-stock-ai-openai-markets-earnings-tech/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/alphabet-google-stock-ai-openai-markets-earnings-tech/?src=A00220&yptr=yahoo</guid>
-      <pubDate>28/04/2026 14:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/9c483d389180bc4333203fd6918282f2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
