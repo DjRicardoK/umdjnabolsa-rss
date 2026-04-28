@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 10:32:58 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:33:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Inventrust Properties Corp atingem o máximo histórico de 33,19 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/inventrust-properties-corp-stock-hits-alltime-high-of-3319-usd-93CH-4641718</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/inventrust-properties-corp-stock-hits-alltime-high-of-3319-usd-93CH-4641718</guid>
+      <pubDate>28/04/2026 10:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Brown &amp; Brown atingem baixa de 52 semanas em 63,28 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/bp-q1-2026-earnings-double-112910535.html</guid>
       <pubDate>28/04/2026 08:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/quartz_855/6e464cd825d9e64a88d07b59a8a259a7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O indicado para presidente do Fed, Kevin Warsh, acabou de jogar Jerome Powell debaixo do ônibus e sinalizou...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/fed-chair-nominee-kevin-warsh-112600305.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-chair-nominee-kevin-warsh-112600305.html</guid>
-      <pubDate>28/04/2026 08:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/4913b7e095d217011248f7ddb1b6b1b2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
