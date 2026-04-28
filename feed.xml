@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 10:45:55 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:46:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Impulsionou os ganhos das marcas à medida que a crise de credibilidade se aprofunda</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/driven-brands-earnings-on-deck-as-credibility-crisis-deepens-93CH-4641796</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/driven-brands-earnings-on-deck-as-credibility-crisis-deepens-93CH-4641796</guid>
+      <pubDate>28/04/2026 10:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nasdaq abre em baixa com novas preocupações em torno das ações de tecnologia de pressão de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/what-paul-tudor-jones-is-warning-us-against-doing-as-the-s-p-500-hits-record-heights-5fcbcbce?mod=mw_rss_topstories</guid>
       <pubDate>28/04/2026 09:11</pubDate>
       <enclosure url="https://images.mktw.net/im-02535584" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Morgan Stanley reitera excesso de peso nas ações da Smithfield Foods</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-overweight-on-smithfield-foods-stock-93CH-4641197</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-overweight-on-smithfield-foods-stock-93CH-4641197</guid>
-      <pubDate>28/04/2026 09:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
