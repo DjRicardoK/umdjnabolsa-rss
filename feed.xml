@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:31:02 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:39:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Stepan supera lucro, mas perde receita no primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/stepan-beats-earnings-but-misses-on-revenue-in-first-quarter-93CH-4641129</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/stepan-beats-earnings-but-misses-on-revenue-in-first-quarter-93CH-4641129</guid>
+      <pubDate>28/04/2026 08:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Atualizações ao vivo de ganhos: as ações da Nucor sobem à medida que os preços do aço aumentam os lucros, as...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/analysis-blocking-metas-ai-startup-094455580.html</guid>
       <pubDate>28/04/2026 07:00</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/8d669436492c08e7156508673be00e2f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Regulador do ciberespaço da China alerta aplicativos ByteDance e site sobre rotulagem de conteúdo de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/chinas-cyberspace-regulator-warns-bytedance-apps-website-over-aicontent-labelling-4640700</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-cyberspace-regulator-warns-bytedance-apps-website-over-aicontent-labelling-4640700</guid>
-      <pubDate>28/04/2026 06:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R0O5_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
