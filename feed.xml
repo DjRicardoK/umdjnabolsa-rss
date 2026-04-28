@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:07:26 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:07:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Slide Insurance enfrenta teste de lucratividade no relatório de lucros do primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/slide-insurance-faces-profitability-test-in-q1-earnings-report-93CH-4641922</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/slide-insurance-faces-profitability-test-in-q1-earnings-report-93CH-4641922</guid>
+      <pubDate>28/04/2026 11:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Q2 Holdings lança solução de automação de atendimento de tesouraria</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/belgium-food-drinks-body-warns-124258370.html</guid>
       <pubDate>28/04/2026 09:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/just_food_692/efebbde0a312f64b0f1bef586019998a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Libra hoje: Libra cai devido às dúvidas sobre o Irã, reaviva temores sobre o petróleo antes do FOMC</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/sterling-today-pound-slips-on-iran-doubts-revives-oil-fears-ahead-of-fomc-4641377</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/sterling-today-pound-slips-on-iran-doubts-revives-oil-fears-ahead-of-fomc-4641377</guid>
-      <pubDate>28/04/2026 09:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/gbp_usd_3_M_1440050997.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
