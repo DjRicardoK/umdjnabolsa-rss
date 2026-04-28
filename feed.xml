@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 18:33:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 18:42:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ultra Clean supera as previsões do primeiro trimestre de 2026,...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ultra-clean-beats-q1-2026-forecasts-stock-dips-93CH-4643200</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ultra-clean-beats-q1-2026-forecasts-stock-dips-93CH-4643200</guid>
+      <pubDate>28/04/2026 18:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que esperar do relatório de ganhos do terceiro trimestre de 2026 da Micron Technology</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-april-110002564.html</guid>
       <pubDate>28/04/2026 16:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/051cc5266a82be6bbacff9f8ab0d7744" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Lucros das grandes empresas de tecnologia, taxas do Fed, Irã. Como navegar em uma grande semana para o...</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/big-tech-earnings-fed-rates-iran-things-to-know-today-e2f34519?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/big-tech-earnings-fed-rates-iran-things-to-know-today-e2f34519?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>28/04/2026 16:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/5784876190ec58e9d04c1d5dfbb582ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
