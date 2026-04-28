@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 16:10:14 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 16:20:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações definidas para abertura silenciosa enquanto os investidores aguardam os ganhos das grandes tecnologias...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-set-muted-open-investors-103234844.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-set-muted-open-investors-103234844.html</guid>
+      <pubDate>28/04/2026 16:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fcebfc40d659e147fc2e5eab7e6cb524" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Amazon está de volta às boas graças de Wall Street. Aqui está o que determinará se ele permanecerá lá.</title>
       <description>OpenAI, Anthropic e Meta Platforms são apenas algumas das empresas que contam com suporte da Amazon.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/canaccord-reiterates-guardant-health-stock-rating-ahead-of-fda-meeting-93CH-4642571</guid>
       <pubDate>28/04/2026 14:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Aprovação exclusiva de Trump cai para um novo nível à medida que a guerra com o Irã aumenta as preocupações...</title>
-      <description></description>
-      <link>https://www.investing.com/news/politics-news/exclusivetrump-approval-sinks-to-record-low-as-war-with-iran-drives-costofliving-concerns-4642503</link>
-      <guid isPermaLink="false">https://www.investing.com/news/politics-news/exclusivetrump-approval-sinks-to-record-low-as-war-with-iran-drives-costofliving-concerns-4642503</guid>
-      <pubDate>28/04/2026 14:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R1FM_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
