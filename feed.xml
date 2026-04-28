@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 01:44:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:44:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Circle (CRCL), parceira do Grupo OSL para expandir a acessibilidade e negociação global de USDC</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/circle-crcl-osl-group-partner-171542498.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/circle-crcl-osl-group-partner-171542498.html</guid>
+      <pubDate>28/04/2026 01:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8bb28c5124495216ff7b45f970af7e89" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE GitLab (GTLB), AWS aprofunda parceria para integrar GitLab Duo ao Amazon Bedrock</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/openai-falls-short-of-revenue-and-user-targets-as-it-races-toward-ipo-wsj-reports-4640229</guid>
       <pubDate>28/04/2026 00:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R05O_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Meta se prepara para desfazer aquisição da Manus após proibição da China, relata WSJ</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/meta-prepares-to-undo-manus-acquisition-after-china-ban-wsj-reports-4640228</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/meta-prepares-to-undo-manus-acquisition-after-china-ban-wsj-reports-4640228</guid>
-      <pubDate>28/04/2026 00:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R05J_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
