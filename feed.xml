@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 01:13:30 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:18:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Honeywell (HON) é uma das ações a serem compradas antes do IPO da SpaceX</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-one-stocks-buy-165422842.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-one-stocks-buy-165422842.html</guid>
+      <pubDate>28/04/2026 01:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ad32e889e163b3a7c5fc1c720624cf38" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações asiáticas mistas: Nikkei cai após manutenção da taxa do BOJ; KOSPI atinge novo recorde</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/aurelia-metals-q3-fy26-slides-gold-guidance-upgraded-cash-flow-strengthens-93CH-4640213</guid>
       <pubDate>27/04/2026 22:56</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/a14e8194c8b519ae79310f43ada8a40d48d332226bd8b235ae990f8dfae728f1.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Greatland Resources, terceiro trimestre de 2026, mostra forte...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-greatland-resources-q3-2026-shows-strong-production-stable-stock-93CH-4640212</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-greatland-resources-q3-2026-shows-strong-production-stable-stock-93CH-4640212</guid>
-      <pubDate>27/04/2026 22:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
