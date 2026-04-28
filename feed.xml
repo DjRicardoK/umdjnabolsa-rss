@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 13:50:54 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 14:02:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Exclusivo dos EUA ordena que empresas de equipamentos de chips parem algumas remessas para Hua Hong, a...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/exclusiveus-orders-chip-equipment-companies-to-halt-some-shipments-to-hua-hong-chinas-secondlargest-chipmaker-4642457</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/exclusiveus-orders-chip-equipment-companies-to-halt-some-shipments-to-hua-hong-chinas-secondlargest-chipmaker-4642457</guid>
+      <pubDate>28/04/2026 14:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R1EU_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: S&amp;P 500 e Nasdaq afundam enquanto as ações vinculadas à OpenAI vacilam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/heres-what-will-take-center-stage-as-alphabet-gears-up-for-earnings-cfba47c3?mod=mw_rss_topstories</guid>
       <pubDate>28/04/2026 12:44</pubDate>
       <enclosure url="https://images.mktw.net/im-79837334" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Nautilus Biotechnology</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/nautilus-biotechnology-q1-earnings-call-152904737.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/nautilus-biotechnology-q1-earnings-call-152904737.html</guid>
-      <pubDate>28/04/2026 12:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/2efe47bad172be2b8e64826b9951880b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
