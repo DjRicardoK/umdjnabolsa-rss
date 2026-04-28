@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 01:44:04 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:44:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE GitLab (GTLB), AWS aprofunda parceria para integrar GitLab Duo ao Amazon Bedrock</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/gitlab-gtlb-aws-deepen-partnership-171535161.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/gitlab-gtlb-aws-deepen-partnership-171535161.html</guid>
+      <pubDate>28/04/2026 01:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bcc2d46a3c6505fdc9142ca25eee2b1a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Medline (MDLN) faz parceria com Symbotic para implementar automação de armazém baseada em IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/meta-prepares-to-undo-manus-acquisition-after-china-ban-wsj-reports-4640228</guid>
       <pubDate>28/04/2026 00:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R05J_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE International Business Machines (IBM) – Entre as 10 melhores ações de aristocratas com dividendos para...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-among-155308715.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-among-155308715.html</guid>
-      <pubDate>28/04/2026 00:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/006bcfc0bf6a5e2502bce632646ee7ea" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
