@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 19:59:34 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:59:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da construtora: D.R. Horton se destaca como tanque de vendas Pulte e NVR</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/homebuilder-earnings-d-r-horton-144000677.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/homebuilder-earnings-d-r-horton-144000677.html</guid>
+      <pubDate>28/04/2026 19:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/1094417b57ff9296750bad15dc433b0b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Apple: estimativas e classificações de analistas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/bp-shares-20-since-iran-133000793.html</guid>
       <pubDate>28/04/2026 18:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/oilprice.com/19285a48100a50a504ddf744780f7d3b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As melhores ações de crescimento de inteligência artificial (IA) para comprar na Nasdaq enquanto a alta...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/best-artificial-intelligence-ai-growth-132000541.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/best-artificial-intelligence-ai-growth-132000541.html</guid>
-      <pubDate>28/04/2026 18:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/b4fd725f9d839d958d3eadb839c84d0f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
