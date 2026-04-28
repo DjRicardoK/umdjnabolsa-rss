@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:48:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:49:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 da Crown (CCK)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/crown-cck-q1-2026-earnings-144035803.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/crown-cck-q1-2026-earnings-144035803.html</guid>
+      <pubDate>28/04/2026 11:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Bausch + Lomb à frente: a recuperação cirúrgica pode ganhar força?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/oracle-stock-ai-stocks-openai-revenue-miss/?src=A00220&yptr=yahoo</guid>
       <pubDate>28/04/2026 11:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/110051c603f16ccb57256686a8e82446" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O déficit federal é uma bagunça – mas consertar a Previdência Social pode ajudar muito</title>
-      <description>É uma boa política e restauraria a confiança no programa mais importante da América</description>
-      <link>https://www.marketwatch.com/story/the-federal-deficit-is-a-mess-but-fixing-social-security-could-help-a-lot-7f8bee52?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-federal-deficit-is-a-mess-but-fixing-social-security-could-help-a-lot-7f8bee52?mod=mw_rss_topstories</guid>
-      <pubDate>28/04/2026 11:01</pubDate>
-      <enclosure url="https://images.mktw.net/im-08359467" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
