@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:29:28 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 00:29:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco do Japão mantém taxas estáveis, mas três membros do conselho discordam e pedem aumento</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/boj-keeps-rates-steady-but-3-board-members-dissent-call-for-hike-4640230</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-keeps-rates-steady-but-3-board-members-dissent-call-for-hike-4640230</guid>
+      <pubDate>28/04/2026 00:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R065_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco do Japão mantém taxas de juros estáveis; sinaliza mais aumentos de taxas em meio a riscos de inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-edge-higher-with-iran-talks-cbank-meetings-in-focus-4640164</guid>
       <pubDate>27/04/2026 21:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1L0SQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fundos Corre vendem US$ 1,88 milhão em ações da NN Inc (NASDAQ:NNBR)</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/corre-funds-sell-188m-in-nn-inc-nasdaqnnbr-shares-93CH-4640165</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/corre-funds-sell-188m-in-nn-inc-nasdaqnnbr-shares-93CH-4640165</guid>
-      <pubDate>27/04/2026 21:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
