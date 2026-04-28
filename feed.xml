@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:17:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 00:22:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Scotiabank ajusta para cima a meta de preço da Suncor Energy (SU) e mantém o desempenho do setor</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/scotiabank-adjusts-suncor-energy-su-160351516.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/scotiabank-adjusts-suncor-energy-su-160351516.html</guid>
+      <pubDate>28/04/2026 00:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5d97a53f16f1aea0bd9ad2bfae35e924" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Linde (LIN) é uma das melhores ações de aristocratas com dividendos para comprar em 2026?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-japan-set-to-keep-rates-steady-as-iran-war-clouds-outlook-4639954</guid>
       <pubDate>27/04/2026 21:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q1EW_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE É a meca do varejo isento de impostos da China e um oásis tropical, para começar. Para Pequim isso já não é...</title>
-      <description>A província insular de Hainan tem novas ordens de marcha.</description>
-      <link>https://www.marketwatch.com/story/hainan-was-chinas-shopping-paradise-for-beijing-thats-no-longer-enough-c2535a40?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/hainan-was-chinas-shopping-paradise-for-beijing-thats-no-longer-enough-c2535a40?mod=mw_rss_topstories</guid>
-      <pubDate>27/04/2026 21:02</pubDate>
-      <enclosure url="https://images.mktw.net/im-69290517" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
