@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 15:03:28 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 15:03:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE OpenAI perde receitas importantes e metas de usuários em uma corrida de alto risco em direção ao IPO</title>
+      <description></description>
+      <link>https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>28/04/2026 15:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/wsj.com/6627927ac61d7ec0c7975940eb6d1bc0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que você deve comprar e manter Amazon.com (AMZN) pelos próximos 5 anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/exclusive-us-orders-chip-equipment-165310503.html</guid>
       <pubDate>28/04/2026 14:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/e686809f5f85823a74ee3b79f84e3611" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Barclays reitera excesso de peso nas ações da BridgeBio Pharma em US$ 157</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/barclays-reiterates-overweight-on-bridgebio-pharma-stock-at-157-93CH-4642484</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-overweight-on-bridgebio-pharma-stock-at-157-93CH-4642484</guid>
-      <pubDate>28/04/2026 14:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
