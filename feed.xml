@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 23:18:14 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 23:18:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Pantoro Ltd relata desafios operacionais do terceiro trimestre...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-pantoro-ltd-reports-q3-2026-operational-challenges-93CH-4640216</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pantoro-ltd-reports-q3-2026-operational-challenges-93CH-4640216</guid>
+      <pubDate>27/04/2026 23:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump não está satisfeito com a última proposta do Irã para acabar com a guerra, diz autoridade dos EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-holdings-spce-planning-151301428.html</guid>
       <pubDate>27/04/2026 20:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/41d0ef9a1aea395808283918d3500e1b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que torna 1-800-FLOWERS.COM (FLWS) um Penny Stocks atraente no momento</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/makes-1-800-flowers-com-151259562.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/makes-1-800-flowers-com-151259562.html</guid>
-      <pubDate>27/04/2026 20:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a209b2088c4857344539d45f5cc64bf0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
