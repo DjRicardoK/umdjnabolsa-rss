@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 19:32:15 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:37:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer discute ações da NVIDIA (NVDA)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-nvidia-nvda-142050782.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-nvidia-nvda-142050782.html</guid>
+      <pubDate>28/04/2026 19:37</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/094ee83d0d34849418ab9a78e4d78acc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Intuit (INTU) acaba de ingressar na rede de pagamentos instantâneos do Fed</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-set-break-130500385.html</guid>
       <pubDate>28/04/2026 18:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/3bc10eb78a2ac383054e2082d326b2cd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Esses 5 empregos à prova de IA estão contratando – veja quanto eles pagam e como consegui-los</title>
-      <description>As carreiras que não são tão vulneráveis ​​à IA neste momento partilham algumas características comuns: requerem presença física, formação especializada ou interação humana em...</description>
-      <link>https://www.marketwatch.com/story/these-5-ai-proof-jobs-are-hiring-heres-how-much-they-pay-and-how-to-get-them-8ef4b0f7?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/these-5-ai-proof-jobs-are-hiring-heres-how-much-they-pay-and-how-to-get-them-8ef4b0f7?mod=mw_rss_topstories</guid>
-      <pubDate>28/04/2026 18:19</pubDate>
-      <enclosure url="https://images.mktw.net/im-24069435" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
