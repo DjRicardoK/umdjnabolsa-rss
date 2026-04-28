@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:15:20 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 00:15:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE OpenAI fica aquém das metas de receita e de usuários enquanto corre em direção ao IPO, relata o WSJ</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/openai-falls-short-of-revenue-and-user-targets-as-it-races-toward-ipo-wsj-reports-4640229</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/openai-falls-short-of-revenue-and-user-targets-as-it-races-toward-ipo-wsj-reports-4640229</guid>
+      <pubDate>28/04/2026 00:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R05O_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Meta se prepara para desfazer aquisição da Manus após proibição da China, relata WSJ</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/activist-starboard-value-takes-stake-in-ai-software-maker-dynatrace-wsj-reports-4640141</guid>
       <pubDate>27/04/2026 21:01</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q1II_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer discute o desempenho recente e o resultado dos lucros da Dow Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-recent-performance-151920834.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-recent-performance-151920834.html</guid>
-      <pubDate>27/04/2026 20:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/61065709a1bdf54b4284c76a9977e4c9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
