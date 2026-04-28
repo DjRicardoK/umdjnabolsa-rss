@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 22:11:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 22:20:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações asiáticas serpenteiam à frente dos lucros de tecnologia, BOJ aguarda</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/asian-stocks-meander-ahead-of-tech-earnings-boj-awaits-4640196</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/asian-stocks-meander-ahead-of-tech-earnings-boj-awaits-4640196</guid>
+      <pubDate>27/04/2026 22:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R029_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços do petróleo sobem enquanto o impasse da guerra no Irão não parece à vista</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sanmina-beats-q2-2026-forecasts-with-strong-eps-93CH-4640084</guid>
       <pubDate>27/04/2026 19:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Cameco Corporation (CCJ) é uma das melhores ações de energia nuclear para comprar em troca de dividendos?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/cameco-corporation-ccj-one-best-141557484.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/cameco-corporation-ccj-one-best-141557484.html</guid>
-      <pubDate>27/04/2026 19:21</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3d20326d6ca50812c875e9add574d7ff" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
