@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 19:37:14 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:38:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A ação financeira que vence quer as taxas de juros subam ou caiam</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/financial-stock-wins-whether-interest-142500091.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/financial-stock-wins-whether-interest-142500091.html</guid>
+      <pubDate>28/04/2026 19:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/4db649c2b90305215f3d75606c547e0e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer discute ações da NVIDIA (NVDA)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rocky-brands-q1-2026-misses-eps-revenue-beats-93CH-4643158</guid>
       <pubDate>28/04/2026 18:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O estoque da Bloom Energy deve estourar antes dos ganhos de 28 de abril?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-set-break-130500385.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-set-break-130500385.html</guid>
-      <pubDate>28/04/2026 18:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/3bc10eb78a2ac383054e2082d326b2cd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
