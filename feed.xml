@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:39:07 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:10:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Chery da China busca ser &apos;Toyota mais Tesla&apos; ao almejar a expansão global</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/chinas-chery-seeks-to-be-toyota-plus-tesla-as-it-targets-global-expansion-4640262</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-chery-seeks-to-be-toyota-plus-tesla-as-it-targets-global-expansion-4640262</guid>
+      <pubDate>28/04/2026 01:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R075_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A TELUS (TU) é uma das 10 ações canadenses com maiores dividendos?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-whitehaven-coal-q3-2026-sees-solid-performance-93CH-4640206</guid>
       <pubDate>27/04/2026 22:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações asiáticas serpenteiam à frente dos lucros de tecnologia, BOJ aguarda</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/asian-stocks-meander-ahead-of-tech-earnings-boj-awaits-4640196</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/asian-stocks-meander-ahead-of-tech-earnings-boj-awaits-4640196</guid>
-      <pubDate>27/04/2026 22:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R029_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
