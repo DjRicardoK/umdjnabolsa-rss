@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 04:54:19 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:58:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados da Palfinger AG no primeiro trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-palfinger-ag-q1-2026-results-show-strong-growth-93CH-4640430</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-palfinger-ag-q1-2026-results-show-strong-growth-93CH-4640430</guid>
+      <pubDate>28/04/2026 04:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Amazon continuam subindo. Aqui está o último catalisador que impulsiona as ações - e uma análise...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/circle-crcl-osl-group-partner-171542498.html</guid>
       <pubDate>28/04/2026 01:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8bb28c5124495216ff7b45f970af7e89" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE GitLab (GTLB), AWS aprofunda parceria para integrar GitLab Duo ao Amazon Bedrock</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/gitlab-gtlb-aws-deepen-partnership-171535161.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/gitlab-gtlb-aws-deepen-partnership-171535161.html</guid>
-      <pubDate>28/04/2026 01:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bcc2d46a3c6505fdc9142ca25eee2b1a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
