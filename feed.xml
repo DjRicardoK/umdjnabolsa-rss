@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 17:36:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 17:37:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cenntro recupera conformidade da Nasdaq com recuperação do preço das ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cenntro-regains-nasdaq-compliance-with-stock-price-recovery-93CH-4643010</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cenntro-regains-nasdaq-compliance-with-stock-price-recovery-93CH-4643010</guid>
+      <pubDate>28/04/2026 17:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Lucros do quarto trimestre de 2026 da FedEx: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/can-meta-make-money-on-ai-beyond-consumer-ads-thats-a-big-question-going-into-earnings-ff88c78e?mod=mw_rss_topstories</guid>
       <pubDate>28/04/2026 15:44</pubDate>
       <enclosure url="https://images.mktw.net/im-23267873" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos ganhos trimestrais da Accenture: o que você precisa saber</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/accentures-quarterly-earnings-preview-know-095042621.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/accentures-quarterly-earnings-preview-know-095042621.html</guid>
-      <pubDate>28/04/2026 15:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4cb44dc6850802ae3bba4053219a95a6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
