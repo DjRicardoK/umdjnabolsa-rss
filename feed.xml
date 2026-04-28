@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 05:20:45 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 05:27:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: AddLife Q1 2026 apresenta desempenho estável apesar dos ventos...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-addlife-q1-2026-sees-stable-performance-despite-headwinds-93CH-4640454</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-addlife-q1-2026-sees-stable-performance-despite-headwinds-93CH-4640454</guid>
+      <pubDate>28/04/2026 05:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Fiserv (FISV) é uma das melhores ações de Fintech para comprar, de acordo com bilionários?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/atalaya-mining-grants-share-awards-to-executives-and-employees-93CH-4640298</guid>
       <pubDate>28/04/2026 03:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Principais bancos emitem alerta contundente sobre os preços do ouro</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/top-bank-issues-blunt-warning-181700022.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/top-bank-issues-blunt-warning-181700022.html</guid>
-      <pubDate>28/04/2026 02:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/d949488354dcaa01be9c213f79575391" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
