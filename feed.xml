@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 14:48:27 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 14:50:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Aprovação exclusiva de Trump cai para um novo nível à medida que a guerra com o Irã aumenta as preocupações...</title>
+      <description></description>
+      <link>https://www.investing.com/news/politics-news/exclusivetrump-approval-sinks-to-record-low-as-war-with-iran-drives-costofliving-concerns-4642503</link>
+      <guid isPermaLink="false">https://www.investing.com/news/politics-news/exclusivetrump-approval-sinks-to-record-low-as-war-with-iran-drives-costofliving-concerns-4642503</guid>
+      <pubDate>28/04/2026 14:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R1FM_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Factbox-Airlines cancelam voos em meio ao conflito no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-q3-2025-162549728.html</guid>
       <pubDate>28/04/2026 13:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O CEO da Intel já foi alvo de Trump por causa dos laços com a China – agora suas ações atingiram níveis...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/intels-ceo-once-targeted-trump-161000490.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intels-ceo-once-targeted-trump-161000490.html</guid>
-      <pubDate>28/04/2026 13:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/b671cdcd2028dcd71cdcdf8c0a6d4e2a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
