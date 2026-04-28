@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:20:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:20:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Benchmark reitera Hold on Meta stock antes dos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/benchmark-reiterates-hold-on-meta-stock-ahead-of-earnings-93CH-4641985</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/benchmark-reiterates-hold-on-meta-stock-ahead-of-earnings-93CH-4641985</guid>
+      <pubDate>28/04/2026 11:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE KeyBanc reitera o peso do setor nas ações da Verizon em meio a resultados mistos</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/inventrust-properties-corp-stock-hits-alltime-high-of-3319-usd-93CH-4641718</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/inventrust-properties-corp-stock-hits-alltime-high-of-3319-usd-93CH-4641718</guid>
       <pubDate>28/04/2026 10:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Brown &amp; Brown atingem baixa de 52 semanas em 63,28 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/brown--brown-stock-hits-52week-low-at-6328-usd-93CH-4641720</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/brown--brown-stock-hits-52week-low-at-6328-usd-93CH-4641720</guid>
-      <pubDate>28/04/2026 10:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
