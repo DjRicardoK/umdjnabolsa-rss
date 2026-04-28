@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 18:47:44 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 18:48:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações da BP sobem 20% desde a Guerra do Irã, liderando todas as supermajors</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/bp-shares-20-since-iran-133000793.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/bp-shares-20-since-iran-133000793.html</guid>
+      <pubDate>28/04/2026 18:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/oilprice.com/19285a48100a50a504ddf744780f7d3b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As melhores ações de crescimento de inteligência artificial (IA) para comprar na Nasdaq enquanto a alta...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ciena-earnings-preview-expect-111828690.html</guid>
       <pubDate>28/04/2026 17:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b63c711a1d81edaea11cbb32b25d904b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais de J. M. Smucker: o que você precisa saber</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-quarterly-earnings-112102281.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-quarterly-earnings-112102281.html</guid>
-      <pubDate>28/04/2026 17:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/56e518780e047d6d4131be0f8a3df6cb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
