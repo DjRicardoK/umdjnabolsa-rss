@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 06:58:54 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 06:59:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Regulador do ciberespaço da China alerta aplicativos ByteDance e site sobre rotulagem de conteúdo de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/chinas-cyberspace-regulator-warns-bytedance-apps-website-over-aicontent-labelling-4640700</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-cyberspace-regulator-warns-bytedance-apps-website-over-aicontent-labelling-4640700</guid>
+      <pubDate>28/04/2026 06:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R0O5_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do SoftBank despencam, ações de tecnologia dos EUA sob pressão devido ao relatório de metas perdidas do...</title>
       <description>As ações do Grupo SoftBank despencaram nas negociações de Tóquio, sofrendo sua pior perda percentual em um único dia em seis meses, após um relatório publicado de que a OpenAI...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ai-fears-drive-us-stock-investors-to-rethink-longterm-growth-bets-says-goldman-4640468</guid>
       <pubDate>28/04/2026 05:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R0K9_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (IPX): um dos melhores estoques de terras raras na crescente demanda por titânio</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/iperionx-ltd-ipx-one-best-211232271.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/iperionx-ltd-ipx-one-best-211232271.html</guid>
-      <pubDate>28/04/2026 05:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b180975d27aa0de3cf9b0f2d5f3fceda" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
