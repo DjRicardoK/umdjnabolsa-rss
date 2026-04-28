@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 01:44:16 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:58:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O Reddit (RDDT) é uma das melhores novas ações para investir de acordo com os fundos de hedge?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-one-best-stocks-171508302.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-one-best-stocks-171508302.html</guid>
+      <pubDate>28/04/2026 01:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a6691ab78826ce85d6fbc5e2b17f1a3a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Circle (CRCL), parceira do Grupo OSL para expandir a acessibilidade e negociação global de USDC</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/linde-lin-one-best-dividend-155518069.html</guid>
       <pubDate>28/04/2026 00:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/969332c0aa6eb97fe03285d50c3a4bdd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE OpenAI fica aquém das metas de receita e de usuários enquanto corre em direção ao IPO, relata o WSJ</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/openai-falls-short-of-revenue-and-user-targets-as-it-races-toward-ipo-wsj-reports-4640229</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/openai-falls-short-of-revenue-and-user-targets-as-it-races-toward-ipo-wsj-reports-4640229</guid>
-      <pubDate>28/04/2026 00:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R05O_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
