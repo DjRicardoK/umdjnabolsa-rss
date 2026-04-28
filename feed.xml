@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:02:58 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:07:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Q2 Holdings lança solução de automação de atendimento de tesouraria</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/q2-holdings-launches-treasury-fulfillment-automation-solution-93CH-4641924</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/q2-holdings-launches-treasury-fulfillment-automation-solution-93CH-4641924</guid>
+      <pubDate>28/04/2026 11:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Relatório de receitas da OpenAI prejudica ações de IA. Por que as ações da Oracle estão caindo drasticamente.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/sterling-today-pound-slips-on-iran-doubts-revives-oil-fears-ahead-of-fomc-4641377</guid>
       <pubDate>28/04/2026 09:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/gbp_usd_3_M_1440050997.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da JetBlue no primeiro trimestre de 2026 perdem à medida que as perdas aumentam</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jetblue-q1-2026-earnings-miss-123240577.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jetblue-q1-2026-earnings-miss-123240577.html</guid>
-      <pubDate>28/04/2026 09:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/b676fce9cc2df4ff25f5d9cf80fbcdef" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
