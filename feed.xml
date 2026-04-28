@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 17:45:04 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 17:47:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Reequilíbrio dos fundos de pensão e outros sinais de alerta que sugerem que uma retração do mercado de ações...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/pension-fund-rebalancing-other-red-120200146.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/pension-fund-rebalancing-other-red-120200146.html</guid>
+      <pubDate>28/04/2026 17:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketwatch_hosted_869/304d350788a3a6058f2fe3102d3d52d7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A briga de Trump com Jimmy Kimmel aumenta à medida que a FCC coloca a ABC sob revisão</title>
       <description>A Comissão Federal de Comunicações afirma que a sua revisão está a analisar se as iniciativas de diversidade da rede são discriminatórias, mas surge apenas um dia depois de Trump...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/iran-war-driving-europe-toward-095003682.html</guid>
       <pubDate>28/04/2026 15:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/just_auto_187/562436a49ccf0e0e7e83e8a3fb79ddd2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Zoomd Technologies no quarto trimestre de 2025 apresenta queda...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-zoomd-technologies-q4-2025-sees-sharp-revenue-dip-93CH-4642687</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-zoomd-technologies-q4-2025-sees-sharp-revenue-dip-93CH-4642687</guid>
-      <pubDate>28/04/2026 15:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
