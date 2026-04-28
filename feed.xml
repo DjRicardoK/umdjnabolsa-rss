@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 14:08:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 14:08:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Kimberly-Clark Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-corporation-q1-2026-164936646.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-corporation-q1-2026-164936646.html</guid>
+      <pubDate>28/04/2026 14:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/27622f700c5ed1a33db833fada1c98a8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Herc Holdings Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-amazon-price-target-154009955.html</guid>
       <pubDate>28/04/2026 12:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/ff11d1a7a56d94979968e8f4653a41a1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bielorrússia liberta jornalista polaco, Varsóvia liberta arqueólogo russo em troca de prisioneiros</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/belarus-frees-polish-journalist-warsaw-frees-russian-archaeologist-in-prisoner-swap-4642250</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/belarus-frees-polish-journalist-warsaw-frees-russian-archaeologist-in-prisoner-swap-4642250</guid>
-      <pubDate>28/04/2026 12:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R14T_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
