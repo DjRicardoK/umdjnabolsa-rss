@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:13:04 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:13:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bernstein reitera classificação das ações da Boeing sobre o progresso da produção</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bernstein-reiterates-boeing-stock-rating-on-production-progress-93CH-4641944</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-boeing-stock-rating-on-production-progress-93CH-4641944</guid>
+      <pubDate>28/04/2026 11:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tesla Rival BYD relata ganhos decrescentes. A China EV Giant está apostando na recuperação do Flash.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/is-microsoft-stock-on-the-verge-of-big-breakout-130712827.html</guid>
       <pubDate>28/04/2026 10:14</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/7584a630-42fe-11f1-9f7f-b71497defaeb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A GM está enfrentando a tempestade de preços mais altos do gás – por enquanto</title>
-      <description>Leva tempo para que os comportamentos de compra de automóveis dos consumidores mudem, mas o apetite por VEs poderá aumentar no caso de um conflito prolongado no Irão.</description>
-      <link>https://www.marketwatch.com/story/gm-is-weathering-the-storm-of-higher-gas-prices-for-now-0d3a20a9?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/gm-is-weathering-the-storm-of-higher-gas-prices-for-now-0d3a20a9?mod=mw_rss_topstories</guid>
-      <pubDate>28/04/2026 09:59</pubDate>
-      <enclosure url="https://images.mktw.net/im-54495550" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
