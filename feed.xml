@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 15:04:48 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 15:04:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE China ordena que Meta desfaça a compra de US$ 2 bilhões da startup de IA Manus</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/china-blocks-foreign-acquisition-ai-082440758.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/china-blocks-foreign-acquisition-ai-082440758.html</guid>
+      <pubDate>28/04/2026 15:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/5e1419e2665c2dc6bcb55ba8d9b53d55" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nenhuma mudança na taxa do Fed é esperada à medida que a mudança Powell-Warsh se aproxima. O que saber</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-corporation-q1-2026-164936646.html</guid>
       <pubDate>28/04/2026 14:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/27622f700c5ed1a33db833fada1c98a8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Herc Holdings Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/herc-holdings-inc-q1-2026-164949444.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/herc-holdings-inc-q1-2026-164949444.html</guid>
-      <pubDate>28/04/2026 14:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/b66782d1bc5a52a36d27196a151bfc7d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
