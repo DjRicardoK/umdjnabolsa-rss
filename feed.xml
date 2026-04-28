@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 14:08:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 14:08:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Herc Holdings Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/herc-holdings-inc-q1-2026-164949444.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/herc-holdings-inc-q1-2026-164949444.html</guid>
+      <pubDate>28/04/2026 14:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/b66782d1bc5a52a36d27196a151bfc7d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Exclusivo-EUA ordena que empresas de equipamentos de chips parem algumas remessas para Hua Hong, a segunda...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/belarus-frees-polish-journalist-warsaw-frees-russian-archaeologist-in-prisoner-swap-4642250</guid>
       <pubDate>28/04/2026 12:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R14T_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: JetBlue perde previsão de EPS do primeiro trimestre de 2026 em meio...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-jetblue-misses-q1-2026-eps-forecast-amid-fuel-cost-surge-93CH-4642291</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-jetblue-misses-q1-2026-eps-forecast-amid-fuel-cost-surge-93CH-4642291</guid>
-      <pubDate>28/04/2026 12:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
