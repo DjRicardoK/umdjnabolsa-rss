@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:01:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:02:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Relatório de receitas da OpenAI prejudica ações de IA. Por que as ações da Oracle estão caindo drasticamente.</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/oracle-stock-ai-stocks-openai-revenue-miss/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/oracle-stock-ai-stocks-openai-revenue-miss/?src=A00220&yptr=yahoo</guid>
+      <pubDate>28/04/2026 11:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/110051c603f16ccb57256686a8e82446" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O déficit federal é uma bagunça – mas consertar a Previdência Social pode ajudar muito</title>
       <description>É uma boa política e restauraria a confiança no programa mais importante da América</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jetblue-q1-2026-earnings-miss-123240577.html</guid>
       <pubDate>28/04/2026 09:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/quartz_855/b676fce9cc2df4ff25f5d9cf80fbcdef" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mercado de ações hoje: futuros de tecnologia são vendidos no relatório OpenAI; Broadcom, Micron, Nvidia...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-openai-nvidia-nvda-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-openai-nvidia-nvda-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>28/04/2026 09:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/4f1fa106a49c603c17f0aadb20cc8971" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
