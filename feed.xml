@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 09:31:57 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 09:35:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mercado de ações hoje: futuros de tecnologia são vendidos no relatório OpenAI; Broadcom, Micron, Nvidia...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-openai-nvidia-nvda-stock/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-openai-nvidia-nvda-stock/?src=A00220&yptr=yahoo</guid>
+      <pubDate>28/04/2026 09:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/4f1fa106a49c603c17f0aadb20cc8971" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Poderá a escassez de combustível de aviação transformar as suas férias de verão na Europa num pesadelo?</title>
       <description>Os preços dos combustíveis de aviação na Europa estão entre os efeitos mais emblemáticos da guerra EUA-Israel com o Irão e das perturbações que o conflito causou nos mercados...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/toyota-suppliers-feeling-profit-pressure-103210424.html</guid>
       <pubDate>28/04/2026 07:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/b80e3693f21bcb9cc15961fbae5408d3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Card Factory PLC vê resultados mistos no segundo semestre de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-card-factory-plc-sees-mixed-h2-2026-results-93CH-4640866</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-card-factory-plc-sees-mixed-h2-2026-results-93CH-4640866</guid>
-      <pubDate>28/04/2026 07:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
