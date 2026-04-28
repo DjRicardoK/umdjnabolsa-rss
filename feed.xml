@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:39:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:42:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O indicado para presidente do Fed, Kevin Warsh, acabou de jogar Jerome Powell debaixo do ônibus e sinalizou...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/fed-chair-nominee-kevin-warsh-112600305.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-chair-nominee-kevin-warsh-112600305.html</guid>
+      <pubDate>28/04/2026 08:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/4913b7e095d217011248f7ddb1b6b1b2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Stepan supera lucro, mas perde receita no primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-raises-nucor-stock-price-target-to-250-on-stronger-earnings-93CH-4640723</guid>
       <pubDate>28/04/2026 07:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bloqueio de análise da compra de startup de IA da Meta aumenta o risco de acordos de tecnologia...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/analysis-blocking-metas-ai-startup-094455580.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/analysis-blocking-metas-ai-startup-094455580.html</guid>
-      <pubDate>28/04/2026 07:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/8d669436492c08e7156508673be00e2f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
