@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:21:41 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 12:24:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 3 razões pelas quais o Rally da NVIDIA tem espaço para funcionar mesmo em máximos históricos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-reasons-nvidia-rally-room-151634001.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-reasons-nvidia-rally-room-151634001.html</guid>
+      <pubDate>28/04/2026 12:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Enterprise Products Partners perde a previsão de EPS do...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/brinker-earnings-up-next-can-chilis-sustain-its-sales-surge-93CH-4642080</guid>
       <pubDate>28/04/2026 11:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Kite Realty em foco conforme relatórios REIT ancorados em supermercados</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/kite-realty-earnings-in-focus-as-groceryanchored-reit-reports-93CH-4642059</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/kite-realty-earnings-in-focus-as-groceryanchored-reit-reports-93CH-4642059</guid>
-      <pubDate>28/04/2026 11:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6606G_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
