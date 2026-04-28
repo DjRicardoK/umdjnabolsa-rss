@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:35:27 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:38:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE &apos;Podemos precisar aumentar as taxas&apos;: um alto funcionário do Fed acaba de colocar um aumento das taxas de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/might-raise-rates-top-fed-142700594.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/might-raise-rates-top-fed-142700594.html</guid>
+      <pubDate>28/04/2026 11:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/0338ca398bbbc65990e9fd480d811afd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Avantor sobem enquanto a reviravolta do Revival enfrenta teste</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/what-i-wish-id-done-with-my-first-real-paycheck-after-graduating-b5fc7bcc?mod=mw_rss_topstories</guid>
       <pubDate>28/04/2026 10:44</pubDate>
       <enclosure url="https://images.mktw.net/im-32526006" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Claire’s fecha lojas restantes no Reino Unido, mais de 1.000 empregos perdidos – relatório</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/claire-shuts-remaining-uk-stores-133428836.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/claire-shuts-remaining-uk-stores-133428836.html</guid>
-      <pubDate>28/04/2026 10:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/retail_insight_network_724/e302736c605c70be3a748fa11a9ff847" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
