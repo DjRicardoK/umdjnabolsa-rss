@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 13:00:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 13:03:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro e prata despencam em meio ao impasse EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/gold-silver-plunge-amid-us-iran-stalemate-155453396.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/gold-silver-plunge-amid-us-iran-stalemate-155453396.html</guid>
+      <pubDate>28/04/2026 13:03</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/JqhALYWEyCDoVuwa_NGDsA--~B/aD0yMDMyO3c9MzA0MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/7f24619d-a3e6-4642-a123-7a6bdf2b8ba0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita da PACCAR no primeiro trimestre de 2026 supera...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-reasons-nvidia-rally-room-151634001.html</guid>
       <pubDate>28/04/2026 12:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Enterprise Products Partners perde a previsão de EPS do...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-enterprise-products-partners-misses-q1-2026-eps-forecast-revenue-surpasses-expectations-93CH-4642221</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-enterprise-products-partners-misses-q1-2026-eps-forecast-revenue-surpasses-expectations-93CH-4642221</guid>
-      <pubDate>28/04/2026 12:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
