@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:25:08 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 12:34:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do quarto trimestre do Kandi Technologies Group</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/kandi-technologies-group-q4-earnings-152903704.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kandi-technologies-group-q4-earnings-152903704.html</guid>
+      <pubDate>28/04/2026 12:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/8ba9bdf1c08d0145b5450db063db79d5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os americanos estão preocupados com os preços do gás e com a guerra do Irão, mas estão a seguir com as suas...</title>
       <description>Um inquérito sobre a confiança do consumidor subiu em Abril para o nível mais elevado deste ano, embora ainda esteja deprimido face aos padrões históricos.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/bausch--lomb-earnings-ahead-can-surgical-turnaround-gain-traction-93CH-4642077</guid>
       <pubDate>28/04/2026 11:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aumente os ganhos à medida que a demanda por microinversores enfrenta teste</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/enphase-earnings-on-deck-as-microinverter-demand-faces-test-93CH-4642079</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/enphase-earnings-on-deck-as-microinverter-demand-faces-test-93CH-4642079</guid>
-      <pubDate>28/04/2026 11:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
