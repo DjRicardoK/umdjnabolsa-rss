@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 07:09:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:17:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Barclays Q1 2026 perde previsão de lucro por ação, ações caem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-barclays-q1-2026-misses-eps-forecast-stock-dips-93CH-4640802</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-barclays-q1-2026-misses-eps-forecast-stock-dips-93CH-4640802</guid>
+      <pubDate>28/04/2026 07:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas de hipoteca e refinanciamento hoje, 28 de abril de 2026: taxas de hipoteca fixas movendo-se em direções...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-inwido-q1-2026-sees-stock-dip-amid-earnings-miss-93CH-4640593</guid>
       <pubDate>28/04/2026 06:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro da Novartis atingido pela concorrência de genéricos</title>
-      <description></description>
-      <link>https://www.wsj.com/business/novartis-could-upgrade-future-growth-outlook-55aba961?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/business/novartis-could-upgrade-future-growth-outlook-55aba961?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>28/04/2026 06:16</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/d12719b300ac6cfbc2d76a41deced88d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
