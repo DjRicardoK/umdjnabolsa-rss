@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 03:08:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 03:27:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Domino’s Pizza Australia caem após lucros suaves do proprietário da marca nos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/dominos-pizza-australia-shares-slide-after-soft-earnings-from-us-brand-owner-4640330</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/dominos-pizza-australia-shares-slide-after-soft-earnings-from-us-brand-owner-4640330</guid>
+      <pubDate>28/04/2026 03:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC9H0ML_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A guerra no Irão é o mais recente golpe para as crianças subnutridas da Somália</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/honeywell-hon-one-stocks-buy-165422842.html</guid>
       <pubDate>28/04/2026 01:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ad32e889e163b3a7c5fc1c720624cf38" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações asiáticas mistas: Nikkei cai após manutenção da taxa do BOJ; KOSPI atinge novo recorde</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-mixed-nikkei-slips-after-boj-rate-hold-kospi-hits-new-record-high-4640261</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-mixed-nikkei-slips-after-boj-rate-hold-kospi-hits-new-record-high-4640261</guid>
-      <pubDate>28/04/2026 01:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6R07D_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
