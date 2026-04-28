@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:28:47 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 00:29:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco do Japão mantém taxas de juros estáveis; sinaliza mais aumentos de taxas em meio a riscos de inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/boj-leaves-interest-rates-steady-flags-more-rate-hikes-amid-inflation-risks-4640232</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-leaves-interest-rates-steady-flags-more-rate-hikes-amid-inflation-risks-4640232</guid>
+      <pubDate>28/04/2026 00:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB1304I_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE CIBC aumenta preço-alvo do Fortis (FTS) para C$ 81, reitera desempenho superior</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/corre-funds-sell-188m-in-nn-inc-nasdaqnnbr-shares-93CH-4640165</guid>
       <pubDate>27/04/2026 21:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Vitrafy Life Sciences Q3 2026 revela forte posição de caixa</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-vitrafy-life-sciences-q3-2026-reveals-strong-cash-position-93CH-4640154</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vitrafy-life-sciences-q3-2026-reveals-strong-cash-position-93CH-4640154</guid>
-      <pubDate>27/04/2026 21:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
