@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:15:57 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 12:16:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Watsco Q1 2026 supera as previsões, quedas de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-watsco-q1-2026-beats-forecasts-stock-dips-93CH-4642208</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-watsco-q1-2026-beats-forecasts-stock-dips-93CH-4642208</guid>
+      <pubDate>28/04/2026 12:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Northeast Bank desliza no terceiro trimestre do ano fiscal de 26: lucro recorde, expansão NIM de 5,15%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sysco-q3-2026-earnings-meet-141817409.html</guid>
       <pubDate>28/04/2026 11:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/quartz_855/c0caba0ab32749d238fe9ec337f78058" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Benchmark reitera Hold on Meta stock antes dos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/benchmark-reiterates-hold-on-meta-stock-ahead-of-earnings-93CH-4641985</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/benchmark-reiterates-hold-on-meta-stock-ahead-of-earnings-93CH-4641985</guid>
-      <pubDate>28/04/2026 11:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
