@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 01:27:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:27:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Teledyne (TDY) publica ganhos saudáveis ​​​​à medida que o foco se volta para o espaço</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/teledyne-tdy-posts-healthy-earnings-165537474.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/teledyne-tdy-posts-healthy-earnings-165537474.html</guid>
+      <pubDate>28/04/2026 01:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/56c3b65f73c0d382f82d23ecba8868c6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ganhos da Mega-Cap, FOMC e outras coisas importantes para observar esta semana</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/truist-reiterates-buy-rating-viridian-151326846.html</guid>
       <pubDate>27/04/2026 23:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8577738f84a3c852cf540caf7ca4aba5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Pantoro Ltd relata desafios operacionais do terceiro trimestre...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-pantoro-ltd-reports-q3-2026-operational-challenges-93CH-4640216</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pantoro-ltd-reports-q3-2026-operational-challenges-93CH-4640216</guid>
-      <pubDate>27/04/2026 23:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
