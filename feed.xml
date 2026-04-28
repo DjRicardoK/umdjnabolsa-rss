@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:14:05 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:31:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Atualizações ao vivo de ganhos: as ações da Nucor sobem à medida que os preços do aço aumentam os lucros, as...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/live/earnings-live-updates-nucor-stock-gains-as-steel-prices-lift-profits-dominos-stock-tanks-111414680.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/live/earnings-live-updates-nucor-stock-gains-as-steel-prices-lift-profits-dominos-stock-tanks-111414680.html</guid>
+      <pubDate>28/04/2026 08:30</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/0r5c.cocjxQT2ZS8HNe9aA--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-04/30035e02-c639-4cbd-8945-3993e43c1373" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Invesco cai 2% com perda de lucros, apesar da queda na receita</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-cyberspace-regulator-warns-bytedance-apps-website-over-aicontent-labelling-4640700</guid>
       <pubDate>28/04/2026 06:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R0O5_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do SoftBank despencam, ações de tecnologia dos EUA sob pressão devido ao relatório de metas perdidas do...</title>
-      <description>As ações do Grupo SoftBank despencaram nas negociações de Tóquio, sofrendo sua pior perda percentual em um único dia em seis meses, após um relatório publicado de que a OpenAI...</description>
-      <link>https://www.marketwatch.com/story/after-report-of-openai-missing-targets-one-company-sees-its-worst-share-price-decline-in-six-months-f552fe04?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/after-report-of-openai-missing-targets-one-company-sees-its-worst-share-price-decline-in-six-months-f552fe04?mod=mw_rss_topstories</guid>
-      <pubDate>28/04/2026 06:58</pubDate>
-      <enclosure url="https://images.mktw.net/im-62394843" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
