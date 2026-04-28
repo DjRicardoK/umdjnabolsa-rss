@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 12:16:04 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 12:16:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da RenaissanceRe em foco à medida que os preços dos resseguros diminuem</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/renaissancere-earnings-in-focus-as-reinsurance-pricing-softens-93CH-4642207</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/renaissancere-earnings-in-focus-as-reinsurance-pricing-softens-93CH-4642207</guid>
+      <pubDate>28/04/2026 12:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA601E0_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Watsco Q1 2026 supera as previsões, quedas de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/article/united-arab-emirates-to-leave-opec-in-may-dealing-blow-to-oil-bloc-130449643.html</guid>
       <pubDate>28/04/2026 11:26</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/iReC_Lpt5dW8_LyTLBz9aw--~B/aD0yMzc5O3c9MzU2ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/9c0c7717-f0d0-4ffd-861c-fcf58518be07" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos da Sysco no terceiro trimestre de 2026 atendem às expectativas à medida que os volumes crescem</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/sysco-q3-2026-earnings-meet-141817409.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sysco-q3-2026-earnings-meet-141817409.html</guid>
-      <pubDate>28/04/2026 11:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/c0caba0ab32749d238fe9ec337f78058" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
