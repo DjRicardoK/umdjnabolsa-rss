@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 05:45:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 05:52:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do segundo semestre de 2025 da Tullow Oil...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-tullow-oils-h2-2025-results-highlight-strong-production-93CH-4640495</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tullow-oils-h2-2025-results-highlight-strong-production-93CH-4640495</guid>
+      <pubDate>28/04/2026 05:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Como a última atualização da Tesla mudou o caso Bull and Bear</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/ssab-tops-firstquarter-earnings-estimates-on-europe-americas-strength-4640351</guid>
       <pubDate>28/04/2026 03:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC7E0NY_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Domino’s Pizza Australia caem após lucros suaves do proprietário da marca nos EUA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/dominos-pizza-australia-shares-slide-after-soft-earnings-from-us-brand-owner-4640330</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/dominos-pizza-australia-shares-slide-after-soft-earnings-from-us-brand-owner-4640330</guid>
-      <pubDate>28/04/2026 03:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC9H0ML_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
