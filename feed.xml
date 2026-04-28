@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 09:35:50 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 09:40:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da JetBlue no primeiro trimestre de 2026 perdem à medida que as perdas aumentam</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jetblue-q1-2026-earnings-miss-123240577.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jetblue-q1-2026-earnings-miss-123240577.html</guid>
+      <pubDate>28/04/2026 09:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/quartz_855/b676fce9cc2df4ff25f5d9cf80fbcdef" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: futuros de tecnologia são vendidos no relatório OpenAI; Broadcom, Micron, Nvidia...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/celestica-stock-celestica-earnings-ai-play/?src=A00220&yptr=yahoo</guid>
       <pubDate>28/04/2026 07:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/e52595e12dc711a65f2922175bd7e4ec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fornecedores da Toyota sentem pressão nos lucros da guerra no Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/toyota-suppliers-feeling-profit-pressure-103210424.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/toyota-suppliers-feeling-profit-pressure-103210424.html</guid>
-      <pubDate>28/04/2026 07:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/b80e3693f21bcb9cc15961fbae5408d3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
