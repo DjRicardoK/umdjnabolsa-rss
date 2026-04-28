@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 18:19:55 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 18:24:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O estoque da Bloom Energy deve estourar antes dos ganhos de 28 de abril?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-set-break-130500385.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-set-break-130500385.html</guid>
+      <pubDate>28/04/2026 18:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/3bc10eb78a2ac383054e2082d326b2cd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Esses 5 empregos à prova de IA estão contratando – veja quanto eles pagam e como consegui-los</title>
       <description>As carreiras que não são tão vulneráveis ​​à IA neste momento partilham algumas características comuns: requerem presença física, formação especializada ou interação humana em...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-042726/card/stock-futures-slide-with-markets-on-edge-ahead-of-big-tech-earnings-QbIiRYPqkJ686FAma2jR?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>28/04/2026 16:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nvidia x Netflix: Wall Street afirma que esse grande estoque de tecnologia o deixará mais rico nos próximos...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-netflix-wall-street-102000329.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-netflix-wall-street-102000329.html</guid>
-      <pubDate>28/04/2026 16:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/37ae4efb9fc6ded4adfe365111e002d4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
