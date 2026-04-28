@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 21:46:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 21:46:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do ouro sobem com negociações sobre o Irã e reuniões do c.bank em foco</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-prices-edge-higher-with-iran-talks-cbank-meetings-in-focus-4640164</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-edge-higher-with-iran-talks-cbank-meetings-in-focus-4640164</guid>
+      <pubDate>27/04/2026 21:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1L0SQ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fundos Corre vendem US$ 1,88 milhão em ações da NN Inc (NASDAQ:NNBR)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-catalyst-pharmaceuticals-stock-rating-on-ma-report-93CH-4639955</guid>
       <pubDate>27/04/2026 18:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Especialistas emitem alerta sobre contas bancárias nos EUA ociosas: o dinheiro agora pode ser entregue ao...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/expert-issues-warning-over-us-124300584.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/expert-issues-warning-over-us-124300584.html</guid>
-      <pubDate>27/04/2026 18:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/27f29bbd280f95d0712fe41fc25ae275" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
