@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 21:02:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 21:16:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco do Japão deve manter as taxas estáveis ​​enquanto a guerra no Irã obscurece as perspectivas</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bank-of-japan-set-to-keep-rates-steady-as-iran-war-clouds-outlook-4639954</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-japan-set-to-keep-rates-steady-as-iran-war-clouds-outlook-4639954</guid>
+      <pubDate>27/04/2026 21:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q1EW_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE É a meca do varejo isento de impostos da China e um oásis tropical, para começar. Para Pequim isso já não é...</title>
       <description>A província insular de Hainan tem novas ordens de marcha.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/gold-prices-have-lost-nearly-11-since-the-iran-war-began-reasons-to-buy-the-metal-are-piling-up-again-87cc5158?mod=mw_rss_topstories</guid>
       <pubDate>27/04/2026 17:10</pubDate>
       <enclosure url="https://images.mktw.net/im-22631629" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da CrowdStrike</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-crowdstrike-report-105729801.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-crowdstrike-report-105729801.html</guid>
-      <pubDate>27/04/2026 17:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b63c711a1d81edaea11cbb32b25d904b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
