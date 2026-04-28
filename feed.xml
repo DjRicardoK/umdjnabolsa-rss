@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 22:50:13 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 22:56:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Slides da Aurelia Metals Q3 AF26: orientação de ouro atualizada, fluxo de caixa fortalece</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/aurelia-metals-q3-fy26-slides-gold-guidance-upgraded-cash-flow-strengthens-93CH-4640213</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/aurelia-metals-q3-fy26-slides-gold-guidance-upgraded-cash-flow-strengthens-93CH-4640213</guid>
+      <pubDate>27/04/2026 22:56</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/a14e8194c8b519ae79310f43ada8a40d48d332226bd8b235ae990f8dfae728f1.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Greatland Resources, terceiro trimestre de 2026, mostra forte...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taylor-swift-files-to-trademark-her-voice-likeness-to-ward-off-ai-deepfakes-4640107</guid>
       <pubDate>27/04/2026 20:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q1HL_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Vistra Corp. (VST) – Entre as 10 melhores ações de energia nuclear para comprar para obter dividendos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/vistra-corp-vst-among-10-141628923.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/vistra-corp-vst-among-10-141628923.html</guid>
-      <pubDate>27/04/2026 19:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4d525e671701393662d06750df35b2dd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
