@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 18:03:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 18:12:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preocupado com a volatilidade do mercado? Todo investidor deve ouvir o que Warren Buffett tem a dizer</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/worried-market-volatility-every-investor-125000570.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/worried-market-volatility-every-investor-125000570.html</guid>
+      <pubDate>28/04/2026 18:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/780c754e325d350ede3623eb6ee1cfea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos lucros da General Mills: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/amazon-is-back-in-wall-streets-good-graces-heres-what-will-determine-whether-it-stays-there-78b53ffa?mod=mw_rss_topstories</guid>
       <pubDate>28/04/2026 16:10</pubDate>
       <enclosure url="https://images.mktw.net/im-64356502" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bitcoin enfrenta semana de políticas pesadas com presidente da SEC, decisão do Fed em foco</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-policy-heavy-week-100216290.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-policy-heavy-week-100216290.html</guid>
-      <pubDate>28/04/2026 16:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ccn_928/f97df3675e5a35ad7cc65f5906020c9b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
