@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 14:25:42 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 14:25:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os modelos de IA mais recentes da OpenAI, Codex agora disponíveis no Amazon Bedrock</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/openai-brings-latest-ai-models-codex-coding-agent-to-amazon-bedrock-4642522</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/openai-brings-latest-ai-models-codex-coding-agent-to-amazon-bedrock-4642522</guid>
+      <pubDate>28/04/2026 14:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R1FT_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE UPS mantém meta de receita para o ano inteiro, diz que aumento no preço dos combustíveis devido à guerra no...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nexpoint-residential-trust-q1-2026-beats-eps-forecast-93CH-4642323</guid>
       <pubDate>28/04/2026 12:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE HSBC se torna otimista em relação às ações dos EUA, citando impulso nos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/hsbc-turns-bullish-on-us-equities-citing-earnings-momentum-4642324</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/hsbc-turns-bullish-on-us-equities-citing-earnings-momentum-4642324</guid>
-      <pubDate>28/04/2026 12:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R1BB_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
