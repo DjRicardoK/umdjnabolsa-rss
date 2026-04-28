@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:20:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:26:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos da Sysco no terceiro trimestre de 2026 atendem às expectativas à medida que os volumes crescem</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/sysco-q3-2026-earnings-meet-141817409.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sysco-q3-2026-earnings-meet-141817409.html</guid>
+      <pubDate>28/04/2026 11:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/quartz_855/c0caba0ab32749d238fe9ec337f78058" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Benchmark reitera Hold on Meta stock antes dos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/uae-quits-opec-heres-what-it-means-for-the-oil-prices-and-the-economy-12a79677?mod=mw_rss_topstories</guid>
       <pubDate>28/04/2026 10:34</pubDate>
       <enclosure url="https://images.mktw.net/im-46721833" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Inventrust Properties Corp atingem o máximo histórico de 33,19 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/inventrust-properties-corp-stock-hits-alltime-high-of-3319-usd-93CH-4641718</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/inventrust-properties-corp-stock-hits-alltime-high-of-3319-usd-93CH-4641718</guid>
-      <pubDate>28/04/2026 10:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
