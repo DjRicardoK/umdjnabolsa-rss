@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 20:16:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 20:27:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações caem à medida que preços mais altos do petróleo estimulam preocupações com inflação</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-slip-higher-oil-prices-151720826.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-slip-higher-oil-prices-151720826.html</guid>
+      <pubDate>28/04/2026 20:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f4bae0dd54fbbfbfda10100516ce3a55" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Uma decisão de Washington acaba de enviar um sinal inesperado ao ouro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/first-time-microsoft-offering-voluntary-140000313.html</guid>
       <pubDate>28/04/2026 19:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/entrepreneur_869/3b65ad67896300ba3a169bcaa6a3f08b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações pressionadas pela alta dos preços do petróleo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-higher-oil-prices-135553967.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-higher-oil-prices-135553967.html</guid>
-      <pubDate>28/04/2026 19:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d328f7db7fa019e809cef3d7281ab08b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
