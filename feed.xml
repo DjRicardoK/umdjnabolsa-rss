@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 20:36:55 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 20:49:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que esperar do próximo relatório de lucros trimestrais da Kroger</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/expect-krogers-next-quarterly-earnings-154002561.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-krogers-next-quarterly-earnings-154002561.html</guid>
+      <pubDate>28/04/2026 20:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f59f467cbd43841505c4c5bbb8e95b01" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O novo CEO da Apple, John Ternus, disse à Geração Z que um erro precoce lhe ensinou uma lição importante: ‘O...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/british-finance-minister-reeves-says-targeted-steps-needed-to-protect-uk-from-war-impact-without-lasting-rate-hit-4643278</guid>
       <pubDate>28/04/2026 19:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R1RH_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Caesars perde as expectativas de lucro por ação no primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-caesars-misses-eps-expectations-in-q1-2026-93CH-4643279</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-caesars-misses-eps-expectations-in-q1-2026-93CH-4643279</guid>
-      <pubDate>28/04/2026 19:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
