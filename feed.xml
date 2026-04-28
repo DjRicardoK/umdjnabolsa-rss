@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 09:40:48 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 09:43:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Libra hoje: Libra cai devido às dúvidas sobre o Irã, reaviva temores sobre o petróleo antes do FOMC</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/sterling-today-pound-slips-on-iran-doubts-revives-oil-fears-ahead-of-fomc-4641377</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/sterling-today-pound-slips-on-iran-doubts-revives-oil-fears-ahead-of-fomc-4641377</guid>
+      <pubDate>28/04/2026 09:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/gbp_usd_3_M_1440050997.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da JetBlue no primeiro trimestre de 2026 perdem à medida que as perdas aumentam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/here-are-21-stocks-to-keep-powering-the-tech-rally-say-these-analysts-2fc55384?mod=mw_rss_topstories</guid>
       <pubDate>28/04/2026 08:03</pubDate>
       <enclosure url="https://images.mktw.net/im-50215915" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ganhos da Celestica, orientação forte. Mas o estoque de IA despenca.</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/celestica-stock-celestica-earnings-ai-play/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/celestica-stock-celestica-earnings-ai-play/?src=A00220&yptr=yahoo</guid>
-      <pubDate>28/04/2026 07:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/e52595e12dc711a65f2922175bd7e4ec" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
