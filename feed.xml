@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 06:29:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 06:29:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas europeias sobem em meio à paralisação das negociações EUA-Irã e dilúvio de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-stocks-slip-as-usiran-negotiations-stall-and-oil-climbs-4640386</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-slip-as-usiran-negotiations-stall-and-oil-climbs-4640386</guid>
+      <pubDate>28/04/2026 06:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF030BG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Contrato global de petróleo chega a US$ 110 após relatos de que Trump está insatisfeito com a proposta do Irã...</title>
       <description>Os futuros do petróleo Brent para entrega em junho subiram para cerca de US$ 111 o barril, já que o fim do conflito permanece incerto</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/visa-v-among-best-fintech-205710176.html</guid>
       <pubDate>28/04/2026 05:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d0a02ab603d27c1f32c489202d33702c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mastercard (MA): entre as melhores ações de Fintech para investir</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-among-best-fintech-205721467.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-among-best-fintech-205721467.html</guid>
-      <pubDate>28/04/2026 05:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7c59e2fbd0d77ffe572c06cba2052b8d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
