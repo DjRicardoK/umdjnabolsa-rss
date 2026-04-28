@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 18:24:20 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 18:28:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Rocky Brands no primeiro trimestre de 2026 perde EPS, receita...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-rocky-brands-q1-2026-misses-eps-revenue-beats-93CH-4643158</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rocky-brands-q1-2026-misses-eps-revenue-beats-93CH-4643158</guid>
+      <pubDate>28/04/2026 18:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O estoque da Bloom Energy deve estourar antes dos ganhos de 28 de abril?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/barclays-names-top-internet-stocks-in-the-us-93CH-4642802</guid>
       <pubDate>28/04/2026 16:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/amazon_M_1440049058.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dow Slides, Nasdaq Futures sobem com os mercados no limite antes dos ganhos das grandes empresas de tecnologia</title>
-      <description></description>
-      <link>https://www.barrons.com/livecoverage/stock-market-news-today-042726/card/stock-futures-slide-with-markets-on-edge-ahead-of-big-tech-earnings-QbIiRYPqkJ686FAma2jR?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-042726/card/stock-futures-slide-with-markets-on-edge-ahead-of-big-tech-earnings-QbIiRYPqkJ686FAma2jR?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>28/04/2026 16:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
