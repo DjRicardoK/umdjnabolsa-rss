@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 13:03:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 13:15:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Amazon visa contratação em massa com software de agência, objetivo de humanizar a IA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/amazon-targets-mass-hiring-agentic-160051472.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazon-targets-mass-hiring-agentic-160051472.html</guid>
+      <pubDate>28/04/2026 13:15</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/daa6fa8effce4c958602784dd1db027b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ouro e prata despencam em meio ao impasse EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/americans-are-uneasy-about-gas-prices-and-the-iran-war-but-theyre-getting-on-with-their-lives-2b98ee6f?mod=mw_rss_topstories</guid>
       <pubDate>28/04/2026 12:25</pubDate>
       <enclosure url="https://images.mktw.net/im-50274132" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 3 razões pelas quais o Rally da NVIDIA tem espaço para funcionar mesmo em máximos históricos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-reasons-nvidia-rally-room-151634001.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-reasons-nvidia-rally-room-151634001.html</guid>
-      <pubDate>28/04/2026 12:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1e67adedf03a9732527fa027614def7e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
