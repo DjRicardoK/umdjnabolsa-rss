@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 19:17:41 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:21:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Seagate Technology supera as previsões do terceiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-seagate-technology-beats-q3-2026-forecasts-stock-dips-93CH-4643275</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-seagate-technology-beats-q3-2026-forecasts-stock-dips-93CH-4643275</guid>
+      <pubDate>28/04/2026 19:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bloom Energy está aproveitando a onda da IA ​​​​com um grande impulso da Oracle</title>
       <description>Wall Street está validando a “visão” de Bloom e a IA acelerando-a, diz o CEO.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/general-mills-earnings-preview-expect-124458626.html</guid>
       <pubDate>28/04/2026 18:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d53dc129754fac230e63086980d0f387" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Formulário 13F APPLETON PARTNERS INC/MA Para: 28 de abril</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-13f-appleton-partners-incma-for-28-april-93CH-4643039</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-13f-appleton-partners-incma-for-28-april-93CH-4643039</guid>
-      <pubDate>28/04/2026 17:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
