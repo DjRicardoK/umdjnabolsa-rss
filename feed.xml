@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:15:27 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 00:17:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Linde (LIN) é uma das melhores ações de aristocratas com dividendos para comprar em 2026?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/linde-lin-one-best-dividend-155518069.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/linde-lin-one-best-dividend-155518069.html</guid>
+      <pubDate>28/04/2026 00:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/969332c0aa6eb97fe03285d50c3a4bdd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE OpenAI fica aquém das metas de receita e de usuários enquanto corre em direção ao IPO, relata o WSJ</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/hainan-was-chinas-shopping-paradise-for-beijing-thats-no-longer-enough-c2535a40?mod=mw_rss_topstories</guid>
       <pubDate>27/04/2026 21:02</pubDate>
       <enclosure url="https://images.mktw.net/im-69290517" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ativista Starboard Value adquire participação na fabricante de software de IA Dynatrace, relata WSJ</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/activist-starboard-value-takes-stake-in-ai-software-maker-dynatrace-wsj-reports-4640141</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/activist-starboard-value-takes-stake-in-ai-software-maker-dynatrace-wsj-reports-4640141</guid>
-      <pubDate>27/04/2026 21:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q1II_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
