@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 27 Apr 2026 22:35:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 22:50:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Greatland Resources, terceiro trimestre de 2026, mostra forte...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-greatland-resources-q3-2026-shows-strong-production-stable-stock-93CH-4640212</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-greatland-resources-q3-2026-shows-strong-production-stable-stock-93CH-4640212</guid>
+      <pubDate>27/04/2026 22:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Whitehaven Coal Q3 2026 apresenta desempenho sólido</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/vistra-corp-vst-among-10-141628923.html</guid>
       <pubDate>27/04/2026 19:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4d525e671701393662d06750df35b2dd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Rei Charles chega aos EUA para visita de Estado em meio a divergências sobre a guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/king-charles-jets-to-us-for-trip-overshadowed-by-iran-quarrel-and-shooting-4637718</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/king-charles-jets-to-us-for-trip-overshadowed-by-iran-quarrel-and-shooting-4637718</guid>
-      <pubDate>27/04/2026 19:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q0E2_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
