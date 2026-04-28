@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:22:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 00:28:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE CIBC aumenta preço-alvo do Fortis (FTS) para C$ 81, reitera desempenho superior</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cibc-raises-fortis-fts-price-160941625.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cibc-raises-fortis-fts-price-160941625.html</guid>
+      <pubDate>28/04/2026 00:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/148666b6b51569f36d1166a332b64ebe" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Scotiabank ajusta para cima a meta de preço da Suncor Energy (SU) e mantém o desempenho do setor</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vitrafy-life-sciences-q3-2026-reveals-strong-cash-position-93CH-4640154</guid>
       <pubDate>27/04/2026 21:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco do Japão deve manter as taxas estáveis ​​enquanto a guerra no Irã obscurece as perspectivas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/bank-of-japan-set-to-keep-rates-steady-as-iran-war-clouds-outlook-4639954</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-japan-set-to-keep-rates-steady-as-iran-war-clouds-outlook-4639954</guid>
-      <pubDate>27/04/2026 21:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q1EW_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
