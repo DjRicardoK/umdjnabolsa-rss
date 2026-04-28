@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 10:44:42 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:45:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nasdaq abre em baixa com novas preocupações em torno das ações de tecnologia de pressão de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nasdaq-opens-lower-as-fresh-concerns-around-ai-pressure-tech-stocks-4641746</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nasdaq-opens-lower-as-fresh-concerns-around-ai-pressure-tech-stocks-4641746</guid>
+      <pubDate>28/04/2026 10:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R13Q_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O que eu gostaria de ter feito com meu primeiro salário de verdade depois de me formar</title>
       <description>Mais: como identificar “empregos fantasmas” que podem estar sabotando sua procura de emprego</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-overweight-on-smithfield-foods-stock-93CH-4641197</guid>
       <pubDate>28/04/2026 09:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Banco central exclusivo da China orienta bancos a intensificarem empréstimos em abril, dizem fontes</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/exclusivechinas-central-bank-guides-banks-to-step-up-lending-in-april-sources-say-4640501</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/exclusivechinas-central-bank-guides-banks-to-step-up-lending-in-april-sources-say-4640501</guid>
-      <pubDate>28/04/2026 09:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R0LG_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
