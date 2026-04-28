@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 17:07:04 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 17:07:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que a United Airlines Holdings (UAL) está entre as ações com melhor barganha para comprar em maio</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-united-airlines-holdings-ual-113219227.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-united-airlines-holdings-ual-113219227.html</guid>
+      <pubDate>28/04/2026 17:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ef6c17d4ac1945460649787055a06701" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos da Ciena: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-holds-steady-dollar-wavers-092039770.html</guid>
       <pubDate>28/04/2026 15:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/investorshub_458/ce7dcdc0cc5a9e2c77e8e54fa4627951" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os americanos estão adotando esse terrível hábito de comprar carros. Está custando-lhes milhares de dólares.</title>
-      <description>Esse erro é fácil de cometer, mas difícil de escapar.</description>
-      <link>https://www.marketwatch.com/story/americans-are-embracing-this-terrible-car-buying-habit-its-costing-them-thousands-of-dollars-126f4ffd?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/americans-are-embracing-this-terrible-car-buying-habit-its-costing-them-thousands-of-dollars-126f4ffd?mod=mw_rss_topstories</guid>
-      <pubDate>28/04/2026 15:10</pubDate>
-      <enclosure url="https://images.mktw.net/im-66995048" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
