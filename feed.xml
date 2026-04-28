@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 03:51:49 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:04:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Atea ASA Q1 2026 vê crescimento recorde em meio a desafios de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-atea-asa-q1-2026-sees-record-growth-amid-supply-challenges-93CH-4640360</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-atea-asa-q1-2026-sees-record-growth-amid-supply-challenges-93CH-4640360</guid>
+      <pubDate>28/04/2026 04:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O maior risco enfrentado por essas ações de &quot;sete magníficos&quot; trilhões de dólares é algo com que os...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/teledyne-tdy-posts-healthy-earnings-165537474.html</guid>
       <pubDate>28/04/2026 01:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/56c3b65f73c0d382f82d23ecba8868c6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ganhos da Mega-Cap, FOMC e outras coisas importantes para observar esta semana</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/mega-cap-earnings-fomc-other-170002441.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mega-cap-earnings-fomc-other-170002441.html</guid>
-      <pubDate>28/04/2026 01:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a3f8b7b175c2147da9ed22b631b9dee3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
