@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 02:28:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 02:35:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As empresas que abandonam os relatórios trimestrais podem atingir as avaliações e desencadear vendas, alerta...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/companies-ditching-quarterly-reports-may-180105838.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/companies-ditching-quarterly-reports-may-180105838.html</guid>
+      <pubDate>28/04/2026 02:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/1dac6a77e52e3ace334b5159b99d904b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Nvidia fez isso pela primeira vez desde outubro. Aqui está o que acontece a seguir, de acordo com a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-keeps-rates-steady-but-3-board-members-dissent-call-for-hike-4640230</guid>
       <pubDate>28/04/2026 00:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R065_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco do Japão mantém taxas de juros estáveis; sinaliza mais aumentos de taxas em meio a riscos de inflação</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/boj-leaves-interest-rates-steady-flags-more-rate-hikes-amid-inflation-risks-4640232</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-leaves-interest-rates-steady-flags-more-rate-hikes-amid-inflation-risks-4640232</guid>
-      <pubDate>28/04/2026 00:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB1304I_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
