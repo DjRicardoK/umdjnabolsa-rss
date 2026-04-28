@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 14:08:36 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 14:11:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do segundo trimestre de 2025 com espaço extra (EXR)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/extra-space-exr-q2-2025-170213249.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/extra-space-exr-q2-2025-170213249.html</guid>
+      <pubDate>28/04/2026 14:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Kimberly-Clark Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/frothy-but-not-like-1999-this-new-valuation-indicator-has-stocks-beating-inflation-40482dd5?mod=mw_rss_topstories</guid>
       <pubDate>28/04/2026 12:57</pubDate>
       <enclosure url="https://images.mktw.net/im-60291504" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mizuho aumenta o preço-alvo da Amazon para US$ 325: a AWS é a verdadeira vencedora da IA ​​em 2026?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-amazon-price-target-154009955.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mizuho-raises-amazon-price-target-154009955.html</guid>
-      <pubDate>28/04/2026 12:53</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/ff11d1a7a56d94979968e8f4653a41a1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
