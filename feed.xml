@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 20:03:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 20:10:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Western Union lançará Stablecoin USDPT baseado em Solana no próximo mês</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/western-union-launch-solana-based-150400882.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/western-union-launch-solana-based-150400882.html</guid>
+      <pubDate>28/04/2026 20:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/1b2153e4d0f0ce987de2f704fccc5a43" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Guerra do Irã está mudando o manual de títulos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-hormel-foods-earnings-133929464.html</guid>
       <pubDate>28/04/2026 19:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/345c520a74ac181779aad01a07f51cd2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE É aqui que os comerciantes varejistas de Robinhood se aglomeraram à medida que o conflito no Irã avançava</title>
-      <description>Os mercados de previsão têm sido um refúgio para os traders do Robinhood que buscam superar a volatilidade.</description>
-      <link>https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories</guid>
-      <pubDate>28/04/2026 19:02</pubDate>
-      <enclosure url="https://images.mktw.net/im-274680" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
