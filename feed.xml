@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:40:11 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 11:48:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Brinker a seguir: Será que a Chili’s conseguirá sustentar seu aumento de vendas?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/brinker-earnings-up-next-can-chilis-sustain-its-sales-surge-93CH-4642080</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/brinker-earnings-up-next-can-chilis-sustain-its-sales-surge-93CH-4642080</guid>
+      <pubDate>28/04/2026 11:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Kite Realty em foco conforme relatórios REIT ancorados em supermercados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/onespaworld-earnings-up-next-as-analysts-eye-productivity-gains-93CH-4641827</guid>
       <pubDate>28/04/2026 10:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Impulsionou os ganhos das marcas à medida que a crise de credibilidade se aprofunda</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/driven-brands-earnings-on-deck-as-credibility-crisis-deepens-93CH-4641796</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/driven-brands-earnings-on-deck-as-credibility-crisis-deepens-93CH-4641796</guid>
-      <pubDate>28/04/2026 10:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
