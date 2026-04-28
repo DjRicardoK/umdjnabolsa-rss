@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 09:11:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 09:13:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 3 ações mais baratas prontas para uma corrida de touros em 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-top-bargain-stocks-ready-120800842.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-top-bargain-stocks-ready-120800842.html</guid>
+      <pubDate>28/04/2026 09:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/051f12cce0b20fbed83764a11d6c2b4f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O que Paul Tudor Jones está nos alertando contra fazer enquanto o S&amp;P 500 atinge níveis recordes</title>
       <description>Jones está preocupado com o excesso de alavancagem no sistema, com as avaliações do S&amp;P e com um dilúvio de oferta de ações, mas ele sente uma oportunidade no Japão</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/icaew-sets-iran-conflict-support-102251139.html</guid>
       <pubDate>28/04/2026 07:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/the_accountant_923/7fe1d4455e82b456d55f29cc9f5c2285" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ‘Mantém-me acordado à noite’: Banco de Inglaterra alerta que as ações podem cair à medida que os riscos de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/keeps-awake-night-bank-england-100700229.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/keeps-awake-night-bank-england-100700229.html</guid>
-      <pubDate>28/04/2026 07:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/fd86708cd5f1cb6a2fdd76b32ee12654" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
