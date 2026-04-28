@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 19:44:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 19:50:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do terceiro trimestre de 2026 da Jabil: o que esperar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jabils-q3-2026-earnings-expect-143614462.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jabils-q3-2026-earnings-expect-143614462.html</guid>
+      <pubDate>28/04/2026 19:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/716359b8c1517383440a4e4a0759fc0d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dólar enfraquece e ouro cai com nova proposta do Irã para acabar com a guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/expect-micron-technologys-q3-2026-130651343.html</guid>
       <pubDate>28/04/2026 18:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/7ad70eb4f0fe0219527f3dcac4789db7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Inflação no México perto de retomar queda em direção à meta, diz governador</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/mexico-inflation-close-to-resuming-decline-toward-target-governor-says-4643157</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/mexico-inflation-close-to-resuming-decline-toward-target-governor-says-4643157</guid>
-      <pubDate>28/04/2026 18:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R1Q4_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
