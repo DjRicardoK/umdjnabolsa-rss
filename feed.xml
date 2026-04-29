@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 12:26:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 12:36:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A economia realmente ficou mais forte durante a guerra do Irão? Aqui está o que os números nos dizem.</title>
+      <description>A economia dos EUA teve um início lento em 2026, mas parece ter terminado forte no final do primeiro trimestre, apesar da guerra com o Irão.</description>
+      <link>https://www.marketwatch.com/story/did-the-economy-actually-get-stronger-during-the-iran-war-heres-what-the-numbers-tell-us-a27cfea7?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/did-the-economy-actually-get-stronger-during-the-iran-war-heres-what-the-numbers-tell-us-a27cfea7?mod=mw_rss_topstories</guid>
+      <pubDate>29/04/2026 12:36</pubDate>
+      <enclosure url="https://images.mktw.net/im-87436156" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Entergy Corporation atingem o máximo histórico em 117.91 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/sofi-stock-falls-after-mixed-earnings-report-110124274.html</guid>
       <pubDate>29/04/2026 11:32</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/XG6Hwo0mP.RzeXR6ZgfUfA--~B/aD0xMzY4O3c9MjQzMjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a1c7f38e-20fc-4187-b1c9-9efa0ace9143_e5b90473bf29e9bdbc24096f4f2a574548f5b76d4938912877abfa8ef20d9a3d.net/images/2026-04/a1c7f38e-20fc-4187-b1c9-9efa0ace9143" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ganhos da CBIZ em alta como integração do Marcum, teste facial de estratégia de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/cbiz-earnings-on-deck-as-marcum-integration-ai-strategy-face-test-93CH-4645664</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/cbiz-earnings-on-deck-as-marcum-integration-ai-strategy-face-test-93CH-4645664</guid>
-      <pubDate>29/04/2026 11:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
