@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 05:56:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:00:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Linde plc (LIN): Uma das ações promissoras de baixo risco e alto crescimento?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/linde-plc-lin-one-promising-211210866.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/linde-plc-lin-one-promising-211210866.html</guid>
+      <pubDate>29/04/2026 06:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d29bad21d1c371ca08cb5e8310533efa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bernstein SocGen reitera classificação das ações da Robinhood após falha no primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/medicover-q1-earnings-beat-estimates-on-margin-strength-in-poland-india-93CH-4643683</guid>
       <pubDate>29/04/2026 04:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar cai com esperança de retomada das negociações de paz EUA-Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-slips-hopes-us-iran-193222430.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-slips-hopes-us-iran-193222430.html</guid>
-      <pubDate>29/04/2026 03:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0d2930021ab714cff3f9a0b9dbce099d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
