@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:54:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 15:01:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O comércio de asas de frango continua em colapso e Wall Street fica em busca de um fundo Wingstop</title>
+      <description>Executivos da rede de asas de frango dizem que o aumento dos preços da gasolina afetou as vendas do primeiro trimestre.</description>
+      <link>https://www.marketwatch.com/story/the-chicken-wing-trade-keeps-collapsing-and-wall-street-is-left-seeking-a-wingstop-bottom-a196d821?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-chicken-wing-trade-keeps-collapsing-and-wall-street-is-left-seeking-a-wingstop-bottom-a196d821?mod=mw_rss_topstories</guid>
+      <pubDate>29/04/2026 15:01</pubDate>
+      <enclosure url="https://images.mktw.net/im-319999" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Mohawk Industries se aproximam enquanto analistas questionam perspectivas de volume</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cognizant-technology-solutions-corporation-q1-165323545.html</guid>
       <pubDate>29/04/2026 14:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/3ba97ebb981efe278a389661b8519516" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Flowserve divulga ganhos hoje: As apostas nucleares podem impulsionar o crescimento?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/flowserve-reports-earnings-today-can-nuclear-bets-fuel-growth-93CH-4646267</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/flowserve-reports-earnings-today-can-nuclear-bets-fuel-growth-93CH-4646267</guid>
-      <pubDate>29/04/2026 14:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
