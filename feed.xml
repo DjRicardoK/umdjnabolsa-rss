@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 23:25:24 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 23:31:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nvidia sobem após alta recorde. A fuga finalmente chegou.</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/nvidia-stock-price-record-catalyst-earnings-8ccdec80?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/nvidia-stock-price-record-catalyst-earnings-8ccdec80?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>28/04/2026 23:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/8b8ff1ecb127e7d18766f89de607ab0c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Amazon visa contratação em massa com software de agência, objetivo de humanizar a IA</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-stanmore-coals-q1-2026-earnings-reveal-resilience-93CH-4643447</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-stanmore-coals-q1-2026-earnings-reveal-resilience-93CH-4643447</guid>
-      <pubDate>28/04/2026 22:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: 29Metals Q1 2026 vê forte produção de cobre</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-29metals-q1-2026-sees-strong-copper-production-93CH-4643448</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-29metals-q1-2026-sees-strong-copper-production-93CH-4643448</guid>
       <pubDate>28/04/2026 22:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
