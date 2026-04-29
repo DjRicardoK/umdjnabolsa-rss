@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 01:44:59 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:55:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que Wall Street acha que as ações da Micron podem chegar a US$ 852</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/heres-why-wall-street-thinks-171322910.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-why-wall-street-thinks-171322910.html</guid>
+      <pubDate>29/04/2026 01:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/366b125be554b7b60102f8bd3370f86a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Oferta matinal: Fed navega em águas desconhecidas enquanto Powell se retira</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/domino-pizza-shares-slip-q1-152716992.html</guid>
       <pubDate>29/04/2026 00:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/investorshub_458/79dbbd30aebc068d7d3655eff64e9dfe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Verizon sobe após superação de lucros e perspectiva atualizada</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/verizon-rises-earnings-beat-upgraded-152104744.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/verizon-rises-earnings-beat-upgraded-152104744.html</guid>
-      <pubDate>29/04/2026 00:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/investorshub_458/39cfb0c8626378a94e76ab66debbbed0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
