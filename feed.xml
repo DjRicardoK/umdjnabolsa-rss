@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 10:48:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:49:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE T-Mobile rejeita aquisição de TV a cabo na teleconferência de resultados do primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/tmobile-stock-tmus-tmobile-earnings-q12026/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/tmobile-stock-tmus-tmobile-earnings-q12026/?src=A00220&yptr=yahoo</guid>
+      <pubDate>29/04/2026 10:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/2440012facd59913552f51fc49482124" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Wall St mista na abertura antes dos lucros das Big Tech e reunião do Fed</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/bloom-energy-earnings-q1-be-stock/?src=A00220&yptr=yahoo</guid>
       <pubDate>29/04/2026 09:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/9ea2386ab323324fd0c0f362fa28598e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os investidores estão perdendo a fé nas promessas de IA da NVIDIA (NVDA)?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/investors-losing-faith-nvidia-nvda-123240311.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/investors-losing-faith-nvidia-nvda-123240311.html</guid>
-      <pubDate>29/04/2026 09:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e27167f0d0ea28c9ccebcdb03eceb280" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
