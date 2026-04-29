@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:18:33 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:18:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Biogen atrapalhou as visualizações do primeiro trimestre de Wall Street; Aqui está o que aconteceu</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/biogen-stock-biogen-earnings-q1-2026/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/biogen-stock-biogen-earnings-q1-2026/?src=A00220&yptr=yahoo</guid>
+      <pubDate>29/04/2026 07:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/c1625f1f8b75121675b6ada9243ba22d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fed provavelmente manterá taxas estáveis ​​naquela que pode ser a última reunião da era Powell</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-modern-times-group-q1-2026-sees-stock-surge-18-93CH-4643973</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-modern-times-group-q1-2026-sees-stock-surge-18-93CH-4643973</guid>
       <pubDate>29/04/2026 06:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os lucros do primeiro trimestre de 2026 do Grupo DWS superaram...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-dws-group-q1-2026-earnings-beat-expectations-93CH-4643943</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dws-group-q1-2026-earnings-beat-expectations-93CH-4643943</guid>
-      <pubDate>29/04/2026 06:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
