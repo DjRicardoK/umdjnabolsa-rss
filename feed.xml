@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 01:41:35 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:44:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Oferta matinal: Fed navega em águas desconhecidas enquanto Powell se retira</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/morning-bid-fed-sails-into-unchartered-waters-as-powell-bows-out-4643501</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/morning-bid-fed-sails-into-unchartered-waters-as-powell-bows-out-4643501</guid>
+      <pubDate>29/04/2026 01:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S05C_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Easterly Government Properties, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/verizon-rises-earnings-beat-upgraded-152104744.html</guid>
       <pubDate>29/04/2026 00:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/investorshub_458/39cfb0c8626378a94e76ab66debbbed0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Slides do terceiro trimestre do exercício financeiro da Westgold: US$ 285 milhões em caixa alimentam ambições...</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/westgold-q3-fy26-slides-285m-cash-build-fuels-growth-ambitions-93CH-4643488</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/westgold-q3-fy26-slides-285m-cash-build-fuels-growth-ambitions-93CH-4643488</guid>
-      <pubDate>28/04/2026 23:58</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/f74a2a42b8581b7745fc5c2accc94378e988a76dd1a0749836c418db2564bce6.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
