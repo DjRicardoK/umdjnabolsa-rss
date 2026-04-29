@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 16:13:28 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 16:18:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Brasil cria mais empregos formais do que o esperado em março</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/brazil-creates-more-formal-jobs-than-expected-in-march-4646613</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/brazil-creates-more-formal-jobs-than-expected-in-march-4646613</guid>
+      <pubDate>29/04/2026 16:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1HG_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: First Commonwealth Financial Q1 2026 perde previsão de EPS</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/jpmorgans-michele-says-fed-could-stay-on-hold-through-yearend-93CH-4646415</guid>
       <pubDate>29/04/2026 14:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_2_M_1440048332.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da L3Harris no convés à medida que a expansão da unidade de mísseis toma forma</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/l3harris-earnings-on-deck-as-missile-unit-expansion-takes-shape-93CH-4646416</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/l3harris-earnings-on-deck-as-missile-unit-expansion-takes-shape-93CH-4646416</guid>
-      <pubDate>29/04/2026 14:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
