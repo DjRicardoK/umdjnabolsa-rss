@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 06:08:15 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:15:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs aumenta meta de MPLX para US$ 63, cita forte impulso do setor</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-raises-mplx-target-231407103.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-raises-mplx-target-231407103.html</guid>
+      <pubDate>29/04/2026 06:15</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/cc88fe4a0a16614c80d5e42ac175454e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Facebook e Instagram devem fazer mais para bloquear menores de 13 anos, alerta UE em acusações Meta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-oklo-partner-ai-factories-195536470.html</guid>
       <pubDate>29/04/2026 04:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/2570bd70c443947a48f093105731365e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os estoques quânticos estão esfriando após os ganhos de 2025. O que vem por aí para IonQ, D-Wave e Peers.</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/quantum-stocks-ionq-dwave-rigetti-b1a03091?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/quantum-stocks-ionq-dwave-rigetti-b1a03091?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>29/04/2026 04:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/39bea7e94a85c3455e20a7d0c4b34e7f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
