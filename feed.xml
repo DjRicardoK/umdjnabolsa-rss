@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 10:22:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:25:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fabric.AI começa a ser negociado sob o novo ticker FABC na Nasdaq</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/fabricai-begins-trading-under-new-ticker-fabc-on-nasdaq-93CH-4645314</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/fabricai-begins-trading-under-new-ticker-fabc-on-nasdaq-93CH-4645314</guid>
+      <pubDate>29/04/2026 10:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Seagate disparam após a demanda por IA impulsionar grandes ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-next-recession-could-actually-be-a-win-for-stocks-if-you-can-tune-out-the-market-noise-534acdee?mod=mw_rss_topstories</guid>
       <pubDate>29/04/2026 09:11</pubDate>
       <enclosure url="https://images.mktw.net/im-349007" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BigCommerce integra PayPal Store Sync para compras com IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/bigcommerce-integrates-paypal-store-sync-for-ai-shopping-93CH-4644742</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/bigcommerce-integrates-paypal-store-sync-for-ai-shopping-93CH-4644742</guid>
-      <pubDate>29/04/2026 09:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
