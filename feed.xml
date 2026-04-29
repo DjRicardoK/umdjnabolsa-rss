@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:01:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:10:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Michael Burry discorda da narrativa da IA, compra ações da Microsoft e 2 nomes inesperados</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/michael-burry-disagrees-ai-narrative-130002737.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/michael-burry-disagrees-ai-narrative-130002737.html</guid>
+      <pubDate>29/04/2026 18:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/edd189e9b5fef76cae40d22c16ace24d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Bed Bath &amp; Beyond Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dominos-pizza-q1-2026-results-miss-forecasts-93CH-4646697</guid>
       <pubDate>29/04/2026 16:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Starbucks?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-110818125.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-110818125.html</guid>
-      <pubDate>29/04/2026 16:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c0ac621d588fc8bf54cc1df09c489f3b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
