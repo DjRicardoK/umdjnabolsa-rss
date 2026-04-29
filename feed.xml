@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:59:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:59:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BofA reitera compra de ações da American Tower com meta de US$ 210</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-american-tower-stock-with-210-target-93CH-4645126</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-american-tower-stock-with-210-target-93CH-4645126</guid>
+      <pubDate>29/04/2026 09:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Roth / MKM aumenta a meta de preço das ações da Powell Industries devido ao impulso</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/blue-collar-worker-says-makes-110000103.html</guid>
       <pubDate>29/04/2026 08:09</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/475e2a05548b7d7cc6527d0e324b70dd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de hipotecas nos EUA sobem para 6,37%, diz MBA</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-mortgage-rates-tick-up-to-637-mba-says-4644428</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-mortgage-rates-tick-up-to-637-mba-says-4644428</guid>
-      <pubDate>29/04/2026 08:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0R0_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
