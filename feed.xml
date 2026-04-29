@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 19:08:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:14:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Kevin Warsh foi rotulado de ‘fantoche de meia’. Uma potencial ‘cadeira sombra’ do Federal Reserve é uma...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/kevin-warsh-labeled-sock-puppet-141555084.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/kevin-warsh-labeled-sock-puppet-141555084.html</guid>
+      <pubDate>29/04/2026 19:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/eaf2c839d1e4d32f136359aad54e681a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os diretores da Forward Air, Anderson e Edwards, deixarão o cargo após reunião anual</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pulmonx-q1-2026-reveals-mixed-results-stock-dips-93CH-4647109</guid>
       <pubDate>29/04/2026 18:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Michael Burry discorda da narrativa da IA, compra ações da Microsoft e 2 nomes inesperados</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/michael-burry-disagrees-ai-narrative-130002737.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/michael-burry-disagrees-ai-narrative-130002737.html</guid>
-      <pubDate>29/04/2026 18:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/edd189e9b5fef76cae40d22c16ace24d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
