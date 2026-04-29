@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 03:49:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:51:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Demissões chocantes (até 10%) podem ser pessimistas para essas duas ações de tecnologia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/shocking-layoffs-10-could-bearish-190837587.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/shocking-layoffs-10-could-bearish-190837587.html</guid>
+      <pubDate>29/04/2026 03:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/df358312f998bd6afe0e8aaaf6e0369f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Grupo Vimian relata receita no primeiro trimestre de US$ 116 milhões, superando estimativas de lucro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/china-again-touts-benefits-of-union-with-taiwan-taipei-rebuffs-4643552</guid>
       <pubDate>29/04/2026 02:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S07G_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Apple está ficando para trás em IA. Um novo CEO reviverá as ações da Apple?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/apple-falling-behind-ai-ceo-172949076.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-falling-behind-ai-ceo-172949076.html</guid>
-      <pubDate>29/04/2026 02:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0ebcb181fa5c1dc0fd30a445fb867adb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
