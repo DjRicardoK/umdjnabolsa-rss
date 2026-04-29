@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 01:25:17 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:29:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 do Bank of Marin (BMRC)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bank-marin-bmrc-q1-2026-164831194.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bank-marin-bmrc-q1-2026-164831194.html</guid>
+      <pubDate>29/04/2026 01:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE KPMG sai do negócio de auditoria federal dos EUA após perder contrato com o Pentágono, relata FT</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/nvidia-stock-price-record-catalyst-earnings-8ccdec80?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>28/04/2026 23:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/8b8ff1ecb127e7d18766f89de607ab0c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Amazon visa contratação em massa com software de agência, objetivo de humanizar a IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/amazon-targets-mass-hiring-with-agentic-software-goal-to-humanize-ai-4642354</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-targets-mass-hiring-with-agentic-software-goal-to-humanize-ai-4642354</guid>
-      <pubDate>28/04/2026 23:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3R1C2_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
