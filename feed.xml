@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 12:40:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 12:50:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE México exigirá que projetos federais usem aço local em resposta às tarifas dos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/mexico-to-require-public-projects-use-local-steel-after-us-tariffs-4645732</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/mexico-to-require-public-projects-use-local-steel-after-us-tariffs-4645732</guid>
+      <pubDate>29/04/2026 12:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S12C_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Impinj em foco à medida que o teste do primeiro trimestre se aproxima para o fabricante de RFID</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-029-4645821</guid>
       <pubDate>29/04/2026 11:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Sphere Entertainment Co atingem o máximo histórico de 138,17 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/sphere-entertainment-co-stock-hits-alltime-high-at-13817-usd-93CH-4645747</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/sphere-entertainment-co-stock-hits-alltime-high-at-13817-usd-93CH-4645747</guid>
-      <pubDate>29/04/2026 11:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
