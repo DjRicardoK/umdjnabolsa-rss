@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 10:06:43 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:10:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Olhos de Wall Street abertos antes dos lucros da Big Tech e reunião do Fed</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/wall-street-futures-mixed-ahead-of-big-tech-earnings-fed-meeting-4644012</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wall-street-futures-mixed-ahead-of-big-tech-earnings-fed-meeting-4644012</guid>
+      <pubDate>29/04/2026 10:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0K5_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cyabra anuncia composição do conselho após listagem na Nasdaq</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-key-global-oil-contract-tops-115-as-strait-of-hormuz-impasse-continues-ce2cdf04?mod=mw_rss_topstories</guid>
       <pubDate>29/04/2026 08:46</pubDate>
       <enclosure url="https://images.mktw.net/im-80201132" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O novo CEO da Apple, Ternus, provavelmente receberá destaque nos lucros à medida que fortes resultados se...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/apples-new-ceo-ternus-likely-to-get-earnings-spotlight-as-strong-results-loom-4644405</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apples-new-ceo-ternus-likely-to-get-earnings-spotlight-as-strong-results-loom-4644405</guid>
-      <pubDate>29/04/2026 08:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0Q4_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
