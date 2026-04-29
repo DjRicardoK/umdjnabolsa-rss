@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 19:08:19 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:08:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os diretores da Forward Air, Anderson e Edwards, deixarão o cargo após reunião anual</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/forward-air-directors-anderson-and-edwards-to-step-down-after-annual-meeting-93CH-4647294</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/forward-air-directors-anderson-and-edwards-to-step-down-after-annual-meeting-93CH-4647294</guid>
+      <pubDate>29/04/2026 19:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Bausch Health supera as estimativas de lucros do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/michael-burry-disagrees-ai-narrative-130002737.html</guid>
       <pubDate>29/04/2026 18:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/edd189e9b5fef76cae40d22c16ace24d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Bed Bath &amp; Beyond Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bed-bath-beyond-inc-q1-123000718.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bed-bath-beyond-inc-q1-123000718.html</guid>
-      <pubDate>29/04/2026 18:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/81fc108881a28cd74b343537f1f4b582" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
