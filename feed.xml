@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 06:16:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:28:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Modern Times Group, primeiro trimestre de 2026, vê alta de 18%...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-modern-times-group-q1-2026-sees-stock-surge-18-93CH-4643973</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-modern-times-group-q1-2026-sees-stock-surge-18-93CH-4643973</guid>
+      <pubDate>29/04/2026 06:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os lucros do primeiro trimestre de 2026 do Grupo DWS superaram...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/arista-stock-anet-nvidia-meta-oracle-leaderboard/?src=A00220&yptr=yahoo</guid>
       <pubDate>29/04/2026 04:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/c66dad463655316a8f0919a91b26cf5e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Microsoft e OpenAI se separam, mas continuam amigos com alguns benefícios</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-openai-break-stay-friends-195647002.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-openai-break-stay-friends-195647002.html</guid>
-      <pubDate>29/04/2026 04:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/a0ad4e127f5b8222b517655da6f7a198" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
