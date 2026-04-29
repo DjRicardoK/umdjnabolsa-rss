@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 16:52:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 16:55:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Starbucks?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-110818125.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-110818125.html</guid>
+      <pubDate>29/04/2026 16:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c0ac621d588fc8bf54cc1df09c489f3b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE AMD Earnings Bull Put Spread tem alta probabilidade de sucesso</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/aes-earnings-on-deck-as-15-buyout-deal-looms-over-results-93CH-4646478</guid>
       <pubDate>29/04/2026 15:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Quanta Services em foco: O boom do poder da IA ​​​​pode justificar a avaliação?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/quanta-services-earnings-in-focus-can-ai-power-boom-justify-valuation-93CH-4646479</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/quanta-services-earnings-in-focus-can-ai-power-boom-justify-valuation-93CH-4646479</guid>
-      <pubDate>29/04/2026 15:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
