@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 22:37:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 22:40:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da Best Buy</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-best-buys-133700236.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-best-buys-133700236.html</guid>
+      <pubDate>28/04/2026 22:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6fb106aef5e5f08cebe9aab88df7ee30" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do segundo trimestre de 2026 da Broadcom: o que esperar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-could-biggest-loser-144344837.html</guid>
       <pubDate>28/04/2026 19:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b2c8ecf82d78d5405278844007950511" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro da construtora: D.R. Horton se destaca como tanque de vendas Pulte e NVR</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/homebuilder-earnings-d-r-horton-144000677.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/homebuilder-earnings-d-r-horton-144000677.html</guid>
-      <pubDate>28/04/2026 19:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/1094417b57ff9296750bad15dc433b0b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
