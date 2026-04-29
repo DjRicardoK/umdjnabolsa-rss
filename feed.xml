@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 03:33:19 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:33:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE À medida que os estoques de chips disparam, essa negociação de opções na AMD quase sempre gera lucro</title>
+      <description></description>
+      <link>https://www.investors.com/research/options/amd-stock-chips-options-trade-tech-markets/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/options/amd-stock-chips-options-trade-tech-markets/?src=A00220&yptr=yahoo</guid>
+      <pubDate>29/04/2026 03:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/d40374178e0110cab51355b0c6fbc936" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações se mantêm perto do pico com o início da semana movimentada de ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/easterly-government-properties-inc-q1-164701692.html</guid>
       <pubDate>29/04/2026 01:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/f02ec9c5fc3b22a53ce802c652534e86" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As primeiras 5 ações de computação quântica que eu compraria se estivesse começando do zero</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/first-5-quantum-computing-stocks-165800916.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/first-5-quantum-computing-stocks-165800916.html</guid>
-      <pubDate>29/04/2026 01:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/19414df28df6d5885be2c6bd62e23702" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
