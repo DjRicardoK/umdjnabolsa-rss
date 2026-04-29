@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:54:14 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:54:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bernstein reitera classificação das ações da Hilton devido a preocupações de avaliação</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bernstein-reiterates-hilton-stock-rating-on-valuation-concerns-93CH-4645108</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-hilton-stock-rating-on-valuation-concerns-93CH-4645108</guid>
+      <pubDate>29/04/2026 09:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE FTSE 100 hoje: Ações são negociadas em baixa enquanto temores de bloqueio do Irã eclipsam ganhos otimistas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/what-the-fed-has-seen-about-the-wars-impact-on-the-economy-so-far-4644176</guid>
       <pubDate>29/04/2026 07:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0NS_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da NeoGenomics sobem após lucros, duas atualizações</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/neogenomics-stock-surges-following-earnings-two-upgrades-93CH-4644192</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/neogenomics-stock-surges-following-earnings-two-upgrades-93CH-4644192</guid>
-      <pubDate>29/04/2026 07:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
