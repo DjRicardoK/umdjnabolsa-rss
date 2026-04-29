@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:40:19 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:44:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bloom Energy aumenta perspectiva alimentada por IA acima das visualizações após enorme queda nos ganhos</title>
+      <description></description>
+      <link>https://www.investors.com/news/bloom-energy-earnings-q1-be-stock/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/bloom-energy-earnings-q1-be-stock/?src=A00220&yptr=yahoo</guid>
+      <pubDate>29/04/2026 09:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/9ea2386ab323324fd0c0f362fa28598e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os investidores estão perdendo a fé nas promessas de IA da NVIDIA (NVDA)?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sberbank-q1-2026-reports-strong-profit-growth-amid-challenges-93CH-4644180</guid>
       <pubDate>29/04/2026 07:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fed provavelmente manterá taxas estáveis ​​naquela que pode ser a última reunião da era Powell</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-at-what-may-be-last-meeting-of-powell-era-4644098</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-at-what-may-be-last-meeting-of-powell-era-4644098</guid>
-      <pubDate>29/04/2026 07:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0LM_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
