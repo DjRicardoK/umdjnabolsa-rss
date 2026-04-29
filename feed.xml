@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:18:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:26:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fed provavelmente manterá taxas estáveis ​​naquela que pode ser a última reunião da era Powell</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-at-what-may-be-last-meeting-of-powell-era-4644098</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-at-what-may-be-last-meeting-of-powell-era-4644098</guid>
+      <pubDate>29/04/2026 07:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0LM_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Biogen atrapalhou as visualizações do primeiro trimestre de Wall Street; Aqui está o que aconteceu</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bofa-sees-brazil-inflation-risk-rising-as-market-premium-widens-93CH-4643972</guid>
       <pubDate>29/04/2026 06:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Modern Times Group, primeiro trimestre de 2026, vê alta de 18%...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-modern-times-group-q1-2026-sees-stock-surge-18-93CH-4643973</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-modern-times-group-q1-2026-sees-stock-surge-18-93CH-4643973</guid>
-      <pubDate>29/04/2026 06:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
