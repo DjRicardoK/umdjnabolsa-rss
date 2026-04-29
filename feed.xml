@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:40:43 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 14:45:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Seabridge Gold (SA) informa estimativa inicial de recursos para o depósito Snip North</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/seabridge-gold-sa-reports-maiden-173338956.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/seabridge-gold-sa-reports-maiden-173338956.html</guid>
+      <pubDate>29/04/2026 14:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0b039d8987d1d0e2cc26f01f11cf038f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Apellis a seguir: Último relatório antes da aquisição da Biogen?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-rise-as-earnings-take-centre-stage-adidas-rallies-on-strong-earnings-4643717</guid>
       <pubDate>29/04/2026 13:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0DW_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da linha pré-formada sobem à medida que as pressões sobre os lucros testam a alta</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/preformed-line-earnings-on-deck-as-profit-pressures-test-rally-93CH-4646235</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/preformed-line-earnings-on-deck-as-profit-pressures-test-rally-93CH-4646235</guid>
-      <pubDate>29/04/2026 13:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
