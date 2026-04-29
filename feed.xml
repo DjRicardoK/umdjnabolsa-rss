@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:29:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:36:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: FormFactor Q1 2026 supera as expectativas de lucros, as ações sobem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-formfactor-q1-2026-beats-earnings-expectations-stock-rises-93CH-4647178</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-formfactor-q1-2026-beats-earnings-expectations-stock-rises-93CH-4647178</guid>
+      <pubDate>29/04/2026 18:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mais clientes estão comendo no Chipotle, apesar dos preços mais altos, contrariando as preocupações de Wall...</title>
       <description>As ações da Chipotle saltaram 6,2% no pregão de quarta-feira, depois que a empresa conseguiu obter um ganho surpreendente nas vendas nas mesmas lojas no primeiro trimestre.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sox-crosses-10-000-first-113002394.html</guid>
       <pubDate>29/04/2026 17:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c895bde2c9f51ad5a3f1c3f479a4b84b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços do petróleo sobem em meio ao fechamento contínuo de Ormuz; Fed mantém taxas conforme esperado</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/oil-prices-fall-from-3wk-high-uae-leaves-opec-hormuz-disruptions-persist-4643432</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-fall-from-3wk-high-uae-leaves-opec-hormuz-disruptions-persist-4643432</guid>
-      <pubDate>29/04/2026 17:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8604B_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
