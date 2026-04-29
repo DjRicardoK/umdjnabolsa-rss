@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 22:59:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 22:59:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O IPC da Austrália sobe em março, mas ligeiramente abaixo das expectativas; núcleo de inflação estável</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/australia-cpi-surges-in-march-but-slightly-below-expectations-core-inflation-flat-4643469</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/australia-cpi-surges-in-march-but-slightly-below-expectations-core-inflation-flat-4643469</guid>
+      <pubDate>28/04/2026 22:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECA10T7_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações recuam no Irã, preocupações de IA à medida que reunião do Fed se aproxima</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-delta-electronics-thailand-posts-record-q1-2026-results-93CH-4643429</guid>
       <pubDate>28/04/2026 21:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os três aristocratas dos dividendos que Wall Street considera uma ‘compra forte’ com até 46% de vantagem</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-dividend-aristocrats-wall-street-160002441.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-dividend-aristocrats-wall-street-160002441.html</guid>
-      <pubDate>28/04/2026 20:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fcebfc40d659e147fc2e5eab7e6cb524" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
