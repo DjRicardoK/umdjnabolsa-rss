@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 13:32:35 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:32:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tenet Healthcare enfrenta teste de lucros à medida que as margens do hospital são pressionadas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/tenet-healthcare-faces-earnings-test-as-hospital-margins-pressured-93CH-4646187</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/tenet-healthcare-faces-earnings-test-as-hospital-margins-pressured-93CH-4646187</guid>
+      <pubDate>29/04/2026 13:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Todos os olhos voltados para os lucros da Jones Lang LaSalle à medida que o fluxo de negócios se recupera</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/earnings/axalta-earnings-on-deck-amid-muted-auto-demand-merger-vote-93CH-4645924</link>
       <guid isPermaLink="false">https://www.investing.com/news/earnings/axalta-earnings-on-deck-amid-muted-auto-demand-merger-vote-93CH-4645924</guid>
       <pubDate>29/04/2026 12:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da MaxLinear Inc atingem alta de 52 semanas a 63,53 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/maxlinear-inc-stock-hits-52week-high-at-6353-usd-93CH-4645918</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/maxlinear-inc-stock-hits-52week-high-at-6353-usd-93CH-4645918</guid>
-      <pubDate>29/04/2026 12:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
