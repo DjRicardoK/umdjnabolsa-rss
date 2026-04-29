@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:11:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:26:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE GE HealthCare corta previsão de lucro anual à medida que a inflação pesa sobre os custos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/ge-healthcare-cuts-annual-profit-120925512.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/ge-healthcare-cuts-annual-profit-120925512.html</guid>
+      <pubDate>29/04/2026 09:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/ba286decdf81f6ade30a5989c21b810d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A próxima recessão pode, na verdade, ser uma vitória para as ações – se você conseguir ignorar o ruído do...</title>
       <description>As margens de lucro das empresas e os múltiplos P/E – e não as previsões do PIB – são as verdadeiras ferramentas para sobreviver a um mercado em baixa.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/powells-tenure-as-fed-chief-bookended-by-trump-draws-to-a-close-4644100</guid>
       <pubDate>29/04/2026 07:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0M1_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do segundo semestre de 2025 da Futura Medical...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-futura-medicals-h2-2025-results-show-sharp-revenue-drop-93CH-4644102</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-futura-medicals-h2-2025-results-show-sharp-revenue-drop-93CH-4644102</guid>
-      <pubDate>29/04/2026 07:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
