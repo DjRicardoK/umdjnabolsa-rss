@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 12:36:35 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 12:38:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (LGIH) é um dos melhores estoques de imóveis para comprar?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/lgi-homes-inc-lgih-one-152228315.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lgi-homes-inc-lgih-one-152228315.html</guid>
+      <pubDate>29/04/2026 12:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2e19f667d4debc68462145370abf32db" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A economia realmente ficou mais forte durante a guerra do Irão? Aqui está o que os números nos dizem.</title>
       <description>A economia dos EUA teve um início lento em 2026, mas parece ter terminado forte no final do primeiro trimestre, apesar da guerra com o Irão.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/iran-war-is-fueling-a-bond-selloff-ahead-of-fed-chair-jerome-powells-final-press-conference-cc2dba04?mod=mw_rss_topstories</guid>
       <pubDate>29/04/2026 11:36</pubDate>
       <enclosure url="https://images.mktw.net/im-30027774" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da SoFi caem após relatório de lucros mistos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/sofi-stock-falls-after-mixed-earnings-report-110124274.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/sofi-stock-falls-after-mixed-earnings-report-110124274.html</guid>
-      <pubDate>29/04/2026 11:32</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/XG6Hwo0mP.RzeXR6ZgfUfA--~B/aD0xMzY4O3c9MjQzMjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a1c7f38e-20fc-4187-b1c9-9efa0ace9143_e5b90473bf29e9bdbc24096f4f2a574548f5b76d4938912877abfa8ef20d9a3d.net/images/2026-04/a1c7f38e-20fc-4187-b1c9-9efa0ace9143" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
