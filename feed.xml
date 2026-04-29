@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 04:55:24 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 04:59:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Andritz L vê forte no primeiro trimestre de 2026, ações sobem...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-andritz-l-sees-strong-q1-2026-stock-rises-475-93CH-4643749</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-andritz-l-sees-strong-q1-2026-stock-rises-475-93CH-4643749</guid>
+      <pubDate>29/04/2026 04:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do Bank of Marin Bancorp</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vardhman-special-steels-q4-2026-sees-record-profits-93CH-4643677</guid>
       <pubDate>29/04/2026 03:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Queda de quase 30% em 2026, as ações da SoFi são uma compra antes dos lucros do primeiro trimestre?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/down-nearly-30-2026-sofi-190354382.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/down-nearly-30-2026-sofi-190354382.html</guid>
-      <pubDate>29/04/2026 03:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e8fc76870f20a7bd9e7e55d007c2b4b4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
