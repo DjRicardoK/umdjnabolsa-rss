@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 03:06:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:14:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bitcoin volta para US$ 80 mil – mas um bilionário pode estar alimentando grande parte da alta</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-drives-back-toward-80k-183213544.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bitcoin-drives-back-toward-80k-183213544.html</guid>
+      <pubDate>29/04/2026 03:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/fortune_175/9b790d7847c35f0f8d2e3eb8cfa47ff7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 1,76%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bank-marin-bmrc-q1-2026-164831194.html</guid>
       <pubDate>29/04/2026 01:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE KPMG sai do negócio de auditoria federal dos EUA após perder contrato com o Pentágono, relata FT</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/kpmg-exits-us-federal-audit-business-after-losing-pentagon-contract-ft-reports-4643499</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/kpmg-exits-us-federal-audit-business-after-losing-pentagon-contract-ft-reports-4643499</guid>
-      <pubDate>29/04/2026 01:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S050_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
