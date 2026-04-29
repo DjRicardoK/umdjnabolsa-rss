@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 22:40:45 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 22:40:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da Lennar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-lennars-report-134214762.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-lennars-report-134214762.html</guid>
+      <pubDate>28/04/2026 22:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6c24f4d2a9670deb320818fe6d6212ce" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da Best Buy</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/iran-war-bonds-interest-rate-response-caf3f034?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>28/04/2026 20:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/ec93c0d9c0c085f17cd4644158763ae8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Como as ações da Nvidia podem ser as maiores perdedoras com o IPO da SpaceX</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-could-biggest-loser-144344837.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-could-biggest-loser-144344837.html</guid>
-      <pubDate>28/04/2026 19:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b2c8ecf82d78d5405278844007950511" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
