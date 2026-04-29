@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 13:49:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:57:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE conclui IPO SPAC de US$ 220 milhões na Nasdaq</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/irenic-acquisition-corp-completes-220m-spac-ipo-on-nasdaq-93CH-4646275</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/irenic-acquisition-corp-completes-220m-spac-ipo-on-nasdaq-93CH-4646275</guid>
+      <pubDate>29/04/2026 13:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dave Stock afunda na zona de compra. Os ganhos irão aumentar novamente?</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-televisa-q1-2026-sees-eps-beat-stock-rises-93CH-4646089</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-televisa-q1-2026-sees-eps-beat-stock-rises-93CH-4646089</guid>
       <pubDate>29/04/2026 13:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tesouro dos EUA estende prazo para vendas de ativos da Lukoil até 30 de maio</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/us-treasury-extends-deadline-for-lukoil-asset-sales-to-may-30-93CH-4646032</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/us-treasury-extends-deadline-for-lukoil-asset-sales-to-may-30-93CH-4646032</guid>
-      <pubDate>29/04/2026 12:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
