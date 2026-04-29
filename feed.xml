@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:36:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:38:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Micron atingiu um nível explosivo de 557% mais alto. Ainda é um dos estoques de semicondutores mais baratos...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/micron-explosive-557-run-higher-133002674.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/micron-explosive-557-run-higher-133002674.html</guid>
+      <pubDate>29/04/2026 18:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/7ad70eb4f0fe0219527f3dcac4789db7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 13F GOLDEN ROAD ADVISORS LLC Para: 29 de abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/wall-street-bullish-bearish-exxon-120832326.html</guid>
       <pubDate>29/04/2026 17:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d88b1effc53318b1fa474de31d284054" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações Discovery da Warner Bros.: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warner-bros-discovery-stock-wall-115128266.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warner-bros-discovery-stock-wall-115128266.html</guid>
-      <pubDate>29/04/2026 17:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9eb0a0cee01d3f12fd0f9af9355c345a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
