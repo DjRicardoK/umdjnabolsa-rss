@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 19:56:35 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:56:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os resultados do terceiro trimestre de 2026 da Microsoft...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-microsoft-q3-2026-results-exceed-expectations-stock-dips-93CH-4647426</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-microsoft-q3-2026-results-exceed-expectations-stock-dips-93CH-4647426</guid>
+      <pubDate>29/04/2026 19:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Equinix Q1 2026 mostra forte desempenho, ações sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-outlook-wall-street-134023801.html</guid>
       <pubDate>29/04/2026 18:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/828805b72adb05952504a4fefd6c1a8a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da Ford Motor irão subir ou afundar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-ford-133631339.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-ford-133631339.html</guid>
-      <pubDate>29/04/2026 18:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/eb5ef686bb801f65859c91589625af7e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
