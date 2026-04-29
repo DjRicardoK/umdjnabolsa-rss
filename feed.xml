@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 21:46:51 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 22:00:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs proíbe banqueiros de Hong Kong de usar IA antrópica, relata FT</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-bars-hong-kong-bankers-from-anthropic-ai-use-ft-reports-4643442</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-bars-hong-kong-bankers-from-anthropic-ai-use-ft-reports-4643442</guid>
+      <pubDate>28/04/2026 21:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S010_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Aeris Resources, terceiro trimestre de 2026, vê forte...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/financial-stock-wins-whether-interest-142500091.html</guid>
       <pubDate>28/04/2026 19:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/4db649c2b90305215f3d75606c547e0e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer discute ações da NVIDIA (NVDA)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-nvidia-nvda-142050782.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-nvidia-nvda-142050782.html</guid>
-      <pubDate>28/04/2026 19:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/094ee83d0d34849418ab9a78e4d78acc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
