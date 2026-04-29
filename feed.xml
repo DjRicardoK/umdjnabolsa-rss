@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:35:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:40:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os investidores estão perdendo a fé nas promessas de IA da NVIDIA (NVDA)?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/investors-losing-faith-nvidia-nvda-123240311.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/investors-losing-faith-nvidia-nvda-123240311.html</guid>
+      <pubDate>29/04/2026 09:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e27167f0d0ea28c9ccebcdb03eceb280" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mizuho aumenta a meta de preço das ações da Starbucks após a queda dos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-likely-to-hold-rates-steady-at-what-may-be-last-meeting-of-powell-era-4644098</guid>
       <pubDate>29/04/2026 07:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0LM_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Biogen atrapalhou as visualizações do primeiro trimestre de Wall Street; Aqui está o que aconteceu</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/biogen-stock-biogen-earnings-q1-2026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/biogen-stock-biogen-earnings-q1-2026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>29/04/2026 07:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/c1625f1f8b75121675b6ada9243ba22d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
