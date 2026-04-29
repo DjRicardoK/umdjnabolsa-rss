@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 12:50:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 12:50:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Tesouro dos EUA estende prazo para vendas de ativos da Lukoil até 30 de maio</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/us-treasury-extends-deadline-for-lukoil-asset-sales-to-may-30-93CH-4646032</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/us-treasury-extends-deadline-for-lukoil-asset-sales-to-may-30-93CH-4646032</guid>
+      <pubDate>29/04/2026 12:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Sirius XM enfrenta teste de ganhos: o negócio do YouTube pode compensar a rotatividade?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/four-corners-property-trust-earnings-set-to-test-tenant-strength-93CH-4645809</guid>
       <pubDate>29/04/2026 11:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Belden em alta: o crescimento do data center pode compensar o declínio do primeiro trimestre?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/belden-earnings-on-deck-can-data-center-growth-offset-q1-decline-93CH-4645819</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/belden-earnings-on-deck-can-data-center-growth-offset-q1-decline-93CH-4645819</guid>
-      <pubDate>29/04/2026 11:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
