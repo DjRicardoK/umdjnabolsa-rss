@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 11:24:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 11:24:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Robinhood têm preço-alvo reduzido para US$ 65 por KBW devido à perda de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/robinhood-shares-see-price-target-cut-to-65-by-kbw-on-earnings-miss-93CH-4645658</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/robinhood-shares-see-price-target-cut-to-65-by-kbw-on-earnings-miss-93CH-4645658</guid>
+      <pubDate>29/04/2026 11:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Diebold Nixdorf em alta enquanto os investidores observam as tendências das margens</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/cyabra-announces-board-composition-following-nasdaq-listing-93CH-4645215</guid>
       <pubDate>29/04/2026 10:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE AbbVie aumenta perspectiva de ganhos com desempenho superior do Immunology Duo</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/abbvie-stock-abbvie-earnings-q1-2026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/abbvie-stock-abbvie-earnings-q1-2026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>29/04/2026 10:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/5f28833afc0a5869fde03794f79126d3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
