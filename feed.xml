@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:32:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 14:40:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da American Water é o próximo em meio ao progresso da fusão Essential</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/american-water-earnings-up-next-amid-essential-merger-progress-93CH-4646406</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/american-water-earnings-up-next-amid-essential-merger-progress-93CH-4646406</guid>
+      <pubDate>29/04/2026 14:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da FTAI Aviation a seguir: foco no poder após tropeço</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-acquires-testinsight-streamline-162315342.html</guid>
       <pubDate>29/04/2026 13:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/30564276c6a36d9f637a0920cfd8e42a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Saul centra os ganhos a seguir: O varejo pode compensar o atraso no desenvolvimento?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/saul-centers-earnings-up-next-can-retail-offset-development-drag-93CH-4646200</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/saul-centers-earnings-up-next-can-retail-offset-development-drag-93CH-4646200</guid>
-      <pubDate>29/04/2026 13:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
