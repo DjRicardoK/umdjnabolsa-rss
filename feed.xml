@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 03:52:01 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:54:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os investidores estão em pânico com cerca de US$ 25 bilhões em gastos na Tesla, mas o IPO da SpaceX pode...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/investors-panicking-25-billion-spending-192700681.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/investors-panicking-25-billion-spending-192700681.html</guid>
+      <pubDate>29/04/2026 03:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c9768b724915bd5726850b8bf3f4cf93" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer diz “Acho que a Apple está indo excepcionalmente bem”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazons-chip-business-bigger-amd-174949476.html</guid>
       <pubDate>29/04/2026 02:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/53921926b0ea4c196011ac50e860a881" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Nvidia pode desbloquear a próxima etapa de reavaliação por meio de maiores retornos em dinheiro, diz o BofA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-could-unlock-next-leg-174500997.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-could-unlock-next-leg-174500997.html</guid>
-      <pubDate>29/04/2026 02:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/proactive_us_504/21f7bc8561f5fbfa76ae360e854f90f8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
