@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 06:28:03 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:28:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BofA vê risco de inflação no Brasil aumentando à medida que o prêmio do mercado aumenta</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/bofa-sees-brazil-inflation-risk-rising-as-market-premium-widens-93CH-4643972</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bofa-sees-brazil-inflation-risk-rising-as-market-premium-widens-93CH-4643972</guid>
+      <pubDate>29/04/2026 06:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Modern Times Group, primeiro trimestre de 2026, vê alta de 18%...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/fed-confirms-tech-developers-feared-195351920.html</guid>
       <pubDate>29/04/2026 04:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/decrypt_157/bf91df18f018a58350032f33d3050d0d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Arista Stock se recupera após perder Meta, Oracle negocia com Nvidia</title>
-      <description></description>
-      <link>https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/arista-stock-anet-nvidia-meta-oracle-leaderboard/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/how-to-find-the-best-stocks-to-buy/arista-stock-anet-nvidia-meta-oracle-leaderboard/?src=A00220&yptr=yahoo</guid>
-      <pubDate>29/04/2026 04:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/c66dad463655316a8f0919a91b26cf5e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
