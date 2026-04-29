@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 03:51:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:52:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer diz “Acho que a Apple está indo excepcionalmente bem”</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-apple-190936030.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-apple-190936030.html</guid>
+      <pubDate>29/04/2026 03:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/abe42548427d5976d59895bbd8b8797c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Demissões chocantes (até 10%) podem ser pessimistas para essas duas ações de tecnologia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-could-unlock-next-leg-174500997.html</guid>
       <pubDate>29/04/2026 02:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/proactive_us_504/21f7bc8561f5fbfa76ae360e854f90f8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China novamente apregoa benefícios da união com Taiwan, Taipei rejeita</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/china-again-touts-benefits-of-union-with-taiwan-taipei-rebuffs-4643552</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/china-again-touts-benefits-of-union-with-taiwan-taipei-rebuffs-4643552</guid>
-      <pubDate>29/04/2026 02:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S07G_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
