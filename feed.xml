@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 17:47:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 17:47:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da AvalonBay Communities, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/avalonbay-communities-inc-q1-2026-123000510.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/avalonbay-communities-inc-q1-2026-123000510.html</guid>
+      <pubDate>29/04/2026 17:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/29c78866633a78985c94c102e56d7bb0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Universal Health Services, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-plunge-ai-concerns-103453694.html</guid>
       <pubDate>29/04/2026 16:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/4b47a41dc88e63cb86d3bf03257ec07c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Brasil cria mais empregos formais do que o esperado em março</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/brazil-creates-more-formal-jobs-than-expected-in-march-4646613</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/brazil-creates-more-formal-jobs-than-expected-in-march-4646613</guid>
-      <pubDate>29/04/2026 16:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1HG_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
