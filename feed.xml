@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 02:38:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 02:38:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O negócio de chips da Amazon é maior que a AMD e em breve poderá ultrapassar Broadcom e Intel</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/amazons-chip-business-bigger-amd-174949476.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazons-chip-business-bigger-amd-174949476.html</guid>
+      <pubDate>29/04/2026 02:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/53921926b0ea4c196011ac50e860a881" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Nvidia pode desbloquear a próxima etapa de reavaliação por meio de maiores retornos em dinheiro, diz o BofA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-mixed-amid-iran-uncertainty-fed-caution-australia-cpi-jumps-in-q1-4643494</guid>
       <pubDate>29/04/2026 01:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB380HB_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Darden Restaurants: o que você precisa saber</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/darden-restaurants-quarterly-earnings-preview-161658234.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/darden-restaurants-quarterly-earnings-preview-161658234.html</guid>
-      <pubDate>29/04/2026 00:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/704cf8df42946964f0f22c5ad0abbfac" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
