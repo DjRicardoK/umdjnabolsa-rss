@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:12:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:12:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O mandato de Powell como chefe do Fed, marcado por Trump, chega ao fim</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/powells-tenure-as-fed-chief-bookended-by-trump-draws-to-a-close-4644100</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/powells-tenure-as-fed-chief-bookended-by-trump-draws-to-a-close-4644100</guid>
+      <pubDate>29/04/2026 07:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0M1_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do segundo semestre de 2025 da Futura Medical...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-raises-mplx-target-231407103.html</guid>
       <pubDate>29/04/2026 06:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/cc88fe4a0a16614c80d5e42ac175454e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Facebook e Instagram devem fazer mais para bloquear menores de 13 anos, alerta UE em acusações Meta</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/facebook-instagram-charged-with-breaching-rules-must-do-more-to-protect-kids-below-13-eu-says-4643696</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/facebook-instagram-charged-with-breaching-rules-must-do-more-to-protect-kids-below-13-eu-says-4643696</guid>
-      <pubDate>29/04/2026 06:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0CW_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
