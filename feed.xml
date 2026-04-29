@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:47:02 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:49:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro dos maiores credores da China no primeiro trimestre subiu mais de 3%, índices de empréstimos ácidos...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/chinas-largest-lenders-firstquarter-profit-up-over-3-sour-loan-ratios-steady-4644266</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-largest-lenders-firstquarter-profit-up-over-3-sour-loan-ratios-steady-4644266</guid>
+      <pubDate>29/04/2026 07:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0H9_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dow Jones Futures: Seagate, Bloom Energy e Teradyne lideram movimentadores de ganhos; Titãs da tecnologia...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wendy-company-wen-among-10-233420061.html</guid>
       <pubDate>29/04/2026 06:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/673fd253435cbe1971128f25a875fb11" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citizens reitera classificação das ações da Robinhood citando potencial de crescimento</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-robinhood-stock-rating-citing-growth-potential-93CH-4644002</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-robinhood-stock-rating-citing-growth-potential-93CH-4644002</guid>
-      <pubDate>29/04/2026 06:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
