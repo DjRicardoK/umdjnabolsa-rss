@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:54:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 14:54:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Chipotle deve reportar lucros à medida que a recuperação do tráfego ocupa o centro das atenções</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/chipotle-set-to-report-earnings-as-traffic-recovery-takes-center-stage-93CH-4646440</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/chipotle-set-to-report-earnings-as-traffic-recovery-takes-center-stage-93CH-4646440</guid>
+      <pubDate>29/04/2026 14:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Apple divulgará lucros do segundo trimestre, primeiro desde que anunciou Ternus como substituto de Cook</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/smurfit-westrock-earnings-loom-investors-seek-margin-stability-93CH-4646272</guid>
       <pubDate>29/04/2026 13:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lucros da Avnet no terceiro trimestre de 2026 superam ações e...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-avnet-q3-2026-earnings-beat-boosts-stock-93CH-4646273</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-avnet-q3-2026-earnings-beat-boosts-stock-93CH-4646273</guid>
-      <pubDate>29/04/2026 13:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
