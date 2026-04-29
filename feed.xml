@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:42:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:42:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da Ford Motor irão subir ou afundar?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-ford-133631339.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-ford-133631339.html</guid>
+      <pubDate>29/04/2026 18:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/eb5ef686bb801f65859c91589625af7e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os altos preços da energia estão criando uma oportunidade para os traders otimistas do dólar canadense. Como?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-u-s-produces-the-most-oil-in-the-world-so-why-are-gasoline-prices-so-high-4cb0d82c?mod=mw_rss_topstories</guid>
       <pubDate>29/04/2026 17:34</pubDate>
       <enclosure url="https://images.mktw.net/im-34173085" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Alphabet?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-120202425.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-120202425.html</guid>
-      <pubDate>29/04/2026 17:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4ce12ed3e6ffc7d71ef1568cd1e5d056" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
