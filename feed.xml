@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 23:38:14 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 23:38:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços ao consumidor no primeiro trimestre da Austrália saltam à medida que a guerra no Oriente Médio...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/australia-consumer-prices-jump-in-q1-core-inflation-stays-high-4643465</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-consumer-prices-jump-in-q1-core-inflation-stays-high-4643465</guid>
+      <pubDate>28/04/2026 23:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S01P_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Transcrição da teleconferência de resultados: Westgold Resources, terceiro trimestre de 2026, apresenta...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/broadcoms-q2-2026-earnings-expect-134429722.html</guid>
       <pubDate>28/04/2026 22:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/38df1e8f799572a3028bacbddc159392" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Sonoro Gold fecha colocação privada de US$ 12,2 milhões para avançar projeto de ouro no México</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/sonoro-gold-closes-12-2m-133400507.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sonoro-gold-closes-12-2m-133400507.html</guid>
-      <pubDate>28/04/2026 22:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/proactive_us_504/9b1aacf61849401fcffed759eb01ba68" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
