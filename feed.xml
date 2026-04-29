@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 15:43:17 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 15:43:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro aumenta ligeiramente as perdas depois que o Fed mantém as taxas estáveis, mas vê quatro dissidências</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-steadies-near-1mth-low-as-iran-uncertainty-persists-fed-in-focus-4643672</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-steadies-near-1mth-low-as-iran-uncertainty-persists-fed-in-focus-4643672</guid>
+      <pubDate>29/04/2026 15:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC920S1_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Factbox-Airlines cancelam voos em meio ao conflito no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/american-water-earnings-up-next-amid-essential-merger-progress-93CH-4646406</guid>
       <pubDate>29/04/2026 14:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da FTAI Aviation a seguir: foco no poder após tropeço</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/ftai-aviation-earnings-up-next-power-push-in-focus-after-stumble-93CH-4646381</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/ftai-aviation-earnings-up-next-power-push-in-focus-after-stumble-93CH-4646381</guid>
-      <pubDate>29/04/2026 14:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
