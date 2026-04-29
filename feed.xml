@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:55:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:55:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Perspectiva das ações da CVS Health: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cvs-health-stock-outlook-wall-135225530.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cvs-health-stock-outlook-wall-135225530.html</guid>
+      <pubDate>29/04/2026 18:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/119d745d9c06c85bd0eb33b5e28d0909" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Pfizer?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/crown-holdings-inc-q1-2026-123000827.html</guid>
       <pubDate>29/04/2026 17:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/c20e152a0593283a5574d31ec51df5a5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do armazenamento público no primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/public-storage-q1-2026-earnings-123000767.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/public-storage-q1-2026-earnings-123000767.html</guid>
-      <pubDate>29/04/2026 17:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/7bb61334e2017b5df420ab7b62113898" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
