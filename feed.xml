@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 12:16:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 12:24:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lucros da Carpenter Technology no terceiro trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-carpenter-technology-q3-2026-earnings-beat-boosts-stock-93CH-4645921</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-carpenter-technology-q3-2026-earnings-beat-boosts-stock-93CH-4645921</guid>
+      <pubDate>29/04/2026 12:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Esses trabalhadores podem economizar US$ 35.000 por ano em seus 401(k)s. Veja quantos realmente fazem isso.</title>
       <description>As taxas de contribuição de super recuperação são baixas: “A maioria das pessoas não tem esse tipo de rendimento discricionário”.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/diebold-nixdorf-earnings-on-deck-as-investors-eye-margin-trends-93CH-4645662</guid>
       <pubDate>29/04/2026 11:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A construção de novas casas atinge o maior nível em 15 meses, mas a crise imobiliária ainda não acabou</title>
-      <description>As construtoras intensificaram a construção em março, à medida que o clima esquentava e o início da construção de moradias atingia o maior nível em 15 meses, mas a recessão no...</description>
-      <link>https://www.marketwatch.com/story/construction-on-new-homes-jumps-to-a-15-month-high-but-the-real-estate-slump-isnt-over-32c3e336?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/construction-on-new-homes-jumps-to-a-15-month-high-but-the-real-estate-slump-isnt-over-32c3e336?mod=mw_rss_topstories</guid>
-      <pubDate>29/04/2026 11:13</pubDate>
-      <enclosure url="https://images.mktw.net/im-63309485" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
