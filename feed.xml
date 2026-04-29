@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:51:44 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:54:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Align Technology supera as previsões do primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-align-technology-beats-q1-2026-forecasts-with-strong-growth-93CH-4647255</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-align-technology-beats-q1-2026-forecasts-with-strong-growth-93CH-4647255</guid>
+      <pubDate>29/04/2026 18:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Perspectiva das ações da NVIDIA: Wall Street está em alta ou em baixa?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/amazon-shares-lower-as-record-ai-investment-offsets-cloud-acceleration-4646843</guid>
       <pubDate>29/04/2026 17:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE1B0L3_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações do Bank of America?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-bank-121140868.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-bank-121140868.html</guid>
-      <pubDate>29/04/2026 17:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ef32d77575ea5ef5ad08dd7cffe7bbad" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
