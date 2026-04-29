@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 06:00:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:01:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wells Fargo &amp; Company (WFC): uma das melhores ações de baixo risco e alto crescimento para comprar agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wells-fargo-company-wfc-one-211259481.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wells-fargo-company-wfc-one-211259481.html</guid>
+      <pubDate>29/04/2026 06:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/30bdd3b23c279ade4d8cc45da2a0b816" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Linde plc (LIN): Uma das ações promissoras de baixo risco e alto crescimento?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morgan-stanleys-top-picks-in-greater-china-semiconductors-93CH-4643681</guid>
       <pubDate>29/04/2026 04:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC490X1_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os lucros do primeiro trimestre da Medicover superaram as estimativas sobre a força das margens na Polônia e...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/medicover-q1-earnings-beat-estimates-on-margin-strength-in-poland-india-93CH-4643683</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/medicover-q1-earnings-beat-estimates-on-margin-strength-in-poland-india-93CH-4643683</guid>
-      <pubDate>29/04/2026 04:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
