@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 04:18:26 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 04:20:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fed confirma o que os desenvolvedores de tecnologia temem há dois anos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/fed-confirms-tech-developers-feared-195351920.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/fed-confirms-tech-developers-feared-195351920.html</guid>
+      <pubDate>29/04/2026 04:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/decrypt_157/bf91df18f018a58350032f33d3050d0d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Arista Stock se recupera após perder Meta, Oracle negocia com Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/tesla-tsla-boost-investments-ai-184038279.html</guid>
       <pubDate>29/04/2026 03:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/db2bb0bb195bee9d75e78a2a22919572" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bitcoin volta para US$ 80 mil – mas um bilionário pode estar alimentando grande parte da alta</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-drives-back-toward-80k-183213544.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bitcoin-drives-back-toward-80k-183213544.html</guid>
-      <pubDate>29/04/2026 03:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/fortune_175/9b790d7847c35f0f8d2e3eb8cfa47ff7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
