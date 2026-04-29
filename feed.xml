@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 00:04:44 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 00:20:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Domino’s Pizza caem após ganhos do primeiro trimestre que perdem as expectativas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/domino-pizza-shares-slip-q1-152716992.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/domino-pizza-shares-slip-q1-152716992.html</guid>
+      <pubDate>29/04/2026 00:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/investorshub_458/79dbbd30aebc068d7d3655eff64e9dfe" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Verizon sobe após superação de lucros e perspectiva atualizada</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-alcidion-group-sees-9-revenue-growth-in-q3-2026-93CH-4643458</guid>
       <pubDate>28/04/2026 22:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Accenture lançará Copilot para 743.000 funcionários em impulso para a Microsoft (27 de abril)</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/accenture-to-roll-out-copilot-to-743000-employees-in-boost-for-microsoft-april-27-4643459</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/accenture-to-roll-out-copilot-to-743000-employees-in-boost-for-microsoft-april-27-4643459</guid>
-      <pubDate>28/04/2026 22:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q18L_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
