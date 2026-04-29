@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 16:13:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 16:13:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: First Commonwealth Financial Q1 2026 perde previsão de EPS</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-first-commonwealth-financial-q1-2026-misses-eps-forecast-93CH-4646594</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-first-commonwealth-financial-q1-2026-misses-eps-forecast-93CH-4646594</guid>
+      <pubDate>29/04/2026 16:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os rendimentos do Tesouro sobem enquanto o Fed mantém as taxas em meio a preocupações com a inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/l3harris-earnings-on-deck-as-missile-unit-expansion-takes-shape-93CH-4646416</guid>
       <pubDate>29/04/2026 14:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A seguir, os ganhos da Amrize: A demanda dos construtores pode compensar a queda sazonal?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/amrize-earnings-up-next-can-builder-demand-offset-seasonal-slump-93CH-4646418</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/amrize-earnings-up-next-can-builder-demand-offset-seasonal-slump-93CH-4646418</guid>
-      <pubDate>29/04/2026 14:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
