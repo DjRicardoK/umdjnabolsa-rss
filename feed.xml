@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 06:01:01 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:08:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Facebook e Instagram devem fazer mais para bloquear menores de 13 anos, alerta UE em acusações Meta</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/facebook-instagram-charged-with-breaching-rules-must-do-more-to-protect-kids-below-13-eu-says-4643696</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/facebook-instagram-charged-with-breaching-rules-must-do-more-to-protect-kids-below-13-eu-says-4643696</guid>
+      <pubDate>29/04/2026 06:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0CW_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wells Fargo &amp; Company (WFC): uma das melhores ações de baixo risco e alto crescimento para comprar agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/quantum-stocks-ionq-dwave-rigetti-b1a03091?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>29/04/2026 04:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/39bea7e94a85c3455e20a7d0c4b34e7f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As principais escolhas do Morgan Stanley em semicondutores da Grande China</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/morgan-stanleys-top-picks-in-greater-china-semiconductors-93CH-4643681</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morgan-stanleys-top-picks-in-greater-china-semiconductors-93CH-4643681</guid>
-      <pubDate>29/04/2026 04:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC490X1_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
