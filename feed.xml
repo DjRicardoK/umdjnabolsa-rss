@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 00:55:45 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 00:55:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Darden Restaurants: o que você precisa saber</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/darden-restaurants-quarterly-earnings-preview-161658234.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/darden-restaurants-quarterly-earnings-preview-161658234.html</guid>
+      <pubDate>29/04/2026 00:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/704cf8df42946964f0f22c5ad0abbfac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Domino caem sobre os lucros. Ela está contando com mais lojas para estimular o crescimento.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-retreat-on-iran-ai-concerns-as-fed-meeting-looms-4643470</guid>
       <pubDate>28/04/2026 22:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S01S_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: EQ Resources Q3 2026 destaca forte desempenho financeiro</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-eq-resources-q3-2026-highlights-strong-financial-performance-93CH-4643471</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-eq-resources-q3-2026-highlights-strong-financial-performance-93CH-4643471</guid>
-      <pubDate>28/04/2026 22:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
