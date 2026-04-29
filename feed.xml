@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 03:33:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:48:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Vardhman Special Steels Q4 2026 registra lucros recordes</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-vardhman-special-steels-q4-2026-sees-record-profits-93CH-4643677</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vardhman-special-steels-q4-2026-sees-record-profits-93CH-4643677</guid>
+      <pubDate>29/04/2026 03:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Queda de quase 30% em 2026, as ações da SoFi são uma compra antes dos lucros do primeiro trimestre?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-why-wall-street-thinks-171322910.html</guid>
       <pubDate>29/04/2026 01:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/366b125be554b7b60102f8bd3370f86a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Oferta matinal: Fed navega em águas desconhecidas enquanto Powell se retira</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/morning-bid-fed-sails-into-unchartered-waters-as-powell-bows-out-4643501</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/morning-bid-fed-sails-into-unchartered-waters-as-powell-bows-out-4643501</guid>
-      <pubDate>29/04/2026 01:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S05C_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
