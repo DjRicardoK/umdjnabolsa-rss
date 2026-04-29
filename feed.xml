@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 23:07:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 23:10:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Alphabet (GOOGL) é um dos principais estoques de computação quântica de Jim Cramer</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/alphabet-googl-one-jim-cramer-142219680.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/alphabet-googl-one-jim-cramer-142219680.html</guid>
+      <pubDate>28/04/2026 23:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/722fa6e1a067b1274b73f466479e4aad" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Esta mudança na política de Trump pode mudar o jogo para os estoques de cannabis: 2 ações para observar agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/noble-corporation-plc-q1-2026-123000990.html</guid>
       <pubDate>28/04/2026 21:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/9efc5bdf01ce838e933ed38611c92504" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que esperar do próximo relatório de ganhos da Adobe</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/heres-expect-adobes-next-earnings-123640319.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/heres-expect-adobes-next-earnings-123640319.html</guid>
-      <pubDate>28/04/2026 21:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5b8a0c06ad42a0792af49c163718ef45" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
