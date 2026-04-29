@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 10:01:33 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 10:06:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cyabra anuncia composição do conselho após listagem na Nasdaq</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cyabra-announces-board-composition-following-nasdaq-listing-93CH-4645215</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cyabra-announces-board-composition-following-nasdaq-listing-93CH-4645215</guid>
+      <pubDate>29/04/2026 10:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE AbbVie aumenta perspectiva de ganhos com desempenho superior do Immunology Duo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apples-new-ceo-ternus-likely-to-get-earnings-spotlight-as-strong-results-loom-4644405</guid>
       <pubDate>29/04/2026 08:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0Q4_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Shenzhen da China facilita ainda mais restrições à compra de casas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/chinas-shenzhen-further-eases-homebuying-curbs-4644479</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-shenzhen-further-eases-homebuying-curbs-4644479</guid>
-      <pubDate>29/04/2026 08:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0RH_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
