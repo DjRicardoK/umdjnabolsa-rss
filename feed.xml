@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 16:18:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 16:19:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os futuros da Nasdaq despencam à medida que as preocupações com IA ressurgem, reunião do FOMC e ganhos em foco</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-plunge-ai-concerns-103453694.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-plunge-ai-concerns-103453694.html</guid>
+      <pubDate>29/04/2026 16:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4b47a41dc88e63cb86d3bf03257ec07c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Brasil cria mais empregos formais do que o esperado em março</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/apple-to-report-q2-earnings-first-since-announcing-ternus-as-cooks-replacement-174442811.html</guid>
       <pubDate>29/04/2026 14:54</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/VLQ48OfGd7z34JlzWJaCXQ--~B/aD0xOTUwO3c9MjkyNTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/3e2ea6db-de0b-456e-95ac-33c10a87966a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Michele, do JPMorgan, diz que o Fed pode permanecer em espera até o final do ano</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/jpmorgans-michele-says-fed-could-stay-on-hold-through-yearend-93CH-4646415</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/jpmorgans-michele-says-fed-could-stay-on-hold-through-yearend-93CH-4646415</guid>
-      <pubDate>29/04/2026 14:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_2_M_1440048332.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
