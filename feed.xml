@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:29:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 14:32:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da FTAI Aviation a seguir: foco no poder após tropeço</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/ftai-aviation-earnings-up-next-power-push-in-focus-after-stumble-93CH-4646381</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/ftai-aviation-earnings-up-next-power-push-in-focus-after-stumble-93CH-4646381</guid>
+      <pubDate>29/04/2026 14:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Prestige Consumer Healthcare sobem em meio a testes de consumo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/saul-centers-earnings-up-next-can-retail-offset-development-drag-93CH-4646200</guid>
       <pubDate>29/04/2026 13:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE BofA aumenta preço-alvo das ações da Invesco para US$ 29 com lucros superados</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/bofa-raises-invesco-stock-price-target-to-29-on-earnings-beat-93CH-4646186</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-raises-invesco-stock-price-target-to-29-on-earnings-beat-93CH-4646186</guid>
-      <pubDate>29/04/2026 13:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
