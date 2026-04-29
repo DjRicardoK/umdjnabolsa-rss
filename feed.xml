@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 11:28:25 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 11:28:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ganhos da CBIZ em alta como integração do Marcum, teste facial de estratégia de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/cbiz-earnings-on-deck-as-marcum-integration-ai-strategy-face-test-93CH-4645664</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/cbiz-earnings-on-deck-as-marcum-integration-ai-strategy-face-test-93CH-4645664</guid>
+      <pubDate>29/04/2026 11:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Austrália enfatiza interdependência comercial com a China em energia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/seagate-stock-stx-march-2026-earnings-ai/?src=A00220&yptr=yahoo</guid>
       <pubDate>29/04/2026 10:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/5ffd8b88b92c8aa637b210821cffd47e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Oxford Square Capital perde estimativas do primeiro trimestre...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-oxford-square-capital-misses-q1-2026-estimates-93CH-4645309</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-oxford-square-capital-misses-q1-2026-estimates-93CH-4645309</guid>
-      <pubDate>29/04/2026 10:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
