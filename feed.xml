@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 16:56:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 16:56:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A guerra dos EUA no Irão custou 25 mil milhões de dólares até agora, diz responsável do Pentágono</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/us-war-in-iran-has-cost-25-billion-so-far-says-pentagon-official-4645835</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-war-in-iran-has-cost-25-billion-so-far-says-pentagon-official-4645835</guid>
+      <pubDate>29/04/2026 16:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S17B_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: resultados da Domino&apos;s Pizza no primeiro trimestre de 2026...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/aflac-earnings-on-deck-can-japan-segment-deliver-turnaround-93CH-4646481</guid>
       <pubDate>29/04/2026 15:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/JapaneseYen_M_1440047753.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da BridgeBio em alta: a Attruby pode sustentar um crescimento rápido?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/bridgebio-earnings-on-deck-can-attruby-sustain-rapid-growth-93CH-4646482</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/bridgebio-earnings-on-deck-can-attruby-sustain-rapid-growth-93CH-4646482</guid>
-      <pubDate>29/04/2026 15:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
