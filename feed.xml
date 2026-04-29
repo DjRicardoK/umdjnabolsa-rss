@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:36:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:36:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Formulário 13F GOLDEN ROAD ADVISORS LLC Para: 29 de abril</title>
+      <description></description>
+      <link>https://www.investing.com/news/filings/form-13f-golden-road-advisors-llc-for-29-april-93CH-4647173</link>
+      <guid isPermaLink="false">https://www.investing.com/news/filings/form-13f-golden-road-advisors-llc-for-29-april-93CH-4647173</guid>
+      <pubDate>29/04/2026 18:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: FormFactor Q1 2026 supera as expectativas de lucros, as ações sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warner-bros-discovery-stock-wall-115128266.html</guid>
       <pubDate>29/04/2026 17:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/9eb0a0cee01d3f12fd0f9af9355c345a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE À medida que a SOX ultrapassa 10.000 pela primeira vez, Atomera e GCT Semiconductor são os dois estoques de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/sox-crosses-10-000-first-113002394.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sox-crosses-10-000-first-113002394.html</guid>
-      <pubDate>29/04/2026 17:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c895bde2c9f51ad5a3f1c3f479a4b84b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
