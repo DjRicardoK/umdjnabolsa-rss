@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:04:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 14:09:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Adlai Norye (ANL): 10 pequenas ações que estão pegando fogo agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/adlai-nortye-anl-10-tiny-170051634.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/adlai-nortye-anl-10-tiny-170051634.html</guid>
+      <pubDate>29/04/2026 14:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/cb4acad2704ec779462b2655cd2f756e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Target abre instalação logística de US$ 265 milhões em Houston e adiciona 185 empregos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-062-4646125</guid>
       <pubDate>29/04/2026 13:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/madridbolsa1_b._M_1440048368.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Espanha caem no fechamento do pregão; IBEX 35 caiu 0,62%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-062-4646126</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-062-4646126</guid>
-      <pubDate>29/04/2026 13:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE620EI_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
