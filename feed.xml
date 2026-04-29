@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 02:20:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 02:20:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Apple está ficando para trás em IA. Um novo CEO reviverá as ações da Apple?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/apple-falling-behind-ai-ceo-172949076.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-falling-behind-ai-ceo-172949076.html</guid>
+      <pubDate>29/04/2026 02:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0ebcb181fa5c1dc0fd30a445fb867adb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE &apos;Eu possuo minha casa devido à AAPL&apos; - investidores compartilham o quanto Tim Cook, da Apple, os enriqueceu</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/first-financial-bancorp-q1-earnings-154531559.html</guid>
       <pubDate>29/04/2026 00:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/8aab592e06e803b76969f0267dd1a144" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição dos ganhos do segundo trimestre de 2025 da Kforce (KFRC)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/kforce-kfrc-q2-2025-earnings-153722918.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kforce-kfrc-q2-2025-earnings-153722918.html</guid>
-      <pubDate>29/04/2026 00:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
