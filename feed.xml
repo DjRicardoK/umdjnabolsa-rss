@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:24:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 14:24:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Reunião do Fed: Powell passa a tocha com cortes nas taxas no gelo (cobertura ao vivo)</title>
+      <description></description>
+      <link>https://www.investors.com/news/federal-reserve-meeting-jerome-powell-passes-torch-kevin-warsh-sp500/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/federal-reserve-meeting-jerome-powell-passes-torch-kevin-warsh-sp500/?src=A00220&yptr=yahoo</guid>
+      <pubDate>29/04/2026 14:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/f507e9a69bd7ba001d8325d21822e555" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Teva sobe 10% – e não está totalmente ligada aos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/tenet-healthcare-faces-earnings-test-as-hospital-margins-pressured-93CH-4646187</guid>
       <pubDate>29/04/2026 13:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Todos os olhos voltados para os lucros da Jones Lang LaSalle à medida que o fluxo de negócios se recupera</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/all-eyes-on-jones-lang-lasalle-earnings-as-deal-flow-recovers-93CH-4646189</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/all-eyes-on-jones-lang-lasalle-earnings-as-deal-flow-recovers-93CH-4646189</guid>
-      <pubDate>29/04/2026 13:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
