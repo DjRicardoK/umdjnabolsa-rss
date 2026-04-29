@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 12:25:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 12:26:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Entergy Corporation atingem o máximo histórico em 117.91 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/entergy-corporation-stock-hits-alltime-high-at-11791-usd-93CH-4645923</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/entergy-corporation-stock-hits-alltime-high-at-11791-usd-93CH-4645923</guid>
+      <pubDate>29/04/2026 12:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Axalta sobem em meio à demanda silenciosa por automóveis e votação de fusão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/cbiz-earnings-on-deck-as-marcum-integration-ai-strategy-face-test-93CH-4645664</guid>
       <pubDate>29/04/2026 11:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Austrália enfatiza interdependência comercial com a China em energia</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/australia-stresses-trade-interdependence-with-china-on-energy-93CH-4645665</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-stresses-trade-interdependence-with-china-on-energy-93CH-4645665</guid>
-      <pubDate>29/04/2026 11:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_M_1440048891.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
