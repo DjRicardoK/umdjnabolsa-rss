@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:01:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:01:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Bed Bath &amp; Beyond Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bed-bath-beyond-inc-q1-123000718.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bed-bath-beyond-inc-q1-123000718.html</guid>
+      <pubDate>29/04/2026 18:01</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/81fc108881a28cd74b343537f1f4b582" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Avidbank Holdings, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-110818125.html</guid>
       <pubDate>29/04/2026 16:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c0ac621d588fc8bf54cc1df09c489f3b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE AMD Earnings Bull Put Spread tem alta probabilidade de sucesso</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/options/articles/amd-earnings-bull-put-spread-110003670.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/amd-earnings-bull-put-spread-110003670.html</guid>
-      <pubDate>29/04/2026 16:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2f037aa1b6311e0b58b2e9ce3d0af154" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
