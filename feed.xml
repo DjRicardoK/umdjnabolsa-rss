@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 22:40:51 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 22:46:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Accenture lançará Copilot para 743.000 funcionários em impulso para a Microsoft (27 de abril)</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/accenture-to-roll-out-copilot-to-743000-employees-in-boost-for-microsoft-april-27-4643459</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/accenture-to-roll-out-copilot-to-743000-employees-in-boost-for-microsoft-april-27-4643459</guid>
+      <pubDate>28/04/2026 22:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3Q18L_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos: o que esperar do relatório da Lennar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/western-union-launch-solana-based-150400882.html</guid>
       <pubDate>28/04/2026 20:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/1b2153e4d0f0ce987de2f704fccc5a43" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Guerra do Irã está mudando o manual de títulos</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/iran-war-bonds-interest-rate-response-caf3f034?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/iran-war-bonds-interest-rate-response-caf3f034?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>28/04/2026 20:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/ec93c0d9c0c085f17cd4644158763ae8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
