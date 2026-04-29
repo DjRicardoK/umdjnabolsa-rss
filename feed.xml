@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:16:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:22:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As preocupações com a inflação global aumentam com o aumento dos preços da energia, mas ainda relativamente...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/global-inflation-worries-stir-energy-131542125.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/global-inflation-worries-stir-energy-131542125.html</guid>
+      <pubDate>29/04/2026 18:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/107b29e55a28e95782a9cfd5cf9c0a52" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Pulmonx Q1 2026 revela resultados mistos, quedas de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/powell-wraps-up-final-press-conference-as-fed-chair-93CH-4646700</guid>
       <pubDate>29/04/2026 17:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_4_M_1440048337.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A guerra dos EUA no Irão custou 25 mil milhões de dólares até agora, diz responsável do Pentágono</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/us-war-in-iran-has-cost-25-billion-so-far-says-pentagon-official-4645835</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-war-in-iran-has-cost-25-billion-so-far-says-pentagon-official-4645835</guid>
-      <pubDate>29/04/2026 16:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S17B_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
