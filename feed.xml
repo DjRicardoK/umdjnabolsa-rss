@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 13:11:22 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:11:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Espanha caem no fechamento do pregão; IBEX 35 caiu 0,62%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-062-4646125</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-062-4646125</guid>
+      <pubDate>29/04/2026 13:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/madridbolsa1_b._M_1440048368.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Espanha caem no fechamento do pregão; IBEX 35 caiu 0,62%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-carpenter-technology-q3-2026-earnings-beat-boosts-stock-93CH-4645921</guid>
       <pubDate>29/04/2026 12:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Esses trabalhadores podem economizar US$ 35.000 por ano em seus 401(k)s. Veja quantos realmente fazem isso.</title>
-      <description>As taxas de contribuição de super recuperação são baixas: “A maioria das pessoas não tem esse tipo de rendimento discricionário”.</description>
-      <link>https://www.marketwatch.com/story/these-workers-are-allowed-to-save-35-000-a-year-in-their-401-k-s-heres-how-many-actually-do-it-6c25bb26?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/these-workers-are-allowed-to-save-35-000-a-year-in-their-401-k-s-heres-how-many-actually-do-it-6c25bb26?mod=mw_rss_topstories</guid>
-      <pubDate>29/04/2026 12:16</pubDate>
-      <enclosure url="https://images.mktw.net/im-81668705" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
