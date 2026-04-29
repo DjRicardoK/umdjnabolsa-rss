@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:59:34 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:59:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Roth / MKM aumenta a meta de preço das ações da Powell Industries devido ao impulso</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/rothmkm-raises-powell-industries-stock-price-target-on-momentum-93CH-4645128</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rothmkm-raises-powell-industries-stock-price-target-on-momentum-93CH-4645128</guid>
+      <pubDate>29/04/2026 09:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China Southern adquirirá aviões Airbus por US$ 21,4 bilhões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-mortgage-rates-tick-up-to-637-mba-says-4644428</guid>
       <pubDate>29/04/2026 08:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0R0_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O novo CEO da Apple, Ternus, provavelmente receberá destaque nos lucros à medida que fortes resultados se...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/apples-ceo-ternus-likely-earnings-105451999.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apples-ceo-ternus-likely-earnings-105451999.html</guid>
-      <pubDate>29/04/2026 08:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/c9bdce3c527dd3767f5d7f86b4879664" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
