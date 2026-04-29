@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 00:55:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:05:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bolsas da Ásia mistas em meio à incerteza do Irã, cautela do Fed; CPI da Austrália salta no primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-mixed-amid-iran-uncertainty-fed-caution-australia-cpi-jumps-in-q1-4643494</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-mixed-amid-iran-uncertainty-fed-caution-australia-cpi-jumps-in-q1-4643494</guid>
+      <pubDate>29/04/2026 01:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB380HB_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos lucros trimestrais da Darden Restaurants: o que você precisa saber</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/australia-cpi-surges-in-march-but-slightly-below-expectations-core-inflation-flat-4643469</guid>
       <pubDate>28/04/2026 22:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECA10T7_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações recuam no Irã, preocupações de IA à medida que reunião do Fed se aproxima</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/stocks-retreat-on-iran-ai-concerns-as-fed-meeting-looms-4643470</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-retreat-on-iran-ai-concerns-as-fed-meeting-looms-4643470</guid>
-      <pubDate>28/04/2026 22:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S01S_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
