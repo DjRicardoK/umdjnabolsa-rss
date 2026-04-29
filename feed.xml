@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 14:20:19 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 14:24:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Teva sobe 10% – e não está totalmente ligada aos lucros</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/teva-stock-teva-pharmaceutical-earnings-q1-2026/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/teva-stock-teva-pharmaceutical-earnings-q1-2026/?src=A00220&yptr=yahoo</guid>
+      <pubDate>29/04/2026 14:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/b49690b4f983abda2c1660c43c36e9bd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da MGE Energy em foco enquanto as concessionárias de Wisconsin enfrentam ventos contrários</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/all-eyes-on-jones-lang-lasalle-earnings-as-deal-flow-recovers-93CH-4646189</guid>
       <pubDate>29/04/2026 13:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE CIBC reitera classificação de desempenho superior no Equinox Gold (EQX), vê os preços atuais do ouro como um...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/cibc-reiterates-outperform-rating-equinox-160339794.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/cibc-reiterates-outperform-rating-equinox-160339794.html</guid>
-      <pubDate>29/04/2026 13:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b6626247839a5ff15749b1c503bbdcbc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
