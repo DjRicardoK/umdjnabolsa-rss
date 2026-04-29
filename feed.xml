@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:05:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 08:08:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Taxas de hipotecas nos EUA sobem para 6,37%, diz MBA</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/us-mortgage-rates-tick-up-to-637-mba-says-4644428</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-mortgage-rates-tick-up-to-637-mba-says-4644428</guid>
+      <pubDate>29/04/2026 08:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0R0_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O novo CEO da Apple, Ternus, provavelmente receberá destaque nos lucros à medida que fortes resultados se...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-key-reasons-why-one-bank-now-says-u-s-stocks-will-outperform-european-equities-4ad7af88?mod=mw_rss_topstories</guid>
       <pubDate>29/04/2026 06:48</pubDate>
       <enclosure url="https://images.mktw.net/im-30806808" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Robert Half (RHI) é uma das melhores ações de dividendos, rendendo pelo menos 7% de acordo com os fundos de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/robert-half-rhi-one-best-233655685.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/robert-half-rhi-one-best-233655685.html</guid>
-      <pubDate>29/04/2026 06:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c744b8e380d10e948e557e78b8e86ff3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
