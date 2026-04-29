@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 05:24:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 05:24:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os lucros da Bilia AB no primeiro trimestre de 2026 mostram...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bilia-ab-q1-2026-earnings-show-strong-eps-growth-93CH-4643798</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bilia-ab-q1-2026-earnings-show-strong-eps-growth-93CH-4643798</guid>
+      <pubDate>29/04/2026 05:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs rebaixa classificação das ações da StoneCo devido a preocupações com lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/shocking-layoffs-10-could-bearish-190837587.html</guid>
       <pubDate>29/04/2026 03:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/df358312f998bd6afe0e8aaaf6e0369f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Grupo Vimian relata receita no primeiro trimestre de US$ 116 milhões, superando estimativas de lucro</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/vimian-group-reports-q1-revenue-of-116-million-beats-earnings-estimates-93CH-4643675</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/vimian-group-reports-q1-revenue-of-116-million-beats-earnings-estimates-93CH-4643675</guid>
-      <pubDate>29/04/2026 03:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6606G_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
