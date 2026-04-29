@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:10:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:16:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Pulmonx Q1 2026 revela resultados mistos, quedas de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-pulmonx-q1-2026-reveals-mixed-results-stock-dips-93CH-4647109</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pulmonx-q1-2026-reveals-mixed-results-stock-dips-93CH-4647109</guid>
+      <pubDate>29/04/2026 18:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Michael Burry discorda da narrativa da IA, compra ações da Microsoft e 2 nomes inesperados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/us-war-in-iran-has-cost-25-billion-so-far-says-pentagon-official-4645835</guid>
       <pubDate>29/04/2026 16:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S17B_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: resultados da Domino&apos;s Pizza no primeiro trimestre de 2026...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-dominos-pizza-q1-2026-results-miss-forecasts-93CH-4646697</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dominos-pizza-q1-2026-results-miss-forecasts-93CH-4646697</guid>
-      <pubDate>29/04/2026 16:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
