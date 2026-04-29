@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 13:34:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:45:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Viavi Solutions enfrenta teste de lucros à medida que aumenta a demanda por testes de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/viavi-solutions-faces-earnings-test-as-ai-testing-demand-surges-93CH-4646236</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/viavi-solutions-faces-earnings-test-as-ai-testing-demand-surges-93CH-4646236</guid>
+      <pubDate>29/04/2026 13:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Teradyne (TER) adquire TestInsight para simplificar testes de hardware de IA e data centers</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/impinj-earnings-in-focus-as-q1-test-looms-for-rfid-maker-93CH-4645983</guid>
       <pubDate>29/04/2026 12:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA601E0_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (LGIH) é um dos melhores estoques de imóveis para comprar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/lgi-homes-inc-lgih-one-152228315.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lgi-homes-inc-lgih-one-152228315.html</guid>
-      <pubDate>29/04/2026 12:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2e19f667d4debc68462145370abf32db" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
