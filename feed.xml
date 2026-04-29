@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 20:38:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 20:38:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Palantir Technologies?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-palantir-155217536.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-palantir-155217536.html</guid>
+      <pubDate>29/04/2026 20:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c98e3c0eea4738348fe5aad65db3d21" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Coca-Cola lidera Dow Jones após obter as melhores visualizações, mas isso preocupa os executivos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cvs-health-stock-outlook-wall-135225530.html</guid>
       <pubDate>29/04/2026 18:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/119d745d9c06c85bd0eb33b5e28d0909" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Pfizer?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-pfizer-134445616.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-pfizer-134445616.html</guid>
-      <pubDate>29/04/2026 18:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f19879619af2a7281ef6f16dfc8a04bf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
