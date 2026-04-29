@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 09:44:15 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 09:54:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações são negociadas em baixa enquanto temores de bloqueio do Irã eclipsam ganhos otimistas</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-down-as-iran-blockade-fears-eclipse-upbeat-earnings-4643753</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-down-as-iran-blockade-fears-eclipse-upbeat-earnings-4643753</guid>
+      <pubDate>29/04/2026 09:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE020E3_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bloom Energy aumenta perspectiva alimentada por IA acima das visualizações após enorme queda nos ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/neogenomics-stock-surges-following-earnings-two-upgrades-93CH-4644192</guid>
       <pubDate>29/04/2026 07:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Sberbank no primeiro trimestre de 2026 relata forte crescimento...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-sberbank-q1-2026-reports-strong-profit-growth-amid-challenges-93CH-4644180</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sberbank-q1-2026-reports-strong-profit-growth-amid-challenges-93CH-4644180</guid>
-      <pubDate>29/04/2026 07:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
