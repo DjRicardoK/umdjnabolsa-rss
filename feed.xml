@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 03:14:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:25:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE TESLA (TSLA) para impulsionar investimentos em IA, robótica e chips</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/tesla-tsla-boost-investments-ai-184038279.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/tesla-tsla-boost-investments-ai-184038279.html</guid>
+      <pubDate>29/04/2026 03:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/db2bb0bb195bee9d75e78a2a22919572" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bitcoin volta para US$ 80 mil – mas um bilionário pode estar alimentando grande parte da alta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/100-million-man-richest-ever-164652139.html</guid>
       <pubDate>29/04/2026 01:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d359d8594ff0023d477e0873b4f785ef" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 do Bank of Marin (BMRC)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bank-marin-bmrc-q1-2026-164831194.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bank-marin-bmrc-q1-2026-164831194.html</guid>
-      <pubDate>29/04/2026 01:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
