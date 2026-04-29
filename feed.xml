@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 02:42:52 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 02:45:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Deutsche Bank no primeiro trimestre de 2026 mostra fortes lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-deutsche-bank-q1-2026-shows-strong-profits-93CH-4643559</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-deutsche-bank-q1-2026-shows-strong-profits-93CH-4643559</guid>
+      <pubDate>29/04/2026 02:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Avis Budget caíram pela metade em um piscar de olhos... e Wall Street acha que ainda falta muito...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-steady-ahead-of-fed-decision-aussie-slips-as-cpi-misses-expectations-4643497</guid>
       <pubDate>29/04/2026 01:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/us_dollar_australian_dollar_M_1440050184.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O Fed se reúne sobre taxas esta semana. O que os investidores devem esperar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/fed-meets-rates-week-investors-162339593.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-meets-rates-week-investors-162339593.html</guid>
-      <pubDate>29/04/2026 01:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/02020fe8905b8891c1ce2bbbd733162d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
