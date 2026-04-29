@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 17:33:26 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 17:33:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Alphabet?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-120202425.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-120202425.html</guid>
+      <pubDate>29/04/2026 17:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4ce12ed3e6ffc7d71ef1568cd1e5d056" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street está otimista ou baixista nas ações da Exxon Mobil?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/powell-says-hell-stay-at-fed-as-governor-after-his-term-as-chair-ends-in-mid-may-c906c044?mod=mw_rss_topstories</guid>
       <pubDate>29/04/2026 15:49</pubDate>
       <enclosure url="https://images.mktw.net/im-40821138" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro aumenta ligeiramente as perdas depois que o Fed mantém as taxas estáveis, mas vê quatro dissidências</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-steadies-near-1mth-low-as-iran-uncertainty-persists-fed-in-focus-4643672</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-steadies-near-1mth-low-as-iran-uncertainty-persists-fed-in-focus-4643672</guid>
-      <pubDate>29/04/2026 15:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC920S1_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
