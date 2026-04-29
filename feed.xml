@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 01:33:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:41:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As primeiras 5 ações de computação quântica que eu compraria se estivesse começando do zero</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/first-5-quantum-computing-stocks-165800916.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/first-5-quantum-computing-stocks-165800916.html</guid>
+      <pubDate>29/04/2026 01:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/19414df28df6d5885be2c6bd62e23702" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Domino&apos;s Pizza, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazons-core-businesses-just-keep-150300132.html</guid>
       <pubDate>28/04/2026 23:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/7ef169e536753a0fdd4bb310818cc381" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços ao consumidor no primeiro trimestre da Austrália saltam à medida que a guerra no Oriente Médio...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/australia-consumer-prices-jump-in-q1-core-inflation-stays-high-4643465</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-consumer-prices-jump-in-q1-core-inflation-stays-high-4643465</guid>
-      <pubDate>28/04/2026 23:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S01P_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
