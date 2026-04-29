@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 20:27:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 20:38:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Coca-Cola lidera Dow Jones após obter as melhores visualizações, mas isso preocupa os executivos</title>
+      <description></description>
+      <link>https://www.investors.com/news/coca-cola-ko-stock-coke-earnings-inflation/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/coca-cola-ko-stock-coke-earnings-inflation/?src=A00220&yptr=yahoo</guid>
+      <pubDate>29/04/2026 20:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/3415eaaac05a6fbd4c0610155493864d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Fortinet?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-pfizer-134445616.html</guid>
       <pubDate>29/04/2026 18:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/f19879619af2a7281ef6f16dfc8a04bf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lucros do primeiro trimestre de 2026 da Alphabet disparam,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-alphabet-q1-2026-earnings-soar-stock-dips-93CH-4647252</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-alphabet-q1-2026-earnings-soar-stock-dips-93CH-4647252</guid>
-      <pubDate>29/04/2026 18:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
