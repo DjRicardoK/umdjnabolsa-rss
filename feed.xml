@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 17:02:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 17:02:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do petróleo sobem em meio ao fechamento contínuo de Ormuz; Fed mantém taxas conforme esperado</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/oil-prices-fall-from-3wk-high-uae-leaves-opec-hormuz-disruptions-persist-4643432</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-fall-from-3wk-high-uae-leaves-opec-hormuz-disruptions-persist-4643432</guid>
+      <pubDate>29/04/2026 17:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8604B_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Powell encerra última coletiva de imprensa como presidente do Fed</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/traders-stick-to-bets-the-fed-will-leave-rates-on-hold-well-into-next-year-4646535</guid>
       <pubDate>29/04/2026 15:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1F9_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fed mantém taxas estáveis, cita inflação elevada; três dissidentes contra o “preconceito de flexibilização”</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/fed-holds-rates-steady-cites-elevated-inflation-three-dissents-against-easing-bias-4646480</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/fed-holds-rates-steady-cites-elevated-inflation-three-dissents-against-easing-bias-4646480</guid>
-      <pubDate>29/04/2026 15:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1EG_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
