@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 18:42:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 18:51:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Perspectiva das ações da NVIDIA: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-outlook-wall-street-134023801.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-outlook-wall-street-134023801.html</guid>
+      <pubDate>29/04/2026 18:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/828805b72adb05952504a4fefd6c1a8a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da Ford Motor irão subir ou afundar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-bank-121140868.html</guid>
       <pubDate>29/04/2026 17:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ef32d77575ea5ef5ad08dd7cffe7bbad" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os EUA produzem a maior quantidade de petróleo do mundo. Então, por que os preços da gasolina são tão altos?</title>
-      <description>Os americanos estão a pagar os preços mais elevados pela gasolina em quase quatro anos, o que leva à frustração nas bombas e a preocupações com uma inflação mais elevada e uma...</description>
-      <link>https://www.marketwatch.com/story/the-u-s-produces-the-most-oil-in-the-world-so-why-are-gasoline-prices-so-high-4cb0d82c?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-u-s-produces-the-most-oil-in-the-world-so-why-are-gasoline-prices-so-high-4cb0d82c?mod=mw_rss_topstories</guid>
-      <pubDate>29/04/2026 17:34</pubDate>
-      <enclosure url="https://images.mktw.net/im-34173085" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
