@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 04:02:15 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 04:07:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os estoques quânticos estão esfriando após os ganhos de 2025. O que vem por aí para IonQ, D-Wave e Peers.</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/quantum-stocks-ionq-dwave-rigetti-b1a03091?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/quantum-stocks-ionq-dwave-rigetti-b1a03091?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>29/04/2026 04:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/39bea7e94a85c3455e20a7d0c4b34e7f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As principais escolhas do Morgan Stanley em semicondutores da Grande China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/invest-1-000-ai-stocks-181000632.html</guid>
       <pubDate>29/04/2026 02:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/02aa0f8683dc6d782196a2dc2b6e2d08" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Accenture lançará Copilot para 743.000 funcionários em impulso para a Microsoft (27 de abril)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/accenture-roll-copilot-743-000-180346038.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/accenture-roll-copilot-743-000-180346038.html</guid>
-      <pubDate>29/04/2026 02:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/9f24cb45423d042954e3218ef4bd3770" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
