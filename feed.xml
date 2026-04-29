@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 00:20:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 00:27:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição dos ganhos do segundo trimestre de 2025 da Kforce (KFRC)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/kforce-kfrc-q2-2025-earnings-153722918.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kforce-kfrc-q2-2025-earnings-153722918.html</guid>
+      <pubDate>29/04/2026 00:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Domino’s Pizza caem após ganhos do primeiro trimestre que perdem as expectativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-ahead-brown-formans-earnings-134159957.html</guid>
       <pubDate>28/04/2026 22:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/e670d860916c3c62811e47d949065dd8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Alcidion Group vê crescimento de receita de 9% no terceiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-alcidion-group-sees-9-revenue-growth-in-q3-2026-93CH-4643458</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-alcidion-group-sees-9-revenue-growth-in-q3-2026-93CH-4643458</guid>
-      <pubDate>28/04/2026 22:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
