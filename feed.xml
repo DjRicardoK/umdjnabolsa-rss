@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 07:12:28 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:18:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fed provavelmente manterá taxas estáveis ​​naquela que pode ser a última reunião da era Powell</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/fed-likely-hold-rates-steady-100436929.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-likely-hold-rates-steady-100436929.html</guid>
+      <pubDate>29/04/2026 07:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/0311ad6ff0c5e446d954b0b6fdcff4a5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mandato de Powell como chefe do Fed, marcado por Trump, chega ao fim</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dws-group-q1-2026-earnings-beat-expectations-93CH-4643943</guid>
       <pubDate>29/04/2026 06:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs aumenta meta de MPLX para US$ 63, cita forte impulso do setor</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-raises-mplx-target-231407103.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-raises-mplx-target-231407103.html</guid>
-      <pubDate>29/04/2026 06:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/cc88fe4a0a16614c80d5e42ac175454e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
