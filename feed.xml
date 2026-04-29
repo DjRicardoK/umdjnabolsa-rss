@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 23:22:56 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 23:25:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Apple é uma perdedora com um novo telefone OpenAI. Esta ação é um vencedor potencial.</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/openai-phone-qualcomm-stock-price-apple-1fb479e9?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/openai-phone-qualcomm-stock-price-apple-1fb479e9?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>28/04/2026 23:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/307c74e37acb134ae0ac578d81b5f637" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Syrah Resources no primeiro trimestre de 2026 vê aumento de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-aeris-resources-q3-2026-sees-strong-cash-flow-growth-93CH-4643434</guid>
       <pubDate>28/04/2026 21:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 3 ações de IA que podem vencer a Nvidia nos próximos cinco anos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-beat-nvidia-124000483.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-beat-nvidia-124000483.html</guid>
-      <pubDate>28/04/2026 21:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/740a29c24634ff90471064fc1c28541a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
