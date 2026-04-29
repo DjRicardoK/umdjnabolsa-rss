@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 28 Apr 2026 22:47:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 22:50:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Alliance Resource Partners sobem na receita, apesar da perda de ganhos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/alliance-partners-shares-climb-revenue-134819461.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alliance-partners-shares-climb-revenue-134819461.html</guid>
+      <pubDate>28/04/2026 22:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/investorshub_458/784c455ec470b8e10e51ff5ccadbe777" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que você precisa saber antes da divulgação dos lucros da Brown-Forman</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/incoming-apple-ceo-john-ternus-152513380.html</guid>
       <pubDate>28/04/2026 20:36</pubDate>
       <enclosure url="https://media.zenfs.com/en/fortune_175/9a90bd08e0d212b49559fd8c2d0883d5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações caem à medida que preços mais altos do petróleo estimulam preocupações com inflação</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-slip-higher-oil-prices-151720826.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-slip-higher-oil-prices-151720826.html</guid>
-      <pubDate>28/04/2026 20:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f4bae0dd54fbbfbfda10100516ce3a55" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
