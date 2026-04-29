@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 05:24:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 05:30:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Gjensidige Forsikring L vê reação positiva do mercado no...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-gjensidige-forsikring-l-sees-positive-q1-2025-market-reaction-93CH-4643819</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-gjensidige-forsikring-l-sees-positive-q1-2025-market-reaction-93CH-4643819</guid>
+      <pubDate>29/04/2026 05:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os lucros da Bilia AB no primeiro trimestre de 2026 mostram...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-apple-190936030.html</guid>
       <pubDate>29/04/2026 03:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/abe42548427d5976d59895bbd8b8797c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Demissões chocantes (até 10%) podem ser pessimistas para essas duas ações de tecnologia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/shocking-layoffs-10-could-bearish-190837587.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/shocking-layoffs-10-could-bearish-190837587.html</guid>
-      <pubDate>29/04/2026 03:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/df358312f998bd6afe0e8aaaf6e0369f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
