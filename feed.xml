@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 01:24:30 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:24:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Verizon Communications Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/verizon-communications-inc-q1-2026-164632208.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/verizon-communications-inc-q1-2026-164632208.html</guid>
+      <pubDate>29/04/2026 01:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/ee0bc3fe8af7856c2f23bef07b01a051" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O maior catalisador para ações da Tesla na história pode ser desencadeado em apenas 3 meses</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nickel-mines-sees-strong-q1-2026-growth-93CH-4643483</guid>
       <pubDate>28/04/2026 23:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Apple é uma perdedora com um novo telefone OpenAI. Esta ação é um vencedor potencial.</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/openai-phone-qualcomm-stock-price-apple-1fb479e9?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/openai-phone-qualcomm-stock-price-apple-1fb479e9?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>28/04/2026 23:25</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/307c74e37acb134ae0ac578d81b5f637" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
