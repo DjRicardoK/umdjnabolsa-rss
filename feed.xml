@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 23:25:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 23:36:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A produção industrial do Japão cai surpreendentemente à medida que a guerra no Irã afeta os produtos à base...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/japan-march-factory-output-unexpectedly-falls-05-monthonmonth-4647509</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/japan-march-factory-output-unexpectedly-falls-05-monthonmonth-4647509</guid>
+      <pubDate>29/04/2026 23:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T002_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dólar se mantém firme após Fed disparar alarme de inflação, iene passa de 160</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cybercab-production-buy-sell-hold-161243449.html</guid>
       <pubDate>29/04/2026 20:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/34057c4cdcc9d8fd5a9f2d4591efda0d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco Central do Brasil reduz taxas de juros novamente, de olho no conflito com o Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/brazil-central-bank-cuts-interest-rates-by-25-bp-as-expected-4647262</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/brazil-central-bank-cuts-interest-rates-by-25-bp-as-expected-4647262</guid>
-      <pubDate>29/04/2026 20:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1NP_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
