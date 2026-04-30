@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:17:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:17:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Quaker Chemical em foco à medida que os custos das matérias-primas aumentam</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/quaker-chemical-earnings-in-focus-as-raw-material-costs-loom-93CH-4649906</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/quaker-chemical-earnings-in-focus-as-raw-material-costs-loom-93CH-4649906</guid>
+      <pubDate>30/04/2026 11:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump critica Merz sobre o Irã e pede foco na guerra Rússia-Ucrânia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/caterpillar-handily-beat-wall-street-estimates-not-for-the-first-time-2d144758?mod=mw_rss_topstories</guid>
       <pubDate>30/04/2026 09:58</pubDate>
       <enclosure url="https://images.mktw.net/im-95489905" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Medidor de inflação do Fed atinge máxima de 2 anos com recuperação do PIB; S&amp;P 500 Futures Rise (cobertura ao...</title>
-      <description></description>
-      <link>https://www.investors.com/news/federal-reserve-pce-inflation-gdp-q1-sp-500/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/federal-reserve-pce-inflation-gdp-q1-sp-500/?src=A00220&yptr=yahoo</guid>
-      <pubDate>30/04/2026 09:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/c3afd362406337a725dd56bb3e758563" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
