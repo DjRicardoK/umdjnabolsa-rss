@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:49:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:53:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O CEO da Stellantis diz que o empreendimento Leapmotor é um modelo para futuras parcerias com a China</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/stellantis-ceo-says-leapmotor-venture-a-model-for-future-china-partnerships-4649331</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stellantis-ceo-says-leapmotor-venture-a-model-for-future-china-partnerships-4649331</guid>
+      <pubDate>30/04/2026 09:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T101_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Chipotle no primeiro trimestre de 2026: vendas nas mesmas lojas superaram as expectativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-extend-gains-as-usiran-war-deadlock-keeps-supply-off-market-4647533</guid>
       <pubDate>30/04/2026 08:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T01N_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Berkshire Hathaway de Warren Buffett está perdendo dinheiro com esse estoque de dividendos: isso pode...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-berkshire-hathaway-losing-233002021.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-berkshire-hathaway-losing-233002021.html</guid>
-      <pubDate>30/04/2026 08:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ba088183dd4c26174aab980393b0f17a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
