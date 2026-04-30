@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 02:14:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:19:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Morgan Stanley vê Fed mantendo taxas estáveis ​​em 2026</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/morgan-stanley-sees-fed-holding-rates-steady-in-2026-4647638</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/morgan-stanley-sees-fed-holding-rates-steady-in-2026-4647638</guid>
+      <pubDate>30/04/2026 02:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T08F_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Análise-Casa Branca silenciosa enquanto China aumenta alavancagem comercial antes da cúpula Trump-Xi</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/japan-march-factory-output-unexpectedly-falls-05-monthonmonth-4647509</guid>
       <pubDate>29/04/2026 23:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T002_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dólar se mantém firme após Fed disparar alarme de inflação, iene passa de 160</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/dollar-holds-firm-after-fed-raises-inflation-alarm-yen-slips-past-160-4647544</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-holds-firm-after-fed-raises-inflation-alarm-yen-slips-past-160-4647544</guid>
-      <pubDate>29/04/2026 23:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T020_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
