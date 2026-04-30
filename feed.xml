@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 10:15:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:18:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O indicador de inflação preferido do Fed mostra aumento de preços à medida que a guerra esquenta</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-shows-rising-prices-as-war-heated-up-131007113.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-shows-rising-prices-as-war-heated-up-131007113.html</guid>
+      <pubDate>30/04/2026 10:18</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/OPWb6MZEoHr6B7DAyu4F4A--~B/aD0yMDQ1O3c9MzYzNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cb3fdb37-9caa-435a-933a-ed286d406cfa_2a3adb848ff57c6d511c28d66e7451edbb9ca56dc259a13ccc2e8cd32b765760.net/images/2026-04/cb3fdb37-9caa-435a-933a-ed286d406cfa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: BNP Paribas Q1 2026 mostra crescimento robusto em meio à...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-amazon-meta-microsoft-earnings-oil-prices-fed-powell/?src=A00220&yptr=yahoo</guid>
       <pubDate>30/04/2026 09:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/2dc23d177054799afd413b73b997d967" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dream Finders Homes perde lucros apesar da queda na receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/dream-finders-homes-misses-earnings-despite-revenue-beat-93CH-4649024</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/dream-finders-homes-misses-earnings-despite-revenue-beat-93CH-4649024</guid>
-      <pubDate>30/04/2026 09:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
