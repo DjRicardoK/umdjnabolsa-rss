@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 02:19:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:23:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Franco-Nevada (FNV): receita recorde, lucro recorde, trimestre recorde</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-revenue-172851803.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-revenue-172851803.html</guid>
+      <pubDate>30/04/2026 02:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/358102b49199d6a47f2063034cb33234" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As principais companhias aéreas da China obtêm lucro no primeiro trimestre, custos de combustível alteram as...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-jupiter-mines-q3-2026-shows-strong-gains-93CH-4647579</guid>
       <pubDate>29/04/2026 23:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Sanções dos EUA ao Hengli da China marcam escalada na repressão ao petróleo no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/explainerus-sanctions-on-chinas-hengli-mark-escalation-in-iran-oil-crackdown-4644319</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/explainerus-sanctions-on-chinas-hengli-mark-escalation-in-iran-oil-crackdown-4644319</guid>
-      <pubDate>29/04/2026 23:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0PP_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
