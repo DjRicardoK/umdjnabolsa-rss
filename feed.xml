@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 12:54:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 12:54:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da MasTec em alta: o boom do datacenter pode gerar crescimento?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/mastec-earnings-on-deck-can-datacenter-boom-deliver-on-growth-93CH-4650415</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/mastec-earnings-on-deck-can-datacenter-boom-deliver-on-growth-93CH-4650415</guid>
+      <pubDate>30/04/2026 12:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Victory Capital atingem o máximo histórico de 77,84 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/qualcomm-earnings-stock-price-datacenter-6296d00b?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>30/04/2026 12:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/6747b3ad0096ed3f1640dbbbde4828fa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os ganhos da Valero Energy disparam à medida que as principais métricas aumentam em meio à guerra no Irã</title>
-      <description></description>
-      <link>https://www.investors.com/news/valero-energy-earnings-q1-oil-stock-vlo-surging-spreads/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/valero-energy-earnings-q1-oil-stock-vlo-surging-spreads/?src=A00220&yptr=yahoo</guid>
-      <pubDate>30/04/2026 11:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/0dcd86f1aefc32ea8b6fb3370dde83dc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
