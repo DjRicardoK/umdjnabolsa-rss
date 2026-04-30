@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:47:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:51:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Arcosa em ação: a estimativa de compensação do pivô de infraestrutura pode cair?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/arcosa-earnings-on-deck-can-infrastructure-pivot-offset-estimate-slide-93CH-4650082</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/arcosa-earnings-on-deck-can-infrastructure-pivot-offset-estimate-slide-93CH-4650082</guid>
+      <pubDate>30/04/2026 11:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Steel Dynamics atingem o máximo histórico de 229,03 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-april-30-2026-100000543.html</guid>
       <pubDate>30/04/2026 10:57</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d1-4f64-11ef-94fa-3befcbf0f2e3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Centuri Holdings Inc atingem o máximo histórico de 36,33 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/centuri-holdings-inc-stock-hits-alltime-high-at-3633-usd-93CH-4649748</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/centuri-holdings-inc-stock-hits-alltime-high-at-3633-usd-93CH-4649748</guid>
-      <pubDate>30/04/2026 10:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
