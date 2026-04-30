@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:31:07 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:31:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Botswana aumenta taxas de juros para 5,5% enquanto a guerra no Irã impulsiona a inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/botswana-raises-interest-rates-to-55-as-iran-war-drives-inflation-93CH-4648903</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/botswana-raises-interest-rates-to-55-as-iran-war-drives-inflation-93CH-4648903</guid>
+      <pubDate>30/04/2026 08:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_4_M_1440048337.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE GTCO relata lucro antes dos impostos de N302,9 bilhões no primeiro trimestre, lucro após impostos cai 15%</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-ebay-stock-price-target-on-strong-q1-results-93CH-4648173</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-ebay-stock-price-target-on-strong-q1-results-93CH-4648173</guid>
       <pubDate>30/04/2026 06:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Texas Capital aumenta a meta de preço das ações da Slide Insurance com base em fortes ganhos</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/texas-capital-raises-slide-insurance-stock-price-target-on-strong-earnings-93CH-4648215</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/texas-capital-raises-slide-insurance-stock-price-target-on-strong-earnings-93CH-4648215</guid>
-      <pubDate>30/04/2026 06:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
