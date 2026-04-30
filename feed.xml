@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 03:44:51 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 03:48:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O pivô estratégico da Apple: otimização comercial para domínio da engenharia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/apple-strategic-pivot-trading-optimization-192756311.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-strategic-pivot-trading-optimization-192756311.html</guid>
+      <pubDate>30/04/2026 03:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4ca6b40d38b1c86c226d23312ce78d65" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do ouro sobem da mínima de 1 mês à medida que os mercados pesam nas perspectivas do Fed, teme o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/politics-news/analysiswhite-house-quiet-as-china-ramps-up-trade-leverage-before-trumpxi-summit-4647625</guid>
       <pubDate>30/04/2026 02:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T085_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Melhores taxas de contas do mercado monetário hoje, 29 de abril de 2026 (garantidas até 4,01% APY)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-april-29-2026-100000021.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-april-29-2026-100000021.html</guid>
-      <pubDate>30/04/2026 01:53</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-04/d21d1ad0-20a9-11f0-bbbf-20f4269af61e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
