@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 17:48:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 17:58:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: St. Joe Company Q1 2026 revela resultados mistos</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-st-joe-company-q1-2026-reveals-mixed-results-93CH-4651373</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-st-joe-company-q1-2026-reveals-mixed-results-93CH-4651373</guid>
+      <pubDate>30/04/2026 17:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do Equity Residential</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/colombia-bank-board-looks-set-to-raise-rate-ministers-attendance-in-question-4647626</guid>
       <pubDate>30/04/2026 16:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T07Z_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs favorece hiperscaladores em vez de fabricantes de chips em infraestrutura de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-favors-hyperscalers-over-chipmakers-in-ai-infrastructure-93CH-4651070</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-favors-hyperscalers-over-chipmakers-in-ai-infrastructure-93CH-4651070</guid>
-      <pubDate>30/04/2026 16:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED3H1E9_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
