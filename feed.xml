@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 14:57:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 14:59:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Slides do Mechanics Bancorp Q1 2026: ganhos de margem compensam perda de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/mechanics-bancorp-q1-2026-slides-margin-gains-offset-earnings-miss-93CH-4650835</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/mechanics-bancorp-q1-2026-slides-margin-gains-offset-earnings-miss-93CH-4650835</guid>
+      <pubDate>30/04/2026 14:59</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/b6a8ea732aa66febb8b77a54c4fc4bd51086f1c8fdc82460dfff41bd4a0f938f.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A aposta da Blue Owl na SpaceX acaba de resgatar sua chamada de ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/ibd-stock-of-the-day/algm-stock-allegro-microsystems-surges-before-earnings/?src=A00220&yptr=yahoo</guid>
       <pubDate>30/04/2026 13:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/93a31d9622250c39e354808519ec3d20" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Hyatt Hotels no primeiro trimestre de 2026 supera as...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-hyatt-hotels-q1-2026-beats-eps-estimates-stock-rises-93CH-4650549</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hyatt-hotels-q1-2026-beats-eps-estimates-stock-rises-93CH-4650549</guid>
-      <pubDate>30/04/2026 13:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
