@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 01:45:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 01:50:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Zimmer Biomet Holdings, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/zimmer-biomet-holdings-inc-q1-165418668.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/zimmer-biomet-holdings-inc-q1-165418668.html</guid>
+      <pubDate>30/04/2026 01:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/d7c4c74d3ed4bddfc137797cefedee3d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Invesco Ltd.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-now-chip-company-amzn-143442462.html</guid>
       <pubDate>29/04/2026 23:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/672c6f8c197721248024e373fd4f3a0b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Atividade fabril da China continua em expansão em abril, mostra PMI</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/chinas-factory-activity-remains-in-expansion-in-april-pmi-shows-4647553</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-factory-activity-remains-in-expansion-in-april-pmi-shows-4647553</guid>
-      <pubDate>29/04/2026 23:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T027_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
