@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:11:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:15:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os pedidos de auxílio-desemprego nos EUA caem para o menor nível em 57 anos. Empregos não são fáceis de...</title>
+      <description>O mercado de trabalho dos EUA está mostrando um poder de permanência surpreendente.</description>
+      <link>https://www.marketwatch.com/story/u-s-jobless-claims-sink-to-a-57-year-low-jobs-arent-easy-to-find-or-lose-a9088ff9?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-jobless-claims-sink-to-a-57-year-low-jobs-arent-easy-to-find-or-lose-a9088ff9?mod=mw_rss_topstories</guid>
+      <pubDate>30/04/2026 11:15</pubDate>
+      <enclosure url="https://images.mktw.net/im-66541542" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que vale a pena transmitir em maio de 2026 no Netflix, Hulu, HBO Max e muito mais</title>
       <description>‘Lord of the Flies’ da Netflix, ‘Star City’ da Apple e o retorno de ‘Deli Boys’ do Hulu estão entre os destaques do próximo mês</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stellantis-ceo-says-leapmotor-venture-a-model-for-future-china-partnerships-4649331</guid>
       <pubDate>30/04/2026 09:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T101_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Chipotle no primeiro trimestre de 2026: vendas nas mesmas lojas superaram as expectativas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/chipotle-q1-2026-earnings-same-123620721.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chipotle-q1-2026-earnings-same-123620721.html</guid>
-      <pubDate>30/04/2026 09:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/f03b2173690d18e5ec8cff744ce5b321" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
