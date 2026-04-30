@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 16:24:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 16:27:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da RTX Corporation: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-stock-wall-street-093717038.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-stock-wall-street-093717038.html</guid>
+      <pubDate>30/04/2026 16:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1e710eb8852f6bea3f4be9fd16ae364e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que a EMCOR (EME) está entre as 7 melhores ações de engenharia e construção de data centers</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/viasat-stock-hits-52week-high-of-650-usd-93CH-4650799</guid>
       <pubDate>30/04/2026 14:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Grandes bancos centrais dizem que aumentos de taxas estão cada vez mais próximos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/big-central-banks-rate-hikes-151519851.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/big-central-banks-rate-hikes-151519851.html</guid>
-      <pubDate>30/04/2026 14:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/8a7ece0e3bd504f93a9fe79561d90d2a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
