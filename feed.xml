@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 23:25:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 23:25:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar se mantém firme após Fed disparar alarme de inflação, iene passa de 160</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/dollar-holds-firm-after-fed-raises-inflation-alarm-yen-slips-past-160-4647544</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-holds-firm-after-fed-raises-inflation-alarm-yen-slips-past-160-4647544</guid>
+      <pubDate>29/04/2026 23:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T020_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ganhos do dólar com ações fracas e preços crescentes do petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/brazil-central-bank-cuts-interest-rates-by-25-bp-as-expected-4647262</guid>
       <pubDate>29/04/2026 20:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1NP_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer diz que os cuidados de saúde são a proteção &apos;fria&apos; que falta ao seu portfólio pesado de IA - e...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/jim-cramer-says-health-care-154500395.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/jim-cramer-says-health-care-154500395.html</guid>
-      <pubDate>29/04/2026 20:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/5e8080f592d139ccbc4b6d21c343bf4f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
