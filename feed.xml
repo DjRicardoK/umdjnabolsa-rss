@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 17:48:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 17:48:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Ribbon Communications Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/ribbon-communications-inc-q1-2026-123000385.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ribbon-communications-inc-q1-2026-123000385.html</guid>
+      <pubDate>30/04/2026 17:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/7e4022945eed479a88725641353018c6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Booking Holdings Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-stock-wall-street-093717038.html</guid>
       <pubDate>30/04/2026 16:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/1e710eb8852f6bea3f4be9fd16ae364e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Veja por que a EMCOR (EME) está entre as 7 melhores ações de engenharia e construção de data centers</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-emcor-eme-among-7-091322222.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-emcor-eme-among-7-091322222.html</guid>
-      <pubDate>30/04/2026 16:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f266c442e3773eddb308b408405553bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
