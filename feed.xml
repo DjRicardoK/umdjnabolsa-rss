@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:51:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:52:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE NVIDIA cai 4% devido a preocupações com rotação: como a forte lucratividade pode salvar a situação otimista</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-4-rotation-concerns-144656471.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-4-rotation-concerns-144656471.html</guid>
+      <pubDate>30/04/2026 11:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/59253969fe1aaf09e1a835dad3ab8133" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Arcosa em ação: a estimativa de compensação do pivô de infraestrutura pode cair?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-retreats-after-hitting-fouryear-high-on-concern-of-usiran-war-escalation-4649450</guid>
       <pubDate>30/04/2026 11:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T11I_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Melhores taxas de CD hoje, 30 de abril de 2026 (bloqueio de até 4,15% APY)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-april-30-2026-100000543.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-april-30-2026-100000543.html</guid>
-      <pubDate>30/04/2026 10:57</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d1-4f64-11ef-94fa-3befcbf0f2e3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
