@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:27:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:27:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Iene salta 3% na maior alta desde o final de 2022 após alerta das autoridades</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/yen-jumps-3-in-biggest-rally-since-late-2022-after-officials-warning-4649115</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/yen-jumps-3-in-biggest-rally-since-late-2022-after-officials-warning-4649115</guid>
+      <pubDate>30/04/2026 09:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T0Y0_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BCE mantém taxas inalteradas numa possível última manutenção antes da subida de junho</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-074-4648541</guid>
       <pubDate>30/04/2026 07:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/Mumbai_Stock_Exchange_M_1440056071.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Transcrição da teleconferência de resultados: Goldwind no primeiro trimestre de 2026 vê a receita disparar,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-goldwind-q1-2026-sees-revenue-soar-stock-rises-93CH-4648542</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-goldwind-q1-2026-sees-revenue-soar-stock-rises-93CH-4648542</guid>
-      <pubDate>30/04/2026 07:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
