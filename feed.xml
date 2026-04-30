@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 16:52:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 16:53:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump diz que preços do gás cairão assim que a guerra no Irã terminar</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/trump-says-gas-prices-will-drop-as-soon-as-iran-war-is-over-4651092</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-says-gas-prices-will-drop-as-soon-as-iran-war-is-over-4651092</guid>
+      <pubDate>30/04/2026 16:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T1PR_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da PG&amp;E Corporation?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-enel-americas-q1-2026-shows-strong-ebitda-growth-93CH-4650833</guid>
       <pubDate>30/04/2026 14:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides do Mechanics Bancorp Q1 2026: ganhos de margem compensam perda de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/mechanics-bancorp-q1-2026-slides-margin-gains-offset-earnings-miss-93CH-4650835</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/mechanics-bancorp-q1-2026-slides-margin-gains-offset-earnings-miss-93CH-4650835</guid>
-      <pubDate>30/04/2026 14:59</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/b6a8ea732aa66febb8b77a54c4fc4bd51086f1c8fdc82460dfff41bd4a0f938f.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
