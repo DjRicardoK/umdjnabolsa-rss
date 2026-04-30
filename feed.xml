@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 02:19:36 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:19:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As principais companhias aéreas da China obtêm lucro no primeiro trimestre, custos de combustível alteram as...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/chinas-top-airlines-swing-to-q1-profit-fuel-costs-cloud-outlook-4647637</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-top-airlines-swing-to-q1-profit-fuel-costs-cloud-outlook-4647637</guid>
+      <pubDate>30/04/2026 02:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T08G_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Morgan Stanley vê Fed mantendo taxas estáveis ​​em 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/explainerus-sanctions-on-chinas-hengli-mark-escalation-in-iran-oil-crackdown-4644319</guid>
       <pubDate>29/04/2026 23:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S0PP_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A produção industrial do Japão cai surpreendentemente à medida que a guerra no Irã afeta os produtos à base...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/japan-march-factory-output-unexpectedly-falls-05-monthonmonth-4647509</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/japan-march-factory-output-unexpectedly-falls-05-monthonmonth-4647509</guid>
-      <pubDate>29/04/2026 23:36</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T002_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
