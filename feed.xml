@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 03:58:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 03:58:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Earnings call transcript: Bumrungrad Hospital Q1 2026 sees mixed results with strong earnings but stock dips</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bumrungrad-hospital-q1-2026-sees-mixed-results-with-strong-earnings-but-stock-dips-93CH-4647725</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bumrungrad-hospital-q1-2026-sees-mixed-results-with-strong-earnings-but-stock-dips-93CH-4647725</guid>
+      <pubDate>30/04/2026 03:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O primeiro trimestre de 2026 da Capgemini vê crescimento de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-top-airlines-swing-to-q1-profit-fuel-costs-cloud-outlook-4647637</guid>
       <pubDate>30/04/2026 02:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T08G_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Morgan Stanley vê Fed mantendo taxas estáveis ​​em 2026</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/morgan-stanley-sees-fed-holding-rates-steady-in-2026-4647638</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/morgan-stanley-sees-fed-holding-rates-steady-in-2026-4647638</guid>
-      <pubDate>30/04/2026 02:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T08F_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
