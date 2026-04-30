@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:10:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:13:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Por que a carteira 60/40 está esmagando tudo – apesar do caos do mercado e dos temores de inflação</title>
+      <description>Esta combinação testada ao longo do tempo de ações e obrigações prospera na incerteza – e talvez por causa dela.</description>
+      <link>https://www.marketwatch.com/story/why-the-60-40-portfolio-is-crushing-it-despite-market-chaos-and-inflation-fears-bd08f664?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/why-the-60-40-portfolio-is-crushing-it-despite-market-chaos-and-inflation-fears-bd08f664?mod=mw_rss_topstories</guid>
+      <pubDate>30/04/2026 09:13</pubDate>
+      <enclosure url="https://images.mktw.net/im-27950440" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Futuros do Dow Jones sobem, preços do petróleo caem; Google, Amazon, Meta, Microsoft e Caterpillar são...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/warren-buffett-has-stepped-aside-berkshire-is-now-greg-abels-show-4648389</guid>
       <pubDate>30/04/2026 07:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T0PV_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citizens reitera classificação das ações da Equinix em reservas recordes</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-equinix-stock-rating-on-record-bookings-93CH-4648256</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-equinix-stock-rating-on-record-bookings-93CH-4648256</guid>
-      <pubDate>30/04/2026 07:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
