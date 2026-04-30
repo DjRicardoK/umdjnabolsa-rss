@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 03:58:59 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 03:59:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Um professor de 36 anos diz que encontrou o ‘Sonho Americano’ na China – pagando um quarto do custo de vida</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/36-old-teacher-says-found-190500232.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/36-old-teacher-says-found-190500232.html</guid>
+      <pubDate>30/04/2026 03:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/0c0a3a38298486f30c6d8d9febec7321" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Earnings call transcript: Bumrungrad Hospital Q1 2026 sees mixed results with strong earnings but stock dips</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/franco-nevada-fnv-record-revenue-172851803.html</guid>
       <pubDate>30/04/2026 02:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/358102b49199d6a47f2063034cb33234" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As principais companhias aéreas da China obtêm lucro no primeiro trimestre, custos de combustível alteram as...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/chinas-top-airlines-swing-to-q1-profit-fuel-costs-cloud-outlook-4647637</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-top-airlines-swing-to-q1-profit-fuel-costs-cloud-outlook-4647637</guid>
-      <pubDate>30/04/2026 02:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T08G_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
