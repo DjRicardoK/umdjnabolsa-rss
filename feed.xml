@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 13:04:21 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 13:09:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do NatWest em destaque após rebaixamentos de estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/natwest-earnings-in-the-spotlight-after-estimate-downgrades-93CH-4650491</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/natwest-earnings-in-the-spotlight-after-estimate-downgrades-93CH-4650491</guid>
+      <pubDate>30/04/2026 13:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Apple diz que órgão antitruste da Índia ultrapassou a autoridade judicial à medida que a briga se intensifica</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/indias-gold-share-in-forex-reserves-climbs-to-167-93CH-4650232</guid>
       <pubDate>30/04/2026 12:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/gold_2_M_1440047838.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 da ACR</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/acr-q1-2026-earnings-call-150304989.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/acr-q1-2026-earnings-call-150304989.html</guid>
-      <pubDate>30/04/2026 12:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
