@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:03:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:06:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os estoques de armazenamento de dados saltam à medida que a previsão otimista da Seagate alimenta a confiança...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/storage-stocks-jump-as-seagate39s-upbeat-forecast-fuels-confidence-in-ai-spending-230626065.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/storage-stocks-jump-as-seagate39s-upbeat-forecast-fuels-confidence-in-ai-spending-230626065.html</guid>
+      <pubDate>30/04/2026 08:06</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-11/5cd7ce90-bfdd-11f0-bafe-c091b51d1f91" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Esqueça comprar o mergulho. Agora, os investidores de varejo estão “negociando a mania” em ações de chips e...</title>
       <description>Os traders do Goldman Sachs dizem que os investidores têm perseguido o aquecido setor de semicondutores, mas com algumas apostas de alto risco das quais pode ser difícil sair caso...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/why-morgan-stanley-shifted-its-call-on-federal-reserve-rate-cuts-after-the-fomc-meeting-da657bf0?mod=mw_rss_topstories</guid>
       <pubDate>30/04/2026 06:12</pubDate>
       <enclosure url="https://images.mktw.net/im-66365252" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do terceiro trimestre de 2026 da Sysco Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/sysco-corporation-q3-2026-earnings-204841612.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sysco-corporation-q3-2026-earnings-204841612.html</guid>
-      <pubDate>30/04/2026 05:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/3a52290c8177c8a8c739477f241bfc9a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
