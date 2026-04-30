@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 10:39:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:40:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação anual dos EUA registra maior ganho em quase três anos em março</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/annual-us-inflation-posts-biggest-132329471.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/annual-us-inflation-posts-biggest-132329471.html</guid>
+      <pubDate>30/04/2026 10:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/440027d57985f74619e22f4c10787400" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE S&amp;P 500 e Nasdaq abrem em alta enquanto o otimismo com os lucros ofusca os problemas do Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-to-hold-rates-steady-but-keep-hikes-firmly-on-the-table-4647300</guid>
       <pubDate>30/04/2026 09:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1OI_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE US$ 25.000 em 4 dos principais ETFs de Wall Street proporcionam mais de US$ 1.000 por mês de renda passiva</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/25-000-4-wall-street-121229196.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/25-000-4-wall-street-121229196.html</guid>
-      <pubDate>30/04/2026 09:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/028247ff008c10575fcd07a93af82152" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
