@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 16:18:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 16:18:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Timken Co atingem o máximo histórico em 111,39 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/timken-co-stock-hits-alltime-high-at-11139-usd-93CH-4651027</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/timken-co-stock-hits-alltime-high-at-11139-usd-93CH-4651027</guid>
+      <pubDate>30/04/2026 16:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Huntsman atingem alta de 52 semanas a 14,39 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/extreme-networks-joins-elite-club-of-stocks-with-rs-ratings-over-90/?src=A00220&yptr=yahoo</guid>
       <pubDate>30/04/2026 14:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/1c17c843b179fb267b9639516742de54" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE KFC China cresce com boom de entregas, mas enfrenta margens mais apertadas</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/kfc-china-grows-on-delivery-boom-but-faces-tighter-margins-4650766</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/kfc-china-grows-on-delivery-boom-but-faces-tighter-margins-4650766</guid>
-      <pubDate>30/04/2026 14:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T1JU_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
