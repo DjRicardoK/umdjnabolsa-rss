@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:41:09 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:49:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Chipotle no primeiro trimestre de 2026: vendas nas mesmas lojas superaram as expectativas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/chipotle-q1-2026-earnings-same-123620721.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chipotle-q1-2026-earnings-same-123620721.html</guid>
+      <pubDate>30/04/2026 09:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/quartz_855/f03b2173690d18e5ec8cff744ce5b321" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A taxa de inflação salta para o máximo em quase 3 anos devido à guerra no Irã. Agora as mãos do Fed estão...</title>
       <description>Uma medida-chave da inflação usada pelo Federal Reserve para definir as taxas de juros registrou o maior aumento em março em quase três anos, marcando outro grande obstáculo para...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-berkshire-hathaway-losing-233002021.html</guid>
       <pubDate>30/04/2026 08:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ba088183dd4c26174aab980393b0f17a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros de Robinhood ficam abaixo das estimativas de Wall Street</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/robinhood-earnings-miss-wall-street-231727024.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/robinhood-earnings-miss-wall-street-231727024.html</guid>
-      <pubDate>30/04/2026 08:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/6a73f47a37a8dd45422d06847363bf6c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
