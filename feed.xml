@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 03:05:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 03:22:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O impulso da guerra no Irão aos biocombustíveis eleva os lucros dos gigantes agrícolas dos EUA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/iran-wars-boost-biofuels-lifts-182344631.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/iran-wars-boost-biofuels-lifts-182344631.html</guid>
+      <pubDate>30/04/2026 03:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/7a087bc47dc148c73185f5cf8ca2e804" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Alzchem supera lucros do primeiro trimestre apesar da queda nas vendas devido à fraqueza do aço</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/verizon-stock-had-best-day-163823821.html</guid>
       <pubDate>30/04/2026 01:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ea11513c19f76345bba7823600264d69" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Comcast: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/comcast-stock-wall-street-bullish-163444925.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/comcast-stock-wall-street-bullish-163444925.html</guid>
-      <pubDate>30/04/2026 01:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f2008b27611f9d56dc56553cf14341f4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
