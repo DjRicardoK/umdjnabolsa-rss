@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:47:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:47:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Steel Dynamics atingem o máximo histórico de 229,03 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/steel-dynamics-stock-hits-alltime-high-at-22903-usd-93CH-4650098</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/steel-dynamics-stock-hits-alltime-high-at-22903-usd-93CH-4650098</guid>
+      <pubDate>30/04/2026 11:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Healthcare Realty é o próximo caminho para o lucro questionado</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/centuri-holdings-inc-stock-hits-alltime-high-at-3633-usd-93CH-4649748</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/centuri-holdings-inc-stock-hits-alltime-high-at-3633-usd-93CH-4649748</guid>
       <pubDate>30/04/2026 10:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Ventas atingem o máximo histórico em 88,37 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/ventas-stock-hits-alltime-high-at-8837-usd-93CH-4649749</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/ventas-stock-hits-alltime-high-at-8837-usd-93CH-4649749</guid>
-      <pubDate>30/04/2026 10:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
