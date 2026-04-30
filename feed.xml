@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 01:30:13 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 01:32:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Verizon tiveram seu melhor dia desde janeiro, com os investidores apostando em um acordo...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/verizon-stock-had-best-day-163823821.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/verizon-stock-had-best-day-163823821.html</guid>
+      <pubDate>30/04/2026 01:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ea11513c19f76345bba7823600264d69" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Comcast: Wall Street está em alta ou em baixa?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-ai-fears-soaring-141203827.html</guid>
       <pubDate>29/04/2026 22:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/7038ce206a3ff0dfdc47b6757729c843" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Microsoft espera forte crescimento dos negócios em nuvem e planeja gastos de capital recordes</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/microsoft-reports-cloud-growth-in-line-with-expectations-4646786</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-reports-cloud-growth-in-line-with-expectations-4646786</guid>
-      <pubDate>29/04/2026 22:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1JT_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
