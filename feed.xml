@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 02:23:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:29:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE ArcelorMittal supera previsões de lucros à medida que medidas siderúrgicas da UE dão frutos</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/arcelormittal-beats-earnings-forecasts-as-eu-steel-measures-bear-fruit-4647642</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/arcelormittal-beats-earnings-forecasts-as-eu-steel-measures-bear-fruit-4647642</guid>
+      <pubDate>30/04/2026 02:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T084_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Franco-Nevada (FNV): receita recorde, lucro recorde, trimestre recorde</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-carnival-corporation-150614077.html</guid>
       <pubDate>29/04/2026 23:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/377c520010ef9dfab3d55d4c6841255a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O terceiro trimestre de 2026 da Jupiter Mines mostra fortes...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-jupiter-mines-q3-2026-shows-strong-gains-93CH-4647579</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-jupiter-mines-q3-2026-shows-strong-gains-93CH-4647579</guid>
-      <pubDate>29/04/2026 23:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
