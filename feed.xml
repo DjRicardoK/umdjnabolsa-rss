@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 04:49:51 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 04:58:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Prévia dos ganhos do terceiro trimestre da Sandisk: há mais vantagens para as ações da SNDK?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/sandisk-q3-earnings-preview-more-200222339.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sandisk-q3-earnings-preview-more-200222339.html</guid>
+      <pubDate>30/04/2026 04:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6d6f0d1f774460c7221dbd1d36851495" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE À medida que a OpenAI reduz os estoques de chips, você deve comprar a queda nas ações da Oracle?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/openai-drags-down-chip-stocks-184452116.html</guid>
       <pubDate>30/04/2026 03:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ddc8094ced378c3d96ad60750e68f814" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dow Jones AI Leader Caterpillar, Nvidia Chipmaker TSMC em zonas de compra</title>
-      <description></description>
-      <link>https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-cat-stock-tsmc-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-cat-stock-tsmc-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>30/04/2026 03:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/d5f929de0c27699a54b18ef92010566f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
