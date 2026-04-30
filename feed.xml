@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 21:26:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 21:52:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Conestoga Capital Advisors saiu da Vertex (VRTX) porque a avaliação não reflete mais uma relação...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/conestoga-capital-advisors-exited-vertex-131451479.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/conestoga-capital-advisors-exited-vertex-131451479.html</guid>
+      <pubDate>29/04/2026 21:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/83a04323331cbc1e7c1466c9a335baff" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da AT&amp;T subirão ou afundarão?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/alphabet-q1-2026-slides-earnings-soar-81-cloud-tops-20b-93CH-4647323</guid>
       <pubDate>29/04/2026 19:17</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/dfe1b0cdce78cba497c46cc026772e315f7cfa101ebc3305a45e45189f47e1f2.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Kevin Warsh foi rotulado de ‘fantoche de meia’. Uma potencial ‘cadeira sombra’ do Federal Reserve é uma...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/kevin-warsh-labeled-sock-puppet-141555084.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/kevin-warsh-labeled-sock-puppet-141555084.html</guid>
-      <pubDate>29/04/2026 19:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/eaf2c839d1e4d32f136359aad54e681a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
