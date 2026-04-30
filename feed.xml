@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 17:14:53 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 17:16:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do Google: o crescimento da nuvem pode eliminar um &apos;bogey&apos; altíssimo?</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/google-stock-googl-earnings-wiz-acquisition-cloud-growth/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/google-stock-googl-earnings-wiz-acquisition-cloud-growth/?src=A00220&yptr=yahoo</guid>
+      <pubDate>30/04/2026 17:15</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/928d271a2c1510fbc21cc24be3a783e0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Wall Street termina em alta, S&amp;P 500 e Nasdaq registram os maiores ganhos mensais em anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/kpmg-quits-us-federal-audit-090056227.html</guid>
       <pubDate>30/04/2026 16:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/international_accounting_bulletin_542/a6a4b58fef834532880933b0181ce406" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco central da Colômbia interrompe aumentos de taxas em meio a conflito governamental</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/colombia-central-bank-pauses-rate-hikes-amid-government-clash-93CH-4650999</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/colombia-central-bank-pauses-rate-hikes-amid-government-clash-93CH-4650999</guid>
-      <pubDate>30/04/2026 16:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_4_M_1440048337.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
