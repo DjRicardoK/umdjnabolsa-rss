@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:23:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:27:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BCE mantém taxas inalteradas numa possível última manutenção antes da subida de junho</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ecb-to-hold-rates-steady-but-keep-hikes-firmly-on-the-table-4647300</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-to-hold-rates-steady-but-keep-hikes-firmly-on-the-table-4647300</guid>
+      <pubDate>30/04/2026 09:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3S1OI_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE US$ 25.000 em 4 dos principais ETFs de Wall Street proporcionam mais de US$ 1.000 por mês de renda passiva</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-goldwind-q1-2026-sees-revenue-soar-stock-rises-93CH-4648542</guid>
       <pubDate>30/04/2026 07:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China aprovou grandes exportações de terras raras vitais para a indústria aeroespacial dos EUA em março</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/china-approved-large-exports-of-rare-earth-vital-for-us-aerospace-in-march-4648419</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/china-approved-large-exports-of-rare-earth-vital-for-us-aerospace-in-march-4648419</guid>
-      <pubDate>30/04/2026 07:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T0RI_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
