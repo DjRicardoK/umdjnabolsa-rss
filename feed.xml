@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 14:44:53 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 14:44:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Amd atingem o máximo histórico, atingindo 353,08 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/amd-stock-hits-alltime-high-reaching-35308-usd-93CH-4650798</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/amd-stock-hits-alltime-high-reaching-35308-usd-93CH-4650798</guid>
+      <pubDate>30/04/2026 14:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Viasat atingem alta de 52 semanas de 65,0 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-13da-western-asset-inflationlinked-income-fund-for-30-april-93CH-4650554</guid>
       <pubDate>30/04/2026 13:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Caterpillar saltam após os lucros do primeiro trimestre, à medida que a empresa destaca carteira...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/article/caterpillar-stock-jumps-after-first-quarter-earnings-as-company-highlights-record-backlog-boom-in-data-center-equipment-130525289.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/caterpillar-stock-jumps-after-first-quarter-earnings-as-company-highlights-record-backlog-boom-in-data-center-equipment-130525289.html</guid>
-      <pubDate>30/04/2026 13:25</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/rHYCi3lKztL4lfQpgPhvSw--~B/aD0zNzA3O3c9NTY2MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/bdb7d69b-c7d0-4d70-a052-f2b5ddde655d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
