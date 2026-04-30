@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:58:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:07:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Petróleo recua após atingir máximo de quatro anos devido à preocupação com a escalada da guerra EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/oil-retreats-hitting-four-high-125224604.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/oil-retreats-hitting-four-high-125224604.html</guid>
+      <pubDate>30/04/2026 10:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/17370f364478f51e9e9a0c9fce005c7f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Caterpillar superou facilmente as estimativas de Wall Street – não pela primeira vez</title>
       <description>A construtora relatou um aumento de 38% nas vendas em seu braço da indústria da construção.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-one-10-005618578.html</guid>
       <pubDate>30/04/2026 08:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fe3d07f390ab832594f0e07094b3f8cd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Botswana aumenta taxas de juros para 5,5% enquanto a guerra no Irã impulsiona a inflação</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/botswana-raises-interest-rates-to-55-as-iran-war-drives-inflation-93CH-4648903</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/botswana-raises-interest-rates-to-55-as-iran-war-drives-inflation-93CH-4648903</guid>
-      <pubDate>30/04/2026 08:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_4_M_1440048337.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
