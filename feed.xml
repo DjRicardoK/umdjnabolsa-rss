@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 01:13:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 01:13:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Ásia caem enquanto os comerciantes avaliam o aumento do petróleo, as perspectivas do Fed e os...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-traders-weigh-oil-surge-fed-outlook-mixed-tech-earnings-4647590</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-traders-weigh-oil-surge-fed-outlook-mixed-tech-earnings-4647590</guid>
+      <pubDate>30/04/2026 01:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0B0BR_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Kevin Warsh queria uma briga de família no Fed. Já começou</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mineral-resources-q3-2026-sees-debt-refinancing-boost-93CH-4647538</guid>
       <pubDate>29/04/2026 22:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE FedEx se prepara para reativar frota MD-11 aterrada em maio</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/fedex-prepares-reactivate-grounded-md-135124983.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/fedex-prepares-reactivate-grounded-md-135124983.html</guid>
-      <pubDate>29/04/2026 22:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/freightwaves_373/34301ead4b0eb0b090f1c9c98651014b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
