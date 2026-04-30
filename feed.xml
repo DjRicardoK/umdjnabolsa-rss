@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 05:45:52 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 05:45:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Air France-KLM relata crescimento no primeiro trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-air-franceklm-reports-q1-2026-growth-amid-challenges-93CH-4647986</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-air-franceklm-reports-q1-2026-growth-amid-challenges-93CH-4647986</guid>
+      <pubDate>30/04/2026 05:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: resultados do primeiro trimestre de 2026 do Aktia Bank...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-kerry-groups-q1-2026-growth-driven-by-innovation-93CH-4647763</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kerry-groups-q1-2026-growth-driven-by-innovation-93CH-4647763</guid>
       <pubDate>30/04/2026 04:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Cantor Fitzgerald reitera classificação de excesso de peso das ações da Microsoft em US$ 502</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-microsoft-stock-overweight-rating-at-502-93CH-4647768</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-microsoft-stock-overweight-rating-at-502-93CH-4647768</guid>
-      <pubDate>30/04/2026 04:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
