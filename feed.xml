@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 14:26:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 14:28:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE KFC China cresce com boom de entregas, mas enfrenta margens mais apertadas</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/kfc-china-grows-on-delivery-boom-but-faces-tighter-margins-4650766</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/kfc-china-grows-on-delivery-boom-but-faces-tighter-margins-4650766</guid>
+      <pubDate>30/04/2026 14:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T1JU_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O movimento da Amazon em direção à reinicialização de &apos;O Aprendiz&apos; de Trump vem com o declínio dos reality...</title>
       <description>Reviver o programa seria uma aposta no nome Trump para contrariar os amplos declínios observados no género nos últimos anos.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/natwest-earnings-in-the-spotlight-after-estimate-downgrades-93CH-4650491</guid>
       <pubDate>30/04/2026 13:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Apple diz que órgão antitruste da Índia ultrapassou a autoridade judicial à medida que a briga se intensifica</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/apple-says-india-antitrust-body-155100547.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-says-india-antitrust-body-155100547.html</guid>
-      <pubDate>30/04/2026 13:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/02c523ee5e620a773a16516ec359263e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
