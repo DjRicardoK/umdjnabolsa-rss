@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 23:55:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 23:56:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Liontown Resources, terceiro trimestre de 2026, vê forte fluxo...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-liontown-resources-q3-2026-sees-strong-cash-flow-stock-rises-93CH-4647580</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-liontown-resources-q3-2026-sees-strong-cash-flow-stock-rises-93CH-4647580</guid>
+      <pubDate>29/04/2026 23:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Medos de IA e aumento dos preços do petróleo bruto pesam sobre as ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-advanced-133104608.html</guid>
       <pubDate>29/04/2026 22:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/8c9fe72d2bcfa918279e7f77cd4abbe9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Standard Chartered, BlackRock e OKX lançam estrutura de garantia para fundo do Tesouro tokenizado</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/standard-chartered-blackrock-okx-launch-132101169.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/standard-chartered-blackrock-okx-launch-132101169.html</guid>
-      <pubDate>29/04/2026 21:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/b5a7060f2856f60939f7347239080ce5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
