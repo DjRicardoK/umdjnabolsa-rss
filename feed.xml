@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 01:40:13 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 01:45:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Invesco Ltd.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/invesco-ltd-q1-2026-earnings-165213638.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/invesco-ltd-q1-2026-earnings-165213638.html</guid>
+      <pubDate>30/04/2026 01:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/c856ee2e1322b8001c4a831408c73c61" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do quarto trimestre de 2026 da Commvault Systems, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-factory-activity-remains-in-expansion-in-april-pmi-shows-4647553</guid>
       <pubDate>29/04/2026 23:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T027_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Atividade fabril na China se expande no ritmo mais rápido desde o final de 2020, mostra PMI privado</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/china-factory-activity-expands-at-quickest-pace-since-late-2020-private-pmi-shows-4647562</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-factory-activity-expands-at-quickest-pace-since-late-2020-private-pmi-shows-4647562</guid>
-      <pubDate>29/04/2026 22:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T02M_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
