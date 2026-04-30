@@ -13,7 +13,7 @@ try:
 except:
     pass
 
-BOT_TOKEN = "7963078795:AAFAqoPOOqT-E25zGYDsk-tRZ3yNWYt5LPg"
+BOT_TOKEN = "7963078795:AAEau86VHEFK7fOqoeLYRuD7MB3kdDp2eBs"
 GROUP_ID = -1002281032197
 TZ = ZoneInfo("America/Sao_Paulo")
 bot = Bot(token=BOT_TOKEN)
