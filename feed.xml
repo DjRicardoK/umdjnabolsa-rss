@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 09:32:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 09:32:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: Dow sobe antes dos dados de inflação; Meta despenca nos ganhos (cobertura ao vivo)</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-meta-stock-meta-earnings/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-meta-stock-meta-earnings/?src=A00220&yptr=yahoo</guid>
+      <pubDate>30/04/2026 09:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/b93082b62d669a716dcee1724ff49dd4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Reembolsos de tarifas podem desbloquear bilhões para importadores. Essas ações podem aumentar.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/forget-buy-the-dip-now-retail-investors-are-trading-the-mania-in-chip-stocks-and-its-about-to-get-messy-08ef5540?mod=mw_rss_topstories</guid>
       <pubDate>30/04/2026 08:03</pubDate>
       <enclosure url="https://images.mktw.net/im-61029918" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Darling Ingredients supera lucros apesar da perda de receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/darling-ingredients-beats-earnings-despite-revenue-miss-93CH-4648665</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/darling-ingredients-beats-earnings-despite-revenue-miss-93CH-4648665</guid>
-      <pubDate>30/04/2026 07:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
