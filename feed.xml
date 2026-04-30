@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 00:17:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 00:40:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Petróleo sobe acima de US$ 110 com escalada da guerra no Irã e saída do choque da Opep nos Emirados Árabes...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/oil-spikes-above-110-iran-154852680.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/oil-spikes-above-110-iran-154852680.html</guid>
+      <pubDate>30/04/2026 00:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/oilprice.com/4ff88059b20c9437fa58af613a312e05" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Primeiro Tesla Semi sai da linha de produção de alto volume</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-amazon-com-135134009.html</guid>
       <pubDate>29/04/2026 22:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/53921926b0ea4c196011ac50e860a881" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O vice-presidente executivo da CoreWeave, Goldberg Chen, vende US$ 531.823 em ações da empresa</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/coreweave-evp-goldberg-chen-sells-531823-in-company-stock-93CH-4647521</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/coreweave-evp-goldberg-chen-sells-531823-in-company-stock-93CH-4647521</guid>
-      <pubDate>29/04/2026 22:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
