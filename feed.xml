@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 15:13:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 15:30:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência sobre os resultados do primeiro trimestre da RHI Magnesita</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/rhi-magnesita-q1-earnings-call-083111461.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rhi-magnesita-q1-earnings-call-083111461.html</guid>
+      <pubDate>30/04/2026 15:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/94df7556f2ce5198c5a34b1aa17c247a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Traders de Bitcoin estão otimistas em relação ao preço antes do FOMC final de Powell como presidente do Fed</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/illinois-tool-works-inc-q1-164956941.html</guid>
       <pubDate>30/04/2026 13:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/bb8a97d67a9de5dac516bfd853be6f4b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da T. Rowe Price Group, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-group-inc-165000888.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-group-inc-165000888.html</guid>
-      <pubDate>30/04/2026 13:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/4414ebfb312dbbf298212982a249feda" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
