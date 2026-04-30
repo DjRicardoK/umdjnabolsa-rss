@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 07:02:08 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:02:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Citizens reitera classificação das ações da Equinix em reservas recordes</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-equinix-stock-rating-on-record-bookings-93CH-4648256</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-equinix-stock-rating-on-record-bookings-93CH-4648256</guid>
+      <pubDate>30/04/2026 07:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Slides do primeiro trimestre de 2026 da Prysmian: expansão da margem acelera no impulso do data center</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-inchcape-sees-8-revenue-growth-in-q1-2026-93CH-4647932</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-inchcape-sees-8-revenue-growth-in-q1-2026-93CH-4647932</guid>
-      <pubDate>30/04/2026 05:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Indra perde previsão de receita do primeiro trimestre de 2026,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-indra-misses-q1-2026-revenue-forecast-shares-dip-93CH-4647933</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-indra-misses-q1-2026-revenue-forecast-shares-dip-93CH-4647933</guid>
       <pubDate>30/04/2026 05:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
