@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Apr 2026 23:16:42 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 23:25:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ganhos do dólar com ações fracas e preços crescentes do petróleo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-gains-weak-stocks-soaring-143610719.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-gains-weak-stocks-soaring-143610719.html</guid>
+      <pubDate>29/04/2026 23:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f327f6e172aff780ee47480794caf2a4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Amazon agora é uma empresa de chips e vale a pena comprar ações da AMZN, mesmo em máximos históricos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/jim-cramer-says-health-care-154500395.html</guid>
       <pubDate>29/04/2026 20:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/5e8080f592d139ccbc4b6d21c343bf4f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Palantir Technologies?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-palantir-155217536.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-palantir-155217536.html</guid>
-      <pubDate>29/04/2026 20:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c98e3c0eea4738348fe5aad65db3d21" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
