@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 02:29:36 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:35:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon informa ganhos amanhã, mas um anúncio importante da OpenAI-Bedrock pode significar que nada mais...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-reports-earnings-tomorrow-key-174033202.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-reports-earnings-tomorrow-key-174033202.html</guid>
+      <pubDate>30/04/2026 02:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c67ec0d98ea8187cd2f72312ec448fc6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE ArcelorMittal supera previsões de lucros à medida que medidas siderúrgicas da UE dão frutos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ai-fears-surging-crude-oil-151510490.html</guid>
       <pubDate>29/04/2026 23:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/9702f20631207874aa69ec4c7402dbba" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da Carnival Corporation?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-carnival-corporation-150614077.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-carnival-corporation-150614077.html</guid>
-      <pubDate>29/04/2026 23:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/377c520010ef9dfab3d55d4c6841255a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
