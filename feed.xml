@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 13:25:28 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 13:26:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Formulário 13D/A Western Asset Inflation-Linked Income Fund para: 30 de abril</title>
+      <description></description>
+      <link>https://www.investing.com/news/filings/form-13da-western-asset-inflationlinked-income-fund-for-30-april-93CH-4650554</link>
+      <guid isPermaLink="false">https://www.investing.com/news/filings/form-13da-western-asset-inflationlinked-income-fund-for-30-april-93CH-4650554</guid>
+      <pubDate>30/04/2026 13:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Caterpillar saltam após os lucros do primeiro trimestre, à medida que a empresa destaca carteira...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mgic-mtg-q1-2026-earnings-151200841.html</guid>
       <pubDate>30/04/2026 12:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Lear em foco enquanto oferta de expansão de margem enfrenta teste</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/lear-earnings-in-focus-as-margin-expansion-bid-faces-test-93CH-4650266</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/lear-earnings-in-focus-as-margin-expansion-bid-faces-test-93CH-4650266</guid>
-      <pubDate>30/04/2026 12:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
