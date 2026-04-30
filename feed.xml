@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 01:40:08 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 01:40:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do quarto trimestre de 2026 da Commvault Systems, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/commvault-systems-inc-q4-2026-164438378.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/commvault-systems-inc-q4-2026-164438378.html</guid>
+      <pubDate>30/04/2026 01:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/bde35971a1e7c69e998907fd092abc6b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do terceiro trimestre de 2026 da Applied Industrial Technologies, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-factory-activity-expands-at-quickest-pace-since-late-2020-private-pmi-shows-4647562</guid>
       <pubDate>29/04/2026 22:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T02M_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Microba Q3 2026 mostra forte crescimento, estoque estável</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-microba-q3-2026-shows-strong-growth-stable-stock-93CH-4647558</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-microba-q3-2026-shows-strong-growth-stable-stock-93CH-4647558</guid>
-      <pubDate>29/04/2026 22:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
