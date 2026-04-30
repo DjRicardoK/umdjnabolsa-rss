@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 08:50:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:50:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE JPMorgan aumenta a meta de preço das ações da Amazon para US$ 330 com base no crescimento da AWS</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/jpmorgan-raises-amazon-stock-price-target-to-330-on-aws-growth-93CH-4648999</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jpmorgan-raises-amazon-stock-price-target-to-330-on-aws-growth-93CH-4648999</guid>
+      <pubDate>30/04/2026 08:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Intel Corporation (INTC) é uma das 10 ações de grande capitalização que estão em alta no momento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/borouge-q1-2026-slides-logistics-disruption-dents-earnings-amid-market-shift-93CH-4648258</guid>
       <pubDate>30/04/2026 07:02</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/d83dcb33ec39fc5325f30bc3a423f3dc8037c05c02d628567508c1cd10b63c7f.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Agora com alta de 169% +: uma nova lista de ações escolhidas pela IA para abril AGORA ESTÁ AO VIVO</title>
-      <description></description>
-      <link>https://www.investing.com/news/investment-ideas/now-up-169-a-new-list-of-aipicked-stocks-for-april-is-now-live-4645911</link>
-      <guid isPermaLink="false">https://www.investing.com/news/investment-ideas/now-up-169-a-new-list-of-aipicked-stocks-for-april-is-now-live-4645911</guid>
-      <pubDate>30/04/2026 07:01</pubDate>
-      <enclosure url="https://d72-invdn-com.investing.com/content/pic78a208692ec0d0ee8d436126c0203e88.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
