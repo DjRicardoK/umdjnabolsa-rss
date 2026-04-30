@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 03:42:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 03:44:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do ouro sobem da mínima de 1 mês à medida que os mercados pesam nas perspectivas do Fed, teme o Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-prices-rise-from-1mth-low-as-markets-weight-fed-outlook-iran-fears-4647700</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-rise-from-1mth-low-as-markets-weight-fed-outlook-iran-fears-4647700</guid>
+      <pubDate>30/04/2026 03:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC4I0Z1_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE À medida que a OpenAI reduz os estoques de chips, o estoque de materiais aplicados é uma compra, uma venda ou...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-wednesday-april-29-2026-100000021.html</guid>
       <pubDate>30/04/2026 01:53</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-04/d21d1ad0-20a9-11f0-bbbf-20f4269af61e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Zimmer Biomet Holdings, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/zimmer-biomet-holdings-inc-q1-165418668.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/zimmer-biomet-holdings-inc-q1-165418668.html</guid>
-      <pubDate>30/04/2026 01:50</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/d7c4c74d3ed4bddfc137797cefedee3d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
