@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 14:59:46 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 14:59:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: United Microelectronics supera a previsão de EPS do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-united-microelectronics-beats-q1-2026-eps-forecast-93CH-4650831</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-united-microelectronics-beats-q1-2026-eps-forecast-93CH-4650831</guid>
+      <pubDate>30/04/2026 14:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Golden Rock Global adia apresentação do relatório anual de 2025</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-nexpoint-beats-q1-2026-eps-forecast-stock-edges-up-93CH-4650611</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nexpoint-beats-q1-2026-eps-forecast-stock-edges-up-93CH-4650611</guid>
       <pubDate>30/04/2026 13:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Granite Construction supera as previsões do primeiro trimestre...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-granite-construction-beats-q1-2026-forecasts-93CH-4650614</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-granite-construction-beats-q1-2026-forecasts-93CH-4650614</guid>
-      <pubDate>30/04/2026 13:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
