@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 16:08:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 16:18:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Reliance Steel atingem o máximo histórico de 365,86 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/reliance-steel-stock-hits-alltime-high-at-36586-usd-93CH-4651031</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/reliance-steel-stock-hits-alltime-high-at-36586-usd-93CH-4651031</guid>
+      <pubDate>30/04/2026 16:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Eaton Corporation atingem o máximo histórico de 432,37 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/amazons-move-toward-reboot-of-trumps-the-apprentice-comes-with-reality-tv-in-decline-6a76caaa?mod=mw_rss_topstories</guid>
       <pubDate>30/04/2026 14:26</pubDate>
       <enclosure url="https://images.mktw.net/im-09035254" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O fornecimento de petróleo pode atingir um ponto de ruptura se a guerra no Irão durar até Junho</title>
-      <description>O amortecedor em que o mercado petrolífero tem dependido após as perturbações nas exportações no Médio Oriente poderá começar a ceder já no início de Junho, de acordo com...</description>
-      <link>https://www.marketwatch.com/story/oil-supplies-may-hit-a-breaking-point-if-the-iran-war-lasts-into-june-323f3c94?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/oil-supplies-may-hit-a-breaking-point-if-the-iran-war-lasts-into-june-323f3c94?mod=mw_rss_topstories</guid>
-      <pubDate>30/04/2026 14:18</pubDate>
-      <enclosure url="https://images.mktw.net/im-37990326" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
