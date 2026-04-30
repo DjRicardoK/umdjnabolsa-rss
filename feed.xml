@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 11:28:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 11:29:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Astec Industries atingem alta de 52 semanas a 64,52 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/astec-industries-stock-hits-52week-high-at-6452-usd-93CH-4649995</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/astec-industries-stock-hits-52week-high-at-6452-usd-93CH-4649995</guid>
+      <pubDate>30/04/2026 11:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Essas ações foram as maiores vencedoras durante o melhor mês do S&amp;P 500 desde 2020</title>
       <description>O S&amp;P 500 subiu 9,6% em abril, liderado por um ganho de quase 18% no setor de tecnologia da informação.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-more-vulnerable-think-130500886.html</guid>
       <pubDate>30/04/2026 10:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/96c66e111c8fdffbfb270385d115ed0a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O indicador de inflação preferido do Fed mostra aumento de preços à medida que a guerra esquenta</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-shows-rising-prices-as-war-heated-up-131007113.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-shows-rising-prices-as-war-heated-up-131007113.html</guid>
-      <pubDate>30/04/2026 10:18</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/OPWb6MZEoHr6B7DAyu4F4A--~B/aD0yMDQ1O3c9MzYzNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/cb3fdb37-9caa-435a-933a-ed286d406cfa_2a3adb848ff57c6d511c28d66e7451edbb9ca56dc259a13ccc2e8cd32b765760.net/images/2026-04/cb3fdb37-9caa-435a-933a-ed286d406cfa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
