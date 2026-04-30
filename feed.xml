@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 10:18:28 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:30:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de ganhos do segundo trimestre da OneWater Marine</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/onewater-marine-q2-earnings-call-132015732.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/onewater-marine-q2-earnings-call-132015732.html</guid>
+      <pubDate>30/04/2026 10:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/2cc4d3036bd7a5ee217d9217ee416625" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Amazon é mais vulnerável do que você pensa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/yen-jumps-3-biggest-rally-120342280.html</guid>
       <pubDate>30/04/2026 09:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/11e7d3bc64973e30c6a3e37e4f58fe15" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que a carteira 60/40 está esmagando tudo – apesar do caos do mercado e dos temores de inflação</title>
-      <description>Esta combinação testada ao longo do tempo de ações e obrigações prospera na incerteza – e talvez por causa dela.</description>
-      <link>https://www.marketwatch.com/story/why-the-60-40-portfolio-is-crushing-it-despite-market-chaos-and-inflation-fears-bd08f664?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/why-the-60-40-portfolio-is-crushing-it-despite-market-chaos-and-inflation-fears-bd08f664?mod=mw_rss_topstories</guid>
-      <pubDate>30/04/2026 09:13</pubDate>
-      <enclosure url="https://images.mktw.net/im-27950440" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
