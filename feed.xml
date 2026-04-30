@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 17:14:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 17:14:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Wall Street termina em alta, S&amp;P 500 e Nasdaq registram os maiores ganhos mensais em anos</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/wall-street-futures-mixed-as-oil-spike-overshadows-tech-earnings-strength-4648132</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/wall-street-futures-mixed-as-oil-spike-overshadows-tech-earnings-strength-4648132</guid>
+      <pubDate>30/04/2026 17:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T0OB_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China e autoridades econômicas dos EUA trocam farpas em apelo “cândido” antes da cúpula Trump-Xi</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/colombia-central-bank-pauses-rate-hikes-amid-government-clash-93CH-4650999</guid>
       <pubDate>30/04/2026 16:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_4_M_1440048337.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência sobre os resultados do primeiro trimestre da RHI Magnesita</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/rhi-magnesita-q1-earnings-call-083111461.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rhi-magnesita-q1-earnings-call-083111461.html</guid>
-      <pubDate>30/04/2026 15:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/94df7556f2ce5198c5a34b1aa17c247a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
