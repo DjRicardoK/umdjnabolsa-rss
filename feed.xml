@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 02:39:05 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:54:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Exclusivo-EUA ordena que várias empresas de equipamentos de chips interrompam algumas remessas para a segunda...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/exclusive-us-orders-multiple-chip-175356047.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/exclusive-us-orders-multiple-chip-175356047.html</guid>
+      <pubDate>30/04/2026 02:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/7ed75a1eca1c2a6d358fa6de95c70492" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Resultados sólidos do primeiro trimestre afirmam o PNC Financial Services Group, Inc. (PNC) como as...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/oil-spikes-above-110-iran-154852680.html</guid>
       <pubDate>30/04/2026 00:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/oilprice.com/4ff88059b20c9437fa58af613a312e05" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Primeiro Tesla Semi sai da linha de produção de alto volume</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/first-tesla-semi-rolls-off-high-volume-production-line-4647584</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/first-tesla-semi-rolls-off-high-volume-production-line-4647584</guid>
-      <pubDate>30/04/2026 00:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T04D_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
