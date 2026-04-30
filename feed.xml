@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 04:19:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 04:21:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Crescimento do Kerry Group no primeiro trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-kerry-groups-q1-2026-growth-driven-by-innovation-93CH-4647763</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kerry-groups-q1-2026-growth-driven-by-innovation-93CH-4647763</guid>
+      <pubDate>30/04/2026 04:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cantor Fitzgerald reitera classificação de excesso de peso das ações da Microsoft em US$ 502</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/solid-q1-results-assert-pnc-174143209.html</guid>
       <pubDate>30/04/2026 02:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/82bee63937c3f6298473629702788475" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O que o conflito no Oriente Médio significa para o negócio de nitrogênio da Nutrien (NTR)?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/does-middle-east-conflict-mean-172929350.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/does-middle-east-conflict-mean-172929350.html</guid>
-      <pubDate>30/04/2026 02:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/431e60a61807fbfe8e06e6b89c455ea0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
