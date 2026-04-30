@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 12:06:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 12:12:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 da ACR</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/acr-q1-2026-earnings-call-150304989.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/acr-q1-2026-earnings-call-150304989.html</guid>
+      <pubDate>30/04/2026 12:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os gastos de US$ 700 bilhões da Big Tech em IA este ano são chamados de “a maior má alocação de capital da...</title>
       <description>Alphabet, Amazon, Meta e Microsoft estão a esgotar as suas reservas de caixa e a aumentar a dívida à medida que os gastos com IA aumentam ainda mais.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/huntsman-earnings-up-next-can-chemicals-maker-narrow-losses-93CH-4649909</guid>
       <pubDate>30/04/2026 11:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os pedidos de auxílio-desemprego nos EUA caem para o menor nível em 57 anos. Empregos não são fáceis de...</title>
-      <description>O mercado de trabalho dos EUA está mostrando um poder de permanência surpreendente.</description>
-      <link>https://www.marketwatch.com/story/u-s-jobless-claims-sink-to-a-57-year-low-jobs-arent-easy-to-find-or-lose-a9088ff9?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-jobless-claims-sink-to-a-57-year-low-jobs-arent-easy-to-find-or-lose-a9088ff9?mod=mw_rss_topstories</guid>
-      <pubDate>30/04/2026 11:15</pubDate>
-      <enclosure url="https://images.mktw.net/im-66541542" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
