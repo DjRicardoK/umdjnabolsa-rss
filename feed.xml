@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 17:48:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 17:48:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do Equity Residential</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/equity-residential-q1-2026-earnings-123000420.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/equity-residential-q1-2026-earnings-123000420.html</guid>
+      <pubDate>30/04/2026 17:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/c37afc1703fce88d72b55052e22df12a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Ribbon Communications Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-favors-hyperscalers-over-chipmakers-in-ai-infrastructure-93CH-4651070</guid>
       <pubDate>30/04/2026 16:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED3H1E9_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da RTX Corporation: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-stock-wall-street-093717038.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-stock-wall-street-093717038.html</guid>
-      <pubDate>30/04/2026 16:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1e710eb8852f6bea3f4be9fd16ae364e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
