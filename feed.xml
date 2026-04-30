@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 06:57:28 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:01:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Agora com alta de 169% +: uma nova lista de ações escolhidas pela IA para abril AGORA ESTÁ AO VIVO</title>
+      <description></description>
+      <link>https://www.investing.com/news/investment-ideas/now-up-169-a-new-list-of-aipicked-stocks-for-april-is-now-live-4645911</link>
+      <guid isPermaLink="false">https://www.investing.com/news/investment-ideas/now-up-169-a-new-list-of-aipicked-stocks-for-april-is-now-live-4645911</guid>
+      <pubDate>30/04/2026 07:01</pubDate>
+      <enclosure url="https://d72-invdn-com.investing.com/content/pic78a208692ec0d0ee8d436126c0203e88.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs aumenta meta de preço das ações do eBay com fortes resultados do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stanchart-profit-surges-17-books-190-million-charge-on-iran-war-4647650</guid>
       <pubDate>30/04/2026 05:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T06B_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mesh expande acordo de USDC com Circle para agilizar pagamentos criptográficos globais</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/mesh-expands-usdc-settlement-circle-202000771.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/mesh-expands-usdc-settlement-circle-202000771.html</guid>
-      <pubDate>30/04/2026 05:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/1a51d9936e082effa1af903d105d96b9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
