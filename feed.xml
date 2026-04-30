@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 10:07:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:14:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Phathom Pharmaceuticals supera as expectativas de EPS no...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-phathom-pharmaceuticals-beats-eps-expectations-in-q1-2026-93CH-4649527</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-phathom-pharmaceuticals-beats-eps-expectations-in-q1-2026-93CH-4649527</guid>
+      <pubDate>30/04/2026 10:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Petróleo recua após atingir máximo de quatro anos devido à preocupação com a escalada da guerra EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jpmorgan-raises-amazon-stock-price-target-to-330-on-aws-growth-93CH-4648999</guid>
       <pubDate>30/04/2026 08:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Intel Corporation (INTC) é uma das 10 ações de grande capitalização que estão em alta no momento</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-one-10-005618578.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-one-10-005618578.html</guid>
-      <pubDate>30/04/2026 08:50</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fe3d07f390ab832594f0e07094b3f8cd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
