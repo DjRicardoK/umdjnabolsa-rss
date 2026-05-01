@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 11:00:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 11:05:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, Nasdaq sobem após máximos recordes à medida que os lucros aumentam</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-may-1-records-apple-iran-231056146.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-may-1-records-apple-iran-231056146.html</guid>
+      <pubDate>01/05/2026 11:05</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Fyo6dhnv8ZM64Efs0FRpaA--~B/aD0yMjE0O3c9MzMyMTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/b44fadae-67a2-4f85-8e5e-710fb73749cd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os GLP-1 podem reduzir o uso de álcool? Um novo estudo diz que os medicamentos podem reduzir o consumo...</title>
       <description>Um ensaio “padrão ouro” descobriu que a semaglutida ajudou a reduzir o consumo de álcool em pessoas com obesidade que procuraram tratamento para transtorno por uso de álcool.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/booking-holdings-inc-q1-2026-123000466.html</guid>
       <pubDate>30/04/2026 17:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/cf8d087c4b859481297f7af3033c90d5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Microsoft ignoram o choque do OpenAI à medida que os lucros aumentam; A Microsoft é uma compra...</title>
-      <description></description>
-      <link>https://www.investors.com/research/microsoft-msft-stock-buy-now-april-2026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/microsoft-msft-stock-buy-now-april-2026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>30/04/2026 17:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/df8ce425bfd2affbfdca70457ea8b92f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
