@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 11:05:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 11:05:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sobe à medida que a Apple aumenta os lucros; Roblox, Sandisk, Western Digital Dive...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-earnings-roblox-sandisk-westen-digital/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-earnings-roblox-sandisk-westen-digital/?src=A00220&yptr=yahoo</guid>
+      <pubDate>01/05/2026 11:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, Nasdaq sobem após máximos recordes à medida que os lucros aumentam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ribbon-communications-inc-q1-2026-123000385.html</guid>
       <pubDate>30/04/2026 17:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/7e4022945eed479a88725641353018c6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Booking Holdings Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/booking-holdings-inc-q1-2026-123000466.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/booking-holdings-inc-q1-2026-123000466.html</guid>
-      <pubDate>30/04/2026 17:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/cf8d087c4b859481297f7af3033c90d5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
