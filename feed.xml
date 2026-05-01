@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 13:10:02 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 13:10:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Forte crescimento da Keystone Law no segundo semestre de 2025</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-keystone-laws-strong-growth-in-h2-2025-93CH-4653874</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-keystone-laws-strong-growth-in-h2-2025-93CH-4653874</guid>
+      <pubDate>01/05/2026 13:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas do Reino Unido caem no fechamento do pregão; Investing.com Reino Unido 100 caiu 0,01%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-apple-earnings-roblox-sandisk-westen-digital/?src=A00220&yptr=yahoo</guid>
       <pubDate>01/05/2026 11:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/f84dddde254e978a0083114ec56c1e2b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, Nasdaq sobem após máximos recordes à medida que os lucros aumentam</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-may-1-records-apple-iran-231056146.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-may-1-records-apple-iran-231056146.html</guid>
-      <pubDate>01/05/2026 11:05</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Fyo6dhnv8ZM64Efs0FRpaA--~B/aD0yMjE0O3c9MzMyMTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/b44fadae-67a2-4f85-8e5e-710fb73749cd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
