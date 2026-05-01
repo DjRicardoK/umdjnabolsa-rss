@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 13:50:11 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 13:50:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Park Hotels: recuperação dos lucros, perspectiva elevada</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/park-hotels-q1-2026-slides-earnings-rebound-outlook-raised-93CH-4653986</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/park-hotels-q1-2026-slides-earnings-rebound-outlook-raised-93CH-4653986</guid>
+      <pubDate>01/05/2026 13:50</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/a977b036bd800f73a18d9e5ddb5a5f6b53a49fd2f18234e97a63a624df14d5a2.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Eldorado Gold desliza no primeiro trimestre de 2026: projetos de crescimento avançam em meio a pressões de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/plug-power-plug-earns-bullish-022636769.html</guid>
       <pubDate>01/05/2026 11:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2f81169e56709ee578124845f2ca360c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Fidelis Insurance Holdings atingem o máximo histórico de 21,43 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/fidelis-insurance-holdings-stock-hits-alltime-high-at-2143-usd-93CH-4653596</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/fidelis-insurance-holdings-stock-hits-alltime-high-at-2143-usd-93CH-4653596</guid>
-      <pubDate>01/05/2026 11:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
