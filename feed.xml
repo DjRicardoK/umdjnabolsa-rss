@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 12:28:27 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 12:30:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bank of America mantém classificação de compra da Nvidia Corp.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bank-america-maintains-buy-rating-143715896.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bank-america-maintains-buy-rating-143715896.html</guid>
+      <pubDate>01/05/2026 12:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a079136e941b43293f25b66228839740" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Uma grande transformação da Sandisk está em andamento, e analistas dizem que isso poderia elevar ainda mais...</title>
       <description>Novos acordos de longo prazo são um sinal de que os hiperscaladores estão dispostos a pagar preços elevados pela memória. Eles também tornarão os lucros da Sandisk menos voláteis.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/heres-why-software-stocks-are-finally-priced-for-a-comeback-and-this-veteran-strategist-is-buying-17c9e765?mod=mw_rss_topstories</guid>
       <pubDate>01/05/2026 10:53</pubDate>
       <enclosure url="https://images.mktw.net/im-20808139" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros convincentes a seguir: O crescimento do comprimento de onda da IA ​​pode compensar o Sprint?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/cogent-earnings-up-next-can-ai-wavelength-growth-offset-sprint-93CH-4653436</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/cogent-earnings-up-next-can-ai-wavelength-growth-offset-sprint-93CH-4653436</guid>
-      <pubDate>01/05/2026 10:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
