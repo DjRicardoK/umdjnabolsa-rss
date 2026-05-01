@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 10:46:47 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:53:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações de software estão finalmente precificadas para um retorno, diz este estrategista veterano. Ele está...</title>
+      <description>O sócio-gerente e chefe de pesquisa da Fundstrat, Tom Lee, diz que os investidores estão subestimando o quão fortes as empresas de software enfrentarão o desafio da IA.</description>
+      <link>https://www.marketwatch.com/story/heres-why-software-stocks-are-finally-priced-for-a-comeback-and-this-veteran-strategist-is-buying-17c9e765?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/heres-why-software-stocks-are-finally-priced-for-a-comeback-and-this-veteran-strategist-is-buying-17c9e765?mod=mw_rss_topstories</guid>
+      <pubDate>01/05/2026 10:53</pubDate>
+      <enclosure url="https://images.mktw.net/im-20808139" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros convincentes a seguir: O crescimento do comprimento de onda da IA ​​pode compensar o Sprint?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/amgen-beats-q1-earnings-and-revenue-estimates-but-shares-dip-as-rd-spend-rises-93CH-4651190</guid>
       <pubDate>30/04/2026 17:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do Google: o crescimento da nuvem pode eliminar um &apos;bogey&apos; altíssimo?</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/google-stock-googl-earnings-wiz-acquisition-cloud-growth/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/google-stock-googl-earnings-wiz-acquisition-cloud-growth/?src=A00220&yptr=yahoo</guid>
-      <pubDate>30/04/2026 17:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/928d271a2c1510fbc21cc24be3a783e0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
