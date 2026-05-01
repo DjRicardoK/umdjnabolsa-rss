@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 10:45:26 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:45:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Transcrição da teleconferência de resultados: Os resultados do Vista Gold Q1 2026 mostram progresso estável</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-vista-gold-q1-2026-results-show-stable-progress-93CH-4653345</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vista-gold-q1-2026-results-show-stable-progress-93CH-4653345</guid>
+      <pubDate>01/05/2026 10:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: HF Sinclair Q1 2026 supera a previsão de EPS, quedas de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-us-trade-chiefs-had-candid-call-weeks-ahead-of-expected-trumpxi-summit-4650185</guid>
       <pubDate>30/04/2026 17:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T1BL_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Hope Bancorp supera as estimativas de EPS, as ações caem...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-hope-bancorp-beats-eps-estimates-stock-dips-slightly-in-q1-2026-93CH-4651161</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hope-bancorp-beats-eps-estimates-stock-dips-slightly-in-q1-2026-93CH-4651161</guid>
-      <pubDate>30/04/2026 17:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
