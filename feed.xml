@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 16:19:13 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 16:19:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Apple Inc. (AAPL): uma das 20 ações com as maiores recompras de ações</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-one-20-091709781.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-inc-aapl-one-20-091709781.html</guid>
+      <pubDate>01/05/2026 16:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que a Alphabet Inc. (GOOGL) está entre as ações com as maiores recompras de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chevrons-upstream-strength-lifts-firstquarter-earnings-past-estimate-4652391</guid>
       <pubDate>01/05/2026 14:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM402ED_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Park Hotels: recuperação dos lucros, perspectiva elevada</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/park-hotels-q1-2026-slides-earnings-rebound-outlook-raised-93CH-4653986</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/park-hotels-q1-2026-slides-earnings-rebound-outlook-raised-93CH-4653986</guid>
-      <pubDate>01/05/2026 13:50</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/a977b036bd800f73a18d9e5ddb5a5f6b53a49fd2f18234e97a63a624df14d5a2.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
