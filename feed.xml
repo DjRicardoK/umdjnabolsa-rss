@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 30 Apr 2026 17:59:15 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:43:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Optoeletrônica Aplicada (AAOI) obtém apoio de um milhão de dólares do Texas e sobe 11%</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-gets-texas-021234811.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-aaoi-gets-texas-021234811.html</guid>
+      <pubDate>01/05/2026 10:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d659e8b497388407a920b3797098b6cb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações registram seu melhor mês desde 2020, enquanto Wall Street se livra do choque do petróleo no Irã</title>
       <description>O índice composto do S&amp;P 500 e do Nasdaq acaba de registrar seu melhor mês em seis anos, surpreendendo os pessimistas focados nos preços do petróleo.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/energys-group-regains-compliance-with-nasdaq-listing-rule-93CH-4651074</guid>
       <pubDate>30/04/2026 16:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Verizon?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-094356493.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-094356493.html</guid>
-      <pubDate>30/04/2026 16:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/08d2f9555dc57074fddbd779111e378f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
