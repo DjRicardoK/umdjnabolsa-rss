@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 10:44:09 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:44:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Modine Manufacturing atingem o máximo histórico de 260,46 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/modine-manufacturing-stock-hits-alltime-high-at-26046-usd-93CH-4653402</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/modine-manufacturing-stock-hits-alltime-high-at-26046-usd-93CH-4653402</guid>
+      <pubDate>01/05/2026 10:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Adtran atingem o máximo de 52 semanas a 17,99 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-nextera-094732168.html</guid>
       <pubDate>30/04/2026 16:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/00aad2cf843407bc4d32725022f9cd81" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Projeto KSM da Seabridge Gold designado prioridade provincial</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/seabridge-golds-ksm-project-designated-provincial-priority-93CH-4651091</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/seabridge-golds-ksm-project-designated-provincial-priority-93CH-4651091</guid>
-      <pubDate>30/04/2026 16:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
