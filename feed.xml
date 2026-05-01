@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 15:49:24 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 15:58:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Lucro líquido da Exxon cai, produção afetada pela guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/exxon-beats-firstquarter-earnings-estimate-despite-hit-from-iran-conflict-4652480</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exxon-beats-firstquarter-earnings-estimate-despite-hit-from-iran-conflict-4652480</guid>
+      <pubDate>01/05/2026 15:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM402F5_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Analista atualiza PT na Lam Research após os ganhos do terceiro trimestre, o que vem a seguir?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/monness-raises-apple-stock-price-target-to-335-on-strong-quarter-93CH-4653973</guid>
       <pubDate>01/05/2026 13:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Veja quanto a Tesla pagou a Elon Musk no ano passado</title>
-      <description>O CEO ganhou 2,5 milhões de vezes mais do que o funcionário médio da Tesla em 2025. Mas essa não é toda a história.</description>
-      <link>https://www.marketwatch.com/story/heres-how-much-tesla-paid-elon-musk-last-year-9e46828a?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/heres-how-much-tesla-paid-elon-musk-last-year-9e46828a?mod=mw_rss_topstories</guid>
-      <pubDate>01/05/2026 13:20</pubDate>
-      <enclosure url="https://images.mktw.net/im-63294581" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
