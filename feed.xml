@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 18:00:30 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 18:03:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Agora custa US$ 160 para abastecer o veículo mais vendido da América enquanto a guerra do Irã se aproxima de...</title>
+      <description>O gás normal sem chumbo aumentou quase 50% desde o início da guerra no Irã, para US$ 4,42 o galão na manhã de sexta-feira, de acordo com o GasBuddy.</description>
+      <link>https://www.marketwatch.com/story/it-now-costs-160-to-fill-up-americas-top-selling-vehicle-as-the-iran-war-nears-its-10th-week-803077d2?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/it-now-costs-160-to-fill-up-americas-top-selling-vehicle-as-the-iran-war-nears-its-10th-week-803077d2?mod=mw_rss_topstories</guid>
+      <pubDate>01/05/2026 18:03</pubDate>
+      <enclosure url="https://images.mktw.net/im-15507212" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Barclays aumenta preço-alvo do Banco Bilbao após resultados superados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/stem-stem-among-most-profitable-093005633.html</guid>
       <pubDate>01/05/2026 16:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fe8537930935e61c13dafa0005f387bc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE XCF Global (SAFX): 11 estoques de energia renovável mais lucrativos no momento</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/xcf-global-safx-11-most-092956110.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/xcf-global-safx-11-most-092956110.html</guid>
-      <pubDate>01/05/2026 16:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9431f19b53c40c6097865a88f842fdb9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
