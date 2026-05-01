@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 17:00:49 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 17:04:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Walt Disney?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-101619345.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-101619345.html</guid>
+      <pubDate>01/05/2026 17:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0a7d2df217d87f1c3eddea9b7f43f7d0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores taxas de contas do mercado monetário hoje, 30 de abril de 2026 (ganhe até 4,01% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-chevron-stock-keeps-206-price-target-93CH-4654170</guid>
       <pubDate>01/05/2026 15:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Veja por que a ServiceNow (AGORA) está entre as melhores ações de tecnologia de longo prazo para investir?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-servicenow-now-among-best-085011152.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-servicenow-now-among-best-085011152.html</guid>
-      <pubDate>01/05/2026 15:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/51263d3d0f4c550afb6e0dbf3b80d1d9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
