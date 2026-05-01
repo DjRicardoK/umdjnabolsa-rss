@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 13:50:17 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 14:04:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A força upstream da Chevron eleva os lucros do primeiro trimestre além da estimativa</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/chevrons-upstream-strength-lifts-firstquarter-earnings-past-estimate-4652391</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chevrons-upstream-strength-lifts-firstquarter-earnings-past-estimate-4652391</guid>
+      <pubDate>01/05/2026 14:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM402ED_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Park Hotels: recuperação dos lucros, perspectiva elevada</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/vita-coco-coco-climbs-time-024320099.html</guid>
       <pubDate>01/05/2026 11:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/826a39a0bcc4592cee30d76a8ac0dec5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Plug Power (PLUG) obtém classificação otimista antes dos ganhos, sobe 12%</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/plug-power-plug-earns-bullish-022636769.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/plug-power-plug-earns-bullish-022636769.html</guid>
-      <pubDate>01/05/2026 11:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2f81169e56709ee578124845f2ca360c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
