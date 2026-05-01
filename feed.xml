@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 10:43:44 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:43:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Twilio estão subindo. O grupo de software afirma que sua ferramenta de voz com IA está vendo uma...</title>
+      <description>As ações da empresa de software subiram cerca de 23%, impulsionando o setor que foi prejudicado pelas preocupações com a inteligência artificial.</description>
+      <link>https://www.marketwatch.com/story/twilios-stock-is-soaring-the-company-says-its-because-of-unprecedented-demand-for-one-ai-function-a171d089?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/twilios-stock-is-soaring-the-company-says-its-because-of-unprecedented-demand-for-one-ai-function-a171d089?mod=mw_rss_topstories</guid>
+      <pubDate>01/05/2026 10:43</pubDate>
+      <enclosure url="https://images.mktw.net/im-834499" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Optoeletrônica Aplicada (AAOI) obtém apoio de um milhão de dólares do Texas e sobe 11%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-pg-095202346.html</guid>
       <pubDate>30/04/2026 16:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5ef5e05874d2d0806ea43ef2fec031b4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Energys Group recupera conformidade com regra de listagem da Nasdaq</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/energys-group-regains-compliance-with-nasdaq-listing-rule-93CH-4651074</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/energys-group-regains-compliance-with-nasdaq-listing-rule-93CH-4651074</guid>
-      <pubDate>30/04/2026 16:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
