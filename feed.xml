@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 16:53:58 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 16:54:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fabricante de software chinês obtém aprovação rara para listagem na Nasdaq em benefício para empresas...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/chinese-software-maker-gets-rare-095143175.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chinese-software-maker-gets-rare-095143175.html</guid>
+      <pubDate>01/05/2026 16:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/43a57013541548526df5c43b06370481" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE (TSLA) Capex excederá US$ 25 bilhões em 2026, afirma Morgan Stanley</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-xenia-hotels-q1-2026-beats-forecasts-stock-slips-93CH-4654128</guid>
       <pubDate>01/05/2026 15:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tether desacelera compras de ouro para reservas de USDT no primeiro trimestre, mostram dados</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/tether-slows-gold-purchases-for-usdt-reserves-in-first-quarter-data-shows-4653928</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/tether-slows-gold-purchases-for-usdt-reserves-in-first-quarter-data-shows-4653928</guid>
-      <pubDate>01/05/2026 15:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM402SG_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
