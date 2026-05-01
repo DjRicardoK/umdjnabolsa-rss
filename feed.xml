@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 14:04:43 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 14:13:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Lori Trahan, do 3º distrito de Massachusetts, investe pesadamente em títulos do Tesouro dos Estados Unidos</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/lori-trahan-from-massachusetts-3rd-district-invests-heavily-in-united-states-treasury-bills-93CH-4654034</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/lori-trahan-from-massachusetts-3rd-district-invests-heavily-in-united-states-treasury-bills-93CH-4654034</guid>
+      <pubDate>01/05/2026 14:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China pede que cessar-fogo com o Irã dure, diz que reabertura de Ormuz é necessária</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/baird-raises-columbia-sportswear-stock-price-target-on-earnings-beat-93CH-4653724</guid>
       <pubDate>01/05/2026 12:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da QUALCOMM: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-wall-street-bullish-034107296.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-wall-street-bullish-034107296.html</guid>
-      <pubDate>01/05/2026 11:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8dcd10e28658725315d068a28a6fec5a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
