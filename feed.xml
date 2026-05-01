@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 16:20:29 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 16:26:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A NVIDIA (NVDA) está entre as ações com as maiores recompras de ações?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-among-stocks-biggest-092808516.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-among-stocks-biggest-092808516.html</guid>
+      <pubDate>01/05/2026 16:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4beabd482637ec7f5549a99b77c1d1cd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que a First Solar (FSLR) está entre os estoques de energia renovável mais lucrativos do momento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/lori-trahan-from-massachusetts-3rd-district-invests-heavily-in-united-states-treasury-bills-93CH-4654034</guid>
       <pubDate>01/05/2026 14:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China pede que cessar-fogo com o Irã dure, diz que reabertura de Ormuz é necessária</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/china-urges-iran-ceasefire-to-last-says-hormuz-reopening-needed-93CH-4654017</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-urges-iran-ceasefire-to-last-says-hormuz-reopening-needed-93CH-4654017</guid>
-      <pubDate>01/05/2026 14:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_6_M_1440048362.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
