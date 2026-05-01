@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 16:48:35 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 16:53:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (TSLA) Capex excederá US$ 25 bilhões em 2026, afirma Morgan Stanley</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-capex-exceed-095345913.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-capex-exceed-095345913.html</guid>
+      <pubDate>01/05/2026 16:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3f65dbb005b4ed8d7d2944bf11706e67" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tether desacelera compras de ouro para 6 toneladas no primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/tether-slows-gold-purchases-for-usdt-reserves-in-first-quarter-data-shows-4653928</guid>
       <pubDate>01/05/2026 15:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM402SG_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer considera os materiais aplicados um dos “melhores estoques para despesas de capital”</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-considers-applied-materials-080612942.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-considers-applied-materials-080612942.html</guid>
-      <pubDate>01/05/2026 15:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/49de360447d6c3bc2d07313db7578ad2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
