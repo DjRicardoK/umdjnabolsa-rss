@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 15:48:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 15:48:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BofA reitera compra de ações da Chevron e mantém preço-alvo de US$ 206</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-chevron-stock-keeps-206-price-target-93CH-4654170</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-chevron-stock-keeps-206-price-target-93CH-4654170</guid>
+      <pubDate>01/05/2026 15:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que a ServiceNow (AGORA) está entre as melhores ações de tecnologia de longo prazo para investir?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-keystone-laws-strong-growth-in-h2-2025-93CH-4653874</guid>
       <pubDate>01/05/2026 13:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas do Reino Unido caem no fechamento do pregão; Investing.com Reino Unido 100 caiu 0,01%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-001-4653878</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-001-4653878</guid>
-      <pubDate>01/05/2026 13:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED7G0IN_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
