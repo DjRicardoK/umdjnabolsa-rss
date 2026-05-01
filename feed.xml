@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 10:45:31 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:45:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Select Medical Holdings perde previsão de EPS do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-select-medical-holdings-misses-q1-2026-eps-forecast-93CH-4653342</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-select-medical-holdings-misses-q1-2026-eps-forecast-93CH-4653342</guid>
+      <pubDate>01/05/2026 10:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Transcrição da teleconferência de resultados: Os resultados do Vista Gold Q1 2026 mostram progresso estável</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/wall-street-futures-mixed-as-oil-spike-overshadows-tech-earnings-strength-4648132</guid>
       <pubDate>30/04/2026 17:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T0OB_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China e autoridades econômicas dos EUA trocam farpas em apelo “cândido” antes da cúpula Trump-Xi</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/china-us-trade-chiefs-had-candid-call-weeks-ahead-of-expected-trumpxi-summit-4650185</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-us-trade-chiefs-had-candid-call-weeks-ahead-of-expected-trumpxi-summit-4650185</guid>
-      <pubDate>30/04/2026 17:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T1BL_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
