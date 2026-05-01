@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 10:57:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 10:57:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Tether compra mais de seis toneladas de ouro no primeiro trimestre, reservas próximas de US$ 20 bilhões</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/tether-buys-over-six-tons-of-gold-in-first-quarter-reserves-nearing-20-billion-93CH-4653505</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tether-buys-over-six-tons-of-gold-in-first-quarter-reserves-nearing-20-billion-93CH-4653505</guid>
+      <pubDate>01/05/2026 10:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/gold_2_M_1440047838.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Pinnacle West em foco à medida que o caso da taxa do Arizona se aproxima</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/coinbase-coin-stock-buy-now-earnings-april-2026-bitcoin/?src=A00220&yptr=yahoo</guid>
       <pubDate>30/04/2026 17:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/6e7cbb14391529a964904dcba41a634b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Nvidia costumava se beneficiar dos aumentos nos gastos com IA. Então, por que a ação simplesmente caiu?</title>
-      <description>Os investidores parecem preocupados com o potencial de aumento da concorrência no mercado de chips de IA.</description>
-      <link>https://www.marketwatch.com/story/nvidia-used-to-benefit-from-ai-spending-increases-so-why-did-the-stock-just-slide-c5c2cd36?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidia-used-to-benefit-from-ai-spending-increases-so-why-did-the-stock-just-slide-c5c2cd36?mod=mw_rss_topstories</guid>
-      <pubDate>30/04/2026 17:38</pubDate>
-      <enclosure url="https://images.mktw.net/im-69899727" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
