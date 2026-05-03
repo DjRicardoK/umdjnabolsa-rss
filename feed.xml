@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 03 May 2026 17:52:07 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 18:27:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Rússia caem no fechamento do pregão; Índice MOEX Rússia inalterado</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4654905</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4654905</guid>
+      <pubDate>03/05/2026 18:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA8106M_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado está em alta com um boom de gastos com IA – mas o que poderia quebrar essa alta?</title>
       <description>Os lucros deslumbraram no primeiro trimestre, mas as contínuas revisões em alta das perspetivas para 2026 têm sido altamente concentradas.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-thursday-april-30-2026-100000967.html</guid>
       <pubDate>01/05/2026 17:00</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-04/1aac32e0-1b28-11f0-bfbf-e6f1fb0fa991" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Melhores taxas de juros de poupança de alto rendimento hoje, 30 de abril de 2026 (a conta principal paga 4,1%...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-april-30-2026-100000694.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-april-30-2026-100000694.html</guid>
-      <pubDate>01/05/2026 17:00</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/0b8d03a0-4eb6-11ef-bffd-16e2b437d0c3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
