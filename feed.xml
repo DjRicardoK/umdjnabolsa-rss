@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 01 May 2026 18:16:51 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:52:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE OPEP+ anuncia aumento modesto na produção de petróleo. Mas é aqui que é um movimento principalmente simbólico.</title>
+      <description>Num movimento em grande parte simbólico, os países da OPEP+ anunciaram no domingo que iriam aumentar ligeiramente a produção de petróleo bruto em Junho, à medida que a guerra com...</description>
+      <link>https://www.marketwatch.com/story/opec-announces-modest-boost-in-oil-production-but-heres-why-its-a-mostly-symbolic-move-2bcb4b5b?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/opec-announces-modest-boost-in-oil-production-but-heres-why-its-a-mostly-symbolic-move-2bcb4b5b?mod=mw_rss_topstories</guid>
+      <pubDate>03/05/2026 17:52</pubDate>
+      <enclosure url="https://images.mktw.net/im-63606375" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que MaxLinear (MXL) é uma das ações de pequena capitalização que estão pegando fogo no momento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chinese-software-maker-gets-rare-095143175.html</guid>
       <pubDate>01/05/2026 16:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/43a57013541548526df5c43b06370481" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (TSLA) Capex excederá US$ 25 bilhões em 2026, afirma Morgan Stanley</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-capex-exceed-095345913.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-inc-tsla-capex-exceed-095345913.html</guid>
-      <pubDate>01/05/2026 16:53</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3f65dbb005b4ed8d7d2944bf11706e67" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
