@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 03 May 2026 19:22:22 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 19:49:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Avião da United Airlines bate em poste de luz ao pousar no aeroporto de Newark</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/united-airlines-plane-hits-light-pole-on-landing-at-newark-airport-4654910</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/united-airlines-plane-hits-light-pole-on-landing-at-newark-airport-4654910</guid>
+      <pubDate>03/05/2026 19:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os futuros das ações dos EUA sobem, o petróleo cai enquanto Trump apregoa novo plano para reabrir...</title>
       <description>Os futuros do índice de ações dos EUA subiram e os preços do petróleo caíram no domingo, depois que o presidente Donald Trump disse que os EUA trabalharão para “liberar” o...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/avalyn-pharma-closes-345-million-ipo-on-nasdaq-93CH-4654308</guid>
       <pubDate>01/05/2026 17:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China aprovou grandes exportações de terras raras vitais para a indústria aeroespacial dos EUA em março</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/china-approved-large-exports-rare-101545225.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/china-approved-large-exports-rare-101545225.html</guid>
-      <pubDate>01/05/2026 17:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/c20aa37a95c4f61a583b8155bd97fbcd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
