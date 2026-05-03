@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 03 May 2026 17:52:02 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:52:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O mercado está em alta com um boom de gastos com IA – mas o que poderia quebrar essa alta?</title>
+      <description>Os lucros deslumbraram no primeiro trimestre, mas as contínuas revisões em alta das perspetivas para 2026 têm sido altamente concentradas.</description>
+      <link>https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories</guid>
+      <pubDate>03/05/2026 17:52</pubDate>
+      <enclosure url="https://images.mktw.net/im-95974668" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE OPEP+ anuncia aumento modesto na produção de petróleo. Mas é aqui que é um movimento principalmente simbólico.</title>
       <description>Num movimento em grande parte simbólico, os países da OPEP+ anunciaram no domingo que iriam aumentar ligeiramente a produção de petróleo bruto em Junho, à medida que a guerra com...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-thursday-april-30-2026-100000694.html</guid>
       <pubDate>01/05/2026 17:00</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/0b8d03a0-4eb6-11ef-bffd-16e2b437d0c3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fabricante de software chinês obtém aprovação rara para listagem na Nasdaq em benefício para empresas...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/chinese-software-maker-gets-rare-095143175.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chinese-software-maker-gets-rare-095143175.html</guid>
-      <pubDate>01/05/2026 16:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/43a57013541548526df5c43b06370481" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
