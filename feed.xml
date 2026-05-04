@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 18:13:16 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 18:23:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Medifast Q1 2026 supera a previsão de EPS, quedas de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-medifast-q1-2026-beats-eps-forecast-stock-dips-93CH-4657506</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-medifast-q1-2026-beats-eps-forecast-stock-dips-93CH-4657506</guid>
+      <pubDate>04/05/2026 18:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da AMD subiram antes dos lucros, mas este analista vê um problema pela frente</title>
       <description>A AMD pode não ser capaz de capturar suficientemente as vantagens da CPU porque não fabrica seus próprios chips, diz um analista.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-says-interest-rates-too-high-93CH-4657140</guid>
       <pubDate>04/05/2026 16:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_2_M_1440048332.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump diz que taxas de juros estão muito altas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/trump-says-interest-rates-are-too-high-4657141</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-says-interest-rates-are-too-high-4657141</guid>
-      <pubDate>04/05/2026 16:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4317S_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
