@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 17:03:14 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 17:07:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Visionary Holdings paga taxas de listagem vencidas na Nasdaq após aviso de fechamento de capital</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/visionary-holdings-pays-overdue-nasdaq-listing-fees-after-delisting-notice-93CH-4657218</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/visionary-holdings-pays-overdue-nasdaq-listing-fees-after-delisting-notice-93CH-4657218</guid>
+      <pubDate>04/05/2026 17:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Viavi Solutions Inc. (VIAV): 10 ações sob o radar que estão pegando fogo agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/volkswagen-ag-buys-9999m-rivian-nasdaqrivn-stock-93CH-4657109</guid>
       <pubDate>04/05/2026 15:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/Volkswagon_3_M_1440049006.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Tenet Healthcare supera as expectativas de EPS do primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-tenet-healthcare-beats-q1-2026-eps-expectations-93CH-4657091</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tenet-healthcare-beats-q1-2026-eps-expectations-93CH-4657091</guid>
-      <pubDate>04/05/2026 15:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
