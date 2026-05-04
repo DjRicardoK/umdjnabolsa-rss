@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 03:43:59 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 03:44:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Irã alerta Marinha dos EUA para ficar longe de Ormuz depois que Trump diz que os EUA ajudarão navios...</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/trump-says-us-to-help-ships-stranded-in-strait-of-hormuz-as-tanker-hit-by-projectiles-4654934</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-says-us-to-help-ships-stranded-in-strait-of-hormuz-as-tanker-hit-by-projectiles-4654934</guid>
+      <pubDate>04/05/2026 03:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4301H_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Slides do Federal Signal Q1 2026: resultados recordes impulsionam perspectivas elevadas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/livecoverage/berkshire-hathaway-meeting-stock-earnings-greg-abel-warren-buffett/card/buffett-describes-investing-environment-as-not-ideal-and-he-s-glad-powell-is-staying-at-fed--L9QpUc661MoFXNoD8C8f?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>04/05/2026 01:36</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Piper Sandler avalia excesso de peso da Regeneron (REGN) no crescimento da oncologia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/piper-sandler-rates-regeneron-regn-175140159.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/piper-sandler-rates-regeneron-regn-175140159.html</guid>
-      <pubDate>04/05/2026 01:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2bd5e87846463f859176bc5389ecb5ec" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
