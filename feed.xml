@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 10:38:40 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:38:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Oaktree Speciality Lending à medida que a receita cai</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/oaktree-specialty-lending-earnings-ahead-as-income-slides-93CH-4656392</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/oaktree-specialty-lending-earnings-ahead-as-income-slides-93CH-4656392</guid>
+      <pubDate>04/05/2026 10:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A IA salvará os mineradores de Bitcoin? Pré-visualização dos ganhos criptográficos do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/rlj-lodging-trust-stock-gains-2-on-first-quarter-earnings-beat-93CH-4655826</guid>
       <pubDate>04/05/2026 08:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Estoque da Palantir: A receita comercial da IA ​​aumentará os estoques de software?</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/palantir-stock-pltr-software-stocks-q12026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/palantir-stock-pltr-software-stocks-q12026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>04/05/2026 08:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/e7f98663b06206a2c8dd94f188ca0a64" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
