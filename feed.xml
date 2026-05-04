@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 09:46:04 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 09:46:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reitera classificação das ações da Onto Innovation antes dos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-onto-innovation-stock-rating-ahead-of-earnings-93CH-4656107</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-onto-innovation-stock-rating-ahead-of-earnings-93CH-4656107</guid>
+      <pubDate>04/05/2026 09:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Arábia Saudita caem no fechamento do pregão; Tadawul All Share caiu 0,91%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-opens-logistics-network-other-100922260.html</guid>
       <pubDate>04/05/2026 07:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/17e2ac153b9264a2644e77c55ca2a52c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Barclays gira e diz que não haverá cortes nas taxas do Fed em 2026</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/barclays-pivots-says-no-fed-rate-cuts-in-2026-4655374</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/barclays-pivots-says-no-fed-rate-cuts-in-2026-4655374</guid>
-      <pubDate>04/05/2026 07:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED14073_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
