@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 09:46:09 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:13:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon oferecerá serviços de cadeia de suprimentos para empresas</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/amazon-stock-amzn-supply-chain/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/amazon-stock-amzn-supply-chain/?src=A00220&yptr=yahoo</guid>
+      <pubDate>04/05/2026 10:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/18ee5d0508c45db7b330fb9b341717ee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Stifel reitera classificação das ações da Onto Innovation antes dos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-today-050426/card/stock-futures-grind-higher-as-record-breaking-rally-rolls-on-gJI90SEvYPkCJ1BkmvIl?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>04/05/2026 07:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon abre sua rede logística para outras empresas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-opens-logistics-network-other-100922260.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-opens-logistics-network-other-100922260.html</guid>
-      <pubDate>04/05/2026 07:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/17e2ac153b9264a2644e77c55ca2a52c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
