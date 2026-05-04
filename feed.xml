@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 05:31:03 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:32:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações do Accent Group caem 13% com alerta de lucro</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/accent-group-stock-tumbles-13-on-profit-warning-93CH-4655099</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/accent-group-stock-tumbles-13-on-profit-warning-93CH-4655099</guid>
+      <pubDate>04/05/2026 05:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Amazon (AMZN) está entre as melhores ações de tecnologia americanas para investir</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wabash-national-q1-earnings-call-190732808.html</guid>
       <pubDate>04/05/2026 03:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/de455acdfcbfdd2134bc37be7006eae9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dados recentes de inflação foram &apos;más notícias&apos;, diz Goolsbee, do Fed</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/recent-inflation-data-bad-news-190611607.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/recent-inflation-data-bad-news-190611607.html</guid>
-      <pubDate>04/05/2026 03:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/020cc3e7c333394f56253ed2a459e99b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
