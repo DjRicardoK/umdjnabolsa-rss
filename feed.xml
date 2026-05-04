@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 11:09:45 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:09:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de infraestrutura de IA: Barclays destaca as principais peças de equipamentos de energia a gás</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/ai-infrastructure-stocks-barclays-highlights-top-gas-power-equipment-plays-93CH-4656529</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ai-infrastructure-stocks-barclays-highlights-top-gas-power-equipment-plays-93CH-4656529</guid>
+      <pubDate>04/05/2026 11:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Scorpio Tankers enfrenta teste de ganhos enquanto a guerra impulsiona taxas recordes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/amazon-stock-amzn-supply-chain/?src=A00220&yptr=yahoo</guid>
       <pubDate>04/05/2026 10:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/18ee5d0508c45db7b330fb9b341717ee" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Stifel reitera classificação das ações da Onto Innovation antes dos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-onto-innovation-stock-rating-ahead-of-earnings-93CH-4656107</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-onto-innovation-stock-rating-ahead-of-earnings-93CH-4656107</guid>
-      <pubDate>04/05/2026 09:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
