@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 12:32:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 12:36:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do terceiro trimestre de 2025 da SPX (SPXC)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/spx-spxc-q3-2025-earnings-152145406.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/spx-spxc-q3-2025-earnings-152145406.html</guid>
+      <pubDate>04/05/2026 12:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Cathie Wood lucra com o aumento das ações da AMD com lucros devidos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/tesla-just-hit-a-symbolic-self-driving-milestone-real-world-success-will-be-tougher-5fb93525?mod=mw_rss_topstories</guid>
       <pubDate>04/05/2026 11:44</pubDate>
       <enclosure url="https://images.mktw.net/im-64921658" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow cai com notícias EUA-Irã; Biotecnologia e ações de software brilham (cobertura ao...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-news-oil-prices-rally/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-news-oil-prices-rally/?src=A00220&yptr=yahoo</guid>
-      <pubDate>04/05/2026 11:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/fded86d9811300314d706a3d2135a764" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
