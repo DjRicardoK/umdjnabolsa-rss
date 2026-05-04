@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 05:18:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:31:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon (AMZN) está entre as melhores ações de tecnologia americanas para investir</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/amazon-amzn-ranks-among-best-223914930.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazon-amzn-ranks-among-best-223914930.html</guid>
+      <pubDate>04/05/2026 05:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE NVIDIA (NVDA): entre as melhores ações americanas para comprar no setor de tecnologia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/recent-inflation-data-bad-news-190611607.html</guid>
       <pubDate>04/05/2026 03:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/020cc3e7c333394f56253ed2a459e99b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs diz que a passagem do S&amp;P 500 para além de 7.100 é &apos;espuma&apos; - uma vez anterior, Wall Street...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-p-500s-194500078.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-p-500s-194500078.html</guid>
-      <pubDate>04/05/2026 03:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/95b8877e2ce27d11513b34bb606e4beb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
