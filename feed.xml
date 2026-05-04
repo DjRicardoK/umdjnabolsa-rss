@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 11:24:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:29:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do Grupo Alamo sobem enquanto o negócio de vegetação busca queda</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/alamo-group-earnings-on-deck-as-vegetation-business-seeks-trough-93CH-4656616</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/alamo-group-earnings-on-deck-as-vegetation-business-seeks-trough-93CH-4656616</guid>
+      <pubDate>04/05/2026 11:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Addus devem testar o impulso de crescimento após acordo com a Gentiva</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/defense-stocks-worth-buying-under-131654277.html</guid>
       <pubDate>04/05/2026 10:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/3ba62a02d3ab4cb93e3df47c85a0108f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Melhores taxas de CD hoje, 4 de maio de 2026 (bloqueio de até 4,1% APY)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-may-4-2026-100000428.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-may-4-2026-100000428.html</guid>
-      <pubDate>04/05/2026 10:29</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
