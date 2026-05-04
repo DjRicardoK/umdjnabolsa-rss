@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 02:49:36 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 02:50:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BorgWarner Inc. (BWA) assina contrato de 7 anos para fortalecer posição como parceira de propulsão</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/borgwarner-inc-bwa-inks-7-183012730.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/borgwarner-inc-bwa-inks-7-183012730.html</guid>
+      <pubDate>04/05/2026 02:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7988058667e2ceef00f79512914b37c6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O nomeado para presidente do Fed, Kevin Warsh, discorda de Jerome Powell sobre esta política importante do...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-billionaire-tom-145536614.html</guid>
       <pubDate>03/05/2026 22:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Risco de concentração elevado à medida que as duas principais ações orientam o desempenho do ETF de serviços...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/concentration-risk-high-top-two-145807445.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/concentration-risk-high-top-two-145807445.html</guid>
-      <pubDate>03/05/2026 22:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/b6ff1e9804834c8d5159dc6490464d70" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
