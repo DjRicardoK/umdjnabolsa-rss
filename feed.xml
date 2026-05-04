@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 16:42:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 16:50:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Tesouro dos EUA vai emprestar US$ 189 bilhões no segundo trimestre, valor acima do esperado</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/us-treasury-to-borrow-189-billion-in-q2-higher-than-expected-4657191</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-treasury-to-borrow-189-billion-in-q2-higher-than-expected-4657191</guid>
+      <pubDate>04/05/2026 16:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Amazon está enfrentando a FedEx e a UPS. Isso pode não ser tão simples.</title>
       <description>As ações da FedEx e da UPS estão a cair, mas um analista não tem a certeza de que o novo serviço da Amazon tenha um efeito perturbador significativo.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-williams-says-more-agreement-on-fomc-than-dissents-imply-4657074</guid>
       <pubDate>04/05/2026 15:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4315S_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Com as ações da Amazon em alta, esse spread altista pode capitalizar</title>
-      <description></description>
-      <link>https://www.investors.com/research/options/amazon-amzn-stock-bull-call-bullish-spread-options/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/options/amazon-amzn-stock-bull-call-bullish-spread-options/?src=A00220&yptr=yahoo</guid>
-      <pubDate>04/05/2026 15:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/ef832abe78f796ab83ef381adb9a063b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
