@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 19:04:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 19:04:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os enormes gastos de Capex da Amazon reduzem o FCF a um mínimo - mas o mercado se importa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazons-massive-capex-spending-reduces-133002579.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazons-massive-capex-spending-reduces-133002579.html</guid>
+      <pubDate>04/05/2026 19:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c67ec0d98ea8187cd2f72312ec448fc6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Allison Transmission supera as expectativas do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/yen-steady-as-intervention-fears-linger-with-japan-shut-for-holidays-4654926</guid>
       <pubDate>04/05/2026 16:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4300Q_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O CEO da Berkshire, Benjamin Moore, diz que os compradores de tintas estão &apos;negociando em baixa&apos; à medida que...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ceo-of-berkshires-benjamin-moore-says-paint-shoppers-trading-down-as-inflation-weighs-4657156</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ceo-of-berkshires-benjamin-moore-says-paint-shoppers-trading-down-as-inflation-weighs-4657156</guid>
-      <pubDate>04/05/2026 16:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM43185_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
