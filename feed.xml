@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 01:15:23 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 01:36:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Buffett descreve o ambiente de investimento como não ideal. E ele está feliz por Powell permanecer no Fed.</title>
+      <description></description>
+      <link>https://www.barrons.com/livecoverage/berkshire-hathaway-meeting-stock-earnings-greg-abel-warren-buffett/card/buffett-describes-investing-environment-as-not-ideal-and-he-s-glad-powell-is-staying-at-fed--L9QpUc661MoFXNoD8C8f?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/livecoverage/berkshire-hathaway-meeting-stock-earnings-greg-abel-warren-buffett/card/buffett-describes-investing-environment-as-not-ideal-and-he-s-glad-powell-is-staying-at-fed--L9QpUc661MoFXNoD8C8f?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>04/05/2026 01:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Piper Sandler avalia excesso de peso da Regeneron (REGN) no crescimento da oncologia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/woodward-wwd-best-stock-billionaire-143548391.html</guid>
       <pubDate>03/05/2026 22:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7421e7929fe678d7baf8572cdd9d121b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise-Irã pode deixar Trump em pior situação do que antes de ir para a guerra</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/analysisiran-standoff-could-leave-trump-worse-off-than-before-he-went-to-war-4654936</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysisiran-standoff-could-leave-trump-worse-off-than-before-he-went-to-war-4654936</guid>
-      <pubDate>03/05/2026 22:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM41025_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
