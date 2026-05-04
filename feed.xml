@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 16:50:11 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 16:58:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que a TTM Technologies (TTMI) está entre as 10 ações sob o radar que estão em alta no momento</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-ttm-technologies-ttmi-among-105407468.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-ttm-technologies-ttmi-among-105407468.html</guid>
+      <pubDate>04/05/2026 16:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3a5c5435c05d2400147c15249c7d794c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tesouro dos EUA vai emprestar US$ 189 bilhões no segundo trimestre, valor acima do esperado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-group-1-automotive-q1-2026-misses-forecast-93CH-4657094</guid>
       <pubDate>04/05/2026 15:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Williams, do Fed, diz que há mais acordo sobre o FOMC do que sugerem dissidências</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/feds-williams-says-more-agreement-on-fomc-than-dissents-imply-4657074</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-williams-says-more-agreement-on-fomc-than-dissents-imply-4657074</guid>
-      <pubDate>04/05/2026 15:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4315S_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
