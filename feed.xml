@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 03:30:40 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 03:30:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dados recentes de inflação foram &apos;más notícias&apos;, diz Goolsbee, do Fed</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/recent-inflation-data-bad-news-190611607.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/recent-inflation-data-bad-news-190611607.html</guid>
+      <pubDate>04/05/2026 03:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/020cc3e7c333394f56253ed2a459e99b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs diz que a passagem do S&amp;P 500 para além de 7.100 é &apos;espuma&apos; - uma vez anterior, Wall Street...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tyler-technologies-q1-earnings-call-162732001.html</guid>
       <pubDate>04/05/2026 00:36</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/f3da28c3176473980c589eb89419a494" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Opinião de Jim Cramer sobre 21 ações: Oklo, AST SpaceMobile e outros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-opinion-21-stocks-165936273.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-opinion-21-stocks-165936273.html</guid>
-      <pubDate>04/05/2026 00:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
