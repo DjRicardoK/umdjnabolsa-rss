@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 11:24:07 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:24:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bessent pede à China que ajude a reabrir o Estreito de Ormuz</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bessent-calls-on-china-to-help-reopen-hormuz-strait-93CH-4656601</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bessent-calls-on-china-to-help-reopen-hormuz-strait-93CH-4656601</guid>
+      <pubDate>04/05/2026 11:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ganhos vitalícios em foco: os preços podem compensar a rotatividade de associados?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-arcadis-q1-2026-sees-strong-order-intake-and-stock-surge-93CH-4656318</guid>
       <pubDate>04/05/2026 10:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bessent insta a China a intensificar a diplomacia com o Irã no Estreito de Ormuz</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/bessent-urges-china-to-step-up-diplomacy-with-iran-on-strait-of-hormuz-93CH-4656314</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bessent-urges-china-to-step-up-diplomacy-with-iran-on-strait-of-hormuz-93CH-4656314</guid>
-      <pubDate>04/05/2026 10:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_2_M_1440048332.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
