@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 09:38:38 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 09:46:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Arábia Saudita caem no fechamento do pregão; Tadawul All Share caiu 0,91%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-091-4656115</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-091-4656115</guid>
+      <pubDate>04/05/2026 09:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED9015J_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Canaccord aumenta a meta de preço das ações da Estée Lauder após a queda dos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/barclays-pivots-says-no-fed-rate-cuts-in-2026-4655374</guid>
       <pubDate>04/05/2026 07:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED14073_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE TD Cowen aumenta a meta de preço das ações da Quanta Services após forte queda nos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/td-cowen-raises-quanta-services-stock-price-target-on-strong-earnings-beat-93CH-4655362</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/td-cowen-raises-quanta-services-stock-price-target-on-strong-earnings-beat-93CH-4655362</guid>
-      <pubDate>04/05/2026 07:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
