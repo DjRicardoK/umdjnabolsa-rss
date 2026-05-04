@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 04:01:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 04:31:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Sacyr Q1 2026 mostra forte crescimento, resposta mista das ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-sacyr-q1-2026-shows-strong-growth-mixed-stock-response-93CH-4655038</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sacyr-q1-2026-shows-strong-growth-mixed-stock-response-93CH-4655038</guid>
+      <pubDate>04/05/2026 04:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Villeroy, do Banco da França, vê a inflação retornando a 2% em 2027, 2028</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/waste-management-q1-earnings-call-181222812.html</guid>
       <pubDate>04/05/2026 02:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/486092cbb0f7a6b03d2b46ab69b86f63" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O crescimento industrial da Índia permanece lento em abril em meio ao aumento dos custos provocados pela...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/indias-factory-growth-stays-sluggish-in-april-amid-warled-soaring-costs-pmi-shows-4654983</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/indias-factory-growth-stays-sluggish-in-april-amid-warled-soaring-costs-pmi-shows-4654983</guid>
-      <pubDate>04/05/2026 02:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM43080_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
