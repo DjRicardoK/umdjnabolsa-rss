@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 15:55:30 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 16:00:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Este gráfico é um sinal de alerta de que o Fed ainda poderá abalar os mercados com aumentos de taxas até o...</title>
+      <description>O mercado obrigacionista dos EUA está cada vez mais preocupado com a possibilidade de a aceleração da inflação poder pressionar a Reserva Federal a aumentar as taxas de juro para...</description>
+      <link>https://www.marketwatch.com/story/this-chart-is-a-flashing-warning-sign-that-the-fed-might-yet-rattle-the-markets-with-rate-hikes-by-year-end-94c25b10?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/this-chart-is-a-flashing-warning-sign-that-the-fed-might-yet-rattle-the-markets-with-rate-hikes-by-year-end-94c25b10?mod=mw_rss_topstories</guid>
+      <pubDate>04/05/2026 16:00</pubDate>
+      <enclosure url="https://images.mktw.net/im-20183109" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco central da África do Sul monitorará dados em meio à incerteza da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/bkv-stock-energy-natural-gas-ai-data-centers-markets/?src=A00220&yptr=yahoo</guid>
       <pubDate>04/05/2026 14:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/8e252424d6754b856ad9756dc7a4e542" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon renomeia braços de logística de terceiros como serviço de cadeia de suprimentos unificada</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-rebrands-third-party-logistics-165657143.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-rebrands-third-party-logistics-165657143.html</guid>
-      <pubDate>04/05/2026 14:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/freightwaves_373/e953941284ca075cca5d4331d2d0d64b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
