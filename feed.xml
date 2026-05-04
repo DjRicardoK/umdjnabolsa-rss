@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 12:55:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 12:58:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do segundo trimestre de 2025 da SGC</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/sgc-q2-2025-earnings-call-154420301.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sgc-q2-2025-earnings-call-154420301.html</guid>
+      <pubDate>04/05/2026 12:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Peabody sobem à medida que problemas com minas australianas pesam nas perspectivas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/defi-development-opens-200-million-145200151.html</guid>
       <pubDate>04/05/2026 12:09</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/153fb1b35562b255842531fca013b6d6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE LKQ (LKQ) Transcrição da teleconferência de resultados do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/lkq-lkq-q1-2026-earnings-145906176.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lkq-lkq-q1-2026-earnings-145906176.html</guid>
-      <pubDate>04/05/2026 12:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
