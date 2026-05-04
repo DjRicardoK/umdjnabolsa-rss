@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 04:41:16 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:01:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Produção e encomendas industriais francesas aumentam em abril devido a temores de inflação, mostra PMI</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/french-manufacturing-output-and-orders-rise-in-april-on-inflation-fears-pmi-shows-4655073</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/french-manufacturing-output-and-orders-rise-in-april-on-inflation-fears-pmi-shows-4655073</guid>
+      <pubDate>04/05/2026 05:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da AltaGas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-summit-therapeutics-smmt-one-182944685.html</guid>
       <pubDate>04/05/2026 02:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6a359286f17d14cfd1e8d6f65898b097" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BorgWarner Inc. (BWA) assina contrato de 7 anos para fortalecer posição como parceira de propulsão</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/borgwarner-inc-bwa-inks-7-183012730.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/borgwarner-inc-bwa-inks-7-183012730.html</guid>
-      <pubDate>04/05/2026 02:50</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7988058667e2ceef00f79512914b37c6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
