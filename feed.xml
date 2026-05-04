@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 00:11:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:18:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Prévia do RBA, maio: aumento de 25 bps esperado à medida que o nervosismo inflacionário persiste</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/rba-preview-may-25-bps-hike-expected-as-inflation-jitters-persist-4654949</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/rba-preview-may-25-bps-hike-expected-as-inflation-jitters-persist-4654949</guid>
+      <pubDate>04/05/2026 00:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7I00T_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Perdeu a grande mudança da Dell? Essas ações de IA podem ser as próximas.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusivechina-robothandbuilding-unicorn-linkerbot-targets-6-billion-valuation-4654932</guid>
       <pubDate>03/05/2026 22:01</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4300K_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Futuros de ações dos EUA estáveis ​​com mais lucros e folhas de pagamento não-agrícolas disponíveis</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-more-earnings-nonfarm-payrolls-on-tap-4654924</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-more-earnings-nonfarm-payrolls-on-tap-4654924</guid>
-      <pubDate>03/05/2026 21:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB4G09M_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
