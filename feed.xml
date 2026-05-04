@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 14:36:47 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 14:42:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BCE poderá aumentar as taxas em junho se as perspectivas de inflação não melhorarem, afirma Nagel</title>
+      <description></description>
+      <link>https://www.wsj.com/economy/central-banking/ecb-could-hike-rates-in-june-should-inflation-outlook-not-improve-nagel-says-66a4538e?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/ecb-could-hike-rates-in-june-should-inflation-outlook-not-improve-nagel-says-66a4538e?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>04/05/2026 14:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/wsj.com/079facacb06b531aef944df912acf4d6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Tyson Foods atingem alta de 52 semanas a 66,42 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sgc-q2-2025-earnings-call-154420301.html</guid>
       <pubDate>04/05/2026 12:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Peabody sobem à medida que problemas com minas australianas pesam nas perspectivas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/peabody-earnings-on-deck-as-australian-mine-issues-weigh-on-outlook-93CH-4656856</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/peabody-earnings-on-deck-as-australian-mine-issues-weigh-on-outlook-93CH-4656856</guid>
-      <pubDate>04/05/2026 12:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA601E0_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
