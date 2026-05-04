@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 06:12:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 06:16:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ‘Sempre fiz o turno da noite’: trabalhei 54 anos. Por que diabos eu esperaria para reivindicar a Segurança...</title>
+      <description>O Comité para um Orçamento Federal Responsável publicou um documento sugerindo limitar a Segurança Social a 100.000 dólares para um casal.</description>
+      <link>https://www.marketwatch.com/story/i-always-did-the-graveyard-shift-i-worked-for-54-years-why-on-earth-would-i-wait-to-claim-social-security-at-70-d72ee944?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/i-always-did-the-graveyard-shift-i-worked-for-54-years-why-on-earth-would-i-wait-to-claim-social-security-at-70-d72ee944?mod=mw_rss_topstories</guid>
+      <pubDate>04/05/2026 06:16</pubDate>
+      <enclosure url="https://images.mktw.net/im-64225749" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Kazimir do BCE: aumento das taxas em junho é quase inevitável</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/french-manufacturing-output-and-orders-rise-in-april-on-inflation-fears-pmi-shows-4655073</guid>
       <pubDate>04/05/2026 05:01</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da AltaGas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/altagas-q1-earnings-call-highlights-200746768.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/altagas-q1-earnings-call-highlights-200746768.html</guid>
-      <pubDate>04/05/2026 04:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/7266207a3f649a2fa8f8bd1458d64af3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
