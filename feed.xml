@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 07:18:11 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:29:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE TD Cowen aumenta a meta de preço das ações da Quanta Services após forte queda nos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/td-cowen-raises-quanta-services-stock-price-target-on-strong-earnings-beat-93CH-4655362</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/td-cowen-raises-quanta-services-stock-price-target-on-strong-earnings-beat-93CH-4655362</guid>
+      <pubDate>04/05/2026 07:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As melhores taxas de juros de poupança de alto rendimento hoje, 4 de maio de 2026 (ganhe até 4,1% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazon-amzn-ranks-among-best-223914930.html</guid>
       <pubDate>04/05/2026 05:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE NVIDIA (NVDA): entre as melhores ações americanas para comprar no setor de tecnologia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-among-best-american-223937360.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-among-best-american-223937360.html</guid>
-      <pubDate>04/05/2026 05:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4beabd482637ec7f5549a99b77c1d1cd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
