@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 17:17:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 17:28:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs reitera classificação de compra de ações da Apple em meio à desaceleração da App Store</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-apple-stock-buy-rating-amid-app-store-slowdown-93CH-4657326</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-reiterates-apple-stock-buy-rating-amid-app-store-slowdown-93CH-4657326</guid>
+      <pubDate>04/05/2026 17:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Powell Industries (POWL) está entre as ações sob o radar que estão em chamas no momento?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/brazil-sovereign-yields-climb-across-curve-as-stocks-decline-93CH-4657123</guid>
       <pubDate>04/05/2026 15:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_2_M_1440048332.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Executivo da Blackstone diz que boom de IA está impulsionando aumento de empregos de colarinho azul</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/blackstone-executive-says-ai-boom-driving-surge-in-bluecollar-jobs-4657125</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/blackstone-executive-says-ai-boom-driving-surge-in-bluecollar-jobs-4657125</guid>
-      <pubDate>04/05/2026 15:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE0T06O_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
