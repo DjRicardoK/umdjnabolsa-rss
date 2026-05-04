@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 03 May 2026 22:33:06 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 22:44:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (AMZN): O bilionário Tom Steyer está otimista com esta ação</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-billionaire-145312898.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-billionaire-145312898.html</guid>
+      <pubDate>03/05/2026 22:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/226ed9ed0936942adb97f3d56073e411" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Woodward (WWD) é a melhor ação que o bilionário Druckenmiller e Jim Cramer gostam?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/aehr-test-systems-aehr-10-135805258.html</guid>
       <pubDate>01/05/2026 18:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6857607624d018154569190d8bf2f815" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Este Rei dos Dividendos rende 6,4% e Wall Street ainda diz ‘compre’.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/dividend-king-yields-6-4-134743640.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dividend-king-yields-6-4-134743640.html</guid>
-      <pubDate>01/05/2026 18:16</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/20b7b1bc6d934aabb2b65a74b7404024" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
