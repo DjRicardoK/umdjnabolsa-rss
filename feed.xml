@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 10:56:24 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:57:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE GameStop lança uma oferta de US$ 56 bilhões pelo eBay – mas a matemática não está funcionando</title>
+      <description>Enquanto as ações do eBay sobem, Wall Street questiona a engenharia financeira que seria necessária para a GameStop adquirir uma empresa quase três vezes maior.</description>
+      <link>https://www.marketwatch.com/story/gamestop-launches-a-56-billion-bid-for-ebay-but-the-math-isnt-working-out-66da416e?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/gamestop-launches-a-56-billion-bid-for-ebay-but-the-math-isnt-working-out-66da416e?mod=mw_rss_topstories</guid>
+      <pubDate>04/05/2026 10:57</pubDate>
+      <enclosure url="https://images.mktw.net/im-89772641" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Kodak atingem alta de 52 semanas a 14,41 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-091-4656115</guid>
       <pubDate>04/05/2026 09:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED9015J_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Canaccord aumenta a meta de preço das ações da Estée Lauder após a queda dos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/canaccord-raises-estee-lauder-stock-price-target-on-earnings-beat-93CH-4656079</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/canaccord-raises-estee-lauder-stock-price-target-on-earnings-beat-93CH-4656079</guid>
-      <pubDate>04/05/2026 09:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
