@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 15:50:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 15:54:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O UBS permanece neutro em relação à JinkoSolar Holding Co., Ltd. (JKS) Após os lucros, o que eles estão vendo?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/ubs-stays-neutral-jinkosolar-holding-095552461.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ubs-stays-neutral-jinkosolar-holding-095552461.html</guid>
+      <pubDate>04/05/2026 15:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5ba4a382021b7616414ce0bced1e277e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os rendimentos soberanos do Brasil sobem ao longo da curva à medida que as ações caem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/williams-says-fed-policy-well-165154635.html</guid>
       <pubDate>04/05/2026 13:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/1ba824e3ea81fca3b57e293a970c0296" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Williams diz que política do Fed está bem posicionada para riscos econômicos e incertezas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/williams-says-fed-policy-well-positioned-for-economic-risks-uncertainty-4656985</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/williams-says-fed-policy-well-positioned-for-economic-risks-uncertainty-4656985</guid>
-      <pubDate>04/05/2026 13:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4313J_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
