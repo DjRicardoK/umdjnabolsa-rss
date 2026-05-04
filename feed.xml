@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 03 May 2026 22:31:58 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 22:33:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Woodward (WWD) é a melhor ação que o bilionário Druckenmiller e Jim Cramer gostam?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/woodward-wwd-best-stock-billionaire-143548391.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/woodward-wwd-best-stock-billionaire-143548391.html</guid>
+      <pubDate>03/05/2026 22:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7421e7929fe678d7baf8572cdd9d121b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise-Irã pode deixar Trump em pior situação do que antes de ir para a guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dividend-king-yields-6-4-134743640.html</guid>
       <pubDate>01/05/2026 18:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/20b7b1bc6d934aabb2b65a74b7404024" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Formulário 6K OceanaGold Corp para: 1º de maio</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-6k-oceanagold-corp-for-1-may-93CH-4654513</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-6k-oceanagold-corp-for-1-may-93CH-4654513</guid>
-      <pubDate>01/05/2026 18:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
