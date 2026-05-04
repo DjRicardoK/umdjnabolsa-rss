@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 18:23:21 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 18:27:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Circle lidera ações de criptografia em alta à medida que acordo de stablecoin coloca contas críticas de volta...</title>
+      <description>O progresso na Lei de Clareza, há muito paralisada, está ajudando a dar um impulso à criptografia</description>
+      <link>https://www.marketwatch.com/story/bitcoin-busted-through-80-000-for-the-first-time-since-january-heres-the-crucial-level-it-needs-to-hold-right-now-038c252f?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/bitcoin-busted-through-80-000-for-the-first-time-since-january-heres-the-crucial-level-it-needs-to-hold-right-now-038c252f?mod=mw_rss_topstories</guid>
+      <pubDate>04/05/2026 18:27</pubDate>
+      <enclosure url="https://images.mktw.net/im-67293336" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita e EPS da RB Global no primeiro trimestre de 2026...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-xpeng-inc-xpev-among-095542752.html</guid>
       <pubDate>04/05/2026 16:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ed504bc7562c91526a4ebcbe92ea306a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE (DQ) sob pressão: Roth Capital alerta sobre o que vem a seguir</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/daqo-energy-corp-dq-under-095543619.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/daqo-energy-corp-dq-under-095543619.html</guid>
-      <pubDate>04/05/2026 16:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/52a0682a9fd9785c808d330766dde2c6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
