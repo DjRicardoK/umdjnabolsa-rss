@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 02:30:49 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 02:49:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O nomeado para presidente do Fed, Kevin Warsh, discorda de Jerome Powell sobre esta política importante do...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/fed-chair-nominee-kevin-warsh-182400582.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-chair-nominee-kevin-warsh-182400582.html</guid>
+      <pubDate>04/05/2026 02:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/f492d52101cbca9677c653cfbbb98749" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência sobre ganhos do primeiro trimestre de gerenciamento de resíduos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/concentration-risk-high-top-two-145807445.html</guid>
       <pubDate>03/05/2026 22:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/b6ff1e9804834c8d5159dc6490464d70" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE EUA e Filipinas implantam sistema de mísseis anti-navio em Batanes, perto de Taiwan, para jogos de guerra</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/us-philippines-deploy-antiship-missile-system-in-batanes-near-taiwan-for-war-games-4654937</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-philippines-deploy-antiship-missile-system-in-batanes-near-taiwan-for-war-games-4654937</guid>
-      <pubDate>03/05/2026 22:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4104C_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
