@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 06:43:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 06:43:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs eleva classificação de ações da KE Holdings para comprar na recuperação imobiliária na China</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-ke-holdings-stock-rating-to-buy-on-china-property-recovery-93CH-4655177</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-upgrades-ke-holdings-stock-rating-to-buy-on-china-property-recovery-93CH-4655177</guid>
+      <pubDate>04/05/2026 06:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs monitora o impacto das tarifas dos EUA nos volumes de remessas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/capital-power-q1-earnings-call-210639460.html</guid>
       <pubDate>04/05/2026 05:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/2a3dfc6d2328b802ec10305b658f8909" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Barclays se torna a mais recente corretora a apostar na ausência de cortes nas taxas do Fed em 2026</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/barclays-becomes-latest-brokerage-to-bet-on-no-fed-rate-cuts-in-2026-4655070</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/barclays-becomes-latest-brokerage-to-bet-on-no-fed-rate-cuts-in-2026-4655070</guid>
-      <pubDate>04/05/2026 05:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM430DU_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
