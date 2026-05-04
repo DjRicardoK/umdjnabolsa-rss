@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 19:08:26 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 19:13:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Tactile Systems Q1 2026 supera as expectativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-tactile-systems-q1-2026-beats-expectations-93CH-4657611</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tactile-systems-q1-2026-beats-expectations-93CH-4657611</guid>
+      <pubDate>04/05/2026 19:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A crise silenciosa que está sobrecarregando sua conta de supermercado pode ficar muito mais alta</title>
       <description>À medida que os custos dos fertilizantes atingiram os máximos de 2026 e os agricultores dos EUA reduziram as plantações, os investidores estão a recorrer a estas ações para se...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-ttm-technologies-ttmi-among-105407468.html</guid>
       <pubDate>04/05/2026 16:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3a5c5435c05d2400147c15249c7d794c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tesouro dos EUA vai emprestar US$ 189 bilhões no segundo trimestre, valor acima do esperado</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-treasury-to-borrow-189-billion-in-q2-higher-than-expected-4657191</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-treasury-to-borrow-189-billion-in-q2-higher-than-expected-4657191</guid>
-      <pubDate>04/05/2026 16:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
