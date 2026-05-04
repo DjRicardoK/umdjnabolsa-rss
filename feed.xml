@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 17:39:30 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 17:42:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 5 gráficos que explicam por que este ‘mercado de teflon’ permanece tão resiliente</title>
+      <description>Um veterano de Wall Street acredita que os fundamentos permanecem fortes, o que deve ajudar a manter os preços das ações elevados</description>
+      <link>https://www.marketwatch.com/story/5-charts-that-explain-why-this-teflon-market-remains-so-resilient-5109c830?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/5-charts-that-explain-why-this-teflon-market-remains-so-resilient-5109c830?mod=mw_rss_topstories</guid>
+      <pubDate>04/05/2026 17:42</pubDate>
+      <enclosure url="https://images.mktw.net/im-35931393" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE V2X sobe 8% com base nos lucros e na orientação aumentada</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/south-africa-central-bank-to-monitor-data-amid-iran-war-uncertainty-93CH-4657131</guid>
       <pubDate>04/05/2026 15:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman diz que os estoques globais de petróleo se aproximam do menor nível em oito anos e que a velocidade...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/goldman-says-global-oil-stocks-approaching-eightyear-low-depletion-speed-a-concern-4657132</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/goldman-says-global-oil-stocks-approaching-eightyear-low-depletion-speed-a-concern-4657132</guid>
-      <pubDate>04/05/2026 15:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4317C_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
