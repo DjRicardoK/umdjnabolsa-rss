@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 05:38:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:47:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tim Cook afirma que a Apple está buscando reembolsos de tarifas e reinvestirá qualquer ganho inesperado em...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/tim-cook-says-apple-pursuing-220119327.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/tim-cook-says-apple-pursuing-220119327.html</guid>
+      <pubDate>04/05/2026 05:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/7579c9c52ccf534c08ab3bd227f68695" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Stifel aumenta preço-alvo da Microsoft (MSFT) e mantém classificação de retenção</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-says-us-to-help-ships-stranded-in-strait-of-hormuz-as-tanker-hit-by-projectiles-4654934</guid>
       <pubDate>04/05/2026 03:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4301H_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Slides do Federal Signal Q1 2026: resultados recordes impulsionam perspectivas elevadas</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/federal-signal-q1-2026-slides-record-results-drive-raised-outlook-93CH-4655013</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/federal-signal-q1-2026-slides-record-results-drive-raised-outlook-93CH-4655013</guid>
-      <pubDate>04/05/2026 03:43</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/3048336981116fbf75805c95824c7cc7f88702451438a5aef1bbbf0bb09a0ad4.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
