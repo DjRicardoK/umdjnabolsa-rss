@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 03 May 2026 23:23:11 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 23:33:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As 2 principais ações financeiras que podem despencar neste trimestre</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/top-2-financial-stocks-may-153145926.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/top-2-financial-stocks-may-153145926.html</guid>
+      <pubDate>03/05/2026 23:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/d7884c8947c9af8ddf41433ac3651aa6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Estas são as duas ações de IA mais populares de abril. Você deve comprá-los em maio?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asias-bond-markets-shake-off-war-angst-with-record-local-issuance-4654911</guid>
       <pubDate>03/05/2026 20:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T0GO_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Avião da United Airlines bate em poste de luz ao pousar no aeroporto de Newark</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/united-airlines-plane-hits-light-pole-on-landing-at-newark-airport-4654910</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/united-airlines-plane-hits-light-pole-on-landing-at-newark-airport-4654910</guid>
-      <pubDate>03/05/2026 19:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
