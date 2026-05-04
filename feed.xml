@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 02:50:14 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 02:50:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE É por isso que a Summit Therapeutics (SMMT) é uma das melhores ações para comprar em um mercado em ascensão</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-summit-therapeutics-smmt-one-182944685.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-summit-therapeutics-smmt-one-182944685.html</guid>
+      <pubDate>04/05/2026 02:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6a359286f17d14cfd1e8d6f65898b097" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BorgWarner Inc. (BWA) assina contrato de 7 anos para fortalecer posição como parceira de propulsão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-korea-deputy-chief-says-time-to-consider-rate-hikes-4654939</guid>
       <pubDate>03/05/2026 22:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM43033_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Microsoft Corporation (MSFT): o bilionário Tom Steyer está comprando essas ações</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-billionaire-tom-145536614.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-billionaire-tom-145536614.html</guid>
-      <pubDate>03/05/2026 22:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
