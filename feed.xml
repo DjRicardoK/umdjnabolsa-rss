@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 03 May 2026 22:51:32 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 22:55:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Vice-diretor do Banco da Coreia diz que é hora de considerar aumentos de juros</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bank-of-korea-deputy-chief-says-time-to-consider-rate-hikes-4654939</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-korea-deputy-chief-says-time-to-consider-rate-hikes-4654939</guid>
+      <pubDate>03/05/2026 22:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM43033_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Microsoft Corporation (MSFT): o bilionário Tom Steyer está comprando essas ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-apple-broadcom-buy-zones/?src=A00220&yptr=yahoo</guid>
       <pubDate>03/05/2026 19:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/ea08b6ef1e192b36cdd29244c6e970ea" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Rússia caem no fechamento do pregão; Índice MOEX Rússia inalterado</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4654905</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4654905</guid>
-      <pubDate>03/05/2026 18:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA8106M_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
