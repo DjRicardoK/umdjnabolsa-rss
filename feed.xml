@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 10:39:59 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:44:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Rival da Tesla recebe pedidos fortes para concorrente do modelo 3 atualizado</title>
+      <description></description>
+      <link>https://www.investors.com/news/tesla-rival-xiaomi-su7-orders-model-3/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/tesla-rival-xiaomi-su7-orders-model-3/?src=A00220&yptr=yahoo</guid>
+      <pubDate>04/05/2026 10:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/a3883ffe1374891a8923ec9386f25bf8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os motoristas de veículos elétricos estão dando uma volta vitoriosa – passando pelos postos de gasolina que...</title>
       <description>Os condutores de veículos eléctricos estão a dar a volta à vitória, uma vez que a guerra no Irão desacelerou o fornecimento global de petróleo e aumentou o custo da gasolina.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-2026-leaders-laggards-may42026/?src=A00220&yptr=yahoo</guid>
       <pubDate>04/05/2026 09:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/d7cf9ddd4d7e16b4173298be6f3ba2a3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Berkshire Hathaway no primeiro trimestre de 2026: primeiro trimestre de Greg Abel</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-q1-2026-earnings-120012784.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-q1-2026-earnings-120012784.html</guid>
-      <pubDate>04/05/2026 09:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/d5f89a87afe6138cf53e8efbce6a8523" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
