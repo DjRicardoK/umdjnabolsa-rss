@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 05:18:38 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:18:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE NVIDIA (NVDA): entre as melhores ações americanas para comprar no setor de tecnologia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-among-best-american-223937360.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-among-best-american-223937360.html</guid>
+      <pubDate>04/05/2026 05:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4beabd482637ec7f5549a99b77c1d1cd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warren Buffett diz que os mercados são como uma igreja com um cassino anexo, mas “nunca tivemos pessoas com...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-p-500s-194500078.html</guid>
       <pubDate>04/05/2026 03:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/95b8877e2ce27d11513b34bb606e4beb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os investidores devem comprar as ações desses três parceiros da OpenAI, independentemente do que aconteça com...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/investors-buy-stocks-3-openai-190500528.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/investors-buy-stocks-3-openai-190500528.html</guid>
-      <pubDate>04/05/2026 03:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/19dcd777bf2fddaaa41cfe52d9f01e27" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
