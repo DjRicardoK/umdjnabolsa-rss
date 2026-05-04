@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 13:26:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 13:26:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: RLJ Lodging Trust supera as previsões do primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-rlj-lodging-trust-beats-q1-2026-forecasts-93CH-4656938</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rlj-lodging-trust-beats-q1-2026-forecasts-93CH-4656938</guid>
+      <pubDate>04/05/2026 13:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Parque Arauco no primeiro trimestre de 2026 vê lucro por ação...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-ebay-stock-rating-at-hold-with-98-price-target-93CH-4656786</guid>
       <pubDate>04/05/2026 12:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A KKR &amp; Co (KKR) oferece uma oportunidade atraente de risco/recompensa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/does-kkr-co-kkr-offer-145528959.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/does-kkr-co-kkr-offer-145528959.html</guid>
-      <pubDate>04/05/2026 12:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0b6ff3b243138a7aa40299eaa33251ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
