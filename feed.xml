@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 01:55:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 02:17:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O crescimento industrial da Índia permanece lento em abril em meio ao aumento dos custos provocados pela...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/indias-factory-growth-stays-sluggish-in-april-amid-warled-soaring-costs-pmi-shows-4654983</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/indias-factory-growth-stays-sluggish-in-april-amid-warled-soaring-costs-pmi-shows-4654983</guid>
+      <pubDate>04/05/2026 02:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM43080_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Reddit transforma conversa humana em ouro de Wall Street com explosão no primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/shocking-similarity-between-micron-nvidia-145155230.html</guid>
       <pubDate>03/05/2026 22:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/fe9c74e32591894a5bc026151a3a281b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (AMZN): O bilionário Tom Steyer está otimista com esta ação</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-billionaire-145312898.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-billionaire-145312898.html</guid>
-      <pubDate>03/05/2026 22:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/226ed9ed0936942adb97f3d56073e411" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
