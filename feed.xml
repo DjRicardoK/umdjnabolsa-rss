@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 03 May 2026 21:05:22 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 21:10:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Lucros da Berkshire Hathaway superam, acúmulo de dinheiro aumenta; Destaque para o sucessor de Warren Buffett</title>
+      <description></description>
+      <link>https://www.investors.com/news/berkshire-hathaway-earnings-greg-abel-warren-buffett/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/berkshire-hathaway-earnings-greg-abel-warren-buffett/?src=A00220&yptr=yahoo</guid>
+      <pubDate>03/05/2026 21:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/eccc0c1a2aeaf9a9f3cf0b4696dafe46" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE National Australia Bank registra perda de lucros no primeiro semestre e alerta sobre riscos de conflito no...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stocks-rally-could-find-fuel-in-earnings-jobs-data-amid-surging-oil-prices-4652342</guid>
       <pubDate>01/05/2026 17:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM402DO_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Delta Electronics de Taiwan alerta que custos aumentam à medida que aumenta a demanda por data centers de IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/taiwans-delta-electronics-warns-costs-102216489.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/taiwans-delta-electronics-warns-costs-102216489.html</guid>
-      <pubDate>01/05/2026 17:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/7ce9310fd6ca7333f87288f5fefbd3d1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
