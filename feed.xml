@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 00:36:08 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 01:14:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar estável, câmbio da Ásia estável enquanto incerteza no Oriente Médio e nervosismo nas taxas persistem</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/dollar-steady-asia-fx-flat-as-meast-uncertainty-rate-jitters-persist-4654953</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-steady-asia-fx-flat-as-meast-uncertainty-rate-jitters-persist-4654953</guid>
+      <pubDate>04/05/2026 01:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6N142_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência sobre os ganhos do primeiro trimestre da Tyler Technologies</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/berkshire-shareholders-like-greg-abel-but-following-warren-buffett-is-tough-4654827</guid>
       <pubDate>03/05/2026 22:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4203A_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Veja por que Bloom Energy (BE) está entre as ações que o bilionário Druckenmiller e Jim Cramer gostam</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-among-stocks-143539916.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-among-stocks-143539916.html</guid>
-      <pubDate>03/05/2026 22:21</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9e5f42e4d8656061d7a52ac3b0936eac" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
