@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 05:47:34 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:55:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ratos Q1 2026 mostra finanças fortes, lucro por ação subindo 81%</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ratos-q1-2026-shows-strong-financials-eps-up-81-93CH-4655121</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ratos-q1-2026-shows-strong-financials-eps-up-81-93CH-4655121</guid>
+      <pubDate>04/05/2026 05:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tim Cook afirma que a Apple está buscando reembolsos de tarifas e reinvestirá qualquer ganho inesperado em...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-037-4655009</guid>
       <pubDate>04/05/2026 03:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7A004_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Irã alerta Marinha dos EUA para ficar longe de Ormuz depois que Trump diz que os EUA ajudarão navios...</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/trump-says-us-to-help-ships-stranded-in-strait-of-hormuz-as-tanker-hit-by-projectiles-4654934</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-says-us-to-help-ships-stranded-in-strait-of-hormuz-as-tanker-hit-by-projectiles-4654934</guid>
-      <pubDate>04/05/2026 03:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4301H_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
