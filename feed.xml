@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 15:50:15 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 15:50:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os rendimentos soberanos do Brasil sobem ao longo da curva à medida que as ações caem</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/brazil-sovereign-yields-climb-across-curve-as-stocks-decline-93CH-4657123</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/brazil-sovereign-yields-climb-across-curve-as-stocks-decline-93CH-4657123</guid>
+      <pubDate>04/05/2026 15:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_2_M_1440048332.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Executivo da Blackstone diz que boom de IA está impulsionando aumento de empregos de colarinho azul</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/williams-says-fed-policy-well-positioned-for-economic-risks-uncertainty-4656985</guid>
       <pubDate>04/05/2026 13:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4313J_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: RLJ Lodging Trust supera as previsões do primeiro trimestre de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-rlj-lodging-trust-beats-q1-2026-forecasts-93CH-4656938</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rlj-lodging-trust-beats-q1-2026-forecasts-93CH-4656938</guid>
-      <pubDate>04/05/2026 13:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
