@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 00:18:03 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 00:23:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Opinião de Jim Cramer sobre 21 ações: Oklo, AST SpaceMobile e outros</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-opinion-21-stocks-165936273.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-opinion-21-stocks-165936273.html</guid>
+      <pubDate>04/05/2026 00:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Prévia do RBA, maio: aumento de 25 bps esperado à medida que o nervosismo inflacionário persiste</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-edge-up-in-asia-oil-flat-amid-middle-east-uncertainty-4654933</guid>
       <pubDate>03/05/2026 22:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4301A_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Linkerbot, unicórnio de construção manual de robôs exclusivo da China, tem como meta avaliação de US$ 6...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/exclusivechina-robothandbuilding-unicorn-linkerbot-targets-6-billion-valuation-4654932</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusivechina-robothandbuilding-unicorn-linkerbot-targets-6-billion-valuation-4654932</guid>
-      <pubDate>03/05/2026 22:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4300K_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
