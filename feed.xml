@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 15:55:25 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 15:55:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco central da África do Sul monitorará dados em meio à incerteza da guerra no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/south-africa-central-bank-to-monitor-data-amid-iran-war-uncertainty-93CH-4657131</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/south-africa-central-bank-to-monitor-data-amid-iran-war-uncertainty-93CH-4657131</guid>
+      <pubDate>04/05/2026 15:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman diz que os estoques globais de petróleo se aproximam do menor nível em oito anos e que a velocidade...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-rebrands-third-party-logistics-165657143.html</guid>
       <pubDate>04/05/2026 14:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/freightwaves_373/e953941284ca075cca5d4331d2d0d64b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do terceiro trimestre de 2026 da The Marzetti Company</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/marzetti-company-q3-2026-earnings-164603441.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/marzetti-company-q3-2026-earnings-164603441.html</guid>
-      <pubDate>04/05/2026 13:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/c166c37c8b7f218c6a7443729861114d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
