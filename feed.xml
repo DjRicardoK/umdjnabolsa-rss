@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 03:30:35 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 03:30:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs diz que a passagem do S&amp;P 500 para além de 7.100 é &apos;espuma&apos; - uma vez anterior, Wall Street...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-p-500s-194500078.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-p-500s-194500078.html</guid>
+      <pubDate>04/05/2026 03:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/95b8877e2ce27d11513b34bb606e4beb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os investidores devem comprar as ações desses três parceiros da OpenAI, independentemente do que aconteça com...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-opinion-21-stocks-165936273.html</guid>
       <pubDate>04/05/2026 00:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Prévia do RBA, maio: aumento de 25 bps esperado à medida que o nervosismo inflacionário persiste</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/rba-preview-may-25-bps-hike-expected-as-inflation-jitters-persist-4654949</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/rba-preview-may-25-bps-hike-expected-as-inflation-jitters-persist-4654949</guid>
-      <pubDate>04/05/2026 00:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7I00T_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
