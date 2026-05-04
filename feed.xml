@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 05:13:12 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:13:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Empresas da zona do euro veem novo aumento da inflação se a guerra durar meses, mostra pesquisa do BCE</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/euro-zone-firms-see-new-inflation-surge-if-war-lasts-months-ecb-poll-shows-4655084</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/euro-zone-firms-see-new-inflation-surge-if-war-lasts-months-ecb-poll-shows-4655084</guid>
+      <pubDate>04/05/2026 05:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM430F5_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: A perda de lucros do Grupo Volkswagen no primeiro trimestre de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-096-4654990</guid>
       <pubDate>04/05/2026 03:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3K0AH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Transcrição da teleconferência de resultados: Federal Signal Q1 2026 supera as expectativas com forte...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-federal-signal-q1-2026-beats-expectations-with-strong-growth-93CH-4654992</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-federal-signal-q1-2026-beats-expectations-with-strong-growth-93CH-4654992</guid>
-      <pubDate>04/05/2026 03:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
