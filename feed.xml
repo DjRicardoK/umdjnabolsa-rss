@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 03:11:46 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 03:11:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de Taiwan caem no fechamento do pregão; Taiwan pesou 0,96%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-096-4654990</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-096-4654990</guid>
+      <pubDate>04/05/2026 03:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3K0AH_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Transcrição da teleconferência de resultados: Federal Signal Q1 2026 supera as expectativas com forte...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/mortgage-rates-erased-9-months-160300384.html</guid>
       <pubDate>04/05/2026 00:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/e52e45b8734eb51914eccc26830b0952" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Anthropic se aproxima de joint venture de IA de US$ 1,5 bilhão com empresas de Wall Street, informa WSJ</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/anthropic-nears-15-billion-ai-joint-venture-with-wall-street-firms-wsj-reports-4654946</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/anthropic-nears-15-billion-ai-joint-venture-with-wall-street-firms-wsj-reports-4654946</guid>
-      <pubDate>03/05/2026 23:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4304E_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
