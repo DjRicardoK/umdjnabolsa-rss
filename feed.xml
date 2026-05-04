@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 01:14:14 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 01:15:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Piper Sandler avalia excesso de peso da Regeneron (REGN) no crescimento da oncologia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/piper-sandler-rates-regeneron-regn-175140159.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/piper-sandler-rates-regeneron-regn-175140159.html</guid>
+      <pubDate>04/05/2026 01:15</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2bd5e87846463f859176bc5389ecb5ec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar estável, câmbio da Ásia estável enquanto incerteza no Oriente Médio e nervosismo nas taxas persistem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/analysisiran-standoff-could-leave-trump-worse-off-than-before-he-went-to-war-4654936</guid>
       <pubDate>03/05/2026 22:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM41025_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Acionistas da Berkshire gostam de Greg Abel, mas seguir Warren Buffett é difícil</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/berkshire-shareholders-like-greg-abel-but-following-warren-buffett-is-tough-4654827</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/berkshire-shareholders-like-greg-abel-but-following-warren-buffett-is-tough-4654827</guid>
-      <pubDate>03/05/2026 22:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4203A_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
