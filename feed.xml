@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 11:24:12 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:24:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Addus devem testar o impulso de crescimento após acordo com a Gentiva</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/addus-earnings-set-to-test-growth-momentum-after-gentiva-deal-93CH-4656600</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/addus-earnings-set-to-test-growth-momentum-after-gentiva-deal-93CH-4656600</guid>
+      <pubDate>04/05/2026 11:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bessent pede à China que ajude a reabrir o Estreito de Ormuz</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-may-4-2026-100000428.html</guid>
       <pubDate>04/05/2026 10:29</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Arcadis Q1 2026 vê forte entrada de pedidos e aumento de estoque</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-arcadis-q1-2026-sees-strong-order-intake-and-stock-surge-93CH-4656318</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-arcadis-q1-2026-sees-strong-order-intake-and-stock-surge-93CH-4656318</guid>
-      <pubDate>04/05/2026 10:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
