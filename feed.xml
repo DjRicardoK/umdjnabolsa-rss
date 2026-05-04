@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 10:29:23 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:29:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de defesa que valem a pena comprar abaixo de US$ 15</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/defense-stocks-worth-buying-under-131654277.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/defense-stocks-worth-buying-under-131654277.html</guid>
+      <pubDate>04/05/2026 10:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/3ba62a02d3ab4cb93e3df47c85a0108f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores taxas de CD hoje, 4 de maio de 2026 (bloqueio de até 4,1% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-steady-as-markets-remain-uncertain-over-iran-interest-rates-4654958</guid>
       <pubDate>04/05/2026 08:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC4I0Z1_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Apple acaba de dar aos investidores um motivo de US$ 100 bilhões para repensar a corrida de gastos com IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/apple-just-gave-investors-100-112800073.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apple-just-gave-investors-100-112800073.html</guid>
-      <pubDate>04/05/2026 08:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/6e5e1faa8e78c7f99f9cf278557c0cd1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
