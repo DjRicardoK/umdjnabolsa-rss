@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 12:03:19 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 12:03:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da UL Solutions em ação: o pivô de fusões e aquisições pode compensar o declínio do primeiro trimestre?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/ul-solutions-earnings-on-deck-can-ma-pivot-offset-q1-decline-93CH-4656742</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/ul-solutions-earnings-on-deck-can-ma-pivot-offset-q1-decline-93CH-4656742</guid>
+      <pubDate>04/05/2026 12:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tyson Foods supera os lucros do segundo trimestre, apoiada pela força do negócio de frango</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-eyes-320-aws-growth-140829944.html</guid>
       <pubDate>04/05/2026 11:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/5f025b30233885a9a02f800df2cb32f9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE USA Compression Partners enfrenta teste de ganhos na aquisição</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/usa-compression-partners-faces-earnings-test-on-acquisition-93CH-4656544</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/usa-compression-partners-faces-earnings-test-on-acquisition-93CH-4656544</guid>
-      <pubDate>04/05/2026 11:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
