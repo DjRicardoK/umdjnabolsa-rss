@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 03 May 2026 22:51:27 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 22:51:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Microsoft Corporation (MSFT): o bilionário Tom Steyer está comprando essas ações</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-billionaire-tom-145536614.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-billionaire-tom-145536614.html</guid>
+      <pubDate>03/05/2026 22:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Risco de concentração elevado à medida que as duas principais ações orientam o desempenho do ETF de serviços...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4654905</guid>
       <pubDate>03/05/2026 18:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA8106M_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O mercado está em alta com um boom de gastos com IA – mas o que poderia quebrar essa alta?</title>
-      <description>Os lucros deslumbraram no primeiro trimestre, mas as contínuas revisões em alta das perspetivas para 2026 têm sido altamente concentradas.</description>
-      <link>https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories</guid>
-      <pubDate>03/05/2026 17:52</pubDate>
-      <enclosure url="https://images.mktw.net/im-95974668" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
