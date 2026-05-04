@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 06:19:58 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 06:43:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs monitora o impacto das tarifas dos EUA nos volumes de remessas</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-tracks-us-tariff-impact-on-shipping-volumes-93CH-4655178</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-tracks-us-tariff-impact-on-shipping-volumes-93CH-4655178</guid>
+      <pubDate>04/05/2026 06:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3A0VW_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As melhores ações com dividendos para comprar e manter para sempre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/barclays-becomes-latest-brokerage-to-bet-on-no-fed-rate-cuts-in-2026-4655070</guid>
       <pubDate>04/05/2026 05:01</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM430DU_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Resultados do primeiro trimestre de 2026 do Bank Rakyat...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bank-rakyat-indonesia-q1-2026-results-93CH-4655072</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bank-rakyat-indonesia-q1-2026-results-93CH-4655072</guid>
-      <pubDate>04/05/2026 05:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
