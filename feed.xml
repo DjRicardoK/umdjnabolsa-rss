@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 03 May 2026 23:33:03 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 23:42:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mark Cuban atualiza TrumpRx para &apos;A-&apos; - &apos;Eles estão fazendo um bom trabalho, na verdade&apos;, afirma que destruir...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-upgrades-trumprx-theyre-154611156.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-upgrades-trumprx-theyre-154611156.html</guid>
+      <pubDate>03/05/2026 23:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/5aaeeac34396e259fc6f25627b0bfedd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As 2 principais ações financeiras que podem despencar neste trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/national-australia-bank-posts-firsthalf-profit-miss-warns-of-middle-east-conflict-risks-4654916</guid>
       <pubDate>03/05/2026 21:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM420EZ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os mercados de títulos da Ásia superam a angústia da guerra com emissões locais recordes</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asias-bond-markets-shake-off-war-angst-with-record-local-issuance-4654911</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asias-bond-markets-shake-off-war-angst-with-record-local-issuance-4654911</guid>
-      <pubDate>03/05/2026 20:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM3T0GO_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
