@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 08:23:05 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 08:27:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 3 ações de crescimento que o mercado está jogando fora e por que você deve comprá-las</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-market-throwing-111600160.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-market-throwing-111600160.html</guid>
+      <pubDate>04/05/2026 08:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/9503d47d9cf8adb0c272aee38bea8bb1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘Estamos todos preocupados que o pote de mel acabe’: O governo dos EUA contrai empréstimos da minha Segurança...</title>
       <description>Há muitas sugestões circulando por Washington D.C. sobre como resolver os problemas iminentes de financiamento do programa.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-kazimir-june-rate-hike-all-but-inevitable-4655151</guid>
       <pubDate>04/05/2026 06:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM430HM_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ADNOC planeja US$ 55 bilhões em prêmios de projetos até 2028</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/adnoc-plans-55-billion-project-081804063.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/adnoc-plans-55-billion-project-081804063.html</guid>
-      <pubDate>04/05/2026 06:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/oilprice.com/2afe18d71a31675d1794e5bfe5599de8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
