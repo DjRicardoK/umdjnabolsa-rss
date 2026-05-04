@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 13:26:58 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 13:56:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Williams diz que política do Fed está bem posicionada para riscos econômicos e incertezas</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/williams-says-fed-policy-well-positioned-for-economic-risks-uncertainty-4656985</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/williams-says-fed-policy-well-positioned-for-economic-risks-uncertainty-4656985</guid>
+      <pubDate>04/05/2026 13:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4313J_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: RLJ Lodging Trust supera as previsões do primeiro trimestre de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/cathie-wood-ark-invest-amd-stock-earnings/?src=A00220&yptr=yahoo</guid>
       <pubDate>04/05/2026 12:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/325a8766791a258753f13bf38157201f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Stifel reitera classificação das ações do eBay em Hold com preço-alvo de US$ 98</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-ebay-stock-rating-at-hold-with-98-price-target-93CH-4656786</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-ebay-stock-rating-at-hold-with-98-price-target-93CH-4656786</guid>
-      <pubDate>04/05/2026 12:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
