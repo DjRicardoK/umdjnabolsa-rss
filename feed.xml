@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 05:13:25 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:18:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warren Buffett diz que os mercados são como uma igreja com um cassino anexo, mas “nunca tivemos pessoas com...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/warren-buffett-says-markets-church-213003428.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/warren-buffett-says-markets-church-213003428.html</guid>
+      <pubDate>04/05/2026 05:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/fortune_175/cab139826f1972ccb947ab45807dfa31" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As fábricas da área do euro adquiriram matérias-primas em abril, à medida que o otimismo caiu em meio à...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/investors-buy-stocks-3-openai-190500528.html</guid>
       <pubDate>04/05/2026 03:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/19dcd777bf2fddaaa41cfe52d9f01e27" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resultados financeiros impressionantes afirmam a Nomura Holdings, Inc. (NMR) como uma das melhores ações...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/impressive-financial-results-assert-nomura-183152005.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/impressive-financial-results-assert-nomura-183152005.html</guid>
-      <pubDate>04/05/2026 03:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0f2e76e3014c9618fa4bec45054a2527" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
