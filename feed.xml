@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 11:09:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:12:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE USA Compression Partners enfrenta teste de ganhos na aquisição</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/usa-compression-partners-faces-earnings-test-on-acquisition-93CH-4656544</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/usa-compression-partners-faces-earnings-test-on-acquisition-93CH-4656544</guid>
+      <pubDate>04/05/2026 11:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de infraestrutura de IA: Barclays destaca as principais peças de equipamentos de energia a gás</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-air-products-tops-q2-2026-forecasts-shares-dip-93CH-4656276</guid>
       <pubDate>04/05/2026 10:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon oferecerá serviços de cadeia de suprimentos para empresas</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/amazon-stock-amzn-supply-chain/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/amazon-stock-amzn-supply-chain/?src=A00220&yptr=yahoo</guid>
-      <pubDate>04/05/2026 10:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/18ee5d0508c45db7b330fb9b341717ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
