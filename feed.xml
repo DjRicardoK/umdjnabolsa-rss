@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 07:29:07 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:32:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Barclays gira e diz que não haverá cortes nas taxas do Fed em 2026</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/barclays-pivots-says-no-fed-rate-cuts-in-2026-4655374</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/barclays-pivots-says-no-fed-rate-cuts-in-2026-4655374</guid>
+      <pubDate>04/05/2026 07:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED14073_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE TD Cowen aumenta a meta de preço das ações da Quanta Services após forte queda nos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/accent-group-stock-tumbles-13-on-profit-warning-93CH-4655099</guid>
       <pubDate>04/05/2026 05:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon (AMZN) está entre as melhores ações de tecnologia americanas para investir</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/amazon-amzn-ranks-among-best-223914930.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/amazon-amzn-ranks-among-best-223914930.html</guid>
-      <pubDate>04/05/2026 05:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
