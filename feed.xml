@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 11:29:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:29:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BCE alerta contra o enfraquecimento das regras de capital dos bancos em meio a preocupações com pagamentos</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ecb-warns-against-weakening-bank-capital-rules-amid-payout-concerns-93CH-4656615</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-warns-against-weakening-bank-capital-rules-amid-payout-concerns-93CH-4656615</guid>
+      <pubDate>04/05/2026 11:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_6_M_1440048362.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do Grupo Alamo sobem enquanto o negócio de vegetação busca queda</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/ai-save-bitcoin-miners-q1-132515593.html</guid>
       <pubDate>04/05/2026 10:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/beincrypto_us_662/e4d3b5c4b8bebc8cb42fd691a0c4285e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de defesa que valem a pena comprar abaixo de US$ 15</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/defense-stocks-worth-buying-under-131654277.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/defense-stocks-worth-buying-under-131654277.html</guid>
-      <pubDate>04/05/2026 10:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/3ba62a02d3ab4cb93e3df47c85a0108f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
