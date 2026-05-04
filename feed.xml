@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 05:12:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 05:13:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: A perda de lucros do Grupo Volkswagen no primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-volkswagen-groups-q1-2026-earnings-miss-sends-stock-lower-93CH-4655088</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-volkswagen-groups-q1-2026-earnings-miss-sends-stock-lower-93CH-4655088</guid>
+      <pubDate>04/05/2026 05:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da ARC Resources</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-federal-signal-q1-2026-beats-expectations-with-strong-growth-93CH-4654992</guid>
       <pubDate>04/05/2026 03:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Duas ações de Taiwan com forte exposição à IA, de acordo com Bernstein</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/two-taiwanese-stocks-with-strong-ai-exposure-according-to-bernstein-93CH-4654988</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/two-taiwanese-stocks-with-strong-ai-exposure-according-to-bernstein-93CH-4654988</guid>
-      <pubDate>04/05/2026 03:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
