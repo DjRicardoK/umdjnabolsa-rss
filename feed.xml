@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 06:03:11 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 06:05:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Nvidia estão chegando a US$ 200. O que poderia levá-lo até lá.</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/nvidia-stock-price-ai-chips-35da78b6?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/nvidia-stock-price-ai-chips-35da78b6?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>04/05/2026 06:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/be00bb99d7efcf60ce12acbbe3b3af0e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Morguard Real Estate Inv. Destaques da teleconferência sobre ganhos do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sacyr-q1-2026-shows-strong-growth-mixed-stock-response-93CH-4655038</guid>
       <pubDate>04/05/2026 04:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Villeroy, do Banco da França, vê a inflação retornando a 2% em 2027, 2028</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/bank-of-frances-villeroy-sees-inflation-returning-to-2-in-2027-2028-4655020</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/bank-of-frances-villeroy-sees-inflation-returning-to-2-in-2027-2028-4655020</guid>
-      <pubDate>04/05/2026 04:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM430BX_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
