@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 23:37:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 23:49:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Ásia caem com o aumento das tensões no Irã; Austrália enfraquece antes da decisão do RBA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-iran-tensions-surge-australia-weakens-ahead-of-rba-decision-4657763</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-iran-tensions-surge-australia-weakens-ahead-of-rba-decision-4657763</guid>
+      <pubDate>04/05/2026 23:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE33022_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Westpac relata lucro mais fraco do que o esperado no primeiro semestre, cita impacto da guerra no Oriente...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/australias-westpac-firsthalf-profit-growth-misses-estimates-on-margin-pressure-4657631</guid>
       <pubDate>04/05/2026 20:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM431DF_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Estresse no crédito privado pode desencadear “contágio psicológico”, disse Barr, do Fed, à Bloomberg News</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/stress-private-credit-could-spark-145636025.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/stress-private-credit-could-spark-145636025.html</guid>
-      <pubDate>04/05/2026 19:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/4166c0c325556544abcad01f41cc9e9f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
