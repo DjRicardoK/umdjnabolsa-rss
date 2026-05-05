@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 11:30:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:31:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Q2 Holdings (QTWO): 10 melhores ações de software empresarial para comprar agora mesmo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/q2-holdings-qtwo-10-best-142111104.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/q2-holdings-qtwo-10-best-142111104.html</guid>
+      <pubDate>05/05/2026 11:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9c37738d9f512f7cd6e10429351de66a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Todos os olhos voltados para o mercado de trabalho à medida que a janela de corte das taxas do Fed se estreita</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-but-pressured-by-firm-dollar-and-oil-prices-4659045</guid>
       <pubDate>05/05/2026 09:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED9503H_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro da Palantir supera em meio a vendas comerciais leves nos EUA. A Palantir está contratando o suficiente?</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/palantir-stock-pltr-palantir-earnings-news-q12026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/palantir-stock-pltr-palantir-earnings-news-q12026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>05/05/2026 09:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/babd7f9cb726d0f726bfd62e771eb1cf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
