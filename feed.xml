@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 21:17:42 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 21:20:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 2 estoques de maconha medicinal para comprar agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/2-medical-marijuana-stocks-buy-125000557.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-medical-marijuana-stocks-buy-125000557.html</guid>
+      <pubDate>04/05/2026 21:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/0485f772598b141a6fc258f18bbfe46c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Por que 56% dos americanos estão perdendo a luta contra a inflação antes mesmo de a aposentadoria começar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-medifast-q1-2026-beats-eps-forecast-stock-dips-93CH-4657506</guid>
       <pubDate>04/05/2026 18:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da AMD subiram antes dos lucros, mas este analista vê um problema pela frente</title>
-      <description>A AMD pode não ser capaz de capturar suficientemente as vantagens da CPU porque não fabrica seus próprios chips, diz um analista.</description>
-      <link>https://www.marketwatch.com/story/amds-stock-has-surged-ahead-of-earnings-but-this-analyst-sees-a-problem-ahead-2876dc39?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/amds-stock-has-surged-ahead-of-earnings-but-this-analyst-sees-a-problem-ahead-2876dc39?mod=mw_rss_topstories</guid>
-      <pubDate>04/05/2026 18:13</pubDate>
-      <enclosure url="https://images.mktw.net/im-15499879" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
