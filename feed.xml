@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 02:24:41 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:45:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Fraport AG Q1 2026 mostra sólido crescimento de receita</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-fraport-ag-q1-2026-shows-solid-revenue-growth-93CH-4657797</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-fraport-ag-q1-2026-shows-solid-revenue-growth-93CH-4657797</guid>
+      <pubDate>05/05/2026 02:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bancos de investimento europeus gaguejam enquanto rivais de Wall Street avançam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/westpac-reports-weaker-than-expected-firsthalf-profit-cites-middle-east-war-impact-93CH-4657761</guid>
       <pubDate>04/05/2026 23:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços do ouro sobem dos mínimos de 1 mês à medida que as tensões com Ormuz se intensificam</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-edge-up-from-1mth-lows-as-hormuz-tensions-intensify-4657760</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-edge-up-from-1mth-lows-as-hormuz-tensions-intensify-4657760</guid>
-      <pubDate>04/05/2026 23:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED180L9_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
