@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 02:24:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:24:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bancos de investimento europeus gaguejam enquanto rivais de Wall Street avançam</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-investment-banks-stutter-as-wall-street-rivals-power-ahead-4657793</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-investment-banks-stutter-as-wall-street-rivals-power-ahead-4657793</guid>
+      <pubDate>05/05/2026 02:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4405D_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Explosão em fábrica de fogos de artifício em Hunan, na China, mata 21, Xi pede investigação, diz mídia estatal</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-edge-up-from-1mth-lows-as-hormuz-tensions-intensify-4657760</guid>
       <pubDate>04/05/2026 23:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED180L9_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Presidente da República Dominicana interrompe projeto de mineração GoldQuest após protestos</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/dominican-republic-president-halts-goldquest-mining-project-after-protests-4657758</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/dominican-republic-president-halts-goldquest-mining-project-after-protests-4657758</guid>
-      <pubDate>04/05/2026 23:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4401P_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
