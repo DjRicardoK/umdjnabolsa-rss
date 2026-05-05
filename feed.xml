@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 07:24:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 07:24:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui está o que a rua pensa sobre o D-Wave Quantum (QBTS) antes dos ganhos do primeiro trimestre de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/street-thinks-d-wave-quantum-101208776.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/street-thinks-d-wave-quantum-101208776.html</guid>
+      <pubDate>05/05/2026 07:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/963fe51cbecacbfb5e693831f69c8f7c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que a computação quântica (QUBT) é uma das melhores ações de computação quântica para comprar e...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-fagerhults-q1-2026-results-disappoint-stock-down-6-93CH-4657995</guid>
       <pubDate>05/05/2026 05:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon abre serviços de cadeia de suprimentos para todos os remetentes; Ações despencam, reação exagerada,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/amazon-opens-supply-chain-services-to-all-shippers-stocks-plunge-reaction-overdone-says-stifel-93CH-4657996</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-opens-supply-chain-services-to-all-shippers-stocks-plunge-reaction-overdone-says-stifel-93CH-4657996</guid>
-      <pubDate>05/05/2026 05:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB87094_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
