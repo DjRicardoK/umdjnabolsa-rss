@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 05:39:02 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 05:45:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Bank of America prevê relatório de empregos de abril para mostrar 80.000 novos cargos</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/bank-of-america-forecasts-april-jobs-report-to-show-80000-new-positions-93CH-4658009</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bank-of-america-forecasts-april-jobs-report-to-show-80000-new-positions-93CH-4658009</guid>
+      <pubDate>05/05/2026 05:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os resultados do primeiro trimestre de 2026 da Fagerhult...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-investment-banks-stutter-as-wall-street-rivals-power-ahead-4657793</guid>
       <pubDate>05/05/2026 02:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4405D_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Explosão em fábrica de fogos de artifício em Hunan, na China, mata 21, Xi pede investigação, diz mídia estatal</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/blast-at-fireworks-factory-in-chinas-hunan-kills-21-xi-calls-for-probe-state-media-says-4657794</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/blast-at-fireworks-factory-in-chinas-hunan-kills-21-xi-calls-for-probe-state-media-says-4657794</guid>
-      <pubDate>05/05/2026 02:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4404T_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
