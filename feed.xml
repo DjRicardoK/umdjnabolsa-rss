@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 13:28:54 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:28:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Triple Flag enfrenta teste de lucros em meio à orientação do ano de transição</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/triple-flag-faces-earnings-test-amid-transition-year-guidance-93CH-4660139</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/triple-flag-faces-earnings-test-amid-transition-year-guidance-93CH-4660139</guid>
+      <pubDate>05/05/2026 13:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Marex em foco: o crescimento alimentado pela volatilidade pode durar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/intel-is-now-worth-more-than-oracle-as-its-stock-explodes-higher-7d9bfe3d?mod=mw_rss_topstories</guid>
       <pubDate>05/05/2026 12:37</pubDate>
       <enclosure url="https://images.mktw.net/im-66024535" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Cão de guarda da Irlanda abre inquérito sobre Shein sobre transferências de dados para a China</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ireland-watchdog-opens-inquiry-into-shein-over-data-transfers-to-china-93CH-4659878</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ireland-watchdog-opens-inquiry-into-shein-over-data-transfers-to-china-93CH-4659878</guid>
-      <pubDate>05/05/2026 12:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
