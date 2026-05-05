@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 02:18:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:24:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Explosão em fábrica de fogos de artifício em Hunan, na China, mata 21, Xi pede investigação, diz mídia estatal</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/blast-at-fireworks-factory-in-chinas-hunan-kills-21-xi-calls-for-probe-state-media-says-4657794</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/blast-at-fireworks-factory-in-chinas-hunan-kills-21-xi-calls-for-probe-state-media-says-4657794</guid>
+      <pubDate>05/05/2026 02:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4404T_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As montadoras chinesas perseguem o “momento Yaris” para impulsionar o crescimento no exterior</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/dominican-republic-president-halts-goldquest-mining-project-after-protests-4657758</guid>
       <pubDate>04/05/2026 23:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4401P_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Westpac Q1 2026 vê crescimento constante em meio a desafios</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-westpac-q1-2026-sees-steady-growth-amid-challenges-93CH-4657746</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-westpac-q1-2026-sees-steady-growth-amid-challenges-93CH-4657746</guid>
-      <pubDate>04/05/2026 22:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
