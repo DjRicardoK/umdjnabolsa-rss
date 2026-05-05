@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 22:26:15 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 22:26:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O mercado é volátil. Essas três ações vão pagar você, não importa o que aconteça.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/market-volatile-3-stocks-pay-133500893.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/market-volatile-3-stocks-pay-133500893.html</guid>
+      <pubDate>04/05/2026 22:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/5d26eee0d7c351b6ce2fe111de9dc210" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Iene estável, dólar firme devido a temores de guerra no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tactile-systems-q1-2026-beats-expectations-93CH-4657611</guid>
       <pubDate>04/05/2026 19:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A crise silenciosa que está sobrecarregando sua conta de supermercado pode ficar muito mais alta</title>
-      <description>À medida que os custos dos fertilizantes atingiram os máximos de 2026 e os agricultores dos EUA reduziram as plantações, os investidores estão a recorrer a estas ações para se...</description>
-      <link>https://www.marketwatch.com/story/the-silent-crisis-taxing-your-grocery-bill-could-get-a-lot-louder-93ddd167?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-silent-crisis-taxing-your-grocery-bill-could-get-a-lot-louder-93ddd167?mod=mw_rss_topstories</guid>
-      <pubDate>04/05/2026 19:08</pubDate>
-      <enclosure url="https://images.mktw.net/im-36077062" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
