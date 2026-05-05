@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 07:35:45 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 07:35:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wolfe Research prevê ganhos para Bumble, Match Group, Peloton e StubHub</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/wolfe-research-previews-earnings-for-bumble-match-group-peloton-and-stubhub-93CH-4658342</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wolfe-research-previews-earnings-for-bumble-match-group-peloton-and-stubhub-93CH-4658342</guid>
+      <pubDate>05/05/2026 07:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Gartner supera lucros, mas perde receita</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/kalmar-stock-down-6-as-service-margin-slump-its-q1-earnings-4658010</guid>
       <pubDate>05/05/2026 05:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bank of America prevê relatório de empregos de abril para mostrar 80.000 novos cargos</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bank-of-america-forecasts-april-jobs-report-to-show-80000-new-positions-93CH-4658009</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bank-of-america-forecasts-april-jobs-report-to-show-80000-new-positions-93CH-4658009</guid>
-      <pubDate>05/05/2026 05:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
