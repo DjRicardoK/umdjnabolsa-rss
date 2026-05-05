@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 09:47:48 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 09:47:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Texas Capital Q1 2026 supera as expectativas, ações caem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-texas-capital-q1-2026-beats-expectations-stock-dips-93CH-4658994</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-texas-capital-q1-2026-beats-expectations-stock-dips-93CH-4658994</guid>
+      <pubDate>05/05/2026 09:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Revvity Q1 2026 mostra forte queda nos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/scott-galloway-warns-strait-hormuz-110000968.html</guid>
       <pubDate>05/05/2026 08:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/bd8e18f9046422cf13a29235da75c8fc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações do PayPal sobem após o primeiro relatório de lucros da nova era. Aqui está o que você deve saber.</title>
-      <description>As ações sobem em direção ao maior nível em três meses, à medida que uma medida de volume de pagamentos observada de perto mostra melhora.</description>
-      <link>https://www.marketwatch.com/story/paypals-stock-rallies-after-first-earnings-report-of-the-new-era-heres-what-to-know-4310d291?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/paypals-stock-rallies-after-first-earnings-report-of-the-new-era-heres-what-to-know-4310d291?mod=mw_rss_topstories</guid>
-      <pubDate>05/05/2026 08:09</pubDate>
-      <enclosure url="https://images.mktw.net/im-89149180" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
