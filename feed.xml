@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 11:20:44 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:21:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Esta grande parte da economia foi afetada pela guerra no Irão, mas não o suficiente para causar muita dor</title>
+      <description>A maior parte da economia foi atingida em Abril pelas consequências da guerra no Irão, revelou um inquérito, mas as empresas continuaram a crescer a um ritmo bastante robusto,...</description>
+      <link>https://www.marketwatch.com/story/this-big-part-of-the-economy-was-stung-by-iran-war-but-not-enough-to-cause-a-lot-of-pain-302a1bb1?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/this-big-part-of-the-economy-was-stung-by-iran-war-but-not-enough-to-cause-a-lot-of-pain-302a1bb1?mod=mw_rss_topstories</guid>
+      <pubDate>05/05/2026 11:21</pubDate>
+      <enclosure url="https://images.mktw.net/im-57330530" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Hewlett Packard Enterprise atingem o máximo histórico de 29,63 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/pinterest-stock-pins-q1-2026-earnings/?src=A00220&yptr=yahoo</guid>
       <pubDate>05/05/2026 09:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/ff65b262224db07a7b97ef15a0ece4b6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações sobem à medida que os investidores se animam com os lucros otimistas e mergulham no petróleo</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/shares-slide-oil-prices-elevated-as-usiran-truce-prospects-dim-4657751</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/shares-slide-oil-prices-elevated-as-usiran-truce-prospects-dim-4657751</guid>
-      <pubDate>05/05/2026 09:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM44016_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
