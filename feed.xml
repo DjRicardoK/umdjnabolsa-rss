@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 07:41:31 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 07:47:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Fresh Del Monte caem à medida que os lucros perdem as estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/fresh-del-monte-stock-edges-down-as-earnings-miss-estimates-93CH-4658375</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/fresh-del-monte-stock-edges-down-as-earnings-miss-estimates-93CH-4658375</guid>
+      <pubDate>05/05/2026 07:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China diz que sanções mais amplas dos EUA a Cuba são “ilegais”</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-unicredits-q1-2026-delivers-recordbreaking-performance-93CH-4658166</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-unicredits-q1-2026-delivers-recordbreaking-performance-93CH-4658166</guid>
       <pubDate>05/05/2026 06:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Barclays reitera excesso de peso nas ações da NXP Semiconductors</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/barclays-reiterates-overweight-on-nxp-semiconductors-stock-93CH-4658071</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-overweight-on-nxp-semiconductors-stock-93CH-4658071</guid>
-      <pubDate>05/05/2026 06:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
