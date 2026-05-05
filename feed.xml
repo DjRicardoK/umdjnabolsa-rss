@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 21:43:11 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 21:51:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação pode &apos;acabar com a seguridade social&apos;, adverte o autor de &apos;Pai Rico, Pai Pobre&apos;, Robert Kiyosaki -...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/inflation-could-wipe-social-security-131610580.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/inflation-could-wipe-social-security-131610580.html</guid>
+      <pubDate>04/05/2026 21:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/1d1c04d7b392c0a488888492ab659ef4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de ganhos do primeiro trimestre da Garrett Motion</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/matson-q1-2026-slides-china-strength-offsets-domestic-weakness-93CH-4657553</guid>
       <pubDate>04/05/2026 18:42</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/fcbe42cbcb8e72cb499b697f1b898b47a440924f3df7314a082a9268154f2d8e.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Circle lidera ações de criptografia em alta à medida que acordo de stablecoin coloca contas críticas de volta...</title>
-      <description>O progresso na Lei de Clareza, há muito paralisada, está ajudando a dar um impulso à criptografia</description>
-      <link>https://www.marketwatch.com/story/bitcoin-busted-through-80-000-for-the-first-time-since-january-heres-the-crucial-level-it-needs-to-hold-right-now-038c252f?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/bitcoin-busted-through-80-000-for-the-first-time-since-january-heres-the-crucial-level-it-needs-to-hold-right-now-038c252f?mod=mw_rss_topstories</guid>
-      <pubDate>04/05/2026 18:27</pubDate>
-      <enclosure url="https://images.mktw.net/im-67293336" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
