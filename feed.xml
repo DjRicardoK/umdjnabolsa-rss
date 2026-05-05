@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 12:31:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 12:31:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Cão de guarda da Irlanda abre inquérito sobre Shein sobre transferências de dados para a China</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/ireland-watchdog-opens-inquiry-into-shein-over-data-transfers-to-china-93CH-4659878</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ireland-watchdog-opens-inquiry-into-shein-over-data-transfers-to-china-93CH-4659878</guid>
+      <pubDate>05/05/2026 12:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE TransMedics enfrenta teste de lucros à medida que pesam os custos do combustível de aviação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/this-big-part-of-the-economy-was-stung-by-iran-war-but-not-enough-to-cause-a-lot-of-pain-302a1bb1?mod=mw_rss_topstories</guid>
       <pubDate>05/05/2026 11:21</pubDate>
       <enclosure url="https://images.mktw.net/im-57330530" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Hewlett Packard Enterprise atingem o máximo histórico de 29,63 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/hewlett-packard-enterprise-stock-reaches-alltime-high-at-2963-usd-93CH-4659567</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/hewlett-packard-enterprise-stock-reaches-alltime-high-at-2963-usd-93CH-4659567</guid>
-      <pubDate>05/05/2026 11:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
