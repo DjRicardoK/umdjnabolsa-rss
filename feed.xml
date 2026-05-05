@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 12:49:20 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 12:54:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ganhos do Uber e do DoorDash no convés. Por que ambas as ações estão em dificuldades este ano.</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/uber-stock-doordash-stock-q1-earnings-preview/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/uber-stock-doordash-stock-q1-earnings-preview/?src=A00220&yptr=yahoo</guid>
+      <pubDate>05/05/2026 12:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/c6b4bebdac823ec6c0176d4175835899" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Grande queda no diesel de referência ocorrendo à medida que crescem os alertas sobre condições mais difíceis...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/cathay-general-bancorp-stock-reaches-alltime-high-at-5712-usd-93CH-4659658</guid>
       <pubDate>05/05/2026 11:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da LeMaitre Vascular em foco: Os ganhos de margem podem continuar?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/lemaitre-vascular-earnings-in-focus-can-margin-gains-continue-93CH-4659652</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/lemaitre-vascular-earnings-in-focus-can-margin-gains-continue-93CH-4659652</guid>
-      <pubDate>05/05/2026 11:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
