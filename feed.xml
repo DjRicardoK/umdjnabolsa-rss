@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 11:20:38 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:20:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Hewlett Packard Enterprise atingem o máximo histórico de 29,63 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/hewlett-packard-enterprise-stock-reaches-alltime-high-at-2963-usd-93CH-4659567</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/hewlett-packard-enterprise-stock-reaches-alltime-high-at-2963-usd-93CH-4659567</guid>
+      <pubDate>05/05/2026 11:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Patterson-UTI Energy atingem o máximo de 52 semanas a 12,41 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/shares-slide-oil-prices-elevated-as-usiran-truce-prospects-dim-4657751</guid>
       <pubDate>05/05/2026 09:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM44016_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Arábia Saudita caem no fechamento do pregão; Tadawul All Share caiu 0,75%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-075-4658980</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-075-4658980</guid>
-      <pubDate>05/05/2026 09:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
