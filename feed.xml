@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 11:43:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:47:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações do Cathay General Bancorp atingem o máximo histórico de 57,12 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cathay-general-bancorp-stock-reaches-alltime-high-at-5712-usd-93CH-4659658</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cathay-general-bancorp-stock-reaches-alltime-high-at-5712-usd-93CH-4659658</guid>
+      <pubDate>05/05/2026 11:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da LeMaitre Vascular em foco: Os ganhos de margem podem continuar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/materion-corp-stock-hits-alltime-high-of-19472-usd-93CH-4659300</guid>
       <pubDate>05/05/2026 10:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ferrari afirma orientação para o ano inteiro apesar da guerra no Oriente Médio; &apos;normalidade é anormalidade&apos;,...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/article/ferrari-affirms-full-year-guidance-despite-middle-east-war-normality-is-abnormality-ceo-says-183144970.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/ferrari-affirms-full-year-guidance-despite-middle-east-war-normality-is-abnormality-ceo-says-183144970.html</guid>
-      <pubDate>05/05/2026 10:29</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/pO86WK6vXfW7VjWaNM0tiQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1f226d0e-448a-4b6b-a7e5-3fc01aee3cd0_5736.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
