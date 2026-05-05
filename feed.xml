@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 09:48:39 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 09:58:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos do Pinterest geram uma recuperação muito necessária para as ações. Aqui está o que Wall Street está...</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/pinterest-stock-pins-q1-2026-earnings/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/pinterest-stock-pins-q1-2026-earnings/?src=A00220&yptr=yahoo</guid>
+      <pubDate>05/05/2026 09:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/ff65b262224db07a7b97ef15a0ece4b6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações sobem à medida que os investidores se animam com os lucros otimistas e mergulham no petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/paypal-stock-pypl-paypal-earnings-news-q12026/?src=A00220&yptr=yahoo</guid>
       <pubDate>05/05/2026 08:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/f6c8ac4738e1ff368fc6f2aae1f0b529" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Westlake caem 16% devido à perda de lucros e orientação fraca</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/westlake-stock-tumbles-16-on-earnings-miss-and-weak-guidance-93CH-4658568</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/westlake-stock-tumbles-16-on-earnings-miss-and-weak-guidance-93CH-4658568</guid>
-      <pubDate>05/05/2026 08:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
