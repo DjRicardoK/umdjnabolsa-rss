@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 04:56:07 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:56:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Volvo Cars relata queda de 10% nas vendas globais em meio à fraca demanda da China e dos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/volvo-cars-reports-10-drop-in-global-sales-amid-weak-china-us-demand-93CH-4657906</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/volvo-cars-reports-10-drop-in-global-sales-amid-weak-china-us-demand-93CH-4657906</guid>
+      <pubDate>05/05/2026 04:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: International Petroleum reporta resultados do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-central-bank-warns-of-rising-inflation-slower-growth-as-oil-shock-bites-4657781</guid>
       <pubDate>05/05/2026 01:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4404I_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ásia FX moderada à medida que as tensões no Médio Oriente se intensificam; RBA aumenta taxas conforme esperado</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/asia-fx-subdued-as-middle-east-tensions-intensify-rba-hikes-rates-as-expected-4657782</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-subdued-as-middle-east-tensions-intensify-rba-hikes-rates-as-expected-4657782</guid>
-      <pubDate>05/05/2026 01:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF1N0Y4_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
