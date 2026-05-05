@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 10:59:08 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:11:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Investidores de Bristow se preparam para recuperação de lucros após tropeço no quarto trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/bristow-investors-brace-for-earnings-rebound-after-q4-stumble-93CH-4659480</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/bristow-investors-brace-for-earnings-rebound-after-q4-stumble-93CH-4659480</guid>
+      <pubDate>05/05/2026 11:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da MasterBrand em foco após surpreendente prejuízo trimestral</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-tensions-palantir-stock-pltr/?src=A00220&yptr=yahoo</guid>
       <pubDate>05/05/2026 09:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Principais ações de aeroportos europeus a serem observadas em meio aos riscos, de acordo com o Morgan Stanley</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/top-european-airport-stocks-to-watch-amid-risks-according-to-morgan-stanley-93CH-4658761</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-european-airport-stocks-to-watch-amid-risks-according-to-morgan-stanley-93CH-4658761</guid>
-      <pubDate>05/05/2026 09:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
