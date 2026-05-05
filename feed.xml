@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 12:31:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 12:37:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Intel agora vale mais do que a Oracle à medida que suas ações explodem</title>
+      <description>A Intel está no caminho certo para ultrapassar o seu nível recorde de capitalização de mercado alcançado em 2000, com o entusiasmo aumentando sobre o potencial para uma parceria...</description>
+      <link>https://www.marketwatch.com/story/intel-is-now-worth-more-than-oracle-as-its-stock-explodes-higher-7d9bfe3d?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/intel-is-now-worth-more-than-oracle-as-its-stock-explodes-higher-7d9bfe3d?mod=mw_rss_topstories</guid>
+      <pubDate>05/05/2026 12:37</pubDate>
+      <enclosure url="https://images.mktw.net/im-66024535" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Cão de guarda da Irlanda abre inquérito sobre Shein sobre transferências de dados para a China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/eyes-job-market-feds-rate-141639717.html</guid>
       <pubDate>05/05/2026 11:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/d6585940660e83b9a780ba2a306e4c65" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Esta grande parte da economia foi afetada pela guerra no Irão, mas não o suficiente para causar muita dor</title>
-      <description>A maior parte da economia foi atingida em Abril pelas consequências da guerra no Irão, revelou um inquérito, mas as empresas continuaram a crescer a um ritmo bastante robusto,...</description>
-      <link>https://www.marketwatch.com/story/this-big-part-of-the-economy-was-stung-by-iran-war-but-not-enough-to-cause-a-lot-of-pain-302a1bb1?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/this-big-part-of-the-economy-was-stung-by-iran-war-but-not-enough-to-cause-a-lot-of-pain-302a1bb1?mod=mw_rss_topstories</guid>
-      <pubDate>05/05/2026 11:21</pubDate>
-      <enclosure url="https://images.mktw.net/im-57330530" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
