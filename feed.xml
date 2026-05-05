@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 19:58:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 19:58:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Berkshire Hathaway e Warren Buffett vendem US$ 182,8 milhões em ações da DaVita</title>
+      <description></description>
+      <link>https://www.investing.com/news/insider-trading-news/berkshire-hathaway-warren-buffett-sell-1828-million-davita-shares-93CH-4661460</link>
+      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/berkshire-hathaway-warren-buffett-sell-1828-million-davita-shares-93CH-4661460</guid>
+      <pubDate>05/05/2026 19:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A libra esterlina é uma compra agora em relação ao dólar americano enquanto a guerra com o Irã continua</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-veracyte-q1-2026-beats-eps-forecast-by-57-93CH-4661227</guid>
       <pubDate>05/05/2026 18:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Formulário 10Q SPDR® GOLD TRUST para: 5 de maio</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-10q-spdr-gold-trust-for-5-may-93CH-4661106</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-10q-spdr-gold-trust-for-5-may-93CH-4661106</guid>
-      <pubDate>05/05/2026 18:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
