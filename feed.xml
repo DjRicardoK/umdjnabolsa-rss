@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 17:56:12 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 17:56:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Super Micro sobem enquanto Wall Street aplaude a recuperação das margens</title>
+      <description>As ações do fabricante de servidores de IA saltaram 16%, à medida que os investidores ignoravam a perda de receita para comemorar uma recuperação nas margens de lucro.</description>
+      <link>https://www.marketwatch.com/story/super-micros-stock-surges-as-wall-street-cheers-a-margin-recovery-80f17361?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/super-micros-stock-surges-as-wall-street-cheers-a-margin-recovery-80f17361?mod=mw_rss_topstories</guid>
+      <pubDate>05/05/2026 17:56</pubDate>
+      <enclosure url="https://images.mktw.net/im-31427887" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações globais da Coinbase?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/everus-earnings-up-next-can-execution-sustain-nearrecord-stock-price-93CH-4660203</guid>
       <pubDate>05/05/2026 13:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE TG Therapeutics enfrenta teste de lucros na expansão de margem</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/tg-therapeutics-faces-earnings-test-on-margin-expansion-93CH-4660204</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/tg-therapeutics-faces-earnings-test-on-margin-expansion-93CH-4660204</guid>
-      <pubDate>05/05/2026 13:49</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
