@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 23:49:10 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 00:07:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE OpenAI explorou robótica e spinoff de hardware na corrida para IPO- WSJ</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/openai-explored-robotics-and-hardware-spinoff-in-race-to-ipo-wsj-93CH-4657765</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/openai-explored-robotics-and-hardware-spinoff-in-race-to-ipo-wsj-93CH-4657765</guid>
+      <pubDate>05/05/2026 00:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Ásia caem com o aumento das tensões no Irã; Austrália enfraquece antes da decisão do RBA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/edwards-lifesciences-cvp-tavr-sells-170160-in-stock-93CH-4657693</guid>
       <pubDate>04/05/2026 20:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Credor australiano Westpac sinaliza riscos de guerra no Irã, já que lucro do primeiro semestre fica abaixo...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/australias-westpac-firsthalf-profit-growth-misses-estimates-on-margin-pressure-4657631</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australias-westpac-firsthalf-profit-growth-misses-estimates-on-margin-pressure-4657631</guid>
-      <pubDate>04/05/2026 20:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM431DF_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
