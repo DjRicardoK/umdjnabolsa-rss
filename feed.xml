@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 23:26:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 23:37:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Westpac relata lucro mais fraco do que o esperado no primeiro semestre, cita impacto da guerra no Oriente...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/westpac-reports-weaker-than-expected-firsthalf-profit-cites-middle-east-war-impact-93CH-4657761</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/westpac-reports-weaker-than-expected-firsthalf-profit-cites-middle-east-war-impact-93CH-4657761</guid>
+      <pubDate>04/05/2026 23:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços do ouro sobem dos mínimos de 1 mês à medida que as tensões com Ormuz se intensificam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/stress-private-credit-could-spark-145636025.html</guid>
       <pubDate>04/05/2026 19:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/4166c0c325556544abcad01f41cc9e9f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os lucros da Lattice Semiconductor no primeiro trimestre de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lattice-semiconductor-q1-2026-earnings-beat-forecasts-93CH-4657634</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lattice-semiconductor-q1-2026-earnings-beat-forecasts-93CH-4657634</guid>
-      <pubDate>04/05/2026 19:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
