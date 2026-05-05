@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 08:29:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:49:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ferrari relata queda nos lucros do primeiro trimestre e afirma orientação apesar da guerra no Oriente Médio</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/article/ferrari-reports-q1-earnings-beat-affirms-guidance-despite-middle-east-war-183144761.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/ferrari-reports-q1-earnings-beat-affirms-guidance-despite-middle-east-war-183144761.html</guid>
+      <pubDate>05/05/2026 08:49</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/pO86WK6vXfW7VjWaNM0tiQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1f226d0e-448a-4b6b-a7e5-3fc01aee3cd0_5736.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da GlobalFoundries sobem 6% com a queda dos lucros do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/keybanc-reiterates-microsoft-stock-overweight-rating-at-600-target-93CH-4658275</guid>
       <pubDate>05/05/2026 07:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de hipoteca e refinanciamento hoje, 5 de maio de 2026: empréstimos com taxas fixas aumentam semana após...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-may-5-2026-100000515.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-may-5-2026-100000515.html</guid>
-      <pubDate>05/05/2026 07:10</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
