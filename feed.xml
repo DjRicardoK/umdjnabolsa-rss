@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 06:07:04 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 06:12:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Barclays reitera excesso de peso nas ações da NXP Semiconductors</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/barclays-reiterates-overweight-on-nxp-semiconductors-stock-93CH-4658071</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/barclays-reiterates-overweight-on-nxp-semiconductors-stock-93CH-4658071</guid>
+      <pubDate>05/05/2026 06:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump diz que guerra no Irã pode se arrastar por mais três semanas - ABC News</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-096-4657802</guid>
       <pubDate>05/05/2026 03:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6M0LZ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bernstein nomeia as principais ações da China continental em setores-chave</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bernstein-names-top-mainland-chinese-stocks-across-key-sectors-93CH-4657803</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bernstein-names-top-mainland-chinese-stocks-across-key-sectors-93CH-4657803</guid>
-      <pubDate>05/05/2026 03:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
