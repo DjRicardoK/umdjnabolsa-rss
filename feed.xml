@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 06:12:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 06:39:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O primeiro trimestre de 2026 do UniCredit oferece desempenho...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-unicredits-q1-2026-delivers-recordbreaking-performance-93CH-4658166</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-unicredits-q1-2026-delivers-recordbreaking-performance-93CH-4658166</guid>
+      <pubDate>05/05/2026 06:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Barclays reitera excesso de peso nas ações da NXP Semiconductors</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/kashkari-says-iran-war-limits-175425920.html</guid>
       <pubDate>05/05/2026 03:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/987f8f43df48814cb570c9ae84e6945d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de Taiwan caem no fechamento do pregão; Taiwan pesou 0,96%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-096-4657802</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-096-4657802</guid>
-      <pubDate>05/05/2026 03:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6M0LZ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
