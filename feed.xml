@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 13:07:47 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:25:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos de Hagerty são os próximos, enquanto Markel muda os resultados das nuvens</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/hagerty-earnings-up-next-as-markel-shift-clouds-results-93CH-4660130</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/hagerty-earnings-up-next-as-markel-shift-clouds-results-93CH-4660130</guid>
+      <pubDate>05/05/2026 13:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE SolarEdge enfrenta teste de lucros à medida que tendências sequenciais enfraquecem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alphabet-closes-nvidias-spot-worlds-151116986.html</guid>
       <pubDate>05/05/2026 12:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/aebb3d5c7a3f3a95a912fbe68b1ee1af" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Anthropic continua impulsionando empresas com novo software de serviços financeiros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/article/anthropic-continues-enterprise-push-with-new-financial-services-software-150000330.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/article/anthropic-continues-enterprise-push-with-new-financial-services-software-150000330.html</guid>
-      <pubDate>05/05/2026 12:08</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/d74158d0-0778-11f1-99ad-572689e3b02e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
