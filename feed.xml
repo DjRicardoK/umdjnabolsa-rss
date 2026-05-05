@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 04:44:38 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:56:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: International Petroleum reporta resultados do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-international-petroleum-reports-q1-2026-results-93CH-4657907</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-international-petroleum-reports-q1-2026-results-93CH-4657907</guid>
+      <pubDate>05/05/2026 04:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Coca Cola Icecek saltam 4% com fortes lucros do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-subdued-as-middle-east-tensions-intensify-rba-hikes-rates-as-expected-4657782</guid>
       <pubDate>05/05/2026 01:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF1N0Y4_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE RBA aumenta taxas de juros em 25 pontos base conforme esperado, alerta sobre riscos de inflação</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/rba-hikes-interest-rates-by-25-bps-as-expected-warns-on-inflation-risks-4657778</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/rba-hikes-interest-rates-by-25-bps-as-expected-warns-on-inflation-risks-4657778</guid>
-      <pubDate>05/05/2026 01:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE2507E_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
