@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 19:48:03 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 19:49:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Johnson &amp; Johnson?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-johnson-143137389.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-johnson-143137389.html</guid>
+      <pubDate>05/05/2026 19:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bc531ab7885d2cf67671138eedb42811" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Shakes de proteína mais baratos estão destruindo esta forte indústria</title>
       <description>As ações da BellRing Brands, fabricante das bebidas Premier Protein e dos lanches PowerBar, caíram quase 40%.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/see-big-money-backs-amazon-123326178.html</guid>
       <pubDate>05/05/2026 18:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/fx_empire_176/ad36caade88f53a0ddba55016cad11ff" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Instituições continuam comprando NVIDIA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/institutions-keep-buying-nvidia-124113218.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/institutions-keep-buying-nvidia-124113218.html</guid>
-      <pubDate>05/05/2026 18:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/fx_empire_176/26615202c7eee223c6b9a7c2c48eaee6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
