@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 23:14:39 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 23:26:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do ouro sobem dos mínimos de 1 mês à medida que as tensões com Ormuz se intensificam</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-prices-edge-up-from-1mth-lows-as-hormuz-tensions-intensify-4657760</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-edge-up-from-1mth-lows-as-hormuz-tensions-intensify-4657760</guid>
+      <pubDate>04/05/2026 23:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED180L9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Presidente da República Dominicana interrompe projeto de mineração GoldQuest após protestos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lattice-semiconductor-q1-2026-earnings-beat-forecasts-93CH-4657634</guid>
       <pubDate>04/05/2026 19:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Adeia: AMD e Microsoft negociam queda na receita de combustível</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/adeia-q1-2026-slides-amd-microsoft-deals-fuel-revenue-beat-93CH-4657609</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/adeia-q1-2026-slides-amd-microsoft-deals-fuel-revenue-beat-93CH-4657609</guid>
-      <pubDate>04/05/2026 19:13</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/1a7f843bda7c1304cd8ff8b687561e26b223cf5ccd6e2167f287ea009ff25f12.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
