@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 09:58:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 09:58:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da Palantir supera em meio a vendas comerciais leves nos EUA. A Palantir está contratando o suficiente?</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/palantir-stock-pltr-palantir-earnings-news-q12026/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/palantir-stock-pltr-palantir-earnings-news-q12026/?src=A00220&yptr=yahoo</guid>
+      <pubDate>05/05/2026 09:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/babd7f9cb726d0f726bfd62e771eb1cf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os ganhos do Pinterest geram uma recuperação muito necessária para as ações. Aqui está o que Wall Street está...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/here-are-13-reasons-why-large-caps-will-now-beat-small-caps-according-to-ubs-38c888fa?mod=mw_rss_topstories</guid>
       <pubDate>05/05/2026 08:24</pubDate>
       <enclosure url="https://images.mktw.net/im-34273032" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ganhos e receitas do PayPal superam o novo CEO. Empresa pretende cortar US$ 1,5 bilhão em custos.</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/paypal-stock-pypl-paypal-earnings-news-q12026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/paypal-stock-pypl-paypal-earnings-news-q12026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>05/05/2026 08:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/f6c8ac4738e1ff368fc6f2aae1f0b529" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
