@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 09:48:33 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 09:48:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações sobem à medida que os investidores se animam com os lucros otimistas e mergulham no petróleo</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/shares-slide-oil-prices-elevated-as-usiran-truce-prospects-dim-4657751</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/shares-slide-oil-prices-elevated-as-usiran-truce-prospects-dim-4657751</guid>
+      <pubDate>05/05/2026 09:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM44016_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Arábia Saudita caem no fechamento do pregão; Tadawul All Share caiu 0,75%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/westlake-stock-tumbles-16-on-earnings-miss-and-weak-guidance-93CH-4658568</guid>
       <pubDate>05/05/2026 08:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Graphic Packaging sobem 8% com a queda dos lucros, reafirma a orientação</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/graphic-packaging-stock-surges-8-on-earnings-beat-reaffirms-guidance-93CH-4658570</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/graphic-packaging-stock-surges-8-on-earnings-beat-reaffirms-guidance-93CH-4658570</guid>
-      <pubDate>05/05/2026 08:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC0409P_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
