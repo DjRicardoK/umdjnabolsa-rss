@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 03:57:12 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:04:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação suíça sobe para 0,6% em abril devido aos custos de energia</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/swiss-inflation-rises-to-06-in-april-on-energy-costs-93CH-4657855</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/swiss-inflation-rises-to-06-in-april-on-energy-costs-93CH-4657855</guid>
+      <pubDate>05/05/2026 04:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Amerant Bancorp Q1 2026 mostra aumento de EPS, perda de receita</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-amazon-think-one-155121244.html</guid>
       <pubDate>05/05/2026 00:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer na Apple: “Você teve a chance de comprá-lo depois que eles relataram”</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-apple-had-chance-155114267.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-apple-had-chance-155114267.html</guid>
-      <pubDate>05/05/2026 00:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b7126ee999db2f6bfd40fd4061668adc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
