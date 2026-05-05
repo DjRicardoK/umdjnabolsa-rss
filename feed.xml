@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 07:01:55 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 07:05:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE BofA aumenta meta de preço das ações da Linde com maiores lucros em 2026</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/bofa-raises-linde-stock-price-target-on-higher-2026-earnings-93CH-4658214</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-raises-linde-stock-price-target-on-higher-2026-earnings-93CH-4658214</guid>
+      <pubDate>05/05/2026 07:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A América está a utilizar menos petróleo e o conflito no Irão poderá reduzir ainda mais a sua sede por...</title>
       <description>A menor dependência dos EUA em relação ao petróleo bruto também mostra um declínio no consumo de derivados do petróleo, como a gasolina e o gasóleo, mesmo que os preços nas bombas...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/goldstone-resources-reports-q1-production-advances-homase-plans-93CH-4657875</guid>
       <pubDate>05/05/2026 04:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O banco central da Austrália deve esfriar os calcanhares após aumentos rápidos das taxas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/australias-central-bank-set-to-cool-its-heels-after-rapidfire-rate-hikes-4657873</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australias-central-bank-set-to-cool-its-heels-after-rapidfire-rate-hikes-4657873</guid>
-      <pubDate>05/05/2026 04:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM440AK_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
