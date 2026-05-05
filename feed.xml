@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 11:47:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:59:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon expande entrega de alimentos no mesmo dia para empresas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-expands-same-day-grocery-144833413.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-expands-same-day-grocery-144833413.html</guid>
+      <pubDate>05/05/2026 11:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/freightwaves_373/c7c3327433444086f570fbae58d8d6b5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os lucros da Veracyte se aproximam: os investidores estão atentos aos detalhes do lançamento do TrueMRD</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/steris-stock-hits-52week-low-at-20961-usd-93CH-4659405</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/steris-stock-hits-52week-low-at-20961-usd-93CH-4659405</guid>
       <pubDate>05/05/2026 10:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Rockwell Automation atingem o máximo histórico de 450,04 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/rockwell-automation-stock-hits-alltime-high-at-45004-usd-93CH-4659299</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/rockwell-automation-stock-hits-alltime-high-at-45004-usd-93CH-4659299</guid>
-      <pubDate>05/05/2026 10:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
