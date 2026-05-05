@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 20:38:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 20:41:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ganhos da MicroStrategy no primeiro trimestre de 2026 perdem as...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-microstrategys-q1-2026-earnings-miss-forecasts-stock-rises-93CH-4661542</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-microstrategys-q1-2026-earnings-miss-forecasts-stock-rises-93CH-4661542</guid>
+      <pubDate>05/05/2026 20:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Prévia dos ganhos do primeiro trimestre da AMD: os investidores estão apostando que a demanda por IA pode...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/freshworks-to-cut-11-jobs-as-ai-reshapes-software-sector-4660955</guid>
       <pubDate>05/05/2026 19:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM441DY_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Finance of America Q1 2026 mostra aumento de lucratividade</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-finance-of-america-q1-2026-shows-profitability-boost-93CH-4661255</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-finance-of-america-q1-2026-shows-profitability-boost-93CH-4661255</guid>
-      <pubDate>05/05/2026 18:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
