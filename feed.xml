@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 09:58:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:02:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O economista veterano Gary Shilling diz que a recessão é “quase inevitável” – as ações podem cair 30%. Aqui...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/veteran-economist-gary-shilling-says-124500730.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/veteran-economist-gary-shilling-says-124500730.html</guid>
+      <pubDate>05/05/2026 10:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/db5eb5977038ea581b11c8fd2d002379" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Piper Sandler reitera excesso de peso das ações da Palantir no crescimento do governo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/ferrari-reports-q1-earnings-beat-affirms-guidance-despite-middle-east-war-183144761.html</guid>
       <pubDate>05/05/2026 08:49</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/pO86WK6vXfW7VjWaNM0tiQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1f226d0e-448a-4b6b-a7e5-3fc01aee3cd0_5736.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da GlobalFoundries sobem 6% com a queda dos lucros do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/globalfoundries-stock-rises-6-on-first-quarter-earnings-beat-93CH-4658611</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/globalfoundries-stock-rises-6-on-first-quarter-earnings-beat-93CH-4658611</guid>
-      <pubDate>05/05/2026 08:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA601E0_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
