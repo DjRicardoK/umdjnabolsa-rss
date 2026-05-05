@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 01:59:04 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 01:59:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco central da Austrália alerta sobre aumento da inflação e crescimento mais lento à medida que o choque do...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/australia-central-bank-warns-of-rising-inflation-slower-growth-as-oil-shock-bites-4657781</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-central-bank-warns-of-rising-inflation-slower-growth-as-oil-shock-bites-4657781</guid>
+      <pubDate>05/05/2026 01:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4404I_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ásia FX moderada à medida que as tensões no Médio Oriente se intensificam; RBA aumenta taxas conforme esperado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australias-regis-to-merge-with-vault-to-create-77-bln-gold-producer-4657731</guid>
       <pubDate>04/05/2026 21:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE1C09I_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Grab Holdings Q1 2026 vê reação mista do mercado</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-grab-holdings-q1-2026-sees-mixed-market-reaction-93CH-4657732</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-grab-holdings-q1-2026-sees-mixed-market-reaction-93CH-4657732</guid>
-      <pubDate>04/05/2026 21:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
