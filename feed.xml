@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 05:08:51 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 05:14:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Novonesis Q1 2026 mostra forte crescimento de vendas</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-novonesis-q1-2026-shows-strong-sales-growth-93CH-4657938</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-novonesis-q1-2026-shows-strong-sales-growth-93CH-4657938</guid>
+      <pubDate>05/05/2026 05:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE É por isso que as ações continuam subindo, de acordo com o Morgan Stanley</title>
       <description>O aumento constante das expectativas de crescimento dos lucros levou a uma compressão no múltiplo preço-lucro do índice S&amp;P 500.  Além disso, o crescimento é mais amplo e...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/exclusiveus-prepared-for-visa-sanctions-on-china-over-migrants-issue-official-says-4657789</guid>
       <pubDate>05/05/2026 02:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4404X_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco central da Austrália aumenta taxas pela terceira vez este ano na batalha contra a inflação</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/australia-central-bank-hikes-rates-for-third-time-this-year-in-battle-with-inflation-4657790</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-central-bank-hikes-rates-for-third-time-this-year-in-battle-with-inflation-4657790</guid>
-      <pubDate>05/05/2026 02:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4404Y_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
