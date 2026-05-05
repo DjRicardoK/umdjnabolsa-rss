@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 04:04:52 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:19:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O banco central da Austrália deve esfriar os calcanhares após aumentos rápidos das taxas</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/australias-central-bank-set-to-cool-its-heels-after-rapidfire-rate-hikes-4657873</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australias-central-bank-set-to-cool-its-heels-after-rapidfire-rate-hikes-4657873</guid>
+      <pubDate>05/05/2026 04:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM440AK_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inflação suíça sobe para 0,6% em abril devido aos custos de energia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apple-explores-using-intel-samsung-to-build-main-device-chips-in-the-us-bloomberg-news-reports-4657766</guid>
       <pubDate>05/05/2026 00:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4402H_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer na Amazon: “Acho que este está apenas se consolidando”</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-amazon-think-one-155121244.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-amazon-think-one-155121244.html</guid>
-      <pubDate>05/05/2026 00:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
