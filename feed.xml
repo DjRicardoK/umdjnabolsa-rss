@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 05:05:30 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 05:08:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE É por isso que as ações continuam subindo, de acordo com o Morgan Stanley</title>
+      <description>O aumento constante das expectativas de crescimento dos lucros levou a uma compressão no múltiplo preço-lucro do índice S&amp;P 500.  Além disso, o crescimento é mais amplo e...</description>
+      <link>https://www.marketwatch.com/story/this-is-why-stocks-keep-rallying-according-to-morgan-stanley-6e7cc6a5?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/this-is-why-stocks-keep-rallying-according-to-morgan-stanley-6e7cc6a5?mod=mw_rss_topstories</guid>
+      <pubDate>05/05/2026 05:08</pubDate>
+      <enclosure url="https://images.mktw.net/im-89123690" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da L&apos;Oreal ganham à medida que Exane BNP Paribas melhora a resiliência à inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-central-bank-hikes-rates-for-third-time-this-year-in-battle-with-inflation-4657790</guid>
       <pubDate>05/05/2026 02:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4404Y_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Amazon.com, Inc. (AMZN) é uma boa ação para comprar agora?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-good-173611788.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-good-173611788.html</guid>
-      <pubDate>05/05/2026 02:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1b23982fdfb29c3c50e207aa7bda7c89" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
