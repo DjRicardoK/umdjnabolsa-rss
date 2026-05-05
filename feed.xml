@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 05:36:39 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 05:38:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon abre serviços de cadeia de suprimentos para todos os remetentes; Ações despencam, reação exagerada,...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/amazon-opens-supply-chain-services-to-all-shippers-stocks-plunge-reaction-overdone-says-stifel-93CH-4657996</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-opens-supply-chain-services-to-all-shippers-stocks-plunge-reaction-overdone-says-stifel-93CH-4657996</guid>
+      <pubDate>05/05/2026 05:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB87094_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O cenário mais sombrio do HSBC: bolsas de valores caem 35% e petróleo a US$ 145</title>
       <description>O HSBC Holdings disse na terça-feira que fez um grande impulso em ativos digitais, incluindo um produto de ouro tokenizado que já teve US$ 1 bilhão em valor negociado, enquanto as...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-carmakers-chase-yaris-moment-to-ignite-overseas-growth-4657787</guid>
       <pubDate>05/05/2026 02:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM44050_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Budweiser Brewing no primeiro trimestre de 2026 vê lucro por...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-budweiser-brewing-q1-2026-sees-eps-beat-revenue-miss-93CH-4657788</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-budweiser-brewing-q1-2026-sees-eps-beat-revenue-miss-93CH-4657788</guid>
-      <pubDate>05/05/2026 02:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
