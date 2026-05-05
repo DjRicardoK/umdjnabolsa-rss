@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 19:36:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 19:45:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Formulário 144 Hayward Holdings para: 5 de maio</title>
+      <description></description>
+      <link>https://www.investing.com/news/filings/form-144-hayward-holdings-for-5-may-93CH-4661442</link>
+      <guid isPermaLink="false">https://www.investing.com/news/filings/form-144-hayward-holdings-for-5-may-93CH-4661442</guid>
+      <pubDate>05/05/2026 19:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Atomera Inc. atende à previsão de EPS, apesar da perda de receita...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/entergy-launches-218b-common-stock-offering-via-forward-sale-93CH-4661052</guid>
       <pubDate>05/05/2026 17:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Esses são os empregos de crescimento mais rápido para recém-formados – mesmo neste mercado de baixa...</title>
-      <description>O mercado de trabalho pós-inflação tem sido especialmente difícil para os recém-formados, mas existem maneiras de se prepararem para a procura.</description>
-      <link>https://www.marketwatch.com/story/these-are-the-fastest-growing-jobs-for-new-college-graduates-even-in-this-low-hire-market-974bf612?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/these-are-the-fastest-growing-jobs-for-new-college-graduates-even-in-this-low-hire-market-974bf612?mod=mw_rss_topstories</guid>
-      <pubDate>05/05/2026 17:56</pubDate>
-      <enclosure url="https://images.mktw.net/im-42491893" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
