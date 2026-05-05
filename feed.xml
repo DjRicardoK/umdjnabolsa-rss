@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 09:58:06 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 09:58:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Libra hoje: Libra sobe, mas pressionada pelo dólar firme e pelos preços do petróleo</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-but-pressured-by-firm-dollar-and-oil-prices-4659045</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-but-pressured-by-firm-dollar-and-oil-prices-4659045</guid>
+      <pubDate>05/05/2026 09:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED9503H_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Palantir supera em meio a vendas comerciais leves nos EUA. A Palantir está contratando o suficiente?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/transdigm-shares-rise-on-earnings-beat-and-raised-guidance-93CH-4658606</guid>
       <pubDate>05/05/2026 08:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui estão 13 razões pelas quais as grandes capitalizações agora vencerão as pequenas capitalizações, de...</title>
-      <description>O posicionamento, os lucros, a dinâmica e as evidências históricas sugerem que as grandes capitalizações estão preparadas para superar o desempenho das ações de pequena...</description>
-      <link>https://www.marketwatch.com/story/here-are-13-reasons-why-large-caps-will-now-beat-small-caps-according-to-ubs-38c888fa?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/here-are-13-reasons-why-large-caps-will-now-beat-small-caps-according-to-ubs-38c888fa?mod=mw_rss_topstories</guid>
-      <pubDate>05/05/2026 08:24</pubDate>
-      <enclosure url="https://images.mktw.net/im-34273032" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
