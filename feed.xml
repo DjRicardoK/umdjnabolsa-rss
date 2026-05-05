@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 13:06:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:07:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Alemanha sobem no fechamento do pregão; DAX sobe 1,67%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-167-4660049</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-167-4660049</guid>
+      <pubDate>05/05/2026 13:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC7G0HR_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da BioCryst Pharmaceuticals aumentam em meio à batalha do mercado de HAE</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/job-openings-were-low-before-iran-war-now-businesses-have-another-reason-not-to-hire-c9e4c3ee?mod=mw_rss_topstories</guid>
       <pubDate>05/05/2026 12:04</pubDate>
       <enclosure url="https://images.mktw.net/im-98818992" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon expande entrega de alimentos no mesmo dia para empresas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-expands-same-day-grocery-144833413.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-expands-same-day-grocery-144833413.html</guid>
-      <pubDate>05/05/2026 11:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/freightwaves_373/c7c3327433444086f570fbae58d8d6b5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
