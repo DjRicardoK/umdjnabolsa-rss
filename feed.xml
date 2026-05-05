@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 13:07:35 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:07:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BCE não vê impacto suficiente na inflação dos preços do petróleo para justificar aumento das taxas, diz...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ecb-doesnt-see-enough-inflation-impact-from-oil-prices-to-warrant-rate-hike-villeroy-says-93CH-4660048</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-doesnt-see-enough-inflation-impact-from-oil-prices-to-warrant-rate-hike-villeroy-says-93CH-4660048</guid>
+      <pubDate>05/05/2026 13:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Alemanha sobem no fechamento do pregão; DAX sobe 1,67%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/workiva-investors-brace-for-earnings-as-policy-risk-clouds-outlook-93CH-4659782</guid>
       <pubDate>05/05/2026 12:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As vagas de emprego eram baixas antes da guerra no Irã. Agora as empresas têm outro motivo para não contratar.</title>
-      <description>O número de vagas de emprego nos EUA e a velocidade com que as empresas contratam para preenchê-las ainda são deprimentes – um pensamento deprimente para quem procura trabalho.</description>
-      <link>https://www.marketwatch.com/story/job-openings-were-low-before-iran-war-now-businesses-have-another-reason-not-to-hire-c9e4c3ee?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/job-openings-were-low-before-iran-war-now-businesses-have-another-reason-not-to-hire-c9e4c3ee?mod=mw_rss_topstories</guid>
-      <pubDate>05/05/2026 12:04</pubDate>
-      <enclosure url="https://images.mktw.net/im-98818992" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
