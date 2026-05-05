@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 12:04:51 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 12:08:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Investidores da Workiva se preparam para lucros à medida que o risco político obscurece as perspectivas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/workiva-investors-brace-for-earnings-as-policy-risk-clouds-outlook-93CH-4659782</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/workiva-investors-brace-for-earnings-as-policy-risk-clouds-outlook-93CH-4659782</guid>
+      <pubDate>05/05/2026 12:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As vagas de emprego eram baixas antes da guerra no Irã. Agora as empresas têm outro motivo para não contratar.</title>
       <description>O número de vagas de emprego nos EUA e a velocidade com que as empresas contratam para preenchê-las ainda são deprimentes – um pensamento deprimente para quem procura trabalho.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/masterbrand-earnings-in-focus-after-surprise-quarterly-loss-93CH-4659414</guid>
       <pubDate>05/05/2026 10:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os três principais estoques de gás natural para possuir agora, de acordo com títulos truistas</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/top-3-natural-gas-stocks-to-own-right-now-per-truist-securities-93CH-4659398</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-3-natural-gas-stocks-to-own-right-now-per-truist-securities-93CH-4659398</guid>
-      <pubDate>05/05/2026 10:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/gas_M_1440047759.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
