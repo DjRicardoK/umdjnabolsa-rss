@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 11:11:41 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:11:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Matson atingem o máximo histórico de 181,02 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/matson-stock-hits-alltime-high-at-18102-usd-93CH-4659479</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/matson-stock-hits-alltime-high-at-18102-usd-93CH-4659479</guid>
+      <pubDate>05/05/2026 11:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Investidores de Bristow se preparam para recuperação de lucros após tropeço no quarto trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-revvity-q1-2026-shows-strong-earnings-beat-93CH-4658996</guid>
       <pubDate>05/05/2026 09:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sobe em meio a tensões EUA-Irã; Palantir apresenta slides após relatório de ganhos...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-tensions-palantir-stock-pltr/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-tensions-palantir-stock-pltr/?src=A00220&yptr=yahoo</guid>
-      <pubDate>05/05/2026 09:16</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
