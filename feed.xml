@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 13:28:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:37:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Perimeter Solutions aumentam após aquisição de US$ 685 milhões</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/perimeter-solutions-earnings-on-deck-after-685m-acquisition-93CH-4660198</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/perimeter-solutions-earnings-on-deck-after-685m-acquisition-93CH-4660198</guid>
+      <pubDate>05/05/2026 13:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Triple Flag enfrenta teste de lucros em meio à orientação do ano de transição</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/hinge-health-earnings-up-next-can-moats-offset-growth-slowdown-93CH-4659950</guid>
       <pubDate>05/05/2026 12:42</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Intel agora vale mais do que a Oracle à medida que suas ações explodem</title>
-      <description>A Intel está no caminho certo para ultrapassar o seu nível recorde de capitalização de mercado alcançado em 2000, com o entusiasmo aumentando sobre o potencial para uma parceria...</description>
-      <link>https://www.marketwatch.com/story/intel-is-now-worth-more-than-oracle-as-its-stock-explodes-higher-7d9bfe3d?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/intel-is-now-worth-more-than-oracle-as-its-stock-explodes-higher-7d9bfe3d?mod=mw_rss_topstories</guid>
-      <pubDate>05/05/2026 12:37</pubDate>
-      <enclosure url="https://images.mktw.net/im-66024535" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
