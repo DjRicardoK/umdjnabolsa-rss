@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 18:38:13 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 19:02:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Freshworks cortará 11% de empregos enquanto a IA remodela a indústria de software</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/freshworks-to-cut-11-jobs-as-ai-reshapes-software-sector-4660955</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/freshworks-to-cut-11-jobs-as-ai-reshapes-software-sector-4660955</guid>
+      <pubDate>05/05/2026 19:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM441DY_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Finance of America Q1 2026 mostra aumento de lucratividade</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/marathon-petroleum-q1-2026-slides-refining-margins-drive-earnings-beat-93CH-4660332</guid>
       <pubDate>05/05/2026 14:14</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/eb1c2741143e5393fecaa7400ee1bc44b9b613ba94d69cf9d5150e87c70b369b.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita do IIPR no primeiro trimestre de 2026 bate, ações sobem...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-iipr-q1-2026-revenue-beats-stock-gains-13-93CH-4660333</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-iipr-q1-2026-revenue-beats-stock-gains-13-93CH-4660333</guid>
-      <pubDate>05/05/2026 14:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
