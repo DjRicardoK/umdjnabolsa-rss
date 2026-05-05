@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 08:56:51 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:58:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE PSEG supera estimativas de crescimento de receitas e lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/pseg-beats-estimates-on-revenue-and-earnings-growth-93CH-4658696</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/pseg-beats-estimates-on-revenue-and-earnings-growth-93CH-4658696</guid>
+      <pubDate>05/05/2026 08:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Este indicador do ritmo do ouro atingiu o fundo do poço – e a história diz que uma forte recuperação está por...</title>
       <description>Ouro e mineradores de ouro apresentam melhor desempenho logo após a desistência dos investidores. Este “pessimismo extremo” é o vento contrário que o mercado tem esperado.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-quantum-computing-qubt-one-101219677.html</guid>
       <pubDate>05/05/2026 07:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ad4963deb2219b93a67d2eb068d2c21f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE KeyBanc reitera classificação de ações da ServiceNow com meta de receita de US$ 30 bilhões</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/keybanc-reiterates-servicenow-stock-rating-on-30b-revenue-target-93CH-4658273</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/keybanc-reiterates-servicenow-stock-rating-on-30b-revenue-target-93CH-4658273</guid>
-      <pubDate>05/05/2026 07:22</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
