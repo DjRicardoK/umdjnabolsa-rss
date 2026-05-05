@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 00:19:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 00:19:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer na Amazon: “Acho que este está apenas se consolidando”</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-amazon-think-one-155121244.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-amazon-think-one-155121244.html</guid>
+      <pubDate>05/05/2026 00:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer na Apple: “Você teve a chance de comprá-lo depois que eles relataram”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/why-56-americans-losing-inflation-124519356.html</guid>
       <pubDate>04/05/2026 21:17</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/798b1b62edde8b05c0cdf1a83c794f15" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Guerras de telecomunicações no primeiro trimestre de 2026: analistas buscam ganhos de 30% nos lucros...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/q1-2026-telecom-wars-analyst-124000770.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/q1-2026-telecom-wars-analyst-124000770.html</guid>
-      <pubDate>04/05/2026 21:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/63899a75c47ee87cdf48e3bdbbdfd7b8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
