@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 12:37:13 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 12:42:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos da Hinge Health são os próximos: Os fossos podem compensar a desaceleração do crescimento?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/hinge-health-earnings-up-next-can-moats-offset-growth-slowdown-93CH-4659950</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/hinge-health-earnings-up-next-can-moats-offset-growth-slowdown-93CH-4659950</guid>
+      <pubDate>05/05/2026 12:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Intel agora vale mais do que a Oracle à medida que suas ações explodem</title>
       <description>A Intel está no caminho certo para ultrapassar o seu nível recorde de capitalização de mercado alcançado em 2000, com o entusiasmo aumentando sobre o potencial para uma parceria...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/q2-holdings-qtwo-10-best-142111104.html</guid>
       <pubDate>05/05/2026 11:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9c37738d9f512f7cd6e10429351de66a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Todos os olhos voltados para o mercado de trabalho à medida que a janela de corte das taxas do Fed se estreita</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/eyes-job-market-feds-rate-141639717.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/eyes-job-market-feds-rate-141639717.html</guid>
-      <pubDate>05/05/2026 11:30</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/d6585940660e83b9a780ba2a306e4c65" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
