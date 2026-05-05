@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 22:40:37 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 23:14:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Presidente da República Dominicana interrompe projeto de mineração GoldQuest após protestos</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/dominican-republic-president-halts-goldquest-mining-project-after-protests-4657758</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/dominican-republic-president-halts-goldquest-mining-project-after-protests-4657758</guid>
+      <pubDate>04/05/2026 23:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4401P_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Westpac Q1 2026 vê crescimento constante em meio a desafios</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/adeia-q1-2026-slides-amd-microsoft-deals-fuel-revenue-beat-93CH-4657609</guid>
       <pubDate>04/05/2026 19:13</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/1a7f843bda7c1304cd8ff8b687561e26b223cf5ccd6e2167f287ea009ff25f12.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: BWX Technologies Q1 2026 supera as expectativas, as ações sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bwx-technologies-q1-2026-beats-expectations-stock-rises-93CH-4657610</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bwx-technologies-q1-2026-beats-expectations-stock-rises-93CH-4657610</guid>
-      <pubDate>04/05/2026 19:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
