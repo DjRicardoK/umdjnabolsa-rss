@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 20:18:50 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 20:20:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A última vez que as ações de semicondutores subiram tanto e tão rapidamente, a bolha das pontocom estourou</title>
+      <description>O desempenho contínuo de 25 dias de um índice de ações de semicondutores atingiu seu nível mais alto desde 9 de março de 2000 – um dia antes do pico da bolha pontocom.</description>
+      <link>https://www.marketwatch.com/story/the-last-time-semiconductor-stocks-rose-this-far-this-quickly-the-dot-com-bubble-burst-d7b6666b?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-last-time-semiconductor-stocks-rose-this-far-this-quickly-the-dot-com-bubble-burst-d7b6666b?mod=mw_rss_topstories</guid>
+      <pubDate>05/05/2026 20:20</pubDate>
+      <enclosure url="https://images.mktw.net/im-22809025" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações caem à medida que aumentam as tensões no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/devon-energy-beats-q1-earnings-estimates-but-misses-on-revenue-93CH-4661210</guid>
       <pubDate>05/05/2026 18:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Compass dispara 21% com superação de lucros e aumento de metas de sinergia</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/compass-soars-21-on-earnings-beat-and-raised-synergy-targets-93CH-4661211</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/compass-soars-21-on-earnings-beat-and-raised-synergy-targets-93CH-4661211</guid>
-      <pubDate>05/05/2026 18:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
