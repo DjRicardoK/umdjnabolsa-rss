@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 01:59:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 02:12:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Amazon.com, Inc. (AMZN) é uma boa ação para comprar agora?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-good-173611788.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-good-173611788.html</guid>
+      <pubDate>05/05/2026 02:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1b23982fdfb29c3c50e207aa7bda7c89" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco central da Austrália alerta sobre aumento da inflação e crescimento mais lento à medida que o choque do...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/stock-market-facing-historic-federal-132600303.html</guid>
       <pubDate>04/05/2026 22:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/c441a44d89b7821b066fd39cf3b5c5c3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Regis da Austrália se fundirá com Vault para criar produtor de ouro de US$ 7,7 bilhões</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/australias-regis-to-merge-with-vault-to-create-77-bln-gold-producer-4657731</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australias-regis-to-merge-with-vault-to-create-77-bln-gold-producer-4657731</guid>
-      <pubDate>04/05/2026 21:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE1C09I_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
