@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 03:09:52 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 03:09:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da CSX Corporation?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-183823888.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-183823888.html</guid>
+      <pubDate>06/05/2026 03:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8116c91b4afba2c255d6fd4f66466e9b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 ações de semicondutores para possuir em maio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-services-activity-grows-at-faster-rate-in-april-private-pmi-shows-4661633</guid>
       <pubDate>05/05/2026 23:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4501I_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A capitalização de mercado da Samsung Electronics ultrapassa US$ 1 trilhão após o aumento dos estoques de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/samsung-electronics-market-cap-surpasses-1-trln-4661609</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/samsung-electronics-market-cap-surpasses-1-trln-4661609</guid>
-      <pubDate>05/05/2026 22:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4500Y_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
