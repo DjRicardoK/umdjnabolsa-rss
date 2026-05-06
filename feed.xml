@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 08:06:16 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 08:07:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O ‘alto teor de açúcar’ acabou. Por que o primeiro sinal de venda de ações desde 2021 está agora piscando,...</title>
+      <description>Os estrategistas do Wells Fargo dizem que alguns fatores que têm impulsionado a alta do mercado estão se esgotando.</description>
+      <link>https://www.marketwatch.com/story/the-sugar-high-is-over-why-the-first-sell-signal-for-stocks-since-2021-is-now-flashing-says-this-wall-street-bank-a2434538?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-sugar-high-is-over-why-the-first-sell-signal-for-stocks-since-2021-is-now-flashing-says-this-wall-street-bank-a2434538?mod=mw_rss_topstories</guid>
+      <pubDate>06/05/2026 08:07</pubDate>
+      <enclosure url="https://images.mktw.net/im-01126146" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE KeyBanc reitera excesso de peso das ações do Shopify na oportunidade de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/japan-fires-missile-in-joint-drill-with-us-and-allies-in-northern-philippines-facing-south-china-sea-4662095</guid>
       <pubDate>06/05/2026 06:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_3_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Este gráfico conta a história do mercado de ações mais aquecido do mundo, à medida que a Samsung Electronics...</title>
-      <description>As ações sul-coreanas subiram mais 6% na quarta-feira e a Samsung Electronics atingiu US$ 1 trilhão em capitalização de mercado, dois marcos em um ano notável que viu o índice...</description>
-      <link>https://www.marketwatch.com/story/this-chart-tells-the-story-of-the-hottest-stock-market-in-the-world-as-samsung-electronics-reaches-1-trillion-in-market-cap-1bd7892b?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/this-chart-tells-the-story-of-the-hottest-stock-market-in-the-world-as-samsung-electronics-reaches-1-trillion-in-market-cap-1bd7892b?mod=mw_rss_topstories</guid>
-      <pubDate>06/05/2026 06:15</pubDate>
-      <enclosure url="https://images.mktw.net/im-93568934" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
