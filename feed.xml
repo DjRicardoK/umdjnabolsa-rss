@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 09:22:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 09:24:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ADP diz que as empresas criam o maior número de novos empregos em 15 meses. O mercado de trabalho pode estar...</title>
+      <description>A ADP disse que as empresas dos EUA criaram 109 mil novos empregos em abril – o maior aumento em 15 meses – em um sinal de que um mercado de trabalho parcialmente congelado pode...</description>
+      <link>https://www.marketwatch.com/story/adp-says-businesses-create-the-most-new-jobs-in-15-months-labor-market-might-be-thawing-7173edb4?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/adp-says-businesses-create-the-most-new-jobs-in-15-months-labor-market-might-be-thawing-7173edb4?mod=mw_rss_topstories</guid>
+      <pubDate>06/05/2026 09:24</pubDate>
+      <enclosure url="https://images.mktw.net/im-33862433" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da AMD disparam em direção ao melhor ganho pós-lucro em 7 anos: ‘O mundo mudou’</title>
       <description>Os investidores da AMD estão prestando mais atenção ao impulso da CPU do que recentemente.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-netcompany-sees-robust-q1-2026-growth-stock-dips-93CH-4662356</guid>
       <pubDate>06/05/2026 07:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Once Upon a Farm aumenta a remuneração do CFO e concede novo prêmio de capital</title>
-      <description></description>
-      <link>https://www.investing.com/news/sec-filings/once-upon-a-farm-increases-cfo-compensation-and-grants-new-equity-award-93CH-4662357</link>
-      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/once-upon-a-farm-increases-cfo-compensation-and-grants-new-equity-award-93CH-4662357</guid>
-      <pubDate>06/05/2026 07:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
