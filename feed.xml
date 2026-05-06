@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 20:58:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 21:02:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Astera Labs sobem à medida que a empresa se esforça para tornar os chips de IA mais poderosos</title>
+      <description>A empresa de conectividade também divulgou resultados de lucros otimistas</description>
+      <link>https://www.marketwatch.com/story/astera-labs-stock-climbs-as-the-company-strives-to-make-ai-chips-more-powerful-2c9be4d6?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/astera-labs-stock-climbs-as-the-company-strives-to-make-ai-chips-more-powerful-2c9be4d6?mod=mw_rss_topstories</guid>
+      <pubDate>05/05/2026 21:02</pubDate>
+      <enclosure url="https://images.mktw.net/im-52421582" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da Kimco Realty?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-middle-east-tensions-141440980.html</guid>
       <pubDate>05/05/2026 19:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/55c0e371980311459c3a39fd4f2e36c0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perspectiva das ações da Amcor: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amcor-stock-outlook-wall-street-141252043.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amcor-stock-outlook-wall-street-141252043.html</guid>
-      <pubDate>05/05/2026 19:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a5ed0e7c1160e9899254c03789e752b7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
