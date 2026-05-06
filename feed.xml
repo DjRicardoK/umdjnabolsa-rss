@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 18:11:02 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 18:14:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A história de crescimento das ações da Nvidia pode ainda não ter acabado</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-growth-story-may-130002651.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-growth-story-may-130002651.html</guid>
+      <pubDate>06/05/2026 18:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b2c8ecf82d78d5405278844007950511" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE OceanaGold reporta fluxo de caixa no primeiro trimestre de US$ 382 milhões e aumenta dividendos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/metlife-earnings-in-focus-as-insurers-navigate-softer-market-93CH-4665151</guid>
       <pubDate>06/05/2026 16:42</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE TKO enfrenta teste de ganhos enquanto o modelo de streaming do UFC assume o centro das atenções</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/tko-faces-earnings-test-as-ufc-streaming-model-takes-center-stage-93CH-4665132</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/tko-faces-earnings-test-as-ufc-streaming-model-takes-center-stage-93CH-4665132</guid>
-      <pubDate>06/05/2026 16:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
