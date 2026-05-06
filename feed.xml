@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 04:02:46 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 04:15:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Antes dos ganhos da Palantir, aqui está o que os dados de opções de gráfico de barras mostram para ações PLTR</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/ahead-palantir-earnings-barchart-options-195141201.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/ahead-palantir-earnings-barchart-options-195141201.html</guid>
+      <pubDate>06/05/2026 04:15</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/031eab01f1693f46983aef7f212f9424" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar sobe à medida que as tensões no Irã aumentam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-hard-disk-172014167.html</guid>
       <pubDate>06/05/2026 02:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/bd5dae34176ee1c2b303d51d54822803" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da HP: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/hp-stock-wall-street-bullish-170520215.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hp-stock-wall-street-bullish-170520215.html</guid>
-      <pubDate>06/05/2026 01:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/532104de6b51855544f5e87e2a252bab" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
