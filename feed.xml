@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 01:20:05 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 01:21:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Hess Midstream LP</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/hess-midstream-lp-q1-2026-164550451.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hess-midstream-lp-q1-2026-164550451.html</guid>
+      <pubDate>06/05/2026 01:21</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/e2b74610ad6c871c86cb48712bf0bb67" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inflação medida pelo IPC da Coreia do Sul atinge 2,6% em abril com impacto no M.East</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-turn-lower-middle-east-151626347.html</guid>
       <pubDate>05/05/2026 20:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Inflação ao consumidor na Coreia do Sul em abril +2,6% a/a, conforme esperado</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/south-korea-april-consumer-inflation-26-yy-as-expected-4661484</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/south-korea-april-consumer-inflation-26-yy-as-expected-4661484</guid>
-      <pubDate>05/05/2026 20:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM441IG_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
