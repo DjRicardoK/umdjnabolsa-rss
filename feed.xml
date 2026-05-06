@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 04:15:50 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 04:17:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A perspectiva de crescimento do Duolingo é moderada à medida que prioriza o engajamento em vez da monetização</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/duolingos-growth-outlook-moderates-prioritizes-200213132.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/duolingos-growth-outlook-moderates-prioritizes-200213132.html</guid>
+      <pubDate>06/05/2026 04:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/16ba78810417e7b18cb2586e777c5fec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Antes dos ganhos da Palantir, aqui está o que os dados de opções de gráfico de barras mostram para ações PLTR</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-fertiliser-stocks-in-asia-pacific-according-to-morgan-stanley-93CH-4661679</guid>
       <pubDate>06/05/2026 02:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB170IO_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Seagate e Western Digital são um duopólio de discos rígidos. Barchart classifica os estoques de armazenamento...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-hard-disk-172014167.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-hard-disk-172014167.html</guid>
-      <pubDate>06/05/2026 02:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bd5dae34176ee1c2b303d51d54822803" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
