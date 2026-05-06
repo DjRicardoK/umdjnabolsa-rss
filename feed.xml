@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 13:06:18 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 13:06:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do Six Flags em jogo: o pivô do portfólio pode aliviar as perdas?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/six-flags-earnings-on-deck-can-portfolio-pivot-ease-losses-93CH-4664396</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/six-flags-earnings-on-deck-can-portfolio-pivot-ease-losses-93CH-4664396</guid>
+      <pubDate>06/05/2026 13:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da iA Financial: lucro principal salta 12%, ações caem 9%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/genworth-q1-2026-slides-earnings-beat-87-on-enact-strength-93CH-4664181</guid>
       <pubDate>06/05/2026 12:17</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/a379c1896c7a6ffebbf89053e2599a4fdf43c19e679f167e7f8527a84f41ae81.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Formulário 6K BondBloxx B com classificação ETF de títulos corporativos de alto rendimento em dólares para: 6...</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-6k-bondbloxx-b-rated-usd-high-yield-corporate-bond-etf-for-6-may-93CH-4664114</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-6k-bondbloxx-b-rated-usd-high-yield-corporate-bond-etf-for-6-may-93CH-4664114</guid>
-      <pubDate>06/05/2026 12:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
