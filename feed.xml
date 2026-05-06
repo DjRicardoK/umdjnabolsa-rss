@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 14:56:05 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 14:56:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Samsung diz que descontinuará as vendas na China de alguns produtos eletrônicos de consumo</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/samsung-says-to-discontinue-china-sales-of-some-consumer-electronics-products-4664823</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/samsung-says-to-discontinue-china-sales-of-some-consumer-electronics-products-4664823</guid>
+      <pubDate>06/05/2026 14:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM451CC_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da MarketAxess em foco enquanto as ações testam o mínimo de 52 semanas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amcor-plc-q3-2026-earnings-164520935.html</guid>
       <pubDate>06/05/2026 13:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/3a153ec8231c909f434cb6c28f04327c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os lucros recordes do S&amp;P 500 são uma faca de dois gumes – e podem reduzir seus retornos</title>
-      <description>Com margens de lucro agora duas vezes superiores à média histórica, as grandes ações dos EUA estão cotadas à perfeição.</description>
-      <link>https://www.marketwatch.com/story/s-p-500-record-profits-are-a-double-edged-sword-and-it-could-slash-your-returns-9f61bcd3?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/s-p-500-record-profits-are-a-double-edged-sword-and-it-could-slash-your-returns-9f61bcd3?mod=mw_rss_topstories</guid>
-      <pubDate>06/05/2026 13:50</pubDate>
-      <enclosure url="https://images.mktw.net/im-81710620" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
