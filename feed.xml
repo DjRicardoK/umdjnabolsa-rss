@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 18:14:27 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 18:17:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da Gen Digital?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-gen-digital-130128760.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-gen-digital-130128760.html</guid>
+      <pubDate>06/05/2026 18:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/62dbc79f903b28a6f360dbd46590ed65" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os retornos esperados do investimento na Amazon não são altos - vender a descoberto na AMZN é uma jogada...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/ddog-earnings-play-huge-return-110002376.html</guid>
       <pubDate>06/05/2026 16:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d328f7db7fa019e809cef3d7281ab08b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros de Dillard sobem à medida que os ventos contrários nas lojas de departamentos se aproximam</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/dillards-earnings-on-deck-as-department-store-headwinds-loom-93CH-4665149</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/dillards-earnings-on-deck-as-department-store-headwinds-loom-93CH-4665149</guid>
-      <pubDate>06/05/2026 16:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
