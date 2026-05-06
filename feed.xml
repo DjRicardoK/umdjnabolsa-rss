@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 18:35:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 18:58:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do açúcar são apoiados pelas preocupações com a inflação global e pelas secas. Onde comprar.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/sugar-prices-supported-global-inflation-134852547.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/sugar-prices-supported-global-inflation-134852547.html</guid>
+      <pubDate>06/05/2026 18:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b70e2fda0aec81aec16cbb2e756b01ab" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A alta da Seagate Stocks não é acidente: três razões pelas quais Wall Street está otimista</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-on-middle-east-peace-hopes-ai-optimism-4662015</guid>
       <pubDate>06/05/2026 17:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM450IN_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Regulador irlandês investiga Shein por transferência de dados para a China</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/irish-data-protection-agency-launches-114053661.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/irish-data-protection-agency-launches-114053661.html</guid>
-      <pubDate>06/05/2026 17:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/9b1cd29ba2668bf3a9e97123abe6425d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
