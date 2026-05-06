@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 18:58:45 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 19:01:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Forte relatório de ganhos elevou a Cognex Corporation (CGNX) no primeiro trimestre</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/strong-earnings-report-lifted-cognex-135056398.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/strong-earnings-report-lifted-cognex-135056398.html</guid>
+      <pubDate>06/05/2026 19:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bf7c51e9c4264fa47c0d1036c328a5fb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços do açúcar são apoiados pelas preocupações com a inflação global e pelas secas. Onde comprar.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-goolsbee-says-iran-war-impact-looking-more-like-an-inflationary-shock-4665224</guid>
       <pubDate>06/05/2026 17:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM451GT_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Registros de entalhe no S&amp;P 500 e Nasdaq; Resultados da AMD estimulam alta das ações de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-on-middle-east-peace-hopes-ai-optimism-4662015</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-on-middle-east-peace-hopes-ai-optimism-4662015</guid>
-      <pubDate>06/05/2026 17:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM450IN_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
