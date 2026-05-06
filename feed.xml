@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 12:59:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 12:59:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da ADMA Biologics em alta em meio a escrutínio de enchimento de canais</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/adma-biologics-earnings-on-deck-amid-channel-stuffing-scrutiny-93CH-4664346</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/adma-biologics-earnings-on-deck-amid-channel-stuffing-scrutiny-93CH-4664346</guid>
+      <pubDate>06/05/2026 12:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Walker &amp; Dunlop enfrentam teste de lucros após falha no quarto trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/ryerson-earnings-in-focus-first-postmerger-results-on-tap-93CH-4664005</guid>
       <pubDate>06/05/2026 11:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE RTX Corporation (RTX): uma das melhores ações de defesa de grande capitalização para comprar de acordo com...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-rtx-one-best-143642459.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-rtx-one-best-143642459.html</guid>
-      <pubDate>06/05/2026 11:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/085c9847bd13f7c9451042de55bacf33" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
