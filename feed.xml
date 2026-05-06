@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 04:02:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 04:02:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar sobe à medida que as tensões no Irã aumentam</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-rises-iran-tensions-escalate-193736697.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-rises-iran-tensions-escalate-193736697.html</guid>
+      <pubDate>06/05/2026 04:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1c78243ff6ea0f56104ce694dab841ee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Hinge Health Stock vê classificação RS saltar à frente dos ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hp-stock-wall-street-bullish-170520215.html</guid>
       <pubDate>06/05/2026 01:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/532104de6b51855544f5e87e2a252bab" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Oferta matinal: ações sobem em Seul enquanto Samsung ultrapassa Berkshire</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/morning-bid-stocks-surge-in-seoul-as-samsung-surpasses-berkshire-4661666</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/morning-bid-stocks-surge-in-seoul-as-samsung-surpasses-berkshire-4661666</guid>
-      <pubDate>06/05/2026 01:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4504C_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
