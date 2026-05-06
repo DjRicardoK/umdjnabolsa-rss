@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 17:52:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 18:03:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Otter Tail Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/otter-tail-corporation-q1-2026-123000237.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/otter-tail-corporation-q1-2026-123000237.html</guid>
+      <pubDate>06/05/2026 18:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/9395150640bc4b9e1348f8238830b65f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Perspectiva de ações da EOG Resources: Wall Street está em alta ou em baixa?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/revolution-medicines-in-the-spotlight-for-earnings-posttrial-win-93CH-4665111</guid>
       <pubDate>06/05/2026 16:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Futuros de índices de ações sobem enquanto o cessar-fogo EUA-Irã se mantém, relatório JOLTs e ganhos em foco</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-climb-u-103436225.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-index-futures-climb-u-103436225.html</guid>
-      <pubDate>06/05/2026 16:21</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ae7ee21b7adc3615d29d0e151145646a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
