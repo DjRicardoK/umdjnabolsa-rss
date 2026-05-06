@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 15:06:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 15:06:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Perspectiva das ações da Charles Schwab Corporation: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/charles-schwab-corporation-stock-outlook-084251469.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/charles-schwab-corporation-stock-outlook-084251469.html</guid>
+      <pubDate>06/05/2026 15:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8bd8bc24da62dc317c314a1b154249be" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do Blackstone Secured Lending em alta enquanto o BDC enfrenta teste de crédito</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/steven-madden-ltd-q1-2026-165517935.html</guid>
       <pubDate>06/05/2026 14:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/faeea3076abdb5ae5789d3d5cbcf74f3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goolsbee, do Fed, diz que o aumento da produtividade poderia conter a inflação ou aumentá-la</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/feds-goolsbee-says-rising-productivity-could-restrain-inflation-or-boost-it-4664663</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-goolsbee-says-rising-productivity-could-restrain-inflation-or-boost-it-4664663</guid>
-      <pubDate>06/05/2026 14:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM451A1_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
