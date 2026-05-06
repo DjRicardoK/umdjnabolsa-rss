@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 02:04:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 02:25:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Enorme e incomum volume de negociações de opções da Amazon hoje - à medida que o AMZN sobe</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/huge-unusual-volume-amazon-options-173002621.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/huge-unusual-volume-amazon-options-173002621.html</guid>
+      <pubDate>06/05/2026 02:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/53921926b0ea4c196011ac50e860a881" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Principais estoques de fertilizantes na Ásia-Pacífico, de acordo com o Morgan Stanley</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-kimco-realty-154350422.html</guid>
       <pubDate>05/05/2026 20:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d5f5dd52bd344d065ea21f7f586604f6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ganhos da MicroStrategy no primeiro trimestre de 2026 perdem as...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-microstrategys-q1-2026-earnings-miss-forecasts-stock-rises-93CH-4661542</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-microstrategys-q1-2026-earnings-miss-forecasts-stock-rises-93CH-4661542</guid>
-      <pubDate>05/05/2026 20:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
