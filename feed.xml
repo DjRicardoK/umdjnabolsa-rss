@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 03:46:39 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 03:53:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE China investigará explosão mortal em fábrica de fogos de artifício</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/china-to-probe-deadly-fireworks-factory-blast-4661788</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/china-to-probe-deadly-fireworks-factory-blast-4661788</guid>
+      <pubDate>06/05/2026 03:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM450AS_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lottomatica eleva orientação para o ano inteiro como principais previsões de lucros do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/south-korea-cpi-inflation-hits-26-in-april-on-meast-impact-93CH-4661662</guid>
       <pubDate>06/05/2026 01:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas da Ásia sobem enquanto Trump sinaliza acordo com o Irã; Coreia do Sul bate recorde em alta tecnológica</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-trump-flags-iran-deal-skorea-hits-record-high-on-tech-rally-4661659</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-trump-flags-iran-deal-skorea-hits-record-high-on-tech-rally-4661659</guid>
-      <pubDate>06/05/2026 01:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0B0BR_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
