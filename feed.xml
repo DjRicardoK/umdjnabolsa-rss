@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 05 May 2026 23:54:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 23:54:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Dreadnought Resources descreve o progresso do terceiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-dreadnought-resources-outlines-q3-2026-progress-93CH-4661649</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dreadnought-resources-outlines-q3-2026-progress-93CH-4661649</guid>
+      <pubDate>05/05/2026 23:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do ouro sobem com sinais de desescalada no Oriente Médio e dólar mais fraco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-johnson-143137389.html</guid>
       <pubDate>05/05/2026 19:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/bc531ab7885d2cf67671138eedb42811" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Shakes de proteína mais baratos estão destruindo esta forte indústria</title>
-      <description>As ações da BellRing Brands, fabricante das bebidas Premier Protein e dos lanches PowerBar, caíram quase 40%.</description>
-      <link>https://www.marketwatch.com/story/cheaper-protein-shakes-are-crushing-this-industry-stalwart-2a675f49?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/cheaper-protein-shakes-are-crushing-this-industry-stalwart-2a675f49?mod=mw_rss_topstories</guid>
-      <pubDate>05/05/2026 19:48</pubDate>
-      <enclosure url="https://images.mktw.net/im-30697041" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
