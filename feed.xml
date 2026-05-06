@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 03:53:50 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 03:54:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street otimista com a tecnologia Blue Owl (OTF), apesar da negociação de ações perto dos mínimos...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-blue-owl-191357032.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-blue-owl-191357032.html</guid>
+      <pubDate>06/05/2026 03:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a46acf248b661d421c7d302d26950751" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China investigará explosão mortal em fábrica de fogos de artifício</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hess-midstream-lp-q1-2026-164550451.html</guid>
       <pubDate>06/05/2026 01:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/e2b74610ad6c871c86cb48712bf0bb67" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Inflação medida pelo IPC da Coreia do Sul atinge 2,6% em abril com impacto no M.East</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/south-korea-cpi-inflation-hits-26-in-april-on-meast-impact-93CH-4661662</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/south-korea-cpi-inflation-hits-26-in-april-on-meast-impact-93CH-4661662</guid>
-      <pubDate>06/05/2026 01:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
