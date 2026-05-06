@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 16:31:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:42:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da MetLife em foco à medida que as seguradoras navegam em um mercado mais fraco</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/metlife-earnings-in-focus-as-insurers-navigate-softer-market-93CH-4665151</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/metlife-earnings-in-focus-as-insurers-navigate-softer-market-93CH-4665151</guid>
+      <pubDate>06/05/2026 16:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE TKO enfrenta teste de ganhos enquanto o modelo de streaming do UFC assume o centro das atenções</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/regal-beloit-earnings-in-focus-can-data-centers-offset-eps-dip-93CH-4664977</guid>
       <pubDate>06/05/2026 15:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Estoque de armas atinge máximo histórico em 237,76 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/arm-stock-hits-alltime-high-at-23776-usd-93CH-4664978</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/arm-stock-hits-alltime-high-at-23776-usd-93CH-4664978</guid>
-      <pubDate>06/05/2026 15:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
