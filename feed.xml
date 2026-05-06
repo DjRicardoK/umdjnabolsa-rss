@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 12:59:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 12:59:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE UBS reitera classificação das ações da Edison International citando risco de incêndio florestal</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-edison-international-stock-rating-citing-wildfire-risk-93CH-4664344</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-edison-international-stock-rating-citing-wildfire-risk-93CH-4664344</guid>
+      <pubDate>06/05/2026 12:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE UBS reitera compra de ações vitalícias, preço-alvo de US$ 43</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/earnings/liquidity-services-earnings-ahead-can-margins-offset-revenue-drop-93CH-4664076</link>
       <guid isPermaLink="false">https://www.investing.com/news/earnings/liquidity-services-earnings-ahead-can-margins-offset-revenue-drop-93CH-4664076</guid>
       <pubDate>06/05/2026 11:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros de Gibraltar em foco enquanto aquisição de US$ 1,3 bilhão enfrenta teste</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/gibraltar-earnings-in-focus-as-13b-acquisition-faces-test-93CH-4664030</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/gibraltar-earnings-in-focus-as-13b-acquisition-faces-test-93CH-4664030</guid>
-      <pubDate>06/05/2026 11:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
