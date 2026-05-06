@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 16:07:26 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:07:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da MKS Instruments em foco enquanto o boom de semicondutores testa as margens</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/mks-instruments-earnings-in-focus-as-semiconductor-boom-tests-margins-93CH-4665060</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/mks-instruments-earnings-in-focus-as-semiconductor-boom-tests-margins-93CH-4665060</guid>
+      <pubDate>06/05/2026 16:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros futuros da Liberty Formula One: força do patrocinador versus cortes nas corridas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/charles-schwab-corporation-stock-outlook-084251469.html</guid>
       <pubDate>06/05/2026 15:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/8bd8bc24da62dc317c314a1b154249be" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do Blackstone Secured Lending em alta enquanto o BDC enfrenta teste de crédito</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/blackstone-secured-lending-earnings-on-deck-as-bdc-faces-credit-test-93CH-4664899</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/blackstone-secured-lending-earnings-on-deck-as-bdc-faces-credit-test-93CH-4664899</guid>
-      <pubDate>06/05/2026 15:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6606G_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
