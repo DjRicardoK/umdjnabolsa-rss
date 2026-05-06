@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 11:27:34 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 11:34:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Atlanta Braves Holdings Inc atingem alta de 52 semanas a 54,88 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/atlanta-braves-holdings-inc-stock-hits-52week-high-at-5488-usd-93CH-4663973</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/atlanta-braves-holdings-inc-stock-hits-52week-high-at-5488-usd-93CH-4663973</guid>
+      <pubDate>06/05/2026 11:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O novo acordo da Nvidia com a Corning valida uma das tendências de IA mais recentes do mercado</title>
       <description>Os componentes ópticos estão cada vez mais escassos e a Nvidia está fazendo parcerias com participantes importantes para obter vantagem.</description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ternium-q1-2026-beats-eps-revenue-expectations-93CH-4663500</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ternium-q1-2026-beats-eps-revenue-expectations-93CH-4663500</guid>
       <pubDate>06/05/2026 10:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dick’s Sporting Goods relança cartão de crédito com recompensas de 10%</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/dicks-sporting-goods-relaunches-credit-card-with-10-rewards-93CH-4663468</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/dicks-sporting-goods-relaunches-credit-card-with-10-rewards-93CH-4663468</guid>
-      <pubDate>06/05/2026 10:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
