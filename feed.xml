@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 17:33:46 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 17:48:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Fortinet disparam à medida que os lucros ajudam a dissipar os temores de interrupção da IA</title>
+      <description>Um “ambiente de ameaças cada vez mais complexo” está aumentando a demanda pelas ofertas de segurança cibernética da Fortinet</description>
+      <link>https://www.marketwatch.com/story/fortinets-stock-rockets-as-earnings-help-dispel-fears-of-ai-disruption-8a8f0107?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/fortinets-stock-rockets-as-earnings-help-dispel-fears-of-ai-disruption-8a8f0107?mod=mw_rss_topstories</guid>
+      <pubDate>06/05/2026 17:48</pubDate>
+      <enclosure url="https://images.mktw.net/im-830088" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cumberland Pharmaceuticals (CPIX) integra negócios comerciais com Apotex</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/all-eyes-on-newamsterdam-pharma-earnings-as-pipeline-advances-93CH-4665081</guid>
       <pubDate>06/05/2026 16:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Texas Pacific Land enfrenta teste de lucros após mudança de acionistas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/texas-pacific-land-faces-earnings-test-after-shareholder-shakeup-93CH-4665084</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/texas-pacific-land-faces-earnings-test-after-shareholder-shakeup-93CH-4665084</guid>
-      <pubDate>06/05/2026 16:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
