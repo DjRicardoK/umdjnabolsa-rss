@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 07:52:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 07:58:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE EUA e Irã se aproximam de memorando para acabar com a guerra, diz fonte paquistanesa</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/iran-says-it-wants-a-comprehensive-agreement-with-us-4661822</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/iran-says-it-wants-a-comprehensive-agreement-with-us-4661822</guid>
+      <pubDate>06/05/2026 07:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM450CQ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os lucros do segundo trimestre da Disney superaram, mas a frequência aos parques dos EUA cai no primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lottomatica-q1-2026-shows-strong-growth-stock-surges-93CH-4662009</guid>
       <pubDate>06/05/2026 05:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Quando as taxas de hipotecas cairão novamente para 4%?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-to-4-again-203022918.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-to-4-again-203022918.html</guid>
-      <pubDate>06/05/2026 05:48</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-02/44f32890-e970-11ef-9f6b-b07499e55afe" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
