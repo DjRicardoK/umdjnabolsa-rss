@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 09:48:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 09:57:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Navio CMA CGM atacado no Estreito de Ormuz enquanto o transporte era interrompido pela guerra EUA-Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/cma-cgm-vessel-attacked-in-strait-of-hormuz-as-shipping-halted-by-usiran-war-4663359</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/cma-cgm-vessel-attacked-in-strait-of-hormuz-as-shipping-halted-by-usiran-war-4663359</guid>
+      <pubDate>06/05/2026 09:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM450H7_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Arábia Saudita caem no fechamento do pregão; Tadawul All Share caiu 0,52%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/article/3-charts-explain-how-the-iran-war-oil-shock-could-impact-the-economy-105600349.html</guid>
       <pubDate>06/05/2026 08:02</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/JBPBpDimaoRv.gyicOXzCQ--~B/aD0zOTQxO3c9NTg4MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/fa7caa72-5d3e-465e-9a87-b0ce1222e695" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE EUA e Irã se aproximam de memorando para acabar com a guerra, diz fonte paquistanesa</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/iran-says-it-wants-a-comprehensive-agreement-with-us-4661822</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/iran-says-it-wants-a-comprehensive-agreement-with-us-4661822</guid>
-      <pubDate>06/05/2026 07:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM450CQ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
