@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 01:08:05 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 01:20:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação medida pelo IPC da Coreia do Sul atinge 2,6% em abril com impacto no M.East</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/south-korea-cpi-inflation-hits-26-in-april-on-meast-impact-93CH-4661662</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/south-korea-cpi-inflation-hits-26-in-april-on-meast-impact-93CH-4661662</guid>
+      <pubDate>06/05/2026 01:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas da Ásia sobem enquanto Trump sinaliza acordo com o Irã; Coreia do Sul bate recorde em alta tecnológica</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/south-korea-april-consumer-inflation-26-yy-as-expected-4661484</guid>
       <pubDate>05/05/2026 20:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM441IG_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Berkshire Hathaway e Warren Buffett vendem US$ 182,8 milhões em ações da DaVita</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/berkshire-hathaway-warren-buffett-sell-1828-million-davita-shares-93CH-4661460</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/berkshire-hathaway-warren-buffett-sell-1828-million-davita-shares-93CH-4661460</guid>
-      <pubDate>05/05/2026 19:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
