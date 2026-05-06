@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 02:38:30 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 03:05:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mais IA está chegando ao iOS 27. Por que isso pode tornar as ações da Apple uma compra aqui.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/more-ai-coming-ios-27-182131625.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/more-ai-coming-ios-27-182131625.html</guid>
+      <pubDate>06/05/2026 03:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/13eeb713efd52d28173dcbb6d9c7c567" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Três analistas de empresas de mineração de ouro sob o radar acreditam que aumentará mais de 50%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-144-apple-inc-for-5-may-93CH-4661612</guid>
       <pubDate>05/05/2026 22:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/apple_M_1440049056.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar cai à medida que as esperanças de acordo EUA-Irã crescem, iene flutua</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/dollar-eases-as-usiran-deal-hopes-grow-yen-drifts-4661604</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-eases-as-usiran-deal-hopes-grow-yen-drifts-4661604</guid>
-      <pubDate>05/05/2026 22:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4500R_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
