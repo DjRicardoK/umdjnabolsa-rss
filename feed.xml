@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 08:14:39 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 08:17:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Disney sobem à medida que os lucros sinalizam que o negócio dos parques temáticos está saudável</title>
+      <description>No primeiro relatório de lucros do novo CEO Josh D’Amaro, a Disney previu um crescimento de 12% no lucro por ação para o ano.</description>
+      <link>https://www.marketwatch.com/story/disneys-stock-rises-as-earnings-signal-that-the-theme-park-business-is-healthy-ca576ef4?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/disneys-stock-rises-as-earnings-signal-that-the-theme-park-business-is-healthy-ca576ef4?mod=mw_rss_topstories</guid>
+      <pubDate>06/05/2026 08:17</pubDate>
+      <enclosure url="https://images.mktw.net/im-92563603" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE ‘Imposto oculto’ sobre os americanos à medida que o dólar americano cai 10% – por que seu dinheiro compra...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/uk-sells-16-billion-of-inflationlinked-gilts-at-auction-93CH-4662156</guid>
       <pubDate>06/05/2026 06:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços do petróleo caem depois que os EUA relataram estar perto de um acordo para acabar com a guerra no...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/oil-prices-little-changed-as-ceasefire-holds-and-us-crude-stocks-fall-4661506</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-little-changed-as-ceasefire-holds-and-us-crude-stocks-fall-4661506</guid>
-      <pubDate>06/05/2026 06:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM441IX_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
