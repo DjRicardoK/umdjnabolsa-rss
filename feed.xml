@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 16:24:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:31:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE TKO enfrenta teste de ganhos enquanto o modelo de streaming do UFC assume o centro das atenções</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/tko-faces-earnings-test-as-ufc-streaming-model-takes-center-stage-93CH-4665132</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/tko-faces-earnings-test-as-ufc-streaming-model-takes-center-stage-93CH-4665132</guid>
+      <pubDate>06/05/2026 16:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Zoetis enfrenta teste de lucros enquanto as ações definham perto dos mínimos de 52 semanas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/arm-stock-hits-alltime-high-at-23776-usd-93CH-4664978</guid>
       <pubDate>06/05/2026 15:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Existem muitas razões pelas quais o dólar deveria estar a subir neste momento – mas não está. Isso não é um...</title>
-      <description>Embora o dólar tenha voltado ao ponto onde estava antes da guerra do Irão, algumas coisas mudaram abaixo da superfície.</description>
-      <link>https://www.marketwatch.com/story/there-are-plenty-of-reasons-the-dollar-should-be-rallying-right-now-but-it-isnt-thats-not-a-good-sign-b8366156?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/there-are-plenty-of-reasons-the-dollar-should-be-rallying-right-now-but-it-isnt-thats-not-a-good-sign-b8366156?mod=mw_rss_topstories</guid>
-      <pubDate>06/05/2026 15:30</pubDate>
-      <enclosure url="https://images.mktw.net/im-33020874" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
