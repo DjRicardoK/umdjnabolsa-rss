@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 03:05:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 03:09:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 2 ações de semicondutores para possuir em maio</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-own-may-183706075.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-own-may-183706075.html</guid>
+      <pubDate>06/05/2026 03:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/schaeffers_investment_research_24/94e049ef6cde79e9c46a62ca2e333f1a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mais IA está chegando ao iOS 27. Por que isso pode tornar as ações da Apple uma compra aqui.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/samsung-electronics-market-cap-surpasses-1-trln-4661609</guid>
       <pubDate>05/05/2026 22:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4500Y_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Formulário 144 APPLE INC. Para: 5 de maio</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-144-apple-inc-for-5-may-93CH-4661612</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-144-apple-inc-for-5-may-93CH-4661612</guid>
-      <pubDate>05/05/2026 22:22</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/apple_M_1440049056.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
