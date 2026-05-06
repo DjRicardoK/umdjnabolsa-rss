@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 16:07:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:12:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui está o que o BofA pensa sobre a NVIDIA Corporation (NVDA)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bofa-thinks-nvidia-corporation-nvda-101132458.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bofa-thinks-nvidia-corporation-nvda-101132458.html</guid>
+      <pubDate>06/05/2026 16:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da MKS Instruments em foco enquanto o boom de semicondutores testa as margens</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/intact-financial-q12026-slides-record-earnings-amid-revenue-concerns-93CH-4664895</guid>
       <pubDate>06/05/2026 15:14</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/db70929c9d4cd1f064cd963201e7e2c3d82e4ad39c9fd47b6d308b08b8ac5b6e.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perspectiva das ações da Charles Schwab Corporation: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/charles-schwab-corporation-stock-outlook-084251469.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/charles-schwab-corporation-stock-outlook-084251469.html</guid>
-      <pubDate>06/05/2026 15:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8bd8bc24da62dc317c314a1b154249be" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
