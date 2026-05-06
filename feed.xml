@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 11:38:52 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 11:39:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Savers Value Village enfrenta teste de ganhos após expansão da loja</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/savers-value-village-faces-earnings-test-after-store-expansion-93CH-4663977</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/savers-value-village-faces-earnings-test-after-store-expansion-93CH-4663977</guid>
+      <pubDate>06/05/2026 11:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Bioventus: superação dos lucros impulsiona aumento da orientação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-livanova-plc-beats-q1-2026-estimates-shares-rise-93CH-4663659</guid>
       <pubDate>06/05/2026 10:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A tokenização está chegando a Wall Street enquanto o J.P. Morgan dá mais um passo para fazer com que os...</title>
-      <description>A unidade blockchain do JP Morgan, Kinexys, em colaboração com Mastercard, Ripple e Ondo Finance, disse que concluiu o primeiro resgate quase em tempo real, transfronteiriço e...</description>
-      <link>https://www.marketwatch.com/story/tokenization-is-coming-to-wall-street-as-j-p-morgan-takes-another-step-toward-making-treasurys-move-like-crypto-9465df25?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/tokenization-is-coming-to-wall-street-as-j-p-morgan-takes-another-step-toward-making-treasurys-move-like-crypto-9465df25?mod=mw_rss_topstories</guid>
-      <pubDate>06/05/2026 10:27</pubDate>
-      <enclosure url="https://images.mktw.net/im-04963873" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
