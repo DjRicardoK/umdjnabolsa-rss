@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 05:01:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 05:13:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Economia da zona euro entra em contracção à medida que a inflação aumenta</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/eurozone-economy-slips-into-contraction-as-inflation-surges-93CH-4661904</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/eurozone-economy-slips-into-contraction-as-inflation-surges-93CH-4661904</guid>
+      <pubDate>06/05/2026 05:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O CEO Anthony Noto deixa claro que a SoFi deve ser avaliada como uma ação de software: o primeiro trimestre...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-457-4661736</guid>
       <pubDate>06/05/2026 03:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED080DN_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da CSX Corporation?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-183823888.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-183823888.html</guid>
-      <pubDate>06/05/2026 03:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8116c91b4afba2c255d6fd4f66466e9b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
