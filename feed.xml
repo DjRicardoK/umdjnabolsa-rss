@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 03:33:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 03:33:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE abrdn European Logistics Income vende armazém holandês</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/abrdn-european-logistics-income-sells-dutch-warehouse-93CH-4661761</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/abrdn-european-logistics-income-sells-dutch-warehouse-93CH-4661761</guid>
+      <pubDate>06/05/2026 03:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Austrália sobem no fechamento do pregão; S&amp;P/ASX 200 sobe 1,30%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dreadnought-resources-outlines-q3-2026-progress-93CH-4661649</guid>
       <pubDate>05/05/2026 23:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do ouro sobem com sinais de desescalada no Oriente Médio e dólar mais fraco</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-rise-on-middle-east-deescalation-signals-weaker-dollar-4661650</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-rise-on-middle-east-deescalation-signals-weaker-dollar-4661650</guid>
-      <pubDate>05/05/2026 23:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED4U0TY-ORUBS_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
