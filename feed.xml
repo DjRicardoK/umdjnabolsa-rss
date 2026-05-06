@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 16:43:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 16:47:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O DDOG Earnings Play tem um ENORME potencial de retorno</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/ddog-earnings-play-huge-return-110002376.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/ddog-earnings-play-huge-return-110002376.html</guid>
+      <pubDate>06/05/2026 16:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d328f7db7fa019e809cef3d7281ab08b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros de Dillard sobem à medida que os ventos contrários nas lojas de departamentos se aproximam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/mcewen-mining-earnings-up-next-can-q4-surge-continue-93CH-4664987</guid>
       <pubDate>06/05/2026 15:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/gold_2_M_1440047838.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Praxis sobem à medida que a biotecnologia se aproxima da transformação comercial</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/praxis-earnings-up-next-as-biotech-nears-commercial-transformation-93CH-4664989</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/praxis-earnings-up-next-as-biotech-nears-commercial-transformation-93CH-4664989</guid>
-      <pubDate>06/05/2026 15:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
