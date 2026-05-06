@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 07:30:17 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 07:30:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dow Jones Futures sobe, preços do petróleo caem abaixo de US$ 100 após relatório de fechamento de acordo...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-hormuz-pause-amd-lumentum-arista-earnings/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-hormuz-pause-amd-lumentum-arista-earnings/?src=A00220&yptr=yahoo</guid>
+      <pubDate>06/05/2026 07:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/a52e9b338c8ffd333f45a2bc1fb1c54e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE GEO Group sobe 20% com fortes resultados e perspectivas elevadas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-zeal-network-se-q1-2026-highlights-strategic-growth-amid-challenges-93CH-4661961</guid>
       <pubDate>06/05/2026 05:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Pinnacle West Capital Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/pinnacle-west-capital-corporation-q1-204431468.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/pinnacle-west-capital-corporation-q1-204431468.html</guid>
-      <pubDate>06/05/2026 05:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/ba182acb06220599efaac09bb4f1ae9f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
