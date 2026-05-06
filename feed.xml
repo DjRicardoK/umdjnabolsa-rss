@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 04:33:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 04:45:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: resultados da Scatec Solar Q1 2026 mostram queda de ações de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-scatec-solar-q1-2026-results-see-stock-dip-739-93CH-4661867</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-scatec-solar-q1-2026-results-see-stock-dip-739-93CH-4661867</guid>
+      <pubDate>06/05/2026 04:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas históricas de hipotecas: veja como as taxas mudaram ao longo do tempo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/3-under-radar-gold-mining-180158351.html</guid>
       <pubDate>06/05/2026 02:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/4a6ff7f1d88319e63a6ccf8d9bd33a71" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro da BMW cai um quarto no início do ano</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bmw-earnings-slump-by-a-quarter-at-start-of-year-4661703</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bmw-earnings-slump-by-a-quarter-at-start-of-year-4661703</guid>
-      <pubDate>06/05/2026 02:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM45077_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
