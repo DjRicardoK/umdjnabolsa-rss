@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 11:34:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 11:34:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Arhaus em alta: o novo impulso comercial pode compensar o aperto da margem?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/arhaus-earnings-on-deck-can-new-trade-push-offset-margin-squeeze-93CH-4663970</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/arhaus-earnings-on-deck-can-new-trade-push-offset-margin-squeeze-93CH-4663970</guid>
+      <pubDate>06/05/2026 11:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Atlanta Braves Holdings Inc atingem alta de 52 semanas a 54,88 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/corning-partners-nvidia-expand-us-131903852.html</guid>
       <pubDate>06/05/2026 10:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/816a5c5782d9cedfca5cb5ab0c0a8552" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ternium Q1 2026 supera lucro por ação e expectativas de receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ternium-q1-2026-beats-eps-revenue-expectations-93CH-4663500</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ternium-q1-2026-beats-eps-revenue-expectations-93CH-4663500</guid>
-      <pubDate>06/05/2026 10:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
