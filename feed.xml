@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 10:26:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:27:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A tokenização está chegando a Wall Street enquanto o J.P. Morgan dá mais um passo para fazer com que os...</title>
+      <description>A unidade blockchain do JP Morgan, Kinexys, em colaboração com Mastercard, Ripple e Ondo Finance, disse que concluiu o primeiro resgate quase em tempo real, transfronteiriço e...</description>
+      <link>https://www.marketwatch.com/story/tokenization-is-coming-to-wall-street-as-j-p-morgan-takes-another-step-toward-making-treasurys-move-like-crypto-9465df25?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/tokenization-is-coming-to-wall-street-as-j-p-morgan-takes-another-step-toward-making-treasurys-move-like-crypto-9465df25?mod=mw_rss_topstories</guid>
+      <pubDate>06/05/2026 10:27</pubDate>
+      <enclosure url="https://images.mktw.net/im-04963873" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Corning faz parceria com Nvidia para expandir produção de fibra óptica nos EUA para crescimento de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/hidden-tax-americans-us-dollar-110000535.html</guid>
       <pubDate>06/05/2026 08:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/56bde28533bd849d2e74eecfa4a7aff3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O ‘alto teor de açúcar’ acabou. Por que o primeiro sinal de venda de ações desde 2021 está agora piscando,...</title>
-      <description>Os estrategistas do Wells Fargo dizem que alguns fatores que têm impulsionado a alta do mercado estão se esgotando.</description>
-      <link>https://www.marketwatch.com/story/the-sugar-high-is-over-why-the-first-sell-signal-for-stocks-since-2021-is-now-flashing-says-this-wall-street-bank-a2434538?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-sugar-high-is-over-why-the-first-sell-signal-for-stocks-since-2021-is-now-flashing-says-this-wall-street-bank-a2434538?mod=mw_rss_topstories</guid>
-      <pubDate>06/05/2026 08:07</pubDate>
-      <enclosure url="https://images.mktw.net/im-01126146" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
