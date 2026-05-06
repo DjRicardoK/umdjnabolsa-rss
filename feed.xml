@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 14:56:12 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 14:56:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Stonex sob escrutínio enquanto os investidores buscam a sustentabilidade do crescimento</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/stonex-earnings-under-scrutiny-as-investors-eye-growth-sustainability-93CH-4664839</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/stonex-earnings-under-scrutiny-as-investors-eye-growth-sustainability-93CH-4664839</guid>
+      <pubDate>06/05/2026 14:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Samsung diz que descontinuará as vendas na China de alguns produtos eletrônicos de consumo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-company-q1-2026-164453013.html</guid>
       <pubDate>06/05/2026 13:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/a4441bbd600159a3b75d9cde169d0f56" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do terceiro trimestre de 2026 da Amcor plc</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amcor-plc-q3-2026-earnings-164520935.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amcor-plc-q3-2026-earnings-164520935.html</guid>
-      <pubDate>06/05/2026 13:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/3a153ec8231c909f434cb6c28f04327c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
