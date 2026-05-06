@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 09:17:30 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 09:17:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mudança no emprego não agrícola do ADP mostra crescimento moderado, perde previsão</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/adp-nonfarm-employment-change-shows-moderate-growth-misses-forecast-93CH-4663101</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/adp-nonfarm-employment-change-shows-moderate-growth-misses-forecast-93CH-4663101</guid>
+      <pubDate>06/05/2026 09:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os lucros de Nolato no primeiro trimestre de 2026 falham nas...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/iran-war-pauses-global-easing-push-by-central-banks-in-april-4662349</guid>
       <pubDate>06/05/2026 07:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM450NK_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações globais sobem e petróleo cai com relatório do acordo de paz com o Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/asia-markets-hit-records-ai-013631444.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/asia-markets-hit-records-ai-013631444.html</guid>
-      <pubDate>06/05/2026 07:21</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/d9801445856b8a7f5bab17a1186e9a65" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
