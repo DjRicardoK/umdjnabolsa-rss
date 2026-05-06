@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 18:07:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 18:11:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE OceanaGold reporta fluxo de caixa no primeiro trimestre de US$ 382 milhões e aumenta dividendos</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/oceanagold-reports-q1-cash-flow-of-382m-raises-dividend-93CH-4665603</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/oceanagold-reports-q1-cash-flow-of-382m-raises-dividend-93CH-4665603</guid>
+      <pubDate>06/05/2026 18:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que CrowdStrike (CRWD) está entre as 10 ações de IA com potencial de subir 1.000 por cento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/tko-faces-earnings-test-as-ufc-streaming-model-takes-center-stage-93CH-4665132</guid>
       <pubDate>06/05/2026 16:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Zoetis enfrenta teste de lucros enquanto as ações definham perto dos mínimos de 52 semanas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/zoetis-faces-earnings-test-as-shares-languish-near-52week-lows-93CH-4665109</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/zoetis-faces-earnings-test-as-shares-languish-near-52week-lows-93CH-4665109</guid>
-      <pubDate>06/05/2026 16:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6606G_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
