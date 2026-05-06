@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 10:53:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:53:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Holley Q1 2026 vê margens estáveis, quedas de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-holley-q1-2026-sees-steady-margins-stock-dips-93CH-4663819</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-holley-q1-2026-sees-steady-margins-stock-dips-93CH-4663819</guid>
+      <pubDate>06/05/2026 10:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Kyndryl Holdings perde as expectativas de lucros do quarto...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nolatos-q1-2026-earnings-miss-forecasts-stock-drops-15-93CH-4663130</guid>
       <pubDate>06/05/2026 09:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Disney sobem com a queda dos lucros e o aumento dos lucros</title>
-      <description></description>
-      <link>https://www.investors.com/news/disney-earnings-q2-2026-dis-stock-streaming-disney-parks-experiences-dow-jones-warner-bros-paramount-wbd/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/disney-earnings-q2-2026-dis-stock-streaming-disney-parks-experiences-dow-jones-warner-bros-paramount-wbd/?src=A00220&yptr=yahoo</guid>
-      <pubDate>06/05/2026 08:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/60d905213d6c7d60d2ff4aebe8231765" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
