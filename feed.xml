@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 02:04:12 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 02:04:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Principais estoques de fertilizantes na Ásia-Pacífico, de acordo com o Morgan Stanley</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/top-fertiliser-stocks-in-asia-pacific-according-to-morgan-stanley-93CH-4661679</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-fertiliser-stocks-in-asia-pacific-according-to-morgan-stanley-93CH-4661679</guid>
+      <pubDate>06/05/2026 02:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB170IO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Seagate e Western Digital são um duopólio de discos rígidos. Barchart classifica os estoques de armazenamento...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-microstrategys-q1-2026-earnings-miss-forecasts-stock-rises-93CH-4661542</guid>
       <pubDate>05/05/2026 20:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Prévia dos ganhos do primeiro trimestre da AMD: os investidores estão apostando que a demanda por IA pode...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amd-q1-earnings-preview-investors-152857622.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amd-q1-earnings-preview-investors-152857622.html</guid>
-      <pubDate>05/05/2026 20:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4c15b8783b36dc6f04eafb43e1cd26dc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
