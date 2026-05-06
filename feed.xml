@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 05:37:46 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 05:41:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Pinnacle West Capital Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/pinnacle-west-capital-corporation-q1-204431468.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/pinnacle-west-capital-corporation-q1-204431468.html</guid>
+      <pubDate>06/05/2026 05:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/ba182acb06220599efaac09bb4f1ae9f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações globais sobem com as esperanças de paz no Irã e a euforia da IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/china-to-probe-deadly-fireworks-factory-blast-4661788</guid>
       <pubDate>06/05/2026 03:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM450AS_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lottomatica eleva orientação para o ano inteiro como principais previsões de lucros do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/lottomatica-lifts-fullyear-guidance-as-q1-earnings-top-forecasts-4661779</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/lottomatica-lifts-fullyear-guidance-as-q1-earnings-top-forecasts-4661779</guid>
-      <pubDate>06/05/2026 03:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
