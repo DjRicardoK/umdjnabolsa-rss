@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 20:12:33 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 20:12:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Array Technologies, primeiro trimestre de 2026: a lucratividade...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-array-technologies-q1-2026-profitability-soars-amid-revenue-growth-93CH-4665963</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-array-technologies-q1-2026-profitability-soars-amid-revenue-growth-93CH-4665963</guid>
+      <pubDate>06/05/2026 20:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Receita da Sera Prognostics no primeiro trimestre de 2026...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/strong-earnings-report-lifted-cognex-135056398.html</guid>
       <pubDate>06/05/2026 19:00</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bf7c51e9c4264fa47c0d1036c328a5fb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços do açúcar são apoiados pelas preocupações com a inflação global e pelas secas. Onde comprar.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/sugar-prices-supported-global-inflation-134852547.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/sugar-prices-supported-global-inflation-134852547.html</guid>
-      <pubDate>06/05/2026 18:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b70e2fda0aec81aec16cbb2e756b01ab" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
