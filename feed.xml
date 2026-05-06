@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 14:37:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 14:37:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As companhias aéreas dos EUA gastaram mais de US$ 5 bilhões em combustível de aviação em março, enquanto a...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/us-airlines-spent-over-5-billion-on-jet-fuel-in-march-as-iran-war-bites-4664777</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-airlines-spent-over-5-billion-on-jet-fuel-in-march-as-iran-war-bites-4664777</guid>
+      <pubDate>06/05/2026 14:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEC9H021_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da ACI Worldwide a seguir: A empresa de pagamentos pode explicar a queda do lucro por ação?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/i-bonds-are-the-best-place-to-put-your-cash-right-now-and-that-should-worry-you-0fdea142?mod=mw_rss_topstories</guid>
       <pubDate>06/05/2026 13:47</pubDate>
       <enclosure url="https://images.mktw.net/im-55963272" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da DXP Enterprises sobem à medida que os investidores observam o impacto das fusões e aquisições</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/dxp-enterprises-earnings-on-deck-as-investors-eye-ma-impact-93CH-4664526</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/dxp-enterprises-earnings-on-deck-as-investors-eye-ma-impact-93CH-4664526</guid>
-      <pubDate>06/05/2026 13:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6606G_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
