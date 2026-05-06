@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 08:06:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 08:06:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE KeyBanc reitera excesso de peso das ações do Shopify na oportunidade de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/keybanc-reiterates-shopify-stock-overweight-on-ai-opportunity-93CH-4662620</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/keybanc-reiterates-shopify-stock-overweight-on-ai-opportunity-93CH-4662620</guid>
+      <pubDate>06/05/2026 08:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Cencora caem 2% com perda de lucros do segundo trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/this-chart-tells-the-story-of-the-hottest-stock-market-in-the-world-as-samsung-electronics-reaches-1-trillion-in-market-cap-1bd7892b?mod=mw_rss_topstories</guid>
       <pubDate>06/05/2026 06:15</pubDate>
       <enclosure url="https://images.mktw.net/im-93568934" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os lucros do primeiro trimestre de Kongsberg superaram as previsões sobre a demanda de defesa; ações saltam</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/kongsberg-q1-earnings-beat-forecasts-on-defense-demand-drives-shares-jump-4662006</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/kongsberg-q1-earnings-beat-forecasts-on-defense-demand-drives-shares-jump-4662006</guid>
-      <pubDate>06/05/2026 05:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA601YK_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
