@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 12:17:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 12:22:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Microsoft Corporation (MSFT) caiu em meio a uma ampla liquidação em empresas de software</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-slid-amid-151116770.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-slid-amid-151116770.html</guid>
+      <pubDate>06/05/2026 12:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5ec329719e2363fbf46dd87eaacb07c7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Genworth: ganhos superaram 87% na força da Enact</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/micron-just-did-in-three-days-what-once-took-37-years-91931d50?mod=mw_rss_topstories</guid>
       <pubDate>06/05/2026 11:10</pubDate>
       <enclosure url="https://images.mktw.net/im-82381137" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Uber sobem à medida que o negócio de entregas mostra uma força surpreendente</title>
-      <description>As ações da Uber subiram em direção ao seu melhor dia em 11 meses, à medida que as reservas aumentaram, lideradas pela força no negócio de entregas.</description>
-      <link>https://www.marketwatch.com/story/ubers-stock-surges-as-deliveries-business-shows-surprising-strength-50be87e5?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/ubers-stock-surges-as-deliveries-business-shows-surprising-strength-50be87e5?mod=mw_rss_topstories</guid>
-      <pubDate>06/05/2026 11:04</pubDate>
-      <enclosure url="https://images.mktw.net/im-42613582" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
