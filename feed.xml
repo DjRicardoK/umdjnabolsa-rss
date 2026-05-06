@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 19:07:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 19:11:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que saber quando o anúncio da Amazon reduz o estoque da UPS</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/know-amazon-announcement-sends-ups-141438628.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-amazon-announcement-sends-ups-141438628.html</guid>
+      <pubDate>06/05/2026 19:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/eb279ae60fae9d3893e5e69731f1ad20" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE À medida que a Amazon lança serviços de cadeia de suprimentos, veja como os dados do gráfico de barras dizem...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-vici-114459351.html</guid>
       <pubDate>06/05/2026 17:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/1cef6f524a348df41e692272309730bc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Procter &amp; Gamble?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-114412805.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-114412805.html</guid>
-      <pubDate>06/05/2026 17:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/47a6503656c1b6ea99875fda4631d677" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
