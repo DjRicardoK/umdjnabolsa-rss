@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 17:06:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 17:08:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Registros de entalhe no S&amp;P 500 e Nasdaq; Resultados da AMD estimulam alta das ações de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-on-middle-east-peace-hopes-ai-optimism-4662015</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-index-futures-rise-on-middle-east-peace-hopes-ai-optimism-4662015</guid>
+      <pubDate>06/05/2026 17:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM450IN_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Regulador irlandês investiga Shein por transferência de dados para a China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/vera-therapeutics-faces-earnings-test-ahead-of-fda-verdict-93CH-4665066</guid>
       <pubDate>06/05/2026 16:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE BCE deve reportar lucros à medida que aumenta a pressão sobre os preços das telecomunicações</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/bce-set-to-report-earnings-as-telecom-pricing-pressure-builds-93CH-4665067</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/bce-set-to-report-earnings-as-telecom-pricing-pressure-builds-93CH-4665067</guid>
-      <pubDate>06/05/2026 16:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB280W7_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
