@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 03:10:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 03:33:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Austrália sobem no fechamento do pregão; S&amp;P/ASX 200 sobe 1,30%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-130-4661762</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-130-4661762</guid>
+      <pubDate>06/05/2026 03:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7A004_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 4,57%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-rise-on-middle-east-deescalation-signals-weaker-dollar-4661650</guid>
       <pubDate>05/05/2026 23:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED4U0TY-ORUBS_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Atividade de serviços na China cresce em ritmo mais rápido em abril - RatingDog PMI</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/china-services-activity-grows-at-faster-pace-in-april--ratingdog-pmi-4661644</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/china-services-activity-grows-at-faster-pace-in-april--ratingdog-pmi-4661644</guid>
-      <pubDate>05/05/2026 23:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB601XD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
