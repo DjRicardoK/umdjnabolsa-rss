@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 19:18:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 19:26:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O CEO da Rush Street Interactive, Richard Schwartz, vende US$ 20,38 milhões em ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-richard-schwartz-sells-2038m-in-stock-93CH-4665871</link>
+      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-richard-schwartz-sells-2038m-in-stock-93CH-4665871</guid>
+      <pubDate>06/05/2026 19:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Meta Platforms (META) – Entre as 10 melhores ações Blue Chip para investir, de acordo com bilionários</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/otter-tail-corporation-q1-2026-123000237.html</guid>
       <pubDate>06/05/2026 18:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/9395150640bc4b9e1348f8238830b65f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perspectiva de ações da EOG Resources: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-outlook-wall-123106656.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/eog-resources-stock-outlook-wall-123106656.html</guid>
-      <pubDate>06/05/2026 17:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ffe96839fdd065f4112a83042558cf16" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
