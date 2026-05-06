@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 13:45:24 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 13:46:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Slides da Kennametal Q3 FY26: crescimento orgânico de 19% impulsiona a queda dos lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/kennametal-q3-fy26-slides-19-organic-growth-drives-earnings-beat-93CH-4664527</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/kennametal-q3-fy26-slides-19-organic-growth-drives-earnings-beat-93CH-4664527</guid>
+      <pubDate>06/05/2026 13:46</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/2e32df95e5baff25d0ea5d255d7523a72ca0019532a953de79e904716b20b97e.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros de F&amp;G a seguir: A seguradora pode se recuperar do tropeço do quarto trimestre?</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/filings/form-6k-sibanye-gold-ltd-adr-for-6-may-93CH-4664330</link>
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-6k-sibanye-gold-ltd-adr-for-6-may-93CH-4664330</guid>
       <pubDate>06/05/2026 12:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Novavax Q1 2026 supera as previsões, aumento de ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-novavax-q1-2026-beats-forecasts-stock-surges-93CH-4664287</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-novavax-q1-2026-beats-forecasts-stock-surges-93CH-4664287</guid>
-      <pubDate>06/05/2026 12:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
