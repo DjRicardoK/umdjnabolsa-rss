@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 10:33:43 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:52:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Disney sobem com a queda dos lucros do segundo trimestre, a frequência aos parques dos EUA cai no...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/article/disney-stock-rises-on-q2-earnings-beat-us-park-attendance-dips-in-first-report-under-new-ceo-josh-damaro-104420904.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/disney-stock-rises-on-q2-earnings-beat-us-park-attendance-dips-in-first-report-under-new-ceo-josh-damaro-104420904.html</guid>
+      <pubDate>06/05/2026 10:52</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/IYD6Kid10om.nJbpDzqIjQ--~B/aD0zNDg4O3c9NTIzMjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/8accefb9-f744-4d0a-8d86-521d8a7ccad1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: CS Disco Q1 2026 mostra crescimento de receita e queda de EPS</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/this-billionaires-blueprint-for-a-200-bagger-why-youre-thinking-too-small-in-a-world-of-infinite-capital-bdf114ff?mod=mw_rss_topstories</guid>
       <pubDate>06/05/2026 08:45</pubDate>
       <enclosure url="https://images.mktw.net/im-13103525" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Insulet sobem 9% com forte queda nos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/insulet-shares-surge-9-on-strong-earnings-beat-93CH-4662849</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/insulet-shares-surge-9-on-strong-earnings-beat-93CH-4662849</guid>
-      <pubDate>06/05/2026 08:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
