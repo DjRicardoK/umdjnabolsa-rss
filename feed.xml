@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 15:48:57 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 15:49:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros futuros do GLUE: Será que a Monte Rosa conseguirá se recuperar da perda de receita?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/glue-earnings-ahead-can-monte-rosa-rebound-from-revenue-miss-93CH-4665027</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/glue-earnings-ahead-can-monte-rosa-rebound-from-revenue-miss-93CH-4665027</guid>
+      <pubDate>06/05/2026 15:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da IonQ em ação: As vitórias em contratos podem impulsionar o crescimento da receita?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/cirrus-logic-earnings-on-deck-can-new-apple-wins-offset-iphone-shifts-93CH-4664847</guid>
       <pubDate>06/05/2026 14:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Stonex sob escrutínio enquanto os investidores buscam a sustentabilidade do crescimento</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/stonex-earnings-under-scrutiny-as-investors-eye-growth-sustainability-93CH-4664839</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/stonex-earnings-under-scrutiny-as-investors-eye-growth-sustainability-93CH-4664839</guid>
-      <pubDate>06/05/2026 14:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
