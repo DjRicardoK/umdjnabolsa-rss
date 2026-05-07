@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 20:20:52 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 20:26:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 de Mayville (MEC)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/mayville-mec-q1-2026-earnings-155551304.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mayville-mec-q1-2026-earnings-155551304.html</guid>
+      <pubDate>07/05/2026 20:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Flotek (FTK) Transcrição dos ganhos do primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/palantirs-alex-karp-says-pltr-150000954.html</guid>
       <pubDate>07/05/2026 19:36</pubDate>
       <enclosure url="https://media.zenfs.com/en/Benzinga/e18944a060f145b6203cf1f270504b4e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Aptiv?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-aptiv-145431756.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-aptiv-145431756.html</guid>
-      <pubDate>07/05/2026 19:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0a4e1b7bda35adcf0b916f276eaef0d8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
