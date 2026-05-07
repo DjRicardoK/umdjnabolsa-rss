@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 20:35:30 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 20:35:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os futuros do petróleo sobem após o fogo comercial dos EUA e do Irã; Futuros de ações tranquilos depois que...</title>
+      <description>Os futuros do petróleo subiram na noite de quinta-feira, enquanto os futuros dos índices de ações pouco mudaram depois que os EUA e o Irã trocaram tiros no Golfo Pérsico e depois...</description>
+      <link>https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories</guid>
+      <pubDate>07/05/2026 20:35</pubDate>
+      <enclosure url="https://images.mktw.net/im-34815290" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Conheça a tecnologia Micron de esmagamento de ações de infraestrutura de inteligência artificial (IA) em...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/still-buying-gold-etfs-protect-150920377.html</guid>
       <pubDate>07/05/2026 19:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/9244a7ace2bb9ab13a9d49a3ce8faa2a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Há uma nova preocupação em manter os rendimentos do Tesouro e os custos dos empréstimos mais elevados</title>
-      <description>O petróleo, a guerra no Irão e os riscos de inflação estão a estabelecer um novo piso para os rendimentos do Tesouro de maior duração</description>
-      <link>https://www.marketwatch.com/story/theres-a-new-worry-keeping-treasury-yields-and-borrowing-costs-higher-d3595fe1?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/theres-a-new-worry-keeping-treasury-yields-and-borrowing-costs-higher-d3595fe1?mod=mw_rss_topstories</guid>
-      <pubDate>07/05/2026 19:42</pubDate>
-      <enclosure url="https://images.mktw.net/im-81179536" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
