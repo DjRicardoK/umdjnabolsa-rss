@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 02:18:44 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:25:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Enquanto Wall Street busca US$ 2.000 em ações da SNDK, a Sandisk conta com novos modelos de negócios (NBMs)...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-eyes-2-000-172200838.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-eyes-2-000-172200838.html</guid>
+      <pubDate>07/05/2026 02:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6d6f0d1f774460c7221dbd1d36851495" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de energia australianas caem com plano de reserva de gás doméstico</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-surge-on-iran-peace-hopes-nikkei-rallies-over-5-to-record-high-4666136</guid>
       <pubDate>07/05/2026 00:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB5N00I_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides do primeiro semestre de 2026 da Orica: lucros recordes geram aumento de dividendos de 14%, saltos nas...</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/orica-1h-2026-slides-record-earnings-drive-14-dividend-hike-stock-jumps-93CH-4666134</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/orica-1h-2026-slides-record-earnings-drive-14-dividend-hike-stock-jumps-93CH-4666134</guid>
-      <pubDate>07/05/2026 00:25</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/723e3be001316afc9767090355a831d8a60a4caf44ddb56f83a9173ad081505d.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
