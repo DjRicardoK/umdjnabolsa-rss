@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 11:56:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 11:56:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Rocket Lab são negociadas perto do ponto de compra com lucros devidos</title>
+      <description></description>
+      <link>https://www.investors.com/news/rocket-lab-earnings-q1-2026-rklb-stock-space-launches-base-buy-point/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/rocket-lab-earnings-q1-2026-rklb-stock-space-launches-base-buy-point/?src=A00220&yptr=yahoo</guid>
+      <pubDate>07/05/2026 11:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/05669deb359f4c6b5ca48fcb7e68f3b2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE S&amp;P 500 Nuclear Play Vistra ultrapassa o nível-chave em ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-nasdaq-futures-tick-up-as-crude-oil-falls-in-wait-for-iran-us-deal-update-231446172.html</guid>
       <pubDate>07/05/2026 09:58</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/udxDAMp1PjzdiJAQ1KBufA--~B/aD0yMDAwO3c9Mjk5OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/bad45817-4126-4617-a74a-afff9365c6a4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O primeiro trimestre de 2026 da Claritev mostra forte...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-claritevs-q1-2026-shows-strong-revenue-growth-93CH-4667922</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-claritevs-q1-2026-shows-strong-revenue-growth-93CH-4667922</guid>
-      <pubDate>07/05/2026 09:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
