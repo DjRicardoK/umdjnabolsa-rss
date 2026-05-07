@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 23:26:03 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 23:26:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas asiáticas atingem máxima recorde, dólar oscila com esperanças de acordo de paz</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asian-stocks-hit-record-high-dollar-wobbles-on-peace-deal-hopes-4666114</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asian-stocks-hit-record-high-dollar-wobbles-on-peace-deal-hopes-4666114</guid>
+      <pubDate>06/05/2026 23:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4602M_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar na defensiva enquanto os mercados esperam melhor no Médio Oriente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/nuclear-stocks-cameco-bwxt-q1-earnings-uuuu/?src=A00220&yptr=yahoo</guid>
       <pubDate>06/05/2026 19:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/526b2efecc13c7f4b7993f417701c8bc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As demissões da Coinbase prejudicam o Crypto Bros à medida que a IA assume seus empregos. Não se surpreenda...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/coinbase-layoffs-crypto-bros-down-150200172.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/coinbase-layoffs-crypto-bros-down-150200172.html</guid>
-      <pubDate>06/05/2026 19:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/798cd35c8d218cc02852c3a7067a364e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
