@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 18:19:49 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:19:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Matrix Service Co supera EPS no terceiro trimestre de 2026</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-matrix-service-co-beats-eps-in-q3-2026-93CH-4670142</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-matrix-service-co-beats-eps-in-q3-2026-93CH-4670142</guid>
+      <pubDate>07/05/2026 18:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street está em alta ou em baixa nas ações da Centene?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/this-hedge-fund-legend-just-warned-investors-not-to-chase-stocks-higher-why-he-is-investing-in-ai-anyway-1bbad5f1?mod=mw_rss_topstories</guid>
       <pubDate>07/05/2026 17:32</pubDate>
       <enclosure url="https://images.mktw.net/im-73499954" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE CVS Health aumenta orientação para 2026 após queda nos lucros do primeiro trimestre</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/cvs-health-raises-2026-guidance-121242930.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/cvs-health-raises-2026-guidance-121242930.html</guid>
-      <pubDate>07/05/2026 17:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/2a3ff1aee1ec12233872542d40345077" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
