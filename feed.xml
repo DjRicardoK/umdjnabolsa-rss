@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 09:39:58 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 09:42:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As empresas estão realmente começando a contratar novamente? O relatório de empregos de abril nos ajudará a...</title>
+      <description>As empresas estão contratando mais trabalhadores após um período de contratações anormalmente fraco? O júri ainda não decidiu, mas estão a surgir sinais de recuperação no mercado...</description>
+      <link>https://www.marketwatch.com/story/are-businesses-really-starting-to-hire-again-the-april-jobs-report-will-help-clue-us-in-97c1730e?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/are-businesses-really-starting-to-hire-again-the-april-jobs-report-will-help-clue-us-in-97c1730e?mod=mw_rss_topstories</guid>
+      <pubDate>07/05/2026 09:42</pubDate>
+      <enclosure url="https://images.mktw.net/im-11001863" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco central tcheco mantém taxas em 3,50% em meio a tensões no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bigbear-ai-holdings-inc-q1-001730128.html</guid>
       <pubDate>07/05/2026 08:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/256c35eb4937ac5f27e480d4d6044c97" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O dólar canadense prevê mais alta à medida que o risco geopolítico diminui</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/canadian-dollar-forecasts-more-bullish-as-geopolitical-risk-ebbs-4666949</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/canadian-dollar-forecasts-more-bullish-as-geopolitical-risk-ebbs-4666949</guid>
-      <pubDate>07/05/2026 07:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460R7_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
