@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 16:46:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 16:48:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Slides do primeiro trimestre de 2026 da NN Inc: impulso do data center acelera metas de longo prazo</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/nn-inc-q1-2026-slides-data-center-push-accelerates-longterm-goals-93CH-4669636</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/nn-inc-q1-2026-slides-data-center-push-accelerates-longterm-goals-93CH-4669636</guid>
+      <pubDate>07/05/2026 16:48</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/682c4b66cda72f262690a302fdb5048394dbf33082a2c85c4d6275939aa52e7d.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Atlanticus Holdings atingem o máximo de 52 semanas a 80,42 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-warren-buffett-091500901.html</guid>
       <pubDate>07/05/2026 16:01</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/85da53bda9dad7b387ba45a2f805521c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação está a aumentar novamente as taxas dos títulos I. É hora de comprar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/inflations-pushing-bond-rates-again-090232901.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/inflations-pushing-bond-rates-again-090232901.html</guid>
-      <pubDate>07/05/2026 16:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/usa_today_money_325/617bddf6e7795247d020348282553781" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
