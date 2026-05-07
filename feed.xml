@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 20:10:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 20:16:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 do SLRC</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/slrc-q1-2026-earnings-call-154720430.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/slrc-q1-2026-earnings-call-154720430.html</guid>
+      <pubDate>07/05/2026 20:16</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O Airbnb está vendo um dos seus crescimentos mais rápidos neste segmento surpreendente</title>
       <description>O aplicativo de viagens sofreu algumas interrupções na demanda devido à guerra do Irã, mas está obtendo um sucesso inicial com sua recente mudança para a oferta de reservas de...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-airbnb-145422870.html</guid>
       <pubDate>07/05/2026 19:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/204572740a783072c05b9b76dc749854" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da DoorDash: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/doordash-stock-wall-street-bullish-144343832.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/doordash-stock-wall-street-bullish-144343832.html</guid>
-      <pubDate>07/05/2026 19:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5e8f936c3140d7b4b2c375470b4a7378" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
