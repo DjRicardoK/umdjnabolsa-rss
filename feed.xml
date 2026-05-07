@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 18:55:07 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:55:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Grupo de investidores insta a SEC a examinar minuciosamente o pedido de IPO da SpaceX e evitar conflitos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/investor-group-urges-sec-scrutinize-140230816.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/investor-group-urges-sec-scrutinize-140230816.html</guid>
+      <pubDate>07/05/2026 18:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/545a58c0c092e390a22ed1e577dc00ee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição dos ganhos do Onity Group (ONIT) do primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-liquidity-services-beats-q2-2026-forecasts-shares-rise-93CH-4670134</guid>
       <pubDate>07/05/2026 18:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fundo Tether Global Investments adquire US$ 23,6 milhões em ações da Gold.com</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/tether-global-investments-fund-acquires-236m-in-goldcom-stock-93CH-4670105</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/tether-global-investments-fund-acquires-236m-in-goldcom-stock-93CH-4670105</guid>
-      <pubDate>07/05/2026 18:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
