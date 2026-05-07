@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 02:04:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:18:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE China pode tentar ‘manobrar’ sobre questão de Taiwan na reunião de Trump, diz autoridade</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/china-may-try-manoeuvring-over-taiwan-issue-at-trump-meeting-official-says-4666157</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/china-may-try-manoeuvring-over-taiwan-issue-at-trump-meeting-official-says-4666157</guid>
+      <pubDate>07/05/2026 02:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4607P_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Immix Biopharma (IMMX) é uma das ações da NASDAQ com melhor desempenho?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-orica-q1-2026-sees-record-earnings-stock-rises-578-93CH-4666127</guid>
       <pubDate>07/05/2026 00:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro amplia ganhos com esperanças de acordo de paz com o Irã e dólar mais fraco</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-extends-gains-on-iran-peace-deal-hopes-weaker-dollar-4666123</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-extends-gains-on-iran-peace-deal-hopes-weaker-dollar-4666123</guid>
-      <pubDate>06/05/2026 23:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8N174_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
