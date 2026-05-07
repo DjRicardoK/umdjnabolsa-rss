@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 15:01:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 15:07:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da Corning subirão ou afundarão?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-corning-075751481.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-corning-075751481.html</guid>
+      <pubDate>07/05/2026 15:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9680c304e936f001c10494591a878e1a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados da Minerva Foods no primeiro trimestre de 2026...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/assured-guaranty-set-to-report-earnings-amid-steep-revenue-drop-93CH-4669137</guid>
       <pubDate>07/05/2026 14:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Zelenskiy diz que o cessar-fogo comemorativo da guerra na Rússia mostra uma lógica “estranha e inadequada”</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/zelenskiy-says-russian-war-commemoration-ceasefire-shows-strange-and-inappropriate-logic-4669138</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/zelenskiy-says-russian-war-commemoration-ceasefire-shows-strange-and-inappropriate-logic-4669138</guid>
-      <pubDate>07/05/2026 14:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM461CI_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
