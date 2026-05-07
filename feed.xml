@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 05:59:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 06:01:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Amex Gold vs. Chase Sapphire Preferred: Dois dos melhores cartões de viagem para recompensas diárias</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/credit-cards/comparison/amex-gold-vs-chase-sapphire-preferred-203052141.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/comparison/amex-gold-vs-chase-sapphire-preferred-203052141.html</guid>
+      <pubDate>07/05/2026 06:01</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Z_83npIo2ALtwRl1ok3aAw--~B/aD02NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/american-express-gold-card-vs-chase-sapphire-preferred-card_0178.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Marathon Petroleum Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/investors-just-discovered-blackberry-software-195511566.html</guid>
       <pubDate>07/05/2026 04:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b755108c26b96e02f25cd85e604fb509" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Visa Canada e Wealthsimple lançam piloto de liquidação de USDC no Canadá</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/visa-canada-wealthsimple-launch-usdc-194800005.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/visa-canada-wealthsimple-launch-usdc-194800005.html</guid>
-      <pubDate>07/05/2026 04:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/27c7d24780aaf9a5ebdfc763e0ce7fb9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
