@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 10:51:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 11:10:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Medidas europeias de apoio energético podem prejudicar as finanças públicas, alerta Fitch</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-energy-support-measures-could-strain-public-finances-fitch-warns-93CH-4668420</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-energy-support-measures-could-strain-public-finances-fitch-warns-93CH-4668420</guid>
+      <pubDate>07/05/2026 11:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC190AN_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Compass sobem 30% após os lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/are-businesses-really-starting-to-hire-again-the-april-jobs-report-will-help-clue-us-in-97c1730e?mod=mw_rss_topstories</guid>
       <pubDate>07/05/2026 09:42</pubDate>
       <enclosure url="https://images.mktw.net/im-11001863" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco central tcheco mantém taxas em 3,50% em meio a tensões no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/czech-central-bank-holds-rates-at-350-amid-middle-east-tensions-93CH-4667778</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/czech-central-bank-holds-rates-at-350-amid-middle-east-tensions-93CH-4667778</guid>
-      <pubDate>07/05/2026 09:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
