@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 19:58:03 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:58:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os ganhos da Lifetime Brands no primeiro trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lifetime-brands-q1-2026-earnings-beat-expectations-93CH-4670462</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lifetime-brands-q1-2026-earnings-beat-expectations-93CH-4670462</guid>
+      <pubDate>07/05/2026 19:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Receita da Tantalus Systems no primeiro trimestre de 2026...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/pfgc-q3-2026-earnings-transcript-144045396.html</guid>
       <pubDate>07/05/2026 19:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações de Iren disparam enquanto um grande investimento da Nvidia ofusca a queda de receita</title>
-      <description>A Nvidia está assumindo uma participação importante na Iren para construir uma presença global de 5 gigawatts para suas ambições de fábrica de IA</description>
-      <link>https://www.marketwatch.com/story/irens-stock-soars-as-a-major-nvidia-investment-overshadows-revenue-shortfall-c286cdb8?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/irens-stock-soars-as-a-major-nvidia-investment-overshadows-revenue-shortfall-c286cdb8?mod=mw_rss_topstories</guid>
-      <pubDate>07/05/2026 19:10</pubDate>
-      <enclosure url="https://images.mktw.net/im-03914561" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
