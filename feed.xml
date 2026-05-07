@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 05:17:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:30:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Indonésia sobem no fechamento do pregão; Índice Composto IDX subiu 1,19%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-119-4666445</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-119-4666445</guid>
+      <pubDate>07/05/2026 05:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE310G7_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Jefferies reitera classificação das ações da AppLovin sobre a força do comércio eletrônico</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/vonovia-confirms-2026-guidance-despite-first-quarter-earnings-decline-93CH-4666314</guid>
       <pubDate>07/05/2026 04:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7D094_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações do PayPal estão caindo apesar da queda nos lucros. Aqui está o porquê.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/paypal-shares-sliding-despite-earnings-191801867.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/paypal-shares-sliding-despite-earnings-191801867.html</guid>
-      <pubDate>07/05/2026 04:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c3c38f65d91b6e34796767076672058f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
