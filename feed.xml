@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 17:19:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:20:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos em bloco mostram uma aceleração do crescimento, em uma validação potencial do enorme impulso da IA</title>
+      <description>100% dos funcionários do Block agora usam IA no trabalho, três meses após o anúncio surpreendente de demissão em massa da empresa.</description>
+      <link>https://www.marketwatch.com/story/block-earnings-show-a-growth-pickup-in-a-potential-validation-of-the-massive-ai-push-76466c8d?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/block-earnings-show-a-growth-pickup-in-a-potential-validation-of-the-massive-ai-push-76466c8d?mod=mw_rss_topstories</guid>
+      <pubDate>07/05/2026 17:20</pubDate>
+      <enclosure url="https://images.mktw.net/im-522244" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O impulso do SPX é real: essas ações podem se beneficiar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-invescos-q1-2026-revenue-beats-forecasts-stock-rises-93CH-4669515</guid>
       <pubDate>07/05/2026 16:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Plains Todos os ganhos americanos sobem à medida que a venda de NGL se aproxima</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/plains-all-american-earnings-on-deck-as-ngl-sale-nears-93CH-4669516</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/plains-all-american-earnings-on-deck-as-ngl-sale-nears-93CH-4669516</guid>
-      <pubDate>07/05/2026 16:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
