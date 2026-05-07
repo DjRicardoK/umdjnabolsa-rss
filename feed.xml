@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 13:28:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:28:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Inspired Entertainment supera as expectativas de EPS no...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-inspired-entertainment-beats-eps-expectations-in-q1-2026-93CH-4668934</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-inspired-entertainment-beats-eps-expectations-in-q1-2026-93CH-4668934</guid>
+      <pubDate>07/05/2026 13:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O robusto primeiro trimestre de 2026 da Watts Water supera as...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/haemonetics-q4-fy2026-slides-earnings-beat-caps-transformation-plan-93CH-4668563</guid>
       <pubDate>07/05/2026 11:36</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/c953ca47b9ea62777212c17dd4146c9992b6a5ccf56a1acc1bfd85a52efadc0a.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lesaka Technologies supera as expectativas de lucros do...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lesaka-technologies-beats-q3-2026-earnings-expectations-93CH-4668566</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lesaka-technologies-beats-q3-2026-earnings-expectations-93CH-4668566</guid>
-      <pubDate>07/05/2026 11:36</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
