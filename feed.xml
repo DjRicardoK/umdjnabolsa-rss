@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 16:56:44 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:00:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O melhor comércio de tecnologia do ano está escondido à vista de todos – e não, não é o Nasdaq</title>
+      <description>Enquanto Wall Street se fixa nos “Sete Magníficos”, o KOSPI da Coreia do Sul registou discretamente um ganho surpreendente de 75% desde Janeiro.</description>
+      <link>https://www.marketwatch.com/story/the-years-best-tech-trade-is-hiding-in-plain-sight-and-no-its-not-the-nasdaq-e11287c9?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/the-years-best-tech-trade-is-hiding-in-plain-sight-and-no-its-not-the-nasdaq-e11287c9?mod=mw_rss_topstories</guid>
+      <pubDate>07/05/2026 17:00</pubDate>
+      <enclosure url="https://images.mktw.net/im-38081162" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores taxas de contas do mercado monetário hoje, 6 de maio de 2026 (garantidas até 4,01% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/whats-the-secret-to-the-staying-power-of-saturday-night-live-it-was-made-for-social-media-all-along-408c7fc7?mod=mw_rss_topstories</guid>
       <pubDate>07/05/2026 16:10</pubDate>
       <enclosure url="https://images.mktw.net/im-40008792" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Fluor no convés: o pipeline em expansão pode compensar os problemas de margem?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/fluor-earnings-on-deck-can-booming-pipeline-offset-margin-woes-93CH-4669489</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/fluor-earnings-on-deck-can-booming-pipeline-offset-margin-woes-93CH-4669489</guid>
-      <pubDate>07/05/2026 16:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
