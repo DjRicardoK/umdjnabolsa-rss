@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 01:44:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 01:50:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A abertura de serviços de transporte marítimo pela Amazon pode abalar o status quo intermodal</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-opening-shipping-services-could-170000957.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-opening-shipping-services-could-170000957.html</guid>
+      <pubDate>07/05/2026 01:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/freightwaves_373/3bdee3a5fc524ece8643ec6a71bb3228" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Ecovyst Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-on-defensive-as-markets-hope-for-best-on-middle-east-4666121</guid>
       <pubDate>06/05/2026 23:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4603B_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Parcerias da Nvidia estimulam aumento em fornecedores de tecnologia asiáticos, relata Bloomberg</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-partnerships-fuel-surge-asian-141655729.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-partnerships-fuel-surge-asian-141655729.html</guid>
-      <pubDate>06/05/2026 22:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
