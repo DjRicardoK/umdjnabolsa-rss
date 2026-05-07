@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 16:01:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 16:01:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jim Cramer diz que Warren Buffett está errado sobre os investidores serem viciados em &apos;jogos de azar&apos; - eles...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-warren-buffett-091500901.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-warren-buffett-091500901.html</guid>
+      <pubDate>07/05/2026 16:01</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/85da53bda9dad7b387ba45a2f805521c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A inflação está a aumentar novamente as taxas dos títulos I. É hora de comprar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-corning-075751481.html</guid>
       <pubDate>07/05/2026 15:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/9680c304e936f001c10494591a878e1a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados da Minerva Foods no primeiro trimestre de 2026...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-minerva-foods-q1-2026-results-show-mixed-performance-93CH-4669265</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-minerva-foods-q1-2026-results-show-mixed-performance-93CH-4669265</guid>
-      <pubDate>07/05/2026 15:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
