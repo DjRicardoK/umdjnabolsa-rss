@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 09:27:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 09:30:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Truist reitera espera pelas ações da Costco, cita preocupações de avaliação</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-hold-on-costco-stock-cites-valuation-concerns-93CH-4667678</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-hold-on-costco-stock-cites-valuation-concerns-93CH-4667678</guid>
+      <pubDate>07/05/2026 09:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A inflação do México diminui para 4,45% em abril, abaixo das previsões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/china-adds-gold-reserves-for-18th-month-in-april-93CH-4666842</guid>
       <pubDate>07/05/2026 07:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Revisão da Navy Federal Credit Union (2026): serviços bancários militares de baixas taxas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/review/navy-federal-credit-union-review-152208293.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/review/navy-federal-credit-union-review-152208293.html</guid>
-      <pubDate>07/05/2026 07:23</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/cU0TkLIBCwKYBjQbWm3SOg--~B/aD0yMjUwO3c9Mjk1NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/epf-thumb-banks-navyfederal_9629.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
