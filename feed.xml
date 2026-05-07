@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 20:16:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 20:20:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Flotek (FTK) Transcrição dos ganhos do primeiro trimestre de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/flotek-ftk-q1-2026-earnings-155216349.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/flotek-ftk-q1-2026-earnings-155216349.html</guid>
+      <pubDate>07/05/2026 20:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 do SLRC</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-aptiv-145431756.html</guid>
       <pubDate>07/05/2026 19:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/0a4e1b7bda35adcf0b916f276eaef0d8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações do Airbnb?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-airbnb-145422870.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-airbnb-145422870.html</guid>
-      <pubDate>07/05/2026 19:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/204572740a783072c05b9b76dc749854" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
