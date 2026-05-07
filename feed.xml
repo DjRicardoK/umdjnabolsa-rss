@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 04:13:03 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 04:18:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Vonovia confirma orientação para 2026, apesar da queda nos lucros do primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/vonovia-confirms-2026-guidance-despite-first-quarter-earnings-decline-93CH-4666314</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/vonovia-confirms-2026-guidance-despite-first-quarter-earnings-decline-93CH-4666314</guid>
+      <pubDate>07/05/2026 04:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7D094_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações do PayPal estão caindo apesar da queda nos lucros. Aqui está o porquê.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australian-energy-stocks-slip-on-domestic-gas-reservation-plan-4666155</guid>
       <pubDate>07/05/2026 02:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE260F8_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações japonesas de chips e tecnologia aumentam à medida que os lucros da AMD despertam otimismo em IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japanese-chip-and-tech-shares-surge-as-amd-earnings-spark-ai-optimism-4666156</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japanese-chip-and-tech-shares-surge-as-amd-earnings-spark-ai-optimism-4666156</guid>
-      <pubDate>07/05/2026 02:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE040EX_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
