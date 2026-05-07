@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 19:02:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:04:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 da AtriCure (ATRC)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/atricure-atrc-q1-2026-earnings-143028601.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/atricure-atrc-q1-2026-earnings-143028601.html</guid>
+      <pubDate>07/05/2026 19:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Fabricante de vidro Corning recebe impulso da Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/7-stocks-expecting-a-post-earnings-jolt-including-applied-materials-and-cisco-systems-75ce0f33?mod=mw_rss_topstories</guid>
       <pubDate>07/05/2026 18:15</pubDate>
       <enclosure url="https://images.mktw.net/im-70060970" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Super Micro Computer no terceiro trimestre de 2026: perda de receita, aumento de ações</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-q3-2026-131352850.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-q3-2026-131352850.html</guid>
-      <pubDate>07/05/2026 18:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/68ed4590a8970cd962ab98006fb2a601" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
