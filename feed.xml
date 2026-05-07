@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 21:26:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 21:29:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs aumenta seu preço-alvo do Teradyne (TER) para US$ 350</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-price-target-125657289.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-price-target-125657289.html</guid>
+      <pubDate>06/05/2026 21:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/532998e07986162ecd8185263aa1562d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Muitos membros do conselho do BOJ viram a necessidade de aumentar as taxas se a guerra no Irã prolongar o...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-among-10-141952926.html</guid>
       <pubDate>06/05/2026 19:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8cc88197ed3c9b8a46410b5143c3d253" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE CrowdStrike (CRWD) integra Claude Opus 4.7 da Anthropic para aprimorar os recursos de IA da plataforma Falcon</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/crowdstrike-crwd-integrates-anthropic-claude-141845104.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/crowdstrike-crwd-integrates-anthropic-claude-141845104.html</guid>
-      <pubDate>06/05/2026 19:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8ba05ebc348b7cf0759201b3d935d8d8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
