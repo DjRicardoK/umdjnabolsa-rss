@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 20:22:42 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 21:18:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Light &amp; Wonder Q1 2026 mostra crescimento de receita em meio a...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-light--wonder-q1-2026-shows-revenue-growth-amid-headwinds-93CH-4666058</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-light--wonder-q1-2026-shows-revenue-growth-amid-headwinds-93CH-4666058</guid>
+      <pubDate>06/05/2026 21:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O CEO da Apple, Tim Cook, acaba de alertar que os preços das memórias continuam subindo. Essa é uma ótima...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/extreme-networks-director-edward-kennedy-sells-114m-in-stock-93CH-4665841</guid>
       <pubDate>06/05/2026 19:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs nomeia UnitedHealth (UNH) para lista de condenações e mantém preço-alvo de US$ 435</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/goldman-sachs-names-unitedhealth-unh-141149101.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/goldman-sachs-names-unitedhealth-unh-141149101.html</guid>
-      <pubDate>06/05/2026 19:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c34a56642082d17e3fa7c8675c6742b3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
