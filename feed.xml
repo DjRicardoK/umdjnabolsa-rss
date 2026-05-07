@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 05:39:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:48:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da AGCO Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/agco-corporation-q1-2026-earnings-204641636.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/agco-corporation-q1-2026-earnings-204641636.html</guid>
+      <pubDate>07/05/2026 05:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/ce682832acad00c2d1a6da82282283a9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs aumenta a meta de preço das ações da AppLovin com base no crescimento dos anúncios</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-firms-geopolitical-risks-remain-193259884.html</guid>
       <pubDate>07/05/2026 04:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/84ae0eb9df2ee375c1348da6ad2c252a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Companhia aérea Emirates registra lucro líquido recorde apesar do impacto da guerra</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/emirates-airline-posts-record-net-profit-despite-war-impact-4666319</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/emirates-airline-posts-record-net-profit-despite-war-impact-4666319</guid>
-      <pubDate>07/05/2026 04:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460BW_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
