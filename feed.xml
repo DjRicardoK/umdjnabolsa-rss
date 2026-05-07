@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 05:11:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:17:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jefferies reitera classificação das ações da AppLovin sobre a força do comércio eletrônico</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/jefferies-reiterates-applovin-stock-rating-on-ecommerce-strength-93CH-4666416</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-applovin-stock-rating-on-ecommerce-strength-93CH-4666416</guid>
+      <pubDate>07/05/2026 05:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Henkel Co KGaA AG 1º trimestre de 2026 vê aumento de ações em...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/paypal-shares-sliding-despite-earnings-191801867.html</guid>
       <pubDate>07/05/2026 04:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c3c38f65d91b6e34796767076672058f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bernstein gosta dessas duas ações de videogame japonês</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bernstein-likes-these-2-japanese-videogame-stocks-93CH-4666268</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bernstein-likes-these-2-japanese-videogame-stocks-93CH-4666268</guid>
-      <pubDate>07/05/2026 03:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
