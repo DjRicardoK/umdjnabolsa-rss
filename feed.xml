@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 05:52:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:58:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da KKR &amp; Co.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/kkr-co-inc-q1-2026-205417840.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kkr-co-inc-q1-2026-205417840.html</guid>
+      <pubDate>07/05/2026 05:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/08075e3fe1571d9ddbf5c229e4e1213d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: SBM Offshore L vê crescimento robusto da receita no primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bernstein-reiterates-uber-stock-rating-on-delivery-momentum-93CH-4666336</guid>
       <pubDate>07/05/2026 04:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wall Street está em pânico com a IA tomando o almoço das pesquisas, mas o Google acaba de aumentar a receita...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-panicking-ai-taking-193943718.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-panicking-ai-taking-193943718.html</guid>
-      <pubDate>07/05/2026 04:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ac3288324a2ac3f2fff832e265843d6d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
