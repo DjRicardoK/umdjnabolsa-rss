@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 21:43:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 21:48:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lindblad Expeditions Q1 2026 vê fortes resultados em meio a...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lindblad-expeditions-q1-2026-sees-strong-results-amid-challenges-93CH-4666085</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lindblad-expeditions-q1-2026-sees-strong-results-amid-challenges-93CH-4666085</guid>
+      <pubDate>06/05/2026 21:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Nikkei do Japão ultrapassa 61.000 pela primeira vez em termos de lucros, otimismo no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sezzle-inc-beats-q1-2026-earnings-expectations-93CH-4665870</guid>
       <pubDate>06/05/2026 19:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O CEO da Rush Street Interactive, Richard Schwartz, vende US$ 20,38 milhões em ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-richard-schwartz-sells-2038m-in-stock-93CH-4665871</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/rush-street-interactive-ceo-richard-schwartz-sells-2038m-in-stock-93CH-4665871</guid>
-      <pubDate>06/05/2026 19:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
