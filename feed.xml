@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 04:18:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 04:25:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas europeias sobem principalmente em meio a esperanças de novas negociações EUA-Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/european-stocks-tick-mostly-higher-amid-hopes-for-fresh-usiran-talks-4666322</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-tick-mostly-higher-amid-hopes-for-fresh-usiran-talks-4666322</guid>
+      <pubDate>07/05/2026 04:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF030BG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Japão continuará intervindo para defender nível de 160 por dólar, diz ex-funcionário do BOJ</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-best-software-173803784.html</guid>
       <pubDate>07/05/2026 02:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/96a4534c492de1424099eb44a8b0355d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Enquanto Wall Street busca US$ 2.000 em ações da SNDK, a Sandisk conta com novos modelos de negócios (NBMs)...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-eyes-2-000-172200838.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-eyes-2-000-172200838.html</guid>
-      <pubDate>07/05/2026 02:25</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6d6f0d1f774460c7221dbd1d36851495" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
