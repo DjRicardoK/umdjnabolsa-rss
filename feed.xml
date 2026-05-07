@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 17:55:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:55:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Talos Energy Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/talos-energy-inc-q1-2026-123000438.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/talos-energy-inc-q1-2026-123000438.html</guid>
+      <pubDate>07/05/2026 17:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/f1ee93ba6a1f2028d9773f276e564d29" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 do Uber: perda de receita, ações disparam devido à orientação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/canadian-solar-stock-may-move-11-on-earnings-next-week-93CH-4669633</guid>
       <pubDate>07/05/2026 16:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Slides do primeiro trimestre de 2026 da NN Inc: impulso do data center acelera metas de longo prazo</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/nn-inc-q1-2026-slides-data-center-push-accelerates-longterm-goals-93CH-4669636</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/nn-inc-q1-2026-slides-data-center-push-accelerates-longterm-goals-93CH-4669636</guid>
-      <pubDate>07/05/2026 16:48</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/682c4b66cda72f262690a302fdb5048394dbf33082a2c85c4d6275939aa52e7d.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
