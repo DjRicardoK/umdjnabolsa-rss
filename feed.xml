@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 08:32:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 08:47:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Tactile Systems Q1 2026 mostra forte crescimento</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-tactile-systems-q1-2026-shows-strong-growth-93CH-4667376</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tactile-systems-q1-2026-shows-strong-growth-93CH-4667376</guid>
+      <pubDate>07/05/2026 08:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise do My Banking Direct (2026): Um banco online com uma das melhores taxas de poupança disponíveis...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/far-eastone-q1-2026-slides-record-earnings-22-quarters-of-growth-93CH-4666517</guid>
       <pubDate>07/05/2026 06:11</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/10c36cb15908a7e4f92dcbf84da2fcdcc15c45e528acd807b458bca5ddf26502.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Amex Gold vs. Chase Sapphire Preferred: Dois dos melhores cartões de viagem para recompensas diárias</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/credit-cards/comparison/amex-gold-vs-chase-sapphire-preferred-203052141.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/comparison/amex-gold-vs-chase-sapphire-preferred-203052141.html</guid>
-      <pubDate>07/05/2026 06:01</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Z_83npIo2ALtwRl1ok3aAw--~B/aD02NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/american-express-gold-card-vs-chase-sapphire-preferred-card_0178.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
