@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 18:45:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:55:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição dos ganhos do Onity Group (ONIT) do primeiro trimestre de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/onity-group-onit-q1-2026-134902476.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/onity-group-onit-q1-2026-134902476.html</guid>
+      <pubDate>07/05/2026 18:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da SoundHound caem à medida que as aquisições pesam nos resultados financeiros</title>
       <description>A empresa disse que a receita teria crescido mais sem contar suas recentes aquisições, mas analistas dizem que colocaram a SoundHound em uma posição forte.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/tether-global-investments-fund-acquires-236m-in-goldcom-stock-93CH-4670105</guid>
       <pubDate>07/05/2026 18:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_six_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Coinbase se transforma em garoto-propaganda da venda de criptografia</title>
-      <description>Os lucros trimestrais da Coinbase incluem uma queda anual de 40% na receita de transações, ilustrando os efeitos de um mercado de criptografia mais fraco.</description>
-      <link>https://www.marketwatch.com/story/coinbase-turns-into-a-poster-child-for-the-crypto-selloff-89a4ce14?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/coinbase-turns-into-a-poster-child-for-the-crypto-selloff-89a4ce14?mod=mw_rss_topstories</guid>
-      <pubDate>07/05/2026 18:05</pubDate>
-      <enclosure url="https://images.mktw.net/im-796455" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
