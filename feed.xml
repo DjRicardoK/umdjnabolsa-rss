@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 06:11:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 06:11:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita da Harvia no primeiro trimestre de 2026 atinge recorde</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-harvia-q1-2026-revenue-hits-record-high-93CH-4666516</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-harvia-q1-2026-revenue-hits-record-high-93CH-4666516</guid>
+      <pubDate>07/05/2026 06:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Slides do Far EasTone Q1 2026: ganhos recordes, 22 trimestres de crescimento</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/maersk-firstquarter-profit-beats-forecasts-keeps-outlook-unchanged-4666222</guid>
       <pubDate>07/05/2026 04:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460AS_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: EG7 Q1 2026 vê queda na receita, retorno da lucratividade</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-eg7-q1-2026-sees-revenue-decline-profitability-return-93CH-4666356</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-eg7-q1-2026-sees-revenue-decline-profitability-return-93CH-4666356</guid>
-      <pubDate>07/05/2026 04:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
