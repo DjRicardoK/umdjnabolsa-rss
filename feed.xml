@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 05:11:20 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:11:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Henkel Co KGaA AG 1º trimestre de 2026 vê aumento de ações em...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-henkel-co-kgaa-ag-q1-2026-sees-stock-rise-on-strategic-acquisitions-93CH-4666409</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-henkel-co-kgaa-ag-q1-2026-sees-stock-rise-on-strategic-acquisitions-93CH-4666409</guid>
+      <pubDate>07/05/2026 05:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Stifel reitera compra de ações da Elanco Animal Health, meta de US$ 32</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bernstein-likes-these-2-japanese-videogame-stocks-93CH-4666268</guid>
       <pubDate>07/05/2026 03:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7Q0U9_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Nekkar, primeiro trimestre de 2025, vê aumento de receita e...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-nekkar-q1-2025-sees-revenue-boost-stock-dips-93CH-4666249</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nekkar-q1-2025-sees-revenue-boost-stock-dips-93CH-4666249</guid>
-      <pubDate>07/05/2026 03:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
