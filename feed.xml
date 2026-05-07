@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 09:44:36 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 09:54:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sobe após pedidos de seguro-desemprego; AI Stock Dives em ganhos (cobertura ao...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-arm-stock/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-arm-stock/?src=A00220&yptr=yahoo</guid>
+      <pubDate>07/05/2026 09:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/c17b5b65818a93054b26ab66c9c27269" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As vendas da Tesla na China aumentaram 36%. A ação se aproxima de um ponto de compra agressivo.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/quidelortho-corporation-q1-2026-earnings-002058402.html</guid>
       <pubDate>07/05/2026 08:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/752552615db1c74da5f83fb58237ac12" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon venderá Ozempic em quiosques nos EUA e oferecerá entrega no mesmo dia</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/amazon-to-carry-ozempic-at-us-kiosks-offer-sameday-delivery-4667114</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-to-carry-ozempic-at-us-kiosks-offer-sameday-delivery-4667114</guid>
-      <pubDate>07/05/2026 08:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460SP_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
