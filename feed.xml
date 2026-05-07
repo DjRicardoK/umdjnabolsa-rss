@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 17:48:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:53:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Occidental Petroleum Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/occidental-petroleum-corporation-q1-2026-123000485.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/occidental-petroleum-corporation-q1-2026-123000485.html</guid>
+      <pubDate>07/05/2026 17:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/0386ccc72cd2cc07ca7289e5b6a45015" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Slides avançados da Flower Capital do primeiro trimestre de 2026: mudança no BDC impulsiona queda nos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/mercadolibre-stock-cheap-growing-fast-buy-9f9d5144?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>07/05/2026 16:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/611d3125de9914804da3f4150da8c5ec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Klarna podem subir 13% no próximo relatório de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/klarna-stock-may-move-13-on-upcoming-earnings-report-93CH-4669627</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/klarna-stock-may-move-13-on-upcoming-earnings-report-93CH-4669627</guid>
-      <pubDate>07/05/2026 16:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
