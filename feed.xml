@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 20:45:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 20:45:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Salários reais no Japão sobem pelo terceiro mês em março, apoiando o aumento das taxas do BOJ</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/japan-real-wages-climb-for-third-month-in-march-backing-case-for-boj-rate-hike-4670555</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japan-real-wages-climb-for-third-month-in-march-backing-case-for-boj-rate-hike-4670555</guid>
+      <pubDate>07/05/2026 20:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM461QP_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Ares Commercial RE: pivô do portfólio em meio a perda de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-100-record-151725709.html</guid>
       <pubDate>07/05/2026 19:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/553713714e08964d7b30695b362ebe11" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aposentados: três ações com dividendos de alto rendimento que podem agregar muita renda passiva e reduzir o...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/retirees-3-high-yielding-dividend-152000848.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/retirees-3-high-yielding-dividend-152000848.html</guid>
-      <pubDate>07/05/2026 19:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/0f5208e536b29ff1cb9ecba6720c1994" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
