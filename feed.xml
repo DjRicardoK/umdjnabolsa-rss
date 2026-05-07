@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 13:01:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:02:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Tesla sobem à medida que os investidores recebem um novo sinal de que os altos preços da gasolina...</title>
+      <description>A Tesla e seus rivais chineses registraram vendas unitárias recordes na região no mês passado.</description>
+      <link>https://www.marketwatch.com/story/teslas-stock-rises-as-investors-get-a-fresh-sign-that-high-gas-prices-are-driving-ev-sales-75d1914a?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/teslas-stock-rises-as-investors-get-a-fresh-sign-that-high-gas-prices-are-driving-ev-sales-75d1914a?mod=mw_rss_topstories</guid>
+      <pubDate>07/05/2026 13:02</pubDate>
+      <enclosure url="https://images.mktw.net/im-99625503" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ACI Worldwide Q1 2026 supera as expectativas, as ações sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-energy-support-measures-could-strain-public-finances-fitch-warns-93CH-4668420</guid>
       <pubDate>07/05/2026 11:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC190AN_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Compass sobem 30% após os lucros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/compass-stock-surges-30-post-133000113.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/compass-stock-surges-30-post-133000113.html</guid>
-      <pubDate>07/05/2026 10:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/the_real_deal_435/64c025f792f18fc0960e538a31f9bd47" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
