@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 16:17:49 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 16:20:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação no México desacelera para 4,45% em abril, abrindo caminho para corte de taxas</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/mexico-inflation-slows-to-445-in-april-paving-way-for-rate-cut-93CH-4669543</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/mexico-inflation-slows-to-445-in-april-paving-way-for-rate-cut-93CH-4669543</guid>
+      <pubDate>07/05/2026 16:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_4_M_1440048337.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja o quanto a Nvidia ficou para trás no rali extremo de semicondutores</title>
       <description>As ações da Nvidia estão sendo negociadas quase com o maior desconto para a indústria de semicondutores em dois anos, de acordo com esta métrica.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/toast-faces-earnings-test-as-analysts-question-valuation-premium-93CH-4669361</guid>
       <pubDate>07/05/2026 15:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Peabody Energy</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/peabody-energy-q1-earnings-call-082430918.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/peabody-energy-q1-earnings-call-082430918.html</guid>
-      <pubDate>07/05/2026 15:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/f0a1cc38e006c3f259f55842d1c9ed68" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
