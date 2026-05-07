@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 15:28:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 15:29:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Toast enfrenta teste de lucros enquanto analistas questionam prêmio de avaliação</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/toast-faces-earnings-test-as-analysts-question-valuation-premium-93CH-4669361</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/toast-faces-earnings-test-as-analysts-question-valuation-premium-93CH-4669361</guid>
+      <pubDate>07/05/2026 15:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Peabody Energy</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/eli-lilly-company-lly-one-173012053.html</guid>
       <pubDate>07/05/2026 14:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/860932d32d923713fdffa5b1d444d8a3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que Comfort Systems USA (FIX) é uma das melhores ações de crescimento de compra forte para comprar agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-comfort-systems-usa-fix-173026436.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-comfort-systems-usa-fix-173026436.html</guid>
-      <pubDate>07/05/2026 14:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d65758831478114d8f9db5b451d8ae56" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
