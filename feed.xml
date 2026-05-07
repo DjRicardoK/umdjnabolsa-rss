@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 15:15:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 15:16:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A nVent é uma compra após ganhos estourados?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvent-buy-blowout-earnings-081500513.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvent-buy-blowout-earnings-081500513.html</guid>
+      <pubDate>07/05/2026 15:16</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/8de1f96374cd0bd4109a7cdbe7ca21ae" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Rave abre processo antitruste contra a Apple pela remoção de aplicativo de compartilhamento de vídeo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/nuscale-power-faces-earnings-test-on-smr-execution-93CH-4669180</guid>
       <pubDate>07/05/2026 14:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Fortune Brands sobem à medida que surgem questões de recuperação</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/fortune-brands-earnings-on-deck-as-turnaround-questions-loom-93CH-4669184</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/fortune-brands-earnings-on-deck-as-turnaround-questions-loom-93CH-4669184</guid>
-      <pubDate>07/05/2026 14:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
