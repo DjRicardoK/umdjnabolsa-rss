@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 19:36:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:40:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 da BlackLine (BL)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/blackline-bl-q1-2026-earnings-150557603.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/blackline-bl-q1-2026-earnings-150557603.html</guid>
+      <pubDate>07/05/2026 19:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Estée Lauder chega a acordo de US$ 210 milhões sobre práticas de vendas na China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/soundhounds-stock-falls-as-acquisitions-weigh-on-earnings-results-f24fc593?mod=mw_rss_topstories</guid>
       <pubDate>07/05/2026 18:45</pubDate>
       <enclosure url="https://images.mktw.net/im-74339731" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos da Kraft Heinz no primeiro trimestre de 2026 superaram as estimativas do CEO Steve Cahillane</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-q1-2026-earnings-133706513.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-q1-2026-earnings-133706513.html</guid>
-      <pubDate>07/05/2026 18:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/27ca6427f36696f1469aae7859010feb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
