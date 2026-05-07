@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 05:36:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:39:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs aumenta a meta de preço das ações da AppLovin com base no crescimento dos anúncios</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-applovin-stock-price-target-on-ad-growth-93CH-4666459</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-applovin-stock-price-target-on-ad-growth-93CH-4666459</guid>
+      <pubDate>07/05/2026 05:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: primeiro trimestre de 2026 da Ocean Sun revela dificuldades...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/emirates-airline-posts-record-net-profit-despite-war-impact-4666319</guid>
       <pubDate>07/05/2026 04:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460BW_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas europeias sobem principalmente em meio a esperanças de novas negociações EUA-Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/european-stocks-tick-mostly-higher-amid-hopes-for-fresh-usiran-talks-4666322</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-tick-mostly-higher-amid-hopes-for-fresh-usiran-talks-4666322</guid>
-      <pubDate>07/05/2026 04:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF030BG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
