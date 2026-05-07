@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 14:58:30 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 15:01:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Kinetik Holdings Q1 2026 perde previsão de EPS, estoque estável</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-kinetik-holdings-q1-2026-misses-eps-forecast-stock-steady-93CH-4669268</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kinetik-holdings-q1-2026-misses-eps-forecast-stock-steady-93CH-4669268</guid>
+      <pubDate>07/05/2026 15:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Transcrição de ganhos do primeiro trimestre de 2026 da Royal Gold (RGLD)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/siriuspoint-faces-earnings-test-after-ratings-upgrade-streak-93CH-4669066</guid>
       <pubDate>07/05/2026 14:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Schnabel, do BCE, vê risco crescente de inflação devido à guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ecbs-schnabel-sees-rising-inflation-risk-from-iran-war-4669068</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-schnabel-sees-rising-inflation-risk-from-iran-war-4669068</guid>
-      <pubDate>07/05/2026 14:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM461C4_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
