@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 14:56:13 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 14:58:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Transcrição de ganhos do primeiro trimestre de 2026 da Royal Gold (RGLD)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-q1-2026-174759350.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-q1-2026-174759350.html</guid>
+      <pubDate>07/05/2026 14:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de ganhos do primeiro trimestre da Datadog</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-schnabel-sees-rising-inflation-risk-from-iran-war-4669068</guid>
       <pubDate>07/05/2026 14:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM461C4_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do segundo trimestre de 2026 da Magnera Corp.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/magnera-corp-q2-2026-earnings-165454211.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/magnera-corp-q2-2026-earnings-165454211.html</guid>
-      <pubDate>07/05/2026 14:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/0e838c20eb0a4cb27258b07e31f52097" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
