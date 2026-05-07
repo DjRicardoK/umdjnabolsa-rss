@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 01:44:46 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 01:44:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do segundo trimestre de 2026 da Atkore Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/atkore-inc-q2-2026-earnings-164423354.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/atkore-inc-q2-2026-earnings-164423354.html</guid>
+      <pubDate>07/05/2026 01:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/b52dd64ac9aa301013bd482007be212e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Energy Transfer LP</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/data-center-earnings-sterling-everus-primoris/?src=A00220&yptr=yahoo</guid>
       <pubDate>06/05/2026 22:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/df0c8612111725016daba9a13410c15f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Baird e Bank of America aumentam metas de preços da Apple (AAPL) e veem forte crescimento à frente</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/baird-bank-america-raise-apple-140121401.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/baird-bank-america-raise-apple-140121401.html</guid>
-      <pubDate>06/05/2026 22:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bd47dc2e86b4a3086f845d200d9daf1f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
