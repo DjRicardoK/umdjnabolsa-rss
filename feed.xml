@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 22:07:49 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:07:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Kevin Hern, do primeiro distrito de Oklahoma, vende segurança corporativa da Goldman Sachs</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/kevin-hern-from-oklahomas-1st-district-sells-goldman-sachs-corporate-security-93CH-4666092</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/kevin-hern-from-oklahomas-1st-district-sells-goldman-sachs-corporate-security-93CH-4666092</guid>
+      <pubDate>06/05/2026 22:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE OCDE vê frágil recuperação na Nova Zelândia; alerta sobre energia, envelhecimento e lacunas no mercado de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-slightly-higher-middle-east-143230903.html</guid>
       <pubDate>06/05/2026 19:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/67b7103c6dca24a2cefa9c0b1e9a88a1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Amazon.com (AMZN) é uma das melhores ações da Blue Chip para investir, de acordo com os bilionários?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-one-best-142240791.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-one-best-142240791.html</guid>
-      <pubDate>06/05/2026 19:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
