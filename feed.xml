@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 15:07:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 15:08:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro GAAP da AEP no primeiro trimestre de 2026 aumenta 9%, para US$ 874 milhões</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/aep-q1-2026-gaap-earnings-081147642.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/aep-q1-2026-gaap-earnings-081147642.html</guid>
+      <pubDate>07/05/2026 15:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/power_technology_866/ecccc161039c0da717a4a8fc304db550" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da Corning subirão ou afundarão?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/billcom-earnings-on-deck-as-analysts-eye-ai-automation-payoff-93CH-4669135</guid>
       <pubDate>07/05/2026 14:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Assured Guaranty deve reportar lucros em meio a queda acentuada de receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/assured-guaranty-set-to-report-earnings-amid-steep-revenue-drop-93CH-4669137</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/assured-guaranty-set-to-report-earnings-amid-steep-revenue-drop-93CH-4669137</guid>
-      <pubDate>07/05/2026 14:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
