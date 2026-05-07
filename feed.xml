@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 07:23:36 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 07:26:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE China adiciona reservas de ouro pelo 18º mês em abril</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/china-adds-gold-reserves-for-18th-month-in-april-93CH-4666842</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/china-adds-gold-reserves-for-18th-month-in-april-93CH-4666842</guid>
+      <pubDate>07/05/2026 07:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Revisão da Navy Federal Credit Union (2026): serviços bancários militares de baixas taxas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-119-4666445</guid>
       <pubDate>07/05/2026 05:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE310G7_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jefferies reitera classificação das ações da AppLovin sobre a força do comércio eletrônico</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/jefferies-reiterates-applovin-stock-rating-on-ecommerce-strength-93CH-4666416</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-applovin-stock-rating-on-ecommerce-strength-93CH-4666416</guid>
-      <pubDate>07/05/2026 05:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
