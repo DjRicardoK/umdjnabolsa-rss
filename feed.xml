@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 13:28:24 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:28:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os próximos ganhos da BioLife Solutions à medida que o teste de lucratividade se aproxima</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/biolife-solutions-earnings-up-next-as-profitability-test-looms-93CH-4668932</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/biolife-solutions-earnings-up-next-as-profitability-test-looms-93CH-4668932</guid>
+      <pubDate>07/05/2026 13:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Amphastar sobem à medida que o lançamento de um novo medicamento se aproxima</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/algm-stock-allegro-microsystems-fiscal-q4-2026-earnings/?src=A00220&yptr=yahoo</guid>
       <pubDate>07/05/2026 11:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/0cb1cc3c4d12aee4feb09b689974ccd6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Apple batem recorde antes das notícias da WWDC</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/apple-stock-notches-record-high-ahead-of-wwdc-2026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/apple-stock-notches-record-high-ahead-of-wwdc-2026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>07/05/2026 11:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/ec536e5f5e284e091623a459aa169386" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
