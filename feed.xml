@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 04:38:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 04:45:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Visa Canada e Wealthsimple lançam piloto de liquidação de USDC no Canadá</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/visa-canada-wealthsimple-launch-usdc-194800005.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/visa-canada-wealthsimple-launch-usdc-194800005.html</guid>
+      <pubDate>07/05/2026 04:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/27c7d24780aaf9a5ebdfc763e0ce7fb9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bernstein reitera classificação das ações da Uber sobre impulso de entrega</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-rips-semiconductor-rally-wall-180109617.html</guid>
       <pubDate>07/05/2026 03:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/a3c2c747600c533be8e4bd2b73ddf950" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dow Jones Tech Titan Apple é lançado; AI Chipmaker Broadcom na zona de compra</title>
-      <description></description>
-      <link>https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-aapl-stock-avgo-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-aapl-stock-avgo-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>07/05/2026 03:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/38bb43646d34ca8c049f0e7edaedc419" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
