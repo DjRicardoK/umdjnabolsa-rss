@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 19:58:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 20:01:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do primeiro trimestre de 2026 do Banco Itaú Chile...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-banco-itau-chiles-q1-2026-results-miss-expectations-93CH-4670468</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-banco-itau-chiles-q1-2026-results-miss-expectations-93CH-4670468</guid>
+      <pubDate>07/05/2026 20:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Global Net Lease Q1 2026 mostra perda de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/want-beat-market-start-3-144605537.html</guid>
       <pubDate>07/05/2026 19:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/a17778b38a7f3cf9628286ff707bef4f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nvidia investirá até US$ 2,1 bilhões na IREN como parte do acordo de data center de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/nvidia-to-invest-up-to-21-billion-in-iren-as-part-of-ai-data-center-deal-4670343</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-to-invest-up-to-21-billion-in-iren-as-part-of-ai-data-center-deal-4670343</guid>
-      <pubDate>07/05/2026 19:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM461P0_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
