@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 18:08:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:12:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Serviços de liquidez superam as previsões do segundo trimestre...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-liquidity-services-beats-q2-2026-forecasts-shares-rise-93CH-4670134</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-liquidity-services-beats-q2-2026-forecasts-shares-rise-93CH-4670134</guid>
+      <pubDate>07/05/2026 18:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fundo Tether Global Investments adquire US$ 23,6 milhões em ações da Gold.com</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/spx-momentum-real-stocks-could-120005254.html</guid>
       <pubDate>07/05/2026 17:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/schaeffers_investment_research_24/c7bad32a87801795376cd5342625dbaa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os relatórios de ganhos do CoreWeave geralmente trazem volatilidade. Aqui está o que procurar nos resultados...</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/coreweave-stock-crwv-coreweave-earnings-preview-q12026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/coreweave-stock-crwv-coreweave-earnings-preview-q12026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>07/05/2026 17:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/081a1d55637c262063d3a3494e2f0bea" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
