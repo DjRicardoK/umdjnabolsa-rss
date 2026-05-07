@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 15:16:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 15:28:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Eversource: superação dos lucros mascara ventos contrários...</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/eversource-q1-2026-slides-earnings-beat-masks-regulatory-headwinds-93CH-4669359</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/eversource-q1-2026-slides-earnings-beat-masks-regulatory-headwinds-93CH-4669359</guid>
+      <pubDate>07/05/2026 15:28</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/0a0e74fb2caf2d84493a6bee931ea1306512949b6ab893d246bd3f196ff2c066.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A nVent é uma compra após ganhos estourados?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cirrus-logic-crus-q4-2026-173555763.html</guid>
       <pubDate>07/05/2026 14:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nuscale Power enfrenta teste de ganhos na execução de SMR</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/nuscale-power-faces-earnings-test-on-smr-execution-93CH-4669180</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/nuscale-power-faces-earnings-test-on-smr-execution-93CH-4669180</guid>
-      <pubDate>07/05/2026 14:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
