@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 10:43:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:45:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lucros sólidos da Gladstone Capital no segundo trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-gladstone-capitals-q2-2026-solid-earnings-boost-stock-93CH-4668320</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-gladstone-capitals-q2-2026-solid-earnings-boost-stock-93CH-4668320</guid>
+      <pubDate>07/05/2026 10:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, Nasdaq sobem enquanto o petróleo bruto cai à espera da atualização do...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-hold-on-costco-stock-cites-valuation-concerns-93CH-4667678</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-hold-on-costco-stock-cites-valuation-concerns-93CH-4667678</guid>
       <pubDate>07/05/2026 09:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação do México diminui para 4,45% em abril, abaixo das previsões</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/mexicos-inflation-eases-to-445-in-april-below-forecasts-93CH-4667651</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/mexicos-inflation-eases-to-445-in-april-below-forecasts-93CH-4667651</guid>
-      <pubDate>07/05/2026 09:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
