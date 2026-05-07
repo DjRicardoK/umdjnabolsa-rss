@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 02:25:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:34:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A Microsoft Corporation (MSFT) é o melhor estoque de infraestrutura de software para comprar agora?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-best-software-173803784.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-best-software-173803784.html</guid>
+      <pubDate>07/05/2026 02:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/96a4534c492de1424099eb44a8b0355d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Enquanto Wall Street busca US$ 2.000 em ações da SNDK, a Sandisk conta com novos modelos de negócios (NBMs)...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-surges-strong-162128836.html</guid>
       <pubDate>07/05/2026 01:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/928fee4ed8ebd1f95596ab330e63279c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Ásia sobem com as esperanças de paz no Irã; Nikkei sobe mais de 5% para recorde</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-surge-on-iran-peace-hopes-nikkei-rallies-over-5-to-record-high-4666136</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-surge-on-iran-peace-hopes-nikkei-rallies-over-5-to-record-high-4666136</guid>
-      <pubDate>07/05/2026 00:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB5N00I_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
