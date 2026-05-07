@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 23:26:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 23:47:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro amplia ganhos com esperanças de acordo de paz com o Irã e dólar mais fraco</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-extends-gains-on-iran-peace-deal-hopes-weaker-dollar-4666123</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-extends-gains-on-iran-peace-deal-hopes-weaker-dollar-4666123</guid>
+      <pubDate>06/05/2026 23:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8N174_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas asiáticas atingem máxima recorde, dólar oscila com esperanças de acordo de paz</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/acadia-q1-2026-slides-revenue-rises-11-despite-earnings-miss-93CH-4665940</guid>
       <pubDate>06/05/2026 20:04</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/19a9c041d46c640949d24c48f4e7249a5e9830fb3f07a827ba4f2f5d8d115ba8.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações Nucleares CCJ, BWXT Test Buy Points On Earnings; Exija &apos;aquecimento&apos;</title>
-      <description></description>
-      <link>https://www.investors.com/news/nuclear-stocks-cameco-bwxt-q1-earnings-uuuu/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/nuclear-stocks-cameco-bwxt-q1-earnings-uuuu/?src=A00220&yptr=yahoo</guid>
-      <pubDate>06/05/2026 19:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/526b2efecc13c7f4b7993f417701c8bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
