@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 17:33:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:37:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Essas 15 ações são negociadas como os nomes de tecnologia mais populares – mas ainda estão sob o radar</title>
+      <description>Há anos que os especialistas de Wall Street têm falado sobre o “comércio de IA”. Mas exatamente a que eles estão se referindo nem sempre é claro.</description>
+      <link>https://www.marketwatch.com/story/these-15-stocks-trade-like-the-hottest-tech-names-but-theyre-still-under-the-radar-d44cc776?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/these-15-stocks-trade-like-the-hottest-tech-names-but-theyre-still-under-the-radar-d44cc776?mod=mw_rss_topstories</guid>
+      <pubDate>07/05/2026 17:37</pubDate>
+      <enclosure url="https://images.mktw.net/im-90346835" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Wakefern reestrutura suas operações de vendas e marketing, impactando 79 empregos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-blackstone-stock-095551050.html</guid>
       <pubDate>07/05/2026 16:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/af303b9996e4f581da34b0cff81d4da4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE IAU retornou 42% em um ano de inflação rígida. Veja por que os alocadores estão reconsiderando o ouro</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/iau-returned-42-sticky-inflation-093023101.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/iau-returned-42-sticky-inflation-093023101.html</guid>
-      <pubDate>07/05/2026 16:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/2fbe2c8024783b5d2615c74bc2d6516e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
