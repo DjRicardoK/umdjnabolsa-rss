@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 09:56:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 09:57:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: HMH Holding no primeiro trimestre de 2026 vê queda de 14% na...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-hmh-holding-q1-2026-sees-14-revenue-dip-stock-rises-93CH-4667923</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hmh-holding-q1-2026-sees-14-revenue-dip-stock-rises-93CH-4667923</guid>
+      <pubDate>07/05/2026 09:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Polestar Q1 2026 revela perdas crescentes e mudanças...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/kevin-warshs-undisclosed-wealth-leaves-a-100-million-mystery-atop-the-federal-reserve-19f0dc78?mod=mw_rss_topstories</guid>
       <pubDate>07/05/2026 08:56</pubDate>
       <enclosure url="https://images.mktw.net/im-16661578" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Tactile Systems Q1 2026 mostra forte crescimento</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-tactile-systems-q1-2026-shows-strong-growth-93CH-4667376</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tactile-systems-q1-2026-shows-strong-growth-93CH-4667376</guid>
-      <pubDate>07/05/2026 08:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
