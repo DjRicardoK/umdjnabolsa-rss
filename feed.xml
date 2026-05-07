@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 19:45:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:55:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 da Marriott Vacations Worldwide perdem, mantém perspectiva</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/marriott-vacations-worldwide-q1-2026-151528853.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/marriott-vacations-worldwide-q1-2026-151528853.html</guid>
+      <pubDate>07/05/2026 19:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/quartz_855/fc673271b597fcf0380cac6b8652c27e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Se você ainda está comprando ETFs de ouro para se proteger contra a inflação, pare</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-06-2026/card/glass-manufacturer-corning-gets-a-boost-from-nvidia-uKdB0q6frApgkh14T4pm?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>07/05/2026 19:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/adf54df77fb301eea0149e90338ad87f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Grupo de investidores insta a SEC a examinar minuciosamente o pedido de IPO da SpaceX e evitar conflitos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/investor-group-urges-sec-scrutinize-140230816.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/investor-group-urges-sec-scrutinize-140230816.html</guid>
-      <pubDate>07/05/2026 18:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/545a58c0c092e390a22ed1e577dc00ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
