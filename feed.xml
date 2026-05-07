@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 02:18:32 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:18:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações japonesas de chips e tecnologia aumentam à medida que os lucros da AMD despertam otimismo em IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/japanese-chip-and-tech-shares-surge-as-amd-earnings-spark-ai-optimism-4666156</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japanese-chip-and-tech-shares-surge-as-amd-earnings-spark-ai-optimism-4666156</guid>
+      <pubDate>07/05/2026 02:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE040EX_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China pode tentar ‘manobrar’ sobre questão de Taiwan na reunião de Trump, diz autoridade</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/china-asks-banks-to-pause-new-loans-to-ussanctioned-refiners-bloomberg-news-reports-4666129</guid>
       <pubDate>07/05/2026 00:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4603V_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Orica no primeiro trimestre de 2026 registra lucro recorde,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-orica-q1-2026-sees-record-earnings-stock-rises-578-93CH-4666127</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-orica-q1-2026-sees-record-earnings-stock-rises-578-93CH-4666127</guid>
-      <pubDate>07/05/2026 00:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
