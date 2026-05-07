@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 19:33:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:33:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Aptiv?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-aptiv-145431756.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-aptiv-145431756.html</guid>
+      <pubDate>07/05/2026 19:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0a4e1b7bda35adcf0b916f276eaef0d8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações do Airbnb?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/uranium-specialist-nexgen-stock-big-135309232.html</guid>
       <pubDate>07/05/2026 18:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/2570bd70c443947a48f093105731365e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Nvidia ficam para trás à medida que grandes rivais da tecnologia entram em seu território</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-facing-more-competition-spooking-110128235.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-facing-more-competition-spooking-110128235.html</guid>
-      <pubDate>07/05/2026 18:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/f9efa5bfa5144af0ae8f6e2c08c0c1e7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
