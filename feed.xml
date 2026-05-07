@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 01:31:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 01:35:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 do Pediatrix Medical Group, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/pediatrix-medical-group-inc-q1-164440116.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/pediatrix-medical-group-inc-q1-164440116.html</guid>
+      <pubDate>07/05/2026 01:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/e7f8c361827482eca311f534b9c00567" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da GLOBALFOUNDRIES Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-price-target-125657289.html</guid>
       <pubDate>06/05/2026 21:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/532998e07986162ecd8185263aa1562d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Muitos membros do conselho do BOJ viram a necessidade de aumentar as taxas se a guerra no Irã prolongar o...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/many-boj-board-members-saw-need-to-raise-rates-if-iran-war-prolongs-energy-shock-minutes-show-4666070</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/many-boj-board-members-saw-need-to-raise-rates-if-iran-war-prolongs-energy-shock-minutes-show-4666070</guid>
-      <pubDate>06/05/2026 21:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4600E_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
