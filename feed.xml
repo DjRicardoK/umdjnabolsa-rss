@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 05:36:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:36:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: primeiro trimestre de 2026 da Ocean Sun revela dificuldades...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ocean-suns-q1-2026-reveals-financial-strain-93CH-4666449</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ocean-suns-q1-2026-reveals-financial-strain-93CH-4666449</guid>
+      <pubDate>07/05/2026 05:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da AMG Critical Materials sobem com queda nos lucros do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-stocks-tick-mostly-higher-amid-hopes-for-fresh-usiran-talks-4666322</guid>
       <pubDate>07/05/2026 04:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF030BG_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Japão continuará intervindo para defender nível de 160 por dólar, diz ex-funcionário do BOJ</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/japan-to-keep-intervening-to-defend-160perdollar-level-exboj-official-says-4666313</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japan-to-keep-intervening-to-defend-160perdollar-level-exboj-official-says-4666313</guid>
-      <pubDate>07/05/2026 04:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460EX_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
