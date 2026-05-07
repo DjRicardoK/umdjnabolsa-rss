@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 19:08:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:08:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar cai com otimismo Guerra EUA-Irã chegando ao fim</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-tumbles-optimism-us-iran-143517845.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-tumbles-optimism-us-iran-143517845.html</guid>
+      <pubDate>07/05/2026 19:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/23377ff3d8976e5204c5ede618c2a9da" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que saber enquanto a Alphabet parece preparada para ultrapassar a Nvidia como a maior empresa do mundo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-centene-131541093.html</guid>
       <pubDate>07/05/2026 18:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/7574b4cbcee7a7803ad8681ff6e417c9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Como os investidores perderam 89% nas apostas contra a China – mesmo quando suas previsões estavam corretas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/options/articles/investors-lost-89-betting-against-131120258.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/investors-lost-89-betting-against-131120258.html</guid>
-      <pubDate>07/05/2026 18:16</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/5b3938324ea1938a6ea67e2e836b255f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
