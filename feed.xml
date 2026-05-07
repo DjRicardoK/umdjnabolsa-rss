@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 17:32:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:32:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Esta lenda dos fundos de hedge acaba de alertar os investidores para não perseguirem a alta das ações....</title>
+      <description>Paul Tudor Jones disse que o boom da IA ​​​​poderia durar mais um ou dois anos e 40% mais vantagens.</description>
+      <link>https://www.marketwatch.com/story/this-hedge-fund-legend-just-warned-investors-not-to-chase-stocks-higher-why-he-is-investing-in-ai-anyway-1bbad5f1?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/this-hedge-fund-legend-just-warned-investors-not-to-chase-stocks-higher-why-he-is-investing-in-ai-anyway-1bbad5f1?mod=mw_rss_topstories</guid>
+      <pubDate>07/05/2026 17:32</pubDate>
+      <enclosure url="https://images.mktw.net/im-73499954" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE CVS Health aumenta orientação para 2026 após queda nos lucros do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/southern-company-stock-wall-street-103923312.html</guid>
       <pubDate>07/05/2026 16:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/895b13a6e0142c4f0101415316d1b222" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O mercado de ações pode ter um problema com o Federal Reserve com Kevin Warsh substituindo Jerome Powell</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stock-market-may-federal-problem-090800990.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-market-may-federal-problem-090800990.html</guid>
-      <pubDate>07/05/2026 16:21</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/8ba2a43b78256459334568db6e14d5f5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
