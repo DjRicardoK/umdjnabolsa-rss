@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 17:53:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:55:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do primeiro trimestre de 2026 do Uber: perda de receita, ações disparam devido à orientação</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/uber-q1-2026-earnings-revenue-122812847.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/uber-q1-2026-earnings-revenue-122812847.html</guid>
+      <pubDate>07/05/2026 17:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/quartz_855/63244e6f6aa514674c2521b50319a23f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Par Pacific Holdings, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/nn-inc-q1-2026-slides-data-center-push-accelerates-longterm-goals-93CH-4669636</guid>
       <pubDate>07/05/2026 16:48</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/682c4b66cda72f262690a302fdb5048394dbf33082a2c85c4d6275939aa52e7d.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Atlanticus Holdings atingem o máximo de 52 semanas a 80,42 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/atlanticus-holdings-stock-reaches-52week-high-at-8042-usd-93CH-4669615</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/atlanticus-holdings-stock-reaches-52week-high-at-8042-usd-93CH-4669615</guid>
-      <pubDate>07/05/2026 16:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
