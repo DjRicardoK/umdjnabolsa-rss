@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 00:37:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 01:13:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Keysight Technologies (KEYS) surge com fortes ganhos e demanda impulsionada por IA em mercados de alto...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-surges-strong-162128836.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/keysight-technologies-keys-surges-strong-162128836.html</guid>
+      <pubDate>07/05/2026 01:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/928fee4ed8ebd1f95596ab330e63279c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Ásia sobem com as esperanças de paz no Irã; Nikkei sobe mais de 5% para recorde</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/us-president-trumps-renewed-trade-war-with-china-4665970</guid>
       <pubDate>06/05/2026 20:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM451MH_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os lucros da Purecycle Technologies no primeiro trimestre de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-purecycle-technologies-q1-2026-earnings-beat-eps-but-miss-revenue-93CH-4665962</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-purecycle-technologies-q1-2026-earnings-beat-eps-but-miss-revenue-93CH-4665962</guid>
-      <pubDate>06/05/2026 20:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
