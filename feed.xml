@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 22:37:18 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:42:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE AI Data Center Builder relata ganhos extraordinários. As ações em libras esterlinas disparam.</title>
+      <description></description>
+      <link>https://www.investors.com/news/data-center-earnings-sterling-everus-primoris/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/data-center-earnings-sterling-everus-primoris/?src=A00220&yptr=yahoo</guid>
+      <pubDate>06/05/2026 22:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/df0c8612111725016daba9a13410c15f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Baird e Bank of America aumentam metas de preços da Apple (AAPL) e veem forte crescimento à frente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-invesco-144746732.html</guid>
       <pubDate>06/05/2026 19:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/e274ac0cff2a57f6659f611a62e8a6c6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Produção de xisto para caminhadas da Diamondback Energy. As ações do petróleo derrapam nos lucros.</title>
-      <description></description>
-      <link>https://www.investors.com/news/oil-stocks-buy-points-energy-earnings-diamondback-tidewater-transocean/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/oil-stocks-buy-points-energy-earnings-diamondback-tidewater-transocean/?src=A00220&yptr=yahoo</guid>
-      <pubDate>06/05/2026 19:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/695672237b4e618909a1ddd7160ac4b4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
