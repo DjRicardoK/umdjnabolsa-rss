@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 04:57:08 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:00:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jefferies corta classificação das ações da Quidel devido a preocupações com visibilidade de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/jefferies-cuts-quidel-stock-rating-on-earnings-visibility-concerns-93CH-4666360</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-cuts-quidel-stock-rating-on-earnings-visibility-concerns-93CH-4666360</guid>
+      <pubDate>07/05/2026 05:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: os resultados do primeiro trimestre de 2026 da SK Telecom mostram...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-vs-amd-why-risk-183326199.html</guid>
       <pubDate>07/05/2026 03:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/fa34ffabb30933c9de6fa5fe37361c9d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O ouro é barato a US$ 4.550 por onça?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/gold-inexpensive-4-550-per-190002125.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-inexpensive-4-550-per-190002125.html</guid>
-      <pubDate>07/05/2026 03:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4f3a8c8e2c711d60018ecc87c4de49ab" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
