@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 18:36:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:42:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nvidia ficam para trás à medida que grandes rivais da tecnologia entram em seu território</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-facing-more-competition-spooking-110128235.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-facing-more-competition-spooking-110128235.html</guid>
+      <pubDate>07/05/2026 18:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/f9efa5bfa5144af0ae8f6e2c08c0c1e7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE AMD sobe 14%: Q1 Crusher, Q2 Guide Lift, Goldman $ 450 Price Target Ignite AI Frenzy</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/uber-q1-2026-earnings-revenue-122812847.html</guid>
       <pubDate>07/05/2026 17:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/quartz_855/63244e6f6aa514674c2521b50319a23f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Par Pacific Holdings, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/par-pacific-holdings-inc-q1-123000586.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/par-pacific-holdings-inc-q1-123000586.html</guid>
-      <pubDate>07/05/2026 17:53</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/5e8c68a6f4d739e3dd1adaf58803c1b2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
