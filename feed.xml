@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 18:29:04 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:29:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Centuri Holdings perde previsão de EPS do primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-centuri-holdings-misses-q1-2026-eps-forecast-93CH-4670220</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-centuri-holdings-misses-q1-2026-eps-forecast-93CH-4670220</guid>
+      <pubDate>07/05/2026 18:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ring Energy Inc. Q1 2026 supera as expectativas, ações caem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/occidental-petroleum-corporation-q1-2026-123000485.html</guid>
       <pubDate>07/05/2026 17:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/0386ccc72cd2cc07ca7289e5b6a45015" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides avançados da Flower Capital do primeiro trimestre de 2026: mudança no BDC impulsiona queda nos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/advanced-flower-capital-q1-2026-slides-bdc-shift-drives-earnings-beat-93CH-4670014</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/advanced-flower-capital-q1-2026-slides-bdc-shift-drives-earnings-beat-93CH-4670014</guid>
-      <pubDate>07/05/2026 17:47</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/d55d773453bcfc20a343c4d1d448cbcdae346717fd5ffe4817b4a4ed6a0f245c.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
