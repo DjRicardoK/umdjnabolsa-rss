@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 22:48:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 23:26:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar na defensiva enquanto os mercados esperam melhor no Médio Oriente</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/dollar-on-defensive-as-markets-hope-for-best-on-middle-east-4666121</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-on-defensive-as-markets-hope-for-best-on-middle-east-4666121</guid>
+      <pubDate>06/05/2026 23:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4603B_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Parcerias da Nvidia estimulam aumento em fornecedores de tecnologia asiáticos, relata Bloomberg</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/coinbase-layoffs-crypto-bros-down-150200172.html</guid>
       <pubDate>06/05/2026 19:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/798cd35c8d218cc02852c3a7067a364e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Qual é a taxa média de juros para contas poupança?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/average-interest-rate-savings-accounts-203543195.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/average-interest-rate-savings-accounts-203543195.html</guid>
-      <pubDate>06/05/2026 19:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bankrate_626/5b76b3d83343bbbd80a1636369c0fb38" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
