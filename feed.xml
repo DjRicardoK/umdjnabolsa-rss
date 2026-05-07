@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 18:42:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:43:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos da Kraft Heinz no primeiro trimestre de 2026 superaram as estimativas do CEO Steve Cahillane</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-q1-2026-earnings-133706513.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-q1-2026-earnings-133706513.html</guid>
+      <pubDate>07/05/2026 18:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/quartz_855/27ca6427f36696f1469aae7859010feb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Trade Desk caem à medida que os lucros sugerem que os problemas da empresa estão se intensificando</title>
       <description>O crescimento desacelerou ainda mais no último trimestre, enquanto o lucro ficou aquém das expectativas.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/much-software-apocalypse-atlassian-stock-130002980.html</guid>
       <pubDate>07/05/2026 18:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/29ad0f819813becdac71a3f4005619a5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Inter Parfums, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/inter-parfums-inc-q1-2026-123000157.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/inter-parfums-inc-q1-2026-123000157.html</guid>
-      <pubDate>07/05/2026 17:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/afebc5151562f00efea5819f65ff19f5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
