@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 10:22:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:25:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon.com (AMZN) é a melhor ação de compra forte do S&amp;P 500 para investir?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-best-strong-131211762.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-best-strong-131211762.html</guid>
+      <pubDate>07/05/2026 10:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/200db36b3627d8c0741a12874b6a7da4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os americanos estão se comportando como se estivessem em uma recessão, alerta este famoso fabricante de...</title>
       <description>As ações da Whirlpool estão afundando à medida que os clientes reduzem drasticamente as compras de eletrodomésticos discricionários.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/unity-software-u-leveraging-ai-120257442.html</guid>
       <pubDate>07/05/2026 09:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f38df8518ec52a370ced65ea074985a9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE VCI Global assina termo de compromisso para investimento em mineração de ouro no Brasil</title>
-      <description></description>
-      <link>https://www.investing.com/news/cryptocurrency-news/vci-global-signs-term-sheet-for-brazil-gold-mining-investment-432SI-4667573</link>
-      <guid isPermaLink="false">https://www.investing.com/news/cryptocurrency-news/vci-global-signs-term-sheet-for-brazil-gold-mining-investment-432SI-4667573</guid>
-      <pubDate>07/05/2026 09:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE1J1IK_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
