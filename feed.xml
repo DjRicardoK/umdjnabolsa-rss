@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 02:46:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:55:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Intel salta enquanto a Apple explora acordo com chips. Veja como você deve jogar com ações da INTC agora, de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/intel-jumps-apple-explores-chip-175823923.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-jumps-apple-explores-chip-175823923.html</guid>
+      <pubDate>07/05/2026 02:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fa34ffabb30933c9de6fa5fe37361c9d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O estoque da Unity Software caiu quase 40% no acumulado do ano, mas Wedbush está batendo na mesa antes dos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-senators-urge-stability-cooperation-between-us-china-4666143</guid>
       <pubDate>07/05/2026 01:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4606H_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump vê fim rápido da guerra enquanto Irã analisa proposta de paz dos EUA</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/trump-sees-swift-end-to-war-as-iran-reviews-us-peace-proposal-4666139</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/trump-sees-swift-end-to-war-as-iran-reviews-us-peace-proposal-4666139</guid>
-      <pubDate>07/05/2026 01:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM46065_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
