@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 14:08:07 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 14:08:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE SiriusPoint enfrenta teste de ganhos após sequência de atualização de classificações</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/siriuspoint-faces-earnings-test-after-ratings-upgrade-streak-93CH-4669066</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/siriuspoint-faces-earnings-test-after-ratings-upgrade-streak-93CH-4669066</guid>
+      <pubDate>07/05/2026 14:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Schnabel, do BCE, vê risco crescente de inflação devido à guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/is-now-a-good-time-to-lock-in-your-mortgage-rate-heres-what-to-know-68af7d76?mod=mw_rss_topstories</guid>
       <pubDate>07/05/2026 13:05</pubDate>
       <enclosure url="https://images.mktw.net/im-91128803" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Tesla sobem à medida que os investidores recebem um novo sinal de que os altos preços da gasolina...</title>
-      <description>A Tesla e seus rivais chineses registraram vendas unitárias recordes na região no mês passado.</description>
-      <link>https://www.marketwatch.com/story/teslas-stock-rises-as-investors-get-a-fresh-sign-that-high-gas-prices-are-driving-ev-sales-75d1914a?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/teslas-stock-rises-as-investors-get-a-fresh-sign-that-high-gas-prices-are-driving-ev-sales-75d1914a?mod=mw_rss_topstories</guid>
-      <pubDate>07/05/2026 13:02</pubDate>
-      <enclosure url="https://images.mktw.net/im-99625503" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
