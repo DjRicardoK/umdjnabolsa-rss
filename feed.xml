@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 09:39:52 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 09:39:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco central tcheco mantém taxas em 3,50% em meio a tensões no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/czech-central-bank-holds-rates-at-350-amid-middle-east-tensions-93CH-4667778</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/czech-central-bank-holds-rates-at-350-amid-middle-east-tensions-93CH-4667778</guid>
+      <pubDate>07/05/2026 09:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Principais ações de bancos da zona euro a serem observadas à medida que o crescimento dos empréstimos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/canadian-dollar-forecasts-more-bullish-as-geopolitical-risk-ebbs-4666949</guid>
       <pubDate>07/05/2026 07:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460R7_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Primo Brands caem 2%, apesar dos lucros serem superados devido às preocupações com as margens</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/primo-brands-stock-falls-2-despite-earnings-beat-on-margin-concerns-93CH-4666911</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/primo-brands-stock-falls-2-despite-earnings-beat-on-margin-concerns-93CH-4666911</guid>
-      <pubDate>07/05/2026 07:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
