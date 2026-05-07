@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 19:04:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:08:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que saber enquanto a Alphabet parece preparada para ultrapassar a Nvidia como a maior empresa do mundo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/know-alphabet-looks-poised-overtake-143330425.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-alphabet-looks-poised-overtake-143330425.html</guid>
+      <pubDate>07/05/2026 19:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/92ef183c42026825f0de825fd26975b4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 da AtriCure (ATRC)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/investors-lost-89-betting-against-131120258.html</guid>
       <pubDate>07/05/2026 18:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/5b3938324ea1938a6ea67e2e836b255f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 7 ações que esperam uma sacudida pós-lucro – incluindo Applied Materials e Cisco Systems</title>
-      <description>Os investidores do S&amp;P 500 estão avançando – e os indicadores de alta do mercado abrem o caminho.</description>
-      <link>https://www.marketwatch.com/story/7-stocks-expecting-a-post-earnings-jolt-including-applied-materials-and-cisco-systems-75ce0f33?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/7-stocks-expecting-a-post-earnings-jolt-including-applied-materials-and-cisco-systems-75ce0f33?mod=mw_rss_topstories</guid>
-      <pubDate>07/05/2026 18:15</pubDate>
-      <enclosure url="https://images.mktw.net/im-70060970" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
