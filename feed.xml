@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 23:47:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 00:00:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Orica no primeiro trimestre de 2026 registra lucro recorde,...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-orica-q1-2026-sees-record-earnings-stock-rises-578-93CH-4666127</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-orica-q1-2026-sees-record-earnings-stock-rises-578-93CH-4666127</guid>
+      <pubDate>07/05/2026 00:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ouro amplia ganhos com esperanças de acordo de paz com o Irã e dólar mais fraco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tech-stock-strength-lifts-nasdaq-151403622.html</guid>
       <pubDate>06/05/2026 20:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/296aa26cf8632bccf12902b2274fa108" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da ACADIA: receita aumenta 11% apesar da perda de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/acadia-q1-2026-slides-revenue-rises-11-despite-earnings-miss-93CH-4665940</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/acadia-q1-2026-slides-revenue-rises-11-despite-earnings-miss-93CH-4665940</guid>
-      <pubDate>06/05/2026 20:04</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/19a9c041d46c640949d24c48f4e7249a5e9830fb3f07a827ba4f2f5d8d115ba8.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
