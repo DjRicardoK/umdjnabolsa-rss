@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 13:28:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 13:30:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 5 razões pelas quais as ações estão subindo diante de um choque no preço do petróleo</title>
+      <description>As ações dos EUA caíram na quinta-feira, mas ainda subiram durante a semana, com o S&amp;P 500 prestes a ultrapassar 7.400 pela primeira vez.</description>
+      <link>https://www.marketwatch.com/story/5-reasons-stocks-are-rallying-in-the-face-of-an-oil-price-shock-dd217b7e?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/5-reasons-stocks-are-rallying-in-the-face-of-an-oil-price-shock-dd217b7e?mod=mw_rss_topstories</guid>
+      <pubDate>07/05/2026 13:30</pubDate>
+      <enclosure url="https://images.mktw.net/im-28641878" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os próximos ganhos da BioLife Solutions à medida que o teste de lucratividade se aproxima</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/nuclear-stock-earnings-vistra-nuscale-energy-fuels-oklo-nano-nuclear/?src=A00220&yptr=yahoo</guid>
       <pubDate>07/05/2026 11:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/c2fe2e07e344889b85f693f263c0543b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Allegro MicroSystems caem apesar do relatório de ganhos Beat-and-Raise</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/algm-stock-allegro-microsystems-fiscal-q4-2026-earnings/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/algm-stock-allegro-microsystems-fiscal-q4-2026-earnings/?src=A00220&yptr=yahoo</guid>
-      <pubDate>07/05/2026 11:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/0cb1cc3c4d12aee4feb09b689974ccd6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
