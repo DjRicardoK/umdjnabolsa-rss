@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 03:35:30 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 03:44:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar cai com a manutenção do cessar-fogo no Oriente Médio</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/yen-steady-dollar-firms-middle-011132956.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/yen-steady-dollar-firms-middle-011132956.html</guid>
+      <pubDate>07/05/2026 03:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/99c4e1e40be1cdf303eac9a57b18ede7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Intel vs AMD: Por que a recompensa pelo risco é distorcida a favor das ações da Intel</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ecovyst-inc-q1-2026-earnings-164448435.html</guid>
       <pubDate>07/05/2026 01:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/c8115f36cc7355ac25dcf7112118bd97" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do segundo trimestre de 2026 da Atkore Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/atkore-inc-q2-2026-earnings-164423354.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/atkore-inc-q2-2026-earnings-164423354.html</guid>
-      <pubDate>07/05/2026 01:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/b52dd64ac9aa301013bd482007be212e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
