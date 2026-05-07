@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 04:18:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 04:18:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Japão continuará intervindo para defender nível de 160 por dólar, diz ex-funcionário do BOJ</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/japan-to-keep-intervening-to-defend-160perdollar-level-exboj-official-says-4666313</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japan-to-keep-intervening-to-defend-160perdollar-level-exboj-official-says-4666313</guid>
+      <pubDate>07/05/2026 04:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460EX_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Vonovia confirma orientação para 2026, apesar da queda nos lucros do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-eyes-2-000-172200838.html</guid>
       <pubDate>07/05/2026 02:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/6d6f0d1f774460c7221dbd1d36851495" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de energia australianas caem com plano de reserva de gás doméstico</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/australian-energy-stocks-slip-on-domestic-gas-reservation-plan-4666155</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australian-energy-stocks-slip-on-domestic-gas-reservation-plan-4666155</guid>
-      <pubDate>07/05/2026 02:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE260F8_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
