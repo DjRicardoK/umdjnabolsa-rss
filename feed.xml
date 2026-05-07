@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 19:58:09 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:58:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Global Net Lease Q1 2026 mostra perda de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-global-net-lease-q1-2026-shows-earnings-miss-93CH-4670461</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-global-net-lease-q1-2026-shows-earnings-miss-93CH-4670461</guid>
+      <pubDate>07/05/2026 19:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os ganhos da Lifetime Brands no primeiro trimestre de 2026...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-to-invest-up-to-21-billion-in-iren-as-part-of-ai-data-center-deal-4670343</guid>
       <pubDate>07/05/2026 19:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM461P0_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição de ganhos do terceiro trimestre de 2026 da PFGC</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/pfgc-q3-2026-earnings-transcript-144045396.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/pfgc-q3-2026-earnings-transcript-144045396.html</guid>
-      <pubDate>07/05/2026 19:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
