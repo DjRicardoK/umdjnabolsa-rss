@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 04:01:58 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 04:05:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Microsoft Corp (MSFT) são mais atraentes após o relatório do terceiro trimestre?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-corp-msft-stock-more-190133418.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-corp-msft-stock-more-190133418.html</guid>
+      <pubDate>08/05/2026 04:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/652806cf1ea1389eb1245ed67846307e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE NVIDIA Corp (NVDA) investe na Legora. O que está conseguindo?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-stock-just-hit-record-180439860.html</guid>
       <pubDate>08/05/2026 02:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/296aa26cf8632bccf12902b2274fa108" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O momento de IA da AMD pode ser maior do que os investidores da Nvidia imaginam</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amd-ai-moment-may-bigger-175430728.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amd-ai-moment-may-bigger-175430728.html</guid>
-      <pubDate>08/05/2026 02:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4c15b8783b36dc6f04eafb43e1cd26dc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
