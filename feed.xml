@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 10:44:20 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:44:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da LivaNova atingem alta de 52 semanas a 71,97 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/livanova-stock-hits-52week-high-at-7197-usd-93CH-4672888</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/livanova-stock-hits-52week-high-at-7197-usd-93CH-4672888</guid>
+      <pubDate>08/05/2026 10:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Wall St abre em alta após dados de emprego e recuperação de chips</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-fall-on-renewed-iran-hostilities-nonfarm-payrolls-awaited-4670580</guid>
       <pubDate>08/05/2026 09:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6M0LI_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: PCBL Chemical Q4 2026 perde lucro por ação, ações sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-pcbl-chemical-q4-2026-misses-eps-stock-rises-93CH-4672595</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pcbl-chemical-q4-2026-misses-eps-stock-rises-93CH-4672595</guid>
-      <pubDate>08/05/2026 09:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
