@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 13:43:44 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 13:46:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Espera-se que Trump acelere novas tarifas depois que um tribunal federal de comércio derrubou seu último plano</title>
+      <description>Wall Street e Washington não viram a última das tarifas de Trump.</description>
+      <link>https://www.marketwatch.com/story/trump-is-expected-to-fast-track-new-tariffs-after-a-federal-trade-court-struck-his-latest-plan-down-abc63914?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/trump-is-expected-to-fast-track-new-tariffs-after-a-federal-trade-court-struck-his-latest-plan-down-abc63914?mod=mw_rss_topstories</guid>
+      <pubDate>08/05/2026 13:46</pubDate>
+      <enclosure url="https://images.mktw.net/im-26474880" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Como ajudar seu filho na transição para a idade adulta financeira</title>
       <description>Também em leituras de fim de semana: Um mercado de ações surpreendente, empregos contrários à tendência da IA, o ciclo da Micron e conselhos do Moneyist.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-goolsbee-says-job-market-stable-amid-inflation-concerns--cnbc-93CH-4673408</guid>
       <pubDate>08/05/2026 12:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_M_1440048891.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Cloudflare cortará mais de 1.100 empregos na última dispensa de IA. As ações caem.</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/cloudflare-stock-layoffs-ai-jobs/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/cloudflare-stock-layoffs-ai-jobs/?src=A00220&yptr=yahoo</guid>
-      <pubDate>08/05/2026 12:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/72f2c99800c858ad85ff1709c2a4890e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
