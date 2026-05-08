@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 03:46:55 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 03:51:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Commerzbank cortará 3.000 empregos e atualiza metas enquanto se defende da aquisição do UniCredit</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/commerzbank-to-cut-3000-jobs-upgrades-targets-as-it-fends-off-unicredit-takeover-4671116</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/commerzbank-to-cut-3000-jobs-upgrades-targets-as-it-fends-off-unicredit-takeover-4671116</guid>
+      <pubDate>08/05/2026 03:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4707O_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Super Micro Computer dispara após queda nos lucros. Aqui está o que vem a seguir para as ações SMCI.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/toyota-sees-20-drop-in-annual-profit-as-iran-war-weighs-4671053</guid>
       <pubDate>08/05/2026 02:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM47075_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Você pode não conhecer este estoque de chips focado na China, mas os analistas globais da Seaport não...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/may-not-know-1-china-173648162.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/may-not-know-1-china-173648162.html</guid>
-      <pubDate>08/05/2026 02:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b3c3513950ae550c77ed9af92c4858ac" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
