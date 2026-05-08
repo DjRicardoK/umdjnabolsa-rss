@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 05:07:58 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:11:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Flowco: forte fluxo de caixa compensa perda de ganhos</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/flowco-q1-2026-slides-strong-cash-flow-offsets-earnings-miss-93CH-4671213</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/flowco-q1-2026-slides-strong-cash-flow-offsets-earnings-miss-93CH-4671213</guid>
+      <pubDate>08/05/2026 05:11</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/69b7884901c7ca8b368b8738e308017296c9344184abc53e8897f7945b9ca571.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O primeiro trimestre de 2026 da Nepa mostra aumento da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/youre-iphone-user-could-95-192807866.html</guid>
       <pubDate>08/05/2026 04:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/la_times_articles_853/9e4ac06e1581494049aab48d7192c551" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Antes dos ganhos do Airbnb, aqui está o que os dados de opções do gráfico de barras mostram para as ações da...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/options/articles/ahead-airbnb-earnings-barchart-options-192537354.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/ahead-airbnb-earnings-barchart-options-192537354.html</guid>
-      <pubDate>08/05/2026 04:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/204572740a783072c05b9b76dc749854" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
