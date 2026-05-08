@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 10:15:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:15:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE TDS supera estimativas de ganhos com ganhos na venda de espectro</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/tds-beats-earnings-estimates-on-spectrum-sale-gains-93CH-4672690</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/tds-beats-earnings-estimates-on-spectrum-sale-gains-93CH-4672690</guid>
+      <pubDate>08/05/2026 10:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Mitsubishi Corp. Q4 2026 supera as expectativas de lucros</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/needham-raises-unity-software-stock-price-target-on-vector-growth-93CH-4672559</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/needham-raises-unity-software-stock-price-target-on-vector-growth-93CH-4672559</guid>
       <pubDate>08/05/2026 09:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bernstein destaca ações de luxo mais fortes em meio à recuperação da China</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bernstein-highlights-strongest-luxury-plays-amid-china-recovery-93CH-4672442</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bernstein-highlights-strongest-luxury-plays-amid-china-recovery-93CH-4672442</guid>
-      <pubDate>08/05/2026 09:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
