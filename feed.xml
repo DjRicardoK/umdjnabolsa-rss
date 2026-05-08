@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 05:14:46 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:18:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Bioventus Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/bioventus-inc-q1-2026-earnings-204859613.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/bioventus-inc-q1-2026-earnings-204859613.html</guid>
+      <pubDate>08/05/2026 05:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/d571f58a458ceb6cf26cde29fd0a13a7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aumento de ações devido a ganhos robustos de tecnologia e esperanças de paz EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/treasury-bonds-quarterly-refunding-3ab6bf51?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>08/05/2026 04:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/32d9264a89c45507bbedc1d46ab0f5c2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação ao consumidor da Índia em abril provavelmente subiu para 3,8%, à medida que os custos mais...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/indias-april-consumer-inflation-likely-rose-to-38-as-higher-fuel-costs-weigh-4671168</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/indias-april-consumer-inflation-likely-rose-to-38-as-higher-fuel-costs-weigh-4671168</guid>
-      <pubDate>08/05/2026 04:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470E4_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
