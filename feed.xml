@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 09:59:58 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:00:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Interface Inc. supera previsão de EPS do primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-interface-inc-beats-q1-2026-eps-forecast-stock-surges-93CH-4672692</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-interface-inc-beats-q1-2026-eps-forecast-stock-surges-93CH-4672692</guid>
+      <pubDate>08/05/2026 10:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Porsche cortará mais de 500 empregos e fechará três subsidiárias</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/doordash-inc-q1-2026-earnings-002228923.html</guid>
       <pubDate>08/05/2026 09:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/05e26becc4313e5b57ab2e7d9bc24c74" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Core Scientific, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/core-scientific-inc-q1-2026-002133041.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/core-scientific-inc-q1-2026-002133041.html</guid>
-      <pubDate>08/05/2026 09:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/eade112b2c73212c0120dd0942d3e4f1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
