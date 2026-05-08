@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 22:27:17 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:30:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE AdaptHealth (AHCO) Transcrição de ganhos do primeiro trimestre de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/adapthealth-ahco-q1-2026-earnings-132800297.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/adapthealth-ahco-q1-2026-earnings-132800297.html</guid>
+      <pubDate>07/05/2026 22:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE ‘Diferente de tudo nos últimos 80 anos de domínio do dólar’: as sanções dos EUA estimulam um ‘paradoxo’ que...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/bill-gates-owns-billions-secret-122618535.html</guid>
       <pubDate>07/05/2026 21:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/7db56d446befcc0c62035ea0ee63b3cb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE American States Water Slides do primeiro trimestre de 2026: lucros superam aumentos de taxas</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/american-states-water-q1-2026-slides-earnings-beat-on-rate-hikes-93CH-4670636</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/american-states-water-q1-2026-slides-earnings-beat-on-rate-hikes-93CH-4670636</guid>
-      <pubDate>07/05/2026 21:29</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/d9436656174dcace7297442afbb83b9f2d5ac0be3cf1e2356f00894e19d05d21.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
