@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 13:16:17 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 13:16:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Embraer no primeiro trimestre de 2026 registra receita recorde...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-embraer-q1-2026-sees-record-revenue-stock-dips-93CH-4673460</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-embraer-q1-2026-sees-record-revenue-stock-dips-93CH-4673460</guid>
+      <pubDate>08/05/2026 13:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas do Reino Unido caem no fechamento do pregão; Investing.com Reino Unido 100 caiu 0,36%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-private-credit-fund-cuts-value-by-37-4673322</guid>
       <pubDate>08/05/2026 12:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA610DS_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do Bitcoin e do Ethereum hoje, sexta-feira, 8 de maio de 2026: Preços mantidos após forte relatório de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-8-2026-prices-holding-following-strong-jobs-report-113214250.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-may-8-2026-prices-holding-following-strong-jobs-report-113214250.html</guid>
-      <pubDate>08/05/2026 12:18</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/g2FYNRdQidSyHITH_Hia0Q--~B/aD0zNzc7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_2_9860.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
