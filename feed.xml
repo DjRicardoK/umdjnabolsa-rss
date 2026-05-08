@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 04:51:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 04:51:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar cai com esperança de acordo EUA-Irã; iene sobe em meio a rumores de intervenção</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/dollar-eases-us-iran-deal-010122690.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/dollar-eases-us-iran-deal-010122690.html</guid>
+      <pubDate>08/05/2026 04:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/f8cc02ce2622e4422e871c17d9091c7b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE LivaNova (LIVN) Transcrição dos ganhos do segundo trimestre de 2025</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-corp-nvda-invests-legora-190142923.html</guid>
       <pubDate>08/05/2026 04:01</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a9806e13e3b923bb3edb704c9b5e47a3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Um passo em frente que os investidores em ações da TSMC (TSM) não devem perder</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/step-forward-tsmc-tsm-stock-190210693.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/step-forward-tsmc-tsm-stock-190210693.html</guid>
-      <pubDate>08/05/2026 04:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
