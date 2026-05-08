@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 07:09:40 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:15:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 do DoorDash (DASH)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/doordash-dash-q1-2026-earnings-221120644.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/doordash-dash-q1-2026-earnings-221120644.html</guid>
+      <pubDate>08/05/2026 07:15</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Powell Industries (POWL) – Entre as 10 ações de dividendos com melhor desempenho até agora em 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wallbox-n-v-q1-2026-205811590.html</guid>
       <pubDate>08/05/2026 05:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/dd0456de0c31eb752d8b85c75d1af709" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Timken Company</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/timken-company-q1-2026-earnings-205746619.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/timken-company-q1-2026-earnings-205746619.html</guid>
-      <pubDate>08/05/2026 05:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/e5db95edee6f7ffdaff4c421c4567723" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
