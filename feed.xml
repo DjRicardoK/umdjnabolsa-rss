@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 01:41:39 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 01:46:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Slides do terceiro trimestre do ano fiscal de 2026 da IREN: expansão de IA de 5GW apesar da perda de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/iren-q3-fy2026-slides-5gw-ai-expansion-despite-earnings-miss-93CH-4671031</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/iren-q3-fy2026-slides-5gw-ai-expansion-despite-earnings-miss-93CH-4671031</guid>
+      <pubDate>08/05/2026 01:46</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/28f0c52bf6ea1ba3c7f2d3e8e1db3f049eb52df8d86804fb5641e0a8024b6ff7.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Littelfuse, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-republic-services-beats-q1-2026-forecasts-with-robust-growth-93CH-4670957</guid>
       <pubDate>08/05/2026 00:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Líderes do Sudeste Asiático buscam estratégia para aliviar os impactos da guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/southeast-asian-leaders-seek-strategy-to-ease-impacts-of-iran-war-4670959</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/southeast-asian-leaders-seek-strategy-to-ease-impacts-of-iran-war-4670959</guid>
-      <pubDate>08/05/2026 00:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4704R_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
