@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 09:39:18 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:39:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Zevra Therapeutics, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/zevra-therapeutics-inc-q1-2026-003159083.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/zevra-therapeutics-inc-q1-2026-003159083.html</guid>
+      <pubDate>08/05/2026 09:39</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/aa0eb2c3f28f77c1a4beea3b67342038" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da NerdWallet, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/just-graduated-heres-your-financial-cheat-sheet-for-building-real-wealth-963f30dc?mod=mw_rss_topstories</guid>
       <pubDate>08/05/2026 09:01</pubDate>
       <enclosure url="https://images.mktw.net/im-90503624" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Forte relatório de empregos da ADP de abril esconde grande mudança no emprego nos EUA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/strong-april-adp-jobs-report-233700664.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/strong-april-adp-jobs-report-233700664.html</guid>
-      <pubDate>08/05/2026 08:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/ecd97308983279841af40b7ff95d4c85" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
