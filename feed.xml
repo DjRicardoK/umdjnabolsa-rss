@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 07:24:33 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:27:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Sony e Nintendo enfrentam aumento no preço da memória enquanto o boom da IA ​​restringe a oferta</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/sony-nintendo-grapple-with-memory-price-surge-as-ai-boom-constrains-supply-4671655</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/sony-nintendo-grapple-with-memory-price-surge-as-ai-boom-constrains-supply-4671655</guid>
+      <pubDate>08/05/2026 07:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470LE_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Flutter (FLUT) Transcrição dos ganhos do primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-set-for-weekly-rise-on-usiran-peace-prospects-hormuz-tensions-cap-gains-4671060</guid>
       <pubDate>08/05/2026 05:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB880JW_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dólar cai antes de relatório de emprego</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/asia-fx-dips-dollar-firms-as-traders-assess-fragile-usiran-ceasefire-4670886</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-dips-dollar-firms-as-traders-assess-fragile-usiran-ceasefire-4670886</guid>
-      <pubDate>08/05/2026 05:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE2C0N2_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
