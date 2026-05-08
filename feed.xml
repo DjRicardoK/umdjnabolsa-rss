@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 07:27:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:30:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 Fastly (FSLY)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-q1-2026-earnings-222719308.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-q1-2026-earnings-222719308.html</guid>
+      <pubDate>08/05/2026 07:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Meloni encontra Rubio enquanto a guerra no Irã prejudica as relações Itália-EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pitney-bowes-213113953.html</guid>
       <pubDate>08/05/2026 05:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/abab480430dd5ba00b085fa693b6cd31" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Core Scientific caem 9% à medida que nenhum novo acordo de IA/HPC se materializa: ganhos do...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/core-scientific-shares-tumble-9-213326684.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/core-scientific-shares-tumble-9-213326684.html</guid>
-      <pubDate>08/05/2026 05:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/blockspace_702/241aa6526ea0e58be4f71049fbf122ce" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
