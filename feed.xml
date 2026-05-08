@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 16:50:13 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:59:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que a Bloom Energy (BE) está classificada entre as ações de média capitalização que estão em alta no...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-ranks-among-095945838.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-bloom-energy-ranks-among-095945838.html</guid>
+      <pubDate>08/05/2026 16:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b6ddf6ed38266fd7e2ceb879b3f063f7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Allied Gold Corporation (AAUC) se aproxima da fusão da Zijin Gold</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-082600458.html</guid>
       <pubDate>08/05/2026 15:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/004bfe21217164eef8b4f888a4a819fc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A IA é “absolutamente inútil” para prever a inflação. Este modelo comprovado é 12 vezes mais preciso.</title>
-      <description>Uma ferramenta de “baixa tecnologia” do Fed de Cleveland supera consistentemente a IA generativa, que tem lutado para fornecer previsões fiáveis.</description>
-      <link>https://www.marketwatch.com/story/ai-is-absolutely-useless-at-forecasting-inflation-this-proven-model-is-12-times-more-accurate-d176f411?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/ai-is-absolutely-useless-at-forecasting-inflation-this-proven-model-is-12-times-more-accurate-d176f411?mod=mw_rss_topstories</guid>
-      <pubDate>08/05/2026 15:13</pubDate>
-      <enclosure url="https://images.mktw.net/im-75159877" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
