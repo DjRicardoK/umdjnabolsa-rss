@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 21:46:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 21:50:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações sobem, petróleo afunda com esperanças de acordo EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/stocks-rise-oil-sinks-hopes-124211852.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/stocks-rise-oil-sinks-hopes-124211852.html</guid>
+      <pubDate>07/05/2026 21:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/quartz_855/73104e21dbf342ed206e514b5d22bd11" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Fox Factory supera as previsões do primeiro trimestre de 2026,...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://finance.yahoo.com/markets/stocks/articles/mayville-mec-q1-2026-earnings-155551304.html</link>
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mayville-mec-q1-2026-earnings-155551304.html</guid>
       <pubDate>07/05/2026 20:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Flotek (FTK) Transcrição dos ganhos do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/flotek-ftk-q1-2026-earnings-155216349.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/flotek-ftk-q1-2026-earnings-155216349.html</guid>
-      <pubDate>07/05/2026 20:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
