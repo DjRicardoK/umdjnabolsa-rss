@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 03:51:24 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 04:01:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Um passo em frente que os investidores em ações da TSMC (TSM) não devem perder</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/step-forward-tsmc-tsm-stock-190210693.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/step-forward-tsmc-tsm-stock-190210693.html</guid>
+      <pubDate>08/05/2026 04:01</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/dcf08a9dbb7c3de961dd78d32a01adf8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Commerzbank cortará 3.000 empregos e atualiza metas enquanto se defende da aquisição do UniCredit</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-proact-it-group-q1-2026-earnings-beat-expectations-93CH-4671054</guid>
       <pubDate>08/05/2026 02:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Toyota vê queda de 20% no lucro anual com peso da guerra no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/toyota-sees-20-drop-in-annual-profit-as-iran-war-weighs-4671053</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/toyota-sees-20-drop-in-annual-profit-as-iran-war-weighs-4671053</guid>
-      <pubDate>08/05/2026 02:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM47075_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
