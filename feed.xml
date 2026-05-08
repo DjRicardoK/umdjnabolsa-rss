@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 09:47:08 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:50:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os futuros de ações dos EUA sobem à medida que os dados de emprego de abril foram mais fortes do que o...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/us-stock-futures-fall-on-renewed-iran-hostilities-nonfarm-payrolls-awaited-4670580</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-fall-on-renewed-iran-hostilities-nonfarm-payrolls-awaited-4670580</guid>
+      <pubDate>08/05/2026 09:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6M0LI_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: PCBL Chemical Q4 2026 perde lucro por ação, ações sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-10q-graniteshares-gold-trust-for-8-may-93CH-4672451</guid>
       <pubDate>08/05/2026 09:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Angel Studios no primeiro trimestre de 2026 vê aumento de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-angel-studios-q1-2026-sees-143-revenue-surge-93CH-4672453</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-angel-studios-q1-2026-sees-143-revenue-surge-93CH-4672453</guid>
-      <pubDate>08/05/2026 09:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
