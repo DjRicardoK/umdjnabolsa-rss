@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 23:21:58 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 23:27:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: DXC Technology Q4 2026 supera EPS, ações sobem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-dxc-technology-q4-2026-beats-eps-stock-rises-93CH-4670847</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dxc-technology-q4-2026-beats-eps-stock-rises-93CH-4670847</guid>
+      <pubDate>07/05/2026 23:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Charlie Kirk disse que a China tem mais de 192 mil acres de terras nos EUA em seu portfólio, mas continua...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dropbox-beats-q1-2026-expectations-shares-rise-93CH-4670755</guid>
       <pubDate>07/05/2026 22:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Guerra do Irã para acelerar a mudança da China para caminhões elétricos a diesel</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/iran-war-to-accelerate-chinas-shift-to-electric-trucks-from-diesel-4666463</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/iran-war-to-accelerate-chinas-shift-to-electric-trucks-from-diesel-4666463</guid>
-      <pubDate>07/05/2026 22:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460JP_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
