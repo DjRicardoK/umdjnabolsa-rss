@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 02:46:26 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 02:46:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os lucros do primeiro trimestre da Krones caem à medida que o fluxo de caixa oscila para prejuízo; metas...</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/krones-q1-earnings-dip-as-cash-flow-swings-to-loss-targets-confirmed-4671058</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/krones-q1-earnings-dip-as-cash-flow-swings-to-loss-targets-confirmed-4671058</guid>
+      <pubDate>08/05/2026 02:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE7G0MD_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Empréstimos bancários da China em abril devem despencar em meio à fraca demanda de crédito: pesquisa da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/iren-q3-fy2026-slides-5gw-ai-expansion-despite-earnings-miss-93CH-4671031</guid>
       <pubDate>08/05/2026 01:46</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/28f0c52bf6ea1ba3c7f2d3e8e1db3f049eb52df8d86804fb5641e0a8024b6ff7.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Littelfuse, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/littelfuse-inc-q1-2026-earnings-165347740.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/littelfuse-inc-q1-2026-earnings-165347740.html</guid>
-      <pubDate>08/05/2026 01:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/83a26408cd35cddaea048801c866f74d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
