@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 12:18:30 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:27:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fundo de crédito privado do Goldman Sachs corta valor em 3,7%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-private-credit-fund-cuts-value-by-37-4673322</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-private-credit-fund-cuts-value-by-37-4673322</guid>
+      <pubDate>08/05/2026 12:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA610DS_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do Bitcoin e do Ethereum hoje, sexta-feira, 8 de maio de 2026: Preços mantidos após forte relatório de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-exzeo-stock-after-firstquarter-results-93CH-4673029</guid>
       <pubDate>08/05/2026 11:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros futuros da Fox Corp: Tubi pode compensar o declínio da transmissão?</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/fox-corp-earnings-ahead-can-tubi-offset-broadcast-decline-93CH-4673030</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/fox-corp-earnings-ahead-can-tubi-offset-broadcast-decline-93CH-4673030</guid>
-      <pubDate>08/05/2026 11:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
