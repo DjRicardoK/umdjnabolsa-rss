@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 11:00:44 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:08:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Nvidia (NVDA) é a melhor escolha de ações de IA de Cathie Wood em 2026?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-best-ai-stock-135048532.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-best-ai-stock-135048532.html</guid>
+      <pubDate>08/05/2026 11:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9fe1eca18d2db7bd57aab4fd48404fcc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Truist reitera compra de ações da Exzeo após resultados do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mitsubishi-corp-q4-2026-beats-earnings-expectations-93CH-4672691</guid>
       <pubDate>08/05/2026 10:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE EUA criam 115 mil empregos acima do esperado em abril, taxa de desemprego estável em 4,3%</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-job-growth-in-april-comes-in-higher-than-expected-4672363</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-job-growth-in-april-comes-in-higher-than-expected-4672363</guid>
-      <pubDate>08/05/2026 10:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBAN0PW_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
