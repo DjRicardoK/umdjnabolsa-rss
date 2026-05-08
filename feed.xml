@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 15:13:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:18:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O sucessor de Warren Buffett, Greg Abel, parece ter vendido ações do Bank of America pelo 7º trimestre...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-082600458.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-082600458.html</guid>
+      <pubDate>08/05/2026 15:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/004bfe21217164eef8b4f888a4a819fc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A IA é “absolutamente inútil” para prever a inflação. Este modelo comprovado é 12 vezes mais preciso.</title>
       <description>Uma ferramenta de “baixa tecnologia” do Fed de Cleveland supera consistentemente a IA generativa, que tem lutado para fornecer previsões fiáveis.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/got-50-000-why-amazon-170800604.html</guid>
       <pubDate>08/05/2026 14:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/90de908ea8a6061efcf62ef44798160f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Resultados do Dividendo Decisivo do primeiro trimestre de 2026...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-decisive-dividend-q1-2026-results-reveal-earnings-miss-93CH-4673615</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-decisive-dividend-q1-2026-results-reveal-earnings-miss-93CH-4673615</guid>
-      <pubDate>08/05/2026 14:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
