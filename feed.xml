@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 04:11:05 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 04:17:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE EUA suspeitam que chips Nvidia foram contrabandeados para o Alibaba via Tailândia, informa a Bloomberg News</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/us-suspects-nvidia-chips-smuggled-to-alibaba-via-thailand-bloomberg-news-reports-4671165</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-suspects-nvidia-chips-smuggled-to-alibaba-via-thailand-bloomberg-news-reports-4671165</guid>
+      <pubDate>08/05/2026 04:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470D5_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs aumenta meta de preço das ações da Peloton com aumento de orientação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-helios-towers-q1-2026-reveals-robust-growth-93CH-4671063</guid>
       <pubDate>08/05/2026 02:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os lucros do primeiro trimestre da Krones caem à medida que o fluxo de caixa oscila para prejuízo; metas...</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/krones-q1-earnings-dip-as-cash-flow-swings-to-loss-targets-confirmed-4671058</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/krones-q1-earnings-dip-as-cash-flow-swings-to-loss-targets-confirmed-4671058</guid>
-      <pubDate>08/05/2026 02:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE7G0MD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
