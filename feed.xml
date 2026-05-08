@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 03:46:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 03:46:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Super Micro Computer dispara após queda nos lucros. Aqui está o que vem a seguir para as ações SMCI.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-soars-earnings-184740150.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-soars-earnings-184740150.html</guid>
+      <pubDate>08/05/2026 03:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/eb4085ccd3348b6836c0f2bce71e8d65" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A tecnologia Spotify (SPOT) é uma das melhores ações da Fortune 500 para comprar, de acordo com analistas?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/may-not-know-1-china-173648162.html</guid>
       <pubDate>08/05/2026 02:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b3c3513950ae550c77ed9af92c4858ac" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O ETF SPDR Gold Shares está se tornando um comércio lotado que os investidores inteligentes devem evitar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/spdr-gold-shares-etf-becoming-172500835.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/spdr-gold-shares-etf-becoming-172500835.html</guid>
-      <pubDate>08/05/2026 02:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/36b0d7125a3cd4e7fc8ef5051b3c93ba" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
