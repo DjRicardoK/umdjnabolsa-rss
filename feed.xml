@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 06:01:18 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 06:01:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Jyske Bank Q1 2026 perde previsões, quedas de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-jyske-bank-q1-2026-misses-forecasts-stock-dips-93CH-4671375</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-jyske-bank-q1-2026-misses-forecasts-stock-dips-93CH-4671375</guid>
+      <pubDate>08/05/2026 06:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Hexagon Composites no primeiro trimestre de 2026 vê queda nas...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/livanova-plc-q1-2026-earnings-205248802.html</guid>
       <pubDate>08/05/2026 05:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/376a3e5452aceab84bd8f0373d0601de" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ondo, JPMorgan, Mastercard e Ripple completam resgate transfronteiriço de títulos do Tesouro</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/ondo-jpmorgan-mastercard-ripple-complete-205151599.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/ondo-jpmorgan-mastercard-ripple-complete-205151599.html</guid>
-      <pubDate>08/05/2026 05:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/5365da3a8055d65c0e9e60e386820f7a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
