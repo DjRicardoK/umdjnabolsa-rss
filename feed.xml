@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 03:40:16 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 03:46:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A tecnologia Spotify (SPOT) é uma das melhores ações da Fortune 500 para comprar, de acordo com analistas?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/spotify-technology-spot-one-best-184840131.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/spotify-technology-spot-one-best-184840131.html</guid>
+      <pubDate>08/05/2026 03:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6fa5dde141419709d56c47bdfd31493f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Sinal: as ações da Eli Lilly continuam sendo uma “compra” após os lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/spdr-gold-shares-etf-becoming-172500835.html</guid>
       <pubDate>08/05/2026 02:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/36b0d7125a3cd4e7fc8ef5051b3c93ba" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: True Corp vê crescimento no lucro líquido no primeiro trimestre...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-true-corp-sees-growth-in-net-profit-in-q1-2026-93CH-4671050</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-true-corp-sees-growth-in-net-profit-in-q1-2026-93CH-4671050</guid>
-      <pubDate>08/05/2026 02:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
