@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 12:54:35 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:54:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goolsbee, do Fed, diz que mercado de trabalho está estável em meio a preocupações com inflação - CNBC</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/feds-goolsbee-says-job-market-stable-amid-inflation-concerns--cnbc-93CH-4673408</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-goolsbee-says-job-market-stable-amid-inflation-concerns--cnbc-93CH-4673408</guid>
+      <pubDate>08/05/2026 12:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_M_1440048891.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cloudflare cortará mais de 1.100 empregos na última dispensa de IA. As ações caem.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/diversified-11-asset-portfolio-outperformed-143500027.html</guid>
       <pubDate>08/05/2026 11:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/b8126bb32b410a9d0f4e2537d6a3842b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Cytek (CTKB) Transcrição da teleconferência de resultados do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/cytek-ctkb-q1-2026-earnings-143237631.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cytek-ctkb-q1-2026-earnings-143237631.html</guid>
-      <pubDate>08/05/2026 11:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
