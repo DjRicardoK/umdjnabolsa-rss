@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 04:48:34 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 04:48:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: KLA Q3 2026 supera as previsões, mas as ações caem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-kla-q3-2026-beats-forecasts-but-stock-dips-93CH-4671196</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kla-q3-2026-beats-forecasts-but-stock-dips-93CH-4671196</guid>
+      <pubDate>08/05/2026 04:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O primeiro trimestre de 2026 da Aker ASA mostra forte...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/spotify-technology-spot-one-best-184840131.html</guid>
       <pubDate>08/05/2026 03:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6fa5dde141419709d56c47bdfd31493f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Sinal: as ações da Eli Lilly continuam sendo uma “compra” após os lucros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/signal-eli-lilly-stock-remains-184452719.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/signal-eli-lilly-stock-remains-184452719.html</guid>
-      <pubDate>08/05/2026 03:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/schaeffers_investment_research_24/c7e3c9289ff185b1f8842d6a039f52ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
