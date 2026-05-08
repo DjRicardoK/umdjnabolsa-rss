@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 12:31:33 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:38:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações nigerianas sobem 66% à medida que as reformas de Tinubu aumentam a confiança dos investidores</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/nigerian-stocks-surge-66-as-tinubu-reforms-boost-investor-confidence-93CH-4673366</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/nigerian-stocks-surge-66-as-tinubu-reforms-boost-investor-confidence-93CH-4673366</guid>
+      <pubDate>08/05/2026 12:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Este é o comércio de ‘herói’ que funciona se o Tesouro reestruturar radicalmente a dívida, de acordo com...</title>
       <description>O “rei das obrigações” pôs em acção um plano de troca de obrigações há alguns anos, quando vê o agravamento dos problemas de financiamento do governo dos EUA.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/marex-group-stock-hits-alltime-high-at-5472-usd-93CH-4673070</guid>
       <pubDate>08/05/2026 11:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que as ações da Microsoft subiram 10,2% no mês passado e continuaram subindo em maio</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-microsoft-stock-soared-10-140720001.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-microsoft-stock-soared-10-140720001.html</guid>
-      <pubDate>08/05/2026 11:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/4ad0be26fd53f33ccb09fa0dc1c4596f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
