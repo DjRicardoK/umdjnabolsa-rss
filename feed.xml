@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 05:49:38 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:55:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar cai antes de relatório de emprego</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/asia-fx-dips-dollar-firms-as-traders-assess-fragile-usiran-ceasefire-4670886</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-dips-dollar-firms-as-traders-assess-fragile-usiran-ceasefire-4670886</guid>
+      <pubDate>08/05/2026 05:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE2C0N2_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As perspectivas da State Street para 2026 expõem por que a maioria dos investidores ainda está subponderada...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/flowco-q1-2026-slides-strong-cash-flow-offsets-earnings-miss-93CH-4671213</guid>
       <pubDate>08/05/2026 05:11</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/69b7884901c7ca8b368b8738e308017296c9344184abc53e8897f7945b9ca571.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O primeiro trimestre de 2026 da Nepa mostra aumento da...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-nepas-q1-2026-shows-profitability-surge-amid-transformation-93CH-4671203</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nepas-q1-2026-shows-profitability-surge-amid-transformation-93CH-4671203</guid>
-      <pubDate>08/05/2026 05:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
