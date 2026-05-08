@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 02:27:45 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 02:27:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os lucros do Proact IT Group no primeiro trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-proact-it-group-q1-2026-earnings-beat-expectations-93CH-4671054</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-proact-it-group-q1-2026-earnings-beat-expectations-93CH-4671054</guid>
+      <pubDate>08/05/2026 02:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Toyota vê queda de 20% no lucro anual com peso da guerra no Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cencora-inc-q2-2026-earnings-164833854.html</guid>
       <pubDate>08/05/2026 01:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/279cf62b48cfa71e489aa1e5f84a2602" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Apollo Global Management, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/apollo-global-management-inc-q1-164731635.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apollo-global-management-inc-q1-164731635.html</guid>
-      <pubDate>08/05/2026 01:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/d8facf510d103418be5db6fbc969fb57" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
