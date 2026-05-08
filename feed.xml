@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 16:36:01 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:39:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Duke Energy?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/wall-street-analysts-bullish-duke-094928072.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/wall-street-analysts-bullish-duke-094928072.html</guid>
+      <pubDate>08/05/2026 16:39</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/99cda9d228c28ed9ef094d7666c67eaa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goolsbee, do Fed, diz que cortes e aumentos nas taxas estão em discussão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-iran-war-has-broken-the-oil-markets-100-barometer-d590fd84?mod=mw_rss_topstories</guid>
       <pubDate>08/05/2026 15:01</pubDate>
       <enclosure url="https://images.mktw.net/im-81377128" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: M. Dias Branco Lucros perdidos no primeiro trimestre de 2026,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-m-dias-branco-q1-2026-earnings-miss-stock-drops-93CH-4673698</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-m-dias-branco-q1-2026-earnings-miss-stock-drops-93CH-4673698</guid>
-      <pubDate>08/05/2026 14:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
