@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 05:38:42 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:49:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As perspectivas da State Street para 2026 expõem por que a maioria dos investidores ainda está subponderada...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/state-street-2026-outlook-exposes-212223093.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/state-street-2026-outlook-exposes-212223093.html</guid>
+      <pubDate>08/05/2026 05:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/31343c3eae72f08fe0deb2173e41c3fb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE HELOC, taxas de home equity aumentam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nepas-q1-2026-shows-profitability-surge-amid-transformation-93CH-4671203</guid>
       <pubDate>08/05/2026 05:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Com os ganhos à frente, espere uma queda antes de comprar ações da CoreWeave</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-ahead-wait-dip-buy-204040125.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-ahead-wait-dip-buy-204040125.html</guid>
-      <pubDate>08/05/2026 05:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e16f16e4ebde8d2d9bbaa3616d2c00ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
