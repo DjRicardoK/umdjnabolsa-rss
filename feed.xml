@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 11:41:05 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:46:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Uma carteira diversificada de 11 ativos superou ambas as ações dos EUA, o clássico mix 60/40 em 2025. É hora...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/diversified-11-asset-portfolio-outperformed-143500027.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/diversified-11-asset-portfolio-outperformed-143500027.html</guid>
+      <pubDate>08/05/2026 11:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/b8126bb32b410a9d0f4e2537d6a3842b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Cytek (CTKB) Transcrição da teleconferência de resultados do primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/investors-brace-for-sally-beauty-earnings-amid-revenue-pressure-93CH-4672900</guid>
       <pubDate>08/05/2026 10:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bitdeer (BTDR) sobe 21% antes dos ganhos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bitdeer-btdr-climbs-21-ahead-015905115.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bitdeer-btdr-climbs-21-ahead-015905115.html</guid>
-      <pubDate>08/05/2026 10:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a443913332014c76029f1fc96aba653f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
