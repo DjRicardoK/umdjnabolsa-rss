@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 05:29:35 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:35:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: resultados da MasterBrand Q1 2026 perdem estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-masterbrand-q1-2026-results-miss-estimates-93CH-4671332</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-masterbrand-q1-2026-results-miss-estimates-93CH-4671332</guid>
+      <pubDate>08/05/2026 05:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Wallbox N.V.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/mortgage-rates-rise-iran-conflict-200000311.html</guid>
       <pubDate>08/05/2026 04:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/bankrate_626/e4113a09739b72ee1a44eb5cb52dd970" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ofertas de software prejudicam os ganhos do Alt Manager</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/software-earnings-alternative-managers-21039186?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/software-earnings-alternative-managers-21039186?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>08/05/2026 04:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/1513c95494e431f22a24c06922965879" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
