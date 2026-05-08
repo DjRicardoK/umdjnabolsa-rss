@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 07:19:30 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:22:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 da LifeMD (LFMD)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/lifemd-lfmd-q1-2026-earnings-221606301.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/lifemd-lfmd-q1-2026-earnings-221606301.html</guid>
+      <pubDate>08/05/2026 07:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dados, Irã, reunião EUA-China em foco pelo escaldante mercado de ações dos EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/state-street-2026-outlook-exposes-212223093.html</guid>
       <pubDate>08/05/2026 05:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/31343c3eae72f08fe0deb2173e41c3fb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE HELOC, taxas de home equity aumentam</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/heloc-home-equity-rates-spike-210722183.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/heloc-home-equity-rates-spike-210722183.html</guid>
-      <pubDate>08/05/2026 05:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bankrate_626/422a7fc66ec8e7e46505e353de4e6994" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
