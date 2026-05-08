@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 10:51:04 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:51:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da National HealthCare Corp atingem o máximo histórico de 185,6 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/national-healthcare-corp-stock-hits-alltime-high-of-1856-usd-93CH-4672979</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/national-healthcare-corp-stock-hits-alltime-high-of-1856-usd-93CH-4672979</guid>
+      <pubDate>08/05/2026 10:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do Braves à frente: o novo modelo de transmissão pode compensar a queda do primeiro trimestre?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/porsche-to-cut-over-500-jobs-and-close-three-subsidiaries-93CH-4672693</guid>
       <pubDate>08/05/2026 09:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBB30RY_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Fundos de ações globais atraem entradas pela sétima semana devido ao otimismo nos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/global-equity-funds-draw-inflows-for-theseventh-week-on-earnings-optimism-4672669</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-equity-funds-draw-inflows-for-theseventh-week-on-earnings-optimism-4672669</guid>
-      <pubDate>08/05/2026 09:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470RW_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
