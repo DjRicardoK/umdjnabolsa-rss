@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 23:27:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 23:28:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Mitek Systems supera as expectativas do segundo trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-mitek-systems-beats-q2-2026-expectations-stock-rises-93CH-4670836</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mitek-systems-beats-q2-2026-expectations-stock-rises-93CH-4670836</guid>
+      <pubDate>07/05/2026 23:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os lucros da Toast Inc. no primeiro trimestre de 2026 ficam...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-inogen-q1-2026-shows-revenue-beat-eps-miss-93CH-4670799</guid>
       <pubDate>07/05/2026 23:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A diretora da Lattice Semiconductor, Elizabeth Schwarting, vende ações de US$ 398.496</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/lattice-semiconductor-director-elizabeth-schwarting-sells-398496-stock-93CH-4670800</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/lattice-semiconductor-director-elizabeth-schwarting-sells-398496-stock-93CH-4670800</guid>
-      <pubDate>07/05/2026 23:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
