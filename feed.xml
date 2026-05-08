@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 06:00:26 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 06:00:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Fortinet sobem com a queda dos lucros do primeiro trimestre da empresa de segurança cibernética,...</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/fortinet-stock-ftnt-fortinet-earnings-news-q12026/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/fortinet-stock-ftnt-fortinet-earnings-news-q12026/?src=A00220&yptr=yahoo</guid>
+      <pubDate>08/05/2026 06:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/8b1253c966ac8e93cfc412fad34b98c8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Fabricante de fertilizantes supera ganhos com altos lucros devido ao fechamento da Hormuz</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/brinks-company-q1-2026-earnings-204643474.html</guid>
       <pubDate>08/05/2026 05:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/6c1d2c5ffdfddbeeb82440d999a6098e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do segundo trimestre de 2026 da Azenta, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/azenta-inc-q2-2026-earnings-204844614.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/azenta-inc-q2-2026-earnings-204844614.html</guid>
-      <pubDate>08/05/2026 05:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/46afd5247ef5b8fe5267d8fbbed2aa7d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
