@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 11:29:00 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:40:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Tsakos Energy Navigation atingem o máximo de 52 semanas a 44,21 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/tsakos-energy-navigation-stock-hits-52week-high-at-4421-usd-93CH-4673158</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/tsakos-energy-navigation-stock-hits-52week-high-at-4421-usd-93CH-4673158</guid>
+      <pubDate>08/05/2026 11:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BuzzFeed ultrapassa um prazo importante de dívida, levantando o espectro da falência</title>
       <description>A empresa obteve uma prorrogação até 18 de maio para o pagamento de uma dívida de US$ 5 milhões, após emitir um alerta de continuidade operacional no início deste ano.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories</guid>
       <pubDate>08/05/2026 10:33</pubDate>
       <enclosure url="https://images.mktw.net/im-84347573" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE CL Workshop Group recebe aviso de deficiência de preço de oferta da Nasdaq</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/cl-workshop-group-receives-nasdaq-bid-price-deficiency-notice-93CH-4672790</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/cl-workshop-group-receives-nasdaq-bid-price-deficiency-notice-93CH-4672790</guid>
-      <pubDate>08/05/2026 10:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
