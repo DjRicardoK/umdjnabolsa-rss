@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 09:13:17 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:14:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 da DoubleVerify (DV)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/doubleverify-dv-q1-2026-earnings-001324859.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/doubleverify-dv-q1-2026-earnings-001324859.html</guid>
+      <pubDate>08/05/2026 09:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Castle Biosciences</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fastly-fsly-q1-2026-earnings-222719308.html</guid>
       <pubDate>08/05/2026 07:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Meloni encontra Rubio enquanto a guerra no Irã prejudica as relações Itália-EUA</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/meloni-meets-rubio-as-iran-war-strains-italyus-ties-4671654</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/meloni-meets-rubio-as-iran-war-strains-italyus-ties-4671654</guid>
-      <pubDate>08/05/2026 07:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470LN_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
