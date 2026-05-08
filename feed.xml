@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 09:17:53 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 09:18:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Formulário 10Q GraniteShares Gold Trust para: 8 de maio</title>
+      <description></description>
+      <link>https://www.investing.com/news/filings/form-10q-graniteshares-gold-trust-for-8-may-93CH-4672451</link>
+      <guid isPermaLink="false">https://www.investing.com/news/filings/form-10q-graniteshares-gold-trust-for-8-may-93CH-4672451</guid>
+      <pubDate>08/05/2026 09:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Angel Studios no primeiro trimestre de 2026 vê aumento de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/stocks-at-all-time-highs-can-still-go-higher-heres-one-case-for-buying-into-the-rally-fa95364e?mod=mw_rss_topstories</guid>
       <pubDate>08/05/2026 07:38</pubDate>
       <enclosure url="https://images.mktw.net/im-00859350" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 do Guardian (GRDN)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/guardian-grdn-q1-2026-earnings-223209644.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/guardian-grdn-q1-2026-earnings-223209644.html</guid>
-      <pubDate>08/05/2026 07:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
