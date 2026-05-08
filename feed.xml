@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 16:27:19 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:35:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: CEMIG Q1 2026 perde previsões, estoque estável</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-cemig-q1-2026-misses-forecasts-stock-steady-93CH-4673903</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cemig-q1-2026-misses-forecasts-stock-steady-93CH-4673903</guid>
+      <pubDate>08/05/2026 16:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Tecnoglass atingem baixa de 52 semanas a 39,37 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-legacy-housing-q1-2026-sees-eps-rise-despite-revenue-dip-93CH-4673708</guid>
       <pubDate>08/05/2026 14:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Warren Buffett envia mensagem contundente sobre hipotecas e financiamento residencial</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/options/articles/warren-buffett-sends-blunt-message-140700722.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/warren-buffett-sends-blunt-message-140700722.html</guid>
-      <pubDate>08/05/2026 14:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/acc21c182d9cb884966fbc966fb1bdde" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
