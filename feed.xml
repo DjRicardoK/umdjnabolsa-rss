@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 05:14:40 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:14:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aumento de ações devido a ganhos robustos de tecnologia e esperanças de paz EUA-Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stock-surge-robust-tech-earnings-203703879.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stock-surge-robust-tech-earnings-203703879.html</guid>
+      <pubDate>08/05/2026 05:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/754d1add9645fb46c7ad31fc4fa63ccc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Limbach (LMB) Transcrição dos ganhos do primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/indias-april-consumer-inflation-likely-rose-to-38-as-higher-fuel-costs-weigh-4671168</guid>
       <pubDate>08/05/2026 04:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470E4_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Esperanças de um fim iminente da guerra EUA-Irã pesam sobre o dólar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/hopes-imminent-end-us-iran-193724162.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/hopes-imminent-end-us-iran-193724162.html</guid>
-      <pubDate>08/05/2026 04:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c3dfcbf6c12ac0d7bda076fcde2aadd1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
