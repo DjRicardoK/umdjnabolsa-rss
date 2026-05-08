@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 11:25:31 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:25:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE S&amp;P 500 e Nasdaq atingiram novos picos à medida que ações de tecnologia e dados de empregos elevam o...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/us-stock-futures-rise-as-chips-rebound-ahead-of-jobs-data-4671693</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-stock-futures-rise-as-chips-rebound-ahead-of-jobs-data-4671693</guid>
+      <pubDate>08/05/2026 11:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470LS_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Relatório de empregos em caminhões de abril mostra um grande aumento nas contratações</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-alpargatas-achieves-record-q1-2026-earnings-93CH-4672786</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-alpargatas-achieves-record-q1-2026-earnings-93CH-4672786</guid>
       <pubDate>08/05/2026 10:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Algonquin Power Q1 2026 supera previsão de EPS</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-algonquin-power-q1-2026-beats-eps-forecast-93CH-4672768</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-algonquin-power-q1-2026-beats-eps-forecast-93CH-4672768</guid>
-      <pubDate>08/05/2026 10:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
