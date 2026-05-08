@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 10:39:45 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:39:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Relatório de empregos de abril mostra força contínua</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/april-jobs-report-shows-continued-strength-4672795</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/april-jobs-report-shows-continued-strength-4672795</guid>
+      <pubDate>08/05/2026 10:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470TJ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Investidores se preparam para ganhos da Sally Beauty em meio à pressão de receita</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/canadas-unemployment-rate-rises-to-sixmonth-high-as-fulltime-jobs-drop-4672598</guid>
       <pubDate>08/05/2026 09:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470R8_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Alpha Teknova, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/alpha-teknova-inc-q1-2026-003756443.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/alpha-teknova-inc-q1-2026-003756443.html</guid>
-      <pubDate>08/05/2026 09:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/aa403f0cd6a6c8324e5de58dff0ede16" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
