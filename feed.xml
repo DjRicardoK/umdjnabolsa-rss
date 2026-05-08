@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 16:35:56 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:36:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goolsbee, do Fed, diz que cortes e aumentos nas taxas estão em discussão</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/feds-goolsbee-says-both-rate-cuts-and-hikes-are-on-the-table-93CH-4673900</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-goolsbee-says-both-rate-cuts-and-hikes-are-on-the-table-93CH-4673900</guid>
+      <pubDate>08/05/2026 16:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_1_M_1440048330.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: CEMIG Q1 2026 perde previsões, estoque estável</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-m-dias-branco-q1-2026-earnings-miss-stock-drops-93CH-4673698</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-m-dias-branco-q1-2026-earnings-miss-stock-drops-93CH-4673698</guid>
       <pubDate>08/05/2026 14:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Legacy Housing Q1 2026 vê aumento de lucro por ação apesar da...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-legacy-housing-q1-2026-sees-eps-rise-despite-revenue-dip-93CH-4673708</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-legacy-housing-q1-2026-sees-eps-rise-despite-revenue-dip-93CH-4673708</guid>
-      <pubDate>08/05/2026 14:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
