@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 22:20:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:20:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Applied Optoelectronics perde previsão de EPS do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-applied-optoelectronics-misses-q1-2026-eps-forecast-93CH-4670746</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-applied-optoelectronics-misses-q1-2026-eps-forecast-93CH-4670746</guid>
+      <pubDate>07/05/2026 22:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Nerdy Inc. atende à previsão de EPS do primeiro trimestre de 2026,...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/japan-real-wages-climb-for-third-month-in-march-backing-case-for-boj-rate-hike-4670555</guid>
       <pubDate>07/05/2026 20:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM461QP_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Ares Commercial RE: pivô do portfólio em meio a perda de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/ares-commercial-re-q1-2026-slides-portfolio-pivot-amid-earnings-miss-93CH-4670573</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/ares-commercial-re-q1-2026-slides-portfolio-pivot-amid-earnings-miss-93CH-4670573</guid>
-      <pubDate>07/05/2026 20:45</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/b4d7572f39ae9b4012f7c1e0324960f66463ab4c7e40a1d7231dcd23bf0ec764.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
