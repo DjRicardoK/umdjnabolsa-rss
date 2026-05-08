@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 04:18:56 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 04:27:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Se você for um usuário do iPhone, poderá receber US$ 95 com este acordo da Apple</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/youre-iphone-user-could-95-192807866.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/youre-iphone-user-could-95-192807866.html</guid>
+      <pubDate>08/05/2026 04:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/la_times_articles_853/9e4ac06e1581494049aab48d7192c551" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Antes dos ganhos do Airbnb, aqui está o que os dados de opções do gráfico de barras mostram para as ações da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-091-4671074</guid>
       <pubDate>08/05/2026 03:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3K0AH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O Zoom parece subvalorizado com ganhos de 18x?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/does-zoom-look-undervalued-18x-180949829.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/does-zoom-look-undervalued-18x-180949829.html</guid>
-      <pubDate>08/05/2026 02:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/trefis_142/8c2027c5a0acc09377a7285487b7ba20" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
