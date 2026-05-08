@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 11:40:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:41:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Cytek (CTKB) Transcrição da teleconferência de resultados do primeiro trimestre de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cytek-ctkb-q1-2026-earnings-143237631.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cytek-ctkb-q1-2026-earnings-143237631.html</guid>
+      <pubDate>08/05/2026 11:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Tsakos Energy Navigation atingem o máximo de 52 semanas a 44,21 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bitdeer-btdr-climbs-21-ahead-015905115.html</guid>
       <pubDate>08/05/2026 10:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a443913332014c76029f1fc96aba653f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Estou doando US$ 10.000 para meus enteados. Minha esposa me alertou contra presentes de igual valor para meus...</title>
-      <description>“Nosso patrimônio líquido é de cerca de US$ 4 milhões e ambos temos 60 anos.”</description>
-      <link>https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/im-giving-10-000-to-my-stepchildren-my-wife-warned-me-against-gifts-of-equal-value-for-my-nephews-is-that-fair-9d7d2724?mod=mw_rss_topstories</guid>
-      <pubDate>08/05/2026 10:33</pubDate>
-      <enclosure url="https://images.mktw.net/im-84347573" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
