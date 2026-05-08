@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 21:57:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:07:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tem $ 5.000? Essas três ações de alto rendimento estão sendo negociadas perto de seus mínimos de 52 semanas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/got-5-000-3-high-130602516.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/got-5-000-3-high-130602516.html</guid>
+      <pubDate>07/05/2026 22:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/b583e21363ce8777fbda81c4985a13a8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 principais ações de dividendos para dobrar agora mesmo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jjsf-q2-2026-earnings-call-151758921.html</guid>
       <pubDate>07/05/2026 20:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O estoque da Universal Logistics despencou nas notícias sobre caminhões da Amazon. Seu dividendo de 3,4% pode...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/universal-logistics-stock-plunged-amazon-160243048.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/universal-logistics-stock-plunged-amazon-160243048.html</guid>
-      <pubDate>07/05/2026 20:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2c1e4668381711bc34527dd1ea9574d3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
