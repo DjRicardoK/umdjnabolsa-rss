@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 13:31:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 13:31:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 do TDS (TDS)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tds-tds-q1-2026-earnings-161843349.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tds-tds-q1-2026-earnings-161843349.html</guid>
+      <pubDate>08/05/2026 13:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações dispara com queda dos preços do petróleo e fortes ganhos: revisão semanal</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/ibd-stock-of-the-day/apple-stock-buy-zone-wwdc-2026/?src=A00220&yptr=yahoo</guid>
       <pubDate>08/05/2026 12:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/c8999ec043e727f6a89701731dcc2208" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Warby Parker (WRBY) Transcrição dos ganhos do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warby-parker-wrby-q1-2026-153053673.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warby-parker-wrby-q1-2026-153053673.html</guid>
-      <pubDate>08/05/2026 12:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
