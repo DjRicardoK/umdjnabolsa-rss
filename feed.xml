@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 15:01:22 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:05:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Arm Stock dá um passeio selvagem após os ganhos. A demanda pode ser forte demais para ser atendida.</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/arm-earnings-stock-price-044c9e87?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/arm-earnings-stock-price-044c9e87?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>08/05/2026 15:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/3bb4a9b23ad7ad20ffb6a2ed1a1f23bf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A guerra do Irão quebrou o barómetro dos 100 dólares do mercado petrolífero</title>
       <description>À medida que as refinarias perseguem os lucros, a melhor forma de avaliar o impacto do choque petrolífero na América neste momento é através do preço do gás e de outros produtos...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/essent-group-ltd-q1-2026-165802625.html</guid>
       <pubDate>08/05/2026 14:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/962ce13034e920d790a6ac77e5d5b091" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Plains All American Pipeline, L.P. Resumo da teleconferência de ganhos do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/plains-american-pipeline-l-p-165811099.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/plains-american-pipeline-l-p-165811099.html</guid>
-      <pubDate>08/05/2026 14:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/741194db22670210649fda553255a3a5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
