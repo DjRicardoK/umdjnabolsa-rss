@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 11:00:38 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:00:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Truist reitera compra de ações da Exzeo após resultados do primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-exzeo-stock-after-firstquarter-results-93CH-4673029</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-exzeo-stock-after-firstquarter-results-93CH-4673029</guid>
+      <pubDate>08/05/2026 11:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros futuros da Fox Corp: Tubi pode compensar o declínio da transmissão?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-job-growth-in-april-comes-in-higher-than-expected-4672363</guid>
       <pubDate>08/05/2026 10:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBAN0PW_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Morgan Stanley ajusta pré-lucro alvo do preço das ações da Applied Materials</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-applied-materials-010300728.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-adjusts-applied-materials-010300728.html</guid>
-      <pubDate>08/05/2026 10:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/cc07b8fa769d4bff63eb413aa67db07e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
