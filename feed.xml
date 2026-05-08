@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 10:44:26 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:51:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do Braves à frente: o novo modelo de transmissão pode compensar a queda do primeiro trimestre?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/braves-earnings-ahead-can-new-broadcast-model-offset-q1-slump-93CH-4672982</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/braves-earnings-ahead-can-new-broadcast-model-offset-q1-slump-93CH-4672982</guid>
+      <pubDate>08/05/2026 10:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da LivaNova atingem alta de 52 semanas a 71,97 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-equity-funds-draw-inflows-for-theseventh-week-on-earnings-optimism-4672669</guid>
       <pubDate>08/05/2026 09:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470RW_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os futuros de ações dos EUA sobem à medida que os dados de emprego de abril foram mais fortes do que o...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-stock-futures-fall-on-renewed-iran-hostilities-nonfarm-payrolls-awaited-4670580</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-fall-on-renewed-iran-hostilities-nonfarm-payrolls-awaited-4670580</guid>
-      <pubDate>08/05/2026 09:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6M0LI_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
