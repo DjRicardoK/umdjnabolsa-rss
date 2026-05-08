@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 02:09:03 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 02:12:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O ETF SPDR Gold Shares está se tornando um comércio lotado que os investidores inteligentes devem evitar?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/spdr-gold-shares-etf-becoming-172500835.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/spdr-gold-shares-etf-becoming-172500835.html</guid>
+      <pubDate>08/05/2026 02:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/36b0d7125a3cd4e7fc8ef5051b3c93ba" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: True Corp vê crescimento no lucro líquido no primeiro trimestre...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/brava-energia-1q26-slides-operational-wins-contrast-earnings-shortfall-93CH-4671027</guid>
       <pubDate>08/05/2026 01:39</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/8e9a65be692f171bd228726aa7a80b109894d1a94ca6cb2913d7887f6118622e.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Slides do primeiro trimestre de 2026 da Coinbase: ganhos de participação de mercado em meio a perdas de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/coinbase-q1-2026-slides-market-share-gains-amid-earnings-miss-93CH-4671029</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/coinbase-q1-2026-slides-market-share-gains-amid-earnings-miss-93CH-4671029</guid>
-      <pubDate>08/05/2026 01:39</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/0d3f7ebbaff5c62e44f70d7c1a9a91cac67fd25e28ec65e19af0f3c119e5ecb0.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
