@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 14:20:17 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 14:26:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de pagamentos: Morgan Stanley analisa o desempenho dos ganhos do primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/payments-stocks-morgan-stanley-reviews-q1-earnings-performance-93CH-4673654</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/payments-stocks-morgan-stanley-reviews-q1-earnings-performance-93CH-4673654</guid>
+      <pubDate>08/05/2026 14:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE SONAR Sitrep: Segurança da frota por trás da recessão pós-frete</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://finance.yahoo.com/markets/stocks/articles/rpc-res-q1-2026-earnings-164243077.html</link>
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rpc-res-q1-2026-earnings-164243077.html</guid>
       <pubDate>08/05/2026 13:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 da Fidus (FDUS)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/fidus-fdus-q1-2026-earnings-164104114.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fidus-fdus-q1-2026-earnings-164104114.html</guid>
-      <pubDate>08/05/2026 13:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
