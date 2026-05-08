@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 12:27:29 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:27:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Bimini Capital Q1 2026 vê resultados mistos em meio a tensões...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bimini-capital-q1-2026-sees-mixed-results-amid-geopolitical-tensions-93CH-4673319</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bimini-capital-q1-2026-sees-mixed-results-amid-geopolitical-tensions-93CH-4673319</guid>
+      <pubDate>08/05/2026 12:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Global Partners Q1 2026 supera EPS, ações sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/urogen-pharma-stock-hits-52week-high-at-3002-usd-93CH-4673082</guid>
       <pubDate>08/05/2026 11:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Nvidia (NVDA) é a melhor escolha de ações de IA de Cathie Wood em 2026?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-best-ai-stock-135048532.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-best-ai-stock-135048532.html</guid>
-      <pubDate>08/05/2026 11:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9fe1eca18d2db7bd57aab4fd48404fcc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
