@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 22:30:08 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:40:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Guerra do Irã para acelerar a mudança da China para caminhões elétricos a diesel</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/iran-war-to-accelerate-chinas-shift-to-electric-trucks-from-diesel-4666463</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/iran-war-to-accelerate-chinas-shift-to-electric-trucks-from-diesel-4666463</guid>
+      <pubDate>07/05/2026 22:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM460JP_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE AdaptHealth (AHCO) Transcrição de ganhos do primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/fortis-tops-first-quarter-earnings-123106045.html</guid>
       <pubDate>07/05/2026 21:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/investorshub_458/0c5937d66842a29b6800aaf84e25b4d1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bill Gates possui bilhões neste player secreto de IA, quase 183% em um ano, e não é a Microsoft</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/bill-gates-owns-billions-secret-122618535.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/bill-gates-owns-billions-secret-122618535.html</guid>
-      <pubDate>07/05/2026 21:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/7db56d446befcc0c62035ea0ee63b3cb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
