@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 16:39:22 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:40:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ouro estende recuperação pela terceira sessão enquanto otimismo com acordo com o Irã pressiona dólar</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/gold-extends-rally-third-session-093801232.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-extends-rally-third-session-093801232.html</guid>
+      <pubDate>08/05/2026 16:39</pubDate>
+      <enclosure url="https://media.zenfs.com/en/investorshub_458/50ac6aa268a482ff7c699147ba80b649" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Duke Energy?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/arm-earnings-stock-price-044c9e87?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>08/05/2026 15:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/3bb4a9b23ad7ad20ffb6a2ed1a1f23bf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A guerra do Irão quebrou o barómetro dos 100 dólares do mercado petrolífero</title>
-      <description>À medida que as refinarias perseguem os lucros, a melhor forma de avaliar o impacto do choque petrolífero na América neste momento é através do preço do gás e de outros produtos...</description>
-      <link>https://www.marketwatch.com/story/the-iran-war-has-broken-the-oil-markets-100-barometer-d590fd84?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-iran-war-has-broken-the-oil-markets-100-barometer-d590fd84?mod=mw_rss_topstories</guid>
-      <pubDate>08/05/2026 15:01</pubDate>
-      <enclosure url="https://images.mktw.net/im-81377128" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
