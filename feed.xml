@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 23:34:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 23:34:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da Kroger?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-kroger-stock-143252066.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-kroger-stock-143252066.html</guid>
+      <pubDate>07/05/2026 23:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/851d317085d32f3423dccd24a162227a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Peter Schiff diz &apos;Compre o mergulho&apos; em ouro e prata em meio à liquidação da Guerra do Irã - &apos;Tire vantagem...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-globus-medical-q1-2026-beats-forecasts-stock-dips-93CH-4670804</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-globus-medical-q1-2026-beats-forecasts-stock-dips-93CH-4670804</guid>
       <pubDate>07/05/2026 23:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do primeiro trimestre de 2026 do Alta Equipment...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-alta-equipment-groups-q1-2026-results-show-mixed-performance-93CH-4670805</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-alta-equipment-groups-q1-2026-results-show-mixed-performance-93CH-4670805</guid>
-      <pubDate>07/05/2026 23:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
