@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 23:05:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 23:11:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da CVS estouram em ganhos devido à saída da ACA e aumentos de prêmios</title>
+      <description></description>
+      <link>https://www.investors.com/news/cvs-stock-breaks-out-aca-exit-premium-hikes/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/cvs-stock-breaks-out-aca-exit-premium-hikes/?src=A00220&yptr=yahoo</guid>
+      <pubDate>07/05/2026 23:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/4601d54c2f4eb5abc15094b4765d33c1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Oportun Financial excede a previsão de EPS do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sandisk-sndk-best-young-stocks-131626237.html</guid>
       <pubDate>07/05/2026 22:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bac96fd1b14a726014d653a007b9155b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jeff Bezos perguntou a Warren Buffett por que as pessoas não apenas copiam sua estratégia de investimento -...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-asked-warren-buffett-131607385.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-asked-warren-buffett-131607385.html</guid>
-      <pubDate>07/05/2026 22:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/benzinga_79/6928538f7ccf7e27fe3a89371a00597b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
