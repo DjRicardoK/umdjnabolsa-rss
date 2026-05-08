@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 10:39:53 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 10:44:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Wall St abre em alta após dados de emprego e recuperação de chips</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/wall-st-opens-higher-after-jobs-data-chip-rebound-4672891</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wall-st-opens-higher-after-jobs-data-chip-rebound-4672891</guid>
+      <pubDate>08/05/2026 10:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470UK_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Relatório de empregos de abril mostra força contínua</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pcbl-chemical-q4-2026-misses-eps-stock-rises-93CH-4672595</guid>
       <pubDate>08/05/2026 09:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A taxa de desemprego do Canadá sobe para o máximo de seis meses à medida que os empregos em tempo integral...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/canadas-unemployment-rate-rises-to-sixmonth-high-as-fulltime-jobs-drop-4672598</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/canadas-unemployment-rate-rises-to-sixmonth-high-as-fulltime-jobs-drop-4672598</guid>
-      <pubDate>08/05/2026 09:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470R8_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
