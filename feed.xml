@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 15:05:57 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 15:07:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Cboe Global Markets atingem o máximo histórico de 346,58 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cboe-global-markets-stock-hits-alltime-high-at-34658-usd-93CH-4673742</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cboe-global-markets-stock-hits-alltime-high-at-34658-usd-93CH-4673742</guid>
+      <pubDate>08/05/2026 15:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street tem uma nova maneira de perseguir o boom da memória de IA</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-koppers-holdings-q1-2026-beats-estimates-stock-surges-93CH-4673616</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-koppers-holdings-q1-2026-beats-estimates-stock-surges-93CH-4673616</guid>
-      <pubDate>08/05/2026 14:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: PPL Corporation Q1 2026 supera as estimativas de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ppl-corporation-q1-2026-beats-earnings-estimates-93CH-4673617</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ppl-corporation-q1-2026-beats-earnings-estimates-93CH-4673617</guid>
       <pubDate>08/05/2026 14:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
