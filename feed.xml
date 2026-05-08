@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 02:34:59 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 02:43:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Intel acabam de atingir novos recordes. Desta vez, a Apple recebe todo o crédito.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/intel-stock-just-hit-record-180439860.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-stock-just-hit-record-180439860.html</guid>
+      <pubDate>08/05/2026 02:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/296aa26cf8632bccf12902b2274fa108" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O momento de IA da AMD pode ser maior do que os investidores da Nvidia imaginam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/spire-inc-q2-2026-earnings-165156602.html</guid>
       <pubDate>08/05/2026 01:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/059d97f586afbbd8dcb9179b43726444" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Elanco Animal Health Incorporated</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/elanco-animal-health-incorporated-q1-165127832.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/elanco-animal-health-incorporated-q1-165127832.html</guid>
-      <pubDate>08/05/2026 01:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/a5be80bf9611a530d78477d365fda8a4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
