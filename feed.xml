@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 01:51:22 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 01:52:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Insulet Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/insulet-corporation-q1-2026-earnings-170050117.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/insulet-corporation-q1-2026-earnings-170050117.html</guid>
+      <pubDate>08/05/2026 01:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/e045563706c4f725b6ba6914dc8a766d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da KVH Industries, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/granite-point-gpmt-q1-2026-161253076.html</guid>
       <pubDate>08/05/2026 01:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 da Talos (TALO)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/talos-talo-q1-2026-earnings-155615690.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/talos-talo-q1-2026-earnings-155615690.html</guid>
-      <pubDate>08/05/2026 01:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
