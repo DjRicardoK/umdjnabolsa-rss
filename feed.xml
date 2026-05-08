@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 07:27:27 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:27:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Meloni encontra Rubio enquanto a guerra no Irã prejudica as relações Itália-EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/meloni-meets-rubio-as-iran-war-strains-italyus-ties-4671654</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/meloni-meets-rubio-as-iran-war-strains-italyus-ties-4671654</guid>
+      <pubDate>08/05/2026 07:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM470LN_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Sony e Nintendo enfrentam aumento no preço da memória enquanto o boom da IA ​​restringe a oferta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/core-scientific-shares-tumble-9-213326684.html</guid>
       <pubDate>08/05/2026 05:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/blockspace_702/241aa6526ea0e58be4f71049fbf122ce" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro deve subir semanalmente devido às perspectivas de paz EUA-Irã; Tensões de Ormuz limitam ganhos</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-set-for-weekly-rise-on-usiran-peace-prospects-hormuz-tensions-cap-gains-4671060</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-set-for-weekly-rise-on-usiran-peace-prospects-hormuz-tensions-cap-gains-4671060</guid>
-      <pubDate>08/05/2026 05:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB880JW_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
