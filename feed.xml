@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 03:30:26 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 03:40:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Sinal: as ações da Eli Lilly continuam sendo uma “compra” após os lucros</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/signal-eli-lilly-stock-remains-184452719.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/signal-eli-lilly-stock-remains-184452719.html</guid>
+      <pubDate>08/05/2026 03:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/schaeffers_investment_research_24/c7e3c9289ff185b1f8842d6a039f52ee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE À medida que a AMD aumenta 16% após os ganhos, aqui está o que os dados do Barchart dizem que vem a seguir...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-true-corp-sees-growth-in-net-profit-in-q1-2026-93CH-4671050</guid>
       <pubDate>08/05/2026 02:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise – Choque de preços no Irã destaca limites de títulos indexados à inflação</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/analysisiran-price-shock-highlights-limits-of-inflationlinked-bonds-4671047</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysisiran-price-shock-highlights-limits-of-inflationlinked-bonds-4671047</guid>
-      <pubDate>08/05/2026 02:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4706U_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
