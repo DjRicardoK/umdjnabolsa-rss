@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 05:35:55 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:38:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE HELOC, taxas de home equity aumentam</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/heloc-home-equity-rates-spike-210722183.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/heloc-home-equity-rates-spike-210722183.html</guid>
+      <pubDate>08/05/2026 05:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bankrate_626/422a7fc66ec8e7e46505e353de4e6994" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: MT Højgaard, primeiro trimestre de 2026, vê queda na receita em...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-ahead-wait-dip-buy-204040125.html</guid>
       <pubDate>08/05/2026 05:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/e16f16e4ebde8d2d9bbaa3616d2c00ee" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da DoorDash sobem após a queda dos lucros do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/doordash-stock-q1-2026-earnings-dash-news/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/doordash-stock-q1-2026-earnings-dash-news/?src=A00220&yptr=yahoo</guid>
-      <pubDate>08/05/2026 05:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/e7cb87c446d97f7cfc783476951fc231" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
