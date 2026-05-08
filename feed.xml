@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 08:03:21 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 08:03:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Evercore ISI aumenta a meta de preço das ações da Warner Music no crescimento do streaming</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-raises-warner-music-stock-price-target-on-streaming-growth-93CH-4671716</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-raises-warner-music-stock-price-target-on-streaming-growth-93CH-4671716</guid>
+      <pubDate>08/05/2026 08:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Hellenic Telecom Q1 2026 vê crescimento de receita de 4,9%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dmci-holdings-q1-2026-shows-stable-margins-slight-income-dip-93CH-4671487</guid>
       <pubDate>08/05/2026 06:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que as ações ligadas ao Hyundai Motor Group subiram hoje</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/why-stocks-linked-to-hyundai-motor-group-rallied-today-93CH-4671430</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/why-stocks-linked-to-hyundai-motor-group-rallied-today-93CH-4671430</guid>
-      <pubDate>08/05/2026 06:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBA301Z_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
