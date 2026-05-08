@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 07:30:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:32:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 do Guardian (GRDN)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/guardian-grdn-q1-2026-earnings-223209644.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/guardian-grdn-q1-2026-earnings-223209644.html</guid>
+      <pubDate>08/05/2026 07:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 Fastly (FSLY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/fertlizer-cf-industries-strait-of-hormuz-iran-us-war-nitrogen-urea/?src=A00220&yptr=yahoo</guid>
       <pubDate>08/05/2026 06:00</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/aeb0b78d08ea37a5dab933d1de4ce43d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs aumenta preço-alvo da Pitney Bowes (PBI) após expansão de margem no primeiro trimestre</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pitney-bowes-213113953.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-raises-pitney-bowes-213113953.html</guid>
-      <pubDate>08/05/2026 05:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/abab480430dd5ba00b085fa693b6cd31" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
