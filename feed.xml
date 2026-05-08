@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 05:18:51 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 05:20:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Perimeter Solutions, S.A.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/perimeter-solutions-q1-2026-earnings-205351474.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/perimeter-solutions-q1-2026-earnings-205351474.html</guid>
+      <pubDate>08/05/2026 05:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/16483826577b1ad7b77a3fe398b3a93f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da The Brink&apos;s Company</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dear-apple-stock-fans-mark-195657547.html</guid>
       <pubDate>08/05/2026 04:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5c73a52b7903649f6e8fae3cb550b52f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Abasteça-se de energia nuclear antes que a corrida energética dos data centers se acelere</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/load-nuclear-data-center-energy-194818788.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/load-nuclear-data-center-energy-194818788.html</guid>
-      <pubDate>08/05/2026 04:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/83c8ab27d0b0d5952cb20293d8799c6c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
