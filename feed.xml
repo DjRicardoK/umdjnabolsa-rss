@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 12:27:23 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 12:27:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Global Partners Q1 2026 supera EPS, ações sobem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-global-partners-q1-2026-beats-eps-stock-rises-93CH-4673320</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-global-partners-q1-2026-beats-eps-stock-rises-93CH-4673320</guid>
+      <pubDate>08/05/2026 12:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fundo de crédito privado do Goldman Sachs corta valor em 3,7%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-best-ai-stock-135048532.html</guid>
       <pubDate>08/05/2026 11:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9fe1eca18d2db7bd57aab4fd48404fcc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Truist reitera compra de ações da Exzeo após resultados do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-exzeo-stock-after-firstquarter-results-93CH-4673029</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-exzeo-stock-after-firstquarter-results-93CH-4673029</guid>
-      <pubDate>08/05/2026 11:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
