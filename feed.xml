@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 16:08:44 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:14:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Intel podem alcançar um feito nunca antes visto à medida que o entusiasmo da Apple aumenta</title>
+      <description>A Intel está no meio de uma transformação de seus negócios, com ações subindo 17% na sexta-feira, após um novo sinal de uma futura parceria de fabricação com a Apple.</description>
+      <link>https://www.marketwatch.com/story/intels-stock-could-achieve-a-never-before-seen-feat-as-apple-enthusiasm-builds-edd94237?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/intels-stock-could-achieve-a-never-before-seen-feat-as-apple-enthusiasm-builds-edd94237?mod=mw_rss_topstories</guid>
+      <pubDate>08/05/2026 16:14</pubDate>
+      <enclosure url="https://images.mktw.net/im-35092112" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street está otimista ou baixista em relação às ações de materiais aplicados?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/1-glorious-growth-stock-down-172000410.html</guid>
       <pubDate>08/05/2026 14:30</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/9c6fa24f160beb430bd1839988c680d0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Membro do conselho do banco central da Colômbia se opõe a aumentos de taxas na oferta - Bloomberg</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/colombia-central-bank-board-member-opposes-rate-hikes-on-supply--bloomberg-93CH-4673653</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/colombia-central-bank-board-member-opposes-rate-hikes-on-supply--bloomberg-93CH-4673653</guid>
-      <pubDate>08/05/2026 14:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
