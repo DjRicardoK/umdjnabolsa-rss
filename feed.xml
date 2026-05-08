@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 14:16:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 14:16:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Plains GP Holdings, L.P.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/plains-gp-holdings-l-p-165940932.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/plains-gp-holdings-l-p-165940932.html</guid>
+      <pubDate>08/05/2026 14:16</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/e2a11f5bb1aab761fd8d64a24c07f717" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Expand Energy Corporation (EXE) está entre as oito melhores ações de infraestrutura de energia que irão...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/how-to-help-your-child-transition-to-financial-adulthood-d3fedbd4?mod=mw_rss_topstories</guid>
       <pubDate>08/05/2026 13:43</pubDate>
       <enclosure url="https://images.mktw.net/im-03206834" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Corporay demonstram mudança para compostos de longo prazo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/corpay-earnings-demonstrate-shift-long-161929181.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/corpay-earnings-demonstrate-shift-long-161929181.html</guid>
-      <pubDate>08/05/2026 13:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/exec_edge_220/157a3e067bf1388997bad060eaa01616" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
