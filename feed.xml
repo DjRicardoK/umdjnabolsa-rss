@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 01:52:02 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 01:52:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street está alvoroçada sobre ‘ativos tokenizados’ – mas a maior parte da atividade é limitada a uma fase...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/wall-street-abuzz-tokenized-assets-170000103.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/wall-street-abuzz-tokenized-assets-170000103.html</guid>
+      <pubDate>08/05/2026 01:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/fortune_175/430bbcfb5df8cc2ab4553dbb5f67e139" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Insulet Corporation</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://finance.yahoo.com/markets/stocks/articles/nwn-q1-2026-earnings-transcript-161548430.html</link>
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nwn-q1-2026-earnings-transcript-161548430.html</guid>
       <pubDate>08/05/2026 01:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Granite Point (GPMT) Transcrição de ganhos do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/granite-point-gpmt-q1-2026-161253076.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/granite-point-gpmt-q1-2026-161253076.html</guid>
-      <pubDate>08/05/2026 01:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
