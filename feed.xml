@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 02:02:13 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 02:05:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição dos ganhos do primeiro trimestre de 2026 do QSR</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/qsr-q1-2026-earnings-transcript-171950843.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/qsr-q1-2026-earnings-transcript-171950843.html</guid>
+      <pubDate>08/05/2026 02:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Uber Technologies, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/treasury-raises-series-bond-rate-164700469.html</guid>
       <pubDate>08/05/2026 01:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/thestreet_881/3522e74ba249f36f0485b36857cc03c8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ignore o ruído dos caminhões da Amazon e compre ações da UPS por seu alto rendimento próximo a 7%</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/ignore-amazon-trucking-noise-buy-163944228.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ignore-amazon-trucking-noise-buy-163944228.html</guid>
-      <pubDate>08/05/2026 01:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d291390a9fbeb2d18788cb15d3408f7f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
