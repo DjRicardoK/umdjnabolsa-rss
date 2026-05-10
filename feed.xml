@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 20:21:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 20:29:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Meus três principais estoques de computação quântica para maio de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/top-3-quantum-computing-stocks-232000684.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/top-3-quantum-computing-stocks-232000684.html</guid>
+      <pubDate>10/05/2026 20:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/c7519d3c05b10d295fb7edf8f2df8560" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Futuros de ações relaxam, dólar ganha enquanto negociações do Golfo vacilam</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-nuveen-churchill-direct-lending-misses-q1-2026-eps-expectations-93CH-4673974</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nuveen-churchill-direct-lending-misses-q1-2026-eps-expectations-93CH-4673974</guid>
       <pubDate>08/05/2026 17:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Algonquin Power Utilities Corp atingem o máximo de 52 semanas a 26,39 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/algonquin-power-utilities-corp-stock-hits-52week-high-at-2639-usd-93CH-4673950</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/algonquin-power-utilities-corp-stock-hits-52week-high-at-2639-usd-93CH-4673950</guid>
-      <pubDate>08/05/2026 17:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
