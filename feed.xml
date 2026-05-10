@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 18:11:51 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 18:11:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os gastos com IA da Big Tech estão privando os investidores de pagamentos suculentos</title>
+      <description>O Goldman Sachs espera que as recompras de ações do S&amp;P 500 cresçam apenas 3% este ano, à medida que um cenário económico instável e as pressões dos custos da IA ​​obrigam a...</description>
+      <link>https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/big-techs-ai-spending-is-depriving-investors-of-juicy-payouts-39d17305?mod=mw_rss_topstories</guid>
+      <pubDate>10/05/2026 18:11</pubDate>
+      <enclosure url="https://images.mktw.net/im-03309110" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Apresentando o comércio ‘NACHO’: Como Wall Street está apostando em preços mais elevados do petróleo e na...</title>
       <description>Wall Street está se voltando para mais uma sigla inspirada em parte na culinária mexicana.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-goolsbee-says-both-rate-cuts-and-hikes-are-on-the-table-93CH-4673900</guid>
       <pubDate>08/05/2026 16:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_1_M_1440048330.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: CEMIG Q1 2026 perde previsões, estoque estável</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-cemig-q1-2026-misses-forecasts-stock-steady-93CH-4673903</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cemig-q1-2026-misses-forecasts-stock-steady-93CH-4673903</guid>
-      <pubDate>08/05/2026 16:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
