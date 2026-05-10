@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 18:44:06 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 19:02:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O legado de Powell como presidente do Fed é combater a inflação e Trump. Ele pode perder a batalha contra...</title>
+      <description>Jerome Powell será lembrado pela forma como terminam as lutas contra a inflação e para preservar a independência da Reserva Federal.</description>
+      <link>https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories</guid>
+      <pubDate>10/05/2026 19:02</pubDate>
+      <enclosure url="https://images.mktw.net/im-59065666" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Comemore a Terra com estes dois estoques imparáveis ​​de energia verde</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/orla-mining-ltd-orla-ramping-095607419.html</guid>
       <pubDate>08/05/2026 16:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4f7faceb8d84769c4c87136b4e99a99b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Kevin Warsh está certo sobre a reforma do Fed – mas sua solução para a inflação é uma armadilha</title>
-      <description>A crença de Warsh de que a IA é uma força desinflacionária garantida poderia desencadear cortes prematuros nas taxas.</description>
-      <link>https://www.marketwatch.com/story/kevin-warsh-is-right-about-fed-reform-but-his-inflation-solution-is-a-trap-eee3c403?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/kevin-warsh-is-right-about-fed-reform-but-his-inflation-solution-is-a-trap-eee3c403?mod=mw_rss_topstories</guid>
-      <pubDate>08/05/2026 16:48</pubDate>
-      <enclosure url="https://images.mktw.net/im-08564748" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
