@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 03:43:49 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 03:54:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tomi (TOMZ) Transcrição dos ganhos do quarto trimestre de 2025</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tomi-tomz-q4-2025-earnings-192719452.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tomi-tomz-q4-2025-earnings-192719452.html</guid>
+      <pubDate>11/05/2026 03:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 ações de mineração para comprar em maio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-arxis-stock-with-buy-rating-on-ma-model-93CH-4674980</guid>
       <pubDate>11/05/2026 02:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O melhor estoque de software de IA para comprar em 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/best-ai-software-stock-buy-181000109.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/best-ai-software-stock-buy-181000109.html</guid>
-      <pubDate>11/05/2026 02:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/ab9c6f3a5eed25d062a05f627656b2af" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
