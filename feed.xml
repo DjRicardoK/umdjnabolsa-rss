@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 04:39:38 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 04:43:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 7 razões para comprar ações da Amazon agora mesmo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/7-reasons-buy-amazon-stock-202000166.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/7-reasons-buy-amazon-stock-202000166.html</guid>
+      <pubDate>11/05/2026 04:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/08fe874ba2424efc66b14cabd3661889" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Compass Diversified</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-079-4674987</guid>
       <pubDate>11/05/2026 03:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/Taiwan_M_1440053344.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação subjacente de Abril na Noruega aumenta em linha com as expectativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/norways-april-core-inflation-rises-in-line-with-expectations-4675002</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/norways-april-core-inflation-rises-in-line-with-expectations-4675002</guid>
-      <pubDate>11/05/2026 03:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A0BK_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
