@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 05:52:44 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 05:53:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Orix Corp Q4 2026 vê lucros recordes e aumento de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-orix-corp-q4-2026-sees-record-profits-stock-surges-93CH-4675236</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-orix-corp-q4-2026-sees-record-profits-stock-surges-93CH-4675236</guid>
+      <pubDate>11/05/2026 05:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inflação na Moldávia acelera para 6,8% em Abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sbm-offshore-q1-2026-sees-revenue-surge-93CH-4675092</guid>
       <pubDate>11/05/2026 04:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China e EUA prendem 5 pessoas em investigação conjunta de contrabando de drogas, informa Xinhua</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/china-us-arrest-5-in-joint-drug-smuggling-investigation-xinhua-reports-4675094</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/china-us-arrest-5-in-joint-drug-smuggling-investigation-xinhua-reports-4675094</guid>
-      <pubDate>11/05/2026 04:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0D0AP_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
