@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 06:38:08 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 06:55:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Enquanto Trump segue para a China, veja o quanto o dólar está supervalorizado, de acordo com o Goldman Sachs</title>
+      <description>A China pode permitir que a sua moeda sucumba à pressão ascendente como parte das suas negociações comerciais com os EUA. O renminbi está mais barato do que tem sido há várias...</description>
+      <link>https://www.marketwatch.com/story/as-trump-heads-to-china-heres-how-much-the-dollar-is-overvalued-according-to-goldman-sachs-e29884f9?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/as-trump-heads-to-china-heres-how-much-the-dollar-is-overvalued-according-to-goldman-sachs-e29884f9?mod=mw_rss_topstories</guid>
+      <pubDate>11/05/2026 06:55</pubDate>
+      <enclosure url="https://images.mktw.net/im-39403445" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Enka Insaat caem mais de 4% devido aos fracos lucros do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/microsoft-deal-strengthens-black-hills-212750740.html</guid>
       <pubDate>11/05/2026 05:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8217c409d5d601839179045d7b24b98a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Public Service Enterprise Group Incorporated (PEG), uma ação de utilidade pública de alto crescimento no...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/public-enterprise-group-incorporated-peg-212737023.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/public-enterprise-group-incorporated-peg-212737023.html</guid>
-      <pubDate>11/05/2026 05:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/871d66a617353ed69a67653358ebd301" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
