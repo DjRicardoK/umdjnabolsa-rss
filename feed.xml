@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 01:50:29 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 01:57:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ásia FX cai à medida que as esperanças de paz no Irã desaparecem; Inflação na China supera previsões</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/asia-fx-falls-as-iran-peace-hopes-fade-china-inflation-beats-forecasts-4674968</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-falls-as-iran-peace-hopes-fade-china-inflation-beats-forecasts-4674968</guid>
+      <pubDate>11/05/2026 01:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE0A0MX_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Este fundo foi vendido em Klaviyo antes de uma queda brutal de 32% após os lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/china-april-producer-inflation-surgesto-45month-high-4674899</guid>
       <pubDate>10/05/2026 23:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A02R_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Taiwan ‘confiante’ nos laços com os EUA antes da visita de Trump à China</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/taiwan-confident-in-us-ties-ahead-of-trump-visit-to-china-4674902</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/taiwan-confident-in-us-ties-ahead-of-trump-visit-to-china-4674902</guid>
-      <pubDate>10/05/2026 23:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A03D_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
