@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 09:36:39 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:08:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Artisan Mid Cap Fund Trimmed Coherent (COHR) apesar dos fortes ganhos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/artisan-mid-cap-fund-trimmed-125520672.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/artisan-mid-cap-fund-trimmed-125520672.html</guid>
+      <pubDate>11/05/2026 10:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f6cbcaa580b43d5aec7eea1f0379ef39" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Climb Global Solutions perde previsão de EPS do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/hsbc-lifts-sp-500-yearend-target-on-earnings-optimism-4675556</guid>
       <pubDate>11/05/2026 07:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A0NN_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Há uma nova meta principal para o S&amp;P 500 à medida que o “derretimento” se intensifica</title>
-      <description>‘Nunca vimos nada assim’, diz Yardeni, veterano de Wall Street</description>
-      <link>https://www.marketwatch.com/story/theres-a-new-top-target-for-the-s-p-500-as-melt-up-intensifies-b48ea8b7?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/theres-a-new-top-target-for-the-s-p-500-as-melt-up-intensifies-b48ea8b7?mod=mw_rss_topstories</guid>
-      <pubDate>11/05/2026 07:43</pubDate>
-      <enclosure url="https://images.mktw.net/im-55623473" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
