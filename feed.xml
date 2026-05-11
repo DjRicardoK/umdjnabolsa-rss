@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 02:39:46 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 02:43:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jim Cramer chama Agnico Eagle de “o melhor”, mas não está otimista em relação ao ouro</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-agnico-eagle-183632048.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-agnico-eagle-183632048.html</guid>
+      <pubDate>11/05/2026 02:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3e24a795c753b173dfea02d0509f0bc7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Jim Cramer sobre Goldman Sachs: “Acho que está subindo”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-de-guindos-urges-prudence-on-rates-in-parting-shot--ft-4674957</guid>
       <pubDate>11/05/2026 01:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A06W_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O CEO da Apollo alerta que agora há 35% de chance de um grande choque no mercado em meio à turbulência...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/apollo-ceo-warns-now-35-173000193.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/apollo-ceo-warns-now-35-173000193.html</guid>
-      <pubDate>11/05/2026 00:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/d498f45a01fffd587e42f781be1e80a4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
