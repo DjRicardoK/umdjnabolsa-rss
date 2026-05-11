@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 10:30:26 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:45:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Kezar Life Sciences adquirida pela Aurinia Pharma EUA; A exclusão da Nasdaq segue</title>
+      <description></description>
+      <link>https://www.investing.com/news/sec-filings/kezar-life-sciences-acquired-by-aurinia-pharma-us-nasdaq-delisting-follows-93CH-4676804</link>
+      <guid isPermaLink="false">https://www.investing.com/news/sec-filings/kezar-life-sciences-acquired-by-aurinia-pharma-us-nasdaq-delisting-follows-93CH-4676804</guid>
+      <pubDate>11/05/2026 10:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Edwards Lifesciences (EW) está se beneficiando da expansão de sua franquia de válvula aórtica</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/ai-plays-in-emerging-markets-offer-more-upside-than-in-the-u-s-at-present-says-jpmorgan-e2b26291?mod=mw_rss_topstories</guid>
       <pubDate>11/05/2026 08:50</pubDate>
       <enclosure url="https://images.mktw.net/im-31332552" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Uma “corrida contra o tempo”. O encerramento do Hormuz poderá empurrar o Brent para 150 dólares no verão,...</title>
-      <description>O petróleo bruto está subindo no início da semana, com o Morgan Stanley alertando que os preços do petróleo estão sendo mantidos sob controle devido a perdas muito maiores. Mas...</description>
-      <link>https://www.marketwatch.com/story/a-race-against-time-hormuz-closure-could-push-brent-to-150-by-summer-warns-morgan-stanley-018be51f?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/a-race-against-time-hormuz-closure-could-push-brent-to-150-by-summer-warns-morgan-stanley-018be51f?mod=mw_rss_topstories</guid>
-      <pubDate>11/05/2026 08:30</pubDate>
-      <enclosure url="https://images.mktw.net/im-91292323" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
