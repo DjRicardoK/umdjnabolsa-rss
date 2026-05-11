@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 05:47:51 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 05:48:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Slides do terceiro trimestre de 2025/26 da AcadeMedia: EBITA recorde, crescimento internacional acelera</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/academedia-q3-202526-slides-record-ebita-international-growth-accelerates-93CH-4675205</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/academedia-q3-202526-slides-record-ebita-international-growth-accelerates-93CH-4675205</guid>
+      <pubDate>11/05/2026 05:48</pubDate>
+      <enclosure url="https://csv-storage.forexpros.com/slides/85fe10cf4d288e74210408474b6264361b114c16f1f0a188d5fccbc1f45e1ef2.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: K+S Q1 2026: Lucros fortes, quedas de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-stock-next-nvidia-193100386.html</guid>
       <pubDate>11/05/2026 04:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/49a47c10ca93a8eca1e5b4839d813b77" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tomi (TOMZ) Transcrição dos ganhos do quarto trimestre de 2025</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tomi-tomz-q4-2025-earnings-192719452.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tomi-tomz-q4-2025-earnings-192719452.html</guid>
-      <pubDate>11/05/2026 03:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
