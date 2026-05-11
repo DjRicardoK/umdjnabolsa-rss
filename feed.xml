@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 22:28:26 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:28:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (NVDA) faz parceria com a Corning para aumentar a capacidade de fabricação de conectividade óptica</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-corp-nvda-partners-corning-144932745.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-corp-nvda-partners-corning-144932745.html</guid>
+      <pubDate>10/05/2026 22:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4beabd482637ec7f5549a99b77c1d1cd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A plataforma de negócios Amazon.com (AMZN) oferece entrega de mantimentos frescos no mesmo dia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/planet-fitness-stock-plunged-following-222200670.html</guid>
       <pubDate>10/05/2026 19:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/6e9050e22aec75f999fbec321f0f3f33" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os futuros das ações dos EUA caem, o petróleo sobe enquanto Trump chama a última oferta do Irã para acabar...</title>
-      <description>Os futuros do índice de ações dos EUA caíram e os preços do petróleo subiram no domingo, depois que o presidente Donald Trump classificou a resposta do Irã à última proposta dos...</description>
-      <link>https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-surges-as-trump-calls-irans-latest-offer-to-end-war-totally-unacceptable-187e3d87?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-stock-futures-fall-oil-surges-as-trump-calls-irans-latest-offer-to-end-war-totally-unacceptable-187e3d87?mod=mw_rss_topstories</guid>
-      <pubDate>10/05/2026 19:20</pubDate>
-      <enclosure url="https://images.mktw.net/im-91794442" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
