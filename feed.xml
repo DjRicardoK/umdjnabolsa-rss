@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 03:34:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 03:34:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Austrália caem no fechamento do pregão; S&amp;P/ASX 200 caiu 0,49%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-049-4675019</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-049-4675019</guid>
+      <pubDate>11/05/2026 03:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE5A00C_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Kocher, do BCE, vê movimento nas taxas se as perspectivas de inflação não melhorarem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-stocks-sandisk-183621371.html</guid>
       <pubDate>11/05/2026 02:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bac96fd1b14a726014d653a007b9155b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Sem refazer: como um dólar a mais em sua conversão de Roth desencadeia uma cobrança de impostos que você não...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/no-overs-one-extra-dollar-212900191.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/no-overs-one-extra-dollar-212900191.html</guid>
-      <pubDate>11/05/2026 02:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketwatch_hosted_869/449e0f6e7ecea4223f574689fb9335ed" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
