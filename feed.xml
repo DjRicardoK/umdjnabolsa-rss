@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 03:34:12 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 03:34:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Kocher, do BCE, vê movimento nas taxas se as perspectivas de inflação não melhorarem</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ecbs-kocher-sees-rate-move-if-inflation-outlook-does-not-improve-4674976</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-kocher-sees-rate-move-if-inflation-outlook-does-not-improve-4674976</guid>
+      <pubDate>11/05/2026 03:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A09I_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Vendas de automóveis na China caem em abril e exportações aumentam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/no-overs-one-extra-dollar-212900191.html</guid>
       <pubDate>11/05/2026 02:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketwatch_hosted_869/449e0f6e7ecea4223f574689fb9335ed" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer na Extreme Networks: “Não recomendo ações como esta”</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-extreme-networks-don-183647207.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-extreme-networks-don-183647207.html</guid>
-      <pubDate>11/05/2026 01:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/86b6f1eab4d4c0ffbf065f3a834e0a1b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
