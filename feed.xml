@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 03:25:55 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 03:34:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Vendas de automóveis na China caem em abril e exportações aumentam</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/china-auto-sales-drop-in-april-exports-surge-93CH-4675021</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-auto-sales-drop-in-april-exports-surge-93CH-4675021</guid>
+      <pubDate>11/05/2026 03:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Pesquisa de aposentadoria da Goldman Sachs 2025: pessoas com alta capacidade financeira se aposentam com 49%...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-extreme-networks-don-183647207.html</guid>
       <pubDate>11/05/2026 01:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/86b6f1eab4d4c0ffbf065f3a834e0a1b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ásia FX cai à medida que as esperanças de paz no Irã desaparecem; Inflação na China supera previsões</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/asia-fx-falls-as-iran-peace-hopes-fade-china-inflation-beats-forecasts-4674968</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-falls-as-iran-peace-hopes-fade-china-inflation-beats-forecasts-4674968</guid>
-      <pubDate>11/05/2026 01:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE0A0MX_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
