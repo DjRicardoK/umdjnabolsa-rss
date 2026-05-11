@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 04:34:29 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 04:35:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Clean Harbors</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/clean-harbors-q1-earnings-call-200429890.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/clean-harbors-q1-earnings-call-200429890.html</guid>
+      <pubDate>11/05/2026 04:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/7cd6151f3fa3768836effff2f5cc35cb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Canadian Natural Resources</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/departing-bank-of-korea-board-member-says-policy-should-focus-on-inflation-control-4675004</guid>
       <pubDate>11/05/2026 03:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A0BE_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jim Cramer sobre Salesforce: “É difícil porque o mercado odeia software”</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-salesforce-tough-because-183638905.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-salesforce-tough-because-183638905.html</guid>
-      <pubDate>11/05/2026 03:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e333aa5b72577d2e050d3c5b0c90bb89" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
