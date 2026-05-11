@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 23:12:03 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 23:12:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Famílias de dois americanos presos na China pedem a Trump que busque libertação</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/families-of-two-americans-jailed-in-china-urge-trump-to-seek-release-4674889</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/families-of-two-americans-jailed-in-china-urge-trump-to-seek-release-4674889</guid>
+      <pubDate>10/05/2026 23:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A013_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inflação ao produtor na China em abril sobe para o maior nível em 45 meses</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-strengthens-as-trump-says-iran-peace-offer-unacceptable-4674884</guid>
       <pubDate>10/05/2026 21:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A002_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: Evolus Inc Q1 2026 perde previsão de EPS, ações sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-evolus-inc-q1-2026-misses-eps-forecast-stock-rises-93CH-4674885</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-evolus-inc-q1-2026-misses-eps-forecast-stock-rises-93CH-4674885</guid>
-      <pubDate>10/05/2026 21:22</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
