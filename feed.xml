@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 04:23:33 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 04:30:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE China e EUA prendem 5 pessoas em investigação conjunta de contrabando de drogas, informa Xinhua</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/china-us-arrest-5-in-joint-drug-smuggling-investigation-xinhua-reports-4675094</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/china-us-arrest-5-in-joint-drug-smuggling-investigation-xinhua-reports-4675094</guid>
+      <pubDate>11/05/2026 04:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0D0AP_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A perda de lucros da Capital One levanta uma questão maior: o consumidor está finalmente quebrando?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-goldman-sachs-think-183644730.html</guid>
       <pubDate>11/05/2026 02:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d33bdc283f11c51e1edf5a2884041b55" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer analisa o relatório de ganhos da Solstice Advanced Materials</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reviews-earnings-report-183643925.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reviews-earnings-report-183643925.html</guid>
-      <pubDate>11/05/2026 02:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3d514494e70559fab2160c9e252902be" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
