@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 01:59:58 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 02:11:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Sem refazer: como um dólar a mais em sua conversão de Roth desencadeia uma cobrança de impostos que você não...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/no-overs-one-extra-dollar-212900191.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/no-overs-one-extra-dollar-212900191.html</guid>
+      <pubDate>11/05/2026 02:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketwatch_hosted_869/449e0f6e7ecea4223f574689fb9335ed" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer na Extreme Networks: “Não recomendo ações como esta”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-seeks-reform-inflation-restraint-in-budget-balancing-act-4674906</guid>
       <pubDate>10/05/2026 23:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A03H_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Famílias de dois americanos presos na China pedem a Trump que busque libertação</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/families-of-two-americans-jailed-in-china-urge-trump-to-seek-release-4674889</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/families-of-two-americans-jailed-in-china-urge-trump-to-seek-release-4674889</guid>
-      <pubDate>10/05/2026 23:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A013_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
