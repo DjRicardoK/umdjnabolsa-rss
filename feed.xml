@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 10:26:16 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:29:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os investidores agora estão dizendo às empresas para investirem no crescimento, e não em suas próprias ações,...</title>
+      <description>O mercado de ações está a recompensar as empresas que procuram oportunidades de crescimento secular e não dependem apenas da engenharia financeira para gerar retornos para os...</description>
+      <link>https://www.marketwatch.com/story/investors-are-now-telling-companies-to-invest-in-growth-not-their-own-stocks-goldman-sachs-finds-6a71c0cd?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/investors-are-now-telling-companies-to-invest-in-growth-not-their-own-stocks-goldman-sachs-finds-6a71c0cd?mod=mw_rss_topstories</guid>
+      <pubDate>11/05/2026 10:29</pubDate>
+      <enclosure url="https://images.mktw.net/im-90089628" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado petrolífero não voltará ao normal este ano se o conflito no Irão não for resolvido dentro de...</title>
       <description>Os futuros do petróleo para dezembro subiram 47% este ano, um sinal de que os traders não antecipam um regresso rápido à normalidade.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/etfs-and-funds/sectors/sp500-ai-stock-is-now-worth-more-than-tesla-meta-and-walmart/?src=A00220&yptr=yahoo</guid>
       <pubDate>11/05/2026 08:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/4456afb1462014925439159cd5d395b7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Conrad concede contrato SURF para o campo Mako a Timas Suplindo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/conrad-awards-surf-contract-mako-105824577.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/conrad-awards-surf-contract-mako-105824577.html</guid>
-      <pubDate>11/05/2026 08:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/offshore_technology_431/6977ed5ed36c2aaf7a5359ae3e018648" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
