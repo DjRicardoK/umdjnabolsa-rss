@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 05:17:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 05:20:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações da Victrex caem sobre cortes de empregos, alerta de lucro em meio a temores de custos no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/victrex-shares-down-on-job-cuts-profit-warning-amid-mideast-cost-fears-4675172</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/victrex-shares-down-on-job-cuts-profit-warning-amid-mideast-cost-fears-4675172</guid>
+      <pubDate>11/05/2026 05:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O crescimento dos lucros posiciona a FirstEnergy Corp. (FE) como uma das principais ações de serviços...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-auto-sales-drop-in-april-exports-surge-93CH-4675021</guid>
       <pubDate>11/05/2026 03:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Pesquisa de aposentadoria da Goldman Sachs 2025: pessoas com alta capacidade financeira se aposentam com 49%...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-retirement-survey-2025-185702098.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-retirement-survey-2025-185702098.html</guid>
-      <pubDate>11/05/2026 03:25</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1971681c16df76d900f15c765694dead" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
