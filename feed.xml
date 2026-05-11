@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 06:10:09 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 06:10:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Citizens reitera classificação de ações da American Healthcare REIT com fortes ganhos</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-american-healthcare-reit-stock-rating-on-strong-earnings-93CH-4675246</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-american-healthcare-reit-stock-rating-on-strong-earnings-93CH-4675246</guid>
+      <pubDate>11/05/2026 06:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Citizens reitera classificação das ações do Grindr após forte batida no primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/goldman-sachs-retirement-survey-reveals-203042958.html</guid>
       <pubDate>11/05/2026 04:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/15597fb44574935d3e7ae28a0b7fff32" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (NRG) reafirma orientação de ganhos apesar da perda no primeiro trimestre</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/nrg-energy-inc-nrg-reaffirms-212619781.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/nrg-energy-inc-nrg-reaffirms-212619781.html</guid>
-      <pubDate>11/05/2026 04:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a1778149447d40b5b7941a0ed3b7562e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
