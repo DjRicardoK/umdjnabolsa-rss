@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 22:33:38 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:45:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE KeyBanc reitera classificação de subponderação do Service Now (AGORA)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/keybanc-reiterates-now-now-underweight-145149352.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/keybanc-reiterates-now-now-underweight-145149352.html</guid>
+      <pubDate>10/05/2026 22:45</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/51263d3d0f4c550afb6e0dbf3b80d1d9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE (INTU) é uma das melhores ações americanas de IA para comprar agora?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hyster-yale-q1-earnings-call-230612026.html</guid>
       <pubDate>10/05/2026 20:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/d8fe397d0c0bbf7c0eb6a3804d5938f6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Exportações da China em abril se recuperam fortemente, superávit comercial aumenta antes da visita de Trump</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-of-trump-visit-4674872</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-of-trump-visit-4674872</guid>
-      <pubDate>10/05/2026 20:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM48031_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
