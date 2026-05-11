@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 04:43:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 04:54:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (NRG) reafirma orientação de ganhos apesar da perda no primeiro trimestre</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/nrg-energy-inc-nrg-reaffirms-212619781.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/nrg-energy-inc-nrg-reaffirms-212619781.html</guid>
+      <pubDate>11/05/2026 04:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a1778149447d40b5b7941a0ed3b7562e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 7 razões para comprar ações da Amazon agora mesmo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/galantas-gold-warrants-exercised-for-46-million-shares-93CH-4674986</guid>
       <pubDate>11/05/2026 03:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de Taiwan caem no fechamento do pregão; Taiwan pesou 0,79%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-079-4674987</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-079-4674987</guid>
-      <pubDate>11/05/2026 03:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Taiwan_M_1440053344.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
