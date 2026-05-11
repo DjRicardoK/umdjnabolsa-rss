@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 07:07:58 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 07:08:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Taxas de juros de hipotecas e refinanciamentos hoje, 11 de maio de 2026: As taxas subirão ou cairão esta...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-may-11-2026-100000275.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-may-11-2026-100000275.html</guid>
+      <pubDate>11/05/2026 07:08</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/480de4d0-03ec-11ef-bfff-fe31b82eccd6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas HELOC e de empréstimo imobiliário, segunda-feira, 11 de maio de 2026: taxas HELOC próximas da mínima de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/academedia-q3-202526-slides-record-ebita-international-growth-accelerates-93CH-4675205</guid>
       <pubDate>11/05/2026 05:48</pubDate>
       <enclosure url="https://csv-storage.forexpros.com/slides/85fe10cf4d288e74210408474b6264361b114c16f1f0a188d5fccbc1f45e1ef2.png" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: K+S Q1 2026: Lucros fortes, quedas de ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ks-q1-2026-strong-earnings-stock-dips-93CH-4675206</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ks-q1-2026-strong-earnings-stock-dips-93CH-4675206</guid>
-      <pubDate>11/05/2026 05:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
