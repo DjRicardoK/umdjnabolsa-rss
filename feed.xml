@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 22:15:33 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:15:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nintendo caem 9% após os lucros do ano fiscal, perspectivas perdem estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nintendo-shares-slide-9-after-fy-earnings-outlook-miss-estimates-4674890</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nintendo-shares-slide-9-after-fy-earnings-outlook-miss-estimates-4674890</guid>
+      <pubDate>10/05/2026 22:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE3P1I1_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços do ouro caem à medida que o comentário de Trump sobre o Irã eleva o petróleo e alimenta temores de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/celebrate-earth-2-unstoppable-green-213500621.html</guid>
       <pubDate>10/05/2026 18:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/c29d68dadf11d698fe84fb687341b659" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Rússia caem no fechamento do pregão; Índice MOEX Rússia inalterado</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4674868</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4674868</guid>
-      <pubDate>10/05/2026 18:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB4B0FU_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
