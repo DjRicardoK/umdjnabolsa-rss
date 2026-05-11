@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 03:19:40 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 03:20:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 da Senseonics (SENS)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/senseonics-sens-q1-2026-earnings-185256420.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/senseonics-sens-q1-2026-earnings-185256420.html</guid>
+      <pubDate>11/05/2026 03:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warrants da Galantas Gold exercidos por 4,6 milhões de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jensen-huang-just-made-major-172500283.html</guid>
       <pubDate>11/05/2026 01:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/5d1ff1a9683f39dec45c8d28ab6af4d1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Warren Buffett diz que não é o ‘ambiente ideal’ para implantar capital</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-says-not-ideal-173020443.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-says-not-ideal-173020443.html</guid>
-      <pubDate>11/05/2026 01:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/benzinga_79/afa78767de8561ea5dd1ffbf7dbac97a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
