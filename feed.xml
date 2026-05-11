@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 22:45:23 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:52:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Como estão os estoques AI-Immune HALO em 2026?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/ai-immune-halo-stocks-doing-150500104.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ai-immune-halo-stocks-doing-150500104.html</guid>
+      <pubDate>10/05/2026 22:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/8365d9c3946319c3d6e6492f8c0f1577" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE (MSFT) investirá em regiões europeias de data centers</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/top-3-quantum-computing-stocks-232000684.html</guid>
       <pubDate>10/05/2026 20:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/c7519d3c05b10d295fb7edf8f2df8560" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Futuros de ações relaxam, dólar ganha enquanto negociações do Golfo vacilam</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/share-futures-ease-dollar-gains-225731200.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/share-futures-ease-dollar-gains-225731200.html</guid>
-      <pubDate>10/05/2026 20:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/0c55affabbb92167a0ed60ab96aaa990" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
