@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 03:24:46 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 03:25:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pesquisa de aposentadoria da Goldman Sachs 2025: pessoas com alta capacidade financeira se aposentam com 49%...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-retirement-survey-2025-185702098.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-retirement-survey-2025-185702098.html</guid>
+      <pubDate>11/05/2026 03:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/1971681c16df76d900f15c765694dead" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O núcleo da inflação da Noruega sobe para 3,2% em abril, correspondendo às previsões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-falls-as-iran-peace-hopes-fade-china-inflation-beats-forecasts-4674968</guid>
       <pubDate>11/05/2026 01:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE0A0MX_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Este fundo foi vendido em Klaviyo antes de uma queda brutal de 32% após os lucros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/fund-sold-klaviyo-brutal-32-174001178.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fund-sold-klaviyo-brutal-32-174001178.html</guid>
-      <pubDate>11/05/2026 01:50</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/6df4b60a8ec56b07e8006b55fcfdc96a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
