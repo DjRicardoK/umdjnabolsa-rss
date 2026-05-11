@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 01:28:04 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 01:37:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warren Buffett diz que não é o ‘ambiente ideal’ para implantar capital</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-says-not-ideal-173020443.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-says-not-ideal-173020443.html</guid>
+      <pubDate>11/05/2026 01:37</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/afa78767de8561ea5dd1ffbf7dbac97a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Compania Cervecerias Unidas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dyno-nobels-explosive-growth-in-h1-2026-93CH-4674900</guid>
       <pubDate>10/05/2026 22:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Como a evolução dos hábitos de consumo da China pode proteger a floresta amazônica</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/how-chinas-evolving-consumer-habits-may-protect-the-amazon-rainforest-4674901</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/how-chinas-evolving-consumer-habits-may-protect-the-amazon-rainforest-4674901</guid>
-      <pubDate>10/05/2026 22:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4805M_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
