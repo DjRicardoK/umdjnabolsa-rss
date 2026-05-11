@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 23:12:08 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 23:20:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Austrália busca reforma e contenção da inflação no ato de equilíbrio orçamentário</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/australia-seeks-reform-inflation-restraint-in-budget-balancing-act-4674906</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-seeks-reform-inflation-restraint-in-budget-balancing-act-4674906</guid>
+      <pubDate>10/05/2026 23:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A03H_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Famílias de dois americanos presos na China pedem a Trump que busque libertação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-found-next-aws-135000372.html</guid>
       <pubDate>10/05/2026 21:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/eae3659a8d869ad3a0fce4d842a7b289" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar se fortalece enquanto Trump diz que oferta de paz com o Irã é “inaceitável”</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/dollar-strengthens-as-trump-says-iran-peace-offer-unacceptable-4674884</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-strengthens-as-trump-says-iran-peace-offer-unacceptable-4674884</guid>
-      <pubDate>10/05/2026 21:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A002_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
