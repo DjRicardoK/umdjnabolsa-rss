@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 10:08:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 10:12:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Wise se prepara para estrear na Nasdaq enquanto a empresa conclui a mudança de Londres para Nova York</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/wise-set-to-make-nasdaq-debut-as-company-completes-shift-from-london-to-new-york-4676556</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wise-set-to-make-nasdaq-debut-as-company-completes-shift-from-london-to-new-york-4676556</guid>
+      <pubDate>11/05/2026 10:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A0UA_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Artisan Mid Cap Fund Trimmed Coherent (COHR) apesar dos fortes ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/wise-group-plc-begins-trading-on-nasdaq-following-courtapproved-restructuring-93CH-4675600</guid>
       <pubDate>11/05/2026 07:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/news_pile_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE HSBC eleva meta de final de ano do S&amp;P 500 devido ao otimismo nos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/hsbc-lifts-sp-500-yearend-target-on-earnings-optimism-4675556</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/hsbc-lifts-sp-500-yearend-target-on-earnings-optimism-4675556</guid>
-      <pubDate>11/05/2026 07:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A0NN_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
