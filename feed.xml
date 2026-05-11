@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 21:16:44 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 21:19:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mark Cuban adverte que empresas cujos CEOs não entendem a IA podem não sobreviver: &apos;Comece a pensar em outro...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/mark-cuban-warns-companies-whose-133109022.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/mark-cuban-warns-companies-whose-133109022.html</guid>
+      <pubDate>10/05/2026 21:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/33bdc109790718891c34441876671a30" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da RadNet perdido em US$ 0,13, receita superou as estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/colombia-suspends-arrest-and-extradition-warrants-for-29-clan-del-golfo-leaders-4674167</guid>
       <pubDate>08/05/2026 17:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE EUA revisam resolução da ONU sobre o Irã, mas China e Rússia ainda devem vetar</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/us-revises-un-resolution-on-iran-but-china-russia-still-expected-to-veto-4674073</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-revises-un-resolution-on-iran-but-china-russia-still-expected-to-veto-4674073</guid>
-      <pubDate>08/05/2026 17:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4719A_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
