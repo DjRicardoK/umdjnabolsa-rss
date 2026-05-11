@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 05:47:04 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 05:47:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Cathie Wood ainda está esperançosa com Tesla (TSLA)?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cathie-wood-still-hopeful-tesla-220601937.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cathie-wood-still-hopeful-tesla-220601937.html</guid>
+      <pubDate>11/05/2026 05:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/17cf1c2403c4e17c2a81a542c73c4aee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Acordo da Microsoft fortalece as perspectivas da Black Hills Corporation (BKH) como uma ação de utilidade...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/2-mining-stocks-buy-may-192500563.html</guid>
       <pubDate>11/05/2026 03:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/6deaf2b8f70ac929da30fabb2502f688" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Chimera Investment</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/chimera-investment-q1-earnings-call-190612831.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chimera-investment-q1-earnings-call-190612831.html</guid>
-      <pubDate>11/05/2026 03:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/0e3e4ba8744cf14d1e7ff03d504cfbd1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
