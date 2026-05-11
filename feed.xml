@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 05:20:08 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 05:20:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: AcadeMedia, terceiro trimestre de 2026, vê forte crescimento,...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-academedia-q3-2026-sees-strong-growth-stock-rises-571-93CH-4675171</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-academedia-q3-2026-sees-strong-growth-stock-rises-571-93CH-4675171</guid>
+      <pubDate>11/05/2026 05:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações da Victrex caem sobre cortes de empregos, alerta de lucro em meio a temores de custos no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-kocher-sees-rate-move-if-inflation-outlook-does-not-improve-4674976</guid>
       <pubDate>11/05/2026 03:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A09I_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Vendas de automóveis na China caem em abril e exportações aumentam</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/china-auto-sales-drop-in-april-exports-surge-93CH-4675021</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-auto-sales-drop-in-april-exports-surge-93CH-4675021</guid>
-      <pubDate>11/05/2026 03:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
