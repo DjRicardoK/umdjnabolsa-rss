@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 08:50:48 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 08:54:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos da Priority Tech superaram US$ 0,09, a receita superou as estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/priority-tech-earnings-beat-by-009-revenue-topped-estimates-4676016</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/priority-tech-earnings-beat-by-009-revenue-topped-estimates-4676016</guid>
+      <pubDate>11/05/2026 08:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os jogos de IA nos mercados emergentes oferecem mais vantagens do que nos EUA atualmente, diz JPMorgan</title>
       <description>As ações de tecnologia asiáticas oferecem exposição superior ao boom da IA ​​nos EUA – e com melhores avaliações. A nova fraqueza do dólar poderá impulsionar ainda mais os...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/as-trump-heads-to-china-heres-how-much-the-dollar-is-overvalued-according-to-goldman-sachs-e29884f9?mod=mw_rss_topstories</guid>
       <pubDate>11/05/2026 06:55</pubDate>
       <enclosure url="https://images.mktw.net/im-39403445" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Enka Insaat caem mais de 4% devido aos fracos lucros do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/enka-insaat-shares-fall-over-4-on-weak-q1-earnings-93CH-4675304</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/enka-insaat-shares-fall-over-4-on-weak-q1-earnings-93CH-4675304</guid>
-      <pubDate>11/05/2026 06:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
