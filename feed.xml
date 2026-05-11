@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 10 May 2026 23:31:21 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 23:54:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Vendas de automóveis na China em abril caem pelo sétimo mês</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/chinas-april-car-sales-drop-for-seventh-month-4674908</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/chinas-april-car-sales-drop-for-seventh-month-4674908</guid>
+      <pubDate>10/05/2026 23:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A04T_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Nvidia ainda é o melhor estoque de IA para comprar em 2026 ou é um desafiador?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/black-hills-q1-earnings-call-140726016.html</guid>
       <pubDate>10/05/2026 21:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/086582f29db918058f607a21b79c3969" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wall Street está otimista com esses dois ETFs da Ásia. É hora de festejar como se estivéssemos na década de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/world-indices/articles/wall-street-bullish-2-asia-140002263.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/world-indices/articles/wall-street-bullish-2-asia-140002263.html</guid>
-      <pubDate>10/05/2026 21:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/199cbe703269b2de4affc8040b8061a5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
