@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 07:59:42 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 08:07:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da FS KKR Capital caem 3% nos lucros, perda de receita</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/fs-kkr-capital-shares-fall-3-on-earnings-revenue-miss-93CH-4675779</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/fs-kkr-capital-shares-fall-3-on-earnings-revenue-miss-93CH-4675779</guid>
+      <pubDate>11/05/2026 08:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os ganhos da Sally Beauty superaram US$ 0,03, a receita superou as estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/had-start-over-1-000-085500472.html</guid>
       <pubDate>11/05/2026 06:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/8387c8ee66a707bb61d32d9fcb9e3a3b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Citizens reitera classificação de ações da American Healthcare REIT com fortes ganhos</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/citizens-reiterates-american-healthcare-reit-stock-rating-on-strong-earnings-93CH-4675246</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-american-healthcare-reit-stock-rating-on-strong-earnings-93CH-4675246</guid>
-      <pubDate>11/05/2026 06:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
