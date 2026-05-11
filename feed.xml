@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 11 May 2026 02:13:49 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 02:19:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Berkshire Hathaway, de Warren Buffett, faz grande movimento global novamente</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-hathaway-makes-180300391.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-hathaway-makes-180300391.html</guid>
+      <pubDate>11/05/2026 02:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/f336d2790cbd495a2c41a6b40c2c4fbf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer destaca que ações como a Sandisk estão “ganhando muito dinheiro para você”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/chinas-april-car-sales-drop-for-seventh-month-4674908</guid>
       <pubDate>10/05/2026 23:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4A04T_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Nvidia ainda é o melhor estoque de IA para comprar em 2026 ou é um desafiador?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-still-best-ai-stock-153000962.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-still-best-ai-stock-153000962.html</guid>
-      <pubDate>10/05/2026 23:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/2c192b15714c6c3d5562a6f827b20eb3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
