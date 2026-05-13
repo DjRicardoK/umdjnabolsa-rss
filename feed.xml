@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 01:25:30 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:25:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros do BDC da Investcorp Credit Management perdidos em US$ 0,03, receita ficou aquém das estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/investcorp-credit-management-bdc-earnings-missed-by-003-revenue-fell-short-of-estimates-4683141</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/investcorp-credit-management-bdc-earnings-missed-by-003-revenue-fell-short-of-estimates-4683141</guid>
+      <pubDate>13/05/2026 01:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bessent, do Tesouro dos EUA, chega à Coreia do Sul para negociações comerciais com He da China antes da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-first-solar-142450397.html</guid>
       <pubDate>12/05/2026 23:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/07091c523fe948fdcf380d777923af62" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BofA descarta alerta contundente sobre cortes nas taxas do Fed</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/bofa-drops-blunt-warning-fed-023300848.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/bofa-drops-blunt-warning-fed-023300848.html</guid>
-      <pubDate>12/05/2026 23:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/3ab634d869f6c4d64638e0ef3e0e3c09" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
