@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 08:05:27 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:11:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Petróleo pouco mudou com a chegada de Trump à China</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/oil-prices-slip-teetering-iran-010021136.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/oil-prices-slip-teetering-iran-010021136.html</guid>
+      <pubDate>13/05/2026 08:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/14b428a386d09c8a92c0547d0317d1c2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Lightbridge faz parceria com Studsvik para desenvolver software de modelagem de combustível</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/alibaba-adr-earnings-missed-by-512-revenue-fell-short-of-estimates-4683590</guid>
       <pubDate>13/05/2026 06:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5T0Y4_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China Mobile publica resultados mistos no primeiro trimestre em meio à expansão mais lenta do 5G</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/china-mobile-posts-mixed-q1-results-amid-slower-5g-expansion-93CH-4683563</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/china-mobile-posts-mixed-q1-results-amid-slower-5g-expansion-93CH-4683563</guid>
-      <pubDate>13/05/2026 06:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
