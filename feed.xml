@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 10:34:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:35:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Fti Consulting atingem o mínimo de 52 semanas em 147,73 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/fti-consulting-stock-hits-52week-low-at-14773-usd-93CH-4684968</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/fti-consulting-stock-hits-52week-low-at-14773-usd-93CH-4684968</guid>
+      <pubDate>13/05/2026 10:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Arthur J Gallagher &amp; Co atingem o mínimo de 52 semanas a 193,95 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-us-energy-corp-q1-2026-misses-eps-stock-dips-93CH-4684289</guid>
       <pubDate>13/05/2026 08:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Atualizações ao vivo de ganhos: On Holding supera as estimativas de Wall Street, ações da Hims &amp; Hers...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/live/earnings-live-updates-on-holding-beats-wall-streets-estimates-hims--hers-stock-plunges-after-surprise-loss-103000080.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/live/earnings-live-updates-on-holding-beats-wall-streets-estimates-hims--hers-stock-plunges-after-surprise-loss-103000080.html</guid>
-      <pubDate>13/05/2026 08:46</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-11/2c893e70-be6d-11f0-bfcd-9371bf8c0b2f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
