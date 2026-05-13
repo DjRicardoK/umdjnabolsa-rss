@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 04:23:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 04:25:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O estoque do Shake Shack parece feio após os ganhos. Os comedores de hambúrguer estavam optando pelo valor</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/shake-shack-stock-looks-ugly-200339088.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/shake-shack-stock-looks-ugly-200339088.html</guid>
+      <pubDate>13/05/2026 04:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c071268ca370652131dc7e9567774e03" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Serabi Gold aprova aquisição de prêmios de ações de 2023 para executivos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/datadog-stock-latest-disprove-saas-180409294.html</guid>
       <pubDate>13/05/2026 02:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/edd189e9b5fef76cae40d22c16ace24d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco central da Tailândia sinaliza que não há pressa em aumentar as taxas à medida que as perspectivas de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/thailands-central-bank-signals-no-rush-to-hike-rates-as-inflation-outlook-improves-4683165</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/thailands-central-bank-signals-no-rush-to-hike-rates-as-inflation-outlook-improves-4683165</guid>
-      <pubDate>13/05/2026 02:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C09X_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
