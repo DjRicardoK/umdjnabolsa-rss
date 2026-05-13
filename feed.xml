@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 16:48:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:03:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Materialize NV atende às expectativas do primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-materialise-nv-meets-q1-2026-expectations-amid-stock-dip-93CH-4686095</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-materialise-nv-meets-q1-2026-expectations-amid-stock-dip-93CH-4686095</guid>
+      <pubDate>13/05/2026 17:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Ford são as que mais ganham no S&amp;P 500. A montadora está dando um toque muito Tesla às coisas.</title>
       <description>As ações da Ford estão tendo seu melhor dia em seis anos, depois que o Morgan Stanley deu uma perspectiva otimista para o negócio de energia da montadora.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/politics-news/us-senate-blocks-latest-bid-to-rein-in-trump-iran-war-powers-support-grows-4685922</guid>
       <pubDate>13/05/2026 15:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C1HT_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Krystal Biotech atingem o máximo histórico de 315,68 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/krystal-biotech-stock-hits-alltime-high-at-31568-usd-93CH-4685888</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/krystal-biotech-stock-hits-alltime-high-at-31568-usd-93CH-4685888</guid>
-      <pubDate>13/05/2026 15:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
