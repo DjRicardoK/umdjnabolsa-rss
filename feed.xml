@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 18:35:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:35:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do primeiro trimestre de 2026 da Lightwave Logic...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lightwave-logics-q1-2026-results-show-strategic-investment-focus-93CH-4686692</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lightwave-logics-q1-2026-results-show-strategic-investment-focus-93CH-4686692</guid>
+      <pubDate>13/05/2026 18:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: o primeiro trimestre de 2026 da Inovio destaca o progresso...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/fossil-earnings-beat-by-015-revenue-topped-estimates-4686420</guid>
       <pubDate>13/05/2026 17:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro da Marchex perdido em US$ 0,02, receita ficou aquém das estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/marchex-earnings-missed-by-002-revenue-fell-short-of-estimates-4686421</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/marchex-earnings-missed-by-002-revenue-fell-short-of-estimates-4686421</guid>
-      <pubDate>13/05/2026 17:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
