@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 01:09:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:25:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE CEO da Nvidia se junta à missão de Trump de ‘abrir’ a China</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/nvidia-ceo-joins-trumps-mission-to-open-up-china-4683140</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/nvidia-ceo-joins-trumps-mission-to-open-up-china-4683140</guid>
+      <pubDate>13/05/2026 01:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C072_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Antes da cimeira Trump-Xi, China alerta sobre vendas de armas dos EUA a Taiwan</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-and-chinas-xi-set-for-talks-spanning-iran-nuclear-trade-and-ai-4676464</guid>
       <pubDate>11/05/2026 12:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM490B2_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os lucros da Lincoln Educational no primeiro trimestre de 2026...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lincoln-educational-q1-2026-earnings-beat-expectations-93CH-4677161</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lincoln-educational-q1-2026-earnings-beat-expectations-93CH-4677161</guid>
-      <pubDate>11/05/2026 12:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
