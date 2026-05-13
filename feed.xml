@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 01:25:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:36:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Direct Digital Holdings, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/direct-digital-holdings-inc-q1-165411945.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/direct-digital-holdings-inc-q1-165411945.html</guid>
+      <pubDate>13/05/2026 01:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/17aa578b740065755e612fbe2e09d027" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do BDC da Investcorp Credit Management perdidos em US$ 0,03, receita ficou aquém das estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/oecd-sees-japan-raisinginterest-rates-to-2-by-end2027-4683117</guid>
       <pubDate>12/05/2026 23:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C03D_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam do primeiro estoque solar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-first-solar-142450397.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-first-solar-142450397.html</guid>
-      <pubDate>12/05/2026 23:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/07091c523fe948fdcf380d777923af62" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
