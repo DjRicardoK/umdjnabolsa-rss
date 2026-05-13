@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 14:15:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 14:15:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Aviões de guerra exclusivamente sauditas atacaram milícias no Iraque durante a guerra, dizem fontes</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/exclusivesaudi-warplanes-struck-militias-in-iraq-duringwar-sources-say-4685633</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/exclusivesaudi-warplanes-struck-militias-in-iraq-duringwar-sources-say-4685633</guid>
+      <pubDate>13/05/2026 14:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C1DR_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Mountain Province Diamonds relata perda no primeiro trimestre...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/80-gold-reports-q1-2026-160132884.html</guid>
       <pubDate>13/05/2026 13:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/Benzinga/15263e8aa5d2a97e28e6f2a672f8231b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: SMU Q1 2026 vê crescimento estratégico em meio a desafios</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-smu-q1-2026-sees-strategic-growth-amid-challenges-93CH-4685567</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-smu-q1-2026-sees-strategic-growth-amid-challenges-93CH-4685567</guid>
-      <pubDate>13/05/2026 13:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
