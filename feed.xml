@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 13:22:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 13:25:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que um fundo movimentado que anunciava participações em startups importantes como a Anthropic despencou...</title>
+      <description>As ações do fundo fechado Destiny Tech100 foram destruídas esta semana, refletindo a promessa e o perigo de tentar acessar as ações antes de seus IPOs.</description>
+      <link>https://www.marketwatch.com/story/why-a-buzzy-fund-that-advertised-stakes-in-hot-startups-like-anthropic-suddenly-plunged-be26beb8?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/why-a-buzzy-fund-that-advertised-stakes-in-hot-startups-like-anthropic-suddenly-plunged-be26beb8?mod=mw_rss_topstories</guid>
+      <pubDate>13/05/2026 13:25</pubDate>
+      <enclosure url="https://images.mktw.net/im-09004178" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Trump chega à China com US$ 16 trilhões em poder de CEO – e um grande pedido para Xi</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/nucor-corp-stock-hits-alltime-high-at-23545-usd-93CH-4685485</guid>
       <pubDate>13/05/2026 12:42</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Buda Juice informa os resultados do primeiro trimestre de 2026: transcrição completa da teleconferência de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/buda-juice-reports-q1-2026-152349258.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/buda-juice-reports-q1-2026-152349258.html</guid>
-      <pubDate>13/05/2026 12:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Benzinga/dd589bd6eabf1e5c8d4bc740e0ff5d2d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
