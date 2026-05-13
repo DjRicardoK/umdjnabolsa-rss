@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 18:40:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:40:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Kiyosaki alerta sobre a ‘maior depressão da história mundial’ – com milhões de boomers enfrentando o desastre...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/kiyosaki-warns-greatest-depression-world-133500908.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/kiyosaki-warns-greatest-depression-world-133500908.html</guid>
+      <pubDate>13/05/2026 18:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/aa71d1f71af1e4be7eeeffefb7ca8bc7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da KKR &amp; Co.?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/viant-technology-inc-q1-2026-123000770.html</guid>
       <pubDate>13/05/2026 17:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/75bf18a906e8ac8a211a7db2248c85fa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dow Jones Futures: Techs caem com petróleo a US$ 100, comentários da AI da Coreia do Sul; Inflação do IPC...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-chip-stocks-oil-prices-trump-iran-comments-cpi-inflation/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-chip-stocks-oil-prices-trump-iran-comments-cpi-inflation/?src=A00220&yptr=yahoo</guid>
-      <pubDate>13/05/2026 17:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/304ee85133bbb6e36683a05ed789ce00" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
