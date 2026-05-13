@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 06:48:16 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 06:48:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: AAC Clyde Space Q1 2025 revela impactos na cadeia de suprimentos</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-aac-clyde-space-q1-2025-reveals-supply-chain-impacts-93CH-4683579</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-aac-clyde-space-q1-2025-reveals-supply-chain-impacts-93CH-4683579</guid>
+      <pubDate>13/05/2026 06:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro do Alibaba ADR perdido em ¥ 5,12, receita ficou aquém das estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/heron-therapeutics-inc-q1-2026-205157999.html</guid>
       <pubDate>13/05/2026 05:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/ccc98be610ce6bb67234e59ca1a74823" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Carlyle Secured Lending, Inc. Resumo da teleconferência de ganhos do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/carlyle-secured-lending-inc-q1-204842914.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/carlyle-secured-lending-inc-q1-204842914.html</guid>
-      <pubDate>13/05/2026 05:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/18d44898bdc656832982c04511920ac6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
