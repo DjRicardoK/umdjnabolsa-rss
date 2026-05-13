@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 12:27:49 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 12:29:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fed de NY derrota recurso de banco porto-riquenho vinculado ao corte relacionado à Venezuela</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/ny-fed-defeats-puerto-rican-151523159.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/ny-fed-defeats-puerto-rican-151523159.html</guid>
+      <pubDate>13/05/2026 12:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/73f02af21f02264529aa4638b245dbd2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Nvidia e Chip Peers resilientes enquanto Trump visita a China</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/earnings/all-eyes-on-klarna-earnings-as-credit-push-meets-revenue-test-93CH-4685119</link>
       <guid isPermaLink="false">https://www.investing.com/news/earnings/all-eyes-on-klarna-earnings-as-credit-push-meets-revenue-test-93CH-4685119</guid>
       <pubDate>13/05/2026 10:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Fiserv atingem baixa de 52 semanas a 52,87 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/fiserv-stock-hits-52week-low-at-5287-usd-93CH-4685058</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/fiserv-stock-hits-52week-low-at-5287-usd-93CH-4685058</guid>
-      <pubDate>13/05/2026 10:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
