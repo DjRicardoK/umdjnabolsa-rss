@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 03:56:04 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 03:56:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Mowi Q1 2026 mostra fortes receitas em meio a ventos contrários...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-mowi-q1-2026-shows-strong-revenue-amid-industry-headwinds-93CH-4683265</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mowi-q1-2026-shows-strong-revenue-amid-industry-headwinds-93CH-4683265</guid>
+      <pubDate>13/05/2026 03:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Eidesvik Offshore Q1 2026 revela aumento de lucro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/unusual-call-options-microsoft-shows-173002552.html</guid>
       <pubDate>13/05/2026 02:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/33c5d3ff84b8329590939225add2955c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Asia FX mantém perdas após forte IPC dos EUA; Reunião Trump-Xi se aproxima</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/asia-fx-holds-losses-after-hot-us-cpi-trumpxi-meeting-looms-4683152</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-holds-losses-after-hot-us-cpi-trumpxi-meeting-looms-4683152</guid>
-      <pubDate>13/05/2026 02:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE2C0N2_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
