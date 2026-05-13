@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 09:24:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 09:24:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Coinbase se mantém acima do nível chave após perda de ganhos; O estoque é uma compra agora?</title>
+      <description></description>
+      <link>https://www.investors.com/research/coinbase-stock-buy-now-may-2026/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/coinbase-stock-buy-now-may-2026/?src=A00220&yptr=yahoo</guid>
+      <pubDate>13/05/2026 09:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/670a85e77ef4eec9f47663804eecaf86" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: Dow cai, mas tecnologia se recupera à medida que a cúpula Trump-Xi se aproxima;...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-totvs-q1-2026-beats-estimates-stock-surges-postearnings-93CH-4683883</guid>
       <pubDate>13/05/2026 08:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que está em jogo quando Trump e um exército de CEOs vão para a China</title>
-      <description>O Irão, o comércio e Taiwan estão na agenda da visita de Trump à China.</description>
-      <link>https://www.marketwatch.com/story/whats-at-stake-as-trump-and-an-army-of-ceos-go-to-china-24a64200?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/whats-at-stake-as-trump-and-an-army-of-ceos-go-to-china-24a64200?mod=mw_rss_topstories</guid>
-      <pubDate>13/05/2026 08:01</pubDate>
-      <enclosure url="https://images.mktw.net/im-76109497" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
