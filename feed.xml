@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 03:44:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 03:52:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do gás natural sobem com as previsões meteorológicas mais quentes nos EUA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-rally-warmer-191814099.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-rally-warmer-191814099.html</guid>
+      <pubDate>13/05/2026 03:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a5d821eefdab99b906bc9a47593eda0e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Fox Corp Q3 2026 supera as expectativas, as ações sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-stanley-171603149.html</guid>
       <pubDate>13/05/2026 02:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b87145a8205cfa50d088401516fcd3dd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Seadrill Limited</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/seadrill-limited-q1-2026-earnings-170407501.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/seadrill-limited-q1-2026-earnings-170407501.html</guid>
-      <pubDate>13/05/2026 01:50</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/a9c132e48397b7666ef716c6c9e46ea5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
