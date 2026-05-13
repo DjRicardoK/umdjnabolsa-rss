@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 00:16:26 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 00:19:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Chipmaker Cerebras aumenta IPO em meio ao boom de ações de IA</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/ai-stocks-cerebras-ipo-cbrs-stock/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/ai-stocks-cerebras-ipo-cbrs-stock/?src=A00220&yptr=yahoo</guid>
+      <pubDate>13/05/2026 00:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/2715eb2456c2daae040f750954b6f428" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da Archer-Daniels-Midland?</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-alkami-technology-q1-2026-misses-eps-revenue-beats-93CH-4677031</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-alkami-technology-q1-2026-misses-eps-revenue-beats-93CH-4677031</guid>
       <pubDate>11/05/2026 11:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Planet Labs atingem o máximo histórico de 41,76 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/planet-labs-stock-reaches-alltime-high-at-4176-usd-93CH-4676996</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/planet-labs-stock-reaches-alltime-high-at-4176-usd-93CH-4676996</guid>
-      <pubDate>11/05/2026 11:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
