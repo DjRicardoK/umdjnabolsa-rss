@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 13:07:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 13:10:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ameaças de IA estão se acelerando e essas três ações de segurança cibernética abaixo de US$ 30 foram...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/ai-threats-accelerating-3-cybersecurity-160129283.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/ai-threats-accelerating-3-cybersecurity-160129283.html</guid>
+      <pubDate>13/05/2026 13:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/17ab2422e9053ce38d1e044c7e3d1e82" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas da Bélgica sobem no fechamento do pregão; BEL 20 sobe 0,71%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/nvidia-stock-chip-peers-resilient-as-trump-visits-china/?src=A00220&yptr=yahoo</guid>
       <pubDate>13/05/2026 12:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/03d4b6028941af989bf5499751615ba4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações de crescimento estão superando a segurança hoje</title>
-      <description></description>
-      <link>https://www.barrons.com/livecoverage/stock-market-news-today-051326/card/growth-stocks-are-outperforming-safety-today-ToSvaDfQCfvX0Cp4Juje?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-051326/card/growth-stocks-are-outperforming-safety-today-ToSvaDfQCfvX0Cp4Juje?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>13/05/2026 12:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
