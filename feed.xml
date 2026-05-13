@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 14:18:34 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 14:25:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os lucros da Albemarle no primeiro trimestre de 2026 superam as...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-albemarles-q1-2026-earnings-soar-past-expectations-93CH-4685732</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-albemarles-q1-2026-earnings-soar-past-expectations-93CH-4685732</guid>
+      <pubDate>13/05/2026 14:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE NVIDIA Corporation (NVDA): uma das melhores ações de IA preparadas para um crescimento robusto em parcerias...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/why-a-buzzy-fund-that-advertised-stakes-in-hot-startups-like-anthropic-suddenly-plunged-be26beb8?mod=mw_rss_topstories</guid>
       <pubDate>13/05/2026 13:25</pubDate>
       <enclosure url="https://images.mktw.net/im-09004178" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Trump chega à China com US$ 16 trilhões em poder de CEO – e um grande pedido para Xi</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/trump-lands-china-16-trillion-161415279.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/trump-lands-china-16-trillion-161415279.html</guid>
-      <pubDate>13/05/2026 13:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Benzinga/91ec4d1457974dab01e960ec637b7a3b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
