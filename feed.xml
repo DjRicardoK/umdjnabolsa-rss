@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 09:30:42 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 09:30:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE 5 testes que Kevin Warsh enfrentará no primeiro dia como presidente do Fed</title>
+      <description>Wall Street e Washington estarão atentos para ver como ele reage à pressão política e se consegue envolver o banco central nas grandes mudanças que defende.</description>
+      <link>https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories</guid>
+      <pubDate>13/05/2026 09:30</pubDate>
+      <enclosure url="https://images.mktw.net/im-76320037" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dólar em alta de uma semana devido à incerteza no Oriente Médio e inflação quente nos EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/why-nvidia-nvda-pushing-deeper-105801306.html</guid>
       <pubDate>13/05/2026 08:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/db28cb45a3bc4c1e8fbd43617dde2226" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Petróleo pouco mudou com a chegada de Trump à China</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/oil-prices-slip-teetering-iran-010021136.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/oil-prices-slip-teetering-iran-010021136.html</guid>
-      <pubDate>13/05/2026 08:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/14b428a386d09c8a92c0547d0317d1c2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
