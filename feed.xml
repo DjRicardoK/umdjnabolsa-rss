@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 12:17:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 12:27:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Nvidia e Chip Peers resilientes enquanto Trump visita a China</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/nvidia-stock-chip-peers-resilient-as-trump-visits-china/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/nvidia-stock-chip-peers-resilient-as-trump-visits-china/?src=A00220&yptr=yahoo</guid>
+      <pubDate>13/05/2026 12:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/03d4b6028941af989bf5499751615ba4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações de crescimento estão superando a segurança hoje</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/fiserv-stock-hits-52week-low-at-5287-usd-93CH-4685058</guid>
       <pubDate>13/05/2026 10:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, Nasdaq mistos à medida que os dados de inflação do PPI chegam quentes</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ppi-inflation-data-comes-in-hot-223045340.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ppi-inflation-data-comes-in-hot-223045340.html</guid>
-      <pubDate>13/05/2026 10:45</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/_.cjqw2Ws886NFsCFa95Yg--~B/aD0zNjA2O3c9NTQwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/994901ae-2a33-4eb5-8e5c-f671bf975faf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
