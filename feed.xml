@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 05:23:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 05:27:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados da Kokusai Electric no quarto trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-kokusai-electric-q4-2026-results-exceed-forecasts-stock-drops-93CH-4683401</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kokusai-electric-q4-2026-results-exceed-forecasts-stock-drops-93CH-4683401</guid>
+      <pubDate>13/05/2026 05:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado de ações não precisa de cortes do Fed, diz Morgan Stanley ao elevar a visão do S&amp;P 500</title>
       <description>É a temporada de novas metas de preços no mercado de ações, e o Morgan Stanley juntou-se ao escalão superior das metas de Wall Street para o S&amp;P 500 com sua nova perspectiva...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-eidesvik-offshore-q1-2026-reveals-profit-rise-93CH-4683266</guid>
       <pubDate>13/05/2026 03:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os preços do gás natural sobem com as previsões meteorológicas mais quentes nos EUA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-rally-warmer-191814099.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/nat-gas-prices-rally-warmer-191814099.html</guid>
-      <pubDate>13/05/2026 03:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a5d821eefdab99b906bc9a47593eda0e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
