@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 20:57:26 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 20:57:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fed de Nova York encontra problemas contínuos com empréstimos estudantis no primeiro trimestre</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/york-fed-finds-ongoing-student-150500326.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/york-fed-finds-ongoing-student-150500326.html</guid>
+      <pubDate>13/05/2026 20:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/cd4adf01006c5d47cb50993422aaf0f3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Aviso de cessar-fogo de Trump eleva novamente os preços do petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-planet-13-sees-q1-revenue-decline-amid-strategic-shifts-93CH-4686824</guid>
       <pubDate>13/05/2026 19:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os varejistas continuam mexendo em seus assistentes de compras com IA, em busca de melhores serviços</title>
-      <description>A Amazon combinará seu assistente de compras Rufus AI com sua plataforma Alexa +, apenas duas semanas depois que o CEO Andy Jassy elogiou Rufus.</description>
-      <link>https://www.marketwatch.com/story/retailers-keep-tinkering-with-their-ai-shopping-assistants-in-search-of-better-service-d17b01b0?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/retailers-keep-tinkering-with-their-ai-shopping-assistants-in-search-of-better-service-d17b01b0?mod=mw_rss_topstories</guid>
-      <pubDate>13/05/2026 19:04</pubDate>
-      <enclosure url="https://images.mktw.net/im-12226983" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
