@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 13:45:28 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 13:51:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Explicado: O que é um DEX perpétuo? Uma cartilha de Wall Street com Decibel</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/explained-perpetual-dex-wall-street-152000841.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/explained-perpetual-dex-wall-street-152000841.html</guid>
+      <pubDate>13/05/2026 13:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/thestreet_881/78a47670fc89ec8bff808c3a974110ff" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Virtu Financial atingem o máximo histórico de 52,21 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/credit-agricole-predicts-south-african-rate-hikes-amid-inflation-93CH-4685560</guid>
       <pubDate>13/05/2026 13:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Alemanha sobem no fechamento do pregão; DAX sobe 0,61%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-061-4685562</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-061-4685562</guid>
-      <pubDate>13/05/2026 13:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED911O8_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
