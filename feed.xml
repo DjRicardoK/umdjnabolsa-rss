@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 13:52:49 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 14:04:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da LiqTech International, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/liqtech-international-inc-q1-2026-165333100.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/liqtech-international-inc-q1-2026-165333100.html</guid>
+      <pubDate>13/05/2026 14:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/0b6eef8dd653b4b3ff6fdc4475c476c4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Esta queridinha da Casa Branca acaba de se tornar a 12ª empresa privada mais valiosa. Um IPO estará chegando.</title>
       <description>A empresa de defesa Anduril, que está a ajudar a construir o escudo antimíssil “Golden Dome” do Presidente Trump, concluiu uma ronda de financiamento avaliada em 61 mil milhões de...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/ai-threats-accelerating-3-cybersecurity-160129283.html</guid>
       <pubDate>13/05/2026 13:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/17ab2422e9053ce38d1e044c7e3d1e82" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas da Bélgica sobem no fechamento do pregão; BEL 20 sobe 0,71%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-071-4685559</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-071-4685559</guid>
-      <pubDate>13/05/2026 13:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB970WT_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
