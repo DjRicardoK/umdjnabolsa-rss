@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 01:41:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:45:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que torna a Zeta Global Holdings Corp. (ZETA) uma das melhores ações de tecnologia de alto retorno</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/makes-zeta-global-holdings-corp-170320940.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/makes-zeta-global-holdings-corp-170320940.html</guid>
+      <pubDate>13/05/2026 01:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3c76c045c34a5ed5dc3a2a2c714e74cf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da OPAL Fuels Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-amd-143813826.html</guid>
       <pubDate>12/05/2026 23:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c21fbacb6c2f871b98f480a40a563913" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aristocrata HY26 desliza: crescimento de 19% nos lucros impulsiona alta de 8% nas ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/aristocrat-hy26-slides-19-earnings-growth-drives-8-stock-surge-93CH-4683121</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/aristocrat-hy26-slides-19-earnings-growth-drives-8-stock-surge-93CH-4683121</guid>
-      <pubDate>12/05/2026 23:25</pubDate>
-      <enclosure url="https://csv-storage.forexpros.com/slides/21a9d8137b5fd5e7b3691ecd4d2589823745285517d841f338ef93b727b66878.png" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
