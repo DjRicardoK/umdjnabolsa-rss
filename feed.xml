@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 11:36:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:37:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE 20 ações no S&amp;P 500 de empresas com vendas crescentes e margens de lucro melhores</title>
+      <description>Os grandes vencedores desta temporada de lucros incluem fabricantes de hardware orientado para IA, mas a lista também inclui algumas surpresas.</description>
+      <link>https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-of-companies-with-soaring-sales-and-improving-profit-margins-eb74005a?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-of-companies-with-soaring-sales-and-improving-profit-margins-eb74005a?mod=mw_rss_topstories</guid>
+      <pubDate>13/05/2026 11:37</pubDate>
+      <enclosure url="https://images.mktw.net/im-38273633" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O dia do acerto de contas fiscal da América se aproxima</title>
       <description>A inflação acabou de eliminar todos os ganhos salariais dos EUA desde que Donald Trump foi eleito presidente.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/wholesale-prices-jump-to-4-year-high-and-point-to-even-more-inflation-in-the-next-few-months-00666242?mod=mw_rss_topstories</guid>
       <pubDate>13/05/2026 09:45</pubDate>
       <enclosure url="https://images.mktw.net/im-21823818" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE 5 testes que Kevin Warsh enfrentará no primeiro dia como presidente do Fed</title>
-      <description>Wall Street e Washington estarão atentos para ver como ele reage à pressão política e se consegue envolver o banco central nas grandes mudanças que defende.</description>
-      <link>https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories</guid>
-      <pubDate>13/05/2026 09:30</pubDate>
-      <enclosure url="https://images.mktw.net/im-76320037" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
