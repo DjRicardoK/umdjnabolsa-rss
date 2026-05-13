@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 01:36:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:38:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Preços do petróleo caem com cessar-fogo instável no Irã enquanto Trump se dirige à China</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/oil-prices-slip-on-teetering-iran-ceasefire-as-trump-heads-to-china-4683082</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-prices-slip-on-teetering-iran-ceasefire-as-trump-heads-to-china-4683082</guid>
+      <pubDate>13/05/2026 01:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C01L_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Direct Digital Holdings, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-phoenix-new-media-sees-strong-q1-2026-revenue-growth-93CH-4683115</guid>
       <pubDate>12/05/2026 23:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE OCDE prevê que o Japão aumente as taxas de juros para 2% até o final de 2027</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/oecd-sees-japan-raisinginterest-rates-to-2-by-end2027-4683117</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/oecd-sees-japan-raisinginterest-rates-to-2-by-end2027-4683117</guid>
-      <pubDate>12/05/2026 23:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C03D_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
