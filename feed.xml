@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 15:05:34 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 15:05:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street diz que a euforia do mercado de ações tem ecos de 1999, mas uma base mais sólida</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/wall-street-says-stock-market-euphoria-has-echoes-of-1999-but-a-firmer-foundation-180757836.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/wall-street-says-stock-market-euphoria-has-echoes-of-1999-but-a-firmer-foundation-180757836.html</guid>
+      <pubDate>13/05/2026 15:05</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/z65CBKjvTHk0WD5zPfx7WQ--~B/aD0xNTI4O3c9MjA2NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/54f84180-f144-4204-b352-0ec453359026" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os 17 momentos mais memoráveis ​​de Jerome Powell depois de liderar o Federal Reserve por 8 anos agitados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-slides-sp-500-and-nasdaq-rise-as-ppi-inflation-data-comes-in-hot-223045547.html</guid>
       <pubDate>13/05/2026 13:34</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/_.cjqw2Ws886NFsCFa95Yg--~B/aD0zNjA2O3c9NTQwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/994901ae-2a33-4eb5-8e5c-f671bf975faf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tenho $ 500.000 em poupança para a aposentadoria. É sensato investir em uma única empresa?</title>
-      <description>A Securities Investor Protection Corporation oferece cobertura de até US$ 500.000 para ações, títulos e fundos mútuos, incluindo até US$ 250.000 em dinheiro.</description>
-      <link>https://www.marketwatch.com/story/im-68-is-it-wise-to-invest-my-500-000-retirement-savings-with-a-single-investment-firm-e14e81e9?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/im-68-is-it-wise-to-invest-my-500-000-retirement-savings-with-a-single-investment-firm-e14e81e9?mod=mw_rss_topstories</guid>
-      <pubDate>13/05/2026 13:31</pubDate>
-      <enclosure url="https://images.mktw.net/im-34581456" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
