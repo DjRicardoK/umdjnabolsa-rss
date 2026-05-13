@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 12 May 2026 23:26:52 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 23:36:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Perspectiva das ações da Amphenol: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amphenol-stock-outlook-wall-street-145614609.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amphenol-stock-outlook-wall-street-145614609.html</guid>
+      <pubDate>12/05/2026 23:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2e7e9a95ee5fde05a18b8ade4b549eca" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar apaga ganhos iniciais com alta das ações</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-novo-nordisk-stock-rating-at-hold-42-target-93CH-4676936</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-novo-nordisk-stock-rating-at-hold-42-target-93CH-4676936</guid>
       <pubDate>11/05/2026 11:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Truist reitera compra de ações da United Parks após falha no primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-united-parks-stock-after-q1-miss-93CH-4676857</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-united-parks-stock-after-q1-miss-93CH-4676857</guid>
-      <pubDate>11/05/2026 10:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
