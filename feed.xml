@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 02:25:52 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 02:25:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os lucros da Mowi no primeiro trimestre aumentam à medida que os volumes recordes de colheita compensam os...</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/mowi-q1-earnings-rise-as-record-harvest-volumes-offset-weaker-salmon-prices-4683160</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/mowi-q1-earnings-rise-as-record-harvest-volumes-offset-weaker-salmon-prices-4683160</guid>
+      <pubDate>13/05/2026 02:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/4f3da11db11164b9ee973d7fbd2c17bf_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros do primeiro trimestre da Merck caem, mas superaram as expectativas; Orientação para 2026 levantada</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/ahead-of-trumpxi-summit-china-warns-on-us-arms-sales-to-taiwan-4683139</guid>
       <pubDate>13/05/2026 01:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C04B_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas asiáticas oscilam antes da cúpula EUA-China; KOSPI se recupera com ganhos de chips</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/asia-stocks-dither-ahead-of-uschina-summit-kospi-rebounds-on-chip-gains-4683135</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-dither-ahead-of-uschina-summit-kospi-rebounds-on-chip-gains-4683135</guid>
-      <pubDate>13/05/2026 01:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA9Q076_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
