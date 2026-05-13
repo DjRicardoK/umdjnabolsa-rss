@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 14:04:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 14:05:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Corporación América Airports S.A.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/corporaci-n-am-rica-airports-165049486.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/corporaci-n-am-rica-airports-165049486.html</guid>
+      <pubDate>13/05/2026 14:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/350485f1c653ee460704e0212baa4ef6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da LiqTech International, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-061-4685569</guid>
       <pubDate>13/05/2026 13:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC2028Y_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ameaças de IA estão se acelerando e essas três ações de segurança cibernética abaixo de US$ 30 foram...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/ai-threats-accelerating-3-cybersecurity-160129283.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/ai-threats-accelerating-3-cybersecurity-160129283.html</guid>
-      <pubDate>13/05/2026 13:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/17ab2422e9053ce38d1e044c7e3d1e82" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
