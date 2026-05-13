@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 03:06:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 03:09:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar perto da alta de uma semana, com grandes fãs da inflação nos EUA, Fed aumenta apostas e negociações de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/dollar-near-oneweek-high-as-hot-us-inflation-fans-fed-hike-bets-peace-talks-stall-4683096</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-near-oneweek-high-as-hot-us-inflation-fans-fed-hike-bets-peace-talks-stall-4683096</guid>
+      <pubDate>13/05/2026 03:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C02D_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja como a Nvidia está conduzindo silenciosamente todo o rali do S&amp;P 500 para recordes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/makes-zeta-global-holdings-corp-170320940.html</guid>
       <pubDate>13/05/2026 01:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3c76c045c34a5ed5dc3a2a2c714e74cf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da OPAL Fuels Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/opal-fuels-inc-q1-2026-165642132.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/opal-fuels-inc-q1-2026-165642132.html</guid>
-      <pubDate>13/05/2026 01:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/417d7c6420f700aea11c672ee3740ade" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
