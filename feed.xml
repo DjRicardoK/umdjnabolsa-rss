@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 07:47:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 07:48:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ed Yardeni acaba de definir a meta mais alta do S&amp;P 500 em Wall Street – mas alerta que um colapso pode...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/ed-yardeni-just-set-highest-103500174.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/ed-yardeni-just-set-highest-103500174.html</guid>
+      <pubDate>13/05/2026 07:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/b224678e7dd246fed9a4dd828aebfc98" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Boeing poderia finalmente reacender seus negócios na China. Isso dará nova vida ao seu estoque?</title>
       <description>Wall Street espera que a Boeing esteja prestes a anunciar uma grande encomenda da China, consolidando a sua recuperação.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-oneok-stock-price-target-to-88-on-earnings-beat-93CH-4683542</guid>
       <pubDate>13/05/2026 06:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE UBS adia cortes nas taxas do Fed devido a preocupações com a inflação, à medida que os empregos permanecem...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ubs-delays-fed-rate-cuts-on-inflation-concerns-as-jobs-stay-resilient-4683516</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ubs-delays-fed-rate-cuts-on-inflation-concerns-as-jobs-stay-resilient-4683516</guid>
-      <pubDate>13/05/2026 06:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C0LZ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
