@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 18:40:18 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:41:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: EPS do primeiro trimestre de 2026 do Grocery Outlet supera as...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-grocery-outlets-q1-2026-eps-beats-expectations-93CH-4686775</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-grocery-outlets-q1-2026-eps-beats-expectations-93CH-4686775</guid>
+      <pubDate>13/05/2026 18:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Kiyosaki alerta sobre a ‘maior depressão da história mundial’ – com milhões de boomers enfrentando o desastre...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/consolidated-water-co-ltd-q1-123000412.html</guid>
       <pubDate>13/05/2026 17:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/b16f413deb8980b921866fa7b1ccb5cf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Viant Technology Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/viant-technology-inc-q1-2026-123000770.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/viant-technology-inc-q1-2026-123000770.html</guid>
-      <pubDate>13/05/2026 17:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/75bf18a906e8ac8a211a7db2248c85fa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
