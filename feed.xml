@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 01:25:19 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:25:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da Denison Mines perdido em US$ 0,08, receita superou estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/denison-mines-earnings-missed-by-008-revenue-topped-estimates-4683142</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/denison-mines-earnings-missed-by-008-revenue-topped-estimates-4683142</guid>
+      <pubDate>13/05/2026 01:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE CEO da Nvidia se junta à missão de Trump de ‘abrir’ a China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/microns-stock-soars-toward-fresh-highs-as-a-virtuous-cycle-for-memory-unfolds-62a0026a?mod=mw_rss_topstories</guid>
       <pubDate>11/05/2026 12:11</pubDate>
       <enclosure url="https://images.mktw.net/im-00348993" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Trump e Xi da China preparam-se para conversações que abrangem o Irão, nuclear, comércio e IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/trump-and-chinas-xi-set-for-talks-spanning-iran-nuclear-trade-and-ai-4676464</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-and-chinas-xi-set-for-talks-spanning-iran-nuclear-trade-and-ai-4676464</guid>
-      <pubDate>11/05/2026 12:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM490B2_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
