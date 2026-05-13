@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 19:10:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 19:10:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações pressionadas pelo aumento dos preços do petróleo e pela aceleração da inflação</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/stocks-pressured-rising-oil-prices-140826130.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/stocks-pressured-rising-oil-prices-140826130.html</guid>
+      <pubDate>13/05/2026 19:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d328f7db7fa019e809cef3d7281ab08b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs diz que a passagem do S&amp;P 500 para além de 7.100 é &apos;espuma&apos; - uma vez anterior, Wall Street...</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lightwave-logics-q1-2026-results-show-strategic-investment-focus-93CH-4686692</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lightwave-logics-q1-2026-results-show-strategic-investment-focus-93CH-4686692</guid>
-      <pubDate>13/05/2026 18:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: o primeiro trimestre de 2026 da Inovio destaca o progresso...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-inovios-q1-2026-highlights-clinical-progress-stock-rises-284-93CH-4686694</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-inovios-q1-2026-highlights-clinical-progress-stock-rises-284-93CH-4686694</guid>
       <pubDate>13/05/2026 18:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
