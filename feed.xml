@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 19:30:26 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 19:37:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump e Xi se preparam para negociações em Pequim com trégua comercial e guerra com o Irã em jogo</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/trump-xi-set-for-beijing-talks-with-trade-truce-iran-war-at-stake-4686875</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/trump-xi-set-for-beijing-talks-with-trade-truce-iran-war-at-stake-4686875</guid>
+      <pubDate>13/05/2026 19:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C1PQ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dólar sobe com força do petróleo bruto conforme relatório do CPI dos EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-kkr-133021678.html</guid>
       <pubDate>13/05/2026 18:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5e8f936c3140d7b4b2c375470b4a7378" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Rubio: EUA querem que a China pressione o Irã para mudar de rumo no Golfo</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/rubio-us-wants-china-to-press-iran-to-change-course-in-gulf-4686764</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/rubio-us-wants-china-to-press-iran-to-change-course-in-gulf-4686764</guid>
-      <pubDate>13/05/2026 18:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C1NR_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
