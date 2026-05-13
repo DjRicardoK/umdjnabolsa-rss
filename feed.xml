@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 06:15:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 06:27:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs aumenta o preço-alvo das ações da ONEOK para US$ 88 com lucros superados</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-oneok-stock-price-target-to-88-on-earnings-beat-93CH-4683542</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-raises-oneok-stock-price-target-to-88-on-earnings-beat-93CH-4683542</guid>
+      <pubDate>13/05/2026 06:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE UBS adia cortes nas taxas do Fed devido a preocupações com a inflação, à medida que os empregos permanecem...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/japanese-investors-sell-foreign-stocks-in-april-as-energy-costs-rise-4683343</guid>
       <pubDate>13/05/2026 05:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C0J1_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Columbus Q1 2026 mostra resultados mistos em meio aos desafios...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-columbus-q1-2026-shows-mixed-results-amid-market-challenges-93CH-4683345</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-columbus-q1-2026-shows-mixed-results-amid-market-challenges-93CH-4683345</guid>
-      <pubDate>13/05/2026 05:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
