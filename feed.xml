@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 12 May 2026 23:23:13 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 23:23:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Phoenix New Media vê forte crescimento de receita no primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-phoenix-new-media-sees-strong-q1-2026-revenue-growth-93CH-4683115</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-phoenix-new-media-sees-strong-q1-2026-revenue-growth-93CH-4683115</guid>
+      <pubDate>12/05/2026 23:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE OCDE prevê que o Japão aumente as taxas de juros para 2% até o final de 2027</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-arko-petroleum-q1-2026-growth-amid-fuel-volatility-93CH-4676859</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-arko-petroleum-q1-2026-growth-amid-fuel-volatility-93CH-4676859</guid>
       <pubDate>11/05/2026 10:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Hormel Foods atingem o menor nível em 52 semanas, a 20,29 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/hormel-foods-stock-hits-52week-low-at-2029-usd-93CH-4676811</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/hormel-foods-stock-hits-52week-low-at-2029-usd-93CH-4676811</guid>
-      <pubDate>11/05/2026 10:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
