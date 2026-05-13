@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 13:25:16 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 13:28:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Royalty Pharma atingem alta de 52 semanas a 52,16 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/royalty-pharma-stock-hits-52week-high-at-5216-usd-93CH-4685603</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/royalty-pharma-stock-hits-52week-high-at-5216-usd-93CH-4685603</guid>
+      <pubDate>13/05/2026 13:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que um fundo movimentado que anunciava participações em startups importantes como a Anthropic despencou...</title>
       <description>As ações do fundo fechado Destiny Tech100 foram destruídas esta semana, refletindo a promessa e o perigo de tentar acessar as ações antes de seus IPOs.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-179-4685483</guid>
       <pubDate>13/05/2026 12:42</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Nucor Corp atingem o máximo histórico de 235,45 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/nucor-corp-stock-hits-alltime-high-at-23545-usd-93CH-4685485</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/nucor-corp-stock-hits-alltime-high-at-23545-usd-93CH-4685485</guid>
-      <pubDate>13/05/2026 12:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
