@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 03:09:52 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 03:13:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Antes dos ganhos do Plug Power, aqui está o que os dados de opções do gráfico de barras mostram para o...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/ahead-plug-power-earnings-barchart-183533992.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/ahead-plug-power-earnings-barchart-183533992.html</guid>
+      <pubDate>13/05/2026 03:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/754d1add9645fb46c7ad31fc4fa63ccc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Air China propõe CEO da Cathay Pacific como diretor não executivo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-treasurys-bessent-chinas-he-hold-talks-in-south-korea-ahead-of-trumpxi-summit-4683146</guid>
       <pubDate>13/05/2026 01:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C07J_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (PGY) começa 2026 com resultados surpreendentes</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/pagaya-technologies-ltd-pgy-starts-170318891.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/pagaya-technologies-ltd-pgy-starts-170318891.html</guid>
-      <pubDate>13/05/2026 01:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6a618c375e8ee3e401f8460a8297127a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
