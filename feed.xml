@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 16:36:14 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 16:36:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os ganhos da Planet Fitness no primeiro trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-planet-fitness-q1-2026-earnings-beat-expectations-93CH-4686051</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-planet-fitness-q1-2026-earnings-beat-expectations-93CH-4686051</guid>
+      <pubDate>13/05/2026 16:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Visualização instantânea: A inflação na Índia sobe em abril para 3,48% à medida que os riscos energéticos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/article/wall-street-says-stock-market-euphoria-has-echoes-of-1999-but-a-firmer-foundation-180757836.html</guid>
       <pubDate>13/05/2026 15:05</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/z65CBKjvTHk0WD5zPfx7WQ--~B/aD0xNTI4O3c9MjA2NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/54f84180-f144-4204-b352-0ec453359026" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os 17 momentos mais memoráveis ​​de Jerome Powell depois de liderar o Federal Reserve por 8 anos agitados</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/article/jerome-powells-17-most-memorable-moments-after-leading-the-federal-reserve-for-8-eventful-years-192006619.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/article/jerome-powells-17-most-memorable-moments-after-leading-the-federal-reserve-for-8-eventful-years-192006619.html</guid>
-      <pubDate>13/05/2026 15:05</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/RrBK0XjeLKDcXI7EcAiTnw--~B/aD0zMjU4O3c9NDg4MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/c5efb8d4-d745-4fbc-84fd-722b41a16b44" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
