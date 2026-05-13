@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 03:09:45 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 03:09:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Air China propõe CEO da Cathay Pacific como diretor não executivo</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/air-china-proposes-cathay-pacific-ceo-as-nonexecutive-director-93CH-4683191</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/air-china-proposes-cathay-pacific-ceo-as-nonexecutive-director-93CH-4683191</guid>
+      <pubDate>13/05/2026 03:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dólar perto da alta de uma semana, com grandes fãs da inflação nos EUA, Fed aumenta apostas e negociações de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/pagaya-technologies-ltd-pgy-starts-170318891.html</guid>
       <pubDate>13/05/2026 01:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6a618c375e8ee3e401f8460a8297127a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O que torna a Zeta Global Holdings Corp. (ZETA) uma das melhores ações de tecnologia de alto retorno</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/makes-zeta-global-holdings-corp-170320940.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/makes-zeta-global-holdings-corp-170320940.html</guid>
-      <pubDate>13/05/2026 01:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/3c76c045c34a5ed5dc3a2a2c714e74cf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
