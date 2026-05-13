@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 13:34:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 13:38:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação está caminhando para 6%? Provavelmente não – mas vai piorar antes de melhorar.</title>
+      <description>Nos recessos sombrios da economia, as pressões sobre os preços estão a borbulhar e a prever outra onda de inflação. A inflação está realmente caminhando para 5% ou 6% novamente,...</description>
+      <link>https://www.marketwatch.com/story/is-inflation-heading-to-6-probably-not-but-it-will-get-worse-before-it-gets-better-01ba58b0?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/is-inflation-heading-to-6-probably-not-but-it-will-get-worse-before-it-gets-better-01ba58b0?mod=mw_rss_topstories</guid>
+      <pubDate>13/05/2026 13:38</pubDate>
+      <enclosure url="https://images.mktw.net/im-57054682" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE PPI quente; Ganho nas semifinais na visita de Jensen Huang à China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/what-ceos-from-tesla-nvidia-and-over-a-dozen-other-companies-hope-to-gain-by-joining-trump-in-china-98f1559c?mod=mw_rss_topstories</guid>
       <pubDate>13/05/2026 13:03</pubDate>
       <enclosure url="https://images.mktw.net/im-78251824" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise-As guerras entre Irã e Ucrânia foram o pior impacto em anos na produção de refino de petróleo</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/analysisiran-ukraine-wars-deliver-worst-hit-in-years-to-oil-refining-output-4685521</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysisiran-ukraine-wars-deliver-worst-hit-in-years-to-oil-refining-output-4685521</guid>
-      <pubDate>13/05/2026 12:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C19T_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
