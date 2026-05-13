@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 04:56:59 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 05:00:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações fecham em alta com fortes ganhos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-settle-higher-strong-earnings-204027001.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-settle-higher-strong-earnings-204027001.html</guid>
+      <pubDate>13/05/2026 05:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b63c711a1d81edaea11cbb32b25d904b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Círculo estoura, ações criptográficas surgem antes da audiência do Clarity Act</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/air-china-proposes-cathay-pacific-ceo-as-nonexecutive-director-93CH-4683191</guid>
       <pubDate>13/05/2026 03:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dólar perto da alta de uma semana, com grandes fãs da inflação nos EUA, Fed aumenta apostas e negociações de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/dollar-near-oneweek-high-as-hot-us-inflation-fans-fed-hike-bets-peace-talks-stall-4683096</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-near-oneweek-high-as-hot-us-inflation-fans-fed-hike-bets-peace-talks-stall-4683096</guid>
-      <pubDate>13/05/2026 03:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C02D_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
