@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 02:52:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 02:53:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui estão três ações próximas aos pontos de compra no calendário de relatórios de ganhos</title>
+      <description></description>
+      <link>https://www.investors.com/news/earnings-calendar-nextpower-nxt-stock-orix-vicor/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/earnings-calendar-nextpower-nxt-stock-orix-vicor/?src=A00220&yptr=yahoo</guid>
+      <pubDate>13/05/2026 02:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/8a0c4c601549bf12b72f782cae268e2a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O estoque da Datadog é o mais recente a refutar o pânico do Apocalipse SaaS. Por que Wall Street adora DDOG...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/investcorp-credit-management-bdc-earnings-missed-by-003-revenue-fell-short-of-estimates-4683141</guid>
       <pubDate>13/05/2026 01:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bessent, do Tesouro dos EUA, chega à Coreia do Sul para negociações comerciais com He da China antes da...</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/us-treasurys-bessent-arrives-in-south-korea-for-trade-talks-with-chinas-he-ahead-of-leaders-summit-4683054</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-treasurys-bessent-arrives-in-south-korea-for-trade-talks-with-chinas-he-ahead-of-leaders-summit-4683054</guid>
-      <pubDate>13/05/2026 01:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C00N_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
