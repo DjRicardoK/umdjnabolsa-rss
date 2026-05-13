@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 08:46:30 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:54:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: U.S. Energy Corp Q1 2026 perde EPS, ações caem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-us-energy-corp-q1-2026-misses-eps-stock-dips-93CH-4684289</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-us-energy-corp-q1-2026-misses-eps-stock-dips-93CH-4684289</guid>
+      <pubDate>13/05/2026 08:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Atualizações ao vivo de ganhos: On Holding supera as estimativas de Wall Street, ações da Hims &amp; Hers...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-orica-q1-2026-sees-strong-operational-performance-despite-eps-miss-93CH-4683732</guid>
       <pubDate>13/05/2026 07:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do ouro caem em meio ao enfraquecimento das esperanças de paz no Irã e às próximas negociações entre...</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-steady-amid-fading-iran-peace-hopes-trumpxi-talks-ahead-4683102</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-steady-amid-fading-iran-peace-hopes-trumpxi-talks-ahead-4683102</guid>
-      <pubDate>13/05/2026 07:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED4U0TY-ORUBS_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
