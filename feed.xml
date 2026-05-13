@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 11:37:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:46:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE JNJ recebe impulso em Wall Street enquanto apostas de grande sucesso em drogas alimentam esperanças de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/jnj-gets-wall-street-boost-as-blockbuster-drug-bets-ignite-growth-hopes-4685336</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/jnj-gets-wall-street-boost-as-blockbuster-drug-bets-ignite-growth-hopes-4685336</guid>
+      <pubDate>13/05/2026 11:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED2M0YR_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE 20 ações no S&amp;P 500 de empresas com vendas crescentes e margens de lucro melhores</title>
       <description>Os grandes vencedores desta temporada de lucros incluem fabricantes de hardware orientado para IA, mas a lista também inclui algumas surpresas.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-017-4684603</guid>
       <pubDate>13/05/2026 09:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2N0TI_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços no atacado saltam para máxima de 4 anos e apontam para ainda mais inflação nos próximos meses</title>
-      <description>A análise mais recente dos preços no atacado aponta para uma inflação ainda mais alta nos próximos dois meses. O índice de preços ao produtor saltou 1,4% em abril, marcando o...</description>
-      <link>https://www.marketwatch.com/story/wholesale-prices-jump-to-4-year-high-and-point-to-even-more-inflation-in-the-next-few-months-00666242?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/wholesale-prices-jump-to-4-year-high-and-point-to-even-more-inflation-in-the-next-few-months-00666242?mod=mw_rss_topstories</guid>
-      <pubDate>13/05/2026 09:45</pubDate>
-      <enclosure url="https://images.mktw.net/im-21823818" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
