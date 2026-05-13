@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 12:42:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 12:42:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Titan Mining no primeiro trimestre de 2026 vê as ações subirem...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-titan-mining-q1-2026-sees-stock-rise-on-revenue-growth-93CH-4685482</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-titan-mining-q1-2026-sees-stock-rise-on-revenue-growth-93CH-4685482</guid>
+      <pubDate>13/05/2026 12:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Polônia sobem no fechamento do pregão; WIG30 subiu 1,79%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-wesdome-gold-mines-q1-2026-sees-record-results-93CH-4685335</guid>
       <pubDate>13/05/2026 11:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE JNJ recebe impulso em Wall Street enquanto apostas de grande sucesso em drogas alimentam esperanças de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/jnj-gets-wall-street-boost-as-blockbuster-drug-bets-ignite-growth-hopes-4685336</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/jnj-gets-wall-street-boost-as-blockbuster-drug-bets-ignite-growth-hopes-4685336</guid>
-      <pubDate>13/05/2026 11:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED2M0YR_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
