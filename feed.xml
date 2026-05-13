@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 02:04:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 02:07:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Asia FX mantém perdas após forte IPC dos EUA; Reunião Trump-Xi se aproxima</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/asia-fx-holds-losses-after-hot-us-cpi-trumpxi-meeting-looms-4683152</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-holds-losses-after-hot-us-cpi-trumpxi-meeting-looms-4683152</guid>
+      <pubDate>13/05/2026 02:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE2C0N2_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Stanley Black &amp; Decker?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/proficient-1q-earnings-tough-quarter-154900608.html</guid>
       <pubDate>13/05/2026 00:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/freightwaves_373/59f538cdb47b94d113602549ba8979b7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Expectativas de inflação na Nova Zelândia aumentam no segundo trimestre, mostra pesquisa do banco central</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/new-zealand-inflation-expectations-rise-in-q2-central-bank-survey-shows-4683130</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/new-zealand-inflation-expectations-rise-in-q2-central-bank-survey-shows-4683130</guid>
-      <pubDate>13/05/2026 00:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C05K_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
