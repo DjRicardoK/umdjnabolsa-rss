@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 11:46:57 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 11:47:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da TJX podem subir 4% no relatório de lucros de 20 de maio</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/tjx-shares-may-move-4-on-may-20-earnings-report-93CH-4685334</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tjx-shares-may-move-4-on-may-20-earnings-report-93CH-4685334</guid>
+      <pubDate>13/05/2026 11:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Transcrição da teleconferência de resultados: Wesdome Gold Mines Q1 2026 vê resultados recordes</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-as-ppi-inflation-data-comes-in-hot-223045164.html</guid>
       <pubDate>13/05/2026 09:50</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/_.cjqw2Ws886NFsCFa95Yg--~B/aD0zNjA2O3c9NTQwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/994901ae-2a33-4eb5-8e5c-f671bf975faf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Proximus vê início estável para 2026 no primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-proximus-sees-stable-start-to-2026-in-q1-93CH-4684589</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-proximus-sees-stable-start-to-2026-in-q1-93CH-4684589</guid>
-      <pubDate>13/05/2026 09:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
