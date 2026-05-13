@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 18:37:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:40:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da KKR &amp; Co.?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-kkr-133021678.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-kkr-133021678.html</guid>
+      <pubDate>13/05/2026 18:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5e8f936c3140d7b4b2c375470b4a7378" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Rubio: EUA querem que a China pressione o Irã para mudar de rumo no Golfo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-chip-stocks-oil-prices-trump-iran-comments-cpi-inflation/?src=A00220&yptr=yahoo</guid>
       <pubDate>13/05/2026 17:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/304ee85133bbb6e36683a05ed789ce00" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações do Circle Internet Group saltam após a publicação dos lucros do primeiro trimestre</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/circle-internet-group-stock-jumps-122100817.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/circle-internet-group-stock-jumps-122100817.html</guid>
-      <pubDate>13/05/2026 17:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/d67065daac5533a35e675c8da9d56208" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
