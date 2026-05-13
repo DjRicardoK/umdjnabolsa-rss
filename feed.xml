@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 12 May 2026 23:25:42 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 23:26:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar apaga ganhos iniciais com alta das ações</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-erases-early-gains-stocks-144201135.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-erases-early-gains-stocks-144201135.html</guid>
+      <pubDate>12/05/2026 23:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/23377ff3d8976e5204c5ede618c2a9da" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que a Advanced Micro Devices (AMD) está entre as nove melhores ações americanas de semicondutores...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/truist-reiterates-buy-on-united-parks-stock-after-q1-miss-93CH-4676857</guid>
       <pubDate>11/05/2026 10:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Melhores ações de serviços de energia dos EUA: analistas veem a melhor configuração do setor em 20 anos</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/best-us-energy-services-stocks-analysts-see-the-best-sector-setup-in-20-years-93CH-4676833</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/best-us-energy-services-stocks-analysts-see-the-best-sector-setup-in-20-years-93CH-4676833</guid>
-      <pubDate>11/05/2026 10:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8015J_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
