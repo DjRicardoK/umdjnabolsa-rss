@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 17:42:45 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:47:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Viant Technology Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/viant-technology-inc-q1-2026-123000770.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/viant-technology-inc-q1-2026-123000770.html</guid>
+      <pubDate>13/05/2026 17:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/75bf18a906e8ac8a211a7db2248c85fa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dow Jones Futures: Techs caem com petróleo a US$ 100, comentários da AI da Coreia do Sul; Inflação do IPC...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/targa-resources-stock-hits-alltime-high-at-26198-usd-93CH-4686031</guid>
       <pubDate>13/05/2026 16:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BCE pode aumentar taxas em junho para conter choque petrolífero da guerra com o Irã, diz Lane</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ecb-may-raise-rates-in-june-to-counter-iran-war-oil-shock-says-lane-93CH-4686032</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-may-raise-rates-in-june-to-counter-iran-war-oil-shock-says-lane-93CH-4686032</guid>
-      <pubDate>13/05/2026 16:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
