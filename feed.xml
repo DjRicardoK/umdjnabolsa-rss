@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 12:29:02 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 12:31:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ecopetrol excede as previsões de lucros do primeiro trimestre...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ecopetrol-exceeds-q1-2026-earnings-forecasts-93CH-4685447</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ecopetrol-exceeds-q1-2026-earnings-forecasts-93CH-4685447</guid>
+      <pubDate>13/05/2026 12:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fed de NY derrota recurso de banco porto-riquenho vinculado ao corte relacionado à Venezuela</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/accelerant-holdings-earnings-up-next-as-specialty-rates-soften-93CH-4685116</guid>
       <pubDate>13/05/2026 10:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Todos os olhos voltados para os ganhos de Klarna à medida que o impulso de crédito atende ao teste de receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/all-eyes-on-klarna-earnings-as-credit-push-meets-revenue-test-93CH-4685119</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/all-eyes-on-klarna-earnings-as-credit-push-meets-revenue-test-93CH-4685119</guid>
-      <pubDate>13/05/2026 10:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
