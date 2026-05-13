@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 07:17:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 07:17:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações europeias sobem à medida que o sentimento se recupera, mas os rendimentos dos títulos do governo e...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/asia-markets-falter-hot-us-012933160.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/asia-markets-falter-hot-us-012933160.html</guid>
+      <pubDate>13/05/2026 07:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/d01a77489e5b0118189815260a7b1c95" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dow Jones Futures: Huang, da Nvidia, junta-se à viagem de Trump à China; Sandisk, Micron, Intel Recuperação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/uniti-group-inc-q1-2026-210345826.html</guid>
       <pubDate>13/05/2026 05:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/fdf6c7a55d22434004f0845d3454917f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da SharpLink Gaming Ltd.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/sharplink-gaming-ltd-q1-2026-210244168.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/sharplink-gaming-ltd-q1-2026-210244168.html</guid>
-      <pubDate>13/05/2026 05:53</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/091bf52a347aeb0a883425f0fe7f802d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
