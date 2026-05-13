@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 18:35:16 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:35:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: o primeiro trimestre de 2026 da Inovio destaca o progresso...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-inovios-q1-2026-highlights-clinical-progress-stock-rises-284-93CH-4686694</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-inovios-q1-2026-highlights-clinical-progress-stock-rises-284-93CH-4686694</guid>
+      <pubDate>13/05/2026 18:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Rapid Micro Biosystems perde lucro por ação, receita supera a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/marchex-earnings-missed-by-002-revenue-fell-short-of-estimates-4686421</guid>
       <pubDate>13/05/2026 17:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do McDonald&apos;s: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-wall-street-bullish-120411361.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-wall-street-bullish-120411361.html</guid>
-      <pubDate>13/05/2026 17:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c071268ca370652131dc7e9567774e03" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
