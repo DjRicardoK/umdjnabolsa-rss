@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 14:53:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 15:02:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Privia Health Q1 2026 perde lucro por ação, mas supera receita</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-privia-health-q1-2026-misses-eps-but-beats-revenue-93CH-4685805</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-privia-health-q1-2026-misses-eps-but-beats-revenue-93CH-4685805</guid>
+      <pubDate>13/05/2026 15:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A visita de Trump à China poderá abalar os mercados se não trouxer um avanço ao Irão</title>
       <description>Há preocupações de que a falta de intervenção chinesa no conflito do Irão possa levar a uma acção militar renovada dos EUA já na próxima semana.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-kinaxis-q1-2026-beats-forecasts-with-strong-growth-93CH-4685598</guid>
       <pubDate>13/05/2026 13:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A vice-presidente da Borgwarner, Isabelle McKenzie, vende US$ 221.733 em ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/borgwarner-vp-isabelle-mckenzie-sells-221733-in-stock-93CH-4685599</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/borgwarner-vp-isabelle-mckenzie-sells-221733-in-stock-93CH-4685599</guid>
-      <pubDate>13/05/2026 13:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
