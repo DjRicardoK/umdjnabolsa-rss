@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 13:51:33 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 13:52:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Esta queridinha da Casa Branca acaba de se tornar a 12ª empresa privada mais valiosa. Um IPO estará chegando.</title>
+      <description>A empresa de defesa Anduril, que está a ajudar a construir o escudo antimíssil “Golden Dome” do Presidente Trump, concluiu uma ronda de financiamento avaliada em 61 mil milhões de...</description>
+      <link>https://www.marketwatch.com/story/this-white-house-darling-just-became-the-12th-most-valuable-private-company-an-ipo-will-be-coming-ee61529a?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/this-white-house-darling-just-became-the-12th-most-valuable-private-company-an-ipo-will-be-coming-ee61529a?mod=mw_rss_topstories</guid>
+      <pubDate>13/05/2026 13:52</pubDate>
+      <enclosure url="https://images.mktw.net/im-32281843" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Explicado: O que é um DEX perpétuo? Uma cartilha de Wall Street com Decibel</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/belgium-stocks-higher-at-close-of-trade-bel-20-up-071-4685559</guid>
       <pubDate>13/05/2026 13:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB970WT_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Credit Agricole prevê aumentos de taxas na África do Sul em meio à inflação</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/credit-agricole-predicts-south-african-rate-hikes-amid-inflation-93CH-4685560</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/credit-agricole-predicts-south-african-rate-hikes-amid-inflation-93CH-4685560</guid>
-      <pubDate>13/05/2026 13:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/oil_2_M_1440047844.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
