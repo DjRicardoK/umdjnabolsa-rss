@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 05:00:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 05:02:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Zelenskiy da Ucrânia alerta sobre ataques de drones russos durante o dia</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/ukraines-zelenskiy-warns-of-incoming-russian-drone-attacks-during-daylight-4683329</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/ukraines-zelenskiy-warns-of-incoming-russian-drone-attacks-during-daylight-4683329</guid>
+      <pubDate>13/05/2026 05:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C0I9_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações fecham em alta com fortes ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/ahead-plug-power-earnings-barchart-183533992.html</guid>
       <pubDate>13/05/2026 03:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/754d1add9645fb46c7ad31fc4fa63ccc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Air China propõe CEO da Cathay Pacific como diretor não executivo</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/air-china-proposes-cathay-pacific-ceo-as-nonexecutive-director-93CH-4683191</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/air-china-proposes-cathay-pacific-ceo-as-nonexecutive-director-93CH-4683191</guid>
-      <pubDate>13/05/2026 03:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
