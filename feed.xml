@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 08:25:18 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:25:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Aqui está o lado positivo para ações e rendimentos do Tesouro de 5%</title>
+      <description>Taxas mais altas significam custos mais elevados para os mutuários, mas 5% não é um nível propenso a permanecer no mercado do Tesouro</description>
+      <link>https://www.marketwatch.com/story/heres-the-silver-lining-for-stocks-and-5-treasury-yields-898f0be6?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/heres-the-silver-lining-for-stocks-and-5-treasury-yields-898f0be6?mod=mw_rss_topstories</guid>
+      <pubDate>13/05/2026 08:25</pubDate>
+      <enclosure url="https://images.mktw.net/im-16416194" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Putin chama Zelensky de “senhor” pela primeira vez. O Morgan Stanley diz que isso significa uma mudança de...</title>
       <description>Depois de mais de quatro anos de guerra, os mercados habituaram-se ao conflito. Mas qualquer acordo de paz duradouro teria enormes implicações para os mercados bolsistas, os...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-may-13-2026-100000411.html</guid>
       <pubDate>13/05/2026 07:07</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As melhores taxas de juros de poupança de alto rendimento hoje, 13 de maio de 2026: Ganhe até 4,1% APY</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-may-13-2026-100000635.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-may-13-2026-100000635.html</guid>
-      <pubDate>13/05/2026 07:06</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/a41ff6a0-4eb5-11ef-b1fe-05a827b12f92" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
