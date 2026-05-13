@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 10:29:57 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:30:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O primeiro trimestre de 2026 da Local Bounti mostra crescimento...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-local-bountis-q1-2026-shows-growth-stock-uptick-93CH-4684901</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-local-bountis-q1-2026-shows-growth-stock-uptick-93CH-4684901</guid>
+      <pubDate>13/05/2026 10:30</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE MPI divulga números de margem bruta no primeiro trimestre e choca Goldman Sachs</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/intrusion-receives-nasdaq-notice-for-minimum-bid-price-compliance-93CH-4684158</guid>
       <pubDate>13/05/2026 08:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Preços do Bitcoin e do Ethereum hoje, quarta-feira, 13 de maio de 2026: Preços mantidos com o início da...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-13-2026-prices-holding-as-china-summit-kicks-off-112415535.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-13-2026-prices-holding-as-china-summit-kicks-off-112415535.html</guid>
-      <pubDate>13/05/2026 08:29</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/ZpWX2Yzi4TnvhZyi00u31A--~B/aD0zNTA7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_4_7197.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
