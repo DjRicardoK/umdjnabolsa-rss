@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 07:08:05 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 07:17:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dow Jones Futures: Huang, da Nvidia, junta-se à viagem de Trump à China; Sandisk, Micron, Intel Recuperação</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo</guid>
+      <pubDate>13/05/2026 07:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/aa4fbd056951462780d5672e9d9859e7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warsh tem grandes planos para o Fed, mas os resultados podem levar tempo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/sharplink-gaming-ltd-q1-2026-210244168.html</guid>
       <pubDate>13/05/2026 05:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/091bf52a347aeb0a883425f0fe7f802d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jensen Huang, da Nvidia, conseguiu o último assento do Força Aérea Um para a China. Por que isso é tão...</title>
-      <description>Os comerciantes estão interpretando a adição tardia do CEO da Nvidia à lista de passageiros do Força Aérea Um como um sinal de que boas notícias sobre licenças de exportação podem...</description>
-      <link>https://www.marketwatch.com/story/nvidias-jensen-huang-got-the-last-air-force-one-seat-to-china-why-its-so-crucial-for-the-chipmaker-7f220dbc?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidias-jensen-huang-got-the-last-air-force-one-seat-to-china-why-its-so-crucial-for-the-chipmaker-7f220dbc?mod=mw_rss_topstories</guid>
-      <pubDate>13/05/2026 05:48</pubDate>
-      <enclosure url="https://images.mktw.net/im-16595571" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
