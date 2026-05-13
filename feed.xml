@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 08:25:25 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:27:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: A receita do Pharming Group no primeiro trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-pharming-group-q1-2026-revenue-declines-amid-ruconest-challenges-93CH-4684116</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pharming-group-q1-2026-revenue-declines-amid-ruconest-challenges-93CH-4684116</guid>
+      <pubDate>13/05/2026 08:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Aqui está o lado positivo para ações e rendimentos do Tesouro de 5%</title>
       <description>Taxas mais altas significam custos mais elevados para os mutuários, mas 5% não é um nível propenso a permanecer no mercado do Tesouro</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/warsh-has-big-plans-for-the-fed-but-results-may-take-time-4683657</guid>
       <pubDate>13/05/2026 07:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C0Q7_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de HELOC e de empréstimos imobiliários hoje, 13 de maio de 2026: taxas baixas com preços aumentando em...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-may-13-2026-100000411.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-may-13-2026-100000411.html</guid>
-      <pubDate>13/05/2026 07:07</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
