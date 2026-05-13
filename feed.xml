@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 18:18:27 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:18:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os resultados do primeiro trimestre de 2026 da LogicMark...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-logicmarks-q1-2026-results-show-strong-revenue-growth-93CH-4686661</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-logicmarks-q1-2026-results-show-strong-revenue-growth-93CH-4686661</guid>
+      <pubDate>13/05/2026 18:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: SeaStar Medical no primeiro trimestre de 2026 vê aumento de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-occidental-115109247.html</guid>
       <pubDate>13/05/2026 17:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/f615b37f1ceb741568d0397ea647a444" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de tecnologia da Microchip: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/microchip-technology-stock-wall-street-115626183.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microchip-technology-stock-wall-street-115626183.html</guid>
-      <pubDate>13/05/2026 17:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f1480f0d1f9f297687287af6b2ea1045" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
