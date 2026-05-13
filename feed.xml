@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 17:20:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:28:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações do McDonald&apos;s: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-wall-street-bullish-120411361.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-wall-street-bullish-120411361.html</guid>
+      <pubDate>13/05/2026 17:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c071268ca370652131dc7e9567774e03" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warsh enfrenta pressão nas taxas, já que o aumento da inflação em abril deixa o Fed sem desculpas</title>
       <description>Os mercados obrigacionistas não vão esperar que o banco central combata a inflação.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-dollar-rises-as-inflation-jumps-trumpxi-talks-begin-4685225</guid>
       <pubDate>13/05/2026 16:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C0YH_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Guarda Costeira dos EUA concede contrato de US$ 3,5 bilhões para cinco cortadores do Ártico</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/us-coast-guard-awards-35-billion-contract-for-five-arctic-cutters-4685988</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-coast-guard-awards-35-billion-contract-for-five-arctic-cutters-4685988</guid>
-      <pubDate>13/05/2026 16:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
