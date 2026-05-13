@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 00:56:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 01:07:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas asiáticas oscilam antes da cúpula EUA-China; KOSPI se recupera com ganhos de chips</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-dither-ahead-of-uschina-summit-kospi-rebounds-on-chip-gains-4683135</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-dither-ahead-of-uschina-summit-kospi-rebounds-on-chip-gains-4683135</guid>
+      <pubDate>13/05/2026 01:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA9Q076_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Everpure Stock sobe à medida que jogador de armazenamento de dados se aproxima do teste de ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/nvidia-boeing-dow-stocks-buy-points-walmart/?src=A00220&yptr=yahoo</guid>
       <pubDate>11/05/2026 12:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/d21071775ea8dc4698fec09e59424952" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE NVIDIA (NVDA): o melhor estoque americano de semicondutores para comprar, de acordo com analistas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-best-american-semiconductor-143857830.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-best-american-semiconductor-143857830.html</guid>
-      <pubDate>11/05/2026 11:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/943322b567353791f7a79eefa0ce1ce0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
