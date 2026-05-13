@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 07:06:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 07:06:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As melhores taxas de juros de poupança de alto rendimento hoje, 13 de maio de 2026: Ganhe até 4,1% APY</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-may-13-2026-100000635.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-may-13-2026-100000635.html</guid>
+      <pubDate>13/05/2026 07:06</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/a41ff6a0-4eb5-11ef-b1fe-05a827b12f92" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores taxas de CD hoje, 13 de maio de 2026 (ganhe até 4% APY)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-agilon-healths-q1-2026-eps-surges-past-expectations-93CH-4683445</guid>
       <pubDate>13/05/2026 05:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Liquidia Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/liquidia-corporation-q1-2026-earnings-205653168.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/liquidia-corporation-q1-2026-earnings-205653168.html</guid>
-      <pubDate>13/05/2026 05:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/e278201d99d1da63c9af42b029059e34" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
