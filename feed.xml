@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 17:09:53 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:14:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de tecnologia da Microchip: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/microchip-technology-stock-wall-street-115626183.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microchip-technology-stock-wall-street-115626183.html</guid>
+      <pubDate>13/05/2026 17:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f1480f0d1f9f297687287af6b2ea1045" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street está otimista ou baixista nas ações da Exelon?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/analysistrump-wants-chinas-help-on-iran-beijing-may-have-other-ideas-4685890</guid>
       <pubDate>13/05/2026 15:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C1H3_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de hipoteca e refinanciamento hoje, 12 de maio de 2026: Taxas caindo principalmente</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-may-12-2026-100000807.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-may-12-2026-100000807.html</guid>
-      <pubDate>13/05/2026 15:50</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
