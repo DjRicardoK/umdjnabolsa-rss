@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 10:29:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:29:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE MPI divulga números de margem bruta no primeiro trimestre e choca Goldman Sachs</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/mpi-posts-first-quarter-gross-margin-numbers-shocks-goldman-sachs-93CH-4684902</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/mpi-posts-first-quarter-gross-margin-numbers-shocks-goldman-sachs-93CH-4684902</guid>
+      <pubDate>13/05/2026 10:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAT22C_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Eastern Co perde as previsões do primeiro trimestre de 2026,...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-may-13-2026-prices-holding-as-china-summit-kicks-off-112415535.html</guid>
       <pubDate>13/05/2026 08:29</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/ZpWX2Yzi4TnvhZyi00u31A--~B/aD0zNTA7dz02MTI7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bitcoin_4_7197.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: A receita do Pharming Group no primeiro trimestre de 2026...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-pharming-group-q1-2026-revenue-declines-amid-ruconest-challenges-93CH-4684116</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pharming-group-q1-2026-revenue-declines-amid-ruconest-challenges-93CH-4684116</guid>
-      <pubDate>13/05/2026 08:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
