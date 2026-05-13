@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 13:28:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 13:28:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Apple critica medidas da UE para ajudar rivais de IA a acessar os serviços do Google</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/apple-criticises-eu-measures-to-help-ai-rivals-access-google-services-4684861</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/apple-criticises-eu-measures-to-help-ai-rivals-access-google-services-4684861</guid>
+      <pubDate>13/05/2026 13:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C11L_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Royalty Pharma atingem alta de 52 semanas a 52,16 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-titan-mining-q1-2026-sees-stock-rise-on-revenue-growth-93CH-4685482</guid>
       <pubDate>13/05/2026 12:42</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Polônia sobem no fechamento do pregão; WIG30 subiu 1,79%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-179-4685483</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-179-4685483</guid>
-      <pubDate>13/05/2026 12:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
