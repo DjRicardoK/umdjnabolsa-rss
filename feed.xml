@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 10:43:29 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:45:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, Nasdaq mistos à medida que os dados de inflação do PPI chegam quentes</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ppi-inflation-data-comes-in-hot-223045340.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-mixed-as-ppi-inflation-data-comes-in-hot-223045340.html</guid>
+      <pubDate>13/05/2026 10:45</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/_.cjqw2Ws886NFsCFa95Yg--~B/aD0zNjA2O3c9NTQwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/994901ae-2a33-4eb5-8e5c-f671bf975faf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os nomes dos semicondutores nunca antes tiveram tanta influência no mercado de ações. A história mostra que...</title>
       <description>As ações de semicondutores tornaram-se uma força invulgarmente grande no mercado de ações dos EUA, sublinhando que grande parte da última recuperação em índices como o S&amp;P 500 foi...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tecnoglass-beats-q1-2026-eps-forecast-stock-dips-93CH-4684450</guid>
       <pubDate>13/05/2026 09:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Microsoft desliza em gráfico de baixa; A Microsoft está à venda agora?</title>
-      <description></description>
-      <link>https://www.investors.com/research/microsoft-msft-stock-buy-now-may-2026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/microsoft-msft-stock-buy-now-may-2026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>13/05/2026 09:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/992da7f48838919e26d0322eb115a71a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
