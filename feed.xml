@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 02:29:19 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 02:34:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco central da Tailândia sinaliza que não há pressa em aumentar as taxas à medida que as perspectivas de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/thailands-central-bank-signals-no-rush-to-hike-rates-as-inflation-outlook-improves-4683165</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/thailands-central-bank-signals-no-rush-to-hike-rates-as-inflation-outlook-improves-4683165</guid>
+      <pubDate>13/05/2026 02:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C09X_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Frota pesqueira da China levanta preocupações na Argentina</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/denison-mines-earnings-missed-by-008-revenue-topped-estimates-4683142</guid>
       <pubDate>13/05/2026 01:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE CEO da Nvidia se junta à missão de Trump de ‘abrir’ a China</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/nvidia-ceo-joins-trumps-mission-to-open-up-china-4683140</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/nvidia-ceo-joins-trumps-mission-to-open-up-china-4683140</guid>
-      <pubDate>13/05/2026 01:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C072_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
