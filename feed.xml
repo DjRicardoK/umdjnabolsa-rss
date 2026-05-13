@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 02:07:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 02:20:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Opções de compra incomuns na Microsoft mostram que os investidores estão otimistas em relação à MSFT</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/unusual-call-options-microsoft-shows-173002552.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/unusual-call-options-microsoft-shows-173002552.html</guid>
+      <pubDate>13/05/2026 02:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/33c5d3ff84b8329590939225add2955c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Asia FX mantém perdas após forte IPC dos EUA; Reunião Trump-Xi se aproxima</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-xi-to-weigh-rare-earth-truce-extension-but-chinas-curbs-still-bite-4683132</guid>
       <pubDate>13/05/2026 00:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C05T_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros do 1T da Proficient: trimestre difícil, 2T melhor à frente, ações despencam</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/proficient-1q-earnings-tough-quarter-154900608.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/proficient-1q-earnings-tough-quarter-154900608.html</guid>
-      <pubDate>13/05/2026 00:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/freightwaves_373/59f538cdb47b94d113602549ba8979b7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
