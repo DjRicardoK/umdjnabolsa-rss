@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 02:19:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 02:20:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Danaos Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/danaos-corporation-q1-2026-earnings-171653006.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/danaos-corporation-q1-2026-earnings-171653006.html</guid>
+      <pubDate>14/05/2026 02:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/f3bee4c982cdc199357e65d408c78e6d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Analista eleva metas para esses dois grandes varejistas, mas alerta sobre tendências de consumo</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-mitsubishi-corp-q4-2025-earnings-beat-expectations-93CH-4687084</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mitsubishi-corp-q4-2025-earnings-beat-expectations-93CH-4687084</guid>
       <pubDate>14/05/2026 00:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: JSL vê crescimento de receita, queda de ações no primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-jsl-sees-revenue-growth-stock-declines-in-q1-2026-93CH-4687081</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-jsl-sees-revenue-growth-stock-declines-in-q1-2026-93CH-4687081</guid>
-      <pubDate>14/05/2026 00:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
