@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 10:07:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:19:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos otimistas ficam aquém à medida que o comércio de criptografia enfraquece</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/bullish-earnings-fall-short-crypto-131200846.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bullish-earnings-fall-short-crypto-131200846.html</guid>
+      <pubDate>14/05/2026 10:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/70c654396347ed545afb36720ebabbe4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Evercore ISI aumenta a meta de preço das ações da Apple para US$ 365 com base no crescimento dos serviços</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-treasurys-bessent-expects-large-boeing-order-during-china-visit-4687991</guid>
       <pubDate>14/05/2026 08:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D0SI_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O guru das commodities que alertou sobre a queda da prata agora está dizendo que o hantavírus poderia fazer o...</title>
-      <description>E se o Hantavírus se transformar num cisne negro do petróleo? Este antigo executivo de fundos de cobertura está a fazer um seguro contra isso.</description>
-      <link>https://www.marketwatch.com/story/the-commodities-guru-who-warned-about-silver-falling-now-is-saying-the-hantavirus-could-do-the-same-to-oil-a0504be0?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-commodities-guru-who-warned-about-silver-falling-now-is-saying-the-hantavirus-could-do-the-same-to-oil-a0504be0?mod=mw_rss_topstories</guid>
-      <pubDate>14/05/2026 08:09</pubDate>
-      <enclosure url="https://images.mktw.net/im-84909707" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
