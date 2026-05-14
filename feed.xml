@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 01:46:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 01:46:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Masu, membro do conselho do BOJ, pede aumento antecipado das taxas</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/boj-board-member-masu-calls-for-early-rate-hike-4687104</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-board-member-masu-calls-for-early-rate-hike-4687104</guid>
+      <pubDate>14/05/2026 01:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D085_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O yuan da China atinge o máximo de 3 anos, as ações caem, com o início da cúpula Trump-Xi</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intercorp-financial-services-inc-q1-123000126.html</guid>
       <pubDate>13/05/2026 21:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/e1619c1c00ec044c357c60600a1c5ea3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A fundação do CEO da Nvidia compra US$ 108 milhões em computação de IA da CoreWeave e doa para pesquisadores</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/nvidia-ceos-foundation-buys-108-million-of-ai-computing-from-coreweave-donates-it-to-researchers-4686943</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-ceos-foundation-buys-108-million-of-ai-computing-from-coreweave-donates-it-to-researchers-4686943</guid>
-      <pubDate>13/05/2026 21:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C1S6_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
