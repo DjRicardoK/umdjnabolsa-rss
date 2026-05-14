@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 21:08:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 21:09:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação atinge o nível mais alto desde 2023, à medida que os preços do gás continuam subindo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/consumer-prices-rose-again-april-123745919.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/consumer-prices-rose-again-april-123745919.html</guid>
+      <pubDate>13/05/2026 21:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/usa_today_money_325/9c0f54bd6cd9802ace15a689db661e6a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Intercorp Financial Services Inc.</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-dyadic-international-q1-2026-revenue-beats-forecast-stock-dips-93CH-4686821</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dyadic-international-q1-2026-revenue-beats-forecast-stock-dips-93CH-4686821</guid>
-      <pubDate>13/05/2026 19:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: AEye Inc. O primeiro trimestre de 2026 vê crescimento de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-aeye-inc-q1-2026-sees-revenue-growth-amid-strategic-partnerships-93CH-4686822</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-aeye-inc-q1-2026-sees-revenue-growth-amid-strategic-partnerships-93CH-4686822</guid>
       <pubDate>13/05/2026 19:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
