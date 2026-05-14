@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 05:46:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 06:02:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Nvidia dá um passo mais perto de um avanço nas exportações chinesas depois de atingir outro marco</title>
+      <description>O presidente-executivo da Nvidia, Jensen Huang, faz lobby há muito tempo pela capacidade de exportar chips semicondutores avançados para a China, diante da oposição de Washington...</description>
+      <link>https://www.marketwatch.com/story/nvidia-moves-one-step-closer-to-a-breakthrough-on-chinese-exports-after-reaching-another-milestone-aebeda28?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidia-moves-one-step-closer-to-a-breakthrough-on-chinese-exports-after-reaching-another-milestone-aebeda28?mod=mw_rss_topstories</guid>
+      <pubDate>14/05/2026 06:02</pubDate>
+      <enclosure url="https://images.mktw.net/im-30193644" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 das ações ordinárias da Solesence, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/2-market-beating-tech-stocks-195101512.html</guid>
       <pubDate>14/05/2026 04:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/271604d392d51f4fcc08544a6f5770cc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE BofA rebaixa classificação das ações da KT Corp. devido ao crescimento mais lento dos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/bofa-downgrades-kt-corp-stock-rating-on-slower-earnings-growth-93CH-4687226</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-downgrades-kt-corp-stock-rating-on-slower-earnings-growth-93CH-4687226</guid>
-      <pubDate>14/05/2026 04:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
