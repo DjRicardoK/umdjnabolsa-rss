@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 14:52:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 14:52:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Vecima Networks Q3 2026 perde EPS, quedas de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-vecima-networks-q3-2026-misses-eps-stock-dips-93CH-4689711</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vecima-networks-q3-2026-misses-eps-stock-dips-93CH-4689711</guid>
+      <pubDate>14/05/2026 14:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 8K Unity Software Inc para: 14 de maio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/mortgage-rates-tick-lower-to-6-36-heres-why-the-decrease-probably-wont-last-7004686e?mod=mw_rss_topstories</guid>
       <pubDate>14/05/2026 13:12</pubDate>
       <enclosure url="https://images.mktw.net/im-09348690" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Espanha sobem no fechamento do pregão; IBEX 35 sobe 0,87%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-087-4689434</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-087-4689434</guid>
-      <pubDate>14/05/2026 13:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE390H7_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
