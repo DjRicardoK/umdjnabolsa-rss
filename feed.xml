@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 17:44:05 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:44:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da Fortive subirão ou afundarão?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/wall-street-analysts-predicting-fortive-122617625.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-analysts-predicting-fortive-122617625.html</guid>
+      <pubDate>14/05/2026 17:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8d1f758aa6eaece2dd16150b770aaddc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Perspectiva consolidada das ações da Edison: Wall Street está em alta ou em baixa?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-boosted-by-rate-expectations-safehaven-flows-as-trump-xi-meet-4687020</guid>
       <pubDate>14/05/2026 16:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D01Q_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE John McGuire, do 5º distrito da Virgínia, compra ações da Apple, Microsoft e Nvidia</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/john-mcguire-from-virginias-5th-district-buys-apple-microsoft-and-nvidia-stocks-93CH-4689886</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/john-mcguire-from-virginias-5th-district-buys-apple-microsoft-and-nvidia-stocks-93CH-4689886</guid>
-      <pubDate>14/05/2026 16:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
