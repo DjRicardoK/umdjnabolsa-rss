@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 07:34:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 07:38:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Revisão da União de Crédito Federal do Pentágono (PenFed) 2026: Uma importante cooperativa de crédito militar...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/banking/review/penfed-credit-union-review-212428617.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/review/penfed-credit-union-review-212428617.html</guid>
+      <pubDate>14/05/2026 07:38</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-03/7d8a6e10-0370-11f0-bcfa-856f32698dce" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O que a maior aceleração de lucros em meio de ciclo já registrada significa para o mercado de ações</title>
       <description>Um trader olha para trás para descobrir por que perdeu a alta do mercado de ações no final de março.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-4686976</guid>
       <pubDate>14/05/2026 05:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D00H_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Kepler Cheuvreux corta classificação de ações Flex LNG devido a taxas spot fracas</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/kepler-cheuvreux-cuts-flex-lng-stock-rating-on-weak-spot-rates-93CH-4687329</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/kepler-cheuvreux-cuts-flex-lng-stock-rating-on-weak-spot-rates-93CH-4687329</guid>
-      <pubDate>14/05/2026 05:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
