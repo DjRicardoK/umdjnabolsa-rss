@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 17:01:05 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:11:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da NetApp?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/wall-street-analysts-netapp-stock-114821370.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-analysts-netapp-stock-114821370.html</guid>
+      <pubDate>14/05/2026 17:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/aa83c3ebae3314e514d4a8d01dc97e09" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os ganhos da Nvidia por si só não resgatarão o S&amp;P 500 de seu novo sinal de venda</title>
       <description>Os avisos de sobrecompra vêm antes de uma enorme lista de ganhos de tecnologia e varejo.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-unity-software-inc-for-14-may-93CH-4689712</guid>
       <pubDate>14/05/2026 14:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de tecnologia hoje: Cerebras realiza IPO de grande sucesso em meio ao frenesi da IA, começam os...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-cerebras-stages-blockbuster-ipo-amid-ai-frenzy-musk-v-openai-closing-arguments-begin-100000756.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-cerebras-stages-blockbuster-ipo-amid-ai-frenzy-musk-v-openai-closing-arguments-begin-100000756.html</guid>
-      <pubDate>14/05/2026 14:40</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/7.DYK5M10Ip559Sr3JJoKQ--~B/aD0xNTY2O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/fd27c14a-3dcf-4203-b525-d1c9dfaabf85" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
