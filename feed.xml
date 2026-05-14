@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 14:52:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 14:58:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Veritone (VERI) está entre as Penny Stocks incomparáveis ​​para comprar agora?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/veritone-veri-among-unrivaled-penny-173920304.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/veritone-veri-among-unrivaled-penny-173920304.html</guid>
+      <pubDate>14/05/2026 14:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2df65a5199d50f4be0b69a134bbc3acb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Global Water Resources Q1 2026 perde as previsões, mas mostra...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/sec-filings/federal-home-loan-bank-of-chicago-announces-new-debt-issuances-totaling-315-million-93CH-4689440</guid>
       <pubDate>14/05/2026 13:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Transcrição da teleconferência de resultados: Os ganhos da Avino Silver &amp; Gold Mines no primeiro trimestre de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-avino-silver--gold-mines-q1-2026-earnings-beat-estimates-93CH-4689444</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-avino-silver--gold-mines-q1-2026-earnings-beat-estimates-93CH-4689444</guid>
-      <pubDate>14/05/2026 13:22</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
