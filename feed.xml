@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 12:52:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 13:09:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Borgwarner atingem o máximo histórico de 70,1 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/borgwarner-stock-hits-alltime-high-at-701-usd-93CH-4689437</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/borgwarner-stock-hits-alltime-high-at-701-usd-93CH-4689437</guid>
+      <pubDate>14/05/2026 13:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os investidores de varejo fazem um movimento surpreendente em relação à Palantir, Microsoft e outras ações de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-a2as-q1-2026-earnings-reveal-stable-performance-amid-volatility-93CH-4689135</guid>
       <pubDate>14/05/2026 11:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O bilionário Eric Sprott colocou 98% de sua fortuna de US$ 3 bilhões em ouro e prata – e diz que o ouro está...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/billionaire-eric-sprott-put-98-141500805.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/billionaire-eric-sprott-put-98-141500805.html</guid>
-      <pubDate>14/05/2026 11:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/aa9d6a8842b62ff7885d472f0f9450ac" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
