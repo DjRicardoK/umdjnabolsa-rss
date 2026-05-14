@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 12:46:36 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 12:52:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os investidores de varejo fazem um movimento surpreendente em relação à Palantir, Microsoft e outras ações de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/retail-investors-make-a-surprising-move-on-palantir-microsoft-and-other-software-stocks-154536207.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/retail-investors-make-a-surprising-move-on-palantir-microsoft-and-other-software-stocks-154536207.html</guid>
+      <pubDate>14/05/2026 12:52</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/a4058f40-31b7-11f1-bfdb-2a887c4ae6af" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Deere podem subir 5,2% na divulgação de lucros de 21 de maio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/billionaire-eric-sprott-put-98-141500805.html</guid>
       <pubDate>14/05/2026 11:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/aa9d6a8842b62ff7885d472f0f9450ac" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação é o “risco mais premente” para a economia dos EUA, diz Schmid, do Fed</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/inflation-is-most-pressing-risk-to-us-economy-feds-schmid-says-4689069</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/inflation-is-most-pressing-risk-to-us-economy-feds-schmid-says-4689069</guid>
-      <pubDate>14/05/2026 11:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D11M_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
