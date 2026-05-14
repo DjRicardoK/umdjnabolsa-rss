@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 17:22:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:28:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Cigna?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/wall-street-analysts-target-price-121057168.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-analysts-target-price-121057168.html</guid>
+      <pubDate>14/05/2026 17:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d94107696fbb5e69d547892fee9984ba" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da NXP Semiconductors?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-miran-says-he-will-vacate-board-seat-on-or-just-before-warsh-is-sworn-in-as-chair-4689751</guid>
       <pubDate>14/05/2026 15:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D1C8_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Veritone (VERI) está entre as Penny Stocks incomparáveis ​​para comprar agora?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/veritone-veri-among-unrivaled-penny-173920304.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/veritone-veri-among-unrivaled-penny-173920304.html</guid>
-      <pubDate>14/05/2026 14:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2df65a5199d50f4be0b69a134bbc3acb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
