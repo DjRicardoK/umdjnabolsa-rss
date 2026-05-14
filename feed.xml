@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 07:38:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 07:39:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ‘Temos sede de justiça’: famílias filipinas exigem que o senador enfrente acusações de guerra às drogas</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/we-are-thirsty-for-justice-philippine-families-demand-senator-face-drug-war-charges-4687786</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/we-are-thirsty-for-justice-philippine-families-demand-senator-face-drug-war-charges-4687786</guid>
+      <pubDate>14/05/2026 07:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D0Q9_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Revisão da União de Crédito Federal do Pentágono (PenFed) 2026: Uma importante cooperativa de crédito militar...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/alico-inc-q2-2026-earnings-205056919.html</guid>
       <pubDate>14/05/2026 05:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/baca008d75a89c527747d67a90c1e27b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Rússia desencadeia o ataque mais pesado de drones em tempo de guerra à Ucrânia e atinge Kyiv</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-4686976</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-4686976</guid>
-      <pubDate>14/05/2026 05:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D00H_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
