@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 01:48:03 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 01:48:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mohamed El-Erian diz que o Fed deve aprender a ser “mais merecedor da independência” – ou a economia poderá...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-fed-165500708.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/mohamed-el-erian-says-fed-165500708.html</guid>
+      <pubDate>14/05/2026 01:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/5a1188a196448328b7bf277e978c0045" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Vishay Precision Group, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-051226/card/nvidia-defies-the-decline-in-chip-stocks-T0H16UNOFZPZae7BwCRm?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>13/05/2026 23:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise-Enquanto a guerra no Irã sacode a Air India, Lufthansa e Cathay atacam o mercado em rápido crescimento</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/analysisas-iran-war-jolts-air-india-lufthansa-and-cathay-pounce-on-fastgrowing-market-4687032</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysisas-iran-war-jolts-air-india-lufthansa-and-cathay-pounce-on-fastgrowing-market-4687032</guid>
-      <pubDate>13/05/2026 23:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D02E_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
