@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 02:32:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 02:33:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Shinhan Financial Group supera as previsões do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-shinhan-financial-group-beats-q1-2026-forecasts-93CH-4687116</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-shinhan-financial-group-beats-q1-2026-forecasts-93CH-4687116</guid>
+      <pubDate>14/05/2026 02:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que a Uber Technologies (UBER) está entre as melhores ações abaixo de US$ 100 para investir agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/nvidia-ceo-hopes-trump-and-xi-will-improve-twoway-ties-cctv-says-4687097</guid>
       <pubDate>14/05/2026 01:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D07D_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da ACCESS Newswire Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/access-newswire-inc-q1-2026-165242071.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/access-newswire-inc-q1-2026-165242071.html</guid>
-      <pubDate>14/05/2026 01:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/adfd9981017906b2d8656edac6aee21e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
