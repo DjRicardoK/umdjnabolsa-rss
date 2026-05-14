@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 17:49:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:49:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Hyliion Holdings Corp.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/hyliion-holdings-corp-q1-2026-123000530.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/hyliion-holdings-corp-q1-2026-123000530.html</guid>
+      <pubDate>14/05/2026 17:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/3328c80cc324485043517a2839b9b0fb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2026 da Nextpower Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/dollar-near-one-week-high-013045044.html</guid>
       <pubDate>14/05/2026 16:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/e6fcf809f469715532bc31284d660ee6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Grupo Equatorial supera as previsões do primeiro trimestre de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-equatorial-beats-q1-2026-forecasts-93CH-4689895</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-equatorial-beats-q1-2026-forecasts-93CH-4689895</guid>
-      <pubDate>14/05/2026 16:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
