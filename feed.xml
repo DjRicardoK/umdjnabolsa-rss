@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 09:35:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 09:44:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros e receitas da Cisco superam em meio a fortes pedidos de IA. Ações da CSCO atingem recorde de alta.</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/cisco-stock-cisco-earnings-artificial-intelligence-q12026/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/cisco-stock-cisco-earnings-artificial-intelligence-q12026/?src=A00220&yptr=yahoo</guid>
+      <pubDate>14/05/2026 09:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/24433afc27e7ce5b455d798dcc1cf268" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sobe na Cisco, Nvidia, Boeing em meio à cúpula Trump-Xi (cobertura ao vivo)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/we-are-thirsty-for-justice-philippine-families-demand-senator-face-drug-war-charges-4687786</guid>
       <pubDate>14/05/2026 07:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D0Q9_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Revisão da União de Crédito Federal do Pentágono (PenFed) 2026: Uma importante cooperativa de crédito militar...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/review/penfed-credit-union-review-212428617.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/review/penfed-credit-union-review-212428617.html</guid>
-      <pubDate>14/05/2026 07:38</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-03/7d8a6e10-0370-11f0-bcfa-856f32698dce" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
