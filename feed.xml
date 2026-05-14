@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 11:30:04 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 11:36:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os lucros do primeiro trimestre de 2026 da A2A revelam...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-a2as-q1-2026-earnings-reveal-stable-performance-amid-volatility-93CH-4689135</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-a2as-q1-2026-earnings-reveal-stable-performance-amid-volatility-93CH-4689135</guid>
+      <pubDate>14/05/2026 11:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O bilionário Eric Sprott colocou 98% de sua fortuna de US$ 3 bilhões em ouro e prata – e diz que o ouro está...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-nvidia-gains-uschina-talks-data-in-focus-4688886</guid>
       <pubDate>14/05/2026 10:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D0YY_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jefferies reitera classificação das ações da Biogen com base em dados de medicamentos para Alzheimer</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/jefferies-reiterates-biogen-stock-rating-on-alzheimers-drug-data-93CH-4688814</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-reiterates-biogen-stock-rating-on-alzheimers-drug-data-93CH-4688814</guid>
-      <pubDate>14/05/2026 10:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
