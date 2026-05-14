@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 10:06:03 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:07:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Evercore ISI aumenta a meta de preço das ações da Apple para US$ 365 com base no crescimento dos serviços</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-raises-apple-stock-price-target-to-365-on-services-growth-93CH-4688678</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-raises-apple-stock-price-target-to-365-on-services-growth-93CH-4688678</guid>
+      <pubDate>14/05/2026 10:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Viking preparada para navegar além da zona de compra em ganhos e mudanças de liderança</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-commodities-guru-who-warned-about-silver-falling-now-is-saying-the-hantavirus-could-do-the-same-to-oil-a0504be0?mod=mw_rss_topstories</guid>
       <pubDate>14/05/2026 08:09</pubDate>
       <enclosure url="https://images.mktw.net/im-84909707" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Nexon no primeiro trimestre de 2026 registra lucro líquido...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-nexon-q1-2026-sees-record-net-income-stock-dips-93CH-4687875</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nexon-q1-2026-sees-record-net-income-stock-dips-93CH-4687875</guid>
-      <pubDate>14/05/2026 07:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
