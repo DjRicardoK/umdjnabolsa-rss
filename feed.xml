@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 05:18:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 05:23:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE À medida que a computação quântica decola após os ganhos, aqui está o que os dados do gráfico de barras dizem...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/quantum-computing-takes-off-earnings-202014122.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/quantum-computing-takes-off-earnings-202014122.html</guid>
+      <pubDate>14/05/2026 05:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/dce19d39b7013fdf2b8153b518f7df6c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Fornecedor de peças de precisão VPG dispara 30% após ganhos esmagadores</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ohb-se-q1-2026-sees-strong-growth-and-stock-surge-93CH-4687169</guid>
       <pubDate>14/05/2026 04:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Alibaba Group (BABA) é uma das ações que Michael Burry está apoiando em 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/alibaba-group-baba-one-stocks-185346553.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/alibaba-group-baba-one-stocks-185346553.html</guid>
-      <pubDate>14/05/2026 03:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/223f271f848fd463c1a7ce54a0086d7e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
