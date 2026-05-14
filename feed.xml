@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 13:22:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 13:32:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Banco Itaú Chile reporta resultados mistos no primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-banco-itau-chile-reports-mixed-q1-2026-results-93CH-4689486</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-banco-itau-chile-reports-mixed-q1-2026-results-93CH-4689486</guid>
+      <pubDate>14/05/2026 13:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Federal Home Loan Bank of Chicago anuncia novas emissões de dívida totalizando US$ 315 milhões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-legence-q1-2026-earnings-beat-expectations-stock-rises-93CH-4689245</guid>
       <pubDate>14/05/2026 12:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nvidia divulgará lucros do primeiro trimestre à medida que os estoques de chips disparam com a força da IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/article/nvidia-to-report-q1-earnings-as-chip-stocks-soar-on-ai-strength-191200180.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/nvidia-to-report-q1-earnings-as-chip-stocks-soar-on-ai-strength-191200180.html</guid>
-      <pubDate>14/05/2026 12:08</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/TBpgkcMoWL.FoCaM.FVEjw--~B/aD0xODE0O3c9MzIyNTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/8f328e5c-1ec6-4d49-bbc7-3034e1c8ad11_6f239ba8e1af3e9b08a6c6efa64bb8522a49c1717a7a401d5d084f8732689614.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
