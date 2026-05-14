@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 02:46:52 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 02:54:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Perspectiva das ações da Teradyne: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/teradyne-stock-outlook-wall-street-175933565.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/teradyne-stock-outlook-wall-street-175933565.html</guid>
+      <pubDate>14/05/2026 02:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/df116f4d7a12edf7c0a7d3874a0c17ed" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que a rua pensa sobre o Kroger (KR) antes dos ganhos do primeiro trimestre de 1</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-yuan-hits-3year-high-stocks-dip-as-trumpxi-summit-begins-4687105</guid>
       <pubDate>14/05/2026 01:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D046_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China renova licenças para centenas de exportadores de carne bovina dos EUA em meio à cúpula Trump-Xi</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/china-renews-licences-for-hundreds-of-us-beef-exporters-amid-trumpxi-summit-4687099</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-renews-licences-for-hundreds-of-us-beef-exporters-amid-trumpxi-summit-4687099</guid>
-      <pubDate>14/05/2026 01:36</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D06G_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
