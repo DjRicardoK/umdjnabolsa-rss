@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 19:32:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 19:34:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ignore a liquidação pós-lucro das ações da Palantir: a revolução da IA ​​está apenas na ‘terceira entrada’</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/ignore-post-earnings-selloff-palantir-150002794.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/ignore-post-earnings-selloff-palantir-150002794.html</guid>
+      <pubDate>14/05/2026 19:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4d9f304c2a4818261933d148e73c8efc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Figma tem uma solução para seu estoque em dificuldades – uma nova maneira de ganhar dinheiro com seus...</title>
       <description>As ações da Figma disparam depois que os lucros superaram as expectativas novamente e as perspectivas para o ano inteiro foram elevadas.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/sony-group-sony-best-affordable-131558761.html</guid>
       <pubDate>14/05/2026 18:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0e5ca75d744d8248e2bd26609820bfd5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Formulário 144 GOLDMAN SACHS GROUP INC Para: 14 de maio</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-144-goldman-sachs-group-inc-for-14-may-93CH-4690516</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-144-goldman-sachs-group-inc-for-14-may-93CH-4690516</guid>
-      <pubDate>14/05/2026 18:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/goldman_sachs_M_1440049080.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
