@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 03:12:32 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 03:20:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE (PLTR) planeja ampliar a interoperabilidade em todo o Exército dos EUA e no Departamento de Guerra</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/palantir-technologies-inc-pltr-plans-181624874.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/palantir-technologies-inc-pltr-plans-181624874.html</guid>
+      <pubDate>14/05/2026 03:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/223f56298b220ca60e787a0bd19d637d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Robusto crescimento de receitas e lucros afirma a AppLovin Corporation (APP) como uma das principais ações de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/harvard-bioscience-inc-q1-2026-170824125.html</guid>
       <pubDate>14/05/2026 02:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/42201f18ce93358a24fa5c07dcecd49b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon aumenta entrega em 30 minutos nas principais cidades dos EUA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-cranks-30-minute-delivery-171004941.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-cranks-30-minute-delivery-171004941.html</guid>
-      <pubDate>14/05/2026 02:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/freightwaves_373/3488e3a756f5dd775c5732c8831d208b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
