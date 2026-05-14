@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 05:42:17 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 05:43:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs corta classificação das ações da Whirlpool devido a preocupações com a demanda</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-whirlpool-stock-rating-on-demand-concerns-93CH-4687330</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-whirlpool-stock-rating-on-demand-concerns-93CH-4687330</guid>
+      <pubDate>14/05/2026 05:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE BETA Technologies, voos de táxi aéreo Archer Prep; Ambas as principais visualizações de ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/honda-motor-adr-earnings-beat-by-640-revenue-topped-estimates-4687186</guid>
       <pubDate>14/05/2026 04:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação no atacado da Índia acelera para 8,3%, o maior nível em três anos e meio, à medida que os custos...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/indias-april-wholesale-prices-rise-83-yearonyear-4687164</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/indias-april-wholesale-prices-rise-83-yearonyear-4687164</guid>
-      <pubDate>14/05/2026 04:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D0FL_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
