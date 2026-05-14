@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 16:10:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 16:10:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar se fortalece após dados da cúpula Trump-Xi em andamento</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/dollar-boosted-by-rate-expectations-safehaven-flows-as-trump-xi-meet-4687020</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-boosted-by-rate-expectations-safehaven-flows-as-trump-xi-meet-4687020</guid>
+      <pubDate>14/05/2026 16:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D01Q_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE John McGuire, do 5º distrito da Virgínia, compra ações da Apple, Microsoft e Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ai-boom-turns-bitcoin-miners-into-wall-streets-hottest-data-center-bet-4689600</guid>
       <pubDate>14/05/2026 14:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE420N1_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Solo Brands, Inc. Resumo da teleconferência de resultados do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/solo-brands-inc-q1-2026-164338669.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/solo-brands-inc-q1-2026-164338669.html</guid>
-      <pubDate>14/05/2026 14:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/1c7cc95acfbf8df2db83e9687add6ebd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
