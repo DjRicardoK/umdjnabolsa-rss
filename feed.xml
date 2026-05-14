@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 14:06:13 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 14:06:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Bloom Energy atingem o máximo histórico em 303,47 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/bloom-energy-stock-hits-alltime-high-at-30347-usd-93CH-4689599</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/bloom-energy-stock-hits-alltime-high-at-30347-usd-93CH-4689599</guid>
+      <pubDate>14/05/2026 14:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O boom da IA ​​transforma mineradores de bitcoin na aposta mais quente em data centers de Wall Street</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-braskem-q1-2026-beats-eps-forecasts-significantly-93CH-4689343</guid>
       <pubDate>14/05/2026 12:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Índia limita importações de ouro isentas de impostos para exportadores de joias em 100 kg</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/india-caps-dutyfree-gold-imports-for-jewellery-exporters-at-100-kg-93CH-4689310</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/india-caps-dutyfree-gold-imports-for-jewellery-exporters-at-100-kg-93CH-4689310</guid>
-      <pubDate>14/05/2026 12:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED180L9_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
