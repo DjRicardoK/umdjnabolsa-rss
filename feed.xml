@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 07:17:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 07:28:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Starz Entertainment perde previsão de receita do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-starz-entertainment-misses-q1-2026-revenue-forecast-93CH-4687728</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-starz-entertainment-misses-q1-2026-revenue-forecast-93CH-4687728</guid>
+      <pubDate>14/05/2026 07:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Caris Life Sciences, primeiro trimestre de 2026, vê crescimento...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/beta-technologies-beta-stock-earnings-archer-aviation-achr-air-taxis-eipp-faa-certification-cathie-wood-ark/?src=A00220&yptr=yahoo</guid>
       <pubDate>14/05/2026 05:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/a0754aca98496f3e3b21c477f55eff59" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações fecham de forma mista devido à fraqueza tecnológica e às pressões inflacionárias</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/stocks-settle-mixed-tech-weakness-203744658.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/stocks-settle-mixed-tech-weakness-203744658.html</guid>
-      <pubDate>14/05/2026 05:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bab324b7ff3e454bd77e3afc82d85ce5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
