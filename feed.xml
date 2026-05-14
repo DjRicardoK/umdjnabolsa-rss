@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 12:31:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 12:37:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Braskem Q1 2026 supera significativamente as previsões de lucro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-braskem-q1-2026-beats-eps-forecasts-significantly-93CH-4689343</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-braskem-q1-2026-beats-eps-forecasts-significantly-93CH-4689343</guid>
+      <pubDate>14/05/2026 12:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Índia limita importações de ouro isentas de impostos para exportadores de joias em 100 kg</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-cincinnati-for-14-may-93CH-4689043</guid>
       <pubDate>14/05/2026 11:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Pulse Biosciences atingem alta de 52 semanas a 26,33 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/pulse-biosciences-stock-hits-52week-high-at-2633-usd-93CH-4689044</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/pulse-biosciences-stock-hits-52week-high-at-2633-usd-93CH-4689044</guid>
-      <pubDate>14/05/2026 11:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
