@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 05:44:04 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 05:44:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Rússia desencadeia o ataque mais pesado de drones em tempo de guerra à Ucrânia e atinge Kyiv</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-4686976</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-4686976</guid>
+      <pubDate>14/05/2026 05:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D00H_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Kepler Cheuvreux corta classificação de ações Flex LNG devido a taxas spot fracas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-analysts-ameren-stock-194307043.html</guid>
       <pubDate>14/05/2026 04:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ff14209a9fb5b62063ea4b7ff45544b1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações fracas e força do petróleo bruto elevam o dólar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/weak-stocks-crude-oil-strength-193442468.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/weak-stocks-crude-oil-strength-193442468.html</guid>
-      <pubDate>14/05/2026 04:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2bbe03cadb56d04c439d78312e7a768d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
