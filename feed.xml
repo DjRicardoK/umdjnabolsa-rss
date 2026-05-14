@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 18:20:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:28:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Wall Street está em alta ou em baixa nas ações da Goldman Sachs?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/wall-street-bullish-bearish-goldman-132022720.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-bullish-bearish-goldman-132022720.html</guid>
+      <pubDate>14/05/2026 18:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/3f2d56bc5ea404605bfce96aaf300c6a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Weitz Large Cap Equity Fund apoia Ingersoll Rand (IR) na configuração de ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-bullish-bearish-broadcom-122048497.html</guid>
       <pubDate>14/05/2026 17:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/38df1e8f799572a3028bacbddc159392" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos da RideNow superaram US$ 0,03, a receita superou as estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/ridenow-earnings-beat-by-003-revenue-topped-estimates-4690206</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/ridenow-earnings-beat-by-003-revenue-topped-estimates-4690206</guid>
-      <pubDate>14/05/2026 17:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
