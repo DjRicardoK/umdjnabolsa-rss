@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 14:31:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 14:34:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Plains All American Pipeline supera as previsões do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-plains-all-american-pipeline-beats-q1-2026-forecasts-93CH-4689674</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-plains-all-american-pipeline-beats-q1-2026-forecasts-93CH-4689674</guid>
+      <pubDate>14/05/2026 14:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Boeing caem enquanto o acordo de Trump com a China decepciona</title>
       <description>As ações da Boeing caminham para sua queda mais acentuada em seis meses, depois que o presidente Donald Trump disse que a China vai adquirir 200 jatos da empresa, decepcionando os...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/borgwarner-stock-hits-alltime-high-at-701-usd-93CH-4689437</guid>
       <pubDate>14/05/2026 13:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os investidores de varejo fazem um movimento surpreendente em relação à Palantir, Microsoft e outras ações de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/article/retail-investors-make-a-surprising-move-on-palantir-microsoft-and-other-software-stocks-154536207.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/retail-investors-make-a-surprising-move-on-palantir-microsoft-and-other-software-stocks-154536207.html</guid>
-      <pubDate>14/05/2026 12:52</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-04/a4058f40-31b7-11f1-bfdb-2a887c4ae6af" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
