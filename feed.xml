@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 18:14:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:20:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Weitz Large Cap Equity Fund apoia Ingersoll Rand (IR) na configuração de ganhos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/weitz-large-cap-equity-fund-131946913.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/weitz-large-cap-equity-fund-131946913.html</guid>
+      <pubDate>14/05/2026 18:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/af4359b1865dbd277450dbbed5fcc380" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Grupo Sony (SONY): as ações mais acessíveis para comprar, de acordo com analistas de Wall Street</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/ridenow-earnings-beat-by-003-revenue-topped-estimates-4690206</guid>
       <pubDate>14/05/2026 17:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro do Gambling.com Group superou US$ 0,02, receita superou estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/gamblingcom-group-earnings-beat-by-002-revenue-topped-estimates-4690207</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/gamblingcom-group-earnings-beat-by-002-revenue-topped-estimates-4690207</guid>
-      <pubDate>14/05/2026 17:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
