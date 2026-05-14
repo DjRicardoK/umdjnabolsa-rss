@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 09:14:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 09:24:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon.com (AMZN) conectada após despesas de capital projetadas de US$ 200 bilhões</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-plugged-200-121335362.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-plugged-200-121335362.html</guid>
+      <pubDate>14/05/2026 09:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/200db36b3627d8c0741a12874b6a7da4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Irã pede às nações do BRICS que condenem a guerra, navio de bandeira indiana afundado</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/wheat-rallies-limit-tuesday-usda-222716177.html</guid>
       <pubDate>14/05/2026 07:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/157e9298e3f03754105ef6c72fda2f4e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Starz Entertainment perde previsão de receita do primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-starz-entertainment-misses-q1-2026-revenue-forecast-93CH-4687728</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-starz-entertainment-misses-q1-2026-revenue-forecast-93CH-4687728</guid>
-      <pubDate>14/05/2026 07:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
