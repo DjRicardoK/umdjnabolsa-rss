@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 01:31:32 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 01:33:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE CEO da Nvidia espera que Trump e Xi melhorem os laços bidirecionais, diz CCTV</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/nvidia-ceo-hopes-trump-and-xi-will-improve-twoway-ties-cctv-says-4687097</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/nvidia-ceo-hopes-trump-and-xi-will-improve-twoway-ties-cctv-says-4687097</guid>
+      <pubDate>14/05/2026 01:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D07D_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da ACCESS Newswire Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/why-sandisk-wild-462-rally-160305128.html</guid>
       <pubDate>13/05/2026 20:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b3c3513950ae550c77ed9af92c4858ac" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de computação quântica: Rigetti cai no relatório de ganhos do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/quantum-computing-stocks-rigetti-stock-rgti-rigetti-earnings-q12026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/quantum-computing-stocks-rigetti-stock-rgti-rigetti-earnings-q12026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>13/05/2026 20:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/e4da0cb52484c0f74c4c010b6759ea75" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
