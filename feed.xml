@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 04:11:44 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 04:11:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação no atacado da Índia acelera para 8,3%, o maior nível em três anos e meio, à medida que os custos...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/indias-april-wholesale-prices-rise-83-yearonyear-4687164</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/indias-april-wholesale-prices-rise-83-yearonyear-4687164</guid>
+      <pubDate>14/05/2026 04:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D0FL_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do primeiro trimestre de 2026 da BKV Corp mostram...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cheniere-energy-q1-2026-sees-unexpected-eps-loss-93CH-4687122</guid>
       <pubDate>14/05/2026 02:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perspectiva das ações da Teradyne: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/teradyne-stock-outlook-wall-street-175933565.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/teradyne-stock-outlook-wall-street-175933565.html</guid>
-      <pubDate>14/05/2026 02:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/df116f4d7a12edf7c0a7d3874a0c17ed" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
