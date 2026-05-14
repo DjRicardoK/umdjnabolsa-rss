@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 14:01:03 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 14:01:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Solo Brands, Inc. Resumo da teleconferência de resultados do primeiro trimestre de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/solo-brands-inc-q1-2026-164338669.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/solo-brands-inc-q1-2026-164338669.html</guid>
+      <pubDate>14/05/2026 14:01</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/1c7cc95acfbf8df2db83e9687add6ebd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Innoviz Technologies Ltd.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/trumps-best-china-trade-deal-is-the-one-he-doesnt-make-b54fe07f?mod=mw_rss_topstories</guid>
       <pubDate>14/05/2026 12:27</pubDate>
       <enclosure url="https://images.mktw.net/im-10486088" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Título I versus conta poupança de alto rendimento: o que é melhor para vencer a inflação?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/comparison/i-bond-vs-savings-account-185055035.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/comparison/i-bond-vs-savings-account-185055035.html</guid>
-      <pubDate>14/05/2026 12:24</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2022-04/a3fde970-c62c-11ec-b7dd-99d9755fb8b5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
