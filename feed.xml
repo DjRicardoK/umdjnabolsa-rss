@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 06:37:21 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 06:56:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Fox Factory supera estimativas de EPS do primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-fox-factory-beats-q1-2026-eps-estimates-stock-declines-93CH-4687521</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-fox-factory-beats-q1-2026-eps-estimates-stock-declines-93CH-4687521</guid>
+      <pubDate>14/05/2026 06:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: resultados do Tiendas 3B Q1 2026 perdem previsão de EPS,...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rileys-q1-2026-misses-eps-forecast-stock-falls-93CH-4687292</guid>
       <pubDate>14/05/2026 05:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow obtém ganho com a queda do Nasdaq; Nvidia atinge alta (cobertura ao vivo)</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-oil-prices-sandisk-cpi-inflation/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-oil-prices-sandisk-cpi-inflation/?src=A00220&yptr=yahoo</guid>
-      <pubDate>14/05/2026 05:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/ba99c37db1e969e62247d920eff2289d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
