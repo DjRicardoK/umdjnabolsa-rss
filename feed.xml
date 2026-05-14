@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 18:39:51 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:41:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da RenovoRx perdidos, receita superou as estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/renovorx-earnings-missed-revenue-topped-estimates-4690734</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/renovorx-earnings-missed-revenue-topped-estimates-4690734</guid>
+      <pubDate>14/05/2026 18:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da ZoomInfo despencam enquanto a empresa reduz empregos. Wall Street não sabe se deve amar ou odiar...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/consolidated-edison-stock-outlook-wall-122322284.html</guid>
       <pubDate>14/05/2026 17:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5cd37d0ba93daaac712223f2e186b07c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE KinderCare supera ganhos e receitas, mas ações caem</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/kindercare-beats-on-earnings-and-revenue-but-shares-dip-93CH-4690310</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/kindercare-beats-on-earnings-and-revenue-but-shares-dip-93CH-4690310</guid>
-      <pubDate>14/05/2026 17:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
