@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 04:40:08 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 04:46:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do Expensify Q1 2026 perdem as expectativas, as...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-expensify-q1-2026-results-miss-expectations-stock-rebounds-93CH-4687230</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-expensify-q1-2026-results-miss-expectations-stock-rebounds-93CH-4687230</guid>
+      <pubDate>14/05/2026 04:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da Ameren?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/why-stifel-cautious-microsoft-corporation-181439226.html</guid>
       <pubDate>14/05/2026 03:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/52d1772a91e0b074c5496ca25de5811e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Exclusivo-EUA libera vendas de chips H200 para 10 empresas chinesas enquanto o CEO da Nvidia busca avanço</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/exclusiveus-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough-4687123</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusiveus-clears-h200-chip-sales-to-10-china-firms-as-nvidia-ceo-looks-for-breakthrough-4687123</guid>
-      <pubDate>14/05/2026 03:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D0BK_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
