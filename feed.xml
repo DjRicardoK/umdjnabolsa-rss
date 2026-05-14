@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 18:41:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:56:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Antimônio dos Estados Unidos, primeiro trimestre de 2026, perde...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-united-states-antimony-q1-2026-misses-forecasts-93CH-4690787</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-united-states-antimony-q1-2026-misses-forecasts-93CH-4690787</guid>
+      <pubDate>14/05/2026 18:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da RenovoRx perdidos, receita superou as estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-analysts-predicting-fortive-122617625.html</guid>
       <pubDate>14/05/2026 17:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/8d1f758aa6eaece2dd16150b770aaddc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perspectiva consolidada das ações da Edison: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/consolidated-edison-stock-outlook-wall-122322284.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/consolidated-edison-stock-outlook-wall-122322284.html</guid>
-      <pubDate>14/05/2026 17:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5cd37d0ba93daaac712223f2e186b07c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
