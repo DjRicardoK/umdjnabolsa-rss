@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 17:20:42 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:22:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Datadog?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/wall-street-analysts-bullish-datadog-120506531.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-analysts-bullish-datadog-120506531.html</guid>
+      <pubDate>14/05/2026 17:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/de3c56ef59782b3aa873c0db6aa67f6c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Lennox International: Wall Street está em alta ou em baixa?</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-global-water-resources-q1-2026-misses-forecasts-but-shows-growth-potential-93CH-4689707</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-global-water-resources-q1-2026-misses-forecasts-but-shows-growth-potential-93CH-4689707</guid>
-      <pubDate>14/05/2026 14:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Vecima Networks Q3 2026 perde EPS, quedas de ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-vecima-networks-q3-2026-misses-eps-stock-dips-93CH-4689711</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vecima-networks-q3-2026-misses-eps-stock-dips-93CH-4689711</guid>
       <pubDate>14/05/2026 14:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
