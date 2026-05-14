@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 07:29:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 07:34:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O que a maior aceleração de lucros em meio de ciclo já registrada significa para o mercado de ações</title>
+      <description>Um trader olha para trás para descobrir por que perdeu a alta do mercado de ações no final de março.</description>
+      <link>https://www.marketwatch.com/story/what-the-biggest-mid-cycle-earnings-acceleration-on-record-means-for-the-stock-market-9d4ad29d?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/what-the-biggest-mid-cycle-earnings-acceleration-on-record-means-for-the-stock-market-9d4ad29d?mod=mw_rss_topstories</guid>
+      <pubDate>14/05/2026 07:34</pubDate>
+      <enclosure url="https://images.mktw.net/im-406072" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Trigo atinge o limite na terça-feira, enquanto o USDA divulga atualizações de produção</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/kepler-cheuvreux-cuts-flex-lng-stock-rating-on-weak-spot-rates-93CH-4687329</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/kepler-cheuvreux-cuts-flex-lng-stock-rating-on-weak-spot-rates-93CH-4687329</guid>
       <pubDate>14/05/2026 05:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs corta classificação das ações da Whirlpool devido a preocupações com a demanda</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-whirlpool-stock-rating-on-demand-concerns-93CH-4687330</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-cuts-whirlpool-stock-rating-on-demand-concerns-93CH-4687330</guid>
-      <pubDate>14/05/2026 05:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
