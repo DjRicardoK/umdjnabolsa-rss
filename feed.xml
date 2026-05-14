@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 04:04:01 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 04:04:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Cathie Wood acaba de fazer uma grande aposta nas ações da Kodiak AI. O resto de Wall Street também vê um...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/cathie-wood-just-made-huge-190155853.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/cathie-wood-just-made-huge-190155853.html</guid>
+      <pubDate>14/05/2026 04:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1a94b0414f1b3780e6c71c34be17b69d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: OHB SE Q1 2026 vê forte crescimento e aumento de ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-shinhan-financial-group-beats-q1-2026-forecasts-93CH-4687116</guid>
       <pubDate>14/05/2026 02:33</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Veja por que a Uber Technologies (UBER) está entre as melhores ações abaixo de US$ 100 para investir agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-uber-technologies-uber-among-174051412.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-uber-technologies-uber-among-174051412.html</guid>
-      <pubDate>14/05/2026 02:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1b0d24331c5749b8809056a69d9d96ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
