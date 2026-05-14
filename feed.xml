@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 06:02:53 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 06:03:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que a comScore, Inc. (SCOR) está entre as 7 melhores ações de aprendizado de máquina para comprar,...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/why-comscore-inc-scor-among-205943658.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/why-comscore-inc-scor-among-205943658.html</guid>
+      <pubDate>14/05/2026 06:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/84d712142ed691eb0c83d1b513cdfbcb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Nvidia dá um passo mais perto de um avanço nas exportações chinesas depois de atingir outro marco</title>
       <description>O presidente-executivo da Nvidia, Jensen Huang, faz lobby há muito tempo pela capacidade de exportar chips semicondutores avançados para a China, diante da oposição de Washington...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/ibd-stock-of-the-day/scorpio-tankers-stng-stock-ibd-stock-of-the-day/?src=A00220&yptr=yahoo</guid>
       <pubDate>14/05/2026 04:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/942dcd0f928123a83321bd32f0464a05" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 2 ações de tecnologia que superam o mercado e que podem se tornar vencedores ainda maiores em IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/2-market-beating-tech-stocks-195101512.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/2-market-beating-tech-stocks-195101512.html</guid>
-      <pubDate>14/05/2026 04:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/271604d392d51f4fcc08544a6f5770cc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
