@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 02:21:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 02:32:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que a Uber Technologies (UBER) está entre as melhores ações abaixo de US$ 100 para investir agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-uber-technologies-uber-among-174051412.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-uber-technologies-uber-among-174051412.html</guid>
+      <pubDate>14/05/2026 02:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1b0d24331c5749b8809056a69d9d96ee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Qnity Electronics, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/access-newswire-inc-q1-2026-165242071.html</guid>
       <pubDate>14/05/2026 01:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/adfd9981017906b2d8656edac6aee21e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Guerra do Irã ofusca visita de Trump à China enquanto negociações de paz estagnam</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/iran-war-overshadows-trumps-china-visit-as-peace-talks-stall-4687088</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/iran-war-overshadows-trumps-china-visit-as-peace-talks-stall-4687088</guid>
-      <pubDate>14/05/2026 01:12</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D06F_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
