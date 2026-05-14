@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 01:47:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 01:48:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Vishay Precision Group, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-inc-q1-170044140.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-inc-q1-170044140.html</guid>
+      <pubDate>14/05/2026 01:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/08230070c92e5405f1e8518ee541445b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da TON Strategy Co.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysisas-iran-war-jolts-air-india-lufthansa-and-cathay-pounce-on-fastgrowing-market-4687032</guid>
       <pubDate>13/05/2026 23:01</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D02E_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação atinge o nível mais alto desde 2023, à medida que os preços do gás continuam subindo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/consumer-prices-rose-again-april-123745919.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/consumer-prices-rose-again-april-123745919.html</guid>
-      <pubDate>13/05/2026 21:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/usa_today_money_325/9c0f54bd6cd9802ace15a689db661e6a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
