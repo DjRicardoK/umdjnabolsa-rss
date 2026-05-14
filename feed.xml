@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 10:50:22 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:57:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da RBC Bearings em foco: O impulso aeroespacial pode continuar?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/rbc-bearings-earnings-in-focus-can-aerospace-momentum-continue-93CH-4688982</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/rbc-bearings-earnings-in-focus-can-aerospace-momentum-continue-93CH-4688982</guid>
+      <pubDate>14/05/2026 10:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Alphatec Holdings (ATEC) caiu com a reação dos investidores em relação aos fatores da empresa e do setor</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-retail-sales-increase-again-but-higher-gas-prices-and-inflation-played-a-big-role-167ae1c3?mod=mw_rss_topstories</guid>
       <pubDate>14/05/2026 09:45</pubDate>
       <enclosure url="https://images.mktw.net/im-51656286" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros e receitas da Cisco superam em meio a fortes pedidos de IA. Ações da CSCO atingem recorde de alta.</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/cisco-stock-cisco-earnings-artificial-intelligence-q12026/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/cisco-stock-cisco-earnings-artificial-intelligence-q12026/?src=A00220&yptr=yahoo</guid>
-      <pubDate>14/05/2026 09:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/24433afc27e7ce5b455d798dcc1cf268" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
