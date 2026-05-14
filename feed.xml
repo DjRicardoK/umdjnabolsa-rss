@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 10:40:59 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 10:41:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Pelagos Insurance Capital Ltd atingem o máximo histórico de 21,96 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/pelagos-insurance-capital-ltd-stock-hits-alltime-high-at-2196-usd-93CH-4688884</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/pelagos-insurance-capital-ltd-stock-hits-alltime-high-at-2196-usd-93CH-4688884</guid>
+      <pubDate>14/05/2026 10:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações do CNO Financial Group atingem o máximo histórico de 46,61 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/iran-urges-brics-to-condemn-us-israel-for-war-exposing-bloc-divisions-4687817</guid>
       <pubDate>14/05/2026 09:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D0PO_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Casa Branca tem poucas ferramentas para aliviar o preço do gás enquanto a guerra no Irã se arrasta</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/white-house-has-few-tools-for-gasprice-relief-as-iran-war-drags-on-4687589</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/white-house-has-few-tools-for-gasprice-relief-as-iran-war-drags-on-4687589</guid>
-      <pubDate>14/05/2026 09:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D0P0_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
