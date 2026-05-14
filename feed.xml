@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 03:57:28 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 03:57:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Alibaba Group (BABA) é uma das ações que Michael Burry está apoiando em 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/alibaba-group-baba-one-stocks-185346553.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/alibaba-group-baba-one-stocks-185346553.html</guid>
+      <pubDate>14/05/2026 03:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/223f271f848fd463c1a7ce54a0086d7e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os ganhos não são suficientes para impressionar os investidores à medida que o PayPal (PYPL) continua em queda</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/qnity-electronics-inc-q1-2026-172521971.html</guid>
       <pubDate>14/05/2026 02:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/402d2eacc38fd8902b110cac464ad42c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 do SPAR Group, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/spar-group-inc-q1-2026-172236756.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/spar-group-inc-q1-2026-172236756.html</guid>
-      <pubDate>14/05/2026 02:21</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/27c5351446d5fc23e028e489d6c1201a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
