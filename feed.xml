@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 05:08:36 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 05:18:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Fornecedor de peças de precisão VPG dispara 30% após ganhos esmagadores</title>
+      <description></description>
+      <link>https://www.investors.com/news/tech-stocks-vpg-vishay-precision-group-data-centers-ai-robots/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/tech-stocks-vpg-vishay-precision-group-data-centers-ai-robots/?src=A00220&yptr=yahoo</guid>
+      <pubDate>14/05/2026 05:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/374e0fb082a01f25700bb0b8ed9888f0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: NN Inc no primeiro trimestre de 2026 supera a previsão de EPS, as...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/alibaba-group-baba-one-stocks-185346553.html</guid>
       <pubDate>14/05/2026 03:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/223f271f848fd463c1a7ce54a0086d7e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos não são suficientes para impressionar os investidores à medida que o PayPal (PYPL) continua em queda</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/earnings-not-enough-impress-investors-185352096.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earnings-not-enough-impress-investors-185352096.html</guid>
-      <pubDate>14/05/2026 03:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/81fcd3263ec7bc38829006d81230efaf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
