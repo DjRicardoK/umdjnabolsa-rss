@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 18:56:05 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:56:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ganhos da Elutia no primeiro trimestre de 2026 perdem lucro por...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-elutias-q1-2026-earnings-miss-eps-revenue-exceeds-forecast-93CH-4690786</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-elutias-q1-2026-earnings-miss-eps-revenue-exceeds-forecast-93CH-4690786</guid>
+      <pubDate>14/05/2026 18:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Antimônio dos Estados Unidos, primeiro trimestre de 2026, perde...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/nextpower-inc-q4-2026-earnings-123000454.html</guid>
       <pubDate>14/05/2026 17:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/8416360d29f8323c19fa858b4b9e9b02" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da Fortive subirão ou afundarão?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/wall-street-analysts-predicting-fortive-122617625.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-analysts-predicting-fortive-122617625.html</guid>
-      <pubDate>14/05/2026 17:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8d1f758aa6eaece2dd16150b770aaddc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
