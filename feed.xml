@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 04:04:43 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 04:04:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Exxon Mobil (XOM) é uma das melhores ações de dividendos da Blue Chip para comprar agora?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/exxon-mobil-xom-one-best-190259627.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/exxon-mobil-xom-one-best-190259627.html</guid>
+      <pubDate>14/05/2026 04:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6bdc2ede5a5af8dd602fea07f05b2bad" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE The Home Depot (HD) – entre as 12 melhores ações de dividendos da Blue Chip para comprar agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/street-thinks-kroger-kr-ahead-174826830.html</guid>
       <pubDate>14/05/2026 02:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a4f3b39795c158bffc1ad12b692763d5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Sempra (SRE) anuncia ganhos do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/sempra-sre-announces-q1-2026-174402604.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sempra-sre-announces-q1-2026-174402604.html</guid>
-      <pubDate>14/05/2026 02:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f6f18df7e04f888daf0ae422c87dabbc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
