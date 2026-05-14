@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 13 May 2026 23:39:50 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 23:39:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da Amplitech perdido, receita superou as estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/amplitech-earnings-missed-revenue-topped-estimates-4687071</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/amplitech-earnings-missed-revenue-topped-estimates-4687071</guid>
+      <pubDate>13/05/2026 23:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os ganhos da Milestone Scientific superaram US$ 0,01, a receita ficou aquém das estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/rising-commodity-prices-create-chance-144417043.html</guid>
       <pubDate>13/05/2026 19:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/6816447cfbd4402b590d63b47a8670a5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Juiz federal bloqueia sanções dos EUA contra especialista da ONU em territórios palestinos</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/federal-judge-blocks-us-sanctions-against-un-expert-on-palestinian-territories-4686867</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/federal-judge-blocks-us-sanctions-against-un-expert-on-palestinian-territories-4686867</guid>
-      <pubDate>13/05/2026 19:38</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C1PL_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
