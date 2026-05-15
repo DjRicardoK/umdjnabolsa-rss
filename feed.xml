@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 01:48:58 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 01:53:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (GOOGL) preparada para usurpar a Nvidia como empresa valiosa no boom da IA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/alphabet-inc-googl-poised-usurp-170147337.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/alphabet-inc-googl-poised-usurp-170147337.html</guid>
+      <pubDate>15/05/2026 01:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c0d6b51ff44a146cf8e9636d417b3bdb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Nebius sobem novamente após resultados explosivos. As ações são uma compra após um aumento de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-splits-amd-bofa-152138393.html</guid>
       <pubDate>15/05/2026 00:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/31906370a742b7a1e1868a772e6df33e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Juiz australiano critica Tesla por &apos;espantar&apos; o lento progresso em ação coletiva</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/australian-judge-criticises-tesla-for-gobsmacking-slow-progress-in-class-action-lawsuit-4691061</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australian-judge-criticises-tesla-for-gobsmacking-slow-progress-in-class-action-lawsuit-4691061</guid>
-      <pubDate>15/05/2026 00:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E05X_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
