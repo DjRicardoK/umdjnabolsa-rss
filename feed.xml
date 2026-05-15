@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 02:58:19 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:16:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street diz venda em maio. Um padrão de 10 anos neste estoque de semicondutores diz o oposto.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/wall-street-says-sell-may-181611245.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-says-sell-may-181611245.html</guid>
+      <pubDate>15/05/2026 03:16</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/f546d12a58f30dc2713fd005a2b4c707" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE TD Cowen reitera espera nas ações da Infosys, mantém meta de US$ 13</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/hasbro-earnings-beat-by-040-revenue-topped-estimates-4691076</guid>
       <pubDate>15/05/2026 01:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O BOJ espera aumentar as taxas para 1,0% em junho e subir novamente em outubro-dezembro</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/boj-expected-to-raise-rates-to-10-in-june-hike-again-in-octoberdecember-4691077</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-expected-to-raise-rates-to-10-in-june-hike-again-in-octoberdecember-4691077</guid>
-      <pubDate>15/05/2026 01:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E086_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
