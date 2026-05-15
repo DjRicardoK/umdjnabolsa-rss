@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 12:52:42 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 12:55:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: RBC Bearings supera as expectativas do quarto trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-rbc-bearings-exceeds-q4-2026-expectations-with-strong-growth-93CH-4693116</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rbc-bearings-exceeds-q4-2026-expectations-with-strong-growth-93CH-4693116</guid>
+      <pubDate>15/05/2026 12:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Veículos motorizados e IA impulsionam a produção industrial dos EUA; escassez de abastecimento devido ao tear...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/hyliion-holdings-reports-q1-2026-212851745.html</guid>
       <pubDate>15/05/2026 05:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/Benzinga/dd589bd6eabf1e5c8d4bc740e0ff5d2d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BofA reitera compra de ações da Alphabet antes do evento para desenvolvedores</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-alphabet-stock-ahead-of-developer-event-93CH-4691267</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-alphabet-stock-ahead-of-developer-event-93CH-4691267</guid>
-      <pubDate>15/05/2026 05:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
