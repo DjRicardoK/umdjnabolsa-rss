@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 23:39:56 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:23:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Petróleo sobe mais de 1% depois que Trump sinaliza interesse da China no fornecimento dos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/oil-rises-as-fears-of-ship-attacks-and-seizures-persist-4691015</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-rises-as-fears-of-ship-attacks-and-seizures-persist-4691015</guid>
+      <pubDate>15/05/2026 00:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E022_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A China às vezes ainda se arrasta em terras raras, diz Greer</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/powell-industries-powl-became-direct-160757893.html</guid>
       <pubDate>14/05/2026 20:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8f5f7d6cdc24052dda063e3327690280" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perspectiva de ações de empresas de serviço público: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/public-enterprise-stock-outlook-wall-155037214.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/public-enterprise-stock-outlook-wall-155037214.html</guid>
-      <pubDate>14/05/2026 20:17</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5ef5e05874d2d0806ea43ef2fec031b4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
