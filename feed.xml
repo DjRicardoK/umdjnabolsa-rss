@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 00:57:09 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:57:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Trump diz que China concordou em comprar petróleo dos EUA após negociações com entrevista de Xi-Fox</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/trump-says-china-agreed-to-buy-us-oil-after-talks-with-xi-fox-interview-4691072</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-says-china-agreed-to-buy-us-oil-after-talks-with-xi-fox-interview-4691072</guid>
+      <pubDate>15/05/2026 00:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF0N1AM_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Leilão de almoço de Warren Buffett e Stephen Curry arrecada US$ 9 milhões para caridade</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/china-wants-strait-of-hormuz-open-without-restrictions-ustr-greer-tells-bloomberg-news-4690992</guid>
       <pubDate>14/05/2026 21:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E017_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro do Grupo Glimpse perdido em US$ 0,59, receita ficou aquém das estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/glimpse-group-earnings-missed-by-059-revenue-fell-short-of-estimates-4690988</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/glimpse-group-earnings-missed-by-059-revenue-fell-short-of-estimates-4690988</guid>
-      <pubDate>14/05/2026 21:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
