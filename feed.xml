@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 13:26:01 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:29:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Moltiply Group no primeiro trimestre de 2026 vê forte...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-moltiply-group-q1-2026-sees-strong-growth-amid-challenges-93CH-4693188</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-moltiply-group-q1-2026-sees-strong-growth-amid-challenges-93CH-4693188</guid>
+      <pubDate>15/05/2026 13:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Mercado de ações hoje: Dow sob pressão com aumento dos rendimentos e preços do petróleo; Slides da Nvidia...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-says-china-may-release-the-detained-pastor-but-tycoon-lai-is-a-tough-one-4693042</guid>
       <pubDate>15/05/2026 12:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0XL_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: TOMI Environmental Solutions Q1 2026 vê crescimento de receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-tomi-environmental-solutions-q1-2026-sees-revenue-growth-93CH-4693043</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tomi-environmental-solutions-q1-2026-sees-revenue-growth-93CH-4693043</guid>
-      <pubDate>15/05/2026 12:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
