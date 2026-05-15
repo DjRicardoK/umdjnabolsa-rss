@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 04:51:38 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:53:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Accenture, Roper Technologies e mais 8 ações destruídas que vale a pena considerar</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/accenture-roper-technologies-stock-market-buys-147f5ee8?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/accenture-roper-technologies-stock-market-buys-147f5ee8?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>15/05/2026 04:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Microsoft Corporation (MSFT): Chris Rokos Trims Holding</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-warns-of-financial-system-risks-from-investment-fund-activity-4691172</guid>
       <pubDate>15/05/2026 03:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0EL_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Economia alemã será atingida pela guerra no Irã durante o segundo trimestre, diz ministério</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/german-economy-to-take-hit-from-iran-war-during-q2-ministry-says-4691174</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/german-economy-to-take-hit-from-iran-war-during-q2-ministry-says-4691174</guid>
-      <pubDate>15/05/2026 03:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0EG_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
