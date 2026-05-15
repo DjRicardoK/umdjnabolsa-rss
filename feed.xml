@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 03:56:30 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:56:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco do Japão alerta sobre riscos do sistema financeiro decorrentes da atividade de fundos de investimento</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/boj-warns-of-financial-system-risks-from-investment-fund-activity-4691172</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-warns-of-financial-system-risks-from-investment-fund-activity-4691172</guid>
+      <pubDate>15/05/2026 03:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0EL_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Economia alemã será atingida pela guerra no Irã durante o segundo trimestre, diz ministério</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/vci-global-vcig-secures-strategic-174653745.html</guid>
       <pubDate>15/05/2026 02:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/baa411d478f81b3a11cd433316b767b1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Nasdaq sobe mais de 1%; Ações do Alibaba ganham após resultados do quarto trimestre</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/nasdaq-surges-over-1-alibaba-174242926.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/nasdaq-surges-over-1-alibaba-174242926.html</guid>
-      <pubDate>15/05/2026 02:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Benzinga/732700368b9731fa5887c57695048a20" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
