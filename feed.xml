@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 05:14:01 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 05:14:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A previsão de vendas da Cisco supera as estimativas e cortará 5% dos empregos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/video/cisco-sales-forecast-tops-estimates-204923566.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/video/cisco-sales-forecast-tops-estimates-204923566.html</guid>
+      <pubDate>15/05/2026 05:14</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/xCUMK18cV34mQKTgN4A0TQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/3578d8ec-807d-4e96-9d43-9ad6eb7532c7/main/1280x720/2m56s866ms/match/image.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Global-e Online Ltd. Resumo da teleconferência de ganhos do primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/eos-energy-eose-q1-2026-190156015.html</guid>
       <pubDate>15/05/2026 04:09</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Novo membro do conselho do Banco da Coreia diz que as preocupações com a inflação estão aumentando</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/new-bank-of-korea-board-member-says-inflation-worries-are-heightening-4691200</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/new-bank-of-korea-board-member-says-inflation-worries-are-heightening-4691200</guid>
-      <pubDate>15/05/2026 04:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0FV_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
