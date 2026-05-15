@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 01:28:39 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 01:29:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Ásia caem à medida que a alta das fichas esfria; China se estabiliza antes de mais negociações...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/asia-stocks-drop-as-chips-rally-cools-china-steadies-before-more-trumpxi-talks-4691078</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-drop-as-chips-rally-cools-china-steadies-before-more-trumpxi-talks-4691078</guid>
+      <pubDate>15/05/2026 01:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB210AE_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da DuPont de Nemours?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/stocks-pressured-signs-resurgent-inflation-141035485.html</guid>
       <pubDate>14/05/2026 23:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/9702f20631207874aa69ec4c7402dbba" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Precigen supera as previsões do primeiro trimestre de 2026,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-precigen-beats-q1-2026-forecasts-stock-surges-93CH-4691041</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-precigen-beats-q1-2026-forecasts-stock-surges-93CH-4691041</guid>
-      <pubDate>14/05/2026 22:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
