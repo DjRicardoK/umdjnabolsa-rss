@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 13:42:46 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:57:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os resultados do terceiro trimestre de 2026 da NeoVolta perdem...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-neovoltas-q3-2026-results-miss-forecasts-93CH-4693258</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-neovoltas-q3-2026-results-miss-forecasts-93CH-4693258</guid>
+      <pubDate>15/05/2026 13:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Este estoque de IA em execução de 30% oferece entrada à medida que os ganhos aceleram</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/somnigroup-international-stock-hits-52week-low-at-6243-usd-93CH-4693107</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/somnigroup-international-stock-hits-52week-low-at-6243-usd-93CH-4693107</guid>
       <pubDate>15/05/2026 12:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações do Asbury Automotive Group atingem o mínimo de 52 semanas em 184,61 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/asbury-automotive-group-stock-hits-52week-low-at-18461-usd-93CH-4693075</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/asbury-automotive-group-stock-hits-52week-low-at-18461-usd-93CH-4693075</guid>
-      <pubDate>15/05/2026 12:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
