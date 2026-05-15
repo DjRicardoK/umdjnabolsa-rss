@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 05:34:27 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 05:37:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Ferragamo afundam 16% enquanto a fraqueza da China reduz a receita do primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/ferragamo-shares-sink-16-as-china-weakness-drags-down-q1-revenue-4691261</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/ferragamo-shares-sink-16-as-china-weakness-drags-down-q1-revenue-4691261</guid>
+      <pubDate>15/05/2026 05:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/red2_b._M_1440048382.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Teleconferência de resultados do primeiro trimestre de 2026 da Longeveron: transcrição completa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/aii-q1-2026-earnings-transcript-193721515.html</guid>
       <pubDate>15/05/2026 04:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Oklo afunda nos ganhos. Por que a startup nuclear está acelerando para 4 de julho.</title>
-      <description></description>
-      <link>https://www.investors.com/news/oklo-stock-earnings-july-4-criticality-goal-nuclear-stocks/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/oklo-stock-earnings-july-4-criticality-goal-nuclear-stocks/?src=A00220&yptr=yahoo</guid>
-      <pubDate>15/05/2026 04:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
