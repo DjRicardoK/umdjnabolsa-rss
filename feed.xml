@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 04:08:17 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:09:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Eos Energy (EOSE) Transcrição de ganhos do primeiro trimestre de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/eos-energy-eose-q1-2026-190156015.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/eos-energy-eose-q1-2026-190156015.html</guid>
+      <pubDate>15/05/2026 04:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Novo membro do conselho do Banco da Coreia diz que as preocupações com a inflação estão aumentando</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/argenx-se-argx-among-most-175627671.html</guid>
       <pubDate>15/05/2026 02:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2786abab0766df7195779930fd6273f2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de ganhos do primeiro trimestre da PolyPid</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/polypid-q1-earnings-call-highlights-180938575.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/polypid-q1-earnings-call-highlights-180938575.html</guid>
-      <pubDate>15/05/2026 02:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/a425ffc163e4a3b65c5d4490b546277a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
