@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 12:43:15 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 12:44:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Swarmer: Plataforma validada em combate posicionada para crescimento acelerado – Relatório de atualização...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/swarmer-combat-validated-platform-positioned-153646731.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/swarmer-combat-validated-platform-positioned-153646731.html</guid>
+      <pubDate>15/05/2026 12:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/exec_edge_220/2af0c6bb7a51f036d2868532b01678a4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Trump diz que a China pode libertar o pastor detido, mas o magnata Lai “é durão”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-recruit-holdings-q4-2025-beats-expectations-with-record-results-93CH-4691257</guid>
       <pubDate>15/05/2026 05:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Kornit Digital Ltd.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/kornit-digital-ltd-q1-2026-205559084.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/kornit-digital-ltd-q1-2026-205559084.html</guid>
-      <pubDate>15/05/2026 05:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/139e1d3abacf506f18ac8de1be7ee288" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
