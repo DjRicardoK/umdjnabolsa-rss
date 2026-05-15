@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 01:17:25 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 01:28:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da DuPont de Nemours?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-dupont-nemours-164143503.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-dupont-nemours-164143503.html</guid>
+      <pubDate>15/05/2026 01:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2b0a5a171fa0968be2b310ce93ebc43d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Conselho da FedEx aprova cisão da unidade LTL</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-precigen-beats-q1-2026-forecasts-stock-surges-93CH-4691041</guid>
       <pubDate>14/05/2026 22:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os controles de exportação de chips não são um tópico importante nas negociações com a China, disse Greer,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/chip-export-controls-not-major-topic-in-china-talks-us-trade-rep-greer-tells-bloomberg-news-4691031</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chip-export-controls-not-major-topic-in-china-talks-us-trade-rep-greer-tells-bloomberg-news-4691031</guid>
-      <pubDate>14/05/2026 22:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E03K_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
