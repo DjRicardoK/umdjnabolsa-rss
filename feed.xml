@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 02:29:15 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 02:37:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE VCI Global (VCIG) garante investimento estratégico e papel de EPC em ativos de mineração de ouro no Brasil</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/vci-global-vcig-secures-strategic-174653745.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/vci-global-vcig-secures-strategic-174653745.html</guid>
+      <pubDate>15/05/2026 02:37</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/baa411d478f81b3a11cd433316b767b1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nasdaq sobe mais de 1%; Ações do Alibaba ganham após resultados do quarto trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/why-alibabas-earnings-report-may-161125970.html</guid>
       <pubDate>15/05/2026 01:01</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/5798300ec3bc775afad0d7be34ac403b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ásia FX cai devido às expectativas agressivas do Fed; rupia atinge mínima recorde perto de 96/USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/asia-fx-slides-on-hawkish-fed-expectations-rupee-hits-record-low-near-96usd-4691070</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-slides-on-hawkish-fed-expectations-rupee-hits-record-low-near-96usd-4691070</guid>
-      <pubDate>15/05/2026 00:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE7F0KD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
