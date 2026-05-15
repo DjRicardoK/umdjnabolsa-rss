@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 01:46:40 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 01:48:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nebius sobem novamente após resultados explosivos. As ações são uma compra após um aumento de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/nebius-stock-surges-again-blowout-164650819.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/nebius-stock-surges-again-blowout-164650819.html</guid>
+      <pubDate>15/05/2026 01:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/b425b679776e09c27576aa852383411e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Collins, do Fed, prefere manter as taxas intactas – e isso está ajudando a nota do Tesouro de dois anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australian-judge-criticises-tesla-for-gobsmacking-slow-progress-in-class-action-lawsuit-4691061</guid>
       <pubDate>15/05/2026 00:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E05X_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE SMIC da China diz que clientes estrangeiros estão transferindo pedidos de volta para a China</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/chinas-smic-says-foreign-clients-shifting-orders-back-to-china-4691059</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-smic-says-foreign-clients-shifting-orders-back-to-china-4691059</guid>
-      <pubDate>15/05/2026 00:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E05M_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
