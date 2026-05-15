@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 01:29:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 01:29:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O BOJ espera aumentar as taxas para 1,0% em junho e subir novamente em outubro-dezembro</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/boj-expected-to-raise-rates-to-10-in-june-hike-again-in-octoberdecember-4691077</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-expected-to-raise-rates-to-10-in-june-hike-again-in-octoberdecember-4691077</guid>
+      <pubDate>15/05/2026 01:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E086_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Ásia caem à medida que a alta das fichas esfria; China se estabiliza antes de mais negociações...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-docebo-q1-2026-beats-expectations-stock-dips-93CH-4691050</guid>
       <pubDate>14/05/2026 23:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações pressionadas por sinais de ressurgimento da inflação</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/stocks-pressured-signs-resurgent-inflation-141035485.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/stocks-pressured-signs-resurgent-inflation-141035485.html</guid>
-      <pubDate>14/05/2026 23:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9702f20631207874aa69ec4c7402dbba" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
