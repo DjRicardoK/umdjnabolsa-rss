@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 04:41:39 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:51:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE NVIDIA Corporation (NVDA): Chris Rokos está otimista com este gigante de chips</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/nvidia-corporation-nvda-chris-rokos-193204873.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/nvidia-corporation-nvda-chris-rokos-193204873.html</guid>
+      <pubDate>15/05/2026 04:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a28a9847196e20d557458644f8b04938" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações europeias caem à medida que as preocupações com a inflação mantêm os investidores nervosos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/medical-device-stocks-etf-smith-nephew-glaukos-9548ec09?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>15/05/2026 03:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/5c21e3753c7212b7a1fee931568182f4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Warsh ganha confirmação como presidente do Fed, com inflação em marcha</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/warsh-wins-confirmation-fed-chair-185050168.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/warsh-wins-confirmation-fed-chair-185050168.html</guid>
-      <pubDate>15/05/2026 03:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/be378585eefe9c8095d28ca97d4711c2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
