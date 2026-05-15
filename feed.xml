@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 03:19:55 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:33:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O CEO da Box, Aaron Levie, prevê uma enorme corrida do ouro em consultoria à medida que os agentes de IA...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/box-ceo-aaron-levie-predicts-183103495.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/box-ceo-aaron-levie-predicts-183103495.html</guid>
+      <pubDate>15/05/2026 03:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/4a634875b60cba609a4f4f9c4e6b54fc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bitcoin ultrapassa US$ 80 mil com progresso regulatório dos EUA; Incerteza entre China e Irã pesa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/alphabet-inc-googl-poised-usurp-170147337.html</guid>
       <pubDate>15/05/2026 01:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c0d6b51ff44a146cf8e9636d417b3bdb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Nebius sobem novamente após resultados explosivos. As ações são uma compra após um aumento de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/nebius-stock-surges-again-blowout-164650819.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/nebius-stock-surges-again-blowout-164650819.html</guid>
-      <pubDate>15/05/2026 01:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/b425b679776e09c27576aa852383411e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
