@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 05:42:29 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 05:43:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Flex LNG</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/flex-lng-q1-earnings-call-211205862.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/flex-lng-q1-earnings-call-211205862.html</guid>
+      <pubDate>15/05/2026 05:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/076f36f97ea4e8b96397ca58cf1180fd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O consultor cita Mike Tyson após a queda de 9% do S&amp;P 500 na guerra com o Irã: &apos;Todo mundo tem um plano até...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-shares-slip-as-inflation-worries-keep-investors-on-edge-4691222</guid>
       <pubDate>15/05/2026 04:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0GM_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE TD Cowen reitera compra de ações da Microsoft, cita crescimento do Azure</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-buy-on-microsoft-stock-cites-azure-growth-93CH-4691233</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-buy-on-microsoft-stock-cites-azure-growth-93CH-4691233</guid>
-      <pubDate>15/05/2026 04:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
