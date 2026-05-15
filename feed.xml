@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 03:51:29 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:56:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Economia alemã será atingida pela guerra no Irã durante o segundo trimestre, diz ministério</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/german-economy-to-take-hit-from-iran-war-during-q2-ministry-says-4691174</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/german-economy-to-take-hit-from-iran-war-during-q2-ministry-says-4691174</guid>
+      <pubDate>15/05/2026 03:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0EG_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os estoques de dispositivos médicos estão prontos para saltar. Dois nomes para comprar agora.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/nasdaq-surges-over-1-alibaba-174242926.html</guid>
       <pubDate>15/05/2026 02:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/Benzinga/732700368b9731fa5887c57695048a20" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE EZGO Tech (EZGO) garante certificado de propriedade para instalação de fabricação de 36.547 metros quadrados...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/ezgo-tech-ezgo-secures-ownership-174703856.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/ezgo-tech-ezgo-secures-ownership-174703856.html</guid>
-      <pubDate>15/05/2026 02:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1f427f528ebeeeb56fcd50a9c921a8af" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
