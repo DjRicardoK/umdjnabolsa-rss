@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 01:44:22 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 01:46:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Collins, do Fed, prefere manter as taxas intactas – e isso está ajudando a nota do Tesouro de dois anos</title>
+      <description></description>
+      <link>https://www.barrons.com/livecoverage/stock-market-news-today-051326/card/fed-s-collins-prefers-keeping-rates-intact-and-it-s-helping-the-two-year-treasury-note-soFNGwhxXQqzpIknhhQx?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-051326/card/fed-s-collins-prefers-keeping-rates-intact-and-it-s-helping-the-two-year-treasury-note-soFNGwhxXQqzpIknhhQx?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>15/05/2026 01:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street otimista em relação às propriedades de defesa COPT (CPOT) após os resultados do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-smic-says-foreign-clients-shifting-orders-back-to-china-4691059</guid>
       <pubDate>15/05/2026 00:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E05M_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Petróleo sobe mais de 1% depois que Trump sinaliza interesse da China no fornecimento dos EUA</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/oil-rises-as-fears-of-ship-attacks-and-seizures-persist-4691015</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-rises-as-fears-of-ship-attacks-and-seizures-persist-4691015</guid>
-      <pubDate>15/05/2026 00:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E022_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
