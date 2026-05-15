@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 00:23:12 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:23:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE SMIC da China diz que clientes estrangeiros estão transferindo pedidos de volta para a China</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/chinas-smic-says-foreign-clients-shifting-orders-back-to-china-4691059</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-smic-says-foreign-clients-shifting-orders-back-to-china-4691059</guid>
+      <pubDate>15/05/2026 00:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E05M_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Petróleo sobe mais de 1% depois que Trump sinaliza interesse da China no fornecimento dos EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/japan-april-wholesale-prices-rise-49-pct-yryr-4690944</guid>
       <pubDate>14/05/2026 21:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4D1NW_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Como a Powell Industries (POWL) se tornou uma ação direta no gargalo de energia da IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/powell-industries-powl-became-direct-160757893.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/powell-industries-powl-became-direct-160757893.html</guid>
-      <pubDate>14/05/2026 20:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8f5f7d6cdc24052dda063e3327690280" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
