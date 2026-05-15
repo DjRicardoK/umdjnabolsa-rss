@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 03:19:48 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:19:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bitcoin ultrapassa US$ 80 mil com progresso regulatório dos EUA; Incerteza entre China e Irã pesa</title>
+      <description></description>
+      <link>https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-past-80k-on-us-regulatory-progress-china-iran-uncertainty-weighs-4691146</link>
+      <guid isPermaLink="false">https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-past-80k-on-us-regulatory-progress-china-iran-uncertainty-weighs-4691146</guid>
+      <pubDate>15/05/2026 03:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE1812S_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Trump diz que ele e Xi da China concordam que o Irã não pode ter armas nucleares</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/nebius-stock-surges-again-blowout-164650819.html</guid>
       <pubDate>15/05/2026 01:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/b425b679776e09c27576aa852383411e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Collins, do Fed, prefere manter as taxas intactas – e isso está ajudando a nota do Tesouro de dois anos</title>
-      <description></description>
-      <link>https://www.barrons.com/livecoverage/stock-market-news-today-051326/card/fed-s-collins-prefers-keeping-rates-intact-and-it-s-helping-the-two-year-treasury-note-soFNGwhxXQqzpIknhhQx?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-051326/card/fed-s-collins-prefers-keeping-rates-intact-and-it-s-helping-the-two-year-treasury-note-soFNGwhxXQqzpIknhhQx?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>15/05/2026 01:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
