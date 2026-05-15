@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 03:18:04 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:19:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Trump diz que ele e Xi da China concordam que o Irã não pode ter armas nucleares</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/trump-says-he-and-chinas-xi-agree-iran-cannot-have-nuclear-weapons-4691149</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-says-he-and-chinas-xi-agree-iran-cannot-have-nuclear-weapons-4691149</guid>
+      <pubDate>15/05/2026 03:19</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0DT_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ORIX Q4 2026 registra receita recorde apesar da perda de EPS</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-051326/card/fed-s-collins-prefers-keeping-rates-intact-and-it-s-helping-the-two-year-treasury-note-soFNGwhxXQqzpIknhhQx?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>15/05/2026 01:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wall Street otimista em relação às propriedades de defesa COPT (CPOT) após os resultados do primeiro...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/wall-street-bullish-copt-defense-170127119.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-bullish-copt-defense-170127119.html</guid>
-      <pubDate>15/05/2026 01:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4086319c0201c986086136dfaedb0b6d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
