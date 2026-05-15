@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 15:04:41 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 15:05:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Core Scientific (CORZ) se recupera conforme relatório de ganhos dos investidores</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-recovers-investors-082817428.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-recovers-investors-082817428.html</guid>
+      <pubDate>15/05/2026 15:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7d1b195c37ebfd25ecce0753f3bb5298" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Microsoft e Figma entre os movimentadores de ações de capitalização de mercado na sexta-feira</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-177-4693155</guid>
       <pubDate>15/05/2026 13:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB210AB_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O CEO do Gold.com, Gregory Roberts, vende US$ 1,66 milhão em ações após exercício de opções</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/goldcom-ceo-gregory-roberts-sells-166m-in-shares-after-option-exercise-93CH-4693151</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/goldcom-ceo-gregory-roberts-sells-166m-in-shares-after-option-exercise-93CH-4693151</guid>
-      <pubDate>15/05/2026 13:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/international_newspapers_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
