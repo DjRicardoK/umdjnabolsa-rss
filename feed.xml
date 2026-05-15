@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 04:31:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:31:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Oklo afunda nos ganhos. Por que a startup nuclear está acelerando para 4 de julho.</title>
+      <description></description>
+      <link>https://www.investors.com/news/oklo-stock-earnings-july-4-criticality-goal-nuclear-stocks/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/oklo-stock-earnings-july-4-criticality-goal-nuclear-stocks/?src=A00220&yptr=yahoo</guid>
+      <pubDate>15/05/2026 04:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/c64dbe3ecf220b3042ce3ae835fb2be1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Enquanto Jensen Huang se junta à cúpula de Trump na China, relatório bombástico afirma que a receita da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/box-ceo-aaron-levie-predicts-183103495.html</guid>
       <pubDate>15/05/2026 03:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/benzinga_79/4a634875b60cba609a4f4f9c4e6b54fc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bitcoin ultrapassa US$ 80 mil com progresso regulatório dos EUA; Incerteza entre China e Irã pesa</title>
-      <description></description>
-      <link>https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-past-80k-on-us-regulatory-progress-china-iran-uncertainty-weighs-4691146</link>
-      <guid isPermaLink="false">https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-past-80k-on-us-regulatory-progress-china-iran-uncertainty-weighs-4691146</guid>
-      <pubDate>15/05/2026 03:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE1812S_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
