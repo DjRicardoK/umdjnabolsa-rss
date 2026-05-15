@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 04:30:08 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:31:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Enquanto Jensen Huang se junta à cúpula de Trump na China, relatório bombástico afirma que a receita da...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/jensen-huang-joins-trumps-china-192225295.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/jensen-huang-joins-trumps-china-192225295.html</guid>
+      <pubDate>15/05/2026 04:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Benzinga/55264f976fb30b4e2234aa6b7a860bc2" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As taxas hipotecárias sobem novamente à medida que a inflação e o Irã minam a confiança</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/cryptocurrency-news/bitcoin-rises-past-80k-on-us-regulatory-progress-china-iran-uncertainty-weighs-4691146</guid>
       <pubDate>15/05/2026 03:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE1812S_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Trump diz que ele e Xi da China concordam que o Irã não pode ter armas nucleares</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/trump-says-he-and-chinas-xi-agree-iran-cannot-have-nuclear-weapons-4691149</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/trump-says-he-and-chinas-xi-agree-iran-cannot-have-nuclear-weapons-4691149</guid>
-      <pubDate>15/05/2026 03:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0DT_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
