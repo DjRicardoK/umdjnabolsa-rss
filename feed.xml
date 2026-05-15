@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 01:32:54 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 01:44:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street otimista em relação às propriedades de defesa COPT (CPOT) após os resultados do primeiro...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/wall-street-bullish-copt-defense-170127119.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/wall-street-bullish-copt-defense-170127119.html</guid>
+      <pubDate>15/05/2026 01:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4086319c0201c986086136dfaedb0b6d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Hasbro superou US$ 0,40, receita superou estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-rises-as-fears-of-ship-attacks-and-seizures-persist-4691015</guid>
       <pubDate>15/05/2026 00:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E022_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A China às vezes ainda se arrasta em terras raras, diz Greer</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/china-still-drags-its-feet-on-rare-earths-sometimes-says-greer-4691053</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/china-still-drags-its-feet-on-rare-earths-sometimes-says-greer-4691053</guid>
-      <pubDate>14/05/2026 23:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E04H_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
