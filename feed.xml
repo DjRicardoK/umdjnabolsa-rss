@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 00:57:48 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:57:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ásia FX cai devido às expectativas agressivas do Fed; rupia atinge mínima recorde perto de 96/USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/asia-fx-slides-on-hawkish-fed-expectations-rupee-hits-record-low-near-96usd-4691070</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-slides-on-hawkish-fed-expectations-rupee-hits-record-low-near-96usd-4691070</guid>
+      <pubDate>15/05/2026 00:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE7F0KD_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Trump diz que China concordou em comprar petróleo dos EUA após negociações com entrevista de Xi-Fox</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/solomon-islands-elects-matthew-cooper-wale-as-prime-minister-4690973</guid>
       <pubDate>14/05/2026 22:01</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAB20I9_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China quer Estreito de Ormuz aberto sem restrições, disse USTR Greer à Bloomberg News</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/china-wants-strait-of-hormuz-open-without-restrictions-ustr-greer-tells-bloomberg-news-4690992</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/china-wants-strait-of-hormuz-open-without-restrictions-ustr-greer-tells-bloomberg-news-4690992</guid>
-      <pubDate>14/05/2026 21:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E017_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
