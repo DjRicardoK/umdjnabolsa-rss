@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 03:33:01 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 03:33:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Cathie Wood permanece otimista em relação ao Robotaxi de Tesla. As ações da TSLA estão aguardando um gatilho...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cathie-wood-remains-bullish-tesla-184426336.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cathie-wood-remains-bullish-tesla-184426336.html</guid>
+      <pubDate>15/05/2026 03:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/da8b3ba9989a875d846b3ba5f6ee8c1b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O CEO da Box, Aaron Levie, prevê uma enorme corrida do ouro em consultoria à medida que os agentes de IA...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/adani-stocks-volatile-after-reports-us-may-drop-fraud-charges-against-gautam-adani-4691087</guid>
       <pubDate>15/05/2026 01:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7N0HH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE (GOOGL) preparada para usurpar a Nvidia como empresa valiosa no boom da IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/alphabet-inc-googl-poised-usurp-170147337.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/alphabet-inc-googl-poised-usurp-170147337.html</guid>
-      <pubDate>15/05/2026 01:53</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c0d6b51ff44a146cf8e9636d417b3bdb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
