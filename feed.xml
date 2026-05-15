@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 02:03:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 02:03:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Valens Semiconductor Ltd.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/valens-semiconductor-ltd-q1-2026-170308475.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/valens-semiconductor-ltd-q1-2026-170308475.html</guid>
+      <pubDate>15/05/2026 02:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/a5bfdd8be4b7e2c57007d7e5b73f548a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 12 ações de saúde em movimento na sessão intradiária de quarta-feira</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/warren-buffett-stephen-curry-lunch-auction-fetches-9-million-for-charity-4691065</guid>
       <pubDate>15/05/2026 00:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E06G_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição: Teleconferência sobre os resultados do primeiro trimestre de 2026 da Valneva</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/transcript-valneva-q1-2026-earnings-155143868.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/transcript-valneva-q1-2026-earnings-155143868.html</guid>
-      <pubDate>15/05/2026 00:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Benzinga/dd589bd6eabf1e5c8d4bc740e0ff5d2d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
