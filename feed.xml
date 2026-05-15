@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 05:05:33 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 05:09:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Eos Energy Enterprises, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/eos-energy-enterprises-inc-q1-204321648.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/eos-energy-enterprises-inc-q1-204321648.html</guid>
+      <pubDate>15/05/2026 05:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/665d11199f355ecfcb430c01777b5a73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE S&amp;P 500 e Nasdaq 100 registram novos recordes de força de estoque de chips</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://finance.yahoo.com/news/national-vision-eye-q1-2026-190136915.html</link>
       <guid isPermaLink="false">https://finance.yahoo.com/news/national-vision-eye-q1-2026-190136915.html</guid>
       <pubDate>15/05/2026 03:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Kamada (KMDA) Transcrição dos ganhos do primeiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/kamada-kmda-q1-2026-earnings-185734590.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/kamada-kmda-q1-2026-earnings-185734590.html</guid>
-      <pubDate>15/05/2026 03:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
