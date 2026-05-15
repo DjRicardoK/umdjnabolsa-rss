@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 04:40:45 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:40:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O dólar sobe com um relatório quente do PPI dos EUA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-rallies-hot-us-ppi-193656668.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-rallies-hot-us-ppi-193656668.html</guid>
+      <pubDate>15/05/2026 04:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1c78243ff6ea0f56104ce694dab841ee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição de ganhos do AII Q1 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bank-rakyat-indonesia-q1-2026-shows-revenue-beat-93CH-4691168</guid>
       <pubDate>15/05/2026 03:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Cathie Wood permanece otimista em relação ao Robotaxi de Tesla. As ações da TSLA estão aguardando um gatilho...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/cathie-wood-remains-bullish-tesla-184426336.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cathie-wood-remains-bullish-tesla-184426336.html</guid>
-      <pubDate>15/05/2026 03:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/da8b3ba9989a875d846b3ba5f6ee8c1b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
