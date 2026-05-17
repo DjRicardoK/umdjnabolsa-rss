@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 20:38:31 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 20:55:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Gentrack Q1 2026 vê queda na receita, ações sobem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-gentrack-q1-2026-sees-revenue-dip-stock-rises-93CH-4694577</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-gentrack-q1-2026-sees-revenue-dip-stock-rises-93CH-4694577</guid>
+      <pubDate>17/05/2026 20:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, futuros do Nasdaq caem de máximos recordes antes da semana de lucros...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/intel-nvidia-and-other-hot-chip-stocks-fall-as-ai-exuberance-fades-c2fae3d3?mod=mw_rss_topstories</guid>
       <pubDate>15/05/2026 14:39</pubDate>
       <enclosure url="https://images.mktw.net/im-21031776" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações e títulos são varridos pela liquidação enquanto a visita de Trump à China não consegue abrir o Estreito...</title>
-      <description>Os receios de um problema de inflação ao estilo de 2022 estão a voltar a borbulhar, mas também a esperança de um pivô de Trump no conflito com o Irão.</description>
-      <link>https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories</guid>
-      <pubDate>15/05/2026 14:30</pubDate>
-      <enclosure url="https://images.mktw.net/im-39093274" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
