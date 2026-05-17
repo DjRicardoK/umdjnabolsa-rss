@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 18:31:15 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 18:34:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O presidente Trump jogou uma chave inglesa nos planos de Kevin Warsh como presidente do Federal Reserve, e...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/president-trump-threw-wrench-kevin-212000636.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/president-trump-threw-wrench-kevin-212000636.html</guid>
+      <pubDate>17/05/2026 18:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/1021e550db221acac481d5ac5bed7f69" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Nvidia está recebendo ajuda para impulsionar o crescimento dos lucros do S&amp;P 500</title>
       <description>Espera-se que a Micron seja o segundo maior contribuinte para o crescimento geral dos lucros do índice – atrás da Nvidia, cujo impacto provavelmente diminuirá.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-neovoltas-q3-2026-results-miss-forecasts-93CH-4693258</guid>
       <pubDate>15/05/2026 13:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Este estoque de IA em execução de 30% oferece entrada à medida que os ganhos aceleram</title>
-      <description></description>
-      <link>https://www.investors.com/stock-lists/stock-spotlight/ai-stock-dycom-industries-dy-offers-entry-earnings-accelerate/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/stock-lists/stock-spotlight/ai-stock-dycom-industries-dy-offers-entry-earnings-accelerate/?src=A00220&yptr=yahoo</guid>
-      <pubDate>15/05/2026 13:42</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/e42644bd08e70d62e8134ea24b81ce14" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
