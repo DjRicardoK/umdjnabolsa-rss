@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 19:52:38 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 20:38:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, futuros do Nasdaq caem de máximos recordes antes da semana de lucros...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-18-earnings-nvidia-232705005.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-may-18-earnings-nvidia-232705005.html</guid>
+      <pubDate>17/05/2026 20:38</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Rbq8wfanlnfEtBprmyubtw--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/792f8cb5-1dd5-49bd-aae1-321cfcd10d3e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O sucessor de Warren Buffett, Greg Abel, pouco mais que triplicou a participação da Berkshire nestas ações...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories</guid>
       <pubDate>15/05/2026 14:30</pubDate>
       <enclosure url="https://images.mktw.net/im-39093274" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do primeiro trimestre de 2026 da Super League Enterprise, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/super-league-enterprise-inc-q1-165246987.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/super-league-enterprise-inc-q1-165246987.html</guid>
-      <pubDate>15/05/2026 14:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/b9c57ef571561025784f2558c093dd58" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
