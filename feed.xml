@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 15:20:11 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 18:30:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dow Jones Futures: Preços do petróleo e rendimentos em foco enquanto Trump diz que &apos;o relógio está passando&apos;...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-trump-iran-threat-nvidia-earnings/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-trump-iran-threat-nvidia-earnings/?src=A00220&yptr=yahoo</guid>
+      <pubDate>17/05/2026 18:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/82b3f81c27f1c7a4099199dae86f4c38" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE 10 ações para protegê-lo do arriscado comércio de IA</title>
       <description>Também em leituras de fim de semana: dicas para vender uma casa, a reação do mercado de títulos quando Kevin Warsh assume o comando do Fed e conselhos do Moneyist.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-oil-prices-yields-applied-materials-nvidia-cerebras-ipo/?src=A00220&yptr=yahoo</guid>
       <pubDate>15/05/2026 13:25</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/95690600b5ffa388417bc5422e1bd05e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Espanha caem no fechamento do pregão; IBEX 35 caiu 1,22%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-122-4693154</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-122-4693154</guid>
-      <pubDate>15/05/2026 13:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC2D0DO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
