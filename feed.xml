@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 11:59:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:03:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de Israel caem no fechamento do pregão; TA 35 caiu 1,62%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-162-4696331</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-162-4696331</guid>
+      <pubDate>18/05/2026 12:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1K0VN_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer compartilha por que Tesla (TSLA) é melhor que a Ford</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/article/why-nvidia-earnings-must-deliver-massively-131600201.html</guid>
       <pubDate>18/05/2026 10:26</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/67yeS6jsqIQuM_es9Sihow--~B/aD0yOTE2O3c9NTE4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0295734f-401c-4017-a3d8-9a3efa278dc8_c2993c74426faf4a292e0a412a74282f9b7d8fe3e9e4b702df58860ff054881a.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O que torna o Rayonier (RYN) um investimento de proteção contra a inflação?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/makes-rayonier-ryn-inflation-hedge-130637853.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/makes-rayonier-ryn-inflation-hedge-130637853.html</guid>
-      <pubDate>18/05/2026 10:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5cc35b70d17799f8d57b5bdad474686b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
