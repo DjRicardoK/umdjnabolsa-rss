@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 13:13:46 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 13:15:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE 5 movimentos de dinheiro que tornaram este pai de 32 anos um milionário em apenas 9 anos</title>
+      <description>Um salário inicial baixo, uma pandemia global, um mercado imobiliário inacessível, uma pós-graduação e dois filhos não impediram Blake Edwards e sua esposa de se tornarem...</description>
+      <link>https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories</guid>
+      <pubDate>18/05/2026 13:14</pubDate>
+      <enclosure url="https://images.mktw.net/im-88077653" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado do petróleo está a atingir um “ponto de viragem” que poderá criar problemas para as ações, segundo...</title>
       <description>Roger Altman, da Evercore, disse numa entrevista à CNBC na segunda-feira que um forte aumento do petróleo poderia desestabilizar os mercados antes de desencadear “o segundo grande...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/us-treasury-announces-275-million-142254817.html</guid>
       <pubDate>18/05/2026 11:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/70d86f0c6a5e50a5850b7fa72af05165" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Walmart, meta de lucro aumenta à medida que temores do consumidor atingem ações de varejo</title>
-      <description></description>
-      <link>https://www.investors.com/news/walmart-target-earnings-consumer-fears-retail-stocks/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/walmart-target-earnings-consumer-fears-retail-stocks/?src=A00220&yptr=yahoo</guid>
-      <pubDate>18/05/2026 11:25</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/1e90355e9b4a28f6f9a901617c7797ec" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
