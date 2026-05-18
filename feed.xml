@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 13:29:26 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 13:36:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Agência da ONU para refugiados sem dinheiro cortará mais empregos, mesmo com o aumento da crise</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/exclusivecashstrapped-un-refugee-agency-to-cut-more-jobs-even-as-crises-mount-4696012</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/exclusivecashstrapped-un-refugee-agency-to-cut-more-jobs-even-as-crises-mount-4696012</guid>
+      <pubDate>18/05/2026 13:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0YG_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise do cartão American Express® Gold: recompensas diárias para economia em viagens</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-why-tesla-145002282.html</guid>
       <pubDate>18/05/2026 11:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fdec1b78e4199cb53450441c91298507" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O corte de 25% de Trump nos chips Nvidia vendidos para a China saiu pela culatra – Pequim não aprovará uma...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/trumps-25-cut-nvidia-chips-143000435.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/trumps-25-cut-nvidia-chips-143000435.html</guid>
-      <pubDate>18/05/2026 11:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/f6c8ee4c329fa1f94ad555ba6e65825a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
