@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 17:54:15 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:08:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Brasil pode redirecionar fluxos de exportação agrícola em meio a acordo entre EUA e China</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/brazil-may-reroute-farm-export-flows-amid-uschina-deal-4697075</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/brazil-may-reroute-farm-export-flows-amid-uschina-deal-4697075</guid>
+      <pubDate>18/05/2026 18:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1GO_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O mercado de opções está emitindo um sinal ameaçador sobre os lucros iminentes da Nvidia</title>
       <description>O mercado de opções está enviando um aviso aos investidores: as coisas estão prestes a ficar turbulentas.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/noble-corp-stock-hits-52week-high-at-546-usd-93CH-4696534</guid>
       <pubDate>18/05/2026 13:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Wall St amplia perdas à medida que ações de chips caem e rendimentos do Tesouro sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/us-stock-futures-slip-as-yields-oil-prices-climb-4695061</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-stock-futures-slip-as-yields-oil-prices-climb-4695061</guid>
-      <pubDate>18/05/2026 13:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0P6_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
