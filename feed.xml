@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 19:26:53 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:32:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A fundação de Gates vendeu todas as suas ações da Microsoft. Bill Ackman está carregando o estoque. O que...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-141500609.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-141500609.html</guid>
+      <pubDate>18/05/2026 19:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/9bfb6a22d8d2062545d2cdd4741f663e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mark Zandi, da Moody&apos;s, diz que o crescimento do emprego diminuiu desde as tarifas de Trump - e alerta que...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-oracle-among-market-cap-stock-movers-on-monday-93CH-4696638</guid>
       <pubDate>18/05/2026 15:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB45112_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perspectiva das ações da Marathon Petroleum: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-outlook-wall-101739279.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/marathon-petroleum-stock-outlook-wall-101739279.html</guid>
-      <pubDate>18/05/2026 15:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2cf74e11eb80a2bff7cf9b3fd04a8474" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
