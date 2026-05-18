@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 23:54:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:01:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A derrota dos títulos globais se aprofunda à medida que aumentam os temores de inflação</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-inflation-fears-mount-4694615</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/global-bond-rout-deepens-as-inflation-fears-mount-4694615</guid>
+      <pubDate>18/05/2026 00:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H06C_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 estoques de petróleo negligenciados para comprar agora, antes que subam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories</guid>
       <pubDate>17/05/2026 19:21</pubDate>
       <enclosure url="https://images.mktw.net/im-97792891" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs renova meta de preço das ações da Figma para o resto de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-revamps-figma-stock-213300028.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-revamps-figma-stock-213300028.html</guid>
-      <pubDate>17/05/2026 18:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/1c2288b1dfe780be3d02c06988362c9e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
