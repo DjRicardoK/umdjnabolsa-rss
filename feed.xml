@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 10:41:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 11:05:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os investidores recompensam o foco da Honeywell (HON) em seu negócio de automação pura</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/investors-reward-honeywell-hon-focus-135459368.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/investors-reward-honeywell-hon-focus-135459368.html</guid>
+      <pubDate>18/05/2026 11:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a97e4882ae49b28b5660dddfb5e08dbe" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Fortune Brands (FBIN) foi prejudicada pela fraqueza dos lucros no curto prazo e pela incerteza da liderança</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-end-nigh-113500094.html</guid>
       <pubDate>18/05/2026 08:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/3eb42028c26e9e59b8b0b718c98c59cf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Ryanair no ano fiscal de 26: lucro recorde em meio à crise do combustível de aviação</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/ryanair-fy26-earnings-record-profit-113806303.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/ryanair-fy26-earnings-record-profit-113806303.html</guid>
-      <pubDate>18/05/2026 08:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/6be87a2706e78b0abc4955cb408cad54" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
