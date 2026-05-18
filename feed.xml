@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 10:14:06 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:26:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que os ganhos da Nvidia devem ser massivos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/why-nvidia-earnings-must-deliver-massively-131600201.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/why-nvidia-earnings-must-deliver-massively-131600201.html</guid>
+      <pubDate>18/05/2026 10:26</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/67yeS6jsqIQuM_es9Sihow--~B/aD0yOTE2O3c9NTE4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0295734f-401c-4017-a3d8-9a3efa278dc8_c2993c74426faf4a292e0a412a74282f9b7d8fe3e9e4b702df58860ff054881a.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O que torna o Rayonier (RYN) um investimento de proteção contra a inflação?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/exclusivepakistan-deploys-jet-squadron-thousands-of-troops-to-saudi-arabia-during-iran-war-4695272</guid>
       <pubDate>18/05/2026 08:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0S0_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de tecnologia hoje: investidores se preparam para os ganhos da Nvidia, decisão do julgamento OpenAI x...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-investors-gear-up-for-nvidia-earnings-openai-v-elon-musk-trial-decision-111103917.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-investors-gear-up-for-nvidia-earnings-openai-v-elon-musk-trial-decision-111103917.html</guid>
-      <pubDate>18/05/2026 08:21</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/HFr5ewCLYIHSEvPtAjEHNg--~B/aD0xOTY4O3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bd00d550-4f5c-11f1-b6df-352c3b5d5501_21bc8e12c2d2c687fd8e120cb299e07aa5a8de333094ad629fc3b75d1e0b4a6f.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
