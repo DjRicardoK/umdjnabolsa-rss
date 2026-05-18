@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 03:16:34 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 03:16:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: lucros perdidos da Consolidated Water no primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-consolidated-water-q1-2026-earnings-miss-stock-drops-93CH-4694655</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-consolidated-water-q1-2026-earnings-miss-stock-drops-93CH-4694655</guid>
+      <pubDate>18/05/2026 03:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Powerhouse Energy ganha prêmio de inovação em resíduos no Reino Unido</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/gates-foundation-microsoft-stock-37051066?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>18/05/2026 00:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/45fd54e69de8d36436d2ceda1a8057d8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da NorthWest Health Prop Real Est Inv Trust</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/northwest-health-prop-real-est-160608084.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/northwest-health-prop-real-est-160608084.html</guid>
-      <pubDate>18/05/2026 00:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/c3542810aed8d90f3aaf9cf6e9de7a2c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
