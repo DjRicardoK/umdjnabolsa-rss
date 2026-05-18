@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 14:46:16 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 14:47:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Adecoagro Q1 2026 perde lucro por ação e supera expectativas de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-adecoagro-q1-2026-misses-eps-beats-revenue-expectations-93CH-4696621</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-adecoagro-q1-2026-misses-eps-beats-revenue-expectations-93CH-4696621</guid>
+      <pubDate>18/05/2026 14:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O petróleo sobe enquanto Trump avisa que o ‘relógio está correndo’ para o Irã, mas há um perigo maior à...</title>
       <description>Os futuros do petróleo subiram na segunda-feira, ganhando um impulso depois de o presidente Donald Trump ter alertado que o “relógio está a contar” para o Irão, mas a perda dos...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories</guid>
       <pubDate>18/05/2026 13:14</pubDate>
       <enclosure url="https://images.mktw.net/im-88077653" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O mercado do petróleo está a atingir um “ponto de viragem” que poderá criar problemas para as ações, segundo...</title>
-      <description>Roger Altman, da Evercore, disse numa entrevista à CNBC na segunda-feira que um forte aumento do petróleo poderia desestabilizar os mercados antes de desencadear “o segundo grande...</description>
-      <link>https://www.marketwatch.com/story/the-oil-market-is-reaching-a-tipping-point-that-could-create-problems-for-stocks-according-to-this-wall-street-legend-8e7f9d62?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-oil-market-is-reaching-a-tipping-point-that-could-create-problems-for-stocks-according-to-this-wall-street-legend-8e7f9d62?mod=mw_rss_topstories</guid>
-      <pubDate>18/05/2026 13:13</pubDate>
-      <enclosure url="https://images.mktw.net/im-75343317" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
