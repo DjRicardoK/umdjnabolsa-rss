@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 00:16:11 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:28:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ásia FX enfraquece devido ao nervosismo do Irã, yuan fraco após dados da China decepcionarem</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/asia-fx-weakens-on-iran-jitters-yuan-soft-after-china-data-underwhelms-4694617</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/asia-fx-weakens-on-iran-jitters-yuan-soft-after-china-data-underwhelms-4694617</guid>
+      <pubDate>18/05/2026 00:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB7D0BZ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Fundação de Bill Gates vende o que resta de suas ações da Microsoft</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/6-words-now-former-fed-132600844.html</guid>
       <pubDate>17/05/2026 21:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/92ca6c51e133340901505300f5154024" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Gentrack Q1 2026 vê queda na receita, ações sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-gentrack-q1-2026-sees-revenue-dip-stock-rises-93CH-4694577</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-gentrack-q1-2026-sees-revenue-dip-stock-rises-93CH-4694577</guid>
-      <pubDate>17/05/2026 20:54</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
