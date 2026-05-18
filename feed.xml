@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 05:58:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 06:04:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja o desempenho histórico das ações da Nvidia após os lucros: Gráfico do Dia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/article/heres-how-nvidia-stock-has-historically-performed-after-earnings-chart-of-the-day-090000420.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/heres-how-nvidia-stock-has-historically-performed-after-earnings-chart-of-the-day-090000420.html</guid>
+      <pubDate>18/05/2026 06:04</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/azeBD3mq6jEt9bS.6542RA--~B/aD0yMDAxO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/bcb93ec0-428f-4d12-af4b-a65821221c76" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Franqueador IKEA corta 850 empregos em busca de redução de custos à medida que os gastos do consumidor caem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-copasa-mg-q1-2026-earnings-beat-eps-but-miss-on-revenue-93CH-4694692</guid>
       <pubDate>18/05/2026 03:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Aumento do rendimento dos títulos é um risco para o mercado de ações despreparado, alertam investidores</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/analysisbond-yield-spike-is-risk-to-unprepared-equities-market-investors-warn-4694516</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysisbond-yield-spike-is-risk-to-unprepared-equities-market-investors-warn-4694516</guid>
-      <pubDate>18/05/2026 03:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4G042_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
