@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 04:19:52 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 04:34:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE EverQuote vê o retorno da seguradora, impulsionando o crescimento em direção à receita de US$ 1 bilhão</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/everquote-sees-insurance-carrier-comeback-200550168.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/everquote-sees-insurance-carrier-comeback-200550168.html</guid>
+      <pubDate>18/05/2026 04:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/5f2636bb33469b6cd15f34612a06bd8e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações europeias caem enquanto preocupações com inflação tomam conta dos mercados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-nationwide-health-properties-stock-at-buy-93CH-4694642</guid>
       <pubDate>18/05/2026 02:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro da Sonova no ano fiscal de 2025-26 supera estimativas, apesar dos ventos contrários na China</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/sonova-fy-202526-profit-beats-estimates-despite-china-headwinds-4694636</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/sonova-fy-202526-profit-beats-estimates-despite-china-headwinds-4694636</guid>
-      <pubDate>18/05/2026 02:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE4L0E4_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
