@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 18:08:48 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:23:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Cerebras abriram negociações com uma alta selvagem. Ainda tem muito caminho antes de alcançar a...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-opened-trading-wild-130003072.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-opened-trading-wild-130003072.html</guid>
+      <pubDate>18/05/2026 18:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/68e703c3a7ceec6923cfa4542a9ce88b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Japão e China lideram quedas nas participações estrangeiras de títulos do Tesouro em março, mostram dados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/dell-launches-deskside-agentic-ai-solution-with-nvidia-93CH-4696556</guid>
       <pubDate>18/05/2026 14:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do terceiro trimestre de 2026 da Brady Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/brady-corporation-q3-2026-earnings-164758473.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/brady-corporation-q3-2026-earnings-164758473.html</guid>
-      <pubDate>18/05/2026 14:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/d2947c39043359d7129dff45c185d82a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
