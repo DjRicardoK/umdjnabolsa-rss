@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 01:39:01 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 01:58:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O crescimento do PIB tailandês no primeiro trimestre supera as previsões, mas as perspectivas para 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/thai-q1-gdp-growth-beats-forecasts-but-2026-outlook-unchanged-amid-middle-east-war-4694628</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/thai-q1-gdp-growth-beats-forecasts-but-2026-outlook-unchanged-amid-middle-east-war-4694628</guid>
+      <pubDate>18/05/2026 01:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H099_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ben Carlson diz para evitar o carro de luxo e procurar uma casa com inteligência. Essa é a verdadeira...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/chevrons-ceo-warning-1970s-style-152000898.html</guid>
       <pubDate>17/05/2026 23:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/d895edd47c7a862bacdfdb2f178515de" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Produção industrial e crescimento das vendas no varejo da China em abril ficam abaixo das expectativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/chinas-april-industrial-output-retail-sales-growth-miss-expectations-4694603</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-april-industrial-output-retail-sales-growth-miss-expectations-4694603</guid>
-      <pubDate>17/05/2026 23:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H04S_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
