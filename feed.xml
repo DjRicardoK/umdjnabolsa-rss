@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 23:10:58 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 23:13:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O CEO da Chevron alerta para uma crise petrolífera ao estilo da década de 1970. Esses três estoques de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/chevrons-ceo-warning-1970s-style-152000898.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/chevrons-ceo-warning-1970s-style-152000898.html</guid>
+      <pubDate>17/05/2026 23:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/d895edd47c7a862bacdfdb2f178515de" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Produção industrial e crescimento das vendas no varejo da China em abril ficam abaixo das expectativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/10-stocks-to-protect-you-from-the-risky-ai-trade-de4665d8?mod=mw_rss_topstories</guid>
       <pubDate>15/05/2026 15:20</pubDate>
       <enclosure url="https://images.mktw.net/im-96265997" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Core Scientific (CORZ) se recupera conforme relatório de ganhos dos investidores</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-recovers-investors-082817428.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-recovers-investors-082817428.html</guid>
-      <pubDate>15/05/2026 15:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7d1b195c37ebfd25ecce0753f3bb5298" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
