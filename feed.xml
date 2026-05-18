@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 11:29:39 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 11:40:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de tecnologia hoje: as ações de tecnologia caem à medida que os investidores se preparam para os ganhos...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-tech-stocks-fall-as-investors-gear-up-for-nvidia-earnings-openai-v-elon-musk-trial-decision-111103131.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-tech-stocks-fall-as-investors-gear-up-for-nvidia-earnings-openai-v-elon-musk-trial-decision-111103131.html</guid>
+      <pubDate>18/05/2026 11:40</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/HFr5ewCLYIHSEvPtAjEHNg--~B/aD0xOTY4O3c9MzUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bd00d550-4f5c-11f1-b6df-352c3b5d5501_21bc8e12c2d2c687fd8e120cb299e07aa5a8de333094ad629fc3b75d1e0b4a6f.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE NVIDIA Corporation (NVDA) ficou preocupada com a sustentabilidade das despesas de capital em infraestrutura...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/this-chart-shows-why-ai-will-eventually-mean-lower-bond-yields-0077fdd5?mod=mw_rss_topstories</guid>
       <pubDate>18/05/2026 10:00</pubDate>
       <enclosure url="https://images.mktw.net/im-57411583" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mercado de ações hoje: Dow reduz perdas à medida que o petróleo reverte para baixo; Nvidia, Walmart, Tesla On...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-walmart-tesla/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-walmart-tesla/?src=A00220&yptr=yahoo</guid>
-      <pubDate>18/05/2026 09:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
