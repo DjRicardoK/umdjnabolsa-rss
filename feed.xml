@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 19:48:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 20:06:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE SEC prepara plano para negociação de versões criptográficas de ações, relata Bloomberg News</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/sec-readies-plan-for-trading-crypto-versions-of-stocks-bloomberg-news-reports-4697253</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/sec-readies-plan-for-trading-crypto-versions-of-stocks-bloomberg-news-reports-4697253</guid>
+      <pubDate>18/05/2026 20:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1KY_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O mercado paralelo de IPO da Anthropic já está exibindo preços de trilhões de dólares</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/kevin-warsh-will-be-the-first-fed-chair-sworn-in-at-the-white-house-in-almost-40-years-55254337?mod=mw_rss_topstories</guid>
       <pubDate>18/05/2026 16:18</pubDate>
       <enclosure url="https://images.mktw.net/im-55682590" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O mercado de títulos tem um aviso para o Fed: leve a sério a inflação e os possíveis aumentos das taxas o...</title>
-      <description>Poderá ser necessária uma conversa dura por parte da Reserva Federal sobre aumentos de taxas para aliviar a derrota do mercado do Tesouro.</description>
-      <link>https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories</guid>
-      <pubDate>18/05/2026 15:47</pubDate>
-      <enclosure url="https://images.mktw.net/im-73170274" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
