@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 02:17:56 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 02:19:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Peter Navarro uma vez criticou Tesla por causa da dependência da China - agora Xi Jinping diz que Pequim se...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/peter-navarro-once-slammed-tesla-180209982.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/peter-navarro-once-slammed-tesla-180209982.html</guid>
+      <pubDate>18/05/2026 02:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/7d9129f656eda53390aaed6658c02aec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A guerra no Irão sobrecarrega as empresas globais com uma conta de 25 mil milhões de dólares – e continua a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-applovin-corporation-app-one-152630195.html</guid>
       <pubDate>17/05/2026 23:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a920e33715065ea2a0fe645e2cebaae8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A China concordou em abordar as preocupações dos EUA sobre a escassez de terras raras, diz a Casa Branca</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/china-has-agreed-to-address-us-concerns-over-rare-earth-shortages-says-white-house-4694604</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/china-has-agreed-to-address-us-concerns-over-rare-earth-shortages-says-white-house-4694604</guid>
-      <pubDate>17/05/2026 23:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H05G_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
