@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 15:05:25 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 15:09:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tesla e Oracle entre os movimentadores de ações de capitalização de mercado na segunda-feira</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/tesla-oracle-among-market-cap-stock-movers-on-monday-93CH-4696638</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-oracle-among-market-cap-stock-movers-on-monday-93CH-4696638</guid>
+      <pubDate>18/05/2026 15:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB45112_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Perspectiva das ações da Marathon Petroleum: Wall Street está em alta ou em baixa?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-104-4696472</guid>
       <pubDate>18/05/2026 13:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/b4dd0d1e3c203bd9d47a23d64c7b2b80_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Mitsubishi Chemical Q4 2025 perde lucro por ação, ações sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-mitsubishi-chemical-q4-2025-misses-eps-stock-rises-93CH-4696473</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mitsubishi-chemical-q4-2025-misses-eps-stock-rises-93CH-4696473</guid>
-      <pubDate>18/05/2026 13:16</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
