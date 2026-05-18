@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 06:57:12 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 07:03:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Taxas de juros de hipotecas e refinanciamentos hoje, 18 de maio de 2026: As taxas subirão ou cairão esta...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-may-18-2026-100000178.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-may-18-2026-100000178.html</guid>
+      <pubDate>18/05/2026 07:03</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/480de4d0-03ec-11ef-bfff-fe31b82eccd6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Melhor compra: ações da Micron ou Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ross-gerber-snap-203008080.html</guid>
       <pubDate>18/05/2026 04:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/benzinga_79/498347167006c8334700f3bf97484fbd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE EverQuote vê o retorno da seguradora, impulsionando o crescimento em direção à receita de US$ 1 bilhão</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/everquote-sees-insurance-carrier-comeback-200550168.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/everquote-sees-insurance-carrier-comeback-200550168.html</guid>
-      <pubDate>18/05/2026 04:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/5f2636bb33469b6cd15f34612a06bd8e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
