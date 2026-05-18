@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 11:24:09 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 11:24:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O quarto trimestre de 2025 do Grupo SCHMID apresenta uma...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-schmid-groups-q4-2025-sees-robust-recovery-93CH-4696248</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-schmid-groups-q4-2025-sees-robust-recovery-93CH-4696248</guid>
+      <pubDate>18/05/2026 11:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cuba alerta que ação militar dos EUA causaria ‘banho de sangue’ após relato de drone</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-firms-oil-climbs-bond-013142882.html</guid>
       <pubDate>18/05/2026 09:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/e193faea4ae3848e65194a671b273e2f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A SpaceX supostamente emite um desdobramento de ações de 5 por 1 conforme o cronograma do IPO acelera</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/article/spacex-reportedly-issues-5-for-1-stock-split-as-ipo-timeline-accelerates-121128655.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/article/spacex-reportedly-issues-5-for-1-stock-split-as-ipo-timeline-accelerates-121128655.html</guid>
-      <pubDate>18/05/2026 09:21</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/A8S8r52NGbNNcOwJCA2Yxg--~B/aD0xNzExO3c9MzA0MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a0c41ab0-2f58-11f1-ab98-597e3fcf13ce_ea0d55abb3aaac892959942e459989914399e30f77b6c950c09f21e61b5d99e1.com/creatr-uploaded-images/2026-04/a0c41ab0-2f58-11f1-ab98-597e3fcf13ce" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
