@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 12:38:06 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:43:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O petróleo sobe à medida que as preocupações com o abastecimento da guerra do Irã superam o relatório de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/oil-rises-more-than-1-after-drone-attack-on-uae-nuclear-power-plant-4694570</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/oil-rises-more-than-1-after-drone-attack-on-uae-nuclear-power-plant-4694570</guid>
+      <pubDate>18/05/2026 12:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4G0FI_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lynx Equity defende ações AMAT e LRCX em meio a pressões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-schmid-groups-q4-2025-sees-robust-recovery-93CH-4696248</guid>
       <pubDate>18/05/2026 11:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Cuba alerta que ação militar dos EUA causaria ‘banho de sangue’ após relato de drone</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/cuba-warns-us-military-action-would-cause-bloodbath-after-drone-report-4696227</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/cuba-warns-us-military-action-would-cause-bloodbath-after-drone-report-4696227</guid>
-      <pubDate>18/05/2026 11:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H113_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
