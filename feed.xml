@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 08:49:04 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 09:00:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Atualizações ao vivo de ganhos: Nvidia e Walmart, dois importantes indicadores da economia dos EUA, relatam...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/live/earnings-live-updates-nvidia-and-walmart-2-important-bellwethers-for-the-us-economy-report-results-this-week-115413665.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/live/earnings-live-updates-nvidia-and-walmart-2-important-bellwethers-for-the-us-economy-report-results-this-week-115413665.html</guid>
+      <pubDate>18/05/2026 09:00</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/GNod4NIFYBGOYf89u8orlw--~B/aD0zMDIzO3c9NDUzNDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/c97708c4-6f6c-47b0-939e-ee8350ddb187" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Michael Burry diz que &apos;o fim está próximo&apos;, com as principais ações subindo 784% - superando o boom das...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-monday-may-18-2026-100000087.html</guid>
       <pubDate>18/05/2026 07:03</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/006c3000-3feb-11f0-b84f-0d1aa528bfe7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de juros de hipotecas e refinanciamentos hoje, 18 de maio de 2026: As taxas subirão ou cairão esta...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-may-18-2026-100000178.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-may-18-2026-100000178.html</guid>
-      <pubDate>18/05/2026 07:03</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/480de4d0-03ec-11ef-bfff-fe31b82eccd6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
