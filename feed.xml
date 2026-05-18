@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 23:00:22 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 23:04:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Mastercard Incorporated (MA) é a ação com melhor crescimento de lucros nos próximos 10 anos?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/mastercard-incorporated-ma-stock-best-152624116.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mastercard-incorporated-ma-stock-best-152624116.html</guid>
+      <pubDate>17/05/2026 23:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2f4ff15fa8092684aa24fb51c1c1fcad" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Preços de novas moradias na China caem em abril no ritmo mensal mais lento em um ano</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/stock-market-news/microsoft-figma-among-market-cap-stock-movers-on-friday-93CH-4693431</link>
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/microsoft-figma-among-market-cap-stock-movers-on-friday-93CH-4693431</guid>
       <pubDate>15/05/2026 15:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: resultados mistos do primeiro trimestre de 2026 da Starwood...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-starwood-property-trusts-mixed-q1-2026-results-93CH-4693399</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-starwood-property-trusts-mixed-q1-2026-results-93CH-4693399</guid>
-      <pubDate>15/05/2026 14:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
