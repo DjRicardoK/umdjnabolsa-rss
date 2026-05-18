@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 13:43:16 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 13:43:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE FAA diz que não abordou os sinais de alerta antes da colisão fatal</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/faa-says-it-failed-to-address-warning-signals-before-fatal-collision-4696485</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/faa-says-it-failed-to-address-warning-signals-before-fatal-collision-4696485</guid>
+      <pubDate>18/05/2026 13:43</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H15V_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Innovex International atingem o máximo histórico de 29,53 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-california-resources-stock-78-target-93CH-4696341</guid>
       <pubDate>18/05/2026 12:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de Israel caem no fechamento do pregão; TA 35 caiu 1,62%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-162-4696331</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-162-4696331</guid>
-      <pubDate>18/05/2026 12:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1K0VN_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
