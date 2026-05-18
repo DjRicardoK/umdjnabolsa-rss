@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 03:56:10 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 03:56:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Sob Greg Abel, as ações da Apple parecem que vieram para ficar no portfólio da Berkshire Hathaway</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/under-greg-abel-apple-stock-192600178.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/under-greg-abel-apple-stock-192600178.html</guid>
+      <pubDate>18/05/2026 03:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/1c87b82eb8b576a81bd24c20af89f6d1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Tribunal indiano diz à Apple para ‘cooperar’ em caso antitruste</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/iran-war-saddles-global-companies-with-25-billion-bill--and-counting-4694633</guid>
       <pubDate>18/05/2026 02:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H09R_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Este estoque de ouro subiu 140%. Um investidor transformou-o em uma participação de 15% no portfólio</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/gold-stock-140-one-investor-175805516.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/gold-stock-140-one-investor-175805516.html</guid>
-      <pubDate>18/05/2026 02:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a03c325b78de7073c2728148cdc3f7e7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
