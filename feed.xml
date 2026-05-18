@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 05:54:36 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 05:58:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Franqueador IKEA corta 850 empregos em busca de redução de custos à medida que os gastos do consumidor caem</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/ikea-franchiser-slashes-850-jobs-in-costcutting-drive-as-consumer-spending-falls-4694806</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ikea-franchiser-slashes-850-jobs-in-costcutting-drive-as-consumer-spending-falls-4694806</guid>
+      <pubDate>18/05/2026 05:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0KL_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inter IKEA cortará 850 empregos em meio à queda na demanda</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/analysisbond-yield-spike-is-risk-to-unprepared-equities-market-investors-warn-4694516</guid>
       <pubDate>18/05/2026 03:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4G042_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE IUX destaca reconhecimento do prêmio H1 2026 em plataformas globais da indústria</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/iux-highlights-h1-2026-award-recognition-across-global-industry-platforms-4694666</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/iux-highlights-h1-2026-award-recognition-across-global-industry-platforms-4694666</guid>
-      <pubDate>18/05/2026 03:36</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
