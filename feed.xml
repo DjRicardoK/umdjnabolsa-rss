@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 19:47:38 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:48:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O mercado paralelo de IPO da Anthropic já está exibindo preços de trilhões de dólares</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/anthropics-shadow-ipo-market-is-already-flashing-trillion-dollar-prices-141451664.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/anthropics-shadow-ipo-market-is-already-flashing-trillion-dollar-prices-141451664.html</guid>
+      <pubDate>18/05/2026 19:48</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/PemZD.Px1R2g0ljBxiHIcQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/2105727c-8ab3-4e9a-a3fe-0d0719602675" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da Darden Restaurants?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-bond-market-has-a-warning-for-the-fed-get-serious-about-inflation-and-potential-rate-hikes-asap-f38bbdcf?mod=mw_rss_topstories</guid>
       <pubDate>18/05/2026 15:47</pubDate>
       <enclosure url="https://images.mktw.net/im-73170274" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos da Nvidia ficarão em segundo plano nesses grandes debates com investidores</title>
-      <description>O Morgan Stanley está procurando ver como a Nvidia está gerenciando a crise de memória e se pode gerar receitas significativas fora das GPUs.</description>
-      <link>https://www.marketwatch.com/story/nvidias-earnings-will-play-second-fiddle-to-these-big-investor-debates-908abcd2?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidias-earnings-will-play-second-fiddle-to-these-big-investor-debates-908abcd2?mod=mw_rss_topstories</guid>
-      <pubDate>18/05/2026 15:19</pubDate>
-      <enclosure url="https://images.mktw.net/im-72615127" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
