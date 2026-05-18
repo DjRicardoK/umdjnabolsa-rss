@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 12:03:19 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:03:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE UBS reitera compra de ações da California Resources, meta de US$ 78</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-california-resources-stock-78-target-93CH-4696341</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-california-resources-stock-78-target-93CH-4696341</guid>
+      <pubDate>18/05/2026 12:03</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de Israel caem no fechamento do pregão; TA 35 caiu 1,62%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/international-paper-acquires-delaware-packaging-facility-93CH-4696089</guid>
       <pubDate>18/05/2026 10:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que os ganhos da Nvidia devem ser massivos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/article/why-nvidia-earnings-must-deliver-massively-131600201.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/why-nvidia-earnings-must-deliver-massively-131600201.html</guid>
-      <pubDate>18/05/2026 10:26</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/67yeS6jsqIQuM_es9Sihow--~B/aD0yOTE2O3c9NTE4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0295734f-401c-4017-a3d8-9a3efa278dc8_c2993c74426faf4a292e0a412a74282f9b7d8fe3e9e4b702df58860ff054881a.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
