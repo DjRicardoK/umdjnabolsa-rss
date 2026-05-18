@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 13:54:47 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 14:00:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do terceiro trimestre de 2026 da Brady Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/brady-corporation-q3-2026-earnings-164758473.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/brady-corporation-q3-2026-earnings-164758473.html</guid>
+      <pubDate>18/05/2026 14:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/d2947c39043359d7129dff45c185d82a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Amazon, ação do dia do IBD, nomeada &apos;escolha de franquia&apos; à medida que o marco de US$ 3 trilhões se aproxima</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-audioeye-q1-2026-beats-forecasts-but-shares-dip-93CH-4696398</guid>
       <pubDate>18/05/2026 12:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Factbox-Airlines cancelam voos em resposta ao conflito no Oriente Médio</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-in-response-to-middle-east-conflict-4696388</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/factboxairlines-cancel-flights-in-response-to-middle-east-conflict-4696388</guid>
-      <pubDate>18/05/2026 12:34</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0WP_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
