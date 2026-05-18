@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 13:15:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 13:15:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ford dá o primeiro grande passo para se tornar uma empresa de energia</title>
+      <description>A Ford acaba de fechar um acordo com uma empresa francesa de serviços elétricos.</description>
+      <link>https://www.marketwatch.com/story/ford-takes-its-first-big-step-toward-being-an-energy-business-b1d72bc2?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/ford-takes-its-first-big-step-toward-being-an-energy-business-b1d72bc2?mod=mw_rss_topstories</guid>
+      <pubDate>18/05/2026 13:15</pubDate>
+      <enclosure url="https://images.mktw.net/im-98138025" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE 5 movimentos de dinheiro que tornaram este pai de 32 anos um milionário em apenas 9 anos</title>
       <description>Um salário inicial baixo, uma pandemia global, um mercado imobiliário inacessível, uma pós-graduação e dois filhos não impediram Blake Edwards e sua esposa de se tornarem...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-fell-concerns-142115822.html</guid>
       <pubDate>18/05/2026 11:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c620444f5984a111f51bbb2fd58922a9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tesouro dos EUA e Adani Enterprises da Índia resolvem supostas violações de sanções ao Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/us-treasury-announces-275-million-142254817.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/us-treasury-announces-275-million-142254817.html</guid>
-      <pubDate>18/05/2026 11:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/70d86f0c6a5e50a5850b7fa72af05165" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
