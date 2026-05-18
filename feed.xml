@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 13:43:23 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 13:44:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os investidores da Nvidia prendem a respiração antes do relatório do primeiro trimestre. Aqui está o que...</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/nvidia-stock-investors-hold-their-breath-q1-report/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/nvidia-stock-investors-hold-their-breath-q1-report/?src=A00220&yptr=yahoo</guid>
+      <pubDate>18/05/2026 13:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/5ed5624e71b8f1617c58d02483d268ab" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE FAA diz que não abordou os sinais de alerta antes da colisão fatal</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/does-nike-nke-stand-attractive-150038183.html</guid>
       <pubDate>18/05/2026 12:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9fea7ca260b4a4e47d8daf77e7f77830" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE UBS reitera compra de ações da California Resources, meta de US$ 78</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-california-resources-stock-78-target-93CH-4696341</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/ubs-reiterates-buy-on-california-resources-stock-78-target-93CH-4696341</guid>
-      <pubDate>18/05/2026 12:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
