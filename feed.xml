@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 02:37:24 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 02:56:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs inicia ações da Nationwide Health Properties na Buy</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-nationwide-health-properties-stock-at-buy-93CH-4694642</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-nationwide-health-properties-stock-at-buy-93CH-4694642</guid>
+      <pubDate>18/05/2026 02:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Sonova no ano fiscal de 2025-26 supera estimativas, apesar dos ventos contrários na China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/2-overlooked-oil-stocks-buy-155000059.html</guid>
       <pubDate>17/05/2026 23:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/da737d7e1b58bec8e99e4e5eebed054c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 3 ações para possuir se os preços do gás continuarem subindo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-stocks-own-gas-prices-154000739.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-stocks-own-gas-prices-154000739.html</guid>
-      <pubDate>17/05/2026 23:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/d60f14b20ea3719387579e2a0e2133ba" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
