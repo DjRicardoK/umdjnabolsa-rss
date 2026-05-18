@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 22:36:38 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 22:54:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE IA preparada para aumentar a alavancagem do mercado de trabalho em direção aos trabalhadores mais velhos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/ai-poised-tilt-job-market-150000094.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/ai-poised-tilt-job-market-150000094.html</guid>
+      <pubDate>17/05/2026 22:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/4eda6b302ffda7ddf6079d19ccce1c27" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O pivô EV da Ford foi desastroso. Agora está tentando competir com a Tesla no armazenamento de energia.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/nexgen-energy-nxe-one-best-173629986.html</guid>
       <pubDate>15/05/2026 14:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/883bc53bf157c1e98869643fa12bcb54" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Conta poupança de alto rendimento versus letra do Tesouro: o que é certo para você?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/high-yield-savings-account-vs-treasury-bill-140005833.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/high-yield-savings-account-vs-treasury-bill-140005833.html</guid>
-      <pubDate>15/05/2026 14:47</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2020-10/e1c1c600-080a-11eb-95ed-bae19292694d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
