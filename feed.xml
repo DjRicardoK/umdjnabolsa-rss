@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 18:28:37 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:29:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A aposta de US$ 250 milhões da Tesla na Alemanha é interessante. É gastar mais antes de ter retorno.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-250-million-germany-bet-130002982.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-250-million-germany-bet-130002982.html</guid>
+      <pubDate>18/05/2026 18:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c9768b724915bd5726850b8bf3f4cf93" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O S&amp;P 500 e a maioria das suas ações caminham em direções opostas a um ritmo recorde. O que os investidores...</title>
       <description>Aqui estão os maiores ganhadores do S&amp;P 500 em valor de mercado neste ano e neste trimestre</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/delta-ceo-defends-amazon-over-starlink-on-tech-and-pricing--bloomberg-93CH-4696596</guid>
       <pubDate>18/05/2026 14:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE5D08R_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da ServiceNow caminham para o melhor dia do ano — dando sinal verde para o setor de software</title>
-      <description>As ações de software de aplicativos estão recebendo cada vez mais atenção de Wall Street.</description>
-      <link>https://www.marketwatch.com/story/servicenows-stock-heads-for-best-day-in-a-year-flashing-a-green-light-for-the-software-sector-2d916cfd?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/servicenows-stock-heads-for-best-day-in-a-year-flashing-a-green-light-for-the-software-sector-2d916cfd?mod=mw_rss_topstories</guid>
-      <pubDate>18/05/2026 14:07</pubDate>
-      <enclosure url="https://images.mktw.net/im-56113489" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
