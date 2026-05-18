@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 04:34:06 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 04:44:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Cathie Wood e Ross Gerber abocanham as mesmas 10 ações - aqui está o improvável cruzamento de portfólio</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ross-gerber-snap-203008080.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ross-gerber-snap-203008080.html</guid>
+      <pubDate>18/05/2026 04:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/498347167006c8334700f3bf97484fbd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE EverQuote vê o retorno da seguradora, impulsionando o crescimento em direção à receita de US$ 1 bilhão</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-dwave-quantum-q1-2026-sees-eps-beat-stock-falls-93CH-4694649</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-dwave-quantum-q1-2026-sees-eps-beat-stock-falls-93CH-4694649</guid>
       <pubDate>18/05/2026 02:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs inicia ações da Nationwide Health Properties na Buy</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-nationwide-health-properties-stock-at-buy-93CH-4694642</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-nationwide-health-properties-stock-at-buy-93CH-4694642</guid>
-      <pubDate>18/05/2026 02:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
