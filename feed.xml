@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 06:52:43 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 06:57:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Melhor compra: ações da Micron ou Nvidia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/better-buy-micron-nvidia-stock-095000131.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/better-buy-micron-nvidia-stock-095000131.html</guid>
+      <pubDate>18/05/2026 06:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/79d07f6f13cb109679bc8bdf2ace800b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: perda de receita da Coherus BioSciences no primeiro trimestre...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/everquote-sees-insurance-carrier-comeback-200550168.html</guid>
       <pubDate>18/05/2026 04:34</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/5f2636bb33469b6cd15f34612a06bd8e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações europeias caem enquanto preocupações com inflação tomam conta dos mercados</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/european-shares-fall-as-inflation-worries-grip-markets-4694717</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/european-shares-fall-as-inflation-worries-grip-markets-4694717</guid>
-      <pubDate>18/05/2026 04:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0EZ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
