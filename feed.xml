@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 06:22:56 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 06:25:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon enfrenta ação coletiva por reivindicações de custos tarifários</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/amazon-faces-class-action-over-091653687.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/amazon-faces-class-action-over-091653687.html</guid>
+      <pubDate>18/05/2026 06:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/retail_insight_network_724/298ffccbfa719545dc8a55baef647fee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações globais recuam e os títulos murcham à medida que o petróleo sobe</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/us-treasury-secretary-bessent-will-call-on-g7-to-follow-sanctions-regime-on-iran-4694706</guid>
       <pubDate>18/05/2026 04:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H0EA_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Analista 5 estrelas redefine a meta de preço das ações da Nvidia antes dos lucros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-resets-nvidia-193700834.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-resets-nvidia-193700834.html</guid>
-      <pubDate>18/05/2026 04:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/f58f619811207bad5cb57276f7170750" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
