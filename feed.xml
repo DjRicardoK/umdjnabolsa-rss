@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 00:01:43 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:03:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE BlackRock avalia investimento multibilionário no IPO da SpaceX, informa o Information</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/blackrock-weighs-multibillion-dollar-investment-161440412.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/blackrock-weighs-multibillion-dollar-investment-161440412.html</guid>
+      <pubDate>18/05/2026 00:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/bd2ec0f77ae9e23c54c9a061ef15866c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE CXMT da China espera que a receita aumente à medida que a demanda por chips de memória aumenta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-successor-greg-abel-223600672.html</guid>
       <pubDate>17/05/2026 19:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/95d729bd02b4ef8d76fc2e9e20c16dd5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nvidia x Cerebras: melhor estoque de IA para comprar agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-cerebras-better-ai-222500169.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-cerebras-better-ai-222500169.html</guid>
-      <pubDate>17/05/2026 19:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/5538d1bd7822a0b1d2f136e561fd43ac" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
