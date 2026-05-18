@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 11:47:13 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 11:59:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer compartilha por que Tesla (TSLA) é melhor que a Ford</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-why-tesla-145002282.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-why-tesla-145002282.html</guid>
+      <pubDate>18/05/2026 11:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fdec1b78e4199cb53450441c91298507" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O corte de 25% de Trump nos chips Nvidia vendidos para a China saiu pela culatra – Pequim não aprovará uma...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/makes-rayonier-ryn-inflation-hedge-130637853.html</guid>
       <pubDate>18/05/2026 10:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5cc35b70d17799f8d57b5bdad474686b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: American Integrity Insurance Q1 2026 supera EPS, mas ações caem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-american-integrity-insurance-q1-2026-beats-eps-but-stock-tumbles-93CH-4695945</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-american-integrity-insurance-q1-2026-beats-eps-but-stock-tumbles-93CH-4695945</guid>
-      <pubDate>18/05/2026 10:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
