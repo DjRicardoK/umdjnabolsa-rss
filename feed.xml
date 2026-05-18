@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 13:23:17 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 13:29:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise do cartão American Express® Gold: recompensas diárias para economia em viagens</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/credit-cards/review/american-express-gold-card-235212667.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/credit-cards/review/american-express-gold-card-235212667.html</guid>
+      <pubDate>18/05/2026 13:29</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/vRWpWzpdX5FgohQqrQm63g--~B/aD02NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/copy-of-amex-gold-review-3_9099.png" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A história diz que a IA provavelmente aumentará a distância entre os gigantes corporativos e todos os outros:...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/trumps-25-cut-nvidia-chips-143000435.html</guid>
       <pubDate>18/05/2026 11:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/f6c8ee4c329fa1f94ad555ba6e65825a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tesouro dos EUA e Adani Enterprises da Índia resolvem supostas violações de sanções ao Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-treasury-announces-275-million-settlement-with-indias-adani-enterprises-4696263</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-treasury-announces-275-million-settlement-with-indias-adani-enterprises-4696263</guid>
-      <pubDate>18/05/2026 11:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H11N_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
