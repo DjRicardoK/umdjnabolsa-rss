@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 17 May 2026 23:29:33 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 23:34:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Nvidia e varejista informam sobre o boom da IA ​​e os gastos do consumidor</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nvidia-retailer-reports-to-shed-lighton-ai-boom-consumer-spending-4694530</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-retailer-reports-to-shed-lighton-ai-boom-consumer-spending-4694530</guid>
+      <pubDate>17/05/2026 23:34</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4E0QE_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Investimento imobiliário da China amplia declínio entre janeiro e abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/nvidia-is-getting-some-help-as-it-props-up-s-p-500-earnings-growth-1f3a8a52?mod=mw_rss_topstories</guid>
       <pubDate>17/05/2026 18:31</pubDate>
       <enclosure url="https://images.mktw.net/im-96113264" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Walmart e Target estão prestes a mostrar o quanto os hábitos de compra mudaram devido à guerra no Irã</title>
-      <description>O Walmart disse que os clientes começam a cortar gastos quando os preços da gasolina atingem US$ 4,50 a US$ 5 o galão.</description>
-      <link>https://www.marketwatch.com/story/walmart-and-target-are-about-to-show-just-how-much-shopping-habits-have-changed-due-to-the-iran-war-105b34d9?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/walmart-and-target-are-about-to-show-just-how-much-shopping-habits-have-changed-due-to-the-iran-war-105b34d9?mod=mw_rss_topstories</guid>
-      <pubDate>17/05/2026 18:31</pubDate>
-      <enclosure url="https://images.mktw.net/im-42340520" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
