@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 12:34:43 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:38:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lynx Equity defende ações AMAT e LRCX em meio a pressões</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/lynx-equity-defends-amat-and-lrcx-stocks-amid-pressures-93CH-4696422</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/lynx-equity-defends-amat-and-lrcx-stocks-amid-pressures-93CH-4696422</guid>
+      <pubDate>18/05/2026 12:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: AudioEye Q1 2026 supera as previsões, mas as ações caem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/cuba-warns-us-military-action-would-cause-bloodbath-after-drone-report-4696227</guid>
       <pubDate>18/05/2026 11:24</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H113_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Fold Holdings Q1 2026 perde EPS e previsões de receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-fold-holdings-q1-2026-misses-eps--revenue-forecasts-93CH-4696245</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-fold-holdings-q1-2026-misses-eps--revenue-forecasts-93CH-4696245</guid>
-      <pubDate>18/05/2026 11:19</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
