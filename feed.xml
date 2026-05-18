@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 00:44:18 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:58:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warren Buffett chama esse investimento de “a coisa certa para a maioria das pessoas”. 1 Vanguard ETF...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-calls-investment-thing-165000941.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-calls-investment-thing-165000941.html</guid>
+      <pubDate>18/05/2026 00:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/f4c7a3aec2ea1adc61909ead9fa5bc99" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Ásia caem à medida que as perdas tecnológicas e as tensões no Irã se arrastam; Conversas...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/china-new-home-prices-fall-at-slowest-monthly-pace-in-a-year-in-april-4694601</guid>
       <pubDate>17/05/2026 23:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H045_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE IA preparada para aumentar a alavancagem do mercado de trabalho em direção aos trabalhadores mais velhos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/ai-poised-tilt-job-market-150000094.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/ai-poised-tilt-job-market-150000094.html</guid>
-      <pubDate>17/05/2026 22:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bloomberg_holding_pen_162/4eda6b302ffda7ddf6079d19ccce1c27" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
