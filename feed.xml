@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 08:48:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 08:49:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Michael Burry diz que &apos;o fim está próximo&apos;, com as principais ações subindo 784% - superando o boom das...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-end-nigh-113500094.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-end-nigh-113500094.html</guid>
+      <pubDate>18/05/2026 08:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/3eb42028c26e9e59b8b0b718c98c59cf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Ryanair no ano fiscal de 26: lucro recorde em meio à crise do combustível de aviação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-may-18-2026-100000178.html</guid>
       <pubDate>18/05/2026 07:03</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/480de4d0-03ec-11ef-bfff-fe31b82eccd6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Melhor compra: ações da Micron ou Nvidia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/better-buy-micron-nvidia-stock-095000131.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/better-buy-micron-nvidia-stock-095000131.html</guid>
-      <pubDate>18/05/2026 06:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/79d07f6f13cb109679bc8bdf2ace800b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
