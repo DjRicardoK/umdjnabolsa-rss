@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 10:09:57 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 10:10:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da ImmunityBio sobem com cinco novos prêmios de patentes nos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/immunitybio-stock-gains-on-five-new-us-patent-awards-93CH-4695946</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/immunitybio-stock-gains-on-five-new-us-patent-awards-93CH-4695946</guid>
+      <pubDate>18/05/2026 10:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Digimarc conclui reorganização corporativa, nova controladora será negociada como DMRC na Nasdaq</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/three-ways-the-ai-boom-may-fizzle-and-what-happens-to-stocks-next-f2d6e5eb?mod=mw_rss_topstories</guid>
       <pubDate>18/05/2026 08:08</pubDate>
       <enclosure url="https://images.mktw.net/im-69306199" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Rokeby anuncia renovação de licença de 20 anos para o Projeto Omeo Gold</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/rokeby-announces-20-licence-renewal-105747492.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/rokeby-announces-20-licence-renewal-105747492.html</guid>
-      <pubDate>18/05/2026 08:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/mining_technology_700/d266c0373a48f2b1ff76ebebcea91211" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
