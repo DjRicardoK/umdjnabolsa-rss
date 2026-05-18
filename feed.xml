@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 18:08:41 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:08:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Japão e China lideram quedas nas participações estrangeiras de títulos do Tesouro em março, mostram dados</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/japan-china-lead-declines-in-foreign-holdings-of-treasuries-in-march-data-shows-4697073</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/japan-china-lead-declines-in-foreign-holdings-of-treasuries-in-march-data-shows-4697073</guid>
+      <pubDate>18/05/2026 18:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1H0_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dia de negociação: rendimentos comprimem ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/brady-corporation-q3-2026-earnings-164758473.html</guid>
       <pubDate>18/05/2026 14:00</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/d2947c39043359d7129dff45c185d82a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon, ação do dia do IBD, nomeada &apos;escolha de franquia&apos; à medida que o marco de US$ 3 trilhões se aproxima</title>
-      <description></description>
-      <link>https://www.investors.com/research/ibd-stock-of-the-day/amazon-stock-3-trillion-market-cap-milestone-nvidia-earnings/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/ibd-stock-of-the-day/amazon-stock-3-trillion-market-cap-milestone-nvidia-earnings/?src=A00220&yptr=yahoo</guid>
-      <pubDate>18/05/2026 13:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/5a8901d2cec56ea9e983720c4235a756" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
