@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 18:29:48 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 18:44:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Palo Alto Networks atinge um grande marco. Por que as ações de segurança cibernética estão tão aquecidas...</title>
+      <description>Um analista observa que os investidores se tornaram mais “perspicazes” à medida que procuram separar os perdedores dos vencedores da IA.</description>
+      <link>https://www.marketwatch.com/story/palo-alto-networks-hits-a-big-milestone-why-cybersecurity-stocks-are-so-hot-right-now-09e1c9bb?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/palo-alto-networks-hits-a-big-milestone-why-cybersecurity-stocks-are-so-hot-right-now-09e1c9bb?mod=mw_rss_topstories</guid>
+      <pubDate>18/05/2026 18:44</pubDate>
+      <enclosure url="https://images.mktw.net/im-58440195" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A aposta de US$ 250 milhões da Tesla na Alemanha é interessante. É gastar mais antes de ter retorno.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/oil-climbs-as-trump-warns-the-clock-is-ticking-on-iran-but-theres-a-bigger-danger-lurking-on-the-horizon-9dfa8129?mod=mw_rss_topstories</guid>
       <pubDate>18/05/2026 14:46</pubDate>
       <enclosure url="https://images.mktw.net/im-28171844" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE CEO da Delta defende Amazon em vez de Starlink em tecnologia e preços – Bloomberg</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/delta-ceo-defends-amazon-over-starlink-on-tech-and-pricing--bloomberg-93CH-4696596</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/delta-ceo-defends-amazon-over-starlink-on-tech-and-pricing--bloomberg-93CH-4696596</guid>
-      <pubDate>18/05/2026 14:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE5D08R_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
