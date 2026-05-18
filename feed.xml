@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 16:19:22 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 16:33:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Esses 4 setores de mercado parecem espumosos – e a da Nvidia nem é a maior bolha</title>
+      <description>O S&amp;P 500 tem 30% de chance de quebrar nos próximos dois anos. Essa é a boa notícia.</description>
+      <link>https://www.marketwatch.com/story/these-4-market-sectors-look-frothy-and-nvidias-isnt-even-the-biggest-bubble-d740acf7?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/these-4-market-sectors-look-frothy-and-nvidias-isnt-even-the-biggest-bubble-d740acf7?mod=mw_rss_topstories</guid>
+      <pubDate>18/05/2026 16:33</pubDate>
+      <enclosure url="https://images.mktw.net/im-43329651" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ‘O trem saiu da estação’: os trabalhadores estão lucrando ensinando a IA a fazer seu trabalho – alguns ganham...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/nvidia-stock-investors-hold-their-breath-q1-report/?src=A00220&yptr=yahoo</guid>
       <pubDate>18/05/2026 13:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/5ed5624e71b8f1617c58d02483d268ab" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE FAA diz que não abordou os sinais de alerta antes da colisão fatal</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/faa-says-it-failed-to-address-warning-signals-before-fatal-collision-4696485</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/faa-says-it-failed-to-address-warning-signals-before-fatal-collision-4696485</guid>
-      <pubDate>18/05/2026 13:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H15V_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
