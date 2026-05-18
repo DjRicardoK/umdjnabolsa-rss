@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 00:01:37 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 00:01:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE CXMT da China espera que a receita aumente à medida que a demanda por chips de memória aumenta</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/chinas-cxmt-expects-revenue-to-surge-as-memory-chip-demand-soars-4694612</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-cxmt-expects-revenue-to-surge-as-memory-chip-demand-soars-4694612</guid>
+      <pubDate>18/05/2026 00:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H06A_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A derrota dos títulos globais se aprofunda à medida que aumentam os temores de inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-cerebras-better-ai-222500169.html</guid>
       <pubDate>17/05/2026 19:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/5538d1bd7822a0b1d2f136e561fd43ac" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Futuros de ações dos EUA caem, preços do petróleo sobem enquanto a guerra com o Irã permanece presa em um...</title>
-      <description>Os futuros do índice de ações dos EUA caíram e os preços do petróleo subiram no domingo, depois que a recuperação do mercado estagnou na semana passada, com os preços do petróleo...</description>
-      <link>https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories</guid>
-      <pubDate>17/05/2026 19:21</pubDate>
-      <enclosure url="https://images.mktw.net/im-97792891" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
