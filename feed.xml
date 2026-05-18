@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 13:16:38 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 13:23:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A história diz que a IA provavelmente aumentará a distância entre os gigantes corporativos e todos os outros:...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/history-says-ai-is-likely-to-widen-the-gap-between-corporate-giants-and-everyone-else-goldman-sachs-161724815.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/history-says-ai-is-likely-to-widen-the-gap-between-corporate-giants-and-everyone-else-goldman-sachs-161724815.html</guid>
+      <pubDate>18/05/2026 13:23</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/w1ClV7DFvxIG50CYRyQoWg--~B/aD0yNzM1O3c9NDg2MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/558e3820-7886-11f0-b47e-7c7789a02a24_230434996283211c2aca95b7ada4787379e199a8fb2e4328aa0579e0e793a529.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas da Itália caem no fechamento do pregão; Investing.com Itália 40 caiu 1,04%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-treasury-announces-275-million-settlement-with-indias-adani-enterprises-4696263</guid>
       <pubDate>18/05/2026 11:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H11N_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE DA. Davidson reitera classificação das ações da Aebi Schmidt em forte carteira de pedidos</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-aebi-schmidt-stock-rating-on-strong-backlog-93CH-4696293</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-aebi-schmidt-stock-rating-on-strong-backlog-93CH-4696293</guid>
-      <pubDate>18/05/2026 11:43</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
