@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 02:14:33 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 02:17:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A guerra no Irão sobrecarrega as empresas globais com uma conta de 25 mil milhões de dólares – e continua a...</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/iran-war-saddles-global-companies-with-25-billion-bill--and-counting-4694633</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/iran-war-saddles-global-companies-with-25-billion-bill--and-counting-4694633</guid>
+      <pubDate>18/05/2026 02:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H09R_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Este estoque de ouro subiu 140%. Um investidor transformou-o em uma participação de 15% no portfólio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/china-has-agreed-to-address-us-concerns-over-rare-earth-shortages-says-white-house-4694604</guid>
       <pubDate>17/05/2026 23:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H05G_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A economia da China desacelera em abril, com a produção e as vendas no varejo abaixo das previsões</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/chinas-economy-slows-in-april-as-output-retail-sales-sharply-undershoot-forecasts-4694608</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-economy-slows-in-april-as-output-retail-sales-sharply-undershoot-forecasts-4694608</guid>
-      <pubDate>17/05/2026 23:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H05L_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
