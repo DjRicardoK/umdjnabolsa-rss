@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 08:06:27 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 08:26:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Bionano Genomics vê crescimento de receita no primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bionano-genomics-sees-q1-revenue-growth-stock-edges-up-93CH-4698258</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bionano-genomics-sees-q1-revenue-growth-stock-edges-up-93CH-4698258</guid>
+      <pubDate>19/05/2026 08:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os investidores estão desprotegidos contra choques petrolíferos e de rendimento. Aqui estão as ações para...</title>
       <description>Os estrategistas da Evercore dizem que à medida que os riscos aumentam para as ações, os investidores menos protegidos precisam de mais dessas ações com desempenho superior para...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chinas-top-flash-memory-chipmaker-082808615.html</guid>
       <pubDate>19/05/2026 06:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/0ec36e9243a98c4f941e1c57c0ddbf63" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O dólar sobe à medida que os investidores avaliam as esperanças de paz no Irã em relação às perspectivas da...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-steadies-weakness-trump-calls-003840951.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-steadies-weakness-trump-calls-003840951.html</guid>
-      <pubDate>19/05/2026 06:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/adcd282ca34dc9be4874b70550a3dfa3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
