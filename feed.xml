@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 13:29:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:33:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Governo indonésio vende títulos em dólares e euros em meio a pressões econômicas</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/indonesian-government-sells-dollar-and-euro-bonds-amid-economic-pressures-93CH-4699199</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/indonesian-government-sells-dollar-and-euro-bonds-amid-economic-pressures-93CH-4699199</guid>
+      <pubDate>19/05/2026 13:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_4_M_1440048337.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Conheça o ETF Super Semiconductor com 40% de seu portfólio estacionado em Micron, AMD, Broadcom, Nvidia e...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/prudential-financial-stock-hits-52week-low-at-2246-usd-93CH-4699107</guid>
       <pubDate>19/05/2026 12:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações de software dos EUA tentam uma recuperação enquanto os investidores reavaliam os riscos de IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/us-software-stocks-attempt-rebound-145947008.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/us-software-stocks-attempt-rebound-145947008.html</guid>
-      <pubDate>19/05/2026 12:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/e256f0d3b9d1ffa889bc8e9910cd2c3c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
