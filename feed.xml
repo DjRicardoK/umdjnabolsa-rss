@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 04:04:05 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 04:05:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mike Johnson diz que os salários de mais de US$ 174 mil dos legisladores não acompanharam a inflação – eles...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/mike-johnson-says-lawmakers-174k-194500971.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/mike-johnson-says-lawmakers-174k-194500971.html</guid>
+      <pubDate>19/05/2026 04:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/58dd227f857ca7885450d10a3fcec5fa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Ascent Solar Technologies, Inc. (ASTI) está entre os estoques de energia renovável mais promissores do...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-steady-as-bond-rout-stalls-japanese-yen-weakens-past-strong-gdp-4697423</guid>
       <pubDate>19/05/2026 00:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPECAM0ZH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise - Sem acordo, sem saída: como o impasse EUA-Irã arrisca novo conflito</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/analysisno-deal-no-exit-how-usiran-standoff-risks-fresh-conflict-4696622</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysisno-deal-no-exit-how-usiran-standoff-risks-fresh-conflict-4696622</guid>
-      <pubDate>19/05/2026 00:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1AJ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
