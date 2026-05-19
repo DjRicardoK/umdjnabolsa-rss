@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 03:25:42 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 03:37:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Tomoland levanta US$ 2 milhões para levar a plataforma UGC baseada em IA para a Web3 e vende o Blueprint...</title>
+      <description></description>
+      <link>https://www.investing.com/news/press-releases/tomoland-raises-usd-2-million-to-bring-aipowered-ugc-platform-to-web3-sells-out-blueprint-founder-pass-in-2-hours-4697521</link>
+      <guid isPermaLink="false">https://www.investing.com/news/press-releases/tomoland-raises-usd-2-million-to-bring-aipowered-ugc-platform-to-web3-sells-out-blueprint-founder-pass-in-2-hours-4697521</guid>
+      <pubDate>19/05/2026 03:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Golden Prospect Precious Metals transfere gestão de portfólio para Manulife</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-nvidia-alphabet-atlanta-fed-lead-a-charged-week/?src=A00220&yptr=yahoo</guid>
       <pubDate>19/05/2026 00:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/5fe7fa6fc2109bc5f97f3e8204a7d022" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco central da Austrália viu espaço para avaliar o impacto do conflito do Golfo após aumento das taxas em...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/australia-central-bank-saw-space-to-assess-impact-of-gulf-conflict-after-may-rate-hike-4697410</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-central-bank-saw-space-to-assess-impact-of-gulf-conflict-after-may-rate-hike-4697410</guid>
-      <pubDate>18/05/2026 23:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I032_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
