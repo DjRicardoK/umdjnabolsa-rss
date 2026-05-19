@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 05:07:49 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 05:07:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações da SAP sobem 5% com alta das ações de software na Europa</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/sap-shares-climb-5-as-software-stocks-rally-in-europe-93CH-4697635</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/sap-shares-climb-5-as-software-stocks-rally-in-europe-93CH-4697635</guid>
+      <pubDate>19/05/2026 05:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED2F1S6_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Investcorp Credit Management BDC Q1 2026 perde as expectativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/truist-raises-pt-woodward-wwd-163932141.html</guid>
       <pubDate>19/05/2026 01:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7421e7929fe678d7baf8572cdd9d121b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Fabricação de semicondutores de Taiwan (TSM): uma das melhores ações fundamentalmente fortes para comprar...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-one-163857253.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-one-163857253.html</guid>
-      <pubDate>19/05/2026 01:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f90919c411d1aa5d89e5e74b1fb5e45e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
