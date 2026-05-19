@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 11:17:47 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:19:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As melhores ações para investir $ 3.000 agora mesmo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/best-stocks-invest-3-000-140500732.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/best-stocks-invest-3-000-140500732.html</guid>
+      <pubDate>19/05/2026 11:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/393e47e875abd5693a6ff52feb9bf02f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Humain, da Arábia Saudita, escolhe Goldman Sachs para assessorar sobre financiamento de data centers, dizem...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/microsofts-biggest-india-data-center-125132802.html</guid>
       <pubDate>19/05/2026 09:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/7d3b1461a5a424c351de6c340ec5ce3c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Regulador de Wall Street emitirá estrutura de ações tokenizadas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/wall-street-regulator-issue-tokenized-122900212.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/wall-street-regulator-issue-tokenized-122900212.html</guid>
-      <pubDate>19/05/2026 09:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/67acd314c73bcb4b7ad8743343f486ad" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
