@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 06:46:07 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:01:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Aletheia Capital reitera classificação de ações da Circle Internet na vantagem regulatória</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/aletheia-capital-reiterates-circle-internet-stock-rating-on-regulatory-edge-93CH-4697839</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/aletheia-capital-reiterates-circle-internet-stock-rating-on-regulatory-edge-93CH-4697839</guid>
+      <pubDate>19/05/2026 07:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Grupo SSP vê forte crescimento no primeiro semestre de 2026,...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/golden-prospect-precious-metals-shifts-portfolio-management-to-manulife-93CH-4697514</guid>
       <pubDate>19/05/2026 03:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE StanChart cortará mais de 7.000 empregos à medida que banco intensifica adoção de IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/stanchart-to-cut-more-than-7000-jobs-as-bank-steps-up-ai-adoption-4697509</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stanchart-to-cut-more-than-7000-jobs-as-bank-steps-up-ai-adoption-4697509</guid>
-      <pubDate>19/05/2026 03:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I08R_1200_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
