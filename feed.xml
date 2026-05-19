@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 22:27:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 22:50:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: OFX Group Q2 2026 destaca desafios estratégicos</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ofx-group-q2-2026-highlights-strategic-challenges-93CH-4697398</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ofx-group-q2-2026-highlights-strategic-challenges-93CH-4697398</guid>
+      <pubDate>18/05/2026 22:50</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A economia do Japão cresce a um ritmo sólido no primeiro trimestre, mas a guerra no Irão deverá alterar o...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/japan-china-lead-declines-in-foreign-holdings-of-treasuries-in-march-data-shows-4697073</guid>
       <pubDate>18/05/2026 18:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1H0_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dia de negociação: rendimentos comprimem ações</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/trading-day-yields-squeeze-stocks-4697074</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/trading-day-yields-squeeze-stocks-4697074</guid>
-      <pubDate>18/05/2026 18:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1GX_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
