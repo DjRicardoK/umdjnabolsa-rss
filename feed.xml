@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 12:13:25 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:16:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Prudential Financial atingem o mínimo de 52 semanas em 22,46 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/prudential-financial-stock-hits-52week-low-at-2246-usd-93CH-4699107</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/prudential-financial-stock-hits-52week-low-at-2246-usd-93CH-4699107</guid>
+      <pubDate>19/05/2026 12:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações de software dos EUA tentam uma recuperação enquanto os investidores reavaliam os riscos de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/cathie-wood-ark-invest-aerospace-defense-holdings-lockheed-martin-northrop-grumman-navy-foreign-military-sales/?src=A00220&yptr=yahoo</guid>
       <pubDate>19/05/2026 10:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/ec40c93a6e526196e60e847736b337ee" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Grupo Hera vê crescimento estável no primeiro trimestre de 1</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-hera-group-sees-stable-growth-in-q1-2026-93CH-4698913</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hera-group-sees-stable-growth-in-q1-2026-93CH-4698913</guid>
-      <pubDate>19/05/2026 10:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
