@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 10:40:57 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 10:48:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE StubHub e Jazz Pharmaceuticals atualizados: principais analistas de Wall Street ligam</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stubhub-jazz-pharmaceuticals-upgraded-wall-133439141.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stubhub-jazz-pharmaceuticals-upgraded-wall-133439141.html</guid>
+      <pubDate>19/05/2026 10:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Estoques de semicondutores incandescentes, como Sandisk e Micron, estão agora em modo de fusão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/etfs-and-funds/sectors/sp500-energy-stocks-are-up-33-percent-this-year-analysts-think-5-will-jump/?src=A00220&yptr=yahoo</guid>
       <pubDate>19/05/2026 09:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/06c3c13f5289b85b981c03aa61861a97" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Inovio supera a previsão de EPS do primeiro trimestre de 2026,...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-inovio-beats-q1-2026-eps-forecast-but-stock-slips-93CH-4698382</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-inovio-beats-q1-2026-eps-forecast-but-stock-slips-93CH-4698382</guid>
-      <pubDate>19/05/2026 08:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
