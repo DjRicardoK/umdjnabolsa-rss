@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 14:53:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 14:57:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nike integra compras de IA com o Google para compras mais rápidas</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nike-integrates-ai-shopping-with-google-for-faster-purchases-93CH-4699295</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nike-integrates-ai-shopping-with-google-for-faster-purchases-93CH-4699295</guid>
+      <pubDate>19/05/2026 14:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEE8J1MM-ORUBS_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Nvidia devem oscilar no preço de US$ 350 bilhões após lucros, mostram opções</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/former-tesla-ai-executive-openai-founding-member-andrej-karpathy-joins-anthropic-4699136</guid>
       <pubDate>19/05/2026 13:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I15E_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Intuitive Machines relata resultados do primeiro trimestre de...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-intuitive-machines-reports-q1-2026-results-misses-eps-expectations-93CH-4699188</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-intuitive-machines-reports-q1-2026-results-misses-eps-expectations-93CH-4699188</guid>
-      <pubDate>19/05/2026 13:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
