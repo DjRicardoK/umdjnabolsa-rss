@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 13:46:21 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:48:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Grupo Multilaser no primeiro trimestre de 2026 apresenta...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-multilaser-q1-2026-sees-robust-growth-93CH-4699218</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-multilaser-q1-2026-sees-robust-growth-93CH-4699218</guid>
+      <pubDate>19/05/2026 13:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações caem à medida que os rendimentos dos títulos dos EUA aumentam e o petróleo diminui com comentários de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/us-pending-home-sales-increase-for-third-straight-month-4698962</guid>
       <pubDate>19/05/2026 12:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I0YT_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Perli, do Fed de Nova York, diz que o kit de ferramentas de controle de taxas pode navegar pela menor demanda...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ny-feds-perli-says-rate-control-toolkit-can-navigate-lower-reserve-demand-4699120</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ny-feds-perli-says-rate-control-toolkit-can-navigate-lower-reserve-demand-4699120</guid>
-      <pubDate>19/05/2026 12:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I14B_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
