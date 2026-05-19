@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 16:01:14 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 16:03:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Investidor bilionário carrega silenciosamente ações de construção enquanto se pega o machado</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-quietly-loads-construction-100105229.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-quietly-loads-construction-100105229.html</guid>
+      <pubDate>19/05/2026 16:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/9fb7a0e3f2e401bfe02f9e1ef22bf6bc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A última contratação da Anthropic liderou IA na Tesla, trabalhou na OpenAI e recebeu muitos elogios de Elon...</title>
       <description>O ex-chefe de inteligência artificial da Tesla, Andrej Karpathy, está se juntando à Anthropic – enquanto seu antigo chefe, Elon Musk, vincula a SpaceX mais estreitamente à startup...</description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-sunrise-realty-trust-sees-stock-surge-after-q1-2026-earnings-93CH-4699221</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sunrise-realty-trust-sees-stock-surge-after-q1-2026-earnings-93CH-4699221</guid>
       <pubDate>19/05/2026 13:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da LivaNova atingem alta de 52 semanas a 73,31 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/livanova-stock-hits-52week-high-at-7331-usd-93CH-4699217</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/livanova-stock-hits-52week-high-at-7331-usd-93CH-4699217</guid>
-      <pubDate>19/05/2026 13:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
