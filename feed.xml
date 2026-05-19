@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 11:37:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:51:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Piper Sandler reitera classificação de ações da Climb Bio sobre oportunidade de IgAN</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-climb-bio-stock-rating-on-igan-opportunity-93CH-4699044</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-climb-bio-stock-rating-on-igan-opportunity-93CH-4699044</guid>
+      <pubDate>19/05/2026 11:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Babcock International vê forte crescimento no segundo semestre...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ceragon-networks-q1-2026-revenue-beats-estimates-93CH-4698876</guid>
       <pubDate>19/05/2026 10:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A taxa de inflação do Canadá acelera para 2,8% à medida que a guerra no Irão aumenta os preços da gasolina</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/canadas-april-inflation-surges-28-as-iran-war-drives-gasoline-costs-up-4698633</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/canadas-april-inflation-surges-28-as-iran-war-drives-gasoline-costs-up-4698633</guid>
-      <pubDate>19/05/2026 10:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I0UJ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
