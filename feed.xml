@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 16:34:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 16:40:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Hamilton Lane atingem baixa de 52 semanas a 84,08 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/hamilton-lane-stock-hits-52week-low-at-8408-usd-93CH-4699420</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/hamilton-lane-stock-hits-52week-low-at-8408-usd-93CH-4699420</guid>
+      <pubDate>19/05/2026 16:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da Entergy Corporation irão subir ou afundar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/eagle-materials-inc-q4-2026-164834903.html</guid>
       <pubDate>19/05/2026 14:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/e6f4591239d2656aaa6ba41b078d70fe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Blacksky Technology Inc atingem alta de 52 semanas a 44,99 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/blacksky-technology-inc-stock-hits-52week-high-at-4499-usd-93CH-4699253</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/blacksky-technology-inc-stock-hits-52week-high-at-4499-usd-93CH-4699253</guid>
-      <pubDate>19/05/2026 14:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
