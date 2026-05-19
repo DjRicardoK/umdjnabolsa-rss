@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 11:54:49 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:59:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE NVIDIA Corporation (NVDA) enfrenta incerteza de longo prazo apesar do domínio no cenário tecnológico em...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-faces-long-144308664.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-nvda-faces-long-144308664.html</guid>
+      <pubDate>19/05/2026 11:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c620444f5984a111f51bbb2fd58922a9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Truist reitera classificação das ações da Ball após visita à fábrica de latas de bebidas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/article/white-hot-semiconductor-stocks-like-sandisk-and-micron-are-now-in-meltdown-mode-133419343.html</guid>
       <pubDate>19/05/2026 10:40</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/ZrIB9ukTpyNi5qEwicw3iw--~B/aD0yMTYyO3c9MzI1MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/62b47300-300e-4018-892c-ca0b56f58132" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow e Nasdaq Futures caem enquanto Micron e Sandisk estendem queda; Home Depot e...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-sandisk-home-depot-google-io/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-sandisk-home-depot-google-io/?src=A00220&yptr=yahoo</guid>
-      <pubDate>19/05/2026 10:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/2dc23d177054799afd413b73b997d967" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
