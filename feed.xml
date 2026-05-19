@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 14:53:15 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 14:53:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Nvidia devem oscilar no preço de US$ 350 bilhões após lucros, mostram opções</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nvidia-shares-set-for-350-billion-price-swing-after-earnings-options-show-4699260</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-shares-set-for-350-billion-price-swing-after-earnings-options-show-4699260</guid>
+      <pubDate>19/05/2026 14:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I1BN_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As taxas hipotecárias sobem para o nível mais alto desde julho em meio a preocupações com a guerra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-intuitive-machines-reports-q1-2026-results-misses-eps-expectations-93CH-4699188</guid>
       <pubDate>19/05/2026 13:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE AngloGold Ashanti Reduzida para Abaixo do Peso na ABSA: A Golden Run Finalmente Terminou?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-cut-underweight-absa-160211189.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/anglogold-ashanti-cut-underweight-absa-160211189.html</guid>
-      <pubDate>19/05/2026 13:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/f33a427426fe7dbea3cfa8b4e60f9fb4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
