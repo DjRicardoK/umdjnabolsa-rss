@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 07:01:28 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:04:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Taxas de hipoteca e refinanciamento hoje, 19 de maio de 2026: as taxas continuam subindo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-may-19-2026-100000549.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-may-19-2026-100000549.html</guid>
+      <pubDate>19/05/2026 07:04</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Aletheia Capital reitera classificação de ações da Circle Internet na vantagem regulatória</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/press-releases/tomoland-raises-usd-2-million-to-bring-aipowered-ugc-platform-to-web3-sells-out-blueprint-founder-pass-in-2-hours-4697521</guid>
       <pubDate>19/05/2026 03:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_8_M_1440052125.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Golden Prospect Precious Metals transfere gestão de portfólio para Manulife</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/golden-prospect-precious-metals-shifts-portfolio-management-to-manulife-93CH-4697514</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/golden-prospect-precious-metals-shifts-portfolio-management-to-manulife-93CH-4697514</guid>
-      <pubDate>19/05/2026 03:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
