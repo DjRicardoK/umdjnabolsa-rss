@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 16:52:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 17:00:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE DoorDash contrata ex-executivo da Amazon como CMO</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/doordash-taps-ex-amazon-exec-105100202.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/doordash-taps-ex-amazon-exec-105100202.html</guid>
+      <pubDate>19/05/2026 17:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketing_dive_116/34b6c554659dd1ed167ba47d0371d3e3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Relatório de volatilidade e ganhos de opções de 18 a 22 de maio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-shares-set-for-350-billion-price-swing-after-earnings-options-show-4699260</guid>
       <pubDate>19/05/2026 14:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I1BN_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As taxas hipotecárias sobem para o nível mais alto desde julho em meio a preocupações com a guerra</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/mortgage-rates-climb-to-highest-level-since-july-amid-war-concerns-93CH-4699280</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/mortgage-rates-climb-to-highest-level-since-july-amid-war-concerns-93CH-4699280</guid>
-      <pubDate>19/05/2026 14:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_3_M_1440048334.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
