@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 11:17:39 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 11:17:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Humain, da Arábia Saudita, escolhe Goldman Sachs para assessorar sobre financiamento de data centers, dizem...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/saudi-arabias-humain-picks-goldman-141120422.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/saudi-arabias-humain-picks-goldman-141120422.html</guid>
+      <pubDate>19/05/2026 11:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/6c05cc8e0e9c2608db3c35c653106433" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Como o aumento dos rendimentos do Tesouro pode impactar suas finanças</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/wall-street-regulator-issue-tokenized-122900212.html</guid>
       <pubDate>19/05/2026 09:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/67acd314c73bcb4b7ad8743343f486ad" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: GNFC Q4 2026 mostra forte crescimento, ações sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-gnfc-q4-2026-shows-strong-growth-stock-rises-93CH-4698582</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-gnfc-q4-2026-shows-strong-growth-stock-rises-93CH-4698582</guid>
-      <pubDate>19/05/2026 09:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
