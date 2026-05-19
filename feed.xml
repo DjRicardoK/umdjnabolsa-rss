@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 17:47:31 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 17:52:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Previsão: Wall Street pode estar dormindo com o próximo grande movimento do Google</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/prediction-wall-street-may-sleeping-120935268.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-wall-street-may-sleeping-120935268.html</guid>
+      <pubDate>19/05/2026 17:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/c385046e161de63efc52cb1b3377ec40" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Minuto da manhã: Bitcoin cai para US$ 77 mil com aumento dos rendimentos de títulos e aumento do petróleo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/jefferies-raises-ke-holdings-stock-price-target-on-earnings-beat-93CH-4699347</guid>
       <pubDate>19/05/2026 15:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Amazon está iniciando uma execução no estilo Nvidia?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-starting-nvidia-style-run-092200505.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-starting-nvidia-style-run-092200505.html</guid>
-      <pubDate>19/05/2026 15:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/191c5b1d061bab5cdda6dd93e99389d4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
