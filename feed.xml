@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 04:48:42 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 05:07:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Investcorp Credit Management BDC Q1 2026 perde as expectativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-investcorp-credit-management-bdc-q1-2026-misses-expectations-93CH-4697636</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-investcorp-credit-management-bdc-q1-2026-misses-expectations-93CH-4697636</guid>
+      <pubDate>19/05/2026 05:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Irã diz que proposta de paz inclui reparações por danos de guerra e retirada de tropas dos EUA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-one-163857253.html</guid>
       <pubDate>19/05/2026 01:08</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f90919c411d1aa5d89e5e74b1fb5e45e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Rússia ataca cidade portuária ucraniana do Danúbio, Ucrânia lança drones em direção a Moscou</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/russia-attacks-ukraines-danube-port-city-ukraine-launches-drones-towards-moscow-4697428</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/russia-attacks-ukraines-danube-port-city-ukraine-launches-drones-towards-moscow-4697428</guid>
-      <pubDate>19/05/2026 01:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I04Q_1200_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
