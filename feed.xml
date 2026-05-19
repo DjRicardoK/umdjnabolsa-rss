@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 22:15:09 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 22:27:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A economia do Japão cresce a um ritmo sólido no primeiro trimestre, mas a guerra no Irão deverá alterar o...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/japans-economy-grew-more-than-expected-in-q1-4697304</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japans-economy-grew-more-than-expected-in-q1-4697304</guid>
+      <pubDate>18/05/2026 22:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I005_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nova Zelândia planeja corte de 14% em empregos no serviço público para economizar NZ$ 2,4 bilhões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/trading-day-yields-squeeze-stocks-4697074</guid>
       <pubDate>18/05/2026 18:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1GX_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Brasil pode redirecionar fluxos de exportação agrícola em meio a acordo entre EUA e China</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/brazil-may-reroute-farm-export-flows-amid-uschina-deal-4697075</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/brazil-may-reroute-farm-export-flows-amid-uschina-deal-4697075</guid>
-      <pubDate>18/05/2026 18:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1GO_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
