@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 10:15:15 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 10:15:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A taxa de inflação do Canadá acelera para 2,8% à medida que a guerra no Irão aumenta os preços da gasolina</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/canadas-april-inflation-surges-28-as-iran-war-drives-gasoline-costs-up-4698633</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/canadas-april-inflation-surges-28-as-iran-war-drives-gasoline-costs-up-4698633</guid>
+      <pubDate>19/05/2026 10:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I0UJ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os fiéis do Kindle lutam enquanto a Amazon vira a página dos antigos leitores eletrônicos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/canaan-earnings-missed-by-083-revenue-fell-short-of-estimates-4698105</guid>
       <pubDate>19/05/2026 08:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Estes gráficos oferecem um alerta para a próxima geração: uma nova era de taxas mais altas pode estar chegando</title>
-      <description>Este padrão gráfico de “flâmula” alerta que os rendimentos do Tesouro podem subir muito. Mas um cenário alternativo também é muito bom.</description>
-      <link>https://www.marketwatch.com/story/these-charts-offer-a-warning-to-the-next-generation-a-new-era-of-higher-rates-may-be-coming-ee913d36?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/these-charts-offer-a-warning-to-the-next-generation-a-new-era-of-higher-rates-may-be-coming-ee913d36?mod=mw_rss_topstories</guid>
-      <pubDate>19/05/2026 07:52</pubDate>
-      <enclosure url="https://images.mktw.net/im-76754872" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
