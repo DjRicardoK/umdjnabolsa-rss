@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 09:27:52 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:27:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Off The Hook YS Q1 2026, receita aumenta, ações caem</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-off-the-hook-ys-q1-2026-revenue-rises-stock-dips-93CH-4698535</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-off-the-hook-ys-q1-2026-revenue-rises-stock-dips-93CH-4698535</guid>
+      <pubDate>19/05/2026 09:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O primeiro trimestre de 2026 da Spire Global vê perda de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-may-19-2026-100000549.html</guid>
       <pubDate>19/05/2026 07:04</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Aletheia Capital reitera classificação de ações da Circle Internet na vantagem regulatória</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/aletheia-capital-reiterates-circle-internet-stock-rating-on-regulatory-edge-93CH-4697839</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/aletheia-capital-reiterates-circle-internet-stock-rating-on-regulatory-edge-93CH-4697839</guid>
-      <pubDate>19/05/2026 07:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
