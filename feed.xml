@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 08:45:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 08:58:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Inovio supera a previsão de EPS do primeiro trimestre de 2026,...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-inovio-beats-q1-2026-eps-forecast-but-stock-slips-93CH-4698382</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-inovio-beats-q1-2026-eps-forecast-but-stock-slips-93CH-4698382</guid>
+      <pubDate>19/05/2026 08:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: CytoSorbents Q1 2026 perde as previsões, as ações caem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/russian-rouble-at-over-threeyear-high-against-yuan-ahead-of-putins-visit-to-china-4697746</guid>
       <pubDate>19/05/2026 06:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I0IX_1200_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Pfisterer Holding SE vê crescimento significativo no primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-pfisterer-holding-se-sees-significant-q1-2026-growth-93CH-4697748</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pfisterer-holding-se-sees-significant-q1-2026-growth-93CH-4697748</guid>
-      <pubDate>19/05/2026 06:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
