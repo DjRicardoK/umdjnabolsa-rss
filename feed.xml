@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 14:02:38 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 14:06:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ueda, do BOJ, sinaliza aumento das taxas e promete estreita coordenação governamental</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bojs-ueda-flags-rising-rates-vows-close-government-coordination-93CH-4699227</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bojs-ueda-flags-rising-rates-vows-close-government-coordination-93CH-4699227</guid>
+      <pubDate>19/05/2026 14:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/JapaneseYen_M_1440047753.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da Canaan despencam enquanto o CEO afirma que o conflito no Oriente Médio está obscurecendo as...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/coronavirus/us-probing-if-china-firms-cut-output-of-containers-before-pandemic-says-cbs-4699151</guid>
       <pubDate>19/05/2026 12:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/World_News_9_M_1440052127.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Ser Educacional 1º trimestre de 2026 supera lucro por ação e...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ser-educacional-q1-2026-beats-eps-misses-revenue-93CH-4699152</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ser-educacional-q1-2026-beats-eps-misses-revenue-93CH-4699152</guid>
-      <pubDate>19/05/2026 12:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
