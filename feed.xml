@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 18:26:25 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 18:26:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da Welltower?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-welltower-stock-130548671.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-welltower-stock-130548671.html</guid>
+      <pubDate>19/05/2026 18:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/877db070310807f21ff1a9bd2c51f01a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Dow: Wall Street está em alta ou em baixa?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/hamilton-lane-stock-hits-52week-low-at-8408-usd-93CH-4699420</guid>
       <pubDate>19/05/2026 16:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da Entergy Corporation irão subir ou afundar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-entergy-104031990.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-entergy-104031990.html</guid>
-      <pubDate>19/05/2026 16:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f947c44db7d7759f1ab6bbd38b07796a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
