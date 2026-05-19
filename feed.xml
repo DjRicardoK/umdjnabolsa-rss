@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 07:27:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:46:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ZF manterá produção de motores elétricos, mas alerta sobre cortes adicionais de empregos</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/zf-to-retain-electric-motor-production-but-warns-of-additional-job-cuts-93CH-4698050</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/zf-to-retain-electric-motor-production-but-warns-of-additional-job-cuts-93CH-4698050</guid>
+      <pubDate>19/05/2026 07:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ouro cai em meio à pressão da incerteza sobre o acordo de paz com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/iran-says-peace-proposal-includes-reparations-for-war-damage-us-troop-withdrawal-4697574</guid>
       <pubDate>19/05/2026 04:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I0CS_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Archer Q1 2026 mostra desempenho sólido em meio a mudanças...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-archer-q1-2026-shows-solid-performance-amid-strategic-shifts-93CH-4697590</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-archer-q1-2026-shows-solid-performance-amid-strategic-shifts-93CH-4697590</guid>
-      <pubDate>19/05/2026 04:48</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
