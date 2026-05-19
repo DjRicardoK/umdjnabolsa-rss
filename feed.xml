@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 12:35:36 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:35:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Vendas pendentes de imóveis nos EUA aumentam ainda mais; taxas de hipoteca mais altas continuam a ser uma...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/us-pending-home-sales-increase-for-third-straight-month-4698962</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/us-pending-home-sales-increase-for-third-straight-month-4698962</guid>
+      <pubDate>19/05/2026 12:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I0YT_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Perli, do Fed de Nova York, diz que o kit de ferramentas de controle de taxas pode navegar pela menor demanda...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/exclusivebessent-says-bojs-ueda-can-deliver-if-tokyo-grants-freedom-on-rates-4698932</guid>
       <pubDate>19/05/2026 10:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I0Y5_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco Central do Brasil descarta orientação futura, já que o Oriente Médio arrisca perspectiva de nuvem</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/brazils-central-bank-rules-out-forward-guidance-as-middle-east-risks-cloud-outlook-4698894</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/brazils-central-bank-rules-out-forward-guidance-as-middle-east-risks-cloud-outlook-4698894</guid>
-      <pubDate>19/05/2026 10:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C102_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
