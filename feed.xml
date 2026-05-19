@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 02:00:32 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 02:06:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Microsoft são uma pechincha de IA que os investidores estão perdendo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-ai-bargain-investors-190002838.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-ai-bargain-investors-190002838.html</guid>
+      <pubDate>19/05/2026 02:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/417399f8a8994c7a7eb85cdd0ea5acb4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O líder de IA da Nvidia está de volta ao foco enquanto a Wolfe Research se desdobra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/japans-economy-grew-more-than-expected-in-q1-4697304</guid>
       <pubDate>18/05/2026 22:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I005_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Nova Zelândia planeja corte de 14% em empregos no serviço público para economizar NZ$ 2,4 bilhões</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/new-zealand-plans-14-cut-to-public-service-jobs-to-save-nz24-billion-4697374</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/new-zealand-plans-14-cut-to-public-service-jobs-to-save-nz24-billion-4697374</guid>
-      <pubDate>18/05/2026 22:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I01I_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
