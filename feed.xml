@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 07:04:38 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:08:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As perspectivas da Nvidia serão um teste à sua estratégia para manter o domínio da IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nvidias-outlook-will-be-a-test-of-its-strategy-to-maintain-ai-dominance-4697870</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidias-outlook-will-be-a-test-of-its-strategy-to-maintain-ai-dominance-4697870</guid>
+      <pubDate>19/05/2026 07:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I0L7_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas de HELOC e de empréstimos imobiliários hoje, 19 de maio de 2026: melhores do que há um mês</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-wages-grew-by-34-in-first-three-months-of-2026-4697505</guid>
       <pubDate>19/05/2026 03:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I08H_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Fusion Fuel Green PLC (HTOO): 11 estoques de energia renovável mais promissores no momento</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/fusion-fuel-green-plc-htoo-191941671.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/fusion-fuel-green-plc-htoo-191941671.html</guid>
-      <pubDate>19/05/2026 03:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/168980f95f8e8b4962f583f6a0da1434" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
