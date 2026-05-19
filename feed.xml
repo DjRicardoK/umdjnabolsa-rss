@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 10:15:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 10:38:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: receita da Ceragon Networks no primeiro trimestre de 2026...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ceragon-networks-q1-2026-revenue-beats-estimates-93CH-4698876</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ceragon-networks-q1-2026-revenue-beats-estimates-93CH-4698876</guid>
+      <pubDate>19/05/2026 10:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A taxa de inflação do Canadá acelera para 2,8% à medida que a guerra no Irão aumenta os preços da gasolina</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/investors-are-unprotected-against-oil-and-yield-shocks-here-are-the-stocks-to-buy-and-avoid-ffed03c2?mod=mw_rss_topstories</guid>
       <pubDate>19/05/2026 08:06</pubDate>
       <enclosure url="https://images.mktw.net/im-01774538" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos de Canaã perderam US$ 0,83, a receita ficou aquém das estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/canaan-earnings-missed-by-083-revenue-fell-short-of-estimates-4698105</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/canaan-earnings-missed-by-083-revenue-fell-short-of-estimates-4698105</guid>
-      <pubDate>19/05/2026 08:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
