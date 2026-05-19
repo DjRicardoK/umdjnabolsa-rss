@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 09:45:52 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:59:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O maior data center da Microsoft na Índia está prestes a entrar em operação em meados de 2026, diz o executivo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/microsofts-biggest-india-data-center-125132802.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/microsofts-biggest-india-data-center-125132802.html</guid>
+      <pubDate>19/05/2026 09:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/7d3b1461a5a424c351de6c340ec5ce3c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Regulador de Wall Street emitirá estrutura de ações tokenizadas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/zf-to-retain-electric-motor-production-but-warns-of-additional-job-cuts-93CH-4698050</guid>
       <pubDate>19/05/2026 07:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ouro cai em meio à pressão da incerteza sobre o acordo de paz com o Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-extends-gains-as-trump-postpones-iran-attack-bond-rout-stalls-4697356</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-extends-gains-as-trump-postpones-iran-attack-bond-rout-stalls-4697356</guid>
-      <pubDate>19/05/2026 07:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED1M0ED_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
