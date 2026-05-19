@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 00:41:22 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 01:06:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Rússia ataca cidade portuária ucraniana do Danúbio, Ucrânia lança drones em direção a Moscou</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/russia-attacks-ukraines-danube-port-city-ukraine-launches-drones-towards-moscow-4697428</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/russia-attacks-ukraines-danube-port-city-ukraine-launches-drones-towards-moscow-4697428</guid>
+      <pubDate>19/05/2026 01:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I04Q_1200_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE RBA sinaliza possível pausa após aumento de taxas de 75 pontos-base; A incerteza sobre o Irã permanece,...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/lifeway-foods-edward-smolyansky-sells-123-million-in-stock-93CH-4697226</guid>
       <pubDate>18/05/2026 19:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A fundação de Gates vendeu todas as suas ações da Microsoft. Bill Ackman está carregando o estoque. O que...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-141500609.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-141500609.html</guid>
-      <pubDate>18/05/2026 19:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/9bfb6a22d8d2062545d2cdd4741f663e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
