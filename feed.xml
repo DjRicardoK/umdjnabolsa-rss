@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 13:01:14 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:02:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Fluence Energy funcionou 98% em uma semana. Esses 4 estoques de energia de IA abaixo de US$ 20 ainda não...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/fluence-energy-just-ran-98-154859614.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/fluence-energy-just-ran-98-154859614.html</guid>
+      <pubDate>19/05/2026 13:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/79f361006bcc02003e2fbe349d36ec63" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Estoques da Finlândia sobem no fechamento do pregão; OMX Helsinki 25 subiu 0,19%</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-babcock-international-sees-strong-growth-in-h2-2026-93CH-4699025</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-babcock-international-sees-strong-growth-in-h2-2026-93CH-4699025</guid>
       <pubDate>19/05/2026 11:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Vallourec Q1 2026 supera as previsões, ações flutuam</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-vallourec-q1-2026-beats-forecasts-stock-fluctuates-93CH-4699011</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vallourec-q1-2026-beats-forecasts-stock-fluctuates-93CH-4699011</guid>
-      <pubDate>19/05/2026 11:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
