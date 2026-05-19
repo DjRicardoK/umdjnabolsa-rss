@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 07:08:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:08:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE MISO concede projetos de transmissão de US$ 1,66 bilhão no Centro-Oeste ao grupo Ameren-NextEra</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/miso-awards-166-billion-midwest-transmission-projects-to-amerennextera-group-93CH-4697868</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/miso-awards-166-billion-midwest-transmission-projects-to-amerennextera-group-93CH-4697868</guid>
+      <pubDate>19/05/2026 07:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As perspectivas da Nvidia serão um teste à sua estratégia para manter o domínio da IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/ascent-solar-technologies-inc-asti-192008732.html</guid>
       <pubDate>19/05/2026 04:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7014214c35079e96b0b9f341a651b614" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Empregadores do Reino Unido cortaram contratações e anunciaram menos empregos em abril</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/uk-wages-grew-by-34-in-first-three-months-of-2026-4697505</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-wages-grew-by-34-in-first-three-months-of-2026-4697505</guid>
-      <pubDate>19/05/2026 03:59</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I08H_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
