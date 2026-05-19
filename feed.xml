@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 09:30:18 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:33:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os ganhos da Home Depot superam à medida que as taxas hipotecárias atingem o máximo em 9 meses</title>
+      <description></description>
+      <link>https://www.investors.com/news/home-depot-earnings-lowes-earnings-q1-mortgage-rates/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/home-depot-earnings-lowes-earnings-q1-mortgage-rates/?src=A00220&yptr=yahoo</guid>
+      <pubDate>19/05/2026 09:33</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/bf62df2ae70ea2df914febca92f77e65" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os investidores estão apostando tudo nas ações e um desmaio em junho pode ser o próximo, diz o BofA</title>
       <description>Os investidores estão nos níveis de caixa mais baixos desde fevereiro de 2024, apenas um sinal de que uma retração do mercado poderá ocorrer neste verão, alerta uma pesquisa do...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidias-outlook-will-be-a-test-of-its-strategy-to-maintain-ai-dominance-4697870</guid>
       <pubDate>19/05/2026 07:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I0L7_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de HELOC e de empréstimos imobiliários hoje, 19 de maio de 2026: melhores do que há um mês</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-may-19-2026-100000781.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-rates-today-tuesday-may-19-2026-100000781.html</guid>
-      <pubDate>19/05/2026 07:04</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/c4b61900-3fee-11f0-b7db-9b92c1c08f42" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
