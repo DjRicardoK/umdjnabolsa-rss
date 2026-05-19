@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 12:35:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:44:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Presidente Trump pressionou por acordo com a Nvidia na China – mas são os chips da AMD que Pequim quer</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/president-trump-pushed-nvidia-china-153526097.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/president-trump-pushed-nvidia-china-153526097.html</guid>
+      <pubDate>19/05/2026 12:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/c16836913cfdeb681411983b13d19b24" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Vendas pendentes de imóveis nos EUA aumentam ainda mais; taxas de hipoteca mais altas continuam a ser uma...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/dont-worry-about-risk-assets-coming-under-pressure-just-yet-deutsche-bank-says-82bcc7d4?mod=mw_rss_topstories</guid>
       <pubDate>19/05/2026 11:02</pubDate>
       <enclosure url="https://images.mktw.net/im-09790388" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Exclusive-Bessent diz que Ueda do BOJ pode cumprir se Tóquio conceder liberdade nas taxas</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/exclusivebessent-says-bojs-ueda-can-deliver-if-tokyo-grants-freedom-on-rates-4698932</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/exclusivebessent-says-bojs-ueda-can-deliver-if-tokyo-grants-freedom-on-rates-4698932</guid>
-      <pubDate>19/05/2026 10:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I0Y5_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
