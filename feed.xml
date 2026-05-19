@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 02:06:03 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 03:17:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE StanChart cortará mais de 7.000 empregos à medida que banco intensifica adoção de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/stanchart-to-cut-more-than-7000-jobs-as-bank-steps-up-ai-adoption-4697509</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stanchart-to-cut-more-than-7000-jobs-as-bank-steps-up-ai-adoption-4697509</guid>
+      <pubDate>19/05/2026 03:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I08R_1200_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Microsoft são uma pechincha de IA que os investidores estão perdendo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ofx-group-q2-2026-highlights-strategic-challenges-93CH-4697398</guid>
       <pubDate>18/05/2026 22:50</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A economia do Japão cresce a um ritmo sólido no primeiro trimestre, mas a guerra no Irão deverá alterar o...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/japans-economy-grew-more-than-expected-in-q1-4697304</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japans-economy-grew-more-than-expected-in-q1-4697304</guid>
-      <pubDate>18/05/2026 22:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I005_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
