@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 12:16:58 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:35:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Perli, do Fed de Nova York, diz que o kit de ferramentas de controle de taxas pode navegar pela menor demanda...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ny-feds-perli-says-rate-control-toolkit-can-navigate-lower-reserve-demand-4699120</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ny-feds-perli-says-rate-control-toolkit-can-navigate-lower-reserve-demand-4699120</guid>
+      <pubDate>19/05/2026 12:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I14B_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Nauticus Robotics Q1 2026 revela desafios financeiros e avanços...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/brazils-central-bank-rules-out-forward-guidance-as-middle-east-risks-cloud-outlook-4698894</guid>
       <pubDate>19/05/2026 10:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4C102_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Cbc atingem máximo histórico em 27,82 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/cbc-stock-hits-alltime-high-at-2782-usd-93CH-4698933</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/cbc-stock-hits-alltime-high-at-2782-usd-93CH-4698933</guid>
-      <pubDate>19/05/2026 10:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
