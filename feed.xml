@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 03:17:25 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 03:25:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Golden Prospect Precious Metals transfere gestão de portfólio para Manulife</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/golden-prospect-precious-metals-shifts-portfolio-management-to-manulife-93CH-4697514</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/golden-prospect-precious-metals-shifts-portfolio-management-to-manulife-93CH-4697514</guid>
+      <pubDate>19/05/2026 03:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE StanChart cortará mais de 7.000 empregos à medida que banco intensifica adoção de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-central-bank-saw-space-to-assess-impact-of-gulf-conflict-after-may-rate-hike-4697410</guid>
       <pubDate>18/05/2026 23:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I032_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: OFX Group Q2 2026 destaca desafios estratégicos</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ofx-group-q2-2026-highlights-strategic-challenges-93CH-4697398</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ofx-group-q2-2026-highlights-strategic-challenges-93CH-4697398</guid>
-      <pubDate>18/05/2026 22:50</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
