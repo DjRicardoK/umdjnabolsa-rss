@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 22:50:46 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 23:07:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco central da Austrália viu espaço para avaliar o impacto do conflito do Golfo após aumento das taxas em...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/australia-central-bank-saw-space-to-assess-impact-of-gulf-conflict-after-may-rate-hike-4697410</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/australia-central-bank-saw-space-to-assess-impact-of-gulf-conflict-after-may-rate-hike-4697410</guid>
+      <pubDate>18/05/2026 23:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I032_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: OFX Group Q2 2026 destaca desafios estratégicos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-opened-trading-wild-130003072.html</guid>
       <pubDate>18/05/2026 18:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/68e703c3a7ceec6923cfa4542a9ce88b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Japão e China lideram quedas nas participações estrangeiras de títulos do Tesouro em março, mostram dados</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/japan-china-lead-declines-in-foreign-holdings-of-treasuries-in-march-data-shows-4697073</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/japan-china-lead-declines-in-foreign-holdings-of-treasuries-in-march-data-shows-4697073</guid>
-      <pubDate>18/05/2026 18:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4H1H0_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
