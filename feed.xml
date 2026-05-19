@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 06:06:58 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 06:19:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE YMTC, maior fabricante de chips de memória flash da China, inicia treinamento pré-IPO com banco de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/chinas-top-flash-memory-chipmaker-082808615.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/chinas-top-flash-memory-chipmaker-082808615.html</guid>
+      <pubDate>19/05/2026 06:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/0ec36e9243a98c4f941e1c57c0ddbf63" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O dólar sobe à medida que os investidores avaliam as esperanças de paz no Irã em relação às perspectivas da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/morning-bid-markets-in-uneasy-calm-as-inflation-fears-take-root-4697438</guid>
       <pubDate>19/05/2026 01:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I062_1200_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE É por isso que as empresas de Wall Street estão otimistas em relação às perspectivas de longo prazo da...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-wall-street-firms-optimistic-165433415.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-wall-street-firms-optimistic-165433415.html</guid>
-      <pubDate>19/05/2026 01:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fdba518e13b7e36bacb3be119ff34e47" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
