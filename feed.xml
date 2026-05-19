@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 09:39:49 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:40:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Relmada Therapeutics, primeiro trimestre de 2026, vê queda nas...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-relmada-therapeutics-q1-2026-sees-stock-dip-despite-strong-cash-position-93CH-4698584</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-relmada-therapeutics-q1-2026-sees-stock-dip-despite-strong-cash-position-93CH-4698584</guid>
+      <pubDate>19/05/2026 09:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de tecnologia hoje: Elon Musk perde batalha judicial contra OpenAI, Samsung estende negociações para...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/china-yuchai-subsidiary-launches-equity-incentive-plan-93CH-4697866</guid>
       <pubDate>19/05/2026 07:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE MISO concede projetos de transmissão de US$ 1,66 bilhão no Centro-Oeste ao grupo Ameren-NextEra</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/miso-awards-166-billion-midwest-transmission-projects-to-amerennextera-group-93CH-4697868</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/miso-awards-166-billion-midwest-transmission-projects-to-amerennextera-group-93CH-4697868</guid>
-      <pubDate>19/05/2026 07:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
