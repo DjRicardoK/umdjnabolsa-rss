@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 10:52:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:53:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Ralph Lauren em foco: a elevação da marca pode compensar as tarifas?</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/ralph-lauren-earnings-in-focus-can-brand-elevation-offset-tariffs-93CH-4701612</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/ralph-lauren-earnings-in-focus-can-brand-elevation-offset-tariffs-93CH-4701612</guid>
+      <pubDate>20/05/2026 10:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da TJX no primeiro trimestre do ano fiscal de 2027 superam e aumentam a previsão anual</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/asian-stocks-fall-4th-day-020854458.html</guid>
       <pubDate>20/05/2026 09:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/ef09f263c8693bf75db9b62905aeb00f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O crescimento dos lucros da TJX acelera, ignorando os altos preços do gás. O estoque está subindo perto de...</title>
-      <description></description>
-      <link>https://www.investors.com/news/tjx-earnings-gas-prices-tjx-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/tjx-earnings-gas-prices-tjx-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>20/05/2026 09:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/464200cfe068208bfb04d9e268a42b0b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
