@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 01:31:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 01:32:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da Franklin Wireless perdido em US$ 0,12, receita ficou aquém das estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/franklin-wireless-earnings-missed-by-012-revenue-fell-short-of-estimates-4700183</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/franklin-wireless-earnings-missed-by-012-revenue-fell-short-of-estimates-4700183</guid>
+      <pubDate>20/05/2026 01:31</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O CEO do HSBC diz que a IA destruirá e criará novos empregos e insta os funcionários a abraçarem a mudança</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/navitas-semiconductor-nvts-best-performing-143902706.html</guid>
       <pubDate>19/05/2026 23:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fa57c3492a2096d8f3c4613e1128731f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE CEO da Cerebras alerta que recuperação da fabricação de chips nos EUA pode levar 15 anos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/cerebras-ceo-warns-us-chip-143107707.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/cerebras-ceo-warns-us-chip-143107707.html</guid>
-      <pubDate>19/05/2026 23:18</pubDate>
-      <enclosure url="https://media.zenfs.com/en/benzinga_79/1d17515d15795b1c805970082536000d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
