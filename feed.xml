@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 08:46:33 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:49:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Piper Sandler reitera classificação de ações da Alphabet em lançamentos de produtos de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-alphabet-stock-rating-on-ai-product-launches-93CH-4701132</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/piper-sandler-reiterates-alphabet-stock-rating-on-ai-product-launches-93CH-4701132</guid>
+      <pubDate>20/05/2026 08:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Broadcom (AVGO) é uma das melhores ações de longo prazo dos EUA para comprar agora?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-yields-micron-sandisk-astera-labs-nvidia-earnings/?src=A00220&yptr=yahoo</guid>
       <pubDate>20/05/2026 07:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/56580ff225f79eb575682a8fa1e1c5fc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ‘Estou fora?’ A seca e o aumento dos custos da guerra no Irão agravam a dor dos agricultores dos EUA</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/am-i-out-drought-and-rising-costs-from-iran-war-deepen-pain-for-us-farmers-4700730</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/am-i-out-drought-and-rising-costs-from-iran-war-deepen-pain-for-us-farmers-4700730</guid>
-      <pubDate>20/05/2026 07:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0T7_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
