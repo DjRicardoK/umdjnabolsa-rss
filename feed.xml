@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 04:02:43 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:02:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações e criptomoedas quebram cada vez que um novo presidente do Fed assume o controle. Como preparar seu...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/stocks-crypto-crash-time-fed-192327282.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/stocks-crypto-crash-time-fed-192327282.html</guid>
+      <pubDate>20/05/2026 04:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6c2ef7593e77c54f4c7fbdc2caa81116" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ganhos da Nvidia na quarta-feira: esses ETFs são os que mais dependem de uma ação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/unusual-money-put-options-trades-173001944.html</guid>
       <pubDate>20/05/2026 02:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c67ec0d98ea8187cd2f72312ec448fc6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE 3 ações arrasadas que podem decolar se as taxas de juros caírem este ano</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-stocks-could-172000762.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-stocks-could-172000762.html</guid>
-      <pubDate>20/05/2026 02:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/4fc0a549de59083ee17f3ffeeb967d50" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
