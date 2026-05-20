@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 13:39:45 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 13:50:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warren Buffett tem um recorde de US$ 397 bilhões em dinheiro, enquanto Michael Burry vende a descoberto a IA...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-sits-record-397b-163500220.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-sits-record-397b-163500220.html</guid>
+      <pubDate>20/05/2026 13:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/a8d2a78a8e72089072d1416e452a5045" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Três estoques de petróleo circulam pontos de compra com preços do petróleo em alta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/politics-news/longtime-us-lawmaker-barney-frank-dies-at-86-media-reports-4701654</guid>
       <pubDate>20/05/2026 11:12</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J1BU_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Essas 15 ações do S&amp;P 500 podem ser formas contrárias de enfrentar a recuperação desigual do mercado</title>
-      <description>Estas ações diminuíram este ano, enquanto as estimativas de consenso para os lucros por ação das empresas dispararam.</description>
-      <link>https://www.marketwatch.com/story/these-15-s-p-500-stocks-could-be-contrarian-ways-to-play-the-markets-uneven-rally-0ffb655e?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/these-15-s-p-500-stocks-could-be-contrarian-ways-to-play-the-markets-uneven-rally-0ffb655e?mod=mw_rss_topstories</guid>
-      <pubDate>20/05/2026 11:08</pubDate>
-      <enclosure url="https://images.mktw.net/im-05733223" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
