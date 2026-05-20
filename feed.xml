@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 23:37:39 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:20:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que CoStar (CSGP) está entre as 10 ações do S&amp;P 500 de crescimento mais rápido para comprar agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-costar-csgp-among-10-151726833.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-costar-csgp-among-10-151726833.html</guid>
+      <pubDate>20/05/2026 00:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e13eafb879d337f843e648dbb91ec2ea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer discute Nike (NIKE) e China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-muted-as-iran-impasse-rate-uncertainty-weigh-4700041</guid>
       <pubDate>19/05/2026 21:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB880JW_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A diretora da Dakota Gold, Jennifer Grafton, vende US$ 86.241 em ações ordinárias</title>
-      <description></description>
-      <link>https://www.investing.com/news/insider-trading-news/dakota-gold-director-jennifer-grafton-sells-86241-in-common-stock-93CH-4700042</link>
-      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/dakota-gold-director-jennifer-grafton-sells-86241-in-common-stock-93CH-4700042</guid>
-      <pubDate>19/05/2026 21:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
