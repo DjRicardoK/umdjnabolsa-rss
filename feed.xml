@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 12:21:59 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 12:22:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE É improvável que os próximos ganhos de software reavaliem amplamente as ações de SaaS: MS</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/upcoming-software-earnings-unlikely-to-rerate-saas-stocks-broadly-ms-4701789</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/upcoming-software-earnings-unlikely-to-rerate-saas-stocks-broadly-ms-4701789</guid>
+      <pubDate>20/05/2026 12:22</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED3I0OT_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Marrocos caem no fechamento do pregão; Todas as ações marroquinas caíram 0,78%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bitcoin-struggles-bond-yields-rise-131200806.html</guid>
       <pubDate>20/05/2026 10:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/11bfd83b4d0830ec1426982352c8a292" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs liderará IPO da SpaceX como subscritor líder esquerdo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-lead-spacex-ipo-131239062.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-lead-spacex-ipo-131239062.html</guid>
-      <pubDate>20/05/2026 10:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/48e3fda512670bc34989a666db5b0d53" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
