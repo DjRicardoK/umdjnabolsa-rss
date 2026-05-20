@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 09:54:58 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:56:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall St deve abrir em alta com a alta das ações de chips antes dos resultados da Nvidia</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-chip-stocks-rebound-ahead-of-nvidia-results-4700711</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-chip-stocks-rebound-ahead-of-nvidia-results-4700711</guid>
+      <pubDate>20/05/2026 09:56</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0TH_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow sobe antes da ata do Fed; Nvidia compartilha alta com ganhos devidos (cobertura ao...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-protara-stock-rating-citing-lm-data-93CH-4701071</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-protara-stock-rating-citing-lm-data-93CH-4701071</guid>
       <pubDate>20/05/2026 08:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE HC Wainwright reitera classificação das ações da MindWalk na validação da plataforma</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-mindwalk-stock-rating-on-platform-validation-93CH-4701072</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-mindwalk-stock-rating-on-platform-validation-93CH-4701072</guid>
-      <pubDate>20/05/2026 08:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
