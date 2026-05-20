@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 00:20:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:20:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 3 ações de serviços públicos destruídas: qual é a melhor compra por imersão no momento?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-utility-stocks-152020049.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-utility-stocks-152020049.html</guid>
+      <pubDate>20/05/2026 00:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/8342cc5355b3dd31db8d5559079bf8e9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que CoStar (CSGP) está entre as 10 ações do S&amp;P 500 de crescimento mais rápido para comprar agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/wheat-rallying-back-us-china-122733523.html</guid>
       <pubDate>19/05/2026 21:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/9e21878751ffdf2fdbb0c900adbc763c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do ouro diminuem com impasse no Irã e incerteza nas taxas pesam</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-muted-as-iran-impasse-rate-uncertainty-weigh-4700041</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-muted-as-iran-impasse-rate-uncertainty-weigh-4700041</guid>
-      <pubDate>19/05/2026 21:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB880JW_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
