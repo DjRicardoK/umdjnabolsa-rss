@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 14:53:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 14:57:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: IMPACT Silver Q1 2026 vê ganhos recordes, ações sobem 25%</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-impact-silver-q1-2026-sees-record-gains-stock-surges-25-93CH-4702018</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-impact-silver-q1-2026-sees-record-gains-stock-surges-25-93CH-4702018</guid>
+      <pubDate>20/05/2026 14:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A inteligência artificial deveria reduzir os preços. Em vez disso, a IA está a aumentar a inflação.</title>
       <description>O aumento da inflação nos EUA, que atingiu o máximo em três anos, foi alimentado pelo aumento dos preços do petróleo e pelos efeitos residuais das tarifas Trump. Mas outra coisa...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-204-4701876</guid>
       <pubDate>20/05/2026 13:09</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB5308Q_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE JD Sports concede prémios de bónus diferidos a administradores executivos</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/jd-sports-grants-deferred-bonus-awards-to-executive-directors-93CH-4701878</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/jd-sports-grants-deferred-bonus-awards-to-executive-directors-93CH-4701878</guid>
-      <pubDate>20/05/2026 13:09</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
