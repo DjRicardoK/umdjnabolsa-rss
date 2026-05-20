@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 16:47:43 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 16:48:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (RXT): 8 melhores ações de tecnologia em ascensão para comprar de acordo com fundos de hedge</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/rackspace-technology-inc-rxt-8-105701650.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/rackspace-technology-inc-rxt-8-105701650.html</guid>
+      <pubDate>20/05/2026 16:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/357b8ac780f8ad012988c6b49f572b04" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que Wall Street está cada vez mais cautelosa com a CNH Industrial (CNH)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/billionaire-philippe-laffont-dumped-ai-172600818.html</guid>
       <pubDate>20/05/2026 14:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/3d68d0280b45a6e7074c79d9d007e3ae" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Israel dá passo em direção a eleições antecipadas enquanto o Knesset vota pela dissolução</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/israel-takes-step-toward-snap-election-as-knesset-votes-to-dissolve-4700771</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/israel-takes-step-toward-snap-election-as-knesset-votes-to-dissolve-4700771</guid>
-      <pubDate>20/05/2026 14:36</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0VQ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
