@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 10:23:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:27:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: VF Corporation supera as expectativas do quarto trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-vf-corporation-beats-q4-2026-expectations-with-robust-earnings-93CH-4701536</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-vf-corporation-beats-q4-2026-expectations-with-robust-earnings-93CH-4701536</guid>
+      <pubDate>20/05/2026 10:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bitcoin luta à medida que os rendimentos dos títulos aumentam</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/morgan-stanley-asks-bankers-carry-114351176.html</guid>
       <pubDate>20/05/2026 08:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/223f54b5b36311817b5bab7b008d788e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Intel, Micron e outras ações de semicondutores ampliam a recuperação antes dos lucros da Nvidia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/article/intel-micron-and-other-semiconductor-stocks-extend-bounce-ahead-of-nvidia-earnings-114957534.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/intel-micron-and-other-semiconductor-stocks-extend-bounce-ahead-of-nvidia-earnings-114957534.html</guid>
-      <pubDate>20/05/2026 08:55</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-01/65aa84c0-f888-11f0-bcbd-09390885d9ef" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
