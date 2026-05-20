@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 03:57:02 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 03:57:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Alpha &amp; Omega Semiconductors (AOSL) conclui venda de participações em joint venture com sede na China</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/alpha-omega-semiconductors-aosl-completes-191619240.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alpha-omega-semiconductors-aosl-completes-191619240.html</guid>
+      <pubDate>20/05/2026 03:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2e3ac575ee6ce0c2cfb5dba7aa974042" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Lucros da Birkenstock no segundo trimestre de 2026 perdem tarifas e guerra no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/forget-hyperscalers-stocks-ai-plays-171442551.html</guid>
       <pubDate>20/05/2026 02:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/f0615ed16c797e88b645fded26217146" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Se falassem, o presidente de Taiwan diria a Trump que a China estava a minar a estabilidade</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/if-they-spoke-taiwan-president-would-tell-trump-china-was-undermining-stability-4700191</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/if-they-spoke-taiwan-president-would-tell-trump-china-was-undermining-stability-4700191</guid>
-      <pubDate>20/05/2026 01:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J041_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
