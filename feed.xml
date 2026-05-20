@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 02:36:48 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 02:36:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Chery da China espera entrar no mercado dos EUA em momento ‘adequado’</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/chinas-chery-hopes-to-enter-us-market-at-suitable-time-4700215</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-chery-hopes-to-enter-us-market-at-suitable-time-4700215</guid>
+      <pubDate>20/05/2026 02:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0AR_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As vendas de EV na Europa aumentam à medida que a guerra no Irã aumenta os preços nas bombas de gasolina</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/trump-touts-us-china-relations-163112381.html</guid>
       <pubDate>20/05/2026 01:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/benzinga_79/521bac5fededbbda10ea2184a5f410da" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da State Street Corporation?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-state-161924426.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-state-161924426.html</guid>
-      <pubDate>20/05/2026 01:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c135cd12c73335843d8db2dc55f4186a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
