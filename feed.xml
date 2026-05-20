@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 14:17:02 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 14:19:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Essas duas ações de biotecnologia dispararam – e uma acabou de estourar</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/immunovant-stock-roivant-stock-imvt-1402-rheumatoid-arthritis/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/immunovant-stock-roivant-stock-imvt-1402-rheumatoid-arthritis/?src=A00220&yptr=yahoo</guid>
+      <pubDate>20/05/2026 14:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/1d707901035879e486638e9829ffd0dc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Exclusive-Intuit cortará 17% dos empregos globais para agilizar as operações, mostra o memorando</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/upcoming-software-earnings-unlikely-to-rerate-saas-stocks-broadly-ms-4701789</guid>
       <pubDate>20/05/2026 12:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED3I0OT_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do Marrocos caem no fechamento do pregão; Todas as ações marroquinas caíram 0,78%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-078-4701791</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-078-4701791</guid>
-      <pubDate>20/05/2026 12:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
