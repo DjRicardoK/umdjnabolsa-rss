@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 03:11:12 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 03:11:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pesquisa semanal de credores hipotecários com as melhores taxas: outro movimento acima de 6% APR</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-rates-may-11-170834559.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-rates-may-11-170834559.html</guid>
+      <pubDate>20/05/2026 03:11</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d9cd60-0c3a-11f1-bdff-87ef2d5000ac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Esta empresa apoiada pela Nvidia acaba de entrar em um mercado de IA Agentic de US$ 800 bilhões. Isso torna o...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/singapore-urges-financial-firms-to-use-ai-to-create-better-jobs-4700187</guid>
       <pubDate>20/05/2026 01:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J097_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Oferta matinal: conforme as ações caem, deixa a Nvidia</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/morning-bid-as-stocks-slump-cue-nvidia-4700188</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/morning-bid-as-stocks-slump-cue-nvidia-4700188</guid>
-      <pubDate>20/05/2026 01:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J095_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
