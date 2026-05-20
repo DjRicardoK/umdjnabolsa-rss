@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 07:52:07 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:53:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lance matinal: vigília da Nvidia</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/morning-bid-nvidia-vigil-4700825</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/morning-bid-nvidia-vigil-4700825</guid>
+      <pubDate>20/05/2026 07:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0WH_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os preços do petróleo caem depois que Trump reafirmou que encerraria a guerra no Irã “muito rapidamente”</title>
       <description>Na terça-feira, o Estreito de Ormuz teve “um dos dias mais movimentados desde o encerramento”.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-market-perform-on-cava-stock-after-strong-quarter-93CH-4700641</guid>
       <pubDate>20/05/2026 07:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs mantém classificação de venda no Cricut (CRCT) enquanto aumenta a previsão de preços</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-keeps-sell-rating-234952965.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-keeps-sell-rating-234952965.html</guid>
-      <pubDate>20/05/2026 06:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9783f1820b1ae8f333fdbef4ae5fdbfc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
