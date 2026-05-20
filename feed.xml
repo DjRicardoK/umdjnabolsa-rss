@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 18:09:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:14:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE HSBC Holdings (HSBC) – Entre as 12 principais ações com dividendos subvalorizados para comprar agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-hsbc-among-top-130350933.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-hsbc-among-top-130350933.html</guid>
+      <pubDate>20/05/2026 18:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5264403921c5448cbc021078a807d5aa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Um ‘índice de miséria’ atualizado mostra que o estresse econômico está se aproximando de uma zona de alerta à...</title>
       <description>Um novo indicador da “miséria” das famílias, que inclui taxas hipotecárias, tem caminhado numa direção preocupante, o que pode significar retornos mais fracos para o S&amp;P 500.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-palantir-stock-buy-rating-after-company-visit-93CH-4702144</guid>
       <pubDate>20/05/2026 16:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Agilent Technologies podem subir 5,2% na divulgação de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/agilent-technologies-shares-may-move-52-on-earnings-release-93CH-4702138</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/agilent-technologies-shares-may-move-52-on-earnings-release-93CH-4702138</guid>
-      <pubDate>20/05/2026 16:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
