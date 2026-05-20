@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 15:25:03 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:27:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Synopsys podem subir 7,8% após o próximo relatório de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/synopsys-shares-may-move-78-following-upcoming-earnings-report-93CH-4702064</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/synopsys-shares-may-move-78-following-upcoming-earnings-report-93CH-4702064</guid>
+      <pubDate>20/05/2026 15:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Notícias sobre Bitcoin: êxodo de ETF de US$ 1 bilhão e o que isso significa para BTC USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/euro-zone-bond-yields-retreat-from-multiyear-highs-93CH-4701899</guid>
       <pubDate>20/05/2026 13:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O estoque de cava parece mais picante, mas mal cozido após a queda dos lucros</title>
-      <description></description>
-      <link>https://www.investors.com/news/cava-stock-looks-spicier-but-undercooked-after-earnings-beat/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/cava-stock-looks-spicier-but-undercooked-after-earnings-beat/?src=A00220&yptr=yahoo</guid>
-      <pubDate>20/05/2026 13:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/eeef970c7ce33857411b1c24ebaeccba" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
