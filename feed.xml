@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 17:15:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 17:26:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE 3 ações incríveis de IA que ainda não são tarde demais para comprar agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/3-incredible-ai-stocks-arent-120500079.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-incredible-ai-stocks-arent-120500079.html</guid>
+      <pubDate>20/05/2026 17:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/5fddf8ee222639ce925724e4a72f9a77" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Previsão: a Microsoft acaba de se tornar um dos melhores valores da Big Tech</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/synopsys-shares-may-move-78-following-upcoming-earnings-report-93CH-4702064</guid>
       <pubDate>20/05/2026 15:27</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Notícias sobre Bitcoin: êxodo de ETF de US$ 1 bilhão e o que isso significa para BTC USD</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-1bn-etf-exodus-093120415.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-1bn-etf-exodus-093120415.html</guid>
-      <pubDate>20/05/2026 15:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/99bitcoins_us_315/670e53060d8c1fcc78028ff74b068c3d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
