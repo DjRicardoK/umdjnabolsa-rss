@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 18:54:21 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:58:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ClearSign Q1 2026 revela queda de receita e inovação tecnológica</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-clearsign-q1-2026-reveals-revenue-drop-tech-innovation-93CH-4702668</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-clearsign-q1-2026-reveals-revenue-drop-tech-innovation-93CH-4702668</guid>
+      <pubDate>20/05/2026 18:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os investidores estão migrando para uma plataforma de criptografia offshore para uma chance antecipada de...</title>
       <description>Um mercado offshore em rápido crescimento está a dar aos investidores de todo o mundo a oportunidade de negociar o que se espera que seja o maior IPO da história antes mesmo de...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-ptc-inc-114326018.html</guid>
       <pubDate>20/05/2026 17:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/f49a63f49568822d53f32fe310f30e89" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Oshkosh Corporation (OSK) está entre os melhores estoques de equipamentos pesados ​​para comprar à medida...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/oshkosh-corporation-osk-among-best-105556194.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/oshkosh-corporation-osk-among-best-105556194.html</guid>
-      <pubDate>20/05/2026 16:54</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fa2f8b8ef82dd595bd033f1190a0613c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
