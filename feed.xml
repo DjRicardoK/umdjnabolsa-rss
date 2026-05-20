@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 07:39:28 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:39:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: A receita da Infleqtion no primeiro trimestre de 2026 cresce...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-infleqtions-q1-2026-revenue-grows-14-yoy-93CH-4700810</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-infleqtions-q1-2026-revenue-grows-14-yoy-93CH-4700810</guid>
+      <pubDate>20/05/2026 07:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações a serem observadas: Nvidia, AMC, Target</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-siemens-ag-q2-2026-shows-resilience-amid-challenges-93CH-4700566</guid>
       <pubDate>20/05/2026 06:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Barclays diz que a força dos lucros protege as ações europeias do aumento dos rendimentos dos títulos</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/barclays-says-earnings-strength-shields-european-equities-from-rising-bond-yields-93CH-4700526</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/barclays-says-earnings-strength-shields-european-equities-from-rising-bond-yields-93CH-4700526</guid>
-      <pubDate>20/05/2026 06:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC1H0SM_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
