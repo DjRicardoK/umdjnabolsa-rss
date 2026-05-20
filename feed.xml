@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 02:28:28 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 02:36:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As vendas de EV na Europa aumentam à medida que a guerra no Irã aumenta os preços nas bombas de gasolina</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/europe-ev-sales-leap-as-iran-war-pushes-up-petrol-pump-prices-4700210</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/europe-ev-sales-leap-as-iran-war-pushes-up-petrol-pump-prices-4700210</guid>
+      <pubDate>20/05/2026 02:36</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0A5_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE CEO da Ryanair adverte que as companhias aéreas &apos;excêntricas&apos; da Europa podem não sobreviver se o petróleo...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-state-161924426.html</guid>
       <pubDate>20/05/2026 01:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c135cd12c73335843d8db2dc55f4186a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE China diz que comprará 200 jatos Boeing e buscará extensão da trégua tarifária dos EUA</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/china-says-it-will-buy-200-boeing-jets-seek-extension-of-us-tariff-truce-4700174</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/china-says-it-will-buy-200-boeing-jets-seek-extension-of-us-tariff-truce-4700174</guid>
-      <pubDate>20/05/2026 00:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J07G_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
