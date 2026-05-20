@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 02:38:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 02:49:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam de ações residenciais?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-equity-residential-180625680.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-equity-residential-180625680.html</guid>
+      <pubDate>20/05/2026 02:49</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/58a9734a0f6a16b6ede43a292b8bab2d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs dispensa Solana, XRP por novo investimento surpreendente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/indian-rupee-hits-record-low-usdinr-nears-97-amid-oil-price-shock-4700185</guid>
       <pubDate>20/05/2026 01:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF15059_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de segurança cibernética: Rosenblatt aumenta CrowdStrike, metas de preços em Palo Alto</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/rosenblatt-cybersecurity-stocks-crowdstrike-stock-palo-alto-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/rosenblatt-cybersecurity-stocks-crowdstrike-stock-palo-alto-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>20/05/2026 01:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/862e5af058ede897df7578d204b599c7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
