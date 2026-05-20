@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 11:08:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 11:13:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Barney Frank, arquiteto das reformas históricas de Wall Street, morre aos 86 anos</title>
+      <description></description>
+      <link>https://www.investing.com/news/politics-news/longtime-us-lawmaker-barney-frank-dies-at-86-media-reports-4701654</link>
+      <guid isPermaLink="false">https://www.investing.com/news/politics-news/longtime-us-lawmaker-barney-frank-dies-at-86-media-reports-4701654</guid>
+      <pubDate>20/05/2026 11:12</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J1BU_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Essas 15 ações do S&amp;P 500 podem ser formas contrárias de enfrentar a recuperação desigual do mercado</title>
       <description>Estas ações diminuíram este ano, enquanto as estimativas de consenso para os lucros por ação das empresas dispararam.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/drives-southwest-airlines-co-luv-125420575.html</guid>
       <pubDate>20/05/2026 09:58</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/80cd7408a8705abb9c65ce221ebd517c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wall St deve abrir em alta com a alta das ações de chips antes dos resultados da Nvidia</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-chip-stocks-rebound-ahead-of-nvidia-results-4700711</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-chip-stocks-rebound-ahead-of-nvidia-results-4700711</guid>
-      <pubDate>20/05/2026 09:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0TH_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
