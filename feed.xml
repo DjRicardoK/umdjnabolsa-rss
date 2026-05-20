@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 16:49:42 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 16:54:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de Diploma sobem após aumento de orientação, ganhos mais elevados</title>
+      <description></description>
+      <link>https://www.wsj.com/business/diploma-shares-climb-after-guidance-lift-higher-earnings-8834a838?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.wsj.com/business/diploma-shares-climb-after-guidance-lift-higher-earnings-8834a838?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>20/05/2026 16:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/wsj.com/5b67e0417b7fe19412ef0087c28dad50" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ata do Fed mostra que mais legisladores estão abertos a um aumento das taxas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-impact-silver-q1-2026-sees-record-gains-stock-surges-25-93CH-4702018</guid>
       <pubDate>20/05/2026 14:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inteligência artificial deveria reduzir os preços. Em vez disso, a IA está a aumentar a inflação.</title>
-      <description>O aumento da inflação nos EUA, que atingiu o máximo em três anos, foi alimentado pelo aumento dos preços do petróleo e pelos efeitos residuais das tarifas Trump. Mas outra coisa...</description>
-      <link>https://www.marketwatch.com/story/artificial-intelligence-was-supposed-to-reduce-prices-instead-ai-is-boosting-inflation-d7dbec01?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/artificial-intelligence-was-supposed-to-reduce-prices-instead-ai-is-boosting-inflation-d7dbec01?mod=mw_rss_topstories</guid>
-      <pubDate>20/05/2026 14:53</pubDate>
-      <enclosure url="https://images.mktw.net/im-52810452" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
