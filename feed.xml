@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 06:48:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:58:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: WidePoint Q1 2026 supera previsão de EPS, ações saltam</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-widepoint-q1-2026-beats-eps-forecast-stock-jumps-93CH-4700605</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-widepoint-q1-2026-beats-eps-forecast-stock-jumps-93CH-4700605</guid>
+      <pubDate>20/05/2026 06:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Denunciante da OpenAI troca Nvidia e AMD por mineradores de criptografia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/netflix-inc-nflx-one-best-202704568.html</guid>
       <pubDate>20/05/2026 05:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/88f0b9268d79ea25d1c59e888dd4a14f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Unusual Machines Q1 2026 perde previsão de EPS</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-unusual-machines-q1-2026-misses-eps-forecast-93CH-4700358</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-unusual-machines-q1-2026-misses-eps-forecast-93CH-4700358</guid>
-      <pubDate>20/05/2026 05:08</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
