@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 12:07:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 12:21:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações do Marrocos caem no fechamento do pregão; Todas as ações marroquinas caíram 0,78%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-078-4701791</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-078-4701791</guid>
+      <pubDate>20/05/2026 12:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump diz que negociações com o Irã estão em fase final e alerta sobre ataques se acordo falhar</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-lead-spacex-ipo-131239062.html</guid>
       <pubDate>20/05/2026 10:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/quartz_855/48e3fda512670bc34989a666db5b0d53" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bilionários estão abandonando a Nvidia e comprando esse estoque imparável de IA por menos de US$ 10</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/billionaires-dumping-nvidia-buying-unstoppable-130541195.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/billionaires-dumping-nvidia-buying-unstoppable-130541195.html</guid>
-      <pubDate>20/05/2026 10:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/646b5ef75b44a78e8f0b88a307e6e28b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
