@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 10:06:15 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:13:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos da Hasbro no primeiro trimestre de 2026 superaram a força de Magic: The Gathering</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/hasbro-q1-2026-earnings-beat-130150672.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hasbro-q1-2026-earnings-beat-130150672.html</guid>
+      <pubDate>20/05/2026 10:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/quartz_855/4ec437b1b6d20d246ea2b7121ef215bf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Existe um ETF de títulos que redefine seu rendimento de acordo com a inflação a cada seis meses. Quase nenhum...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-among-11-113207795.html</guid>
       <pubDate>20/05/2026 08:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8cc88197ed3c9b8a46410b5143c3d253" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Morgan Stanley dá aos banqueiros de Hong Kong dispositivos restritos para viagens à China</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-gives-hong-kong-113847439.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-gives-hong-kong-113847439.html</guid>
-      <pubDate>20/05/2026 08:46</pubDate>
-      <enclosure url="https://media.zenfs.com/en/private_banker_international_938/c6052c81f4e62ca260d4571e00a8247c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
