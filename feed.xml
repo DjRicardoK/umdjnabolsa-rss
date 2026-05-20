@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 15:06:24 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:25:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Notícias sobre Bitcoin: êxodo de ETF de US$ 1 bilhão e o que isso significa para BTC USD</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-1bn-etf-exodus-093120415.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-1bn-etf-exodus-093120415.html</guid>
+      <pubDate>20/05/2026 15:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/99bitcoins_us_315/670e53060d8c1fcc78028ff74b068c3d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Standard Chartered culpa IA por cortar milhares de empregos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/cava-stock-looks-spicier-but-undercooked-after-earnings-beat/?src=A00220&yptr=yahoo</guid>
       <pubDate>20/05/2026 13:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/eeef970c7ce33857411b1c24ebaeccba" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que Wall Street tem sede de ações de Coca-Cola – além de apenas um novo CEO</title>
-      <description></description>
-      <link>https://www.investors.com/research/breakout-stocks-technical-analysis/coke-stock-coca-cola-co-ceo-henrique-braun/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/breakout-stocks-technical-analysis/coke-stock-coca-cola-co-ceo-henrique-braun/?src=A00220&yptr=yahoo</guid>
-      <pubDate>20/05/2026 13:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/78025049d72c6518870d0334453bc992" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
