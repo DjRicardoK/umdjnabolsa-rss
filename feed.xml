@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 09:06:18 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:11:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mark Zandi alerta que a América está “perto do limite”, com 40% de risco de recessão – e diz que as ações dos...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/mark-zandi-warns-america-close-120000600.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/mark-zandi-warns-america-close-120000600.html</guid>
+      <pubDate>20/05/2026 09:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/023e166755018604f29a1abb14876aea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A China ainda é o principal parceiro comercial da Alemanha no primeiro trimestre, com os EUA logo atrás</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/orman-says-panic-selling-stocks-110000473.html</guid>
       <pubDate>20/05/2026 08:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/53b4a2f0c68a7648100c1475408a666c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: BioStem perde lucros do primeiro trimestre de 2026, ações caem</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-biostem-misses-q1-2026-earnings-stock-falls-93CH-4700824</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-biostem-misses-q1-2026-earnings-stock-falls-93CH-4700824</guid>
-      <pubDate>20/05/2026 07:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
