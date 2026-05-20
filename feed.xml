@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 09:59:02 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:06:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Existe um ETF de títulos que redefine seu rendimento de acordo com a inflação a cada seis meses. Quase nenhum...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/bond-etf-resets-income-inflation-125442311.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/bond-etf-resets-income-inflation-125442311.html</guid>
+      <pubDate>20/05/2026 10:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/6bc592c7933b40c4397c0482400b38fd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que impulsiona o aumento dos ganhos e do ROC da Southwest Airlines Co. (LUV)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-gives-hong-kong-113847439.html</guid>
       <pubDate>20/05/2026 08:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/private_banker_international_938/c6052c81f4e62ca260d4571e00a8247c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE HC Wainwright reitera compra de ações da Alpha Tau, meta de US$ 15</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-alpha-tau-stock-15-target-93CH-4701070</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-alpha-tau-stock-15-target-93CH-4701070</guid>
-      <pubDate>20/05/2026 08:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
