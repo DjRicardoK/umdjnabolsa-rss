@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 04:40:22 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:54:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (LYV): uma das melhores ações para comprar, de acordo com Mark Cuban?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/live-nation-entertainment-inc-lyv-202919041.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/live-nation-entertainment-inc-lyv-202919041.html</guid>
+      <pubDate>20/05/2026 04:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/61b9e546cc9d171d39ac8ab75ef7395c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações a serem observadas: Dominion, NextEra, UnitedHealth</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-126-4700256</guid>
       <pubDate>20/05/2026 03:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB44005_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os investidores em ações da Nvidia acabaram de receber (mais) notícias fantásticas de Wall Street</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-investors-just-got-183633411.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-investors-just-got-183633411.html</guid>
-      <pubDate>20/05/2026 03:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/0cf6ef8d8491a7f679b19b0883415776" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
