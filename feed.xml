@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 18:15:57 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 18:29:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mantenha esses três estoques de pipeline de alto rendimento para sempre e deixe a receita crescer</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/hold-3-high-yield-pipeline-132000185.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/hold-3-high-yield-pipeline-132000185.html</guid>
+      <pubDate>20/05/2026 18:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/bf345cbf0b178ff62654af4638c73a50" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cerebras acaba de subir para a Nasdaq. O maior IPO de 2026 não é uma compra aqui.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/rackspace-technology-inc-rxt-8-105701650.html</guid>
       <pubDate>20/05/2026 16:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/357b8ac780f8ad012988c6b49f572b04" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que Wall Street está cada vez mais cautelosa com a CNH Industrial (CNH)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-wall-street-growing-more-105438454.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-wall-street-growing-more-105438454.html</guid>
-      <pubDate>20/05/2026 16:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8af29004933e5e9f66613b74a1df5935" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
