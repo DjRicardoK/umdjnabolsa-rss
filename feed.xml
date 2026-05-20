@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 13:09:17 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 13:09:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Espanha sobem no fechamento do pregão; IBEX 35 sobe 2,04%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-204-4701876</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-204-4701876</guid>
+      <pubDate>20/05/2026 13:09</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB5308Q_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE JD Sports concede prémios de bónus diferidos a administradores executivos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q1-2027-earnings/?src=A00220&yptr=yahoo</guid>
       <pubDate>20/05/2026 10:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/9e49eeec4e1d906e892574096ad4afcb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Roivant Sciences atingem o máximo histórico de 30,35 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/roivant-sciences-stock-hits-alltime-high-of-3035-usd-93CH-4701554</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/roivant-sciences-stock-hits-alltime-high-of-3035-usd-93CH-4701554</guid>
-      <pubDate>20/05/2026 10:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
