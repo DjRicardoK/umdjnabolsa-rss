@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 09:11:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:12:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Costco (COST) – Entre as 10 melhores ações de baixo risco de longo prazo para comprar de acordo com fundos de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/costco-cost-among-10-best-115857023.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/costco-cost-among-10-best-115857023.html</guid>
+      <pubDate>20/05/2026 09:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/75395fad650728e1cf54760e0e14c127" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mark Zandi alerta que a América está “perto do limite”, com 40% de risco de recessão – e diz que as ações dos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/even-better-than-tech-a-scramble-into-this-sector-is-coming-warns-veteran-wealth-manager-e6594815?mod=mw_rss_topstories</guid>
       <pubDate>20/05/2026 08:04</pubDate>
       <enclosure url="https://images.mktw.net/im-67862733" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Orman diz que vender ações em pânico agora, quando os preços do petróleo subiram mais de 50%, seria o maior...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/orman-says-panic-selling-stocks-110000473.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/orman-says-panic-selling-stocks-110000473.html</guid>
-      <pubDate>20/05/2026 08:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/53b4a2f0c68a7648100c1475408a666c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
