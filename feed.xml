@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 01:15:02 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 01:19:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de segurança cibernética: Rosenblatt aumenta CrowdStrike, metas de preços em Palo Alto</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/rosenblatt-cybersecurity-stocks-crowdstrike-stock-palo-alto-stock/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/rosenblatt-cybersecurity-stocks-crowdstrike-stock-palo-alto-stock/?src=A00220&yptr=yahoo</guid>
+      <pubDate>20/05/2026 01:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/862e5af058ede897df7578d204b599c7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Trump elogia as relações EUA-China, mas este senador diz que a China “nunca cumpriu um contrato” – e os...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/james-hardie-industries-adr-earnings-matched-revenue-fell-short-of-estimates-4700140</guid>
       <pubDate>19/05/2026 23:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Allstate Corporation?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-134300035.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-134300035.html</guid>
-      <pubDate>19/05/2026 22:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/72ef4f867543b46478b8809d96bb0121" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
