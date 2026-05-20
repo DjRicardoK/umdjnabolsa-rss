@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 03:11:19 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 03:12:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os investidores em ações da Nvidia acabaram de receber (mais) notícias fantásticas de Wall Street</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-investors-just-got-183633411.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-investors-just-got-183633411.html</guid>
+      <pubDate>20/05/2026 03:12</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/0cf6ef8d8491a7f679b19b0883415776" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Pesquisa semanal de credores hipotecários com as melhores taxas: outro movimento acima de 6% APR</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/goldman-exits-xrp-solana-etf-170900164.html</guid>
       <pubDate>20/05/2026 01:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/47971eceee85dd4ba01e4813b622d32a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Singapura incentiva empresas financeiras a usar IA para criar melhores empregos</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/singapore-urges-financial-firms-to-use-ai-to-create-better-jobs-4700187</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/singapore-urges-financial-firms-to-use-ai-to-create-better-jobs-4700187</guid>
-      <pubDate>20/05/2026 01:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J097_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
