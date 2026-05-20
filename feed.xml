@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 12:36:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 12:54:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon.com rejeita recurso alegando que ajudou na evasão tarifária</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/amazon-com-defeats-appeal-claiming-153200477.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/amazon-com-defeats-appeal-claiming-153200477.html</guid>
+      <pubDate>20/05/2026 12:54</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/a4287681fe59e0204f714015709c659b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas de juros de hipotecas e refinanciamentos hoje, 20 de maio de 2026: taxas fixas de 30 anos atingem a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/prospect-capital-corporation-stock-hits-52week-low-at-214-usd-93CH-4701557</guid>
       <pubDate>20/05/2026 10:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE “As pessoas ainda querem se entregar” – Annette Zeipel, CEO do Toms Group, pesquisa a onda GLP-1 enquanto a...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/people-still-want-indulge-toms-132609671.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/people-still-want-indulge-toms-132609671.html</guid>
-      <pubDate>20/05/2026 10:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/just_food_692/511535b7c3d4b5097d7a6618601b204d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
