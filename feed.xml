@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 06:11:31 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:18:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: British Land relata sólido desempenho no segundo trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-british-land-reports-solid-q2-2026-performance-93CH-4700483</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-british-land-reports-solid-q2-2026-performance-93CH-4700483</guid>
+      <pubDate>20/05/2026 06:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Elia reitera orientação para 2026, ações sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/indeed-recruit-holdings-stock-ai-jobs-labor-market/?src=A00220&yptr=yahoo</guid>
       <pubDate>20/05/2026 04:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/314d1a15826995d930aac425780a43cf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE FTSE 100 hoje: as ações caem à medida que os rendimentos aumentam, as tensões no Irã persistem</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-as-yields-surge-iran-tensions-linger-4700308</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-as-yields-surge-iran-tensions-linger-4700308</guid>
-      <pubDate>20/05/2026 04:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
