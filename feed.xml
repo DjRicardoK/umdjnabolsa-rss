@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 13:58:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 14:04:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Evogene Ltd.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/evogene-ltd-q1-2026-earnings-164326767.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/evogene-ltd-q1-2026-earnings-164326767.html</guid>
+      <pubDate>20/05/2026 14:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/e425684c84aaf091f53d770c7f203ecd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Neurocrine Biosciences atinge novos máximos com aumento de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/how-soaring-30-year-treasury-yields-could-impact-your-finances-141336810.html</guid>
       <pubDate>20/05/2026 12:06</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/J7g6nsg9xrtftftFe56BUg--~B/aD0zMDg2O3c9NDYyOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/303e8e43-ca86-49bf-8914-5d5879561e02" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ganhos da Ondas no primeiro trimestre de 2026 disparam, ações...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ondas-q1-2026-earnings-soar-stock-jumps-93CH-4701732</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ondas-q1-2026-earnings-soar-stock-jumps-93CH-4701732</guid>
-      <pubDate>20/05/2026 11:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
