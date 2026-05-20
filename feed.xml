@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 08:40:14 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:46:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Morgan Stanley dá aos banqueiros de Hong Kong dispositivos restritos para viagens à China</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-gives-hong-kong-113847439.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-gives-hong-kong-113847439.html</guid>
+      <pubDate>20/05/2026 08:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/private_banker_international_938/c6052c81f4e62ca260d4571e00a8247c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE HC Wainwright reitera compra de ações da Alpha Tau, meta de US$ 15</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/stocks-to-watch-nvidia-amc-target-cTPX1NQTKQ7y3B6ZgLyk?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>20/05/2026 07:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE CEO-alvo sobre a explosão de lucros: vimos uma força ampla nos consumidores</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/article/target-ceo-on-earnings-blowout-we-saw-broad-based-strength-in-consumers-103000136.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/target-ceo-on-earnings-blowout-we-saw-broad-based-strength-in-consumers-103000136.html</guid>
-      <pubDate>20/05/2026 07:39</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/3j2U9KHT_P24Te_TJiLMXw--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/0815daf7-5e2d-4373-9a60-b7b68ad24d41" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
