@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 03:12:34 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 03:38:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Austrália caem no fechamento do pregão; S&amp;P/ASX 200 caiu 1,26%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-126-4700256</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-126-4700256</guid>
+      <pubDate>20/05/2026 03:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB44005_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os investidores em ações da Nvidia acabaram de receber (mais) notícias fantásticas de Wall Street</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/xi-putin-to-meet-in-beijing-for-tea-diplomacy-after-trump-visit-4699947</guid>
       <pubDate>20/05/2026 01:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I1O1_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman sai das posições de ETF XRP e Solana à medida que surge a exposição hiperlíquida</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/goldman-exits-xrp-solana-etf-170900164.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/goldman-exits-xrp-solana-etf-170900164.html</guid>
-      <pubDate>20/05/2026 01:51</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/47971eceee85dd4ba01e4813b622d32a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
