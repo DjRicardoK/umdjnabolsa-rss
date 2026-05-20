@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 08:06:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 08:07:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os resultados do primeiro trimestre de 2026 do Data I/O mostram...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-data-ios-q1-2026-results-show-strategic-shifts-amid-earnings-miss-93CH-4700870</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-data-ios-q1-2026-results-show-strategic-shifts-amid-earnings-miss-93CH-4700870</guid>
+      <pubDate>20/05/2026 08:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE KeyBanc reitera classificação das ações da Dutch Bros após visita à sede</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-100500693.html</guid>
       <pubDate>20/05/2026 07:12</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/38d1259a73d0d9429387929ed9a4b06c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500, futuros do Nasdaq sobem na contagem regressiva para os ganhos da Nvidia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-in-countdown-to-nvidia-earnings-222757872.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-in-countdown-to-nvidia-earnings-222757872.html</guid>
-      <pubDate>20/05/2026 07:09</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-02/58db1300-e898-11ef-a8bf-1f03f044a9aa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
