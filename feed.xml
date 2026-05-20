@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 11:42:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 12:06:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Como o aumento dos rendimentos do Tesouro de 30 anos pode impactar suas finanças</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/investing/article/how-soaring-30-year-treasury-yields-could-impact-your-finances-141336810.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/investing/article/how-soaring-30-year-treasury-yields-could-impact-your-finances-141336810.html</guid>
+      <pubDate>20/05/2026 12:06</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/J7g6nsg9xrtftftFe56BUg--~B/aD0zMDg2O3c9NDYyOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/303e8e43-ca86-49bf-8914-5d5879561e02" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ganhos da Ondas no primeiro trimestre de 2026 disparam, ações...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hasbro-q1-2026-earnings-beat-130150672.html</guid>
       <pubDate>20/05/2026 10:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/quartz_855/4ec437b1b6d20d246ea2b7121ef215bf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Existe um ETF de títulos que redefine seu rendimento de acordo com a inflação a cada seis meses. Quase nenhum...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/options/articles/bond-etf-resets-income-inflation-125442311.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/bond-etf-resets-income-inflation-125442311.html</guid>
-      <pubDate>20/05/2026 10:06</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/6bc592c7933b40c4397c0482400b38fd" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
