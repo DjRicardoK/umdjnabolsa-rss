@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 14:04:54 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 14:17:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Exclusive-Intuit cortará 17% dos empregos globais para agilizar as operações, mostra o memorando</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/exclusiveintuit-to-cut-17-of-global-jobs-to-streamline-operations-memo-shows-4701442</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusiveintuit-to-cut-17-of-global-jobs-to-streamline-operations-memo-shows-4701442</guid>
+      <pubDate>20/05/2026 14:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J17T_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da Arcos Dorados Holdings Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-078-4701791</guid>
       <pubDate>20/05/2026 12:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trump diz que negociações com o Irã estão em fase final e alerta sobre ataques se acordo falhar</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/tankers-exit-hormuz-as-trump-vance-talk-up-iran-deal-prospects-4700173</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/tankers-exit-hormuz-as-trump-vance-talk-up-iran-deal-prospects-4700173</guid>
-      <pubDate>20/05/2026 12:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J07D_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
