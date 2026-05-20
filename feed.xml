@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 12:54:49 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 13:03:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Estoques de equipamentos semicondutores impulsionando o boom de fabricação de chips de IA: gravação</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/semiconductor-equipment-stocks-powering-ai-155500882.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/semiconductor-equipment-stocks-powering-ai-155500882.html</guid>
+      <pubDate>20/05/2026 13:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/92fab0789617a5a79fe1369db84ef6bf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Amazon.com rejeita recurso alegando que ajudou na evasão tarifária</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/company-news/immunovant-stock-hits-52week-high-at-3027-usd-93CH-4701555</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/immunovant-stock-hits-52week-high-at-3027-usd-93CH-4701555</guid>
-      <pubDate>20/05/2026 10:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Prospect Capital Corporation atingem o mínimo de 52 semanas a 2,14 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/prospect-capital-corporation-stock-hits-52week-low-at-214-usd-93CH-4701557</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/prospect-capital-corporation-stock-hits-52week-low-at-214-usd-93CH-4701557</guid>
       <pubDate>20/05/2026 10:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
