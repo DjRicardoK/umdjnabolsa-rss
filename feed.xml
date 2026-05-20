@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 21:46:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 21:52:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do primeiro trimestre de 2026 da Beam Global (BEEM)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/beam-global-beem-q1-2026-125658248.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/beam-global-beem-q1-2026-125658248.html</guid>
+      <pubDate>19/05/2026 21:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A compra da Microsoft de Bill Ackman acabou de contar a todos a verdadeira história sobre o risco geopolítico...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-falls-crude-prices-slide-143427915.html</guid>
       <pubDate>19/05/2026 19:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/67b7103c6dca24a2cefa9c0b1e9a88a1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Hormel Foods: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/hormel-foods-stock-wall-street-143129450.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hormel-foods-stock-wall-street-143129450.html</guid>
-      <pubDate>19/05/2026 19:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/345c520a74ac181779aad01a07f51cd2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
