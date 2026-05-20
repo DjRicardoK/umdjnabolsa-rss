@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 11:13:00 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 11:42:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ganhos da Ondas no primeiro trimestre de 2026 disparam, ações...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ondas-q1-2026-earnings-soar-stock-jumps-93CH-4701732</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ondas-q1-2026-earnings-soar-stock-jumps-93CH-4701732</guid>
+      <pubDate>20/05/2026 11:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Barney Frank, arquiteto das reformas históricas de Wall Street, morre aos 86 anos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/bond-etf-resets-income-inflation-125442311.html</guid>
       <pubDate>20/05/2026 10:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/6bc592c7933b40c4397c0482400b38fd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Aqui está o que impulsiona o aumento dos ganhos e do ROC da Southwest Airlines Co. (LUV)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/drives-southwest-airlines-co-luv-125420575.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/drives-southwest-airlines-co-luv-125420575.html</guid>
-      <pubDate>20/05/2026 09:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/80cd7408a8705abb9c65ce221ebd517c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
