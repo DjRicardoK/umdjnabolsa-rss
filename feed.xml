@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 09:35:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:45:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os rendimentos dos títulos param perto dos máximos recentes, ações estáveis ​​antes dos resultados da Nvidia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/asian-stocks-fall-4th-day-020854458.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/asian-stocks-fall-4th-day-020854458.html</guid>
+      <pubDate>20/05/2026 09:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/ef09f263c8693bf75db9b62905aeb00f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O crescimento dos lucros da TJX acelera, ignorando os altos preços do gás. O estoque está subindo perto de...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-traws-pharma-stock-8-target-93CH-4701073</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-buy-on-traws-pharma-stock-8-target-93CH-4701073</guid>
       <pubDate>20/05/2026 08:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Guggenheim reitera classificação de compra das ações da Okta antes dos lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-buy-rating-on-okta-stock-ahead-of-earnings-93CH-4701034</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-buy-rating-on-okta-stock-ahead-of-earnings-93CH-4701034</guid>
-      <pubDate>20/05/2026 08:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
