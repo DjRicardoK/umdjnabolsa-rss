@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 06:59:25 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:59:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs mantém classificação de venda no Cricut (CRCT) enquanto aumenta a previsão de preços</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-keeps-sell-rating-234952965.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-keeps-sell-rating-234952965.html</guid>
+      <pubDate>20/05/2026 06:59</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9783f1820b1ae8f333fdbef4ae5fdbfc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE UPS poderia prosperar em um mundo pós-Amazônia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-05-18-2026-f8053b68?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>20/05/2026 05:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/198808abe7fbabb0831c6447b8a6585e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As vendas externas de ações asiáticas aumentam à medida que os rendimentos dos títulos sobem</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/foreign-selling-in-asian-equities-risesas-bond-yields-climb-4700367</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/foreign-selling-in-asian-equities-risesas-bond-yields-climb-4700367</guid>
-      <pubDate>20/05/2026 05:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0KE_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
