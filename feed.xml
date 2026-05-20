@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 04:20:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:21:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações sobem com renovadas negociações de paz EUA-Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-trump-stands-down-iran-strike-4697564</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-trump-stands-down-iran-strike-4697564</guid>
+      <pubDate>20/05/2026 04:21</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE TD Cowen mantém uma classificação de compra na Microsoft Corporation (MSFT)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-equity-residential-180625680.html</guid>
       <pubDate>20/05/2026 02:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/58a9734a0f6a16b6ede43a292b8bab2d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs dispensa Solana, XRP por novo investimento surpreendente</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-dumps-solana-xrp-175000252.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-dumps-solana-xrp-175000252.html</guid>
-      <pubDate>20/05/2026 02:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/295140dd20bc24a2cdca316e31b27c8d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
