@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 12:06:23 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 12:07:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump diz que negociações com o Irã estão em fase final e alerta sobre ataques se acordo falhar</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/tankers-exit-hormuz-as-trump-vance-talk-up-iran-deal-prospects-4700173</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/tankers-exit-hormuz-as-trump-vance-talk-up-iran-deal-prospects-4700173</guid>
+      <pubDate>20/05/2026 12:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J07D_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Como o aumento dos rendimentos do Tesouro de 30 anos pode impactar suas finanças</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/billionaires-dumping-nvidia-buying-unstoppable-130541195.html</guid>
       <pubDate>20/05/2026 10:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/646b5ef75b44a78e8f0b88a307e6e28b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos da Hasbro no primeiro trimestre de 2026 superaram a força de Magic: The Gathering</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/hasbro-q1-2026-earnings-beat-130150672.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hasbro-q1-2026-earnings-beat-130150672.html</guid>
-      <pubDate>20/05/2026 10:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/4ec437b1b6d20d246ea2b7121ef215bf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
