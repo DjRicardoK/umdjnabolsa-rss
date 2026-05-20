@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 09:19:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:28:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Deutsche Bank melhora rating das ações da Centene na recuperação de lucros</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/deutsche-bank-upgrades-centene-stock-rating-on-earnings-recovery-93CH-4701269</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/deutsche-bank-upgrades-centene-stock-rating-on-earnings-recovery-93CH-4701269</guid>
+      <pubDate>20/05/2026 09:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da EuroDry perdido em US$ 0,30, receita ficou aquém das estimativas</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-data-ios-q1-2026-results-show-strategic-shifts-amid-earnings-miss-93CH-4700870</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-data-ios-q1-2026-results-show-strategic-shifts-amid-earnings-miss-93CH-4700870</guid>
       <pubDate>20/05/2026 08:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE KeyBanc reitera classificação das ações da Dutch Bros após visita à sede</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/keybanc-reiterates-dutch-bros-stock-rating-after-hq-visit-93CH-4700918</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/keybanc-reiterates-dutch-bros-stock-rating-after-hq-visit-93CH-4700918</guid>
-      <pubDate>20/05/2026 08:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
