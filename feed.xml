@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 10:27:41 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:32:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que a Boeing tem mais a perder se a Tesla e a SpaceX se combinarem</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-boeing-most-lose-tesla-132057772.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-boeing-most-lose-tesla-132057772.html</guid>
+      <pubDate>20/05/2026 10:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/da236310c8996a2ee240f11767dcac81" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: VF Corporation supera as expectativas do quarto trimestre de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morgan-stanley-asks-bankers-to-carry-a-separate-phone-for-china-trips-source-says-4701136</guid>
       <pubDate>20/05/2026 09:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J118_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Morgan Stanley pede aos banqueiros que levem um telefone separado para viagens à China, diz fonte</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/morgan-stanley-asks-bankers-carry-114351176.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/morgan-stanley-asks-bankers-carry-114351176.html</guid>
-      <pubDate>20/05/2026 08:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/223f54b5b36311817b5bab7b008d788e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
