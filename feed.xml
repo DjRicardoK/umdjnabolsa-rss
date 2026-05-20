@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 10:32:40 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:35:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE “As pessoas ainda querem se entregar” – Annette Zeipel, CEO do Toms Group, pesquisa a onda GLP-1 enquanto a...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/people-still-want-indulge-toms-132609671.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/people-still-want-indulge-toms-132609671.html</guid>
+      <pubDate>20/05/2026 10:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/just_food_692/511535b7c3d4b5097d7a6618601b204d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que a Boeing tem mais a perder se a Tesla e a SpaceX se combinarem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/china-still-germanys-top-trade-partner-in-first-quarter-us-close-behind-4701159</guid>
       <pubDate>20/05/2026 09:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J11D_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Morgan Stanley pede aos banqueiros que levem um telefone separado para viagens à China, diz fonte</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/morgan-stanley-asks-bankers-to-carry-a-separate-phone-for-china-trips-source-says-4701136</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morgan-stanley-asks-bankers-to-carry-a-separate-phone-for-china-trips-source-says-4701136</guid>
-      <pubDate>20/05/2026 09:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J118_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
