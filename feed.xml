@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 07:06:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:06:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mesh se junta à Global Dollar Network para apoiar a liquidação do USDG</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/mesh-joins-global-dollar-network-100045174.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/mesh-joins-global-dollar-network-100045174.html</guid>
+      <pubDate>20/05/2026 07:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/electronic_payments_938/7d030bc4f5858f7f66a2ab7f4ea6a577" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Raymond James reitera o desempenho do mercado nas ações da Cava após um trimestre forte</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/indonesia-central-bank-delivers-hefty-interest-rate-rise-as-it-looks-to-stem-battered-rupiahs-fall-4700418</guid>
       <pubDate>20/05/2026 05:49</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0M0_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Como as ações da Nvidia podem atingir US$ 300 após os ganhos</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/nvidia-stock-price-earnings-ai-chips-d8ad77b8?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/nvidia-stock-price-earnings-ai-chips-d8ad77b8?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>20/05/2026 05:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/f0391d9ff5b7c08cfe842f20fe50ede3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
