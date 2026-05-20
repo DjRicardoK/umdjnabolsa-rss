@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 04:21:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:24:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Na verdade, os pais aumentam a orientação e a forte contratação para empregos que a IA não pode atrapalhar</title>
+      <description></description>
+      <link>https://www.investors.com/news/indeed-recruit-holdings-stock-ai-jobs-labor-market/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/indeed-recruit-holdings-stock-ai-jobs-labor-market/?src=A00220&yptr=yahoo</guid>
+      <pubDate>20/05/2026 04:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/314d1a15826995d930aac425780a43cf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE FTSE 100 hoje: as ações caem à medida que os rendimentos aumentam, as tensões no Irã persistem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cpu-surge-takes-wall-street-181556290.html</guid>
       <pubDate>20/05/2026 02:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/fa34ffabb30933c9de6fa5fe37361c9d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bill Ackman está apostando tudo na Microsoft. Você deveria fazer o mesmo?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bill-ackman-going-microsoft-same-180535187.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bill-ackman-going-microsoft-same-180535187.html</guid>
-      <pubDate>20/05/2026 02:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/b47c7c222535fcf2cc5e12de5938ba25" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
