@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 06:59:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:06:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Raymond James reitera o desempenho do mercado nas ações da Cava após um trimestre forte</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-market-perform-on-cava-stock-after-strong-quarter-93CH-4700641</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/raymond-james-reiterates-market-perform-on-cava-stock-after-strong-quarter-93CH-4700641</guid>
+      <pubDate>20/05/2026 07:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs mantém classificação de venda no Cricut (CRCT) enquanto aumenta a previsão de preços</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/nvidia-stock-price-earnings-ai-chips-d8ad77b8?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>20/05/2026 05:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/f0391d9ff5b7c08cfe842f20fe50ede3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Rally das ações impulsionada por lucros enfrenta teste fundamental</title>
-      <description></description>
-      <link>https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-05-18-2026-f8053b68?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-05-18-2026-f8053b68?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>20/05/2026 05:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/198808abe7fbabb0831c6447b8a6585e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
