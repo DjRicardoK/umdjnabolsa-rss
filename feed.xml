@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 15:27:22 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:27:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A maioria dos legisladores vê a probabilidade de aumentos nas taxas se a inflação persistir - ata do Fed</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/majority-of-policymakers-see-rate-hikes-likely-if-inflation-persists--fed-minutes-4702009</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/majority-of-policymakers-see-rate-hikes-likely-if-inflation-persists--fed-minutes-4702009</guid>
+      <pubDate>20/05/2026 15:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED8J0CJ_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Synopsys podem subir 7,8% após o próximo relatório de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/oil-stocks-valero-refiners-crude-oil-prices/?src=A00220&yptr=yahoo</guid>
       <pubDate>20/05/2026 13:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/39db3f3b41346b694b9508c7b0fe28ad" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Rendimentos dos títulos da zona euro recuam dos máximos de vários anos</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/euro-zone-bond-yields-retreat-from-multiyear-highs-93CH-4701899</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/euro-zone-bond-yields-retreat-from-multiyear-highs-93CH-4701899</guid>
-      <pubDate>20/05/2026 13:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
