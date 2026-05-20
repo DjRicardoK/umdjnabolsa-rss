@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 19 May 2026 20:52:29 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 21:04:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do segundo semestre do ano fiscal de 2026 da...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-serkos-h2-fy-2026-results-show-strong-growth-and-strategic-investments-93CH-4700027</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-serkos-h2-fy-2026-results-show-strong-growth-and-strategic-investments-93CH-4700027</guid>
+      <pubDate>19/05/2026 21:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Brady (BRC) Transcrição da teleconferência de resultados do terceiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/texas-instruments-upgraded-circle-downgraded-134055142.html</guid>
       <pubDate>19/05/2026 19:09</pubDate>
       <enclosure url="https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Senado dos EUA avança medida que restringe os poderes de guerra de Trump no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/us-senate-advances-measure-curbing-trumps-iran-war-powers-4699898</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-senate-advances-measure-curbing-trumps-iran-war-powers-4699898</guid>
-      <pubDate>19/05/2026 19:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4I1M5_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
