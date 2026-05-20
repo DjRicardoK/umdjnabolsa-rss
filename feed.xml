@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 06:05:53 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:11:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Elia reitera orientação para 2026, ações sobem</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/elia-reiterates-2026-guidance-shares-rise-93CH-4700478</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/elia-reiterates-2026-guidance-shares-rise-93CH-4700478</guid>
+      <pubDate>20/05/2026 06:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Rendimento do Tesouro em 30 anos atinge maior nível em 19 anos, prejudicando ETFs de títulos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-fall-as-yields-surge-iran-tensions-linger-4700308</guid>
       <pubDate>20/05/2026 04:21</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações sobem com renovadas negociações de paz EUA-Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-trump-stands-down-iran-strike-4697564</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-trump-stands-down-iran-strike-4697564</guid>
-      <pubDate>20/05/2026 04:21</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
