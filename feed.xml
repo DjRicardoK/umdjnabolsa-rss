@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 04:13:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:13:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Alphabet (GOOGL) entre as melhores ações para comprar em 5 anos, segundo bilionários</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-among-best-stocks-195912438.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-among-best-stocks-195912438.html</guid>
+      <pubDate>20/05/2026 04:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ddded06c9301164bc21c334085fab02f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Aqui está o que TD Cowen pensa sobre Amazon.com (AMZN)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-chery-hopes-to-enter-us-market-at-suitable-time-4700215</guid>
       <pubDate>20/05/2026 02:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0AR_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As vendas de EV na Europa aumentam à medida que a guerra no Irã aumenta os preços nas bombas de gasolina</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/europe-ev-sales-leap-as-iran-war-pushes-up-petrol-pump-prices-4700210</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/europe-ev-sales-leap-as-iran-war-pushes-up-petrol-pump-prices-4700210</guid>
-      <pubDate>20/05/2026 02:36</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0A5_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
