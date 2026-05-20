@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 18:58:52 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 19:07:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do quarto trimestre da Oxford Lane Capital</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/oxford-lane-capital-q4-earnings-141422092.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/oxford-lane-capital-q4-earnings-141422092.html</guid>
+      <pubDate>20/05/2026 19:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/572ff434b6996e41f3169a30fbea34ba" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ClearSign Q1 2026 revela queda de receita e inovação tecnológica</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/omnicom-stock-outlook-wall-street-113902915.html</guid>
       <pubDate>20/05/2026 17:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/4b2b73d8b91c91fad3c0132866f376aa" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da PTC Inc.?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-ptc-inc-114326018.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-ptc-inc-114326018.html</guid>
-      <pubDate>20/05/2026 17:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f49a63f49568822d53f32fe310f30e89" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
