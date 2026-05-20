@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 01:39:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 01:39:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Singapura incentiva empresas financeiras a usar IA para criar melhores empregos</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/singapore-urges-financial-firms-to-use-ai-to-create-better-jobs-4700187</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/singapore-urges-financial-firms-to-use-ai-to-create-better-jobs-4700187</guid>
+      <pubDate>20/05/2026 01:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J097_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Oferta matinal: conforme as ações caem, deixa a Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/berkshire-ceo-greg-abel-sells-144136463.html</guid>
       <pubDate>19/05/2026 23:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/quartz_855/dcf045c086bfaa2e8384a4faaf7669dd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro da ZTO Express Cayman perdido em ¥ 0,54, receita superou as estimativas</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/zto-express-cayman-earnings-missed-by-054-revenue-topped-estimates-4700142</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/zto-express-cayman-earnings-missed-by-054-revenue-topped-estimates-4700142</guid>
-      <pubDate>19/05/2026 23:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
