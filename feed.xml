@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 09:28:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:35:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar sobe para máxima de seis semanas devido a apostas de aumento de taxas e incerteza de guerra</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/dollar-six-week-high-rate-014105798.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/dollar-six-week-high-rate-014105798.html</guid>
+      <pubDate>20/05/2026 09:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/4f102aa08b50e7ca86cc3feced44e7ad" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Deutsche Bank melhora rating das ações da Centene na recuperação de lucros</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/keefe-bruyette-reiterates-bitdeer-stock-rating-on-ai-mix-shift-93CH-4701037</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/keefe-bruyette-reiterates-bitdeer-stock-rating-on-ai-mix-shift-93CH-4701037</guid>
       <pubDate>20/05/2026 08:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: os resultados do primeiro trimestre de 2026 do Data I/O mostram...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-data-ios-q1-2026-results-show-strategic-shifts-amid-earnings-miss-93CH-4700870</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-data-ios-q1-2026-results-show-strategic-shifts-amid-earnings-miss-93CH-4700870</guid>
-      <pubDate>20/05/2026 08:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
