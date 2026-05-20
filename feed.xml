@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 15:43:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:57:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise – O mercado futuro está se adiantando nas altas das taxas?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/analysis-futures-market-getting-ahead-100415810.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/analysis-futures-market-getting-ahead-100415810.html</guid>
+      <pubDate>20/05/2026 15:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/6c11e5fc50f8edb5b32f7747b59d06d8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O CFO da Microsoft dá aos formandos três lições importantes que moldaram seu sucesso - diz que as carreiras...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/evogene-ltd-q1-2026-earnings-164326767.html</guid>
       <pubDate>20/05/2026 14:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/e425684c84aaf091f53d770c7f203ecd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Neurocrine Biosciences atinge novos máximos com aumento de lucros</title>
-      <description></description>
-      <link>https://www.investors.com/research/biotech-neurocrine-biosciences-nbix-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/biotech-neurocrine-biosciences-nbix-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>20/05/2026 13:58</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/0a36ee0f18bca8e1e3e845322c51abdc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
