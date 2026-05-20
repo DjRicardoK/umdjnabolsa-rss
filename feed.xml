@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 06:32:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:32:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Clipper Realty perde as previsões do primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-clipper-realty-misses-q1-2026-forecasts-stock-dips-93CH-4700527</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-clipper-realty-misses-q1-2026-forecasts-stock-dips-93CH-4700527</guid>
+      <pubDate>20/05/2026 06:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China Pacific Insurance agenda Assembleia Geral Anual para 10 de junho</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/live-nation-entertainment-inc-lyv-202919041.html</guid>
       <pubDate>20/05/2026 04:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/61b9e546cc9d171d39ac8ab75ef7395c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações a serem observadas: Dominion, NextEra, UnitedHealth</title>
-      <description></description>
-      <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-18-2026/card/stocks-to-watch-dominion-nextera-unitedhealth-NiaVAbXwkwrEuIPnZUL1?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-18-2026/card/stocks-to-watch-dominion-nextera-unitedhealth-NiaVAbXwkwrEuIPnZUL1?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>20/05/2026 04:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/6580cedac882300011fda19314af941f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
