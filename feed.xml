@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 10:35:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:40:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nvidia sobem antes do relatório fiscal do primeiro trimestre (cobertura ao vivo)</title>
+      <description></description>
+      <link>https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q1-2027-earnings/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q1-2027-earnings/?src=A00220&yptr=yahoo</guid>
+      <pubDate>20/05/2026 10:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/9e49eeec4e1d906e892574096ad4afcb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Roivant Sciences atingem o máximo histórico de 30,35 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/eurodry-earnings-missed-by-030-revenue-fell-short-of-estimates-4701222</guid>
       <pubDate>20/05/2026 09:19</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8506G_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Como o Nanobiotix chamou a atenção de Wall Street ao usar a física para combater o câncer</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/nanobiotix-biotech-stock-physics-cancer-nanoparticles/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/nanobiotix-biotech-stock-physics-cancer-nanoparticles/?src=A00220&yptr=yahoo</guid>
-      <pubDate>20/05/2026 09:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/b760d03b5225d74302a9ca7bc0b4fce2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
