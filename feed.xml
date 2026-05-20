@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 01:56:12 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 02:06:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Esqueça os hiperscaladores, essas ações são as novas jogadas de IA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/forget-hyperscalers-stocks-ai-plays-171442551.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/forget-hyperscalers-stocks-ai-plays-171442551.html</guid>
+      <pubDate>20/05/2026 02:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/f0615ed16c797e88b645fded26217146" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Se falassem, o presidente de Taiwan diria a Trump que a China estava a minar a estabilidade</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-costar-csgp-among-10-151726833.html</guid>
       <pubDate>20/05/2026 00:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e13eafb879d337f843e648dbb91ec2ea" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Jim Cramer discute Nike (NIKE) e China</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-nike-nke-144719983.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-nike-nke-144719983.html</guid>
-      <pubDate>19/05/2026 23:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f0298b75a175217799415892da58809b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
