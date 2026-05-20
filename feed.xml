@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 19:31:12 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 19:37:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar sobe e ouro cai com alta dos rendimentos das notas do Tesouro</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-edges-higher-gold-slumps-144239718.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-edges-higher-gold-slumps-144239718.html</guid>
+      <pubDate>20/05/2026 19:37</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1c78243ff6ea0f56104ce694dab841ee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da Brown-Forman subirão ou afundarão?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-cadence-125350083.html</guid>
       <pubDate>20/05/2026 18:04</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c638d8cbd52a03b19b665c7bf485ca88" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Formulário 144 WOODWARD Para: 20 de maio</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-144-woodward-for-20-may-93CH-4702490</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-144-woodward-for-20-may-93CH-4702490</guid>
-      <pubDate>20/05/2026 17:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
