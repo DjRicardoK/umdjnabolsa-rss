@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 20:13:15 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 20:13:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Chubb Limited?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-chubb-152121395.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-chubb-152121395.html</guid>
+      <pubDate>20/05/2026 20:13</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/253b9c63abd4bd77465e5ba2efb6ecb4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O aumento dos rendimentos dos títulos pesa sobre as ações</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/shell-shel-price-target-lowered-130504110.html</guid>
       <pubDate>20/05/2026 18:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4fed17ac928f973a6da0f3de2aaa3688" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE HSBC Holdings (HSBC) – Entre as 12 principais ações com dividendos subvalorizados para comprar agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-hsbc-among-top-130350933.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hsbc-holdings-hsbc-among-top-130350933.html</guid>
-      <pubDate>20/05/2026 18:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5264403921c5448cbc021078a807d5aa" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
