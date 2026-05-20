@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 04:54:46 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 04:57:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações se estabilizam de forma mista enquanto a guerra no Irã permanece sem solução</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mixed-iran-war-203550868.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mixed-iran-war-203550868.html</guid>
+      <pubDate>20/05/2026 04:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bab324b7ff3e454bd77e3afc82d85ce5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Reading International Inc. (RDI): Uma das melhores ações do portfólio de ações de Mark Cuban?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/birkenstock-q2-2026-earnings-miss-192108222.html</guid>
       <pubDate>20/05/2026 03:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/quartz_855/435777e6a5a61197cffe01a065b2caf0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O Willdan Group (WLDN) é uma das melhores ações de data center de pequena capitalização para comprar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/willdan-group-wldn-one-best-191621802.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/willdan-group-wldn-one-best-191621802.html</guid>
-      <pubDate>20/05/2026 03:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a8c90890bf52f2dcd7f679d607623a9f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
