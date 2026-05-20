@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 07:50:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:52:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do petróleo caem depois que Trump reafirmou que encerraria a guerra no Irã “muito rapidamente”</title>
+      <description>Na terça-feira, o Estreito de Ormuz teve “um dos dias mais movimentados desde o encerramento”.</description>
+      <link>https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories</guid>
+      <pubDate>20/05/2026 07:52</pubDate>
+      <enclosure url="https://images.mktw.net/im-11677072" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lance matinal: vigília da Nvidia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-keeps-sell-rating-234952965.html</guid>
       <pubDate>20/05/2026 06:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9783f1820b1ae8f333fdbef4ae5fdbfc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE UPS poderia prosperar em um mundo pós-Amazônia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/ups-could-thrive-post-amazon-235000463.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ups-could-thrive-post-amazon-235000463.html</guid>
-      <pubDate>20/05/2026 06:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/314b51db4e7912e452f782f370353994" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
