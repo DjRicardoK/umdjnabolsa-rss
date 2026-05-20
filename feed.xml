@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 09:00:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:06:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A China ainda é o principal parceiro comercial da Alemanha no primeiro trimestre, com os EUA logo atrás</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/china-still-germanys-top-trade-partner-in-first-quarter-us-close-behind-4701159</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/china-still-germanys-top-trade-partner-in-first-quarter-us-close-behind-4701159</guid>
+      <pubDate>20/05/2026 09:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J11D_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Morgan Stanley pede aos banqueiros que levem um telefone separado para viagens à China, diz fonte</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-biostem-misses-q1-2026-earnings-stock-falls-93CH-4700824</guid>
       <pubDate>20/05/2026 07:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lance matinal: vigília da Nvidia</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/morning-bid-nvidia-vigil-4700825</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/morning-bid-nvidia-vigil-4700825</guid>
-      <pubDate>20/05/2026 07:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4J0WH_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
