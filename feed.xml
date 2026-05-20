@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 14:36:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 14:42:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O bilionário Philippe Laffont abandonou a AI Titan Nvidia pela 11ª vez em 12 trimestres. O que ele sabe que...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-philippe-laffont-dumped-ai-172600818.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/billionaire-philippe-laffont-dumped-ai-172600818.html</guid>
+      <pubDate>20/05/2026 14:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/3d68d0280b45a6e7074c79d9d007e3ae" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Israel dá passo em direção a eleições antecipadas enquanto o Knesset vota pela dissolução</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/amazon-com-defeats-appeal-claiming-153200477.html</guid>
       <pubDate>20/05/2026 12:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/a4287681fe59e0204f714015709c659b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de juros de hipotecas e refinanciamentos hoje, 20 de maio de 2026: taxas fixas de 30 anos atingem a...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-may-20-2026-100000386.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-may-20-2026-100000386.html</guid>
-      <pubDate>20/05/2026 12:36</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/58d84be0-fc1f-11ee-bffb-9ac8a2f8fca0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
