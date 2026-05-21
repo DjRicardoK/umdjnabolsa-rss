@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 02:10:52 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:10:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Guerra no Oriente Médio freia crescimento do setor privado na Índia e recuperação de serviços, mostra PMI</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/mideast-war-dampens-india-private-sector-growth-services-pick-up-pmi-shows-4702946</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/mideast-war-dampens-india-private-sector-growth-services-pick-up-pmi-shows-4702946</guid>
+      <pubDate>21/05/2026 02:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K0AA_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Nvidia aposta em novos chips de data center para crescimento, já que as perspectivas de vendas superam as...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/shares-rally-on-nvidia-earnings-samsung-strike-suspension-4702897</guid>
       <pubDate>21/05/2026 00:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K02V_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Lumentum acaba de entrar no Nasdaq 100. As ações da LITE estão caindo de qualquer maneira.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/lumentum-just-joined-nasdaq-100-151031403.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lumentum-just-joined-nasdaq-100-151031403.html</guid>
-      <pubDate>20/05/2026 23:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f9df380cb8ea3ca8566dad8cc4a3cae4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
