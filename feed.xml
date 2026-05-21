@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 12:24:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 12:24:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Tesouraria do Grupo SUI sobe para 108,8 milhões de tokens SUI</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/sui-group-treasury-rises-108-150600545.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/sui-group-treasury-rises-108-150600545.html</guid>
+      <pubDate>21/05/2026 12:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/c40a3cd5cea09829033f8ba12ecfed86" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de telecomunicações: o que o pedido de IPO da SpaceX revelou sobre as grandes ambições da Starlink</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/major-takeaways-magnificent-sevens-ai-130108811.html</guid>
       <pubDate>21/05/2026 10:18</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/036e041a33323ae36bc56a09dadef969" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Formulário 8K Pathward Financial Inc para: 21 de maio</title>
-      <description></description>
-      <link>https://www.investing.com/news/filings/form-8k-pathward-financial-inc-for-21-may-93CH-4704114</link>
-      <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-pathward-financial-inc-for-21-may-93CH-4704114</guid>
-      <pubDate>21/05/2026 10:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
