@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 04:40:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 04:57:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE OceanaGold (OGC) divulga resultados de alta qualidade da perfuração de ouro Haile</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/oceanagold-ogc-reports-high-grade-195309484.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/oceanagold-ogc-reports-high-grade-195309484.html</guid>
+      <pubDate>21/05/2026 04:56</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0df8f375ad94646d812bb45340f3f03e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Smiths Group Q3 2026 mostra resiliência em meio a desafios</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/shopify-vs-amazon-one-just-171359812.html</guid>
       <pubDate>21/05/2026 02:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/8d1497c45bb6f7191ced8957be204afc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Rehn, do BCE, vê poucos sinais de que a inflação elevada esteja se enraizando</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ecbs-rehn-sees-few-signs-yet-of-high-inflation-taking-root-4702945</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-rehn-sees-few-signs-yet-of-high-inflation-taking-root-4702945</guid>
-      <pubDate>21/05/2026 02:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K0A8_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
