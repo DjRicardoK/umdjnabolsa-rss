@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 05:56:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 06:16:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: segundo semestre de 2026 da Investec mostra resiliência em meio...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-investecs-h2-2026-shows-resilience-amid-challenges-93CH-4703196</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-investecs-h2-2026-shows-resilience-amid-challenges-93CH-4703196</guid>
+      <pubDate>21/05/2026 06:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Antes dos ganhos do Walmart, aqui está o que os dados de opções de gráfico de barras mostram para ações WMT</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-servicenow-182751408.html</guid>
       <pubDate>21/05/2026 03:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/84c2179440e2782f95f6cf508e91d349" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Nvidia tiveram desempenho inferior em 2026. Os fundos de hedge bilionários ainda estão engolindo...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-underperformed-2026-billionaire-185902086.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-underperformed-2026-billionaire-185902086.html</guid>
-      <pubDate>21/05/2026 03:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b2c8ecf82d78d5405278844007950511" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
