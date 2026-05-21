@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 17:35:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:53:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2026 da CorVel Corporation</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/corvel-corporation-q4-2026-earnings-123000744.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/corvel-corporation-q4-2026-earnings-123000744.html</guid>
+      <pubDate>21/05/2026 17:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/00c417a101cc7c897ff396bc320d1a6d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Flowers Foods no primeiro trimestre de 2026, EPS bate, receita...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/globalstar-stock-reaches-52week-high-at-8302-usd-93CH-4704738</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/globalstar-stock-reaches-52week-high-at-8302-usd-93CH-4704738</guid>
       <pubDate>21/05/2026 14:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Optimi Health fecha oferta pública de US$ 15 milhões na Nasdaq</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/optimi-health-closes-15-million-public-offering-on-nasdaq-93CH-4704726</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/optimi-health-closes-15-million-public-offering-on-nasdaq-93CH-4704726</guid>
-      <pubDate>21/05/2026 14:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
