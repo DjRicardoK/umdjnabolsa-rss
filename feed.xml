@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 19:55:54 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 20:01:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump jurará em Warsh na sexta-feira para liderar o Federal Reserve dos EUA</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/trump-will-swear-in-warsh-on-friday-to-lead-us-federal-reserve-4705544</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-will-swear-in-warsh-on-friday-to-lead-us-federal-reserve-4705544</guid>
+      <pubDate>21/05/2026 20:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K1VF_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações sobem com queda nos rendimentos do petróleo bruto e dos títulos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-flowers-foods-q1-2026-eps-beats-revenue-misses-93CH-4705158</guid>
       <pubDate>21/05/2026 17:35</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Charles Schwab (SCHW) é uma das melhores ações de baixo risco de longo prazo para comprar de acordo com...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-one-best-115654658.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-one-best-115654658.html</guid>
-      <pubDate>21/05/2026 17:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/30173640c9b0cffb6b7013930030fa3e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
