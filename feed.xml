@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 07:07:21 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:15:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Gecko Robotics integra sensores lidar Rev8 da Ouster</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/gecko-robotics-integrates-ousters-rev8-lidar-sensors-93CH-4703342</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/gecko-robotics-integrates-ousters-rev8-lidar-sensors-93CH-4703342</guid>
+      <pubDate>21/05/2026 07:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Exclusive-Stellantis construirá EV da marca Voyah para Dongfeng da China em fábrica francesa, dizem fontes</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-smiths-group-q3-2026-shows-resilience-amid-challenges-93CH-4703092</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-smiths-group-q3-2026-shows-resilience-amid-challenges-93CH-4703092</guid>
       <pubDate>21/05/2026 04:39</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE KeyBanc aumenta o preço-alvo das ações da Nvidia para US$ 310 com bons resultados</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/keybanc-raises-nvidia-stock-price-target-to-310-on-strong-results-93CH-4703065</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/keybanc-raises-nvidia-stock-price-target-to-310-on-strong-results-93CH-4703065</guid>
-      <pubDate>21/05/2026 04:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
