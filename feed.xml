@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 18:00:32 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 18:05:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE À medida que a Tesla se inclina para o pivô da IA, o bilionário Paul Tudor Jones acaba de aumentar sua...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-leans-ai-pivot-billionaire-130002108.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-leans-ai-pivot-billionaire-130002108.html</guid>
+      <pubDate>21/05/2026 18:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/900d8766156b372efca5d3d39d785cd1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Leidos Holdings?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-posts-blowout-q1-174603465.html</guid>
       <pubDate>21/05/2026 14:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O mercado de títulos acabou de inverter o roteiro para os investidores – Wall Street está agindo como se nada...</title>
-      <description>Quando o crédito e as ações discordam, é o crédito quem diz a verdade.</description>
-      <link>https://www.marketwatch.com/story/the-bond-market-just-flipped-the-script-on-investors-wall-street-is-acting-like-nothings-wrong-f321cc5b?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-bond-market-just-flipped-the-script-on-investors-wall-street-is-acting-like-nothings-wrong-f321cc5b?mod=mw_rss_topstories</guid>
-      <pubDate>21/05/2026 14:43</pubDate>
-      <enclosure url="https://images.mktw.net/im-690325" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
