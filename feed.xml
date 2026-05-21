@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 06:16:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 06:27:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: O primeiro trimestre de 2026 da Cirsa mostra forte crescimento,...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-cirsas-q1-2026-shows-strong-growth-stock-dips-93CH-4703210</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cirsas-q1-2026-shows-strong-growth-stock-dips-93CH-4703210</guid>
+      <pubDate>21/05/2026 06:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: segundo semestre de 2026 da Investec mostra resiliência em meio...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-147-4703000</guid>
       <pubDate>21/05/2026 03:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED0300U_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da ServiceNow subirão ou afundarão?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-servicenow-182751408.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-servicenow-182751408.html</guid>
-      <pubDate>21/05/2026 03:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/84c2179440e2782f95f6cf508e91d349" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
