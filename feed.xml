@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 05:12:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 05:27:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Mitchells &amp; Butlers vê queda nas ações apesar do forte primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-mitchells--butlers-sees-stock-dip-despite-strong-h1-2026-93CH-4703140</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-mitchells--butlers-sees-stock-dip-despite-strong-h1-2026-93CH-4703140</guid>
+      <pubDate>21/05/2026 05:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Cerebras realizaram um IPO explosivo. Os investidores agora estão apostando em 1,5% do valor de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/mizuho-raises-nvidia-stock-price-target-to-300-on-blackwell-strength-93CH-4702951</guid>
       <pubDate>21/05/2026 02:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Nvidia devem oscilar no preço de US$ 350 bilhões após lucros, mostram opções</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/options/articles/nvidia-shares-set-350-billion-172752881.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/nvidia-shares-set-350-billion-172752881.html</guid>
-      <pubDate>21/05/2026 02:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/de500195afdf6ad1fe1f33d28b51a245" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
