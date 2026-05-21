@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 02:37:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:38:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações do Walmart: veja por que os analistas estão aumentando as metas de preços antes dos lucros do primeiro...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/walmart-stock-why-analysts-raising-174809378.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/walmart-stock-why-analysts-raising-174809378.html</guid>
+      <pubDate>21/05/2026 02:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fd73f630bb54b1477a885ea821c852e6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Stifel aumenta o preço-alvo das ações da Nvidia para US$ 282 com bons resultados</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-asian-suppliers-rally-after-ai-fuels-strong-q1-earnings-4702937</guid>
       <pubDate>21/05/2026 01:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE141FU_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla aumenta os preços do modelo Y enquanto Wall Street se concentra na IA. Esteja você apostando em carros...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-hikes-model-y-prices-163139912.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-hikes-model-y-prices-163139912.html</guid>
-      <pubDate>21/05/2026 01:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/dc4674cbd1d274c413d606c186bf6512" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
