@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 01:32:24 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 01:32:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da The Home Depot, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/home-depot-inc-q1-2026-165127394.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/home-depot-inc-q1-2026-165127394.html</guid>
+      <pubDate>21/05/2026 01:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/76ead5d24e60df8c82c7fc991a59bdca" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Eagle Point Credit Company Inc. Resumo da teleconferência de ganhos do primeiro trimestre de 2026</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/insight-partners-sells-447306-in-coursera-nasdaqcour-common-stock-93CH-4702912</guid>
       <pubDate>20/05/2026 23:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wall Street está otimista ou baixista nas ações do Hartford Insurance Group?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-hartford-140105245.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-hartford-140105245.html</guid>
-      <pubDate>20/05/2026 22:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e379b31a641c550a804945d74d106a9b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
