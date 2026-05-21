@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 23:14:39 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 23:32:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do ouro sobem ainda mais com esperanças de paz no Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-prices-rise-further-on-iran-peace-hopes-4702915</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-rise-further-on-iran-peace-hopes-4702915</guid>
+      <pubDate>20/05/2026 23:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB880JW_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Koeda, do BOJ, pede aumento das taxas em “ritmo apropriado”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/masco-corporation-stock-wall-street-151349536.html</guid>
       <pubDate>20/05/2026 20:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/8626f559103762a9f4fad2416d8cac4a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE FuelCell Energy leva à redução dos estoques de hidrogênio. Aqui está o porquê</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/fuelcell-energy-leads-hydrogen-stocks-150208768.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/fuelcell-energy-leads-hydrogen-stocks-150208768.html</guid>
-      <pubDate>20/05/2026 20:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/c27c1ad979682f047353b8001f58102b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
