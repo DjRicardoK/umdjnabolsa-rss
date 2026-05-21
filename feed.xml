@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 02:02:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:02:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Tesouro rende pico até a máxima do segundo mandato de Trump, afundando ouro e S&amp;P 500</title>
+      <description></description>
+      <link>https://www.investors.com/news/treasury-yields-10-year-trump-high-gold-sp-500/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/treasury-yields-10-year-trump-high-gold-sp-500/?src=A00220&yptr=yahoo</guid>
+      <pubDate>21/05/2026 02:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/af6accb33c69638c41629aff8b596b48" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street está adorando as demissões na Microsoft. Compre o mergulho.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/buy-dow-stock-winners-apple-96c06291?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>20/05/2026 23:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/be0915c7126cbc1ca6b7d67721e09e4b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O setor que Wall Street chama de ‘defensivo’ ultrapassou silenciosamente a inflação e o Tesouro de 10 anos...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/sector-wall-street-calls-defensive-145347922.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/sector-wall-street-calls-defensive-145347922.html</guid>
-      <pubDate>20/05/2026 23:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/31d6fa128f42562c0df6edf4b7bd0be5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
