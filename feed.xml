@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 15:15:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:19:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BofA reitera compra de semicondutores de Taiwan (TSM) após simpósio técnico</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/bofa-reiterates-buy-taiwan-semiconductor-072237772.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bofa-reiterates-buy-taiwan-semiconductor-072237772.html</guid>
+      <pubDate>21/05/2026 15:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/555a019e1f4fbc93ccb8acc184c6aa1e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Millicom International Cellular atingem alta de 52 semanas a 85,35 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-officials-staff-fretting-state-161942069.html</guid>
       <pubDate>21/05/2026 13:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/7a8a7f6b2818b38bdf6089a8b30747be" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações sobem apesar dos dados fracos do PMI e do obstáculo nuclear do Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/ftse-100-stocks-edge-lower-as-iran-uncertainty-offsets-oil-retreat-4703070</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-stocks-edge-lower-as-iran-uncertainty-offsets-oil-retreat-4703070</guid>
-      <pubDate>21/05/2026 13:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8K0E7_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
