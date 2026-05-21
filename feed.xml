@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 11:13:05 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:16:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os rendimentos dos títulos estão na “zona de perigo”. Veja por que isso não está prejudicando o mercado –...</title>
+      <description>Os rendimentos dos títulos não importam mais para os mercados de ações?</description>
+      <link>https://www.marketwatch.com/story/bond-yields-are-in-the-danger-zone-heres-why-thats-not-hurting-the-market-yet-a87a5b5c?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/bond-yields-are-in-the-danger-zone-heres-why-thats-not-hurting-the-market-yet-a87a5b5c?mod=mw_rss_topstories</guid>
+      <pubDate>21/05/2026 11:16</pubDate>
+      <enclosure url="https://images.mktw.net/im-30458909" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Federal Reserve propõe contas mestras limitadas para empresas de criptografia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bio-key-international-inc-q1-002043195.html</guid>
       <pubDate>21/05/2026 08:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/4c91b0bd41a0f6938c529be402d7c064" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 8x8, Inc.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/8x8-inc-q4-2026-earnings-001825163.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/8x8-inc-q4-2026-earnings-001825163.html</guid>
-      <pubDate>21/05/2026 08:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/bd7caa39eda82be1dc6873170888368d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
