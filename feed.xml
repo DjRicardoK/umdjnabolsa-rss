@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 11:21:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:57:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lucros da Tsakos Energy Navigation no primeiro trimestre de...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-tsakos-energy-navigation-q1-2026-earnings-soar-93CH-4704494</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-tsakos-energy-navigation-q1-2026-earnings-soar-93CH-4704494</guid>
+      <pubDate>21/05/2026 11:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Presidente do Comitê de Relações Exteriores da Câmara dos EUA alerta sobre papel da China na licitação de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/ibm-stock-quantum-stocks-trump-investment/?src=A00220&yptr=yahoo</guid>
       <pubDate>21/05/2026 09:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/e9b535bd31539d258dbb8cb12f27c8bc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Futuros do Dow Jones caem à medida que os preços do petróleo chegam a US$ 100; Nvidia Wavers, Walmart Falls e...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-stocks-rally-oil-prices-iran-deal-hopes/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-stocks-rally-oil-prices-iran-deal-hopes/?src=A00220&yptr=yahoo</guid>
-      <pubDate>21/05/2026 09:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/2297524b1203ca5b2dab39f65a7206bf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
