@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 16:08:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 16:24:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Futuros da Nasdaq sobem à medida que os rendimentos dos títulos caem, ganhos da Nvidia em foco</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-bond-yields-103924030.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-bond-yields-103924030.html</guid>
+      <pubDate>21/05/2026 16:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/9a1ff5003151ccd77c6a21a4e3c76ded" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os pagamentos de anuidades são os mais altos dos últimos anos. Obrigado, inflação.</title>
       <description>Uma fresta de esperança para a nuvem de altas taxas de juros.</description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-gentracks-q1-2026-results-miss-forecasts-stock-dips-93CH-4704690</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-gentracks-q1-2026-results-miss-forecasts-stock-dips-93CH-4704690</guid>
       <pubDate>21/05/2026 13:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Netskope se integra à API Claude Compliance da Anthropic</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/netskope-integrates-with-anthropics-claude-compliance-api-93CH-4704685</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/netskope-integrates-with-anthropics-claude-compliance-api-93CH-4704685</guid>
-      <pubDate>21/05/2026 13:53</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
