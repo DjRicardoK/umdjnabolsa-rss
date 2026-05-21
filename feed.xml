@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 17:16:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:20:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Charles Schwab (SCHW) é uma das melhores ações de baixo risco de longo prazo para comprar de acordo com...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-one-best-115654658.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-one-best-115654658.html</guid>
+      <pubDate>21/05/2026 17:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/30173640c9b0cffb6b7013930030fa3e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE ApolloBio relata resultados positivos da fase 3 para VGX-3100 na China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/tenable-integrates-claude-api-for-ai-governance-visibility-93CH-4704729</guid>
       <pubDate>21/05/2026 14:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2026 da Ralph Lauren Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-corporation-q4-2026-165135924.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ralph-lauren-corporation-q4-2026-165135924.html</guid>
-      <pubDate>21/05/2026 14:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/e4ed084a89faf693f471288eefe4202d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
