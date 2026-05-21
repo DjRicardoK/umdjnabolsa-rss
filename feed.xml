@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 22:28:13 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:38:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trabalhadores com mais de 60 anos são os menos preocupados com a possibilidade de a IA tirar seus empregos –...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/workers-over-60-least-worried-140500678.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/workers-over-60-least-worried-140500678.html</guid>
+      <pubDate>20/05/2026 22:38</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/431bcd5ceff06ae1349a2e20f4ec2e4c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O trimestre de grande sucesso da Nvidia está chegando – e as ações do NVDA ainda estão baratas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-143310219.html</guid>
       <pubDate>20/05/2026 19:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/f4f4b1a3bc289b12c88421747826d3c1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da McCormick &amp; Company irão subir ou afundar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-mccormick-141822530.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-mccormick-141822530.html</guid>
-      <pubDate>20/05/2026 19:15</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/36684004d021d0c8f17a1929c1e98d56" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
