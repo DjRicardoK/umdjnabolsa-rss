@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 13:30:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:32:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Alguns funcionários e funcionários do Fed estão preocupados com o estado dos mercados financeiros</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/fed-officials-staff-fretting-state-161942069.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-officials-staff-fretting-state-161942069.html</guid>
+      <pubDate>21/05/2026 13:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/7a8a7f6b2818b38bdf6089a8b30747be" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE FTSE 100 hoje: Ações sobem apesar dos dados fracos do PMI e do obstáculo nuclear do Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sumitomo-pharma-q4-2025-sees-record-high-net-profit-93CH-4704516</guid>
       <pubDate>21/05/2026 12:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações de Marrocos sobem no fechamento do pregão; Todas as ações marroquinas subiram 1,06%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-106-4704519</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-106-4704519</guid>
-      <pubDate>21/05/2026 12:13</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
