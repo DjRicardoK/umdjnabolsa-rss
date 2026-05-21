@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 23:14:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 23:14:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Koeda, do BOJ, pede aumento das taxas em “ritmo apropriado”</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bojs-koeda-calls-for-rate-hike-at-appropriate-pace-4702910</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bojs-koeda-calls-for-rate-hike-at-appropriate-pace-4702910</guid>
+      <pubDate>20/05/2026 23:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K045_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Empregos na Austrália caem em abril, desemprego atinge o maior nível desde 2021</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/fuelcell-energy-leads-hydrogen-stocks-150208768.html</guid>
       <pubDate>20/05/2026 20:00</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/c27c1ad979682f047353b8001f58102b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Dólar sobe e ouro cai com alta dos rendimentos das notas do Tesouro</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-edges-higher-gold-slumps-144239718.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-edges-higher-gold-slumps-144239718.html</guid>
-      <pubDate>20/05/2026 19:37</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1c78243ff6ea0f56104ce694dab841ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
