@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 09:09:17 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 09:10:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Futuros do Dow Jones caem à medida que os preços do petróleo chegam a US$ 100; Nvidia Wavers, Walmart Falls e...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-stocks-rally-oil-prices-iran-deal-hopes/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-stocks-rally-oil-prices-iran-deal-hopes/?src=A00220&yptr=yahoo</guid>
+      <pubDate>21/05/2026 09:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/2297524b1203ca5b2dab39f65a7206bf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações caem e petróleo sobe após demanda de urânio do líder iraniano</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/gecko-robotics-integrates-ousters-rev8-lidar-sensors-93CH-4703342</guid>
       <pubDate>21/05/2026 07:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Exclusive-Stellantis construirá EV da marca Voyah para Dongfeng da China em fábrica francesa, dizem fontes</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/exclusive-stellantis-build-voyah-brand-221253856.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/exclusive-stellantis-build-voyah-brand-221253856.html</guid>
-      <pubDate>21/05/2026 07:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/9ee18aec17347d0fc14189ab387ccd9c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
