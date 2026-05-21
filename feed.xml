@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 06:40:36 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 06:50:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As exportações japonesas de automóveis para o Oriente Médio despencaram em abril, com a guerra interrompendo...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/japanese-auto-exports-to-middle-east-plunge-in-april-as-war-disrupts-shipping-4703286</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/japanese-auto-exports-to-middle-east-plunge-in-april-as-war-disrupts-shipping-4703286</guid>
+      <pubDate>21/05/2026 06:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K0QV_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE À medida que a guerra no Irão se arrasta, os stocks globais de petróleo estão a esgotar-se rapidamente – e a...</title>
       <description>O abastecimento físico de petróleo através do Estreito de Ormuz está 95% abaixo dos níveis normais.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-slip-diplomatic-191859918.html</guid>
       <pubDate>21/05/2026 03:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ca88e087f12a3f8d2cc35756e5cb650e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Estoques de memória despencam após CEO da Seagate levantar sobrancelhas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/memory-stocks-tumble-seagate-ceo-191437146.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/memory-stocks-tumble-seagate-ceo-191437146.html</guid>
-      <pubDate>21/05/2026 03:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/42ceb7718e7f89caf117366bc08b8c0b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
