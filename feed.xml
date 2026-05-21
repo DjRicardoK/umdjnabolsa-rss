@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 13:17:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:22:07 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jensen Huang da Nvidia quer ser rei de um novo império</title>
+      <description>A fabricante de chips está abrindo caminho para um mercado potencial de US$ 200 bilhões para unidades centrais de processamento.</description>
+      <link>https://www.marketwatch.com/story/nvidias-jensen-huang-wants-to-be-king-of-a-brand-new-empire-7afdbc05?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidias-jensen-huang-wants-to-be-king-of-a-brand-new-empire-7afdbc05?mod=mw_rss_topstories</guid>
+      <pubDate>21/05/2026 13:22</pubDate>
+      <enclosure url="https://images.mktw.net/im-30193644" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas da França caem no fechamento do pregão; CAC 40 caiu 0,39%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-stock-falls-after-earnings-spacex-files-ipo-details-111103242.html</guid>
       <pubDate>21/05/2026 12:11</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-05/83c38050-4f7d-11f1-9dfd-31db9b5da701" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A Nvidia pode fornecer chips – mas não pode comprar a Big Tech para sair de sua crise de crédito e da rede...</title>
-      <description>Os lucros das empresas não podem resolver uma guerra comercial caótica com a China, aumentando os prémios de crédito e os limites das infra-estruturas de IA.</description>
-      <link>https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories</guid>
-      <pubDate>21/05/2026 12:07</pubDate>
-      <enclosure url="https://images.mktw.net/im-09507877" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
