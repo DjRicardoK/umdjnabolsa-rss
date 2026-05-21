@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 18:05:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 18:19:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações da Seagate despencam devido às advertências dos executivos. Por que os prazos de entrega são tão...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/seagate-stock-plunges-executive-warnings-131501800.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/seagate-stock-plunges-executive-warnings-131501800.html</guid>
+      <pubDate>21/05/2026 18:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f652d18d46a77a380273749ffa5d1aaf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE À medida que a Tesla se inclina para o pivô da IA, o bilionário Paul Tudor Jones acaba de aumentar sua...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/gilead-sciences-gild-among-best-174601751.html</guid>
       <pubDate>21/05/2026 14:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9f3160e89653551363ddc11953e982e1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE NVIDIA (NVDA) registra explosão no primeiro trimestre sob demanda de IA e prevê outro trimestre recorde</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-posts-blowout-q1-174603465.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-posts-blowout-q1-174603465.html</guid>
-      <pubDate>21/05/2026 14:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
