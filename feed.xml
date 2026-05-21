@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 08:05:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 08:24:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE USA Rare Earth selecionada para prêmio de financiamento DOE de até US$ 19,3 milhões</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/usa-rare-earth-selected-for-up-to-193m-doe-funding-award-93CH-4703706</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/usa-rare-earth-selected-for-up-to-193m-doe-funding-award-93CH-4703706</guid>
+      <pubDate>21/05/2026 08:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Por que é necessária uma liquidação “significativa” de ações para reduzir os rendimentos dos títulos</title>
       <description>A BCA Research alerta que o mercado de ações está demasiado quente para que o mercado obrigacionista arrefeça.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-mean-voo-qqq-202641994.html</guid>
       <pubDate>21/05/2026 05:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/indexuniverse.com/dd11098fceb65d0250fa3c1b5e4a3486" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Como a Nvidia (NVDA) está construindo CPUs para o data center Agentic AI</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-building-cpus-agentic-202433926.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-building-cpus-agentic-202433926.html</guid>
-      <pubDate>21/05/2026 05:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/db28cb45a3bc4c1e8fbd43617dde2226" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
