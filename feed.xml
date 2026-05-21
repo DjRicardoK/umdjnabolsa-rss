@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 01:52:27 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:02:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street está adorando as demissões na Microsoft. Compre o mergulho.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-loving-layoffs-microsoft-171639846.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-loving-layoffs-microsoft-171639846.html</guid>
+      <pubDate>21/05/2026 02:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/417399f8a8994c7a7eb85cdd0ea5acb4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 3G Capital sai das ações da Microsoft em grande mudança de portfólio. MSFT ainda é uma das melhores jogadas...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/sector-wall-street-calls-defensive-145347922.html</guid>
       <pubDate>20/05/2026 23:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/31d6fa128f42562c0df6edf4b7bd0be5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do ouro sobem ainda mais com esperanças de paz no Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-rise-further-on-iran-peace-hopes-4702915</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-rise-further-on-iran-peace-hopes-4702915</guid>
-      <pubDate>20/05/2026 23:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB880JW_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
