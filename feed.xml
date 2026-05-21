@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 19:36:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 19:46:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da TE Connectivity?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-te-connectivity-151337173.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-te-connectivity-151337173.html</guid>
+      <pubDate>21/05/2026 19:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8277a8fd1369e1b26576203fbddd00b9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da empresa fornecedora de tratores subirão ou...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-t-rowe-110247160.html</guid>
       <pubDate>21/05/2026 16:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/a8d57f4e07c441196dae5a95ad31a671" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perspectiva das ações de Dover: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/dover-stock-outlook-wall-street-105725284.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dover-stock-outlook-wall-street-105725284.html</guid>
-      <pubDate>21/05/2026 16:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/af294bd069a4fff7c38a5fdae3f666d9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
