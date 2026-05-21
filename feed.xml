@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 20:04:24 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 20:04:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do petróleo bruto caem com esperanças de que a guerra com o Irã possa terminar em breve</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-tumble-hopes-154101572.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-tumble-hopes-154101572.html</guid>
+      <pubDate>21/05/2026 20:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Amazon.com rejeita recurso alegando que ajudou na evasão tarifária</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/toll-brothers-inc-q2-2026-123000206.html</guid>
       <pubDate>21/05/2026 17:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/8506350d75524ccaf2a0d93372ac681b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2026 da CorVel Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/corvel-corporation-q4-2026-earnings-123000744.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/corvel-corporation-q4-2026-earnings-123000744.html</guid>
-      <pubDate>21/05/2026 17:53</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/00c417a101cc7c897ff396bc320d1a6d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
