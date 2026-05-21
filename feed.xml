@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 20:21:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 20:29:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Até 110% no acumulado do ano, por que o apoio da Nvidia pode manter a recuperação das ações da Nokia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/110-ytd-why-nvidia-backing-160509720.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/110-ytd-why-nvidia-backing-160509720.html</guid>
+      <pubDate>21/05/2026 20:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/7fdec65f8e6ecf6aa0253d0d6f820e97" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações do Grupo CoStar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-leans-ai-pivot-billionaire-130002108.html</guid>
       <pubDate>21/05/2026 18:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/900d8766156b372efca5d3d39d785cd1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Leidos Holdings?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-123826523.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-123826523.html</guid>
-      <pubDate>21/05/2026 18:00</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/740689c20fbee5653b9f28d1796c3457" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
