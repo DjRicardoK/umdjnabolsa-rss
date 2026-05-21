@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 00:45:14 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 00:48:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dólar estável após ata agressiva do Fed; Aussie cai com dados de empregos leves</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/dollar-steady-after-hawkish-fed-minutes-aussie-slides-on-soft-jobs-data-4702926</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-steady-after-hawkish-fed-minutes-aussie-slides-on-soft-jobs-data-4702926</guid>
+      <pubDate>21/05/2026 00:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC2T1KL_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Sua carteira de títulos está enfrentando uma infestação de ‘cupins’ muito pior do que as ‘baratas’ de Jamie...</title>
       <description>O CEO do JP Morgan Chase alertou sobre as “baratas” do mercado de crédito. Mas os empréstimos opacos da IA ​​e a elevada alavancagem – “cupins de crédito” – estão a esvaziar a...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/japan-april-exports-rise-148-yearyear-despite-middle-east-conflict-4702860</guid>
       <pubDate>20/05/2026 21:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K018_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Quer comprar uma casa? O Irã está fazendo as taxas hipotecárias dos EUA subirem</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/want-buy-house-iran-making-130047905.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/want-buy-house-iran-making-130047905.html</guid>
-      <pubDate>20/05/2026 21:39</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/e5ffd84bab66dd5684210aaeb48c0795" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
