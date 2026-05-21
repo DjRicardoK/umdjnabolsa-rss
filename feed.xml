@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 02:38:26 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:50:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nasdaq Composite tem uma manhã difícil; Dow se mantém melhor (mal)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nasdaq-composite-rough-morning-dow-175344046.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nasdaq-composite-rough-morning-dow-175344046.html</guid>
+      <pubDate>21/05/2026 02:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/2a891bb953fc3600d4a2b5da43cb8bf7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Walmart: veja por que os analistas estão aumentando as metas de preços antes dos lucros do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-rally-on-upbeat-nvidia-earnings-kospi-surges-8-on-samsung-union-deal-4702936</guid>
       <pubDate>21/05/2026 01:29</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEABM09Q_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Fornecedores asiáticos da Nvidia se recuperam depois que IA alimenta fortes ganhos no primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/nvidia-asian-suppliers-rally-after-ai-fuels-strong-q1-earnings-4702937</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-asian-suppliers-rally-after-ai-fuels-strong-q1-earnings-4702937</guid>
-      <pubDate>21/05/2026 01:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE141FU_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
