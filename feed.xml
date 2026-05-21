@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 17:53:42 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:58:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Donnelley Financial (DFIN) lança uma recompra de US$ 150 milhões à medida que sua receita de software aumenta</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/donnelley-financial-dfin-launches-150-123458683.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/donnelley-financial-dfin-launches-150-123458683.html</guid>
+      <pubDate>21/05/2026 17:58</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ae7fda222174adecf228d60a68f7e997" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de ganhos do segundo trimestre de 2026 da Toll Brothers, Inc.</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-cincinnati-for-21-may-93CH-4704760</link>
       <guid isPermaLink="false">https://www.investing.com/news/filings/form-8k-federal-home-loan-bank-of-cincinnati-for-21-may-93CH-4704760</guid>
       <pubDate>21/05/2026 14:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da STMicroelectronics atingem alta de 52 semanas a 65,34 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/stmicroelectronics-stock-hits-52week-high-at-6534-usd-93CH-4704737</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/stmicroelectronics-stock-hits-52week-high-at-6534-usd-93CH-4704737</guid>
-      <pubDate>21/05/2026 14:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
