@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 01:02:58 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 01:23:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Índia avalia opções, incluindo aumento de taxas para estabilizar a rupia em dificuldades, diz Bloomberg</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/india-weighs-options-including-rate-hikes-to-stabilize-floundering-rupee-bloomberg-93CH-4702934</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/india-weighs-options-including-rate-hikes-to-stabilize-floundering-rupee-bloomberg-93CH-4702934</guid>
+      <pubDate>21/05/2026 01:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Indian_Rupee_M_1440056022.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street está otimista ou baixista com as ações da Northrop Grumman?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/software-stocks-extend-rebound-servicenow-133645602.html</guid>
       <pubDate>20/05/2026 22:09</pubDate>
       <enclosure url="https://media.zenfs.com/en/investorshub_458/82d1ba803017a67af3651010202eac9c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações abrem em baixa, seguindo o exemplo dos títulos</title>
-      <description></description>
-      <link>https://www.barrons.com/livecoverage/stock-market-news-today-051926/card/stocks-open-lower-taking-a-cue-from-bonds-6htytJ4XVadaaN68TmHK?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-051926/card/stocks-open-lower-taking-a-cue-from-bonds-6htytJ4XVadaaN68TmHK?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>20/05/2026 22:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
