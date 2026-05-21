@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 07:29:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:42:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Ações de computação quântica saltam após relatório dos EUA concederem US$ 2 bilhões a empresas do setor</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/quantum-computing-shares-jump-on-report-us-to-award-2bn-to-firms-in-the-sector-4703548</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/quantum-computing-shares-jump-on-report-us-to-award-2bn-to-firms-in-the-sector-4703548</guid>
+      <pubDate>21/05/2026 07:42</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED4E075_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE China transforma tecnologia verde em uma tábua de salvação econômica</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/accenture-plc-acn-among-best-195812418.html</guid>
       <pubDate>21/05/2026 04:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ac1b7bc226ce9b97a00c2d84c49aa59c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE OceanaGold (OGC) divulga resultados de alta qualidade da perfuração de ouro Haile</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/oceanagold-ogc-reports-high-grade-195309484.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/oceanagold-ogc-reports-high-grade-195309484.html</guid>
-      <pubDate>21/05/2026 04:56</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0df8f375ad94646d812bb45340f3f03e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
