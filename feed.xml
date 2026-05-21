@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 07:00:42 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:07:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Exclusive-Stellantis construirá EV da marca Voyah para Dongfeng da China em fábrica francesa, dizem fontes</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/exclusive-stellantis-build-voyah-brand-221253856.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/exclusive-stellantis-build-voyah-brand-221253856.html</guid>
+      <pubDate>21/05/2026 07:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/9ee18aec17347d0fc14189ab387ccd9c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Tate &amp; Lyle relata resultados mistos do segundo semestre de 2026</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/keybanc-raises-nvidia-stock-price-target-to-310-on-strong-results-93CH-4703065</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/keybanc-raises-nvidia-stock-price-target-to-310-on-strong-results-93CH-4703065</guid>
       <pubDate>21/05/2026 04:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de lucros: os resultados do primeiro semestre de 2026 da EasyJet mostram...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-easyjets-h1-2026-results-show-increased-losses-93CH-4703032</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-easyjets-h1-2026-results-show-increased-losses-93CH-4703032</guid>
-      <pubDate>21/05/2026 04:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
