@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 09:32:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 09:49:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: BingEx no primeiro trimestre de 2026 vê queda na receita e...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bingex-q1-2026-sees-revenue-drop-stock-dips-93CH-4704065</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bingex-q1-2026-sees-revenue-drop-stock-dips-93CH-4704065</guid>
+      <pubDate>21/05/2026 09:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Walmart vê desaceleração no crescimento das vendas e alerta sobre perda de lucro, em contraste com a rival...</title>
       <description>As ações do Walmart caem à medida que os investidores expressam decepção com as perspectivas de lucros.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-set-named-lead-232035423.html</guid>
       <pubDate>21/05/2026 08:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/6699cdbd22bb48cc52b345974c0d2aa9" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE OSL fortalece o ecossistema de ativos digitais da Ásia com listagem da stablecoin USDKG, supervisionada pelo...</title>
-      <description></description>
-      <link>https://www.investing.com/news/press-releases/osl-strengthens-asias-digital-asset-ecosystem-with-listing-of-statesupervised-goldbacked-stablecoin-usdkg-4703649</link>
-      <guid isPermaLink="false">https://www.investing.com/news/press-releases/osl-strengthens-asias-digital-asset-ecosystem-with-listing-of-statesupervised-goldbacked-stablecoin-usdkg-4703649</guid>
-      <pubDate>21/05/2026 08:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/news_headline_rolled_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
