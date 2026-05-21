@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 23:41:50 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 23:49:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE MetaMask acaba de adicionar ações tokenizadas dos EUA – NÃO para usuários dos EUA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/metamask-just-added-tokenized-us-150425470.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/metamask-just-added-tokenized-us-150425470.html</guid>
+      <pubDate>20/05/2026 23:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/99bitcoins_us_315/65aba39cad1d93e37b18190e2d7ffe0d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Compre ações da Apple e outros vencedores do Dow, venda Salesforce e outros perdedores, afirma o técnico</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dell-teams-nvidia-scale-ai-155414569.html</guid>
       <pubDate>20/05/2026 20:45</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/51ef4d346eaaed7b3656c3cf333cd3e7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da Chubb Limited?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-chubb-152121395.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-chubb-152121395.html</guid>
-      <pubDate>20/05/2026 20:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/253b9c63abd4bd77465e5ba2efb6ecb4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
