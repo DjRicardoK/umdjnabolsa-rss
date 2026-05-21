@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 12:40:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 12:40:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Galantas Gold relata exercícios de garantia para 2,77 milhões de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/galantas-gold-reports-warrant-exercises-for-277-million-shares-93CH-4704571</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/galantas-gold-reports-warrant-exercises-for-277-million-shares-93CH-4704571</guid>
+      <pubDate>21/05/2026 12:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações do Permian Basin Royalty Trust atingem o máximo histórico de 32,14 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analyzing-workday-wday-ideocratic-earnings-135137485.html</guid>
       <pubDate>21/05/2026 11:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/31fba658e4859a33a3069b9d3341c5dc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Seu graduado da faculdade está voltando para casa? Como ajudá-los a economizar – e proteger sua aposentadoria.</title>
-      <description>Enquanto a turma de 2026 olha para o futuro depois de garantir seus diplomas, alguns se preparam para voltar do dormitório para o quarto de infância.</description>
-      <link>https://www.marketwatch.com/story/is-your-college-grad-moving-back-home-how-to-help-them-build-savings-and-protect-your-retirement-4a5fc109?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/is-your-college-grad-moving-back-home-how-to-help-them-build-savings-and-protect-your-retirement-4a5fc109?mod=mw_rss_topstories</guid>
-      <pubDate>21/05/2026 11:01</pubDate>
-      <enclosure url="https://images.mktw.net/im-86761225" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
