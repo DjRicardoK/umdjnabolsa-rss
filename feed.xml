@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 03:22:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 03:24:18 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão prevendo que as ações da ServiceNow subirão ou afundarão?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-servicenow-182751408.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-servicenow-182751408.html</guid>
+      <pubDate>21/05/2026 03:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/84c2179440e2782f95f6cf508e91d349" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Nvidia tiveram desempenho inferior em 2026. Os fundos de hedge bilionários ainda estão engolindo...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/radcom-ltd-q1-2026-earnings-165425994.html</guid>
       <pubDate>21/05/2026 01:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/d7eb936bedfb8387620b9bbf3dd18fed" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2026 da Oxford Lane Capital Corp.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/oxford-lane-capital-corp-q4-165351541.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/oxford-lane-capital-corp-q4-165351541.html</guid>
-      <pubDate>21/05/2026 01:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/2d5505847c84a0f82f13a0ab83a715a7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
