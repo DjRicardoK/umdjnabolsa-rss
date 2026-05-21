@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 21:59:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:08:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações abrem em baixa, seguindo o exemplo dos títulos</title>
+      <description></description>
+      <link>https://www.barrons.com/livecoverage/stock-market-news-today-051926/card/stocks-open-lower-taking-a-cue-from-bonds-6htytJ4XVadaaN68TmHK?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-051926/card/stocks-open-lower-taking-a-cue-from-bonds-6htytJ4XVadaaN68TmHK?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>20/05/2026 22:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O estoque de petróleo ocidental aumentou 45% este ano. Está superando outras ações de petróleo, como...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/oxford-lane-capital-q4-earnings-141422092.html</guid>
       <pubDate>20/05/2026 19:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/572ff434b6996e41f3169a30fbea34ba" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: ClearSign Q1 2026 revela queda de receita e inovação tecnológica</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-clearsign-q1-2026-reveals-revenue-drop-tech-innovation-93CH-4702668</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-clearsign-q1-2026-reveals-revenue-drop-tech-innovation-93CH-4702668</guid>
-      <pubDate>20/05/2026 18:58</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
