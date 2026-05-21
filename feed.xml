@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 18:53:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 18:55:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Navamedic Q4 2026 vê perda de receita e queda de ações</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-navamedic-q4-2026-sees-revenue-miss-stock-dips-93CH-4705446</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-navamedic-q4-2026-sees-revenue-miss-stock-dips-93CH-4705446</guid>
+      <pubDate>21/05/2026 18:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Microsoft caem e Bill Ackman faz sua aposta mais ousada em IA até agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/kite-realty-group-trust-stock-hits-52week-high-at-2688-usd-93CH-4704835</guid>
       <pubDate>21/05/2026 15:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BofA reitera compra de semicondutores de Taiwan (TSM) após simpósio técnico</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bofa-reiterates-buy-taiwan-semiconductor-072237772.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bofa-reiterates-buy-taiwan-semiconductor-072237772.html</guid>
-      <pubDate>21/05/2026 15:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/555a019e1f4fbc93ccb8acc184c6aa1e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
