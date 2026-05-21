@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 05:27:24 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 05:28:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Como a Broadcom (AVGO) está trazendo o VMware para a infraestrutura de produção de IA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-bringing-vmware-production-202441278.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-bringing-vmware-production-202441278.html</guid>
+      <pubDate>21/05/2026 05:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/8a0625664bc27d63e64f060c8f46dcea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Mitchells &amp; Butlers vê queda nas ações apesar do forte primeiro...</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/analyst-ratings/stifel-raises-nvidia-stock-price-target-to-282-on-strong-results-93CH-4702950</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-raises-nvidia-stock-price-target-to-282-on-strong-results-93CH-4702950</guid>
-      <pubDate>21/05/2026 02:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mizuho aumenta o preço-alvo das ações da Nvidia para US$ 300 com a força da Blackwell</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/mizuho-raises-nvidia-stock-price-target-to-300-on-blackwell-strength-93CH-4702951</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/mizuho-raises-nvidia-stock-price-target-to-300-on-blackwell-strength-93CH-4702951</guid>
       <pubDate>21/05/2026 02:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
