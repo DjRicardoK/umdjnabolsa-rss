@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 22:09:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:19:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Como o software pode 10x o estoque de Rivian</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/software-10x-rivians-stock-134550260.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/software-10x-rivians-stock-134550260.html</guid>
+      <pubDate>20/05/2026 22:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/trefis_142/6bfd59449d4fcce934fb8fb84f7fc0aa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ações de software ampliam recuperação à medida que ServiceNow e Salesforce sobem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-inflation-tracker-just-flashed-141000258.html</guid>
       <pubDate>20/05/2026 19:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/7fc58722daa86c5366ab6c9e4ae1192f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações pressionadas pela fraqueza tecnológica e aumento dos rendimentos dos títulos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-tech-weakness-rising-141302643.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-tech-weakness-rising-141302643.html</guid>
-      <pubDate>20/05/2026 19:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/504dba31bff02fcd8f8d5c2ba86af089" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
