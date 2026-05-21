@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 01:29:36 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 01:32:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Eagle Point Credit Company Inc. Resumo da teleconferência de ganhos do primeiro trimestre de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/eagle-point-credit-company-inc-165056058.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/eagle-point-credit-company-inc-165056058.html</guid>
+      <pubDate>21/05/2026 01:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/d2fabc59f3f82fdb050d2bb04a685e84" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações asiáticas sobem com ganhos otimistas da Nvidia, KOSPI sobe 8% com acordo sindical da Samsung</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-hartford-140105245.html</guid>
       <pubDate>20/05/2026 22:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/e379b31a641c550a804945d74d106a9b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trabalhadores com mais de 60 anos são os menos preocupados com a possibilidade de a IA tirar seus empregos –...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/workers-over-60-least-worried-140500678.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/workers-over-60-least-worried-140500678.html</guid>
-      <pubDate>20/05/2026 22:38</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_327/431bcd5ceff06ae1349a2e20f4ec2e4c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
