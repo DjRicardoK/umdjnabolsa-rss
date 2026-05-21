@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 03:36:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 03:41:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do petróleo bruto caem devido às esperanças diplomáticas de acabar com a guerra no Irã</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-slip-diplomatic-191859918.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-slip-diplomatic-191859918.html</guid>
+      <pubDate>21/05/2026 03:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ca88e087f12a3f8d2cc35756e5cb650e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Estoques de memória despencam após CEO da Seagate levantar sobrancelhas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/treasury-yields-10-year-trump-high-gold-sp-500/?src=A00220&yptr=yahoo</guid>
       <pubDate>21/05/2026 02:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/af6accb33c69638c41629aff8b596b48" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wall Street está adorando as demissões na Microsoft. Compre o mergulho.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-loving-layoffs-microsoft-171639846.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-loving-layoffs-microsoft-171639846.html</guid>
-      <pubDate>21/05/2026 02:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/417399f8a8994c7a7eb85cdd0ea5acb4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
