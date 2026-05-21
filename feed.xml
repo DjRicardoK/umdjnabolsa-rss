@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 13:58:04 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:58:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Kawasaki Heavy e Nvidia planejam centro de robótica no Vale do Silício, relata Nikkei</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/kawasaki-heavy-nvidia-plan-silicon-valley-robotics-center-nikkei-reports-4704654</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/kawasaki-heavy-nvidia-plan-silicon-valley-robotics-center-nikkei-reports-4704654</guid>
+      <pubDate>21/05/2026 13:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K1GU_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Datavault AI Q1 2026 supera previsão de EPS, ações caem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/permian-basin-royalty-trust-stock-hits-alltime-high-at-3214-usd-93CH-4704572</guid>
       <pubDate>21/05/2026 12:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar sobe enquanto acordo com o Irã duvida de perspectivas nebulosas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/dollar-rally-pauses-iran-deal-022623308.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/dollar-rally-pauses-iran-deal-022623308.html</guid>
-      <pubDate>21/05/2026 12:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/967e2a910f484bc48b213cba83f4eb90" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
