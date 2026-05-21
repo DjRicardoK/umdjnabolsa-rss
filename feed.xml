@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 02:02:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 02:08:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wintermute lança solução &apos;Armitage&apos; USDC Vault em Morpho</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/wintermute-launches-armitage-usdc-vault-170832594.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/wintermute-launches-armitage-usdc-vault-170832594.html</guid>
+      <pubDate>21/05/2026 02:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bankless_325/1c7d7b205fde6a17f092828bc1de376b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Tesouro rende pico até a máxima do segundo mandato de Trump, afundando ouro e S&amp;P 500</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/metamask-just-added-tokenized-us-150425470.html</guid>
       <pubDate>20/05/2026 23:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/99bitcoins_us_315/65aba39cad1d93e37b18190e2d7ffe0d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Compre ações da Apple e outros vencedores do Dow, venda Salesforce e outros perdedores, afirma o técnico</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/buy-dow-stock-winners-apple-96c06291?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/buy-dow-stock-winners-apple-96c06291?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>20/05/2026 23:41</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/be0915c7126cbc1ca6b7d67721e09e4b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
