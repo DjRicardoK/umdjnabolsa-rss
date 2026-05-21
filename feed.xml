@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 20 May 2026 23:33:33 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 23:41:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Compre ações da Apple e outros vencedores do Dow, venda Salesforce e outros perdedores, afirma o técnico</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/buy-dow-stock-winners-apple-96c06291?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/buy-dow-stock-winners-apple-96c06291?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>20/05/2026 23:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/be0915c7126cbc1ca6b7d67721e09e4b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O setor que Wall Street chama de ‘defensivo’ ultrapassou silenciosamente a inflação e o Tesouro de 10 anos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-chubb-152121395.html</guid>
       <pubDate>20/05/2026 20:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/253b9c63abd4bd77465e5ba2efb6ecb4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O aumento dos rendimentos dos títulos pesa sobre as ações</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/rising-bond-yields-weigh-stocks-152152173.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rising-bond-yields-weigh-stocks-152152173.html</guid>
-      <pubDate>20/05/2026 20:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/2c1e4668381711bc34527dd1ea9574d3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
