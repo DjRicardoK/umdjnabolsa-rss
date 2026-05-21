@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 15:19:52 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:45:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações do Kite Realty Group Trust atingem o máximo de 52 semanas a 26,88 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/kite-realty-group-trust-stock-hits-52week-high-at-2688-usd-93CH-4704835</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/kite-realty-group-trust-stock-hits-52week-high-at-2688-usd-93CH-4704835</guid>
+      <pubDate>21/05/2026 15:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BofA reitera compra de semicondutores de Taiwan (TSM) após simpósio técnico</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cosan-q1-2026-sees-revenue-beat-but-eps-miss-93CH-4704671</guid>
       <pubDate>21/05/2026 13:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Alguns funcionários e funcionários do Fed estão preocupados com o estado dos mercados financeiros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/fed-officials-staff-fretting-state-161942069.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-officials-staff-fretting-state-161942069.html</guid>
-      <pubDate>21/05/2026 13:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/7a8a7f6b2818b38bdf6089a8b30747be" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
