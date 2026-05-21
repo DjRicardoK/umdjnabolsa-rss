@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 08:33:42 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 08:34:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2026 da XP Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/xp-inc-q1-2026-earnings-003930227.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/xp-inc-q1-2026-earnings-003930227.html</guid>
+      <pubDate>21/05/2026 08:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/329489c207b6d757cb88e02092cc3231" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Quantum disparam enquanto a administração Trump está supostamente comprando</title>
       <description>As ações das empresas de computação quântica saltam após uma reportagem do WSJ de que a administração Trump está assumindo participações minoritárias em nove empresas.</description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-cirsas-q1-2026-shows-strong-growth-stock-dips-93CH-4703210</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cirsas-q1-2026-shows-strong-growth-stock-dips-93CH-4703210</guid>
       <pubDate>21/05/2026 06:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: segundo semestre de 2026 da Investec mostra resiliência em meio...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-investecs-h2-2026-shows-resilience-amid-challenges-93CH-4703196</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-investecs-h2-2026-shows-resilience-amid-challenges-93CH-4703196</guid>
-      <pubDate>21/05/2026 06:16</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
