@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 20:29:23 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 20:48:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE IPC do Japão esfria em abril; A inflação subjacente cai ainda mais abaixo da meta do Banco do Japão</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/japan-cpi-cools-in-april-core-inflation-falls-further-below-boj-target-4705626</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/japan-cpi-cools-in-april-core-inflation-falls-further-below-boj-target-4705626</guid>
+      <pubDate>21/05/2026 20:48</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB3Q0G9_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Até 110% no acumulado do ano, por que o apoio da Nvidia pode manter a recuperação das ações da Nokia</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/seagate-stock-plunges-executive-warnings-131501800.html</guid>
       <pubDate>21/05/2026 18:19</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/f652d18d46a77a380273749ffa5d1aaf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE À medida que a Tesla se inclina para o pivô da IA, o bilionário Paul Tudor Jones acaba de aumentar sua...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-leans-ai-pivot-billionaire-130002108.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-leans-ai-pivot-billionaire-130002108.html</guid>
-      <pubDate>21/05/2026 18:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/900d8766156b372efca5d3d39d785cd1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
