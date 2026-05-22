@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 11:23:12 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:26:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Sentimento do consumidor dos EUA atinge mínimos históricos em maio; expectativas de inflação aumentam</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/us-consumer-sentiment-plumbs-record-lows-in-may-inflation-expectations-increase-4706968</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/us-consumer-sentiment-plumbs-record-lows-in-may-inflation-expectations-increase-4706968</guid>
+      <pubDate>22/05/2026 11:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L15C_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE IBM salta à medida que Quantum Stocks amplia alta após investimentos da administração Trump de US$ 2 bilhões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/nvidia-made-one-of-the-biggest-buyback-announcements-ever-it-may-not-be-enough-f9a5990c?mod=mw_rss_topstories</guid>
       <pubDate>22/05/2026 09:35</pubDate>
       <enclosure url="https://images.mktw.net/im-85750374" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Henry Schein: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/henry-schein-stock-wall-street-004950400.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/henry-schein-stock-wall-street-004950400.html</guid>
-      <pubDate>22/05/2026 09:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/790e1b3fe7a9f3a55db3745f95ec2df2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
