@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 06:02:41 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 07:07:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Diraq, investida da UIL, garante carta de intenções de financiamento federal de US$ 38 milhões</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/uil-investee-diraq-secures-38m-federal-funding-letter-of-intent-93CH-4706064</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/uil-investee-diraq-secures-38m-federal-funding-letter-of-intent-93CH-4706064</guid>
+      <pubDate>22/05/2026 07:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O magnata do setor imobiliário Mauricio Umansky diz que &apos;Reaganomics&apos; é a resposta para o problema de...</title>
       <description>Umansky não está convencido do imposto bilionário proposto pela Califórnia – alertando que a iniciativa é míope e pode acabar por fazer mais mal do que bem.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/tesla-to-recall-over-14500-model-y-suvs-in-us-over-missing-weight-certification-label-4705851</guid>
       <pubDate>22/05/2026 04:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L0FH_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ministro das Relações Exteriores da China presidirá reunião do Conselho de Segurança da ONU nos EUA e...</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/china-foreign-minister-to-chair-un-security-council-meeting-in-us-visit-canada-4705847</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/china-foreign-minister-to-chair-un-security-council-meeting-in-us-visit-canada-4705847</guid>
-      <pubDate>22/05/2026 04:31</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L0F7_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
