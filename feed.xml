@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 04:10:41 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 04:10:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Emitel adquire data center perto de Varsóvia e entra em novo mercado</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/emitel-acquires-data-centre-near-warsaw-enters-new-market-93CH-4705830</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/emitel-acquires-data-centre-near-warsaw-enters-new-market-93CH-4705830</guid>
+      <pubDate>22/05/2026 04:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Galantas Gold arquiva circular para votação de aquisição da Andacollo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-nvidia-heart-180433352.html</guid>
       <pubDate>22/05/2026 02:50</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jim Cramer na Home Depot: “Qualquer coisa ligada à habitação é prejudicada pelas taxas mais altas”</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-anything-180437513.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-anything-180437513.html</guid>
-      <pubDate>22/05/2026 02:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bfd8c3ad6721d8e1b3ec91aa8061802b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
