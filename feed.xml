@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 07:54:29 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:00:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Evercore ISI reitera classificação das ações da Dell sobre o impulso da IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-dell-stock-rating-on-ai-momentum-93CH-4706247</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/evercore-isi-reiterates-dell-stock-rating-on-ai-momentum-93CH-4706247</guid>
+      <pubDate>22/05/2026 08:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE À medida que as apostas otimistas aumentam, aqui está a opção para proteger os portfólios de uma provável...</title>
       <description>Os setores de materiais, tecnologia e energia oferecem uma oportunidade atraente de hedge</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-china--hk-tech-stocks-to-watch-according-to-macquarie-93CH-4705872</guid>
       <pubDate>22/05/2026 04:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0K08U_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Este estoque de AI Biotech conseguiu um investimento de US$ 10,4 milhões na Nvidia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/ai-biotech-stock-landed-10-194511236.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/ai-biotech-stock-landed-10-194511236.html</guid>
-      <pubDate>22/05/2026 04:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/271604d392d51f4fcc08544a6f5770cc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
