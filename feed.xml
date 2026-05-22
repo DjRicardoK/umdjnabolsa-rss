@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 13:10:42 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:10:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas do Reino Unido sobem no fechamento do pregão; Investing.com Reino Unido 100 sobe 0,17%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-017-4707138</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-017-4707138</guid>
+      <pubDate>22/05/2026 13:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED7G0IN_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Trump diz a Warsh para “ser totalmente independente” como presidente do Fed. ‘Não olhe para mim’, diz o...</title>
       <description>O presidente Donald Trump e o novo presidente do Federal Reserve, Kevin Warsh, apareceram juntos na sexta-feira na Casa Branca para a cerimônia de posse de Warsh.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/article/feds-waller-looks-to-hold-rates-steady-on-oil-shock-cant-rule-out-hikes-down-the-road-141745381.html</guid>
       <pubDate>22/05/2026 11:22</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2023-08/bc9c04c0-4bfb-11ee-9fbe-89179c47d50e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Helix compra 50% de participação no projeto Weerianna Gold-Lithium</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/helix-buys-50-stake-weerianna-141912865.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/helix-buys-50-stake-weerianna-141912865.html</guid>
-      <pubDate>22/05/2026 11:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/mining_technology_700/e4489612a9371a5448368358397f34ae" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
