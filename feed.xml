@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 11:40:43 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:53:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Mercado de ações sobe, Dow Jones atinge nova máxima; Nvidia, Walmart, SpaceX em foco: revisão semanal</title>
+      <description></description>
+      <link>https://www.investors.com/news/stock-market-rises-dow-jones-hits-new-high-nvidia-walmart-spacex/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/stock-market-rises-dow-jones-hits-new-high-nvidia-walmart-spacex/?src=A00220&yptr=yahoo</guid>
+      <pubDate>22/05/2026 11:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/2676b39b084559ccf59dc902a2b135e8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Dell atingem novos máximos; Lucros em foco à medida que os servidores de IA reiniciam o...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories</guid>
       <pubDate>22/05/2026 10:00</pubDate>
       <enclosure url="https://images.mktw.net/im-69899727" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Motorola Solutions?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-014031128.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-014031128.html</guid>
-      <pubDate>22/05/2026 09:49</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/4b0a1759d4868ee155d587fdf65b43a7" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
