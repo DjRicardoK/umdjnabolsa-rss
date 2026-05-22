@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 13:52:11 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:52:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A matemática fiscal que faz com que essas ações de dividendos valham mais US$ 10.080 por ano</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/tax-math-makes-dividend-stocks-164042670.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tax-math-makes-dividend-stocks-164042670.html</guid>
+      <pubDate>22/05/2026 13:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações sobem, os rendimentos caem enquanto os investidores se concentram nas negociações EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/stock-market-rises-dow-jones-hits-new-high-nvidia-walmart-spacex/?src=A00220&yptr=yahoo</guid>
       <pubDate>22/05/2026 11:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/2676b39b084559ccf59dc902a2b135e8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Dell atingem novos máximos; Lucros em foco à medida que os servidores de IA reiniciam o...</title>
-      <description></description>
-      <link>https://www.investors.com/research/earnings-preview/dell-stock-new-highs-earnings-ai-servers-tech-growth-markets/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/earnings-preview/dell-stock-new-highs-earnings-ai-servers-tech-growth-markets/?src=A00220&yptr=yahoo</guid>
-      <pubDate>22/05/2026 11:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/d6453381fceaa5437441ad458580dc6c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
