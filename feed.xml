@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 03:47:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:48:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Perspectiva das ações da EchoStar: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/echostar-stock-outlook-wall-street-185555648.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/echostar-stock-outlook-wall-street-185555648.html</guid>
+      <pubDate>22/05/2026 03:48</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b39b82311cf62a65e4edd499f0092b8a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A Berkshire Hathaway vendeu 5 ações de longa data de Warren Buffett. O que a Nova Era Abel significa para...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/apec-trade-envoys-gather-in-china-to-discuss-trade-imbalances-supply-chain-resilience-4705754</guid>
       <pubDate>22/05/2026 02:34</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L08T_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Todo mundo está pessimista em relação à Tesla antes do IPO da SpaceX. Seja um contrário e compre ações da...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/everyone-turning-bearish-tesla-ahead-175927013.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/everyone-turning-bearish-tesla-ahead-175927013.html</guid>
-      <pubDate>22/05/2026 02:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b2e22199ba6dcf5e8f8124433ab1030c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
