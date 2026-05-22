@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 22:27:16 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 22:42:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações do Simon Property Group?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-134321446.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-134321446.html</guid>
+      <pubDate>21/05/2026 22:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0152b61f9cd3c3f0b699d21a3a76619b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar empoleirado perto de alta de seis semanas devido à incerteza sobre acordo EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/trump-will-swear-in-warsh-on-friday-to-lead-us-federal-reserve-4705544</guid>
       <pubDate>21/05/2026 20:00</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K1VF_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ações sobem com queda nos rendimentos do petróleo bruto e dos títulos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/stocks-rally-crude-oil-bond-151722712.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-rally-crude-oil-bond-151722712.html</guid>
-      <pubDate>21/05/2026 19:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/bc1ca70c2b48d920c5437c60396a6beb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
