@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 13:13:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:30:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warsh recebe uma recepção muito mais calorosa em Wall Street como presidente do Fed do que seus antecessores...</title>
+      <description>Wall Street saudou o novo presidente do Fed, Kevin Warsh, com uma recuperação, o que geralmente acontece durante mudanças de liderança.</description>
+      <link>https://www.marketwatch.com/story/warsh-gets-a-much-warmer-wall-street-welcome-as-fed-chair-than-his-recent-predecessors-a615f23f?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/warsh-gets-a-much-warmer-wall-street-welcome-as-fed-chair-than-his-recent-predecessors-a615f23f?mod=mw_rss_topstories</guid>
+      <pubDate>22/05/2026 13:30</pubDate>
+      <enclosure url="https://images.mktw.net/im-81998827" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A “maldição” da nova presidência do Fed e o petróleo acima de US$ 100 já estão testando Kevin Warsh – e o...</title>
       <description>As crises do mercado normalmente marcam os novos líderes dos bancos centrais. E Warsh enfrenta uma escolha difícil entre esmagar a demanda ou salvar o mercado altista.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/us-consumer-sentiment-plumbs-record-lows-in-may-inflation-expectations-increase-4706968</guid>
       <pubDate>22/05/2026 11:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L15C_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE IBM salta à medida que Quantum Stocks amplia alta após investimentos da administração Trump de US$ 2 bilhões</title>
-      <description></description>
-      <link>https://www.investors.com/news/technology/ibm-stock-quantum-stocks-trump-administration/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/technology/ibm-stock-quantum-stocks-trump-administration/?src=A00220&yptr=yahoo</guid>
-      <pubDate>22/05/2026 11:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/c1a7492ff3b7d1307054594a009d2f75" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
