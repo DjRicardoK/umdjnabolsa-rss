@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 15:03:41 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:10:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Grupo Financiero Galicia vê resultados mistos no primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-financiero-galicia-sees-mixed-q1-2026-results-93CH-4707280</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-financiero-galicia-sees-mixed-q1-2026-results-93CH-4707280</guid>
+      <pubDate>22/05/2026 15:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Veja por que o Deutsche Bank Aktiengesellschaft (DB) está entre as melhores ações de bancos europeus</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-marvell-dell-costco-earnings-fed-inflation-gauge/?src=A00220&yptr=yahoo</guid>
       <pubDate>22/05/2026 12:56</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/b78680df44aa2754ba3b085acd1e2fd2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Core Scientific atingem o máximo histórico de 25,31 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/core-scientific-stock-hits-alltime-high-at-2531-usd-93CH-4707099</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/core-scientific-stock-hits-alltime-high-at-2531-usd-93CH-4707099</guid>
-      <pubDate>22/05/2026 12:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
