@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 20:48:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 21:00:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O núcleo da inflação do Japão desacelera para o menor nível em 4 anos em abril</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/japans-core-inflation-slows-to-4year-low-in-april-4705632</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japans-core-inflation-slows-to-4year-low-in-april-4705632</guid>
+      <pubDate>21/05/2026 21:00</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K1XF_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE IPC do Japão esfria em abril; A inflação subjacente cai ainda mais abaixo da meta do Banco do Japão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-074-4705399</guid>
       <pubDate>21/05/2026 18:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/The-Mexican-Stock-Exchange_M_1440048947.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As ações da Seagate despencam devido às advertências dos executivos. Por que os prazos de entrega são tão...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/seagate-stock-plunges-executive-warnings-131501800.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/seagate-stock-plunges-executive-warnings-131501800.html</guid>
-      <pubDate>21/05/2026 18:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/f652d18d46a77a380273749ffa5d1aaf" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
