@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 12:24:39 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 12:24:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de Marrocos sobem no fechamento do pregão; Todas as ações marroquinas sobem 0,35%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-035-4707065</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-035-4707065</guid>
+      <pubDate>22/05/2026 12:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA6606G_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE ICE, proprietária da NYSE, traz futuros perpétuos de petróleo para a OKX enquanto a guerra no Irã impulsiona...</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-snowflake-stock-rating-ahead-of-earnings-93CH-4706899</link>
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-snowflake-stock-rating-ahead-of-earnings-93CH-4706899</guid>
       <pubDate>22/05/2026 11:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da CrowdStrike atingem o máximo histórico de 660,02 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/crowdstrike-stock-hits-alltime-high-at-66002-usd-93CH-4706840</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/crowdstrike-stock-hits-alltime-high-at-66002-usd-93CH-4706840</guid>
-      <pubDate>22/05/2026 10:39</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
