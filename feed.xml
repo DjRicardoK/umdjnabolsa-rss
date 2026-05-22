@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 13:34:55 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:40:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Penguin Solutions atingem o máximo histórico de 53,29 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/penguin-solutions-stock-hits-alltime-high-at-5329-usd-93CH-4707186</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/penguin-solutions-stock-hits-alltime-high-at-5329-usd-93CH-4707186</guid>
+      <pubDate>22/05/2026 13:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Com queda de 30% em relação aos máximos, este favorito de Warren Buffett está sendo negociado abaixo de US$ 20</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/company-news/cts-stock-hits-52week-high-at-6207-usd-93CH-4706941</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/cts-stock-hits-52week-high-at-6207-usd-93CH-4706941</guid>
-      <pubDate>22/05/2026 11:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Benchmark reitera classificação das ações da NetEase com fortes resultados do primeiro trimestre</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/benchmark-reiterates-netease-stock-rating-on-strong-q1-results-93CH-4706942</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/benchmark-reiterates-netease-stock-rating-on-strong-q1-results-93CH-4706942</guid>
       <pubDate>22/05/2026 11:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
