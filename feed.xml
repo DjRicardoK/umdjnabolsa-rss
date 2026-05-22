@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 03:07:04 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:08:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Minutas do Fed sinalizam taxas mais altas por mais tempo enquanto o Bitcoin enfrenta pressão</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/fed-minutes-signal-higher-longer-180841588.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/fed-minutes-signal-higher-longer-180841588.html</guid>
+      <pubDate>22/05/2026 03:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/beincrypto_us_662/de0b2cbad6a152af42891d37c2ac4e80" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Este famoso investidor acabou de vender todas as suas ações da Alphabet e abastecer-se com ações da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/nvidia-earnings-what-to-expect-t1jgMu6i66xSpHldxDHM?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>22/05/2026 01:41</pubDate>
       <enclosure url="https://media.zenfs.com/en/wsj.com/1c92252f5d19d3b8453e7d614225a263" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Por que as ações estão subindo hoje e os rendimentos dos títulos caindo</title>
-      <description></description>
-      <link>https://www.barrons.com/livecoverage/stock-market-news-today-052026/card/why-stocks-are-rallying-today-and-bond-yields-falling-H8NjBa2d7VkHcaWRVmu5?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/livecoverage/stock-market-news-today-052026/card/why-stocks-are-rallying-today-and-bond-yields-falling-H8NjBa2d7VkHcaWRVmu5?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>22/05/2026 01:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
