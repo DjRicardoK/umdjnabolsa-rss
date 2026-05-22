@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 02:34:57 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 02:35:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE As ações europeias de IA brilham em meio à escuridão da guerra com o Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/europes-ai-stocks-shine-through-gloom-of-iran-war-4705749</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/europes-ai-stocks-shine-through-gloom-of-iran-war-4705749</guid>
+      <pubDate>22/05/2026 02:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L07X_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Enviados comerciais da APEC reúnem-se na China para discutir desequilíbrios comerciais e resiliência da...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-asian-suppliers-extend-gains-on-upbeat-ai-outlook-4705734</guid>
       <pubDate>22/05/2026 00:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB440WA_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Um diretor da Warby Parker se desfez de 25.000 ações da empresa. O que isso significa para os investidores?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/warby-parker-director-dumped-25-152601584.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warby-parker-director-dumped-25-152601584.html</guid>
-      <pubDate>22/05/2026 00:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/c27a7e2773e2dd4be080db2e8154f7c0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
