@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 12:56:39 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:10:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump diz a Warsh para “ser totalmente independente” como presidente do Fed. ‘Não olhe para mim’, diz o...</title>
+      <description>O presidente Donald Trump e o novo presidente do Federal Reserve, Kevin Warsh, apareceram juntos na sexta-feira na Casa Branca para a cerimônia de posse de Warsh.</description>
+      <link>https://www.marketwatch.com/story/trump-tells-warsh-to-be-totally-independent-as-fed-chair-dont-look-at-me-president-says-051c3740?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/trump-tells-warsh-to-be-totally-independent-as-fed-chair-dont-look-at-me-president-says-051c3740?mod=mw_rss_topstories</guid>
+      <pubDate>22/05/2026 13:10</pubDate>
+      <enclosure url="https://images.mktw.net/im-24412260" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Semana do mercado de ações à frente: Marvell, Dell e o medidor de inflação do Fed</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/helix-buys-50-stake-weerianna-141912865.html</guid>
       <pubDate>22/05/2026 11:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/mining_technology_700/e4489612a9371a5448368358397f34ae" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do quarto trimestre da CAE</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/cae-q4-earnings-call-highlights-141258966.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cae-q4-earnings-call-highlights-141258966.html</guid>
-      <pubDate>22/05/2026 11:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/e78f3c8f10a0f5e12dd14ae049518f6b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
