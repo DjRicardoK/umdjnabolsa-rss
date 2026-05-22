@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 04:27:29 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 04:27:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar recua devido ao otimismo iraniano</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-retreats-iran-optimism-193838180.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-retreats-iran-optimism-193838180.html</guid>
+      <pubDate>22/05/2026 04:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0d2930021ab714cff3f9a0b9dbce099d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE 80% das empresas têm um imigrante num papel de liderança de topo – a repressão dos vistos de Trump está a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/famous-investor-just-sold-alphabet-181100849.html</guid>
       <pubDate>22/05/2026 03:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/596d62a9e70b30e59c8f673ee1e0d723" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE InPost diz que oferta de compra de US$ 9 bilhões liderada pela FedEx será aberta em 26 de maio</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/inpost-says-fedexled-9-billion-buyout-offer-to-run-from-may-26-to-july-27-4705757</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/inpost-says-fedexled-9-billion-buyout-offer-to-run-from-may-26-to-july-27-4705757</guid>
-      <pubDate>22/05/2026 02:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L08Q_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
