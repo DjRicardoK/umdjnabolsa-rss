@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 03:34:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:36:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A Energy Recovery Inc. (ERII) pode superar o impacto da Guerra do Irã?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/energy-recovery-inc-erii-overcome-183702576.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/energy-recovery-inc-erii-overcome-183702576.html</guid>
+      <pubDate>22/05/2026 03:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/02e51e2cf1ba6e42a3a0a55552e17c59" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Genuit alerta que lucro do primeiro semestre será igual ao do ano anterior em meio à inflação</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://finance.yahoo.com/markets/stocks/articles/corvel-crvl-q4-2026-earnings-172414704.html</link>
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/corvel-crvl-q4-2026-earnings-172414704.html</guid>
       <pubDate>22/05/2026 02:08</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE GANHE Transcrição de Resultados do 4º Trimestre de 2025</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/earn-q4-2025-earnings-transcript-172151149.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/earn-q4-2025-earnings-transcript-172151149.html</guid>
-      <pubDate>22/05/2026 02:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
