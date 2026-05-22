@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 02:44:43 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 02:50:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jim Cramer afirma que “a NVIDIA está no centro do data center” antes de seus ganhos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-nvidia-heart-180433352.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-nvidia-heart-180433352.html</guid>
+      <pubDate>22/05/2026 02:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/853b5432b039878bfa3f7e94bd98f8ec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Jim Cramer na Home Depot: “Qualquer coisa ligada à habitação é prejudicada pelas taxas mais altas”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/nomura-forecasts-no-fed-rate-cuts-in-2026-as-inflation-rises-4705740</guid>
       <pubDate>22/05/2026 01:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L05Q_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações japonesas de computação quântica sobem enquanto EUA planejam doação de US$ 2 bilhões</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japanese-quantum-computing-stocks-rally-as-us-plans-2-bln-grant-4705741</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japanese-quantum-computing-stocks-rally-as-us-plans-2-bln-grant-4705741</guid>
-      <pubDate>22/05/2026 01:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Computer-(tech-sector)3_M_1440049439.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
