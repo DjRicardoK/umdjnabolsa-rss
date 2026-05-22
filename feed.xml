@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 08:16:46 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 08:29:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O &apos;efeito Elon Musk&apos; pode levar as ações da SpaceX a grandes oscilações após o IPO, mesmo que a Starlink...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/elon-musk-effect-could-send-233114397.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/elon-musk-effect-could-send-233114397.html</guid>
+      <pubDate>22/05/2026 08:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/01f584609bbe13a1e886b7a1a76a39b0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE RBC Capital inicia ações do Essent Group no Sector Perform com perspectiva limitada de crescimento de lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-finish-sharply-higher-iran-203627107.html</guid>
       <pubDate>22/05/2026 05:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/553713714e08964d7b30695b362ebe11" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 2 ações de biotecnologia estão aumentando hoje graças a este medicamento para artrite</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/immunovant-stock-price-arthritis-trial-data-roivant-8bb5bfd7?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/immunovant-stock-price-arthritis-trial-data-roivant-8bb5bfd7?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>22/05/2026 05:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/7318d1a85032270fd2191e8bc9a0ffe6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
