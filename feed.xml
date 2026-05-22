@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 02:55:27 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 02:55:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE InPost diz que oferta de compra de US$ 9 bilhões liderada pela FedEx será aberta em 26 de maio</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/inpost-says-fedexled-9-billion-buyout-offer-to-run-from-may-26-to-july-27-4705757</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/inpost-says-fedexled-9-billion-buyout-offer-to-run-from-may-26-to-july-27-4705757</guid>
+      <pubDate>22/05/2026 02:55</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L08Q_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações sobem e dólar atinge máxima de seis semanas com negociações EUA-Irã em foco</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-ai-chips-jensen-huang/card/nvidia-stock-is-still-cheap-1horMTP3j4wP7qkcxAPc?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>22/05/2026 01:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os ganhos da Nvidia devem brilhar novamente. O estoque precisa de algo mais.</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/nvidia-stock-earnings-preview-d73521db?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/nvidia-stock-earnings-preview-d73521db?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>22/05/2026 01:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/ef291b9b35b65d81ffac6bbcb5878edb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
