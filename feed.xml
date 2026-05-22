@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 01:05:28 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 01:09:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Tether aperta o controle sobre a empresa de tesouraria Bitcoin Twenty One com aquisição do SoftBank</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/tether-tightens-grip-bitcoin-treasury-161253239.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/tether-tightens-grip-bitcoin-treasury-161253239.html</guid>
+      <pubDate>22/05/2026 01:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/decrypt_157/fea131cb61078cd275586ef9851da824" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise - O motor de empregos da Índia fica tenso à medida que a guerra no Irã atinge as remessas e o comércio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lowes-companies-inc-q1-2026-123000099.html</guid>
       <pubDate>21/05/2026 21:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/b90a3e4d96150fd990150c60b41bcad7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs pagará US$ 500 milhões para resolver processo de acionistas sobre escândalo 1MDB</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-to-pay-500-million-to-settle-shareholder-lawsuit-over-1mdb-scandal-4705457</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-to-pay-500-million-to-settle-shareholder-lawsuit-over-1mdb-scandal-4705457</guid>
-      <pubDate>21/05/2026 21:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K1TB_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
