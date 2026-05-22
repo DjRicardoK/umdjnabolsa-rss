@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 10:19:45 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 10:39:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da CrowdStrike atingem o máximo histórico de 660,02 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/crowdstrike-stock-hits-alltime-high-at-66002-usd-93CH-4706840</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/crowdstrike-stock-hits-alltime-high-at-66002-usd-93CH-4706840</guid>
+      <pubDate>22/05/2026 10:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BMO reitera Outperform em ações da Take-Two, vê guia conservador</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/bofa-reiterates-buy-on-taketwo-stock-keeps-320-target-93CH-4706409</guid>
       <pubDate>22/05/2026 08:36</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Flipcash usa Coinbase para lançar USDF Stablecoin em Solana</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/flipcash-taps-coinbase-launch-usdf-233600037.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/flipcash-taps-coinbase-launch-usdf-233600037.html</guid>
-      <pubDate>22/05/2026 08:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/a0c36019d938c7192c77777b6ff15b46" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
