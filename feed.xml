@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 14:24:25 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 14:24:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE América em foco: taxa de hipotecas sobe enquanto Wall Street busca continuar seu caminho vitorioso</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/america-focus-mortgage-rate-rises-171356897.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/america-focus-mortgage-rate-rises-171356897.html</guid>
+      <pubDate>22/05/2026 14:24</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ap.org/ac21b9a6c06cf39bb97e03bdb060c079" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: Dow cobra mais caro com o início da era Warsh no Fed (cobertura ao vivo)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/im-in-my-30s-and-half-my-money-is-in-vanguards-information-technology-etf-is-that-risky-1bab4a66?mod=mw_rss_topstories</guid>
       <pubDate>22/05/2026 12:22</pubDate>
       <enclosure url="https://images.mktw.net/im-70056919" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE UnitedHealth Group (UNH) – Entre as 10 ações de alta qualidade para comprar de acordo com fundos de hedge</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-unh-among-10-145056818.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/unitedhealth-group-unh-among-10-145056818.html</guid>
-      <pubDate>22/05/2026 12:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c34a56642082d17e3fa7c8675c6742b3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
