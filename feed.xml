@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 11:32:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:32:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações Cts atingem alta de 52 semanas em 62,07 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cts-stock-hits-52week-high-at-6207-usd-93CH-4706941</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cts-stock-hits-52week-high-at-6207-usd-93CH-4706941</guid>
+      <pubDate>22/05/2026 11:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Benchmark reitera classificação das ações da NetEase com fortes resultados do primeiro trimestre</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-hesai-group-q1-2026-sees-revenue-growth-stock-dips-93CH-4706580</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hesai-group-q1-2026-sees-revenue-growth-stock-dips-93CH-4706580</guid>
       <pubDate>22/05/2026 09:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Os resultados do quarto trimestre de 2026 da GNFC mostram forte...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-gnfcs-q4-2026-results-show-strong-growth-amid-competitive-pressures-93CH-4706581</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-gnfcs-q4-2026-results-show-strong-growth-amid-competitive-pressures-93CH-4706581</guid>
-      <pubDate>22/05/2026 09:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
