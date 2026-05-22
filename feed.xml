@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 01:26:23 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 01:26:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nomura não prevê cortes nas taxas do Fed em 2026 à medida que a inflação aumenta</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/nomura-forecasts-no-fed-rate-cuts-in-2026-as-inflation-rises-4705740</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/nomura-forecasts-no-fed-rate-cuts-in-2026-as-inflation-rises-4705740</guid>
+      <pubDate>22/05/2026 01:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L05Q_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações japonesas de computação quântica sobem enquanto EUA planejam doação de US$ 2 bilhões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-ppg-124323789.html</guid>
       <pubDate>21/05/2026 21:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/e78920f4d6485300474bd57aed5c9f78" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Liminatus Pharma enfrenta fechamento de capital da Nasdaq após falha de conformidade</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/liminatus-pharma-faces-nasdaq-delisting-after-compliance-failure-93CH-4705665</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/liminatus-pharma-faces-nasdaq-delisting-after-compliance-failure-93CH-4705665</guid>
-      <pubDate>21/05/2026 21:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
