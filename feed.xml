@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 01:27:10 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 01:27:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ganhos da Nvidia devem brilhar novamente. O estoque precisa de algo mais.</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/nvidia-stock-earnings-preview-d73521db?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/nvidia-stock-earnings-preview-d73521db?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>22/05/2026 01:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/ef291b9b35b65d81ffac6bbcb5878edb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Banco central da Índia não é a favor de aumentos de taxas para defender a rupia, prioriza a inflação, dizem...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/princeton-digital-group-to-sell-china-data-center-assets-for-up-to-1-bln-ft-93CH-4705673</guid>
       <pubDate>21/05/2026 21:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Republicanos na Câmara dos EUA adiam votação sobre poderes de guerra no Irã até junho</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/us-house-republicans-postpone-iran-war-powers-vote-until-june-93CH-4705669</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-house-republicans-postpone-iran-war-powers-vote-until-june-93CH-4705669</guid>
-      <pubDate>21/05/2026 21:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
