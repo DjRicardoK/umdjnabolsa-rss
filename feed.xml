@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 03:47:03 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:47:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A Berkshire Hathaway vendeu 5 ações de longa data de Warren Buffett. O que a Nova Era Abel significa para...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-sold-off-5-185053630.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-sold-off-5-185053630.html</guid>
+      <pubDate>22/05/2026 03:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ee4f2e417ef5063e300c218e06f99340" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O Dia do Julgamento da Segurança Social aproxima-se rapidamente e o presidente Donald Trump pode forçar a mão...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/everyone-turning-bearish-tesla-ahead-175927013.html</guid>
       <pubDate>22/05/2026 02:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/b2e22199ba6dcf5e8f8124433ab1030c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE SGDM quase dobrou os ganhos do ouro, enquanto a IAUI limitou a alta para um rendimento de 12,52% e uma...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/sgdm-nearly-doubled-gold-gains-174021973.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/sgdm-nearly-doubled-gold-gains-174021973.html</guid>
-      <pubDate>22/05/2026 02:25</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/6293990fb21ef8bb2e130840f96c7aa5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
