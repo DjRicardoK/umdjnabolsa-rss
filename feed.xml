@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 05:56:25 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 06:02:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ross Gerber diz ‘preste atenção’ à Nvidia e à Micron enquanto Jensen Huang prevê explosão de IA</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/ross-gerber-says-pay-attention-213116287.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/ross-gerber-says-pay-attention-213116287.html</guid>
+      <pubDate>22/05/2026 06:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/4d82f211aa8640be3cf1bbbbc23f4d4c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Yamaha Motor Q1 2026 supera as expectativas com forte...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/hyundai-to-recall-over-421000-us-vehicles-over-software-brake-issue-nhtsa-says-4705848</guid>
       <pubDate>22/05/2026 04:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L0F4_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar recua devido ao otimismo iraniano</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-retreats-iran-optimism-193838180.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-retreats-iran-optimism-193838180.html</guid>
-      <pubDate>22/05/2026 04:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/0d2930021ab714cff3f9a0b9dbce099d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
