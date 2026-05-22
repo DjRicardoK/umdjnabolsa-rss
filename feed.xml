@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 01:27:49 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 01:28:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Nvidia ainda estão baratas</title>
+      <description></description>
+      <link>https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-ai-chips-jensen-huang/card/nvidia-stock-is-still-cheap-1horMTP3j4wP7qkcxAPc?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/livecoverage/nvidia-earnings-stock-price-ai-chips-jensen-huang/card/nvidia-stock-is-still-cheap-1horMTP3j4wP7qkcxAPc?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>22/05/2026 01:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os ganhos da Nvidia devem brilhar novamente. O estoque precisa de algo mais.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/chinas-top-diplomat-touts-moldova-ties-after-putin-visit-despite-differences-over-ukraine-war-4705679</guid>
       <pubDate>21/05/2026 22:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L01A_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Princeton Digital Group venderá ativos de data center na China por até US$ 1 bilhão – FT</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/princeton-digital-group-to-sell-china-data-center-assets-for-up-to-1-bln-ft-93CH-4705673</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/princeton-digital-group-to-sell-china-data-center-assets-for-up-to-1-bln-ft-93CH-4705673</guid>
-      <pubDate>21/05/2026 21:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
