@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 02:44:37 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 02:44:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jim Cramer na Home Depot: “Qualquer coisa ligada à habitação é prejudicada pelas taxas mais altas”</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-anything-180437513.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-anything-180437513.html</guid>
+      <pubDate>22/05/2026 02:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bfd8c3ad6721d8e1b3ec91aa8061802b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os fundos de pensão acumulam bilhões neste ETF do Tesouro a cada trimestre. Aposentados do varejo mal sabem...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japanese-quantum-computing-stocks-rally-as-us-plans-2-bln-grant-4705741</guid>
       <pubDate>22/05/2026 01:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/Computer-(tech-sector)3_M_1440049439.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Tether aperta o controle sobre a empresa de tesouraria Bitcoin Twenty One com aquisição do SoftBank</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/crypto/articles/tether-tightens-grip-bitcoin-treasury-161253239.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/tether-tightens-grip-bitcoin-treasury-161253239.html</guid>
-      <pubDate>22/05/2026 01:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/decrypt_157/fea131cb61078cd275586ef9851da824" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
