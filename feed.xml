@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 09:06:52 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:07:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reitera classificação de compra de ações da IBM após prêmio Chips Act de US$ 1 bilhão</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-ibm-stock-buy-rating-after-1bn-chips-act-award-93CH-4706485</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-ibm-stock-buy-rating-after-1bn-chips-act-award-93CH-4706485</guid>
+      <pubDate>22/05/2026 09:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Stifel reitera classificação de compra das ações da Deckers Outdoor em US$ 140</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-indian-oil-q4-2026-beats-earnings-forecast-stock-dips-93CH-4705924</guid>
       <pubDate>22/05/2026 05:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Indonésia sobem no fechamento do pregão; Índice Composto IDX subiu 0,03%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-003-4705925</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-003-4705925</guid>
-      <pubDate>22/05/2026 05:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC7N1OQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
