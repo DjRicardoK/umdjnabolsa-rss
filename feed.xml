@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 09:12:36 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:14:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE duende. Resumo da teleconferência de resultados do quarto trimestre de 2026 da Beauty, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-inc-002611883.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-inc-002611883.html</guid>
+      <pubDate>22/05/2026 09:14</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/6f522576a427c2ed8bc03ea32c45253a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2027 da NVIDIA Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-yamaha-motor-q1-2026-beats-expectations-with-strong-growth-93CH-4705934</guid>
       <pubDate>22/05/2026 05:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Banco central da Turquia pode aumentar taxas para 40%, diz JPMorgan</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/turkeys-central-bank-may-hike-rates-to-40-jpmorgan-says-93CH-4705920</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/turkeys-central-bank-may-hike-rates-to-40-jpmorgan-says-93CH-4705920</guid>
-      <pubDate>22/05/2026 05:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEAA20GT_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
