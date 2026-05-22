@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 21:00:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 21:05:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street está otimista ou baixista nas ações da Steel Dynamics?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-steel-162829930.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-steel-162829930.html</guid>
+      <pubDate>21/05/2026 21:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/3902bc2d3fb3f5c1eb843acf9071e00e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O núcleo da inflação do Japão desacelera para o menor nível em 4 anos em abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-slid-over-capex-134843139.html</guid>
       <pubDate>21/05/2026 18:49</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/2f1bf47b64f185ad29af8e89f576d5c3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações do México caem no fechamento do pregão; S&amp;P/BMV IPC cai 0,74%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-074-4705399</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-074-4705399</guid>
-      <pubDate>21/05/2026 18:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/The-Mexican-Stock-Exchange_M_1440048947.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
