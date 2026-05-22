@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 00:31:46 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:46:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Fornecedores asiáticos da Nvidia ampliam ganhos com perspectivas otimistas de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nvidia-asian-suppliers-extend-gains-on-upbeat-ai-outlook-4705734</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-asian-suppliers-extend-gains-on-upbeat-ai-outlook-4705734</guid>
+      <pubDate>22/05/2026 00:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB440WA_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Um diretor da Warby Parker se desfez de 25.000 ações da empresa. O que isso significa para os investidores?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-steel-162829930.html</guid>
       <pubDate>21/05/2026 21:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/3902bc2d3fb3f5c1eb843acf9071e00e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O núcleo da inflação do Japão desacelera para o menor nível em 4 anos em abril</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/japans-core-inflation-slows-to-4year-low-in-april-4705632</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/japans-core-inflation-slows-to-4year-low-in-april-4705632</guid>
-      <pubDate>21/05/2026 21:00</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4K1XF_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
