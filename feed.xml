@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 03:18:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:30:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do primeiro trimestre de 2026 da CXApp (CXAI)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cxapp-cxai-q1-2026-earnings-183114462.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cxapp-cxai-q1-2026-earnings-183114462.html</guid>
+      <pubDate>22/05/2026 03:30</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Marvell: como aproveitar as vantagens da alta volatilidade dos ganhos</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-amzn-one-best-170752720.html</guid>
       <pubDate>22/05/2026 02:01</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e3a58b6f338e589ccf256d87d10d0922" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Wedbush vê a parceria reestruturada OpenAI da Microsoft (MSFT) como um resultado líquido positivo, em vez de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wedbush-views-microsoft-msft-restructured-170754822.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wedbush-views-microsoft-msft-restructured-170754822.html</guid>
-      <pubDate>22/05/2026 02:01</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/469e8bc62876b89734a212cde441f9de" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
