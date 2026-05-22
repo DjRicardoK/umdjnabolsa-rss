@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 04:10:02 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 04:10:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Galantas Gold arquiva circular para votação de aquisição da Andacollo</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/galantas-gold-files-circular-for-andacollo-acquisition-vote-93CH-4705832</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/galantas-gold-files-circular-for-andacollo-acquisition-vote-93CH-4705832</guid>
+      <pubDate>22/05/2026 04:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warpaint London agenda AGM para 16 de junho</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-home-depot-anything-180437513.html</guid>
       <pubDate>22/05/2026 02:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/bfd8c3ad6721d8e1b3ec91aa8061802b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Os fundos de pensão acumulam bilhões neste ETF do Tesouro a cada trimestre. Aposentados do varejo mal sabem...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/options/articles/pension-funds-pile-billions-treasury-180015325.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/pension-funds-pile-billions-treasury-180015325.html</guid>
-      <pubDate>22/05/2026 02:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/2c544be31a6ad11992d84189d0ad8d8b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
