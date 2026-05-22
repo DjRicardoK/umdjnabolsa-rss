@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 04:20:50 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 04:27:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE 80% das empresas têm um imigrante num papel de liderança de topo – a repressão dos vistos de Trump está a...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/80-companies-immigrant-top-leadership-192653860.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/80-companies-immigrant-top-leadership-192653860.html</guid>
+      <pubDate>22/05/2026 04:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/fortune_175/eb5ca9cd6d065488b1293dca1c6b5a89" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE B. Riley atualiza o estoque da Zscaler para ‘comprar’. Tanto para os medos do apocalipse de software.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/inpost-says-fedexled-9-billion-buyout-offer-to-run-from-may-26-to-july-27-4705757</guid>
       <pubDate>22/05/2026 02:55</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L08Q_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações sobem e dólar atinge máxima de seis semanas com negociações EUA-Irã em foco</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/stocks-rise-dollar-at-sixweek-high-as-focus-remains-on-usiran-talks-4705701</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/stocks-rise-dollar-at-sixweek-high-as-focus-remains-on-usiran-talks-4705701</guid>
-      <pubDate>22/05/2026 02:55</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L02H_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
