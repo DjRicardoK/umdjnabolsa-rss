@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 02:02:20 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 02:08:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE CorVel (CRVL) Transcrição da teleconferência de resultados do quarto trimestre de 2026</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/corvel-crvl-q4-2026-earnings-172414704.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/corvel-crvl-q4-2026-earnings-172414704.html</guid>
+      <pubDate>22/05/2026 02:08</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE GANHE Transcrição de Resultados do 4º Trimestre de 2025</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/hengli-chinas-silktopetrochemicals-empire-faces-the-chill-of-us-sanctions-4705726</guid>
       <pubDate>22/05/2026 00:22</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L048_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Economista renomado soa alarme sobre o risco de recessão de 40% na América e alerta que as ações estão...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/top-economist-sounds-alarm-america-151127250.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/top-economist-sounds-alarm-america-151127250.html</guid>
-      <pubDate>22/05/2026 00:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/fox_business_text_367/9240b94624d91b18610ed813cd458142" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
