@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 09:14:24 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:30:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Meta dobra, reatribui 7.000 funcionários para equipes de IA e corta 8.000 empregos no impulso de alto risco...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/meta-doubles-down-reassigns-7-003117606.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/meta-doubles-down-reassigns-7-003117606.html</guid>
+      <pubDate>22/05/2026 09:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/73e35a3602ca6c1ce81d3f5298fd8055" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE duende. Resumo da teleconferência de resultados do quarto trimestre de 2026 da Beauty, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/ross-gerber-says-pay-attention-213116287.html</guid>
       <pubDate>22/05/2026 06:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/benzinga_79/4d82f211aa8640be3cf1bbbbc23f4d4c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Yamaha Motor Q1 2026 supera as expectativas com forte...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-yamaha-motor-q1-2026-beats-expectations-with-strong-growth-93CH-4705934</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-yamaha-motor-q1-2026-beats-expectations-with-strong-growth-93CH-4705934</guid>
-      <pubDate>22/05/2026 05:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
