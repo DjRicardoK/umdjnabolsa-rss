@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 02:38:56 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 02:42:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição de ganhos do quarto trimestre de 2025 da X Financial (XYF)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/x-financial-xyf-q4-2025-175938321.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/x-financial-xyf-q4-2025-175938321.html</guid>
+      <pubDate>22/05/2026 02:42</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jim Cramer sobre Axon: “Ainda acho que este mercado não gosta de ações múltiplas altas”</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysisindias-job-engine-strains-as-iran-war-hits-remittances-and-trade-4705735</guid>
       <pubDate>22/05/2026 01:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L04Z_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Explicador-Por que a China pode reagir mal a qualquer ligação entre Trump e o presidente de Taiwan</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/explainerwhy-china-might-react-badly-to-any-call-between-trump-and-taiwans-president-4705736</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/explainerwhy-china-might-react-badly-to-any-call-between-trump-and-taiwans-president-4705736</guid>
-      <pubDate>22/05/2026 01:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L05M_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
