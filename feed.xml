@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 11:13:22 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:22:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do quarto trimestre da CAE</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/cae-q4-earnings-call-highlights-141258966.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cae-q4-earnings-call-highlights-141258966.html</guid>
+      <pubDate>22/05/2026 11:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/e78f3c8f10a0f5e12dd14ae049518f6b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Alibaba e ações chinesas listadas nos EUA são atingidas por repressão transfronteiriça</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-inc-002611883.html</guid>
       <pubDate>22/05/2026 09:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/6f522576a427c2ed8bc03ea32c45253a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2027 da NVIDIA Corporation</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-q1-2027-earnings-002039483.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-corporation-q1-2027-earnings-002039483.html</guid>
-      <pubDate>22/05/2026 09:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moby_896/30d74316ef8afebeac186852d3d967ec" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
