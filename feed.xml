@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 15:36:41 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:09:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dow Jones Futures: Trump diz que não há &apos;pressa&apos; para acordo com o Irã, ignore &apos;perdedores&apos;; Tesla, ações de...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo</guid>
+      <pubDate>24/05/2026 18:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Amazon.com, Inc. (AMZN) se expande com guias de compras baseados em IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/stocks-rise-dollar-six-week-014105963.html</guid>
       <pubDate>22/05/2026 13:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/41bfa087b4c25dd0b1579c9c4c77651e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Penguin Solutions atingem o máximo histórico de 53,29 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/penguin-solutions-stock-hits-alltime-high-at-5329-usd-93CH-4707186</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/penguin-solutions-stock-hits-alltime-high-at-5329-usd-93CH-4707186</guid>
-      <pubDate>22/05/2026 13:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
