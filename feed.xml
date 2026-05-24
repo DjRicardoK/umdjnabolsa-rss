@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 19:23:58 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 19:24:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações estão em alta nos lucros – mas os investidores enfrentam um verão repleto de riscos</title>
+      <description>O mercado de ações dos EUA chegou ao início não oficial do verão, com os principais índices de referência atingindo níveis recordes. Mas alguns fatores podem contribuir para uma...</description>
+      <link>https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories</guid>
+      <pubDate>24/05/2026 19:24</pubDate>
+      <enclosure url="https://images.mktw.net/im-39232642" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE JM Smucker (SJM) enfrenta estimativas futuras mais baixas à medida que JPMorgan reduz preço-alvo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/america-focus-mortgage-rate-rises-171356897.html</guid>
       <pubDate>22/05/2026 14:24</pubDate>
       <enclosure url="https://media.zenfs.com/en/ap.org/ac21b9a6c06cf39bb97e03bdb060c079" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow cobra mais caro com o início da era Warsh no Fed (cobertura ao vivo)</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-survey-amd-stock/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-survey-amd-stock/?src=A00220&yptr=yahoo</guid>
-      <pubDate>22/05/2026 14:24</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/b93082b62d669a716dcee1724ff49dd4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
