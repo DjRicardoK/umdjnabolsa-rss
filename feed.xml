@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 19:01:42 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 19:23:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Trump diz que não há pressa, já que o acordo para acabar com a guerra no Irão parece próximo; preços do...</title>
+      <description>Os EUA parecem perto de chegar a um acordo que poria fim à guerra com o Irão e reabriria o estratégico Estreito de Ormuz, de acordo com relatórios de domingo, provocando uma queda...</description>
+      <link>https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories</guid>
+      <pubDate>24/05/2026 19:23</pubDate>
+      <enclosure url="https://images.mktw.net/im-10074017" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O Grupo Cigna (CI) é uma das melhores ações de crescimento de dividendos para comprar e manter por 3 anos?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/this-bond-strategy-can-protect-your-portfolio-even-if-interest-rates-go-up-9e9418cb?mod=mw_rss_topstories</guid>
       <pubDate>22/05/2026 14:13</pubDate>
       <enclosure url="https://images.mktw.net/im-96636188" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A matemática fiscal que faz com que essas ações de dividendos valham mais US$ 10.080 por ano</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tax-math-makes-dividend-stocks-164042670.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tax-math-makes-dividend-stocks-164042670.html</guid>
-      <pubDate>22/05/2026 13:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
