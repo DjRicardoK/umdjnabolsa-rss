@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 02:46:13 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 03:02:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que Advanced Micro Devices (AMD) continua sendo uma das ações mais negociadas</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-amd-201200295.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-amd-201200295.html</guid>
+      <pubDate>25/05/2026 03:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fe0b16308278491a239b6a2819deebec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações chinesas de fabricação de chips sobem com avanço no design de chips da Huawei</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/soaring-stocks-could-face-rocky-patch-as-earnings-wind-down-yields-perk-up-4708193</guid>
       <pubDate>24/05/2026 23:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4L0NG_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O negócio oculto de US$ 60 bilhões da Nvidia está prestes a ultrapassar a Broadcom</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-hidden-60-billion-business-145903616.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-hidden-60-billion-business-145903616.html</guid>
-      <pubDate>24/05/2026 22:53</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/558e10a79f7ec487ef6bab936f7355fb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
