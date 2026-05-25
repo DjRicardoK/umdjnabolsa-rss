@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 12:15:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 12:20:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs rebaixa classificação das ações da Futu devido a preocupações regulatórias</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-futu-stock-rating-on-regulatory-concerns-93CH-4708585</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-downgrades-futu-stock-rating-on-regulatory-concerns-93CH-4708585</guid>
+      <pubDate>25/05/2026 12:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de Marrocos sobem no fechamento do pregão; Todas as ações marroquinas sobem 2,73%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-may-25-2026-100000125.html</guid>
       <pubDate>25/05/2026 07:20</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Análise – Os destinos de Trump e Warsh agora estão empatados, para melhor ou para pior</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/analysistrump-and-warshs-fates-are-now-tied-for-better-or-worse-4708488</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysistrump-and-warshs-fates-are-now-tied-for-better-or-worse-4708488</guid>
-      <pubDate>25/05/2026 07:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O0QZ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
