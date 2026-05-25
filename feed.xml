@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 08:57:27 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 09:11:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE &apos;Grande demais para parar&apos;: jovens americanos estão migrando para os mercados de previsão para assumir...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/too-big-stop-young-american-115500544.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/too-big-stop-young-american-115500544.html</guid>
+      <pubDate>25/05/2026 09:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_327/f0f5eb719b573cddde3c4918c086f63e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Papa, pedindo regulamentação da IA, alerta que algumas armas agora estão fora do controle humano</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ttmi-12-best-200929455.html</guid>
       <pubDate>25/05/2026 05:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ad32e889e163b3a7c5fc1c720624cf38" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A SiTime Corporation (SITM) é uma das melhores ações Multibagger para comprar em 2026?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-one-best-201042925.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-one-best-201042925.html</guid>
-      <pubDate>25/05/2026 05:05</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0971d6cd3bf2316b357359295d292af5" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
