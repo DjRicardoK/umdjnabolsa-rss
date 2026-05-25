@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 05:53:22 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 06:07:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar cai com queda do petróleo devido ao otimismo com Ormuz</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/dollar-softer-signs-deal-reopen-050626887.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/dollar-softer-signs-deal-reopen-050626887.html</guid>
+      <pubDate>25/05/2026 06:07</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/40b4e09aa08e9d2002008bf4afaebfd4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Posições de tecnologia em fundos de hedge pairam perto de níveis recordes, diz Goldman Sachs</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cdl-2-29-annual-dividend-164518608.html</guid>
       <pubDate>25/05/2026 00:51</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Rupia indiana firma após governador do RBI alertar sobre mais intervenção</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/indian-rupee-firms-after-rbi-governor-warns-on-more-intervention-4708284</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/indian-rupee-firms-after-rbi-governor-warns-on-more-intervention-4708284</guid>
-      <pubDate>25/05/2026 00:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF15059_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
