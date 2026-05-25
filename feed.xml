@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 22:29:34 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 22:35:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Intel Corporation (INTC) é a ação mais negociada dos EUA até agora em 2026?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-most-traded-145148981.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-most-traded-145148981.html</guid>
+      <pubDate>24/05/2026 22:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/9c13b3c4b11dc186d06993e51c453c4a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que o BofA diz “ignorar o ruído” na NVIDIA Corporation (NVDA)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/stocks-are-riding-an-earnings-hot-streak-but-investors-are-facing-a-summer-thats-rife-with-risks-67a700e4?mod=mw_rss_topstories</guid>
       <pubDate>24/05/2026 19:24</pubDate>
       <enclosure url="https://images.mktw.net/im-39232642" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE JM Smucker (SJM) enfrenta estimativas futuras mais baixas à medida que JPMorgan reduz preço-alvo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-sjm-faces-220631937.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-sjm-faces-220631937.html</guid>
-      <pubDate>24/05/2026 19:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/702b1267bbe4da2a1ac51d91d44ff8a2" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
