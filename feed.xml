@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 13:07:26 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 14:23:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jim Cramer mostra como o Dollar General (DG) e a Guerra do Irã estão relacionados</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shows-dollar-general-171832535.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shows-dollar-general-171832535.html</guid>
+      <pubDate>25/05/2026 14:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4ee5547a402ce7a3ab3ea4eddc8a30d8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da França sobem no fechamento do pregão; CAC 40 sobe 1,76%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/too-big-stop-young-american-115500544.html</guid>
       <pubDate>25/05/2026 09:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/f0f5eb719b573cddde3c4918c086f63e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Papa, pedindo regulamentação da IA, alerta que algumas armas agora estão fora do controle humano</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/pope-leo-urges-world-to-slow-down-on-ai-in-fervent-first-manifesto-4708413</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/pope-leo-urges-world-to-slow-down-on-ai-in-fervent-first-manifesto-4708413</guid>
-      <pubDate>25/05/2026 08:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O0PH_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
