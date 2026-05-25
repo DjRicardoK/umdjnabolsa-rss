@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 12:41:28 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 12:41:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Turquia sobem no fechamento do pregão; BIST 100 subiu 0,60%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-060-4708595</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-060-4708595</guid>
+      <pubDate>25/05/2026 12:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC450R5_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Atlas Engineered Products perde as previsões do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/octave-intelligence-lists-on-nasdaq-stockholm-after-spinoff-93CH-4708517</guid>
       <pubDate>25/05/2026 08:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Explicador-O que precisa ser acordado para acabar com a guerra do Irã?</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/explainerwhat-needs-to-be-agreed-to-end-the-iran-war-4708513</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/explainerwhat-needs-to-be-agreed-to-end-the-iran-war-4708513</guid>
-      <pubDate>25/05/2026 08:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM46102_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
