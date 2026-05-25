@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 23:18:57 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 23:25:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise – Três meses depois, Trump está perdendo a guerra com o Irã?</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/analysisthree-months-in-is-trump-losing-the-iran-war-4708272</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/analysisthree-months-in-is-trump-losing-the-iran-war-4708272</guid>
+      <pubDate>24/05/2026 23:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M02D_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A maioria dos ETFs de ouro retira 0,40% do topo todos os anos. Um cobra um quarto disso. Faça as contas e a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/berkshire-buys-delta-airlines-billionaire-140002098.html</guid>
       <pubDate>24/05/2026 21:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/af788db6e90b8874245a735a00764824" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do ouro sobem em meio a esperanças de acordo de paz EUA-Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/gold-prices-surge-amid-hopes-for-usiran-peace-deal-4708257</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-surge-amid-hopes-for-usiran-peace-deal-4708257</guid>
-      <pubDate>24/05/2026 21:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB730HT_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
