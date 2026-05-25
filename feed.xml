@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 12:41:22 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 12:41:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Atlas Engineered Products perde as previsões do primeiro...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-atlas-engineered-products-misses-q1-2026-forecasts-93CH-4708596</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-atlas-engineered-products-misses-q1-2026-forecasts-93CH-4708596</guid>
+      <pubDate>25/05/2026 12:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Polônia sobem no fechamento do pregão; WIG30 subiu 2,22%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/explainerwhat-needs-to-be-agreed-to-end-the-iran-war-4708513</guid>
       <pubDate>25/05/2026 08:01</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM46102_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE STARTRADER lança 39 novas ações e ETFs dos EUA em todos os setores, moldando o futuro dos mercados globais</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/startrader-launches-39-new-us-stocks-and-etfs-across-the-sectors-shaping-the-future-of-global-markets-4708508</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/startrader-launches-39-new-us-stocks-and-etfs-across-the-sectors-shaping-the-future-of-global-markets-4708508</guid>
-      <pubDate>25/05/2026 07:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
