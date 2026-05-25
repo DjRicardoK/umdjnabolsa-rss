@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 21:11:33 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 21:15:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Pacific Edge Q2 2026 vê as ações subirem apesar dos desafios</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-pacific-edge-q2-2026-sees-stock-rise-despite-challenges-93CH-4708255</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-pacific-edge-q2-2026-sees-stock-rise-despite-challenges-93CH-4708255</guid>
+      <pubDate>24/05/2026 21:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Antes de um grande acordo com a Boeing na China, Trump investiu até US$ 5 milhões em ações da Boeing</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-barclays-plc-bcs-ranks-082542160.html</guid>
       <pubDate>22/05/2026 15:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f85dd31862745afbed73b0abdc1fb721" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de ganhos do terceiro trimestre do Smiths Group</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/smiths-group-q3-earnings-call-080411147.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/smiths-group-q3-earnings-call-080411147.html</guid>
-      <pubDate>22/05/2026 15:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/9979f8d9185cdf183d8b4898da419d65" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
