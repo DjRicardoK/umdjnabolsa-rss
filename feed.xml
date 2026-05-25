@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 00:06:01 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:17:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O teste dos três círculos: por que você não precisa ser o CEO para escolher ações vencedoras</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/three-circle-test-why-don-161003392.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/three-circle-test-why-don-161003392.html</guid>
+      <pubDate>25/05/2026 00:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/6af754062d2523cc6951bb3a33ec1208" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE &apos;Você está se preparando para a falência&apos;, alerta Dave Ramsey enquanto um homem que ganha US $ 100 mil quer...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-stocks-plan-hold-next-142500359.html</guid>
       <pubDate>24/05/2026 22:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/fc99e74fb0607abb882167f2221066ad" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Rússia atinge a Ucrânia com míssil Oreshnik em um dos maiores ataques da guerra em Kiev</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/russia-hits-ukraine-with-oreshnik-missile-in-one-of-wars-biggest-attacks-on-kyiv-4708261</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/russia-hits-ukraine-with-oreshnik-missile-in-one-of-wars-biggest-attacks-on-kyiv-4708261</guid>
-      <pubDate>24/05/2026 22:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4N09B_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
