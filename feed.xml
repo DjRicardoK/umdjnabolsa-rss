@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 20:47:39 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 21:10:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Não estamos em uma bolha. Wall Street simplesmente não alcançou a nova “física” do mercado de ações.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/not-bubble-wall-street-just-133002517.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/not-bubble-wall-street-just-133002517.html</guid>
+      <pubDate>24/05/2026 21:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/cdd84af6863bf5f4c7124b79dd8fee04" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações sobem, petróleo e dólar caem com esperanças de paz no Oriente Médio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/world-less-80-days-oil-173500722.html</guid>
       <pubDate>22/05/2026 14:43</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/a82d5bc8da46e5a7bc35e74a3b9dd1c3" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Nvidia está em um novo caminho e se você possui um fundo de índice S&amp;P 500, seu dinheiro depende dele</title>
-      <description>Também em leituras de fim de semana: reações ao pedido de IPO da SpaceX, como cometer um erro de conversão de Roth IRA e conselhos precisos do Moneyist</description>
-      <link>https://www.marketwatch.com/story/nvidias-on-a-new-path-and-if-you-own-an-s-p-500-index-fund-your-money-is-riding-on-it-be0be5ec?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/nvidias-on-a-new-path-and-if-you-own-an-s-p-500-index-fund-your-money-is-riding-on-it-be0be5ec?mod=mw_rss_topstories</guid>
-      <pubDate>22/05/2026 14:40</pubDate>
-      <enclosure url="https://images.mktw.net/im-45156353" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
