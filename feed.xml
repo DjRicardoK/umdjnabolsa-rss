@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 23:28:59 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 23:36:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A aposta em embalagens de IA da Broadcom fica maior. Wall Street está apostando em mais vantagens para as...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/broadcom-ai-packaging-bet-gets-160002787.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/broadcom-ai-packaging-bet-gets-160002787.html</guid>
+      <pubDate>24/05/2026 23:36</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b3c3513950ae550c77ed9af92c4858ac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Amazon e GE Vernova lideram 5 ações perto de pontos de compra em mercado forte</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rising-rates-threatening-kill-zombies-140003419.html</guid>
       <pubDate>24/05/2026 21:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/fda980d770b0fe0d009679add4d5972b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Bridgewater Associates está negociando o apocalipse do software ao vender Workday, Salesforce e outras ações...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/bridgewater-associates-trading-software-apocalypse-140003587.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/bridgewater-associates-trading-software-apocalypse-140003587.html</guid>
-      <pubDate>24/05/2026 21:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/916cfc305c0ed57547938e7610013518" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
