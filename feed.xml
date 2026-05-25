@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 06:21:36 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 06:54:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise SWOT da Check Point Software: ações enfrentam desafios de execução</title>
+      <description></description>
+      <link>https://www.investing.com/news/swot-analysis/check-point-softwares-swot-analysis-stock-faces-execution-challenges-93CH-4708431</link>
+      <guid isPermaLink="false">https://www.investing.com/news/swot-analysis/check-point-softwares-swot-analysis-stock-faces-execution-challenges-93CH-4708431</guid>
+      <pubDate>25/05/2026 06:54</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEA9M0NO_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações sobem, enquanto o petróleo e o dólar diminuem as esperanças de paz no Médio Oriente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/australias-spy-chief-says-antisemitism-was-left-unchecked-after-gaza-war-4708302</guid>
       <pubDate>25/05/2026 02:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O0DJ_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A ‘rainha dos chips’ da Huawei grava seu nome no folclore tecnológico da China</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/huaweis-chip-queen-etches-her-name-in-chinas-tech-folklore-4708304</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/huaweis-chip-queen-etches-her-name-in-chinas-tech-folklore-4708304</guid>
-      <pubDate>25/05/2026 02:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O0DQ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
