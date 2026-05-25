@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 21:35:30 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 21:41:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O aumento das taxas ameaça matar os zumbis e fazer com que as ações de pequena capitalização despenquem</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/rising-rates-threatening-kill-zombies-140003419.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rising-rates-threatening-kill-zombies-140003419.html</guid>
+      <pubDate>24/05/2026 21:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/fda980d770b0fe0d009679add4d5972b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Bridgewater Associates está negociando o apocalipse do software ao vender Workday, Salesforce e outras ações...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/know-lloyds-banking-group-lyg-082616710.html</guid>
       <pubDate>22/05/2026 15:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/1ac6bdca43700e38513d093bc77c8870" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação no Reino Unido desacelera enquanto os varejistas alertam sobre pressões nos preços dos alimentos...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/uk-inflation-slows-retailers-warn-080358032.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/uk-inflation-slows-retailers-warn-080358032.html</guid>
-      <pubDate>22/05/2026 15:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/retail_insight_network_724/2cbf60b09ae4f35fdf0d165bd88523b8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
