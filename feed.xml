@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 00:19:58 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:20:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar enfraquece, Ásia FX firma-se com esperanças de paz EUA-Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/dollar-weakens-asia-fx-firms-on-usiran-peace-hopes-4708278</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-weakens-asia-fx-firms-on-usiran-peace-hopes-4708278</guid>
+      <pubDate>25/05/2026 00:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC2T1KL_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Thryv Holdings supera as previsões do primeiro trimestre de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/top-3-oil-stocks-now-143500571.html</guid>
       <pubDate>24/05/2026 22:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/2ee3207d1cf8886e765f247016bf6bbd" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Índia e EUA discutem Oriente Médio e comércio enquanto Rubio cita progresso no conflito com o Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/india-us-discuss-middle-east-trade-as-us-cites-progress-on-iran-conflict-4708155</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/india-us-discuss-middle-east-trade-as-us-cites-progress-on-iran-conflict-4708155</guid>
-      <pubDate>24/05/2026 22:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4N0AO_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
