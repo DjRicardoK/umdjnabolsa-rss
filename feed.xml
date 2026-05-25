@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 21:10:21 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 21:11:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Antes de um grande acordo com a Boeing na China, Trump investiu até US$ 5 milhões em ações da Boeing</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/ahead-major-china-boeing-deal-133408102.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ahead-major-china-boeing-deal-133408102.html</guid>
+      <pubDate>24/05/2026 21:11</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/5eb25a85304c8d62708d358eeb1fe485" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Não estamos em uma bolha. Wall Street simplesmente não alcançou a nova “física” do mercado de ações.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/smiths-group-q3-earnings-call-080411147.html</guid>
       <pubDate>22/05/2026 15:03</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/9979f8d9185cdf183d8b4898da419d65" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O mundo tem menos de 80 dias de petróleo na reserva e o tempo está correndo. Essas ações vencem de qualquer...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/world-less-80-days-oil-173500722.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/world-less-80-days-oil-173500722.html</guid>
-      <pubDate>22/05/2026 14:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/a82d5bc8da46e5a7bc35e74a3b9dd1c3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
