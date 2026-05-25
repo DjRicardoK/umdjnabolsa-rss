@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 18:33:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 18:37:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações do México caem no fechamento do pregão; S&amp;P/BMV IPC cai 0,11%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-011-4708653</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-011-4708653</guid>
+      <pubDate>25/05/2026 18:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Mexican_Stock_Exchange_M_1440056303.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE &apos;Senhor. Buffett, como posso ganhar US$ 30 bilhões?’: Warren Buffett revelou três regras simples de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-atlas-engineered-products-misses-q1-2026-forecasts-93CH-4708596</guid>
       <pubDate>25/05/2026 12:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Polônia sobem no fechamento do pregão; WIG30 subiu 2,22%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-222-4708597</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-222-4708597</guid>
-      <pubDate>25/05/2026 12:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Warsaw_Stock_Exchange_M_1440056830.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
