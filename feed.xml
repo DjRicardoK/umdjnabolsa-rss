@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 23:46:50 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:06:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE &apos;Você está se preparando para a falência&apos;, alerta Dave Ramsey enquanto um homem que ganha US $ 100 mil quer...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/youre-setting-yourself-bankruptcy-dave-160112187.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/youre-setting-yourself-bankruptcy-dave-160112187.html</guid>
+      <pubDate>25/05/2026 00:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/da039c3ae3bb552b9e9003b510d50f1b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Nvidia diz que sua previsão para um mercado de CPU de US$ 200 bilhões inclui a China</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/russia-hits-ukraine-with-oreshnik-missile-in-one-of-wars-biggest-attacks-on-kyiv-4708261</guid>
       <pubDate>24/05/2026 22:01</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4N09B_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: EROAD H2 2026 vê receita estável em meio a desafios</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-eroad-h2-2026-sees-stable-revenue-amid-challenges-93CH-4708262</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-eroad-h2-2026-sees-stable-revenue-amid-challenges-93CH-4708262</guid>
-      <pubDate>24/05/2026 22:01</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
