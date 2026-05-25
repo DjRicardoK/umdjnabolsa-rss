@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 07:03:04 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 07:11:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise – Os destinos de Trump e Warsh agora estão empatados, para melhor ou para pior</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/analysistrump-and-warshs-fates-are-now-tied-for-better-or-worse-4708488</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysistrump-and-warshs-fates-are-now-tied-for-better-or-worse-4708488</guid>
+      <pubDate>25/05/2026 07:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O0QZ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas HELOC e de empréstimo imobiliário, segunda-feira, 25 de maio de 2026: com taxas mínimas anuais, saiba...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4708312</guid>
       <pubDate>25/05/2026 03:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3K0AH_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que Advanced Micro Devices (AMD) continua sendo uma das ações mais negociadas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-amd-201200295.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-amd-201200295.html</guid>
-      <pubDate>25/05/2026 03:02</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fe0b16308278491a239b6a2819deebec" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
