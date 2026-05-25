@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 19:55:31 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 19:55:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Perspectiva das ações da Veralto Corporation: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/veralto-corporation-stock-outlook-wall-143423669.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/veralto-corporation-stock-outlook-wall-143423669.html</guid>
+      <pubDate>25/05/2026 19:55</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8479fabd745107c9b5a738cb11a82f5d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Michael Burry diz que o plano da SEC de negociar ações como criptografia pode criar um pesadelo para os...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cementos-argos-misses-q1-2026-eps-revenue-exceeds-forecast-93CH-4708634</guid>
       <pubDate>25/05/2026 15:54</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Melhores taxas de contas do mercado monetário hoje, domingo, 24 de maio de 2026: Melhor conta oferece 4,01%...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-may-24-2026-100000098.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-sunday-may-24-2026-100000098.html</guid>
-      <pubDate>25/05/2026 15:44</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-04/6e3d4f60-1cdc-11f0-b66f-8aec820566bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
