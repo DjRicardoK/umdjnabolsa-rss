@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 10:05:05 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:29:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Banco de Israel retoma cortes nas taxas com inflação estável apesar da guerra</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/bank-of-israel-resumes-rate-cuts-as-inflation-stable-despite-war-4708543</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/bank-of-israel-resumes-rate-cuts-as-inflation-stable-despite-war-4708543</guid>
+      <pubDate>25/05/2026 10:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_1_M_1440048330.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Como a inflação afeta a poupança: esta é a taxa de juros que você precisa vencer</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/news/dollar-softer-signs-deal-reopen-050626887.html</guid>
       <pubDate>25/05/2026 06:07</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/40b4e09aa08e9d2002008bf4afaebfd4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Posições de tecnologia em fundos de hedge pairam perto de níveis recordes, diz Goldman Sachs</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/hedge-fund-tech-positions-hover-near-record-highs-goldman-sachs-says-4708371</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/hedge-fund-tech-positions-hover-near-record-highs-goldman-sachs-says-4708371</guid>
-      <pubDate>25/05/2026 05:53</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O0O6_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
