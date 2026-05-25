@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 22:44:50 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 22:53:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O negócio oculto de US$ 60 bilhões da Nvidia está prestes a ultrapassar a Broadcom</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-hidden-60-billion-business-145903616.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-hidden-60-billion-business-145903616.html</guid>
+      <pubDate>24/05/2026 22:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/558e10a79f7ec487ef6bab936f7355fb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que Wall Street ainda não consegue ignorar a Amazon.com, Inc.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ahead-major-china-boeing-deal-133408102.html</guid>
       <pubDate>24/05/2026 21:11</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5eb25a85304c8d62708d358eeb1fe485" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Não estamos em uma bolha. Wall Street simplesmente não alcançou a nova “física” do mercado de ações.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/not-bubble-wall-street-just-133002517.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/not-bubble-wall-street-just-133002517.html</guid>
-      <pubDate>24/05/2026 21:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/cdd84af6863bf5f4c7124b79dd8fee04" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
