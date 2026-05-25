@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 18:37:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 18:37:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Colômbia sobem no fechamento do pregão; COLCAP subiu 2,37%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-237-4708652</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-237-4708652</guid>
+      <pubDate>25/05/2026 18:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do México caem no fechamento do pregão; S&amp;P/BMV IPC cai 0,11%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-060-4708595</guid>
       <pubDate>25/05/2026 12:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC450R5_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Atlas Engineered Products perde as previsões do primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-atlas-engineered-products-misses-q1-2026-forecasts-93CH-4708596</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-atlas-engineered-products-misses-q1-2026-forecasts-93CH-4708596</guid>
-      <pubDate>25/05/2026 12:41</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
