@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 08:22:25 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 08:57:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Papa, pedindo regulamentação da IA, alerta que algumas armas agora estão fora do controle humano</title>
+      <description></description>
+      <link>https://www.investing.com/news/world-news/pope-leo-urges-world-to-slow-down-on-ai-in-fervent-first-manifesto-4708413</link>
+      <guid isPermaLink="false">https://www.investing.com/news/world-news/pope-leo-urges-world-to-slow-down-on-ai-in-fervent-first-manifesto-4708413</guid>
+      <pubDate>25/05/2026 08:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O0PH_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Federated Hermes oferece retorno de 65% após valor justo identificar vantagem</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/sitime-corporation-sitm-one-best-201042925.html</guid>
       <pubDate>25/05/2026 05:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0971d6cd3bf2316b357359295d292af5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ThePaystubs revela crescentes problemas de conformidade da folha de pagamento enfrentados por empresas...</title>
-      <description></description>
-      <link>https://www.investing.com/news/press-releases/thepaystubs-reveals-growing-payroll-compliance-issues-facing-international-companies-4708338</link>
-      <guid isPermaLink="false">https://www.investing.com/news/press-releases/thepaystubs-reveals-growing-payroll-compliance-issues-facing-international-companies-4708338</guid>
-      <pubDate>25/05/2026 04:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
