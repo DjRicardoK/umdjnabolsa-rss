@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 18:55:02 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 19:03:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Klaviyo (KVYO) é uma das ações de IA mais vendidas?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/klaviyo-kvyo-one-most-oversold-130605316.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/klaviyo-kvyo-one-most-oversold-130605316.html</guid>
+      <pubDate>25/05/2026 19:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e65133ff6458d993a7a331654c47718f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE 5 movimentos que os aposentados devem fazer antes de uma recessão chegar – para que você nunca seja forçado a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-176-4708603</guid>
       <pubDate>25/05/2026 13:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B08E_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Alemanha sobem no fechamento do pregão; DAX sobe 2,03%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-203-4708604</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/germany-stocks-higher-at-close-of-trade-dax-up-203-4708604</guid>
-      <pubDate>25/05/2026 13:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC9H0G2_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
