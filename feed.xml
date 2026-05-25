@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 19:03:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 19:04:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que a Serve Robotics (SERV) é uma das ações de IA mais vendidas?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-serve-robotics-serv-one-130606493.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-serve-robotics-serv-one-130606493.html</guid>
+      <pubDate>25/05/2026 19:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/fe6df560f5972179370a6de83091bdc1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Klaviyo (KVYO) é uma das ações de IA mais vendidas?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shows-dollar-general-171832535.html</guid>
       <pubDate>25/05/2026 14:23</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4ee5547a402ce7a3ab3ea4eddc8a30d8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da França sobem no fechamento do pregão; CAC 40 sobe 1,76%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-176-4708603</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/france-stocks-higher-at-close-of-trade-cac-40-up-176-4708603</guid>
-      <pubDate>25/05/2026 13:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B08E_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
