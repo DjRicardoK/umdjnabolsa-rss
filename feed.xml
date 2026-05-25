@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 22:17:45 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 22:27:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Aqui estão meus três principais estoques de petróleo no momento</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/top-3-oil-stocks-now-143500571.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/top-3-oil-stocks-now-143500571.html</guid>
+      <pubDate>24/05/2026 22:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/2ee3207d1cf8886e765f247016bf6bbd" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Índia e EUA discutem Oriente Médio e comércio enquanto Rubio cita progresso no conflito com o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/cigna-group-ci-one-best-214951758.html</guid>
       <pubDate>24/05/2026 19:01</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f3cab3417a0914d8342aabaa68eb8ec2" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dow Jones Futures: Trump diz que não há &apos;pressa&apos; para acordo com o Irã, ignore &apos;perdedores&apos;; Tesla, ações de...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo</guid>
-      <pubDate>24/05/2026 18:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
