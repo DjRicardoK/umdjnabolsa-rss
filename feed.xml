@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 05:33:39 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 05:53:22 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Posições de tecnologia em fundos de hedge pairam perto de níveis recordes, diz Goldman Sachs</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/hedge-fund-tech-positions-hover-near-record-highs-goldman-sachs-says-4708371</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/hedge-fund-tech-positions-hover-near-record-highs-goldman-sachs-says-4708371</guid>
+      <pubDate>25/05/2026 05:53</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O0O6_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Indonésia sobem no fechamento do pregão; Índice Composto IDX subiu 0,76%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/indian-rupee-firms-after-rbi-governor-warns-on-more-intervention-4708284</guid>
       <pubDate>25/05/2026 00:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEF15059_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Outro alto funcionário do Fed redefine apostas de corte de taxas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/another-top-fed-official-resets-163300500.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/another-top-fed-official-resets-163300500.html</guid>
-      <pubDate>25/05/2026 00:34</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/ccbfb7f2c21104c662175df80b0da98c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
