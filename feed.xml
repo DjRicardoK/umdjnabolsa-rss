@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 15:58:37 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 16:14:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lattice Semiconductor supera as estimativas de ganhos do...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-lattice-semiconductor-tops-q1-2026-earnings-estimates-93CH-4708636</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-lattice-semiconductor-tops-q1-2026-earnings-estimates-93CH-4708636</guid>
+      <pubDate>25/05/2026 16:13</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas de HELOC e de empréstimos imobiliários Domingo, 24 de maio de 2026: Além das taxas baixas, o que torna...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/elbit-systems-earnings-up-next-as-defense-backlog-hits-281b-93CH-4708554</guid>
       <pubDate>25/05/2026 10:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED7S0AF_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A guerra no Irão representa uma nova ameaça às colheitas no Sudão, assolado pela fome</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/iran-war-poses-new-threat-to-harvests-in-hungerstricken-sudan-4708556</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/iran-war-poses-new-threat-to-harvests-in-hungerstricken-sudan-4708556</guid>
-      <pubDate>25/05/2026 10:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O142_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
