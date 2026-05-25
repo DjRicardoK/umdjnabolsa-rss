@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 06:54:32 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 07:02:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Taxas de juros de hipotecas e refinanciamentos hoje, segunda-feira, 25 de maio de 2026: As taxas subirão ou...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-may-25-2026-100000249.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-monday-may-25-2026-100000249.html</guid>
+      <pubDate>25/05/2026 07:02</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/480de4d0-03ec-11ef-bfff-fe31b82eccd6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Análise SWOT da Check Point Software: ações enfrentam desafios de execução</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/singapore-core-inflation-at-14-on-year-in-april-lower-than-expected-4708299</guid>
       <pubDate>25/05/2026 02:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O0DB_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O chefe da espionagem da Austrália diz que o anti-semitismo não foi controlado após a guerra em Gaza</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/australias-spy-chief-says-antisemitism-was-left-unchecked-after-gaza-war-4708302</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/australias-spy-chief-says-antisemitism-was-left-unchecked-after-gaza-war-4708302</guid>
-      <pubDate>25/05/2026 02:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O0DJ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
