@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 12:20:20 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 12:23:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Conflito no Oriente Médio eliminado pela Canadian Natural Resources Limited (CNQ)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/middle-east-conflict-lifted-canadian-151341988.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/middle-east-conflict-lifted-canadian-151341988.html</guid>
+      <pubDate>25/05/2026 12:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/0b5927ec2c03123c94e25caa14ba663c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs rebaixa classificação das ações da Futu devido a preocupações regulatórias</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-may-25-2026-100000678.html</guid>
       <pubDate>25/05/2026 07:24</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47b17e1-4f64-11ef-bcf5-d7c22925c744" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As melhores taxas de juros de poupança de alto rendimento hoje, segunda-feira, 25 de maio de 2026: Ganhe até...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-may-25-2026-100000125.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-may-25-2026-100000125.html</guid>
-      <pubDate>25/05/2026 07:20</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/0a4cca40-4b7b-11ef-abf9-2f9f6d2c2f16" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
