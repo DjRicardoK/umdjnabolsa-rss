@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 04:13:29 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 04:33:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE ThePaystubs revela crescentes problemas de conformidade da folha de pagamento enfrentados por empresas...</title>
+      <description></description>
+      <link>https://www.investing.com/news/press-releases/thepaystubs-reveals-growing-payroll-compliance-issues-facing-international-companies-4708338</link>
+      <guid isPermaLink="false">https://www.investing.com/news/press-releases/thepaystubs-reveals-growing-payroll-compliance-issues-facing-international-companies-4708338</guid>
+      <pubDate>25/05/2026 04:33</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/World_News_10_M_1440052130.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações do Japão sobem no fechamento do pregão; Nikkei 225 subiu 3,04%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/youre-setting-yourself-bankruptcy-dave-160112187.html</guid>
       <pubDate>25/05/2026 00:05</pubDate>
       <enclosure url="https://media.zenfs.com/en/benzinga_79/da039c3ae3bb552b9e9003b510d50f1b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Nvidia diz que sua previsão para um mercado de CPU de US$ 200 bilhões inclui a China</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/nvidia-says-its-forecast-for-200-billion-cpu-market-includes-china-4708275</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-says-its-forecast-for-200-billion-cpu-market-includes-china-4708275</guid>
-      <pubDate>24/05/2026 23:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M07M_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
