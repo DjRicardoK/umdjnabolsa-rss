@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 16:14:01 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 17:43:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE VolitionRx Limited (VNRX): 7 Penny Stocks com melhor classificação para comprar, de acordo com analistas de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/volitionrx-limited-vnrx-7-best-114907278.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/volitionrx-limited-vnrx-7-best-114907278.html</guid>
+      <pubDate>25/05/2026 17:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f0e157ebddaf5d2dd37935090b0bf2af" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Lattice Semiconductor supera as estimativas de ganhos do...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/these-underdogs-are-a-big-reason-s-p-500-profit-growth-is-the-fastest-in-nearly-5-years-4a43f142?mod=mw_rss_topstories</guid>
       <pubDate>25/05/2026 11:02</pubDate>
       <enclosure url="https://images.mktw.net/im-52439349" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucro da Elbit Systems é o próximo, com carteira de defesa atingindo US$ 28,1 bilhões</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/elbit-systems-earnings-up-next-as-defense-backlog-hits-281b-93CH-4708554</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/elbit-systems-earnings-up-next-as-defense-backlog-hits-281b-93CH-4708554</guid>
-      <pubDate>25/05/2026 10:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED7S0AF_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
