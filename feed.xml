@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 24 May 2026 23:46:42 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 23:46:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Nvidia diz que sua previsão para um mercado de CPU de US$ 200 bilhões inclui a China</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nvidia-says-its-forecast-for-200-billion-cpu-market-includes-china-4708275</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-says-its-forecast-for-200-billion-cpu-market-includes-china-4708275</guid>
+      <pubDate>24/05/2026 23:46</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4M07M_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Superando a inflação teimosa, o mercado em alta de Trump atinge níveis recordes novamente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-eroad-h2-2026-sees-stable-revenue-amid-challenges-93CH-4708262</guid>
       <pubDate>24/05/2026 22:01</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar cai com sinais de acordo para reabertura de Hormuz estimulando apetite pelo risco</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/dollar-slumps-as-signs-of-deal-to-reopen-hormuz-spur-risk-appetite-4708259</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-slumps-as-signs-of-deal-to-reopen-hormuz-spur-risk-appetite-4708259</guid>
-      <pubDate>24/05/2026 21:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O018_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
