@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 06:27:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 06:27:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar se apoia em esperanças vacilantes de um acordo de paz</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-wobbles-markets-cling-hopes-011952735.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-wobbles-markets-cling-hopes-011952735.html</guid>
+      <pubDate>26/05/2026 06:27</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/03b41865401d11f7ce2c37435aa9f5b5" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas europeias vacilam, petróleo sobe, enquanto EUA atacam o Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-should-raise-rates-in-june-even-if-iran-peace-deal-is-struck-schnabel-says-4708728</guid>
       <pubDate>26/05/2026 02:10</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P0D7_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Bristol-Myers Squibb (BMY) é uma das melhores ações com dividendos para investir de acordo com os fundos de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-squibb-bmy-one-172540996.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-squibb-bmy-one-172540996.html</guid>
-      <pubDate>26/05/2026 01:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4da437b7638100421dc4d0ddd5060036" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
