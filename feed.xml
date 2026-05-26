@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 12:06:53 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 12:10:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Elbit Systems lidera ganhos de defesa e limpa estimativas em meio à demanda de guerra</title>
+      <description></description>
+      <link>https://www.investors.com/news/elbit-systems-earnings-eslt-stock-defense-demand-iran-israel-middle-east-wars/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/elbit-systems-earnings-eslt-stock-defense-demand-iran-israel-middle-east-wars/?src=A00220&yptr=yahoo</guid>
+      <pubDate>26/05/2026 12:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/3e9d93f3bee2eb000f1952e3593669bc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Gauzy recebe notificação da Nasdaq por atraso na apresentação do relatório anual</title>
       <description></description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/company-news/harmonic-inc-stock-hits-52week-high-at-172-usd-93CH-4710042</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/harmonic-inc-stock-hits-52week-high-at-172-usd-93CH-4710042</guid>
       <pubDate>26/05/2026 10:33</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Pony.ai Q1 2026 mostra forte crescimento de receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ponyai-q1-2026-shows-strong-revenue-growth-93CH-4709969</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ponyai-q1-2026-shows-strong-revenue-growth-93CH-4709969</guid>
-      <pubDate>26/05/2026 10:14</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
