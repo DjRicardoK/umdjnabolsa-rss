@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 10:38:02 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:38:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros da Capri Holdings sobem enquanto a redefinição do luxo enfrenta teste</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/capri-holdings-earnings-on-deck-as-luxury-reset-faces-test-93CH-4710069</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/capri-holdings-earnings-on-deck-as-luxury-reset-faces-test-93CH-4710069</guid>
+      <pubDate>26/05/2026 10:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BofA reitera compra de ações da SharkNinja com base em fortes dados de vendas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-iran-news-marvell-dell-costco/?src=A00220&yptr=yahoo</guid>
       <pubDate>26/05/2026 08:26</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que o crescimento dos lucros de dois dígitos não impedirá o próximo mercado baixista</title>
-      <description>O aumento dos lucros do S&amp;P 500 muitas vezes sinaliza o turno final de um mercado em alta. A história diz que as ações estão em gelo fino.</description>
-      <link>https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/why-double-digit-earnings-growth-wont-stop-the-next-bear-market-791ae3ef?mod=mw_rss_topstories</guid>
-      <pubDate>26/05/2026 08:26</pubDate>
-      <enclosure url="https://images.mktw.net/im-55659099" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
