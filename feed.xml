@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 05:18:08 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 05:44:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Indonésia caem no fechamento do pregão; Índice Composto IDX caiu 0,85%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-085-4708848</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-085-4708848</guid>
+      <pubDate>26/05/2026 05:44</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED120ZE_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BCE alerta para riscos de crédito privado face a preocupações com a exposição da área do euro</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/sri-lanka-jolts-markets-with-outsized-100bp-rate-hike-to-counter-gulf-crisis-4708709</guid>
       <pubDate>26/05/2026 01:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P05V_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar firmado após ataques EUA-Irã gera dúvidas sobre acordo de paz</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/dollar-firms-after-usiran-strikes-spark-doubts-over-peace-deal-4708706</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-firms-after-usiran-strikes-spark-doubts-over-peace-deal-4708706</guid>
-      <pubDate>26/05/2026 00:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2U113_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
