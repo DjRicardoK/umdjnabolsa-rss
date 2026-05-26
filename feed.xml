@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 21:47:14 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 22:04:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Jake Auchincloss faz venda parcial de ações da State Street Corporation</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/jake-auchincloss-makes-partial-sale-of-state-street-corporation-stocks-93CH-4708687</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/jake-auchincloss-makes-partial-sale-of-state-street-corporation-stocks-93CH-4708687</guid>
+      <pubDate>25/05/2026 22:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Putin da Rússia fornece alívio da dívida aos novos recrutas de guerra da Ucrânia e às suas famílias</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/why-canadian-natural-resources-limited-115044713.html</guid>
       <pubDate>25/05/2026 17:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/52857d07fcdd9a429138df7b0d7ecc39" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE É aqui que a NRx Pharmaceuticals, Inc. (NRXP) está entre as ações de centavos mais bem avaliadas para...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-nrx-pharmaceuticals-inc-nrxp-114917487.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-nrx-pharmaceuticals-inc-nrxp-114917487.html</guid>
-      <pubDate>25/05/2026 17:48</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/78ab86785c75d97be3745dfccc6a7b6a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
