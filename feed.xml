@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 02:10:19 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 02:11:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Lenovo atingiram alta recorde após ganhos otimistas com a demanda de servidores de IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/lenovo-shares-hit-record-high-after-upbeat-earnings-on-ai-server-demand-4708716</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/lenovo-shares-hit-record-high-after-upbeat-earnings-on-ai-server-demand-4708716</guid>
+      <pubDate>26/05/2026 02:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/lenovo_M_1440051015.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O BCE deveria aumentar as taxas em junho, mesmo que o acordo de paz com o Irã fosse alcançado, diz Schnabel</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/japan-slips-to-thirdlargest-creditor-behind-china-despite-record-net-external-assets-4708671</guid>
       <pubDate>25/05/2026 20:57</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4O1V4_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: King Salmon da Nova Zelândia vê lucro no primeiro semestre do...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-new-zealand-king-salmon-sees-profit-in-h1-fy2026-93CH-4708664</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-new-zealand-king-salmon-sees-profit-in-h1-fy2026-93CH-4708664</guid>
-      <pubDate>25/05/2026 20:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
