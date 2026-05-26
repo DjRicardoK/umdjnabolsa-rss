@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 14:18:02 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:18:43 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Constellium NV atingem o máximo histórico de 34,95 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/constellium-nv-stock-hits-alltime-high-at-3495-usd-93CH-4710486</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/constellium-nv-stock-hits-alltime-high-at-3495-usd-93CH-4710486</guid>
+      <pubDate>26/05/2026 14:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Enviri Corp atingem o máximo de 52 semanas a 19,99 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/elbit-systems-earnings-eslt-stock-defense-demand-iran-israel-middle-east-wars/?src=A00220&yptr=yahoo</guid>
       <pubDate>26/05/2026 12:09</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/3e9d93f3bee2eb000f1952e3593669bc" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Gauzy recebe notificação da Nasdaq por atraso na apresentação do relatório anual</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/gauzy-receives-nasdaq-notice-for-delayed-annual-report-filing-93CH-4710342</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/gauzy-receives-nasdaq-notice-for-delayed-annual-report-filing-93CH-4710342</guid>
-      <pubDate>26/05/2026 12:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
