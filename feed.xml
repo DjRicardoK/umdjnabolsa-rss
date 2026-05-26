@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 18:19:00 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:26:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Nvidia aumenta seus dividendos e recompras com base no aumento do FCF - o NVDA é muito barato?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-hikes-dividend-buybacks-based-130003861.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-hikes-dividend-buybacks-based-130003861.html</guid>
+      <pubDate>26/05/2026 18:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/828805b72adb05952504a4fefd6c1a8a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Wall Street está otimista ou pessimista em relação ao estoque de peças originais?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-101818065.html</guid>
       <pubDate>26/05/2026 16:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ee10de8b2bbce9b7344eb7f623a071bf" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE S&amp;P 500 e Nasdaq sobem com otimismo em IA, Micron se junta ao clube de US$ 1 trilhão</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/sp-500-nasdaq-rise-on-ai-optimism-micron-joins-1-trillion-club-4710584</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/sp-500-nasdaq-rise-on-ai-optimism-micron-joins-1-trillion-club-4710584</guid>
-      <pubDate>26/05/2026 16:04</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P208_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
