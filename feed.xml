@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 16:44:40 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 17:20:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações imobiliárias de Alexandria?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-alexandria-115436151.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-alexandria-115436151.html</guid>
+      <pubDate>26/05/2026 17:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b01b42316fb673f23beb771e51d4a8fc" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Relatório de volatilidade e ganhos de opções de 25 a 29 de maio</title>
       <description></description>
@@ -157,14 +165,6 @@
       <description></description>
       <link>https://www.investing.com/news/company-news/enviri-corp-stock-hits-52week-high-at-1999-usd-93CH-4710488</link>
       <guid isPermaLink="false">https://www.investing.com/news/company-news/enviri-corp-stock-hits-52week-high-at-1999-usd-93CH-4710488</guid>
-      <pubDate>26/05/2026 14:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Kaiser Aluminum atingem o máximo histórico de 183,11 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/kaiser-aluminum-stock-reaches-alltime-high-of-18311-usd-93CH-4710491</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/kaiser-aluminum-stock-reaches-alltime-high-of-18311-usd-93CH-4710491</guid>
       <pubDate>26/05/2026 14:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
