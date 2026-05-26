@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 09:02:20 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:02:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Georgia Capital Q1 2026 mostra crescimento robusto</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-georgia-capital-q1-2026-shows-robust-growth-93CH-4709584</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-georgia-capital-q1-2026-shows-robust-growth-93CH-4709584</guid>
+      <pubDate>26/05/2026 09:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Uzbequistão retoma exportações de ouro após interrupção de seis meses</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/zccmih-incorporates-gold-mining-venture-in-zambia-93CH-4708945</guid>
       <pubDate>26/05/2026 06:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As reservas ocultas da China podem ser a razão pela qual os preços do petróleo não explodiram ainda mais</title>
-      <description>Há uma grande probabilidade de o governo chinês estar a injectar petróleo de um fornecimento estratégico no mercado, escreveu Rory Johnston num recente boletim informativo da...</description>
-      <link>https://www.marketwatch.com/story/chinas-hidden-reserves-may-be-the-reason-why-oil-prices-havent-exploded-even-higher-0e5f8fef?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/chinas-hidden-reserves-may-be-the-reason-why-oil-prices-havent-exploded-even-higher-0e5f8fef?mod=mw_rss_topstories</guid>
-      <pubDate>26/05/2026 06:44</pubDate>
-      <enclosure url="https://images.mktw.net/im-98887412" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
