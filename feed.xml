@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 14:18:43 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:28:39 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O IPO da SpaceX desencadeia um frenesi movido a foguetes nessas ações e ETFs</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/spacex-ipo-ignites-a-rocket-fueled-frenzy-in-these-stocks-and-etfs-172429621.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/spacex-ipo-ignites-a-rocket-fueled-frenzy-in-these-stocks-and-etfs-172429621.html</guid>
+      <pubDate>26/05/2026 14:28</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/fbc7AiXa5QVU0B.2zHfOfg--~B/aD0xNzc5O3c9MzE2MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/91dadb70-4b23-11eb-afb3-c85aebade363_739d318d42274da66b97ac94602d41bf53ac1d28cb62ff260d02b57f1a22b3c7.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Constellium NV atingem o máximo histórico de 34,95 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/workers-over-60-least-worried-144500303.html</guid>
       <pubDate>26/05/2026 12:10</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/9678ade25dbc19250509047b6d370088" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Elbit Systems lidera ganhos de defesa e limpa estimativas em meio à demanda de guerra</title>
-      <description></description>
-      <link>https://www.investors.com/news/elbit-systems-earnings-eslt-stock-defense-demand-iran-israel-middle-east-wars/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/news/elbit-systems-earnings-eslt-stock-defense-demand-iran-israel-middle-east-wars/?src=A00220&yptr=yahoo</guid>
-      <pubDate>26/05/2026 12:09</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/3e9d93f3bee2eb000f1952e3593669bc" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
