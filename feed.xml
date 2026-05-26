@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 22:47:42 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 23:06:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Preços do ouro caem à medida que novos ataques EUA-Irã diminuem as esperanças de paz</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-prices-dip-as-fresh-usiran-strikes-dampen-peace-hopes-4708697</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-dip-as-fresh-usiran-strikes-dampen-peace-hopes-4708697</guid>
+      <pubDate>25/05/2026 23:06</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC920S1_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: FinVolution Group supera as expectativas de lucros do primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/5-moves-retirees-recession-hits-131500062.html</guid>
       <pubDate>25/05/2026 18:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/2f0a2f2ce201d11fdd20438ec70d7c51" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Colômbia sobem no fechamento do pregão; COLCAP subiu 2,37%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-237-4708652</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-237-4708652</guid>
-      <pubDate>25/05/2026 18:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/Colombian_Securities_Exchange_M_1440056295.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
