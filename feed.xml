@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 15:59:39 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 16:04:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE S&amp;P 500 e Nasdaq sobem com otimismo em IA, Micron se junta ao clube de US$ 1 trilhão</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/sp-500-nasdaq-rise-on-ai-optimism-micron-joins-1-trillion-club-4710584</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/sp-500-nasdaq-rise-on-ai-optimism-micron-joins-1-trillion-club-4710584</guid>
+      <pubDate>26/05/2026 16:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P208_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da JB Hunt Transport?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-052-4710427</guid>
       <pubDate>26/05/2026 13:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB680B3_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas do Reino Unido sobem no fechamento do pregão; Investing.com Reino Unido 100 sobe 0,26%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-026-4710428</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-026-4710428</guid>
-      <pubDate>26/05/2026 13:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE020E3_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
