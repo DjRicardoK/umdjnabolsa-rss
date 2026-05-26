@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 08:26:19 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 08:26:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os futuros do Dow Jones sobem, mas diminuem os ganhos com notícias mistas sobre o Irã; Marvell e Dell saltam...</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-iran-news-marvell-dell-costco/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-iran-news-marvell-dell-costco/?src=A00220&yptr=yahoo</guid>
+      <pubDate>26/05/2026 08:26</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que o crescimento dos lucros de dois dígitos não impedirá o próximo mercado baixista</title>
       <description>O aumento dos lucros do S&amp;P 500 muitas vezes sinaliza o turno final de um mercado em alta. A história diz que as ações estão em gelo fino.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-085-4708848</guid>
       <pubDate>26/05/2026 05:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPED120ZE_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BCE alerta para riscos de crédito privado face a preocupações com a exposição da área do euro</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ecb-warns-of-private-credit-risks-amid-euro-area-exposure-concerns-4708833</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-warns-of-private-credit-risks-amid-euro-area-exposure-concerns-4708833</guid>
-      <pubDate>26/05/2026 05:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_5_M_1440048359.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
