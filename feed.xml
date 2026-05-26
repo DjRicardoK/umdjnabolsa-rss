@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 08:28:13 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 08:28:21 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Sunlands relata lucro do primeiro trimestre de 2026 em meio ao...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-sunlands-reports-q1-2026-profit-amid-revenue-decline-93CH-4709371</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-sunlands-reports-q1-2026-profit-amid-revenue-decline-93CH-4709371</guid>
+      <pubDate>26/05/2026 08:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A análise do Barclays mostra preços de ações de mineração em commodities abaixo dos níveis à vista</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/british-shop-prices-rise-faster-in-may-amid-iran-war-disruption-93CH-4708903</guid>
       <pubDate>26/05/2026 06:23</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE USD/KRW: BofA vê won coreanos vulneráveis ​​apesar do forte superávit comercial</title>
-      <description></description>
-      <link>https://www.investing.com/news/forex-news/usdkrw-bofa-sees-korean-won-vulnerable-despite-strong-trade-surplus-93CH-4708907</link>
-      <guid isPermaLink="false">https://www.investing.com/news/forex-news/usdkrw-bofa-sees-korean-won-vulnerable-despite-strong-trade-surplus-93CH-4708907</guid>
-      <pubDate>26/05/2026 06:23</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0O0HA_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
