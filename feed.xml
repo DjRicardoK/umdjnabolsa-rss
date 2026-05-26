@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 07:21:59 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:24:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pentágono exclusivo discute com a SpaceX sobre o aumento de preços do Starlink durante a guerra do Irã</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/exclusivepentagon-spars-with-spacex-over-starlink-price-hike-during-iran-war-4709045</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusivepentagon-spars-with-spacex-over-starlink-price-hike-during-iran-war-4709045</guid>
+      <pubDate>26/05/2026 07:24</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P0WK_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Formulário 6K Kinross Gold Corp para: 26 de maio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/analysisa-warning-to-critical-minerals-buyers-avoid-butter-mountains-aluminium-floods-4708753</guid>
       <pubDate>26/05/2026 03:59</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P0I1_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação dos preços nas lojas no Reino Unido aumenta, os varejistas pedem ajuda ao governo</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/uk-shop-price-inflation-picks-up-retailers-ask-government-to-help-4708758</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/uk-shop-price-inflation-picks-up-retailers-ask-government-to-help-4708758</guid>
-      <pubDate>26/05/2026 03:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P0IU_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
