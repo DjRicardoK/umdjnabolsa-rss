@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 05:44:19 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 06:23:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE USD/KRW: BofA vê won coreanos vulneráveis ​​apesar do forte superávit comercial</title>
+      <description></description>
+      <link>https://www.investing.com/news/forex-news/usdkrw-bofa-sees-korean-won-vulnerable-despite-strong-trade-surplus-93CH-4708907</link>
+      <guid isPermaLink="false">https://www.investing.com/news/forex-news/usdkrw-bofa-sees-korean-won-vulnerable-despite-strong-trade-surplus-93CH-4708907</guid>
+      <pubDate>26/05/2026 06:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0O0HA_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Indonésia caem no fechamento do pregão; Índice Composto IDX caiu 0,85%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-new-us-strikes-curb-iran-peace-hopes-kospi-hits-record-high-4708713</guid>
       <pubDate>26/05/2026 01:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB1H0YB_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Sri Lanka sacode os mercados com aumento descomunal de 100 pontos base nas taxas para combater a crise do...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/sri-lanka-jolts-markets-with-outsized-100bp-rate-hike-to-counter-gulf-crisis-4708709</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/sri-lanka-jolts-markets-with-outsized-100bp-rate-hike-to-counter-gulf-crisis-4708709</guid>
-      <pubDate>26/05/2026 01:06</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P05V_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
