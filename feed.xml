@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 03:56:51 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 03:59:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Análise – Um aviso aos compradores de minerais críticos: evitem montanhas de manteiga e inundações de alumínio</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/analysisa-warning-to-critical-minerals-buyers-avoid-butter-mountains-aluminium-floods-4708753</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/analysisa-warning-to-critical-minerals-buyers-avoid-butter-mountains-aluminium-floods-4708753</guid>
+      <pubDate>26/05/2026 03:59</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P0I1_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE A inflação dos preços nas lojas no Reino Unido aumenta, os varejistas pedem ajuda ao governo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-dip-as-fresh-usiran-strikes-dampen-peace-hopes-4708697</guid>
       <pubDate>25/05/2026 23:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC920S1_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: FinVolution Group supera as expectativas de lucros do primeiro...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-finvolution-group-beats-q1-2026-earnings-expectations-93CH-4708694</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-finvolution-group-beats-q1-2026-earnings-expectations-93CH-4708694</guid>
-      <pubDate>25/05/2026 22:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
