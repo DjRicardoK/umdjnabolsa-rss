@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 03:11:52 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 03:17:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cora Gold inicia trabalho de design de engenharia no projeto do Mali</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/cora-gold-begins-engineering-design-work-at-mali-project-93CH-4708744</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/cora-gold-begins-engineering-design-work-at-mali-project-93CH-4708744</guid>
+      <pubDate>26/05/2026 03:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 2,18%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/fans-honor-sombr-and-golden-at-american-music-awards-4708691</guid>
       <pubDate>25/05/2026 22:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P03B_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar oscila enquanto os mercados se apegam às esperanças de acordo de paz no Médio Oriente</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/dollar-wobbles-as-markets-cling-to-hopes-for-middle-east-peace-deal-4708692</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-wobbles-as-markets-cling-to-hopes-for-middle-east-peace-deal-4708692</guid>
-      <pubDate>25/05/2026 22:27</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P03N_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
