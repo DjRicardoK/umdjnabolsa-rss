@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 19:32:44 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 19:38:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE CEO da Amazon, Douglas Herrington, vende US$ 1,67 milhão em ações da empresa</title>
+      <description></description>
+      <link>https://www.investing.com/news/insider-trading-news/amazon-ceo-douglas-herrington-sells-167m-in-company-stock-93CH-4710984</link>
+      <guid isPermaLink="false">https://www.investing.com/news/insider-trading-news/amazon-ceo-douglas-herrington-sells-167m-in-company-stock-93CH-4710984</guid>
+      <pubDate>26/05/2026 19:38</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/amazon_M_1440049058.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Shelley Reynolds, vice-presidente da Amazon, vende US$ 620.003 em ações da empresa</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/ooma-inc-earnings-beat-by-003-revenue-topped-estimates-4710824</guid>
       <pubDate>26/05/2026 17:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Raymond James?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-120017291.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-120017291.html</guid>
-      <pubDate>26/05/2026 17:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b2958e6d76db17a14d56d7be4559c290" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
