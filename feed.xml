@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 21:22:33 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 21:47:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Putin da Rússia fornece alívio da dívida aos novos recrutas de guerra da Ucrânia e às suas famílias</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/russias-putin-provides-debt-relief-to-new-ukraine-war-recruits-and-their-families-4708685</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/russias-putin-provides-debt-relief-to-new-ukraine-war-recruits-and-their-families-4708685</guid>
+      <pubDate>25/05/2026 21:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P01I_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Goodman Group descreve estratégia de crescimento e capital no...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-nrx-pharmaceuticals-inc-nrxp-114917487.html</guid>
       <pubDate>25/05/2026 17:48</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/78ab86785c75d97be3745dfccc6a7b6a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE VolitionRx Limited (VNRX): 7 Penny Stocks com melhor classificação para comprar, de acordo com analistas de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/volitionrx-limited-vnrx-7-best-114907278.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/volitionrx-limited-vnrx-7-best-114907278.html</guid>
-      <pubDate>25/05/2026 17:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/f0e157ebddaf5d2dd37935090b0bf2af" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
