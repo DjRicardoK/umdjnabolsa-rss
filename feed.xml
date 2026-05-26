@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 15:06:56 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:07:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Perspectiva de ações de armazenamento público: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/public-storage-stock-outlook-wall-090916590.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/public-storage-stock-outlook-wall-090916590.html</guid>
+      <pubDate>26/05/2026 15:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/96b48e488a64ca007fe1ce216e4a430c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Equifax: Wall Street está em alta ou em baixa?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/tesla-stock-three-weeks-tight-nasdaq-tech-ai-robotaxis-ev/?src=A00220&yptr=yahoo</guid>
       <pubDate>26/05/2026 13:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/b0a2e00c8a51df5edd0922784d071e3c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Um dos maiores transitários do mundo acaba de assinar um novo acordo ‘marco’ com um importante porto da Costa...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/one-world-largest-freight-forwarders-155813927.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/one-world-largest-freight-forwarders-155813927.html</guid>
-      <pubDate>26/05/2026 13:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/freightwaves_373/c470f8fac5a0730583d757f321c33b4c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
