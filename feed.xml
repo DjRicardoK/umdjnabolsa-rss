@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 13:20:51 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 13:20:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas de Portugal caem no fechamento do pregão; PSI cai 0,31%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-031-4710426</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-031-4710426</guid>
+      <pubDate>26/05/2026 13:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2I0YG_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Espanha caem no fechamento do pregão; IBEX 35 caiu 0,52%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/why-inflation-not-growth-is-what-really-matters-for-the-stock-market-18d7d9b7?mod=mw_rss_topstories</guid>
       <pubDate>26/05/2026 11:13</pubDate>
       <enclosure url="https://images.mktw.net/im-41109016" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Corridas arrasadoras para ações de chips de memória como Micron e Sandisk fizeram este novo ETF disparar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/article/scorching-runs-for-memory-chip-stocks-like-micron-and-sandisk-have-sent-this-new-etf-soaring-135416266.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/scorching-runs-for-memory-chip-stocks-like-micron-and-sandisk-have-sent-this-new-etf-soaring-135416266.html</guid>
-      <pubDate>26/05/2026 11:02</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/t2VvApAE5JT7obIDKK0PKw--~B/aD0xMzI3O3c9MjM2MDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/92f07830-2c1e-11f1-b67c-d430878b6366_9920fcba6804e24c82e77b7b57486ec75620c1a529a13f02c75f521b2ff731f0.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
