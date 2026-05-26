@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 11:31:54 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 11:40:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Terceira maior companhia marítima do mundo vê queda nos lucros do primeiro trimestre</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/world-third-largest-shipping-line-142642236.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/world-third-largest-shipping-line-142642236.html</guid>
+      <pubDate>26/05/2026 11:40</pubDate>
+      <enclosure url="https://media.zenfs.com/en/freightwaves_373/333b7cf14eaf33cd04465ea2d6f66987" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE BNB Plus adiciona US$ 4,1 milhões à medida que a redefinição do Crypto Treasury avança</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/u-s-oil-prices-decline-as-hopes-grow-for-a-peace-deal-arriving-soon-a02faa52?mod=mw_rss_topstories</guid>
       <pubDate>26/05/2026 09:56</pubDate>
       <enclosure url="https://images.mktw.net/im-44391927" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Este sinal de mercado em baixa que Wall Street ignora está colocando seu dinheiro em risco agora</title>
-      <description>O trader veterano Steve Burns se prepara para um declínio de 50% e expõe os três “pecados capitais do mercado de ações” que destroem carteiras.</description>
-      <link>https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3?mod=mw_rss_topstories</guid>
-      <pubDate>26/05/2026 09:17</pubDate>
-      <enclosure url="https://images.mktw.net/im-95721773" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
