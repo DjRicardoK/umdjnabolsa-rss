@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 13:18:51 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 13:20:44 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bolsas do Reino Unido sobem no fechamento do pregão; Investing.com Reino Unido 100 sobe 0,26%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-026-4710428</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-026-4710428</guid>
+      <pubDate>26/05/2026 13:20</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEE020E3_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mais de 9 milhões de pessoas estão a perder 58 mil milhões de dólares em benefícios alimentares e médicos....</title>
       <description>A falta de conscientização, o estigma social, as dificuldades de inscrição e as preocupações com a elegibilidade impedem as pessoas de obter benefícios</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/proto-labs-stock-reaches-52week-high-at-7336-usd-93CH-4710173</guid>
       <pubDate>26/05/2026 10:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE EUA planejam cortar bombardeiros estratégicos e navios de guerra disponíveis para a OTAN em uma crise, relata...</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/us-plans-to-cut-strategic-bombers-and-warships-available-to-nato-in-a-crisis-spiegel-reports-4710161</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/us-plans-to-cut-strategic-bombers-and-warships-available-to-nato-in-a-crisis-spiegel-reports-4710161</guid>
-      <pubDate>26/05/2026 10:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P1ET_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
