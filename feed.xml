@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 22:28:09 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 22:28:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Petróleo sobe, ações mistas enquanto novos ataques dos EUA diminuem o otimismo do acordo de paz</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/oil-rises-stocks-mixed-as-new-us-strikes-dampen-peace-deal-optimism-4708690</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/oil-rises-stocks-mixed-as-new-us-strikes-dampen-peace-deal-optimism-4708690</guid>
+      <pubDate>25/05/2026 22:28</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P03J_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Fãs homenageiam Sombr e ‘Golden’ no American Music Awards</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/mr-buffett-30-billion-warren-125500638.html</guid>
       <pubDate>25/05/2026 18:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/91fb1b16d3d1aef2a6b2a8cb23b3fd32" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações doentias da área de saúde estão se recuperando. Para investidores contrários, comprar agora pode ser...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/healthcare/articles/sickly-healthcare-stocks-perking-contrarian-123002617.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/sickly-healthcare-stocks-perking-contrarian-123002617.html</guid>
-      <pubDate>25/05/2026 18:13</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6dfadeb203be88c38d046155b7743375" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
