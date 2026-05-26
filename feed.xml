@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 08:29:34 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 08:49:20 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE HC Wainwright reitera classificação das ações da Voyager Therapeutics sobre o progresso do pipeline</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-voyager-therapeutics-stock-rating-on-pipeline-progress-93CH-4709563</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/hc-wainwright-reiterates-voyager-therapeutics-stock-rating-on-pipeline-progress-93CH-4709563</guid>
+      <pubDate>26/05/2026 08:49</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Oppenheimer reitera classificação das ações da Agilysys após reuniões do CFO</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-wobbles-markets-cling-hopes-011952735.html</guid>
       <pubDate>26/05/2026 06:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/03b41865401d11f7ce2c37435aa9f5b5" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas europeias vacilam, petróleo sobe, enquanto EUA atacam o Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/commodities/articles/oil-rises-stocks-mixed-us-011531729.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/commodities/articles/oil-rises-stocks-mixed-us-011531729.html</guid>
-      <pubDate>26/05/2026 06:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/0faf1d5778453a275baeb80570a59974" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
