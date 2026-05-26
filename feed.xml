@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 02:58:01 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 03:04:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Wall Street está voltando a aquecer com as ações da CoreWeave. A demanda de longo prazo está ajudando.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-warming-back-coreweave-190002463.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-warming-back-coreweave-190002463.html</guid>
+      <pubDate>26/05/2026 03:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e16f16e4ebde8d2d9bbaa3616d2c00ee" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs inicia cobertura de ações da Seaport Therapeutics citando validação da plataforma</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/jake-auchincloss-makes-partial-sale-of-state-street-corporation-stocks-93CH-4708687</guid>
       <pubDate>25/05/2026 22:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Putin da Rússia fornece alívio da dívida aos novos recrutas de guerra da Ucrânia e às suas famílias</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/russias-putin-provides-debt-relief-to-new-ukraine-war-recruits-and-their-families-4708685</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/russias-putin-provides-debt-relief-to-new-ukraine-war-recruits-and-their-families-4708685</guid>
-      <pubDate>25/05/2026 21:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P01I_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
