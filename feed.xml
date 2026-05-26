@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 11:27:58 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 11:31:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BNB Plus adiciona US$ 4,1 milhões à medida que a redefinição do Crypto Treasury avança</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/crypto/articles/bnb-plus-adds-4-1m-141400762.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/bnb-plus-adds-4-1m-141400762.html</guid>
+      <pubDate>26/05/2026 11:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/a4e406fbab75de80bcf0d5b259082db7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Sandisk atingem máximo histórico de 1.600,64 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/this-bear-market-signal-wall-street-ignores-is-putting-your-money-at-risk-right-now-46f1fcf3?mod=mw_rss_topstories</guid>
       <pubDate>26/05/2026 09:17</pubDate>
       <enclosure url="https://images.mktw.net/im-95721773" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Pony.ai da China diz que não é afetado pela revisão de segurança de carros autônomos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/chinas-pony-ai-says-unaffected-120339967.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/chinas-pony-ai-says-unaffected-120339967.html</guid>
-      <pubDate>26/05/2026 09:16</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/ca5a38c590b511b80e8fab8e35965e31" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
