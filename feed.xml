@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 01:25:26 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 01:43:59 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE UnitedHealth Group (UNH) – Entre as 12 melhores ações com dividendos para investir de acordo com fundos de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-group-unh-among-12-172106991.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/unitedhealth-group-unh-among-12-172106991.html</guid>
+      <pubDate>26/05/2026 01:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/c34a56642082d17e3fa7c8675c6742b3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Bolsas asiáticas mistas, à medida que novos ataques dos EUA reduzem as esperanças de paz no Irão; KOSPI...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/michael-burry-says-secs-plan-143000315.html</guid>
       <pubDate>25/05/2026 19:55</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_327/5a3df5b9a6431ff95ae9f52a7a795978" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Microsoft (MSFT): uma das melhores ações de longo prazo para comprar agora e obter altos retornos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-best-long-133020127.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-best-long-133020127.html</guid>
-      <pubDate>25/05/2026 19:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
