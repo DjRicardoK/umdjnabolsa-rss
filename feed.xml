@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 18:18:21 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:19:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street está otimista ou pessimista em relação ao estoque de peças originais?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-genuine-125518083.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-genuine-125518083.html</guid>
+      <pubDate>26/05/2026 18:18</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e1d3fcf5e77576cff8ae38f25558acac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Nvidia teve outro trimestre ‘normal’: como jogar com ações do NVDA após os ganhos do primeiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/sp-500-nasdaq-rise-on-ai-optimism-micron-joins-1-trillion-club-4710584</guid>
       <pubDate>26/05/2026 16:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P208_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações da JB Hunt Transport?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-j-b-100553731.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-j-b-100553731.html</guid>
-      <pubDate>26/05/2026 15:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/58ff6bf6703310f1e9776e02473bb666" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
