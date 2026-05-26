@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 10:38:09 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:41:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Google, Meta, Amazon e 6 outras ações de tecnologia impulsionando a excitação dos lucros no mercado de ações</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/article/google-meta-amazon-and-6-other-tech-stocks-powering-the-stock-markets-profit-excitement-132555306.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/google-meta-amazon-and-6-other-tech-stocks-powering-the-stock-markets-profit-excitement-132555306.html</guid>
+      <pubDate>26/05/2026 10:40</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/H2nWOuyal1tTNJKaE7qvbw--~B/aD0xNDc4O3c9MjYyODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucros da Capri Holdings sobem enquanto a redefinição do luxo enfrenta teste</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/barclays-analysis-shows-mining-stocks-pricing-in-commodities-below-spot-levels-93CH-4709373</guid>
       <pubDate>26/05/2026 08:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os futuros do Dow Jones sobem, mas diminuem os ganhos com notícias mistas sobre o Irã; Marvell e Dell saltam...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-iran-news-marvell-dell-costco/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-iran-news-marvell-dell-costco/?src=A00220&yptr=yahoo</guid>
-      <pubDate>26/05/2026 08:26</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/9a0dafc988b664e85c21c2c25cf4f7ec" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
