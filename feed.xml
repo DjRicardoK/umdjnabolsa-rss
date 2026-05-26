@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 09:05:15 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 09:15:49 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Cantor Fitzgerald reitera classificação das ações da Artiva Biotherapeutics</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-artiva-biotherapeutics-stock-rating-93CH-4709687</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-artiva-biotherapeutics-stock-rating-93CH-4709687</guid>
+      <pubDate>26/05/2026 09:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A indústria farmacêutica da China não foi afetada pelo escrutínio de Pequim sobre acordos tecnológicos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-may-26-2026-100000851.html</guid>
       <pubDate>26/05/2026 07:06</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Air China Cargo encomenda mais quatro cargueiros A350F da Airbus</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/air-china-cargo-orders-four-more-a350f-freighters-from-airbus-93CH-4708996</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/air-china-cargo-orders-four-more-a350f-freighters-from-airbus-93CH-4708996</guid>
-      <pubDate>26/05/2026 07:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
