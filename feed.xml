@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 25 May 2026 22:04:54 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 22:28:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Dólar oscila enquanto os mercados se apegam às esperanças de acordo de paz no Médio Oriente</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/dollar-wobbles-as-markets-cling-to-hopes-for-middle-east-peace-deal-4708692</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/dollar-wobbles-as-markets-cling-to-hopes-for-middle-east-peace-deal-4708692</guid>
+      <pubDate>25/05/2026 22:27</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P03N_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Jake Auchincloss faz venda parcial de ações da State Street Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-121500412.html</guid>
       <pubDate>25/05/2026 18:02</pubDate>
       <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/5efdeaabd360f7a9826b8b42b261850c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE É por isso que a Canadian Natural Resources Limited (CNQ) está entre os melhores estoques de gás natural para...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/why-canadian-natural-resources-limited-115044713.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/why-canadian-natural-resources-limited-115044713.html</guid>
-      <pubDate>25/05/2026 17:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/52857d07fcdd9a429138df7b0d7ecc39" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
