@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 14:28:39 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:35:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pesquisa semanal de credores hipotecários com as melhores taxas: O poder das taxas de compra</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-rates-may-26-170834944.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-rates-may-26-170834944.html</guid>
+      <pubDate>26/05/2026 14:35</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d9cd60-0c3a-11f1-bdff-87ef2d5000ac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O IPO da SpaceX desencadeia um frenesi movido a foguetes nessas ações e ETFs</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/general-news/trump-administration-proposes-nondisclosure-agreements-for-us-federal-workers-4710198</guid>
       <pubDate>26/05/2026 12:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P1G7_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Trabalhadores com mais de 60 anos são os menos preocupados com a possibilidade de a IA tirar seus empregos –...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/workers-over-60-least-worried-144500303.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/workers-over-60-least-worried-144500303.html</guid>
-      <pubDate>26/05/2026 12:10</pubDate>
-      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/9678ade25dbc19250509047b6d370088" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
