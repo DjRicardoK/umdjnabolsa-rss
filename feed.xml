@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 01:52:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 02:10:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O BCE deveria aumentar as taxas em junho, mesmo que o acordo de paz com o Irã fosse alcançado, diz Schnabel</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ecb-should-raise-rates-in-june-even-if-iran-peace-deal-is-struck-schnabel-says-4708728</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-should-raise-rates-in-june-even-if-iran-peace-deal-is-struck-schnabel-says-4708728</guid>
+      <pubDate>26/05/2026 02:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P0D7_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Bristol-Myers Squibb (BMY) é uma das melhores ações com dividendos para investir de acordo com os fundos de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-new-zealand-king-salmon-sees-profit-in-h1-fy2026-93CH-4708664</guid>
       <pubDate>25/05/2026 20:18</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perspectiva das ações da Veralto Corporation: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/veralto-corporation-stock-outlook-wall-143423669.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/veralto-corporation-stock-outlook-wall-143423669.html</guid>
-      <pubDate>25/05/2026 19:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8479fabd745107c9b5a738cb11a82f5d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
