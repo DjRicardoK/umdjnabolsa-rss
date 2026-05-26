@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 18:00:18 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 18:02:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Ulta Beauty: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-stock-wall-street-122357348.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-stock-wall-street-122357348.html</guid>
+      <pubDate>26/05/2026 18:02</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b5717411cbc1437efa43880132cb09c7" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Perspectiva das ações da Allegion: Wall Street está em alta ou em baixa?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/equifax-stock-wall-street-bullish-085618787.html</guid>
       <pubDate>26/05/2026 15:06</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/5ead0eef0b3a26a93392ed3b89ea5f69" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Chip Leader pisca sinal de compra após liquidação de ganhos</title>
-      <description></description>
-      <link>https://www.investors.com/research/nova-nvmi-stock-earnings-chip-ai/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/nova-nvmi-stock-earnings-chip-ai/?src=A00220&yptr=yahoo</guid>
-      <pubDate>26/05/2026 14:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/68490dc1e954d4b07f9569a8c988fb79" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
