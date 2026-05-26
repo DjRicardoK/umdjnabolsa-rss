@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 07:02:46 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:06:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Taxas de hipoteca e refinanciamento hoje, 26 de maio de 2026: as taxas voltam a subir</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-may-26-2026-100000851.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-rates-today-tuesday-may-26-2026-100000851.html</guid>
+      <pubDate>26/05/2026 07:06</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Air China Cargo encomenda mais quatro cargueiros A350F da Airbus</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-218-4708741</guid>
       <pubDate>26/05/2026 03:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/Taiwan_M_1440053337.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Wall Street está voltando a aquecer com as ações da CoreWeave. A demanda de longo prazo está ajudando.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-warming-back-coreweave-190002463.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-warming-back-coreweave-190002463.html</guid>
-      <pubDate>26/05/2026 03:04</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/e16f16e4ebde8d2d9bbaa3616d2c00ee" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
