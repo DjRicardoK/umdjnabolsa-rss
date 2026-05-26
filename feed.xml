@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 14:17:55 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:18:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Enviri Corp atingem o máximo de 52 semanas a 19,99 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/enviri-corp-stock-hits-52week-high-at-1999-usd-93CH-4710488</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/enviri-corp-stock-hits-52week-high-at-1999-usd-93CH-4710488</guid>
+      <pubDate>26/05/2026 14:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Kaiser Aluminum atingem o máximo histórico de 183,11 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/gauzy-receives-nasdaq-notice-for-delayed-annual-report-filing-93CH-4710342</guid>
       <pubDate>26/05/2026 12:06</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE ‘Sempre nos unimos por odiar os bilionários’: consegui um emprego bem remunerado. Agora meu amigo diz que sou...</title>
-      <description>“Eu não quero tornar isso estranho.”</description>
-      <link>https://www.marketwatch.com/story/we-have-always-bonded-over-hating-billionaires-i-got-a-well-paid-job-now-my-friend-says-im-ultrawealthy-how-do-i-respond-087aa4dd?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/we-have-always-bonded-over-hating-billionaires-i-got-a-well-paid-job-now-my-friend-says-im-ultrawealthy-how-do-i-respond-087aa4dd?mod=mw_rss_topstories</guid>
-      <pubDate>26/05/2026 12:01</pubDate>
-      <enclosure url="https://images.mktw.net/im-90011351" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
