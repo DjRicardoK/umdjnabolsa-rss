@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 16:04:11 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 16:10:16 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Fox Corporation?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-101818065.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-101818065.html</guid>
+      <pubDate>26/05/2026 16:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/ee10de8b2bbce9b7344eb7f623a071bf" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE S&amp;P 500 e Nasdaq sobem com otimismo em IA, Micron se junta ao clube de US$ 1 trilhão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-031-4710426</guid>
       <pubDate>26/05/2026 13:20</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2I0YG_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da Espanha caem no fechamento do pregão; IBEX 35 caiu 0,52%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-052-4710427</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-052-4710427</guid>
-      <pubDate>26/05/2026 13:20</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB680B3_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
