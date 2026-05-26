@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 10:06:02 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:14:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Pony.ai Q1 2026 mostra forte crescimento de receita</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-ponyai-q1-2026-shows-strong-revenue-growth-93CH-4709969</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ponyai-q1-2026-shows-strong-revenue-growth-93CH-4709969</guid>
+      <pubDate>26/05/2026 10:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações de IA: SpaceX, OpenAI IPO Buzz Fuel próxima etapa do rali. Salesforce, ganhos devidos do Snowflake.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-ensign-group-beats-q1-2026-eps-expectations-93CH-4709187</guid>
       <pubDate>26/05/2026 07:40</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Pentágono exclusivo discute com a SpaceX sobre o aumento de preços do Starlink durante a guerra do Irã</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/exclusivepentagon-spars-with-spacex-over-starlink-price-hike-during-iran-war-4709045</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusivepentagon-spars-with-spacex-over-starlink-price-hike-during-iran-war-4709045</guid>
-      <pubDate>26/05/2026 07:24</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P0WK_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
