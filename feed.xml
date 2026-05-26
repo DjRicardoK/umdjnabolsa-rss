@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 17:33:37 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 17:48:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucro da Ooma Inc superou US$ 0,03, receita superou estimativas</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/ooma-inc-earnings-beat-by-003-revenue-topped-estimates-4710824</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/ooma-inc-earnings-beat-by-003-revenue-topped-estimates-4710824</guid>
+      <pubDate>26/05/2026 17:47</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Raymond James?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-rates-may-26-170834944.html</guid>
       <pubDate>26/05/2026 14:35</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2026-02/e1d9cd60-0c3a-11f1-bdff-87ef2d5000ac" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O IPO da SpaceX desencadeia um frenesi movido a foguetes nessas ações e ETFs</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/article/spacex-ipo-ignites-a-rocket-fueled-frenzy-in-these-stocks-and-etfs-172429621.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/article/spacex-ipo-ignites-a-rocket-fueled-frenzy-in-these-stocks-and-etfs-172429621.html</guid>
-      <pubDate>26/05/2026 14:28</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/fbc7AiXa5QVU0B.2zHfOfg--~B/aD0xNzc5O3c9MzE2MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/91dadb70-4b23-11eb-afb3-c85aebade363_739d318d42274da66b97ac94602d41bf53ac1d28cb62ff260d02b57f1a22b3c7.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
