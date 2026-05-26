@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 02:37:13 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 02:58:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs inicia cobertura de ações da Seaport Therapeutics citando validação da plataforma</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-seaport-therapeutics-stock-coverage-citing-platform-validation-93CH-4708738</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/goldman-sachs-initiates-seaport-therapeutics-stock-coverage-citing-platform-validation-93CH-4708738</guid>
+      <pubDate>26/05/2026 02:57</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O novo indicador de tendência do BOJ mostra que a inflação excede a meta</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/russias-putin-provides-debt-relief-to-new-ukraine-war-recruits-and-their-families-4708685</guid>
       <pubDate>25/05/2026 21:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P01I_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Goodman Group descreve estratégia de crescimento e capital no...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-goodman-group-outlines-growth-and-capital-strategy-in-q3-2026-93CH-4708674</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-goodman-group-outlines-growth-and-capital-strategy-in-q3-2026-93CH-4708674</guid>
-      <pubDate>25/05/2026 21:22</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
