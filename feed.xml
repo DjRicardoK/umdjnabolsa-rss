@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 06:27:52 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 06:39:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As remessas de telefones de marcas estrangeiras na China em abril aumentaram 1,8% A/A, mostram dados da CAICT</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/april-shipments-of-foreignbranded-phones-in-china-up-18-yy-caict-data-shows-4708934</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/april-shipments-of-foreignbranded-phones-in-china-up-18-yy-caict-data-shows-4708934</guid>
+      <pubDate>26/05/2026 06:39</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P0S0_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Dólar se apoia em esperanças vacilantes de um acordo de paz</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/lenovo-shares-hit-record-high-after-upbeat-earnings-on-ai-server-demand-4708716</guid>
       <pubDate>26/05/2026 02:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/lenovo_M_1440051015.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O BCE deveria aumentar as taxas em junho, mesmo que o acordo de paz com o Irã fosse alcançado, diz Schnabel</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/ecb-should-raise-rates-in-june-even-if-iran-peace-deal-is-struck-schnabel-says-4708728</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-should-raise-rates-in-june-even-if-iran-peace-deal-is-struck-schnabel-says-4708728</guid>
-      <pubDate>26/05/2026 02:10</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P0D7_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
