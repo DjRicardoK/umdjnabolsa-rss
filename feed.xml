@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 03:17:25 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 03:37:04 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Austrália caem no fechamento do pregão; S&amp;P/ASX 200 caiu 0,39%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-4708749</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-039-4708749</guid>
+      <pubDate>26/05/2026 03:37</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPED840OH_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Cora Gold inicia trabalho de design de engenharia no projeto do Mali</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/oil-rises-stocks-mixed-as-new-us-strikes-dampen-peace-deal-optimism-4708690</guid>
       <pubDate>25/05/2026 22:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P03J_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fãs homenageiam Sombr e ‘Golden’ no American Music Awards</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/fans-honor-sombr-and-golden-at-american-music-awards-4708691</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/fans-honor-sombr-and-golden-at-american-music-awards-4708691</guid>
-      <pubDate>25/05/2026 22:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4P03B_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
