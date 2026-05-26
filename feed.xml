@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 04:57:50 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 05:18:08 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE BCE alerta para riscos de crédito privado face a preocupações com a exposição da área do euro</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/ecb-warns-of-private-credit-risks-amid-euro-area-exposure-concerns-4708833</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecb-warns-of-private-credit-risks-amid-euro-area-exposure-concerns-4708833</guid>
+      <pubDate>26/05/2026 05:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/indicatornews_5_M_1440048359.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Leerink reitera classificação das ações da Eli Lilly sobre o progresso da terapia genética</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/forex-news/dollar-firms-after-usiran-strikes-spark-doubts-over-peace-deal-4708706</guid>
       <pubDate>26/05/2026 00:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEB2U113_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE PIB, ganhos e outras coisas importantes para observar esta semana</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/gdp-earnings-other-key-things-170003725.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/gdp-earnings-other-key-things-170003725.html</guid>
-      <pubDate>25/05/2026 23:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/a3f8b7b175c2147da9ed22b631b9dee3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
