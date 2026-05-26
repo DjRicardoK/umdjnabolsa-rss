@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 10:33:24 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:35:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Eaton Vance Tax Advantaged Div atingem o máximo de 52 semanas a 26,91 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/eaton-vance-tax-advantaged-div-stock-hits-52week-high-at-2691-usd-93CH-4710062</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/eaton-vance-tax-advantaged-div-stock-hits-52week-high-at-2691-usd-93CH-4710062</guid>
+      <pubDate>26/05/2026 10:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Harmonic Inc atingem alta de 52 semanas a 17,2 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/heres-the-defensive-stock-market-trade-that-works-no-matter-where-bond-yields-end-up-eec83a67?mod=mw_rss_topstories</guid>
       <pubDate>26/05/2026 07:56</pubDate>
       <enclosure url="https://images.mktw.net/im-62386146" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Journey Medical Q1 2026 mostra aumento de 21% na receita</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-journey-medical-q1-2026-shows-21-revenue-rise-93CH-4709185</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-journey-medical-q1-2026-shows-21-revenue-rise-93CH-4709185</guid>
-      <pubDate>26/05/2026 07:40</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
