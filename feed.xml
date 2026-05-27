@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 09:22:45 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 09:25:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Warren Buffett tem um recorde de US$ 397 bilhões em dinheiro, enquanto Michael Burry vende a descoberto a IA...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/warren-buffett-sits-record-397b-121500621.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/warren-buffett-sits-record-397b-121500621.html</guid>
+      <pubDate>27/05/2026 09:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/36cefc811d7cdbcf6b61a5b57df544e0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Ernexa Therapeutics avança ERNA-101 para arquivamento do IND no terceiro trimestre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-may-27-2026-100000638.html</guid>
       <pubDate>27/05/2026 07:10</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Melhores taxas de CD hoje, quarta-feira, 27 de maio de 2026: Ganhe até 4% APY</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-may-27-2026-100000436.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-may-27-2026-100000436.html</guid>
-      <pubDate>27/05/2026 07:04</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-07/c47af0d2-4f64-11ef-8ffb-deebdbfd96c8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
