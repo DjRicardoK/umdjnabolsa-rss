@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 04:56:43 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 05:18:01 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Amazon investe US$ 20 bilhões no Reino Unido em 2025</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/amazon-invests-20-billion-in-uk-in-2025-4711383</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-invests-20-billion-in-uk-in-2025-4711383</guid>
+      <pubDate>27/05/2026 05:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q0RH_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Regulador de mercado da China multa Luxshare por violação do acordo Wingtech</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/transcat-trns-q2-2026-earnings-192053616.html</guid>
       <pubDate>27/05/2026 03:54</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Intuit (INTU) cortará 17% da força de trabalho em pivô estratégico para integração de IA</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/intuit-intu-cut-17-workforce-195409477.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/intuit-intu-cut-17-workforce-195409477.html</guid>
-      <pubDate>27/05/2026 03:50</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/d25ee3a1967b0b8a47186e4151f23199" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
