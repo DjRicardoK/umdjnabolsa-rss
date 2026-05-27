@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 01:59:19 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 02:17:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Xiaomi caem à medida que o aumento dos custos de memória atinge os lucros do primeiro trimestre</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/xiaomi-shares-fall-as-rising-memory-costs-hit-q1-earnings-4711205</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/xiaomi-shares-fall-as-rising-memory-costs-hit-q1-earnings-4711205</guid>
+      <pubDate>27/05/2026 02:17</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA7A0FH_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Reguladores antitruste dos EUA prontos para aprovar a aquisição da Warner Bros pela Paramount, relata Semafor</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-nufarm-q1-2026-sees-strong-profit-growth-93CH-4711066</guid>
       <pubDate>26/05/2026 22:15</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ueda, do BOJ, alerta sobre potencial para choque energético temporário se tornar persistente</title>
-      <description></description>
-      <link>https://www.investing.com/news/commodities-news/bojs-ueda-warns-of-potential-for-temporary-energy-shock-to-become-persistent-4711051</link>
-      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/bojs-ueda-warns-of-potential-for-temporary-energy-shock-to-become-persistent-4711051</guid>
-      <pubDate>26/05/2026 22:15</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q01W_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
