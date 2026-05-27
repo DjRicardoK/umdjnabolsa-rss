@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 03:07:26 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:07:34 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações de Taiwan sobem no fechamento do pregão; Taiwan ponderou 3,26%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-326-4711223</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-326-4711223</guid>
+      <pubDate>27/05/2026 03:07</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8R190_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Anúncio de emprego para pastores se torna viral na China, expondo tensões no mercado de trabalho</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/aar-corp-air-rallied-strong-161123076.html</guid>
       <pubDate>27/05/2026 00:53</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/a97e4882ae49b28b5660dddfb5e08dbe" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs eleva meta de final de ano do S&amp;P 500 para 8.000 com forte perspectiva de lucros</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-lifts-sp-500-yearend-target-to-8000-on-strong-earnings-outlook-4711151</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-lifts-sp-500-yearend-target-to-8000-on-strong-earnings-outlook-4711151</guid>
-      <pubDate>27/05/2026 00:52</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q08L_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
