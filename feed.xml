@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 04:06:32 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 04:17:03 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Choque de oferta e dívida podem prejudicar a independência do banco central, diz ex-executivo do Fed</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/supply-shock-debt-may-hurt-central-bank-independence-exfed-executive-says-4711316</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/supply-shock-debt-may-hurt-central-bank-independence-exfed-executive-says-4711316</guid>
+      <pubDate>27/05/2026 04:16</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q0LW_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Zepp Health (ZEPP) Transcrição dos ganhos do quarto trimestre de 2025</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-hold-next-174300501.html</guid>
       <pubDate>27/05/2026 02:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/3e4f97196c57ef22bf37d1b676157465" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Paychex?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-174245917.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-174245917.html</guid>
-      <pubDate>27/05/2026 02:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/49ff114b19f010ce3b6e5100ab39a568" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
