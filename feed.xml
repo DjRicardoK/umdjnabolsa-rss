@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 11:19:18 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:22:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Viking Holdings atingem o máximo histórico de 92,22 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/viking-holdings-stock-hits-alltime-high-at-9222-usd-93CH-4712605</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/viking-holdings-stock-hits-alltime-high-at-9222-usd-93CH-4712605</guid>
+      <pubDate>27/05/2026 11:22</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Marvell dispararam antes dos lucros. Por que os analistas dizem que ainda está “subestimado”.</title>
       <description>A liderança da empresa em conectividade óptica e o aumento de chips personalizados devem proporcionar um trimestre forte, segundo analistas.</description>
@@ -158,14 +166,6 @@
       <link>https://www.investing.com/news/transcripts/earnings-call-transcript-hicl-infrastructures-strong-h2-2026-results-93CH-4712091</link>
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-hicl-infrastructures-strong-h2-2026-results-93CH-4712091</guid>
       <pubDate>27/05/2026 09:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Cantor Fitzgerald reitera classificação de excesso de peso das ações da Rocket Lab em US$ 96</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-rocket-lab-stock-overweight-rating-at-96-93CH-4712083</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-reiterates-rocket-lab-stock-overweight-rating-at-96-93CH-4712083</guid>
-      <pubDate>27/05/2026 09:04</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
