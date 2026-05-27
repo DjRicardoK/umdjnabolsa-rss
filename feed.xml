@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 03:44:27 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:44:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Roper Technologies (ROP): 10 ações NASDAQ baratas para comprar agora mesmo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/roper-technologies-rop-10-cheap-195507017.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/roper-technologies-rop-10-cheap-195507017.html</guid>
+      <pubDate>27/05/2026 03:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e13eafb879d337f843e648dbb91ec2ea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do quarto trimestre de 2025 Qfin QFIN</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/real-money-flows-fed-pause-165507449.html</guid>
       <pubDate>27/05/2026 01:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/d3b0735997823ab2c69af690f505d319" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Hong Kong ultrapassa a Suíça como principal centro de riqueza transfronteiriça do mundo nos laços com a...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/hong-kong-overtakes-switzerland-as-worlds-top-crossborder-wealth-hub-on-china-ties-report-shows-4711169</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/hong-kong-overtakes-switzerland-as-worlds-top-crossborder-wealth-hub-on-china-ties-report-shows-4711169</guid>
-      <pubDate>27/05/2026 01:28</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q0AT_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
