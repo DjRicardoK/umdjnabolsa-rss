@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 05:59:56 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 06:19:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O comércio da &apos;próxima Nvidia&apos;? Por que os investidores estão subitamente observando microdispositivos...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/next-nvidia-trade-why-investors-230800752.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/next-nvidia-trade-why-investors-230800752.html</guid>
+      <pubDate>27/05/2026 06:19</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/2c3627141bd0cdb9a1da78f00b6711e0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Hynix rapidamente se junta à Micron no clube de US$ 1 trilhão, enquanto um banco argumenta que a IA é, na...</title>
       <description>O frenesi nas ações de chips de memória continuou na quarta-feira, quando a SK Hynix levou menos de 24 horas para se juntar à empresa americana Micron Technology no clube de...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-jd-com-jd-one-195522497.html</guid>
       <pubDate>27/05/2026 04:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7af6c68b3bb170055bee01770f6196e1" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação dos produtos alimentares no Reino Unido diminui com o conflito no Irão ainda sem atingir...</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/uk-grocery-inflation-eases-with-iran-conflict-yet-to-fully-hit-prices-4711314</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/uk-grocery-inflation-eases-with-iran-conflict-yet-to-fully-hit-prices-4711314</guid>
-      <pubDate>27/05/2026 04:17</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q0LT_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
