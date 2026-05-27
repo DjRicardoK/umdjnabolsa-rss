@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 08:26:38 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 08:26:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Schaeffler e Spire Global unem-se para hardware espacial e plataformas de satélite na Europa</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/schaeffler-spire-global-team-up-for-space-hardware-satellite-platforms-in-europe-4711955</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/schaeffler-spire-global-team-up-for-space-hardware-satellite-platforms-in-europe-4711955</guid>
+      <pubDate>27/05/2026 08:26</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q16L_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs: as pressões inflacionárias se intensificam nas economias da Ásia-Pacífico</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-dominos-233252454.html</guid>
       <pubDate>27/05/2026 06:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/238fb95238db91ad6c0a1d01a024aaa8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O mercado não está avaliando totalmente um acordo de paz entre os EUA e o Irã – e isso pode ser exatamente o...</title>
-      <description>Desde o início da guerra no Irão, os investidores têm favorecido as ações dos EUA em detrimento das ações internacionais, mas um acordo poderia ajudar a reduzir a diferença.</description>
-      <link>https://www.marketwatch.com/story/the-market-isnt-fully-pricing-in-a-u-s-iran-peace-deal-and-that-could-be-just-the-lift-european-stocks-need-447af617?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-market-isnt-fully-pricing-in-a-u-s-iran-peace-deal-and-that-could-be-just-the-lift-european-stocks-need-447af617?mod=mw_rss_topstories</guid>
-      <pubDate>27/05/2026 06:32</pubDate>
-      <enclosure url="https://images.mktw.net/im-56169331" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
