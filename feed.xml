@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 04:37:18 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 04:41:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O bilionário Bill Ackman acaba de fazer uma grande aposta na Microsoft. Aqui está o porquê.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-just-made-201800148.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-just-made-201800148.html</guid>
+      <pubDate>27/05/2026 04:41</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/5477e07a97149fcc51c1a47b884c038a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Goldman Sachs reduz preço-alvo das ações da Xiaomi para HK $ 40 devido a perdas de EV</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-326-4711223</guid>
       <pubDate>27/05/2026 03:07</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB8R190_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Anúncio de emprego para pastores se torna viral na China, expondo tensões no mercado de trabalho</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/job-ad-for-shepherds-goes-viral-in-china-exposing-labour-market-strains-4711226</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/job-ad-for-shepherds-goes-viral-in-china-exposing-labour-market-strains-4711226</guid>
-      <pubDate>27/05/2026 03:07</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q0H8_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
