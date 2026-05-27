@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 01:10:52 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 01:18:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas em relação às ações de sistemas de energia monolíticos?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-monolithic-163139883.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-monolithic-163139883.html</guid>
+      <pubDate>27/05/2026 01:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/6a596bc576d595713a444ae547233958" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 3 razões pelas quais a Amazon é a melhor ação de crescimento para comprar em maio</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-hurt-saasmaggedon-market-154740514.html</guid>
       <pubDate>26/05/2026 20:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/5ec329719e2363fbf46dd87eaacb07c7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Labcorp Holdings?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-152102240.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-152102240.html</guid>
-      <pubDate>26/05/2026 20:23</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/25883cce9727446d024bf972ee246665" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
