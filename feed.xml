@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 12:06:37 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 12:09:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Fed de NY encontra ‘aumento notável’ na insegurança alimentar para muitos americanos</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/ny-fed-finds-remarkable-increase-143251686.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/ny-fed-finds-remarkable-increase-143251686.html</guid>
+      <pubDate>27/05/2026 12:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/6b4053c44ec177ccd2024b0b1372d9cb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Starlink e Amazon podem concorrer ao espectro de satélites móveis da UE, afirma a Comissão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-hormuz-uncertainty-clouds-iran-deal-hopes-4711319</guid>
       <pubDate>27/05/2026 10:05</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5I0BU_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Morgan Stanley reitera classificação das ações da AppLovin sobre potencial de crescimento de conversão</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-applovin-stock-rating-on-conversion-growth-potential-93CH-4712306</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/morgan-stanley-reiterates-applovin-stock-rating-on-conversion-growth-potential-93CH-4712306</guid>
-      <pubDate>27/05/2026 10:05</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
