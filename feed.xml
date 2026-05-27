@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 10:05:09 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:05:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE FTSE 100 hoje: Ações sobem com o Reino Unido assinando pacto de defesa com a Polônia</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-hormuz-uncertainty-clouds-iran-deal-hopes-4711319</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-hormuz-uncertainty-clouds-iran-deal-hopes-4711319</guid>
+      <pubDate>27/05/2026 10:05</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEA5I0BU_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Morgan Stanley reitera classificação das ações da AppLovin sobre potencial de crescimento de conversão</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/investors-hunt-for-ai-winners-in-smallcap-us-tech-stocks-4711709</guid>
       <pubDate>27/05/2026 07:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q12D_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Com medo de uma bolha de IA? O aumento dos rendimentos dos títulos pode protegê-lo</title>
-      <description></description>
-      <link>https://www.wsj.com/finance/investing/afraid-of-an-ai-bubble-soaring-bond-yields-can-protect-you-6122a6f2?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.wsj.com/finance/investing/afraid-of-an-ai-bubble-soaring-bond-yields-can-protect-you-6122a6f2?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>27/05/2026 07:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/wsj.com/ae42678e8a1e728175518129e9d2e69c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
