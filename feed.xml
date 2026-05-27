@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 04:21:11 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 04:24:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A inflação disparou no ritmo mais rápido desde 2023 e pode significar problemas para os investidores do...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/inflation-just-soared-fastest-pace-200500678.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/inflation-just-soared-fastest-pace-200500678.html</guid>
+      <pubDate>27/05/2026 04:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/0c7ce57e90975cc55a562bcaa486deea" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Kimberly-Clark (KMB) é uma das ações NASDAQ baratas para comprar agora?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/top-3-china-semiconductor-stocks-according-to-bernstein-93CH-4711211</guid>
       <pubDate>27/05/2026 02:48</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Copart (CPRT) Transcrição dos ganhos do terceiro trimestre de 2026</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/copart-cprt-q3-2026-earnings-175716062.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/copart-cprt-q3-2026-earnings-175716062.html</guid>
-      <pubDate>27/05/2026 02:44</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
