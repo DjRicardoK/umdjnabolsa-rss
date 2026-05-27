@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 09:25:05 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 09:25:14 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Hafnia supera as previsões de lucros enquanto os investidores avaliam as condições voláteis do mercado (HAFN)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/hafnia-tops-earnings-forecasts-investors-121145923.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hafnia-tops-earnings-forecasts-investors-121145923.html</guid>
+      <pubDate>27/05/2026 09:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/investorshub_458/c50954253924db8a111ae56a37ec34e8" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Warren Buffett tem um recorde de US$ 397 bilhões em dinheiro, enquanto Michael Burry vende a descoberto a IA...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hafnia-q1-earnings-call-highlights-100512570.html</guid>
       <pubDate>27/05/2026 07:22</pubDate>
       <enclosure url="https://media.zenfs.com/en/marketbeat_955/2e6567f78558a40817542df85e72e556" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de HELOC e de empréstimos imobiliários hoje, quarta-feira, 27 de maio de 2026: Mesmo com taxas baixas,...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-may-27-2026-100000638.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-may-27-2026-100000638.html</guid>
-      <pubDate>27/05/2026 07:10</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
