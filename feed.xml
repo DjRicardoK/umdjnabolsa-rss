@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 07:48:01 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:57:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que este gestor de fundos que foi um dos primeiros defensores da Nvidia agora está apostando na fronteira...</title>
+      <description>Tony Wang, de T. Rowe Price, está procurando gargalos na IA e encontrando-os, e também vê retornos no espaço e na luz.</description>
+      <link>https://www.marketwatch.com/story/why-this-fund-manager-who-was-an-early-proponent-of-nvidia-is-now-betting-on-the-ai-space-frontier-0c9ae55e?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/why-this-fund-manager-who-was-an-early-proponent-of-nvidia-is-now-betting-on-the-ai-space-frontier-0c9ae55e?mod=mw_rss_topstories</guid>
+      <pubDate>27/05/2026 07:57</pubDate>
+      <enclosure url="https://images.mktw.net/im-70759535" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Dow Jones Futures sobe após S&amp;P 500, Nasdaq atinge máximas; 5 ações de IA em áreas de compra</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-microsofts-split-openai-may-232000482.html</guid>
       <pubDate>27/05/2026 06:29</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/c00d67bc14459c6e0195292a8c33b75d" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O comércio da &apos;próxima Nvidia&apos;? Por que os investidores estão subitamente observando microdispositivos...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/next-nvidia-trade-why-investors-230800752.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/next-nvidia-trade-why-investors-230800752.html</guid>
-      <pubDate>27/05/2026 06:19</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/2c3627141bd0cdb9a1da78f00b6711e0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
