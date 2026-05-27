@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 02:20:12 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 02:20:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os investidores se acumulam nas opções de compra da Tesla em um volume enorme e incomum - um sinal de alta?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/investors-pile-tesla-call-options-173002734.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/investors-pile-tesla-call-options-173002734.html</guid>
+      <pubDate>27/05/2026 02:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/1a231afe14e736c90e849b47b5207646" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Perdeu o Rally Inicial da IA? Estas três ações de IA estão apenas começando.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-qfin-holdings-q1-2026-earnings-miss-stock-rises-93CH-4711082</guid>
       <pubDate>26/05/2026 22:41</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Ueda, do BOJ, alerta que choque temporário nos preços da energia pode se tornar persistente</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bojs-ueda-warns-temporary-energy-price-shock-could-become-persistent-93CH-4711077</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bojs-ueda-warns-temporary-energy-price-shock-could-become-persistent-93CH-4711077</guid>
-      <pubDate>26/05/2026 22:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB640MJ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
