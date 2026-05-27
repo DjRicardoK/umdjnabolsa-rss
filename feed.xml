@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 11:11:15 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:11:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reitera classificação das ações da Casella Waste Systems sobre perspectivas de preços</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-casella-waste-systems-stock-rating-on-pricing-outlook-93CH-4712565</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-casella-waste-systems-stock-rating-on-pricing-outlook-93CH-4712565</guid>
+      <pubDate>27/05/2026 11:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Pricesmart atingem o máximo histórico de 170,0 USD</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/chinas-next-export-shock-walks-on-two-legs-and-costs-less-than-a-used-car-f0becf3f?mod=mw_rss_topstories</guid>
       <pubDate>27/05/2026 08:47</pubDate>
       <enclosure url="https://images.mktw.net/im-66765293" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Streamex lança negociação 24 horas por dia, 7 dias por semana para o token lastreado em ouro GLDY</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/streamex-launches-247-trading-for-goldbacked-token-gldy-93CH-4711993</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/streamex-launches-247-trading-for-goldbacked-token-gldy-93CH-4711993</guid>
-      <pubDate>27/05/2026 08:37</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
