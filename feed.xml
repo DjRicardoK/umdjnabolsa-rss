@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 07:57:27 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 08:09:37 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Jamie Dimon alerta que os mercados têm “exuberância demais”, juntando-se a analistas como Michael Burry, que...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-warns-markets-too-105500576.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-warns-markets-too-105500576.html</guid>
+      <pubDate>27/05/2026 08:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moneywise_ecomm_711/33cabf77f0dbe83c7e73d69919b51085" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que este gestor de fundos que foi um dos primeiros defensores da Nvidia agora está apostando na fronteira...</title>
       <description>Tony Wang, de T. Rowe Price, está procurando gargalos na IA e encontrando-os, e também vê retornos no espaço e na luz.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/guggenheim-reiterates-neutral-on-crowdstrike-stock-on-valuation-93CH-4711475</guid>
       <pubDate>27/05/2026 06:31</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que a divisão da Microsoft com a OpenAI pode ser ótima para as ações no longo prazo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-microsofts-split-openai-may-232000482.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-microsofts-split-openai-may-232000482.html</guid>
-      <pubDate>27/05/2026 06:29</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/c00d67bc14459c6e0195292a8c33b75d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
