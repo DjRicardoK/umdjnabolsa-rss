@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 06:19:36 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 06:29:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que a divisão da Microsoft com a OpenAI pode ser ótima para as ações no longo prazo</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-microsofts-split-openai-may-232000482.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-microsofts-split-openai-may-232000482.html</guid>
+      <pubDate>27/05/2026 06:29</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/c00d67bc14459c6e0195292a8c33b75d" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O comércio da &apos;próxima Nvidia&apos;? Por que os investidores estão subitamente observando microdispositivos...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/kimberly-clark-kmb-one-cheap-195514837.html</guid>
       <pubDate>27/05/2026 04:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/b4813d9878f18786d086730221041844" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Veja por que JD.com (JD) é uma das ações NASDAQ baratas para comprar agora</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-jd-com-jd-one-195522497.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-jd-com-jd-one-195522497.html</guid>
-      <pubDate>27/05/2026 04:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/7af6c68b3bb170055bee01770f6196e1" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
