@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 09:25:14 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 09:35:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os estoques de energia são secretamente melhores que os títulos do Tesouro. Veja por que Bob Brackett está...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/energy/articles/energy-stocks-secretly-better-treasuries-122641715.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/energy-stocks-secretly-better-treasuries-122641715.html</guid>
+      <pubDate>27/05/2026 09:35</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/74ea54b22a27882bfb858a79f38c6f0c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Hafnia supera as previsões de lucros enquanto os investidores avaliam as condições voláteis do mercado (HAFN)</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-may-27-2026-100000445.html</guid>
       <pubDate>27/05/2026 07:22</pubDate>
       <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/58d84be0-fc1f-11ee-bffb-9ac8a2f8fca0" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Hafnia</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/hafnia-q1-earnings-call-highlights-100512570.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hafnia-q1-earnings-call-highlights-100512570.html</guid>
-      <pubDate>27/05/2026 07:22</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/2e6567f78558a40817542df85e72e556" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
