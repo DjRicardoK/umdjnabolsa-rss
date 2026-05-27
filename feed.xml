@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 10:48:10 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:11:15 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Pricesmart atingem o máximo histórico de 170,0 USD</title>
+      <description></description>
+      <link>https://www.investing.com/news/company-news/pricesmart-stock-hits-alltime-high-at-1700-usd-93CH-4712566</link>
+      <guid isPermaLink="false">https://www.investing.com/news/company-news/pricesmart-stock-hits-alltime-high-at-1700-usd-93CH-4712566</guid>
+      <pubDate>27/05/2026 11:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Pure Storage definida para relatar ganhos sob a nova identidade Everpure</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/company-news/streamex-launches-247-trading-for-goldbacked-token-gldy-93CH-4711993</guid>
       <pubDate>27/05/2026 08:37</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Schaeffler e Spire Global unem-se para hardware espacial e plataformas de satélite na Europa</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/schaeffler-spire-global-team-up-for-space-hardware-satellite-platforms-in-europe-4711955</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/schaeffler-spire-global-team-up-for-space-hardware-satellite-platforms-in-europe-4711955</guid>
-      <pubDate>27/05/2026 08:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q16L_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
