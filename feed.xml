@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 06:53:08 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:02:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Nvidia gastará US$ 150 bilhões por ano em Taiwan, ‘epicentro’ da revolução da IA, diz CEO</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/nvidia-to-spend-150-billion-a-year-in-taiwan-epicentre-of-ai-revolution-says-ceo-4711555</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/nvidia-to-spend-150-billion-a-year-in-taiwan-epicentre-of-ai-revolution-says-ceo-4711555</guid>
+      <pubDate>27/05/2026 07:01</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q092_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Nvidia é a ação de crescimento de dividendos mais subestimada para se possuir?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/european-stocks-set-for-modest-gains-as-iran-war-dampens-outlook-poll-shows-4711350</guid>
       <pubDate>27/05/2026 04:52</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q0P8_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Perspectiva das ações do Federal Realty Investment Trust: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/federal-realty-investment-trust-stock-202402699.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/federal-realty-investment-trust-stock-202402699.html</guid>
-      <pubDate>27/05/2026 04:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b2bbef9ea7b083958fa4e6852d3851fb" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
