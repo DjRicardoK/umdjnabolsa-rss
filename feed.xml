@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 07:28:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:31:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Com medo de uma bolha de IA? O aumento dos rendimentos dos títulos pode protegê-lo</title>
+      <description></description>
+      <link>https://www.wsj.com/finance/investing/afraid-of-an-ai-bubble-soaring-bond-yields-can-protect-you-6122a6f2?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.wsj.com/finance/investing/afraid-of-an-ai-bubble-soaring-bond-yields-can-protect-you-6122a6f2?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>27/05/2026 07:31</pubDate>
+      <enclosure url="https://media.zenfs.com/en/wsj.com/ae42678e8a1e728175518129e9d2e69c" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Análise-Wall Street aguarda o próximo movimento do CEO da GameStop, Cohen, depois que o eBay rejeitou a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/world-news/philippines-launches-independent-truth-panel-to-probe-drugs-war-killings-4711409</guid>
       <pubDate>27/05/2026 05:38</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q0TY_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE BOXX imita rendimentos do Tesouro sem distribuições e impostos mais baixos, mas o IRS começou a fazer...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/options/articles/boxx-mimics-treasury-yields-no-204927457.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/boxx-mimics-treasury-yields-no-204927457.html</guid>
-      <pubDate>27/05/2026 05:33</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/b4db50017f7710e42a1af9cc24b79f03" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
