@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 03:55:53 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 04:05:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do terceiro trimestre de 2026 da Transcat TRNS</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/transcat-trns-q3-2026-earnings-191825912.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/transcat-trns-q3-2026-earnings-191825912.html</guid>
+      <pubDate>27/05/2026 04:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Kashkari do Fed pede foco no risco de inflação, silêncio sobre o momento da próxima mudança nas taxas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/investors-pile-tesla-call-options-173002734.html</guid>
       <pubDate>27/05/2026 02:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/1a231afe14e736c90e849b47b5207646" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perdeu o Rally Inicial da IA? Estas três ações de IA estão apenas começando.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/missed-initial-ai-rally-3-172900266.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/missed-initial-ai-rally-3-172900266.html</guid>
-      <pubDate>27/05/2026 02:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/82712e5e75c1920f0a4bf836f8576627" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
