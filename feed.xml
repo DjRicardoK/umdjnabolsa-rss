@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 07:04:33 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:10:06 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Taxas de HELOC e de empréstimos imobiliários hoje, quarta-feira, 27 de maio de 2026: Mesmo com taxas baixas,...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-may-27-2026-100000638.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/heloc-home-equity-loan-interest-rates-today-wednesday-may-27-2026-100000638.html</guid>
+      <pubDate>27/05/2026 07:10</pubDate>
+      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2025-06/92704b90-40d5-11f0-bbfd-0abdc0412cbb" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Melhores taxas de CD hoje, quarta-feira, 27 de maio de 2026: Ganhe até 4% APY</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-market-regulator-fines-luxshare-for-wingtech-deal-violation-4711356</guid>
       <pubDate>27/05/2026 04:56</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros industriais da China aumentam 24,7% em abril devido aos preços da energia</title>
-      <description></description>
-      <link>https://www.investing.com/news/economic-indicators/chinas-industrial-profits-rise-247-in-april-on-energy-prices-93CH-4711357</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/chinas-industrial-profits-rise-247-in-april-on-energy-prices-93CH-4711357</guid>
-      <pubDate>27/05/2026 04:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
