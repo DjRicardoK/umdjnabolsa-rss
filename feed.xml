@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 03:44:33 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:50:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados do terceiro trimestre de 2025 Qfin (QFIN)</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/qfin-qfin-q3-2025-earnings-191634226.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/qfin-qfin-q3-2025-earnings-191634226.html</guid>
+      <pubDate>27/05/2026 03:50</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Roper Technologies (ROP): 10 ações NASDAQ baratas para comprar agora mesmo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dear-apple-stock-fans-mark-170002864.html</guid>
       <pubDate>27/05/2026 01:42</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/27dbbd75c54082fdfcf20cc607352a9e" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Fluxos de dinheiro real + pausa do Fed + calendário sazonal: os traders de configuração do AUD estão de olho!</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/real-money-flows-fed-pause-165507449.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/real-money-flows-fed-pause-165507449.html</guid>
-      <pubDate>27/05/2026 01:35</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/d3b0735997823ab2c69af690f505d319" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
