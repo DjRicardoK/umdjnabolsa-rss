@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 26 May 2026 23:18:41 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 23:18:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Lucros industriais da China em abril crescem no ritmo mais rápido em mais de dois anos</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/chinas-april-industrial-profits-grow-at-fastest-pace-in-more-than-two-years-4711106</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/chinas-april-industrial-profits-grow-at-fastest-pace-in-more-than-two-years-4711106</guid>
+      <pubDate>26/05/2026 23:18</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q03Y_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE RBNZ mantém taxas em 2,25%, sinaliza aumentos futuros sobre riscos de inflação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/cdw-corporation-stock-wall-street-140526976.html</guid>
       <pubDate>26/05/2026 19:21</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/ccf669c5a6c48d5d973b1ca0b67a840a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Semtech supera as previsões do primeiro trimestre de 2027, as...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-semtech-beats-q1-2027-forecasts-stock-rises-93CH-4710949</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-semtech-beats-q1-2027-forecasts-stock-rises-93CH-4710949</guid>
-      <pubDate>26/05/2026 19:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
