@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 09:35:17 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:00:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Esqueça Tesla: este azarão automotivo rico em dinheiro é uma compra de valor</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/forget-tesla-cash-rich-automotive-125235198.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/forget-tesla-cash-rich-automotive-125235198.html</guid>
+      <pubDate>27/05/2026 10:00</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/087b8a6407290b32f11d6af9a49a8856" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os estoques de energia são secretamente melhores que os títulos do Tesouro. Veja por que Bob Brackett está...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysis-wall-street-awaits-gamestop-100554726.html</guid>
       <pubDate>27/05/2026 07:28</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters-finance.com/84dcee49ef311e99340f3f447c4ad880" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Taxas de juros de hipotecas e refinanciamentos hoje, quarta-feira, 27 de maio de 2026: Taxas caindo novamente</title>
-      <description></description>
-      <link>https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-may-27-2026-100000445.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-wednesday-may-27-2026-100000445.html</guid>
-      <pubDate>27/05/2026 07:22</pubDate>
-      <enclosure url="https://s.yimg.com/os/creatr-uploaded-images/2024-04/58d84be0-fc1f-11ee-bffb-9ac8a2f8fca0" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
