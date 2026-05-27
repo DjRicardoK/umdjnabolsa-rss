@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 07:10:06 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:22:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Destaques da teleconferência de resultados do primeiro trimestre da Hafnia</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/hafnia-q1-earnings-call-highlights-100512570.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hafnia-q1-earnings-call-highlights-100512570.html</guid>
+      <pubDate>27/05/2026 07:22</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketbeat_955/2e6567f78558a40817542df85e72e556" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas de HELOC e de empréstimos imobiliários hoje, quarta-feira, 27 de maio de 2026: Mesmo com taxas baixas,...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/amazon-invests-20-billion-in-uk-in-2025-4711383</guid>
       <pubDate>27/05/2026 05:17</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q0RH_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Regulador de mercado da China multa Luxshare por violação do acordo Wingtech</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/chinas-market-regulator-fines-luxshare-for-wingtech-deal-violation-4711356</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-market-regulator-fines-luxshare-for-wingtech-deal-violation-4711356</guid>
-      <pubDate>27/05/2026 04:56</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
