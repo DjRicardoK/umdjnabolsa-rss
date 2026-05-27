@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 07:22:49 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:28:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Análise-Wall Street aguarda o próximo movimento do CEO da GameStop, Cohen, depois que o eBay rejeitou a...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/analysis-wall-street-awaits-gamestop-100554726.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/analysis-wall-street-awaits-gamestop-100554726.html</guid>
+      <pubDate>27/05/2026 07:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/84dcee49ef311e99340f3f447c4ad880" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Taxas de juros de hipotecas e refinanciamentos hoje, quarta-feira, 27 de maio de 2026: Taxas caindo novamente</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/boxx-mimics-treasury-yields-no-204927457.html</guid>
       <pubDate>27/05/2026 05:33</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/b4db50017f7710e42a1af9cc24b79f03" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Logan, do Fed: o mundo pode precisar reduzir o uso de petróleo e gás natural</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/feds-logan-world-may-need-to-cut-use-of-oil-and-natural-gas-4711382</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-logan-world-may-need-to-cut-use-of-oil-and-natural-gas-4711382</guid>
-      <pubDate>27/05/2026 05:18</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q0QZ_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
