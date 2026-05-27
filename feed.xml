@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 11:44:55 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 12:04:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Microsoft está trocando o OpenAI pelo Anthropic?</title>
+      <description>Uma parceria recente com a Antrópica poderia proporcionar uma oportunidade de receita de US$ 43 bilhões para o Microsoft Azure até 2030, de acordo com o HSBC</description>
+      <link>https://www.marketwatch.com/story/is-microsoft-ditching-openai-for-anthropic-0cd57021?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/is-microsoft-ditching-openai-for-anthropic-0cd57021?mod=mw_rss_topstories</guid>
+      <pubDate>27/05/2026 12:04</pubDate>
+      <enclosure url="https://images.mktw.net/im-99465391" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações espaciais dos EUA sobem com o hype do IPO da SpaceX</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/energy-stocks-secretly-better-treasuries-122641715.html</guid>
       <pubDate>27/05/2026 09:35</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/74ea54b22a27882bfb858a79f38c6f0c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Hafnia supera as previsões de lucros enquanto os investidores avaliam as condições voláteis do mercado (HAFN)</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/hafnia-tops-earnings-forecasts-investors-121145923.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/hafnia-tops-earnings-forecasts-investors-121145923.html</guid>
-      <pubDate>27/05/2026 09:25</pubDate>
-      <enclosure url="https://media.zenfs.com/en/investorshub_458/c50954253924db8a111ae56a37ec34e8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
