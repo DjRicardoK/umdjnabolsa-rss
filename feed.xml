@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 01:52:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 02:03:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Investidores estrangeiros compram ações japonesas pela oitava semana após recuperação da IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/foreign-investors-buy-japanese-stocks-for-eighth-week-on-ai-rally-4713601</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/foreign-investors-buy-japanese-stocks-for-eighth-week-on-ai-rally-4713601</guid>
+      <pubDate>28/05/2026 02:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R07P_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O bilionário Dan Loeb sacou as ações da Microsoft. As ações caíram 14,2% no acumulado do ano.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/us-treasury-yields-edge-lower-on-hopes-for-iran-deal-93CH-4712654</guid>
       <pubDate>27/05/2026 11:44</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações da Medtronic podem subir 4,1% na divulgação de resultados de 3 de junho</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/medtronic-shares-may-move-41-on-june-3-earnings-release-93CH-4712655</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/medtronic-shares-may-move-41-on-june-3-earnings-release-93CH-4712655</guid>
-      <pubDate>27/05/2026 11:44</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
