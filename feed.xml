@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 08:08:59 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:12:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Estou abrindo contas de corretagem para meus netos em nome da minha filha. Isso é sensato – ou estou...</title>
+      <description>“As contribuições são investidas em fundos mútuos que acompanham o S&amp;P 500, ações de pequena capitalização e ações internacionais.”</description>
+      <link>https://www.marketwatch.com/story/im-setting-up-brokerage-accounts-for-my-grandkids-in-my-daughters-name-is-that-wise-or-am-i-asking-for-trouble-6728b2b2?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/im-setting-up-brokerage-accounts-for-my-grandkids-in-my-daughters-name-is-that-wise-or-am-i-asking-for-trouble-6728b2b2?mod=mw_rss_topstories</guid>
+      <pubDate>28/05/2026 08:12</pubDate>
+      <enclosure url="https://images.mktw.net/im-01957602" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE STARTRADER lança SPCXUSD, oferecendo exposição à SpaceX antes do esperado IPO</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/weibo-corp-earnings-missed-revenue-topped-estimates-4713800</guid>
       <pubDate>28/05/2026 06:28</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Pare de olhar para os ganhos: a verdadeira ameaça às ações de IA é o colapso dos preços da computação</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/stop-looking-earnings-real-threat-211648781.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/stop-looking-earnings-real-threat-211648781.html</guid>
-      <pubDate>28/05/2026 06:03</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/86e42503cb1997798849ac8549ff0a7f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
