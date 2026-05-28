@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 08:52:12 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:03:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE ‘Temos abundância’: aqui está a verdadeira história por trás da queda recorde nas reservas de petróleo da...</title>
+      <description>Os estoques da Reserva Estratégica de Petróleo do país estão perto do nível mais baixo em mais de 40 anos – mas isso pode não importar</description>
+      <link>https://www.marketwatch.com/story/we-have-plenty-heres-the-real-story-behind-the-record-drop-in-americas-oil-reserves-9c8de9d5?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/we-have-plenty-heres-the-real-story-behind-the-record-drop-in-americas-oil-reserves-9c8de9d5?mod=mw_rss_topstories</guid>
+      <pubDate>28/05/2026 09:03</pubDate>
+      <enclosure url="https://images.mktw.net/im-64426196" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2027 da Semtech Corporation</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rbc-capital-says-radian-rdn-224349483.html</guid>
       <pubDate>28/05/2026 07:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/60d8881f5d6a41f7c9179332f1af3b24" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações de pequena capitalização estão subindo, mas é por isso que o Wells Fargo diz que é melhor vender do...</title>
-      <description>O Russell 2000 está a bater o S&amp;P 500 este ano, mas esse desempenho superior está a mascarar uma tendência perturbadora de queda nas estimativas de lucros</description>
-      <link>https://www.marketwatch.com/story/small-cap-stocks-are-rallying-but-heres-why-wells-fargo-says-its-better-to-sell-than-buy-8643458d?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/small-cap-stocks-are-rallying-but-heres-why-wells-fargo-says-its-better-to-sell-than-buy-8643458d?mod=mw_rss_topstories</guid>
-      <pubDate>28/05/2026 07:33</pubDate>
-      <enclosure url="https://images.mktw.net/im-21398301" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
