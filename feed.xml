@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 15:09:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 15:10:32 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que um importante analista de Wall Street acha que as ações da Micron podem subir mais 85%</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-1-top-wall-street-081200602.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-1-top-wall-street-081200602.html</guid>
+      <pubDate>28/05/2026 15:10</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/d4c7819805f894f78c70070b80ebb69f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os analistas de Wall Street gostam das ações do Everest Group?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-musalem-says-rate-hike-may-be-needed-if-inflation-doesnt-ease-4715084</guid>
       <pubDate>28/05/2026 13:32</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R171_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Dólar cai após relato de acordo EUA-Irã para estender cessar-fogo</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/currencies/articles/dollar-near-one-week-high-014352175.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-near-one-week-high-014352175.html</guid>
-      <pubDate>28/05/2026 13:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/a48ef0e4c3add1ff5a17e33e194b959d" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
