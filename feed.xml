@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 12:23:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:25:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE As ações da Ciena podem subir 13% na divulgação de lucros de 4 de junho</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/ciena-stock-may-move-13-on-june-4-earnings-release-93CH-4715005</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/ciena-stock-may-move-13-on-june-4-earnings-release-93CH-4715005</guid>
+      <pubDate>28/05/2026 12:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Wall Street reverte perdas, petróleo reduz ganhos com relatórios de progresso em direção ao acordo de paz...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/montero-mining-kicks-off-drilling-134300143.html</guid>
       <pubDate>28/05/2026 10:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/proactive_us_504/9b7df55aebe7479816a2b724e98acb7b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow cai com dados surpreendentes de inflação; Snowflake Rockets On Earnings (cobertura...</title>
-      <description></description>
-      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-ai-stock-snowflake-snow/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-ai-stock-snowflake-snow/?src=A00220&yptr=yahoo</guid>
-      <pubDate>28/05/2026 10:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/af3d8bf275f34dd771b1551f1766e265" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
