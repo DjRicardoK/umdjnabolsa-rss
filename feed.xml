@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 12:17:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:23:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Wall Street reverte perdas, petróleo reduz ganhos com relatórios de progresso em direção ao acordo de paz...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/policy/articles/asia-shares-breather-gulf-hostilities-013852943.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/asia-shares-breather-gulf-hostilities-013852943.html</guid>
+      <pubDate>28/05/2026 12:23</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/a5ed032affd7f85c5ccd6df525274e52" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE EUA alertam Omã sobre potencial sistema de pedágio no Estreito de Ormuz</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-ai-stock-snowflake-snow/?src=A00220&yptr=yahoo</guid>
       <pubDate>28/05/2026 10:59</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/af3d8bf275f34dd771b1551f1766e265" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500 e Nasdaq caem após ataques dos EUA perto do Estreito de Ormuz</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-and-nasdaq-drift-lower-following-us-strikes-near-strait-of-hormuz-231358557.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-and-nasdaq-drift-lower-following-us-strikes-near-strait-of-hormuz-231358557.html</guid>
-      <pubDate>28/05/2026 10:50</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Km5K6hVP9FFp285G.T2F2w--~B/aD0zMjc5O3c9NDkxODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/61fc40f9-0def-45b1-87c2-96534a8cb72b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
