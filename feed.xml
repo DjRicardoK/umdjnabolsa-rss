@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 05:40:32 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 05:43:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Custos do aço nos EUA impactados pela guerra e acordos comerciais</title>
+      <description></description>
+      <link>https://finance.yahoo.com/video/us-steel-costs-impacted-war-204140017.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/video/us-steel-costs-impacted-war-204140017.html</guid>
+      <pubDate>28/05/2026 05:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/bloomberg_markets_video_2/2ecf4a312d47265b49171a92bc75c3e3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O estoque da Beyond Meat caiu 12% no último mês. Wall Street está começando a apostar em sua história de...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/macquarie-downgrades-pinduoduo-stock-rating-on-weak-earnings-outlook-93CH-4713673</guid>
       <pubDate>28/05/2026 04:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Nvidia recebe todo o crédito, mas essas 4 ações estão capturando silenciosamente o desenvolvimento de IA de...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-gets-credit-4-stocks-192000624.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-gets-credit-4-stocks-192000624.html</guid>
-      <pubDate>28/05/2026 04:21</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/c2f8ab80601cbe90bb67ec8cb9c40740" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
