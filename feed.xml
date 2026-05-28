@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 08:40:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:44:25 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do primeiro trimestre de 2027 da Box, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/box-inc-q1-2027-earnings-002317240.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/box-inc-q1-2027-earnings-002317240.html</guid>
+      <pubDate>28/05/2026 08:44</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/46848b10b2112013a39eaf0fdfe3105f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As principais previsões de vendas da Dollar Tree, já que menos pessoas estão comprando - mas estão gastando...</title>
       <description>As ações da Dollar Tree disparam depois que os lucros superaram as expectativas e a perspectiva de lucro para o ano inteiro aumentou.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/more-than-half-of-asiapacifics-rich-worry-about-recession-lombard-odier-says-4713953</guid>
       <pubDate>28/05/2026 07:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R0ML_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Como a Venezuela concedeu à Centerview um valioso papel de dívida com pouca concorrência</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/how-venezuela-awarded-centerview-a-prized-debt-role-with-little-competition-4713317</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/how-venezuela-awarded-centerview-a-prized-debt-role-with-little-competition-4713317</guid>
-      <pubDate>28/05/2026 07:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q244_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
