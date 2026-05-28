@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 01:28:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 01:32:11 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Resumo da teleconferência de resultados do quarto trimestre de 2026 da Champion Homes, Inc.</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/champion-homes-inc-q4-2026-164803401.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/champion-homes-inc-q4-2026-164803401.html</guid>
+      <pubDate>28/05/2026 01:32</pubDate>
+      <enclosure url="https://media.zenfs.com/en/moby_896/eeca71a61e7de7857b7a79b66b3ede59" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações do dia de trabalho aparecem nos resultados de ganhos. Uma reviravolta tão esperada pode finalmente...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/marvells-stock-has-soared-ahead-of-earnings-why-analysts-say-its-still-underestimated-b0cf924c?mod=mw_rss_topstories</guid>
       <pubDate>27/05/2026 11:19</pubDate>
       <enclosure url="https://images.mktw.net/im-08108156" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Stifel reitera classificação de compra das ações da Regenxbio antes dos dados do teste</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-regenxbio-stock-ahead-of-trial-data-93CH-4712562</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-buy-rating-on-regenxbio-stock-ahead-of-trial-data-93CH-4712562</guid>
-      <pubDate>27/05/2026 11:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
