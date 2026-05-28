@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 10:37:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:40:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Burlington Stores cai 14% apesar da queda nos lucros do primeiro trimestre, aumento da orientação</title>
+      <description></description>
+      <link>https://www.investing.com/news/earnings/burlington-stores-falls-14-despite-q1-earnings-beat-raised-guidance-93CH-4714655</link>
+      <guid isPermaLink="false">https://www.investing.com/news/earnings/burlington-stores-falls-14-despite-q1-earnings-beat-raised-guidance-93CH-4714655</guid>
+      <pubDate>28/05/2026 10:40</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A fusão entre Tesla e SpaceX tornaria Elon Musk um grande detentor de Bitcoin</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amazon-marvell-snowflake-earnings/?src=A00220&yptr=yahoo</guid>
       <pubDate>28/05/2026 09:15</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/f4ffff72a4d4028a51acd457b13861ec" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Rosenblatt reitera classificação de ações da Meta em planos de assinatura</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-meta-stock-rating-on-subscription-plans-93CH-4714311</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-meta-stock-rating-on-subscription-plans-93CH-4714311</guid>
-      <pubDate>28/05/2026 09:14</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
