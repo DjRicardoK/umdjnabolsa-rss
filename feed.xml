@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 05:54:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 05:58:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações caíram de níveis recordes com o aumento das tensões no Golfo</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/asia-shares-take-a-breather-as-gulf-hostilities-drag-on-4713550</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/asia-shares-take-a-breather-as-gulf-hostilities-drag-on-4713550</guid>
+      <pubDate>28/05/2026 05:58</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R02L_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O acordo Trump-Intel roubou as manchetes, mas o presidente também comprou ações da Nvidia no primeiro...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/research/microsoft-msft-stock-earnings/?src=A00220&yptr=yahoo</guid>
       <pubDate>28/05/2026 04:36</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/992da7f48838919e26d0322eb115a71a" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Tesla Investor compartilha como investidores de varejo podem participar do IPO da Blockbuster SpaceX via...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/tesla-investor-shares-retail-investors-193125184.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-investor-shares-retail-investors-193125184.html</guid>
-      <pubDate>28/05/2026 04:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/benzinga_79/a56b829d95123cbf528c56408a9f8fba" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
