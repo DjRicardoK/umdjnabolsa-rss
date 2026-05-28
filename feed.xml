@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 11:40:11 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 11:47:23 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Previsão: Amazon se juntará ao clube de US$ 3 trilhões nesta data</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-join-3-trillion-143403098.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-join-3-trillion-143403098.html</guid>
+      <pubDate>28/05/2026 11:47</pubDate>
+      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/294ef4522b3f5f7eaffb4d275ff9fac4" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mercado de ações hoje: S&amp;P 500 e Nasdaq sobem, petróleo reduz ganhos após relatório de avanço EUA-Irã</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/crypto/articles/tesla-spacex-merger-elon-musk-132300788.html</guid>
       <pubDate>28/05/2026 10:37</pubDate>
       <enclosure url="https://media.zenfs.com/en/cryptoprowl_304/628cb240d74d2d5fb33831d03ca06bab" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da Dollar Tree no primeiro trimestre de 2026 superam e aumentam orientação de lucro por ação para o...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/dollar-tree-q1-2026-earnings-132329259.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/dollar-tree-q1-2026-earnings-132329259.html</guid>
-      <pubDate>28/05/2026 10:32</pubDate>
-      <enclosure url="https://media.zenfs.com/en/quartz_855/7c41184e52cbde1f1a9a4b80d9c8319f" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
