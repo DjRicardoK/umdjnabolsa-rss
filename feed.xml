@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 12:52:03 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:52:42 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Transcrição da teleconferência de resultados: Cerrado Gold 1º trimestre de 2026 mostra fortes ganhos</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-cerrado-gold-q1-2026-shows-strong-gains-93CH-4715039</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cerrado-gold-q1-2026-shows-strong-gains-93CH-4715039</guid>
+      <pubDate>28/05/2026 12:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O acordo Ceconomy da JD.com envolve subsídios chineses, alertam reguladores da UE</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/feds-williams-reiterates-rate-policy-141657662.html</guid>
       <pubDate>28/05/2026 11:31</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/189f7908756167cd0a428bb8f2786d9f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Musalem, do Fed, diz que é arriscado apostar que a IA aliviará a inflação</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/policy/articles/feds-musalem-says-risky-bet-141844587.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/feds-musalem-says-risky-bet-141844587.html</guid>
-      <pubDate>28/05/2026 11:31</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/efdfe44446cda38504b889439fea662e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
