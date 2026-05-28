@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 12:52:57 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 13:06:13 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Acordo Warner Bros./Paramount Skydance gera empréstimo alavancado de US$ 15 bilhões, o maior desde a crise...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/options/articles/warner-bros-paramount-skydance-deal-155510447.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/options/articles/warner-bros-paramount-skydance-deal-155510447.html</guid>
+      <pubDate>28/05/2026 13:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/pitchbook_790/0003288f7681a955ee9c597ea447cc17" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: REX American Resources, primeiro trimestre de 2026, registra...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-join-3-trillion-143403098.html</guid>
       <pubDate>28/05/2026 11:47</pubDate>
       <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/294ef4522b3f5f7eaffb4d275ff9fac4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: S&amp;P 500 e Nasdaq sobem, petróleo reduz ganhos após relatório de avanço EUA-Irã</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/live/stock-market-today-sp-500-and-nasdaq-rise-oil-pares-gains-on-report-of-us-iran-breakthrough-231358550.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/live/stock-market-today-sp-500-and-nasdaq-rise-oil-pares-gains-on-report-of-us-iran-breakthrough-231358550.html</guid>
-      <pubDate>28/05/2026 11:40</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Km5K6hVP9FFp285G.T2F2w--~B/aD0zMjc5O3c9NDkxODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/61fc40f9-0def-45b1-87c2-96534a8cb72b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
