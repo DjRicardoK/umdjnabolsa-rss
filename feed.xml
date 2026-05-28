@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 03:47:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:52:35 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os ETFs estão mais quentes que as ações. Nem mesmo a SpaceX mudará isso.</title>
+      <description></description>
+      <link>https://www.barrons.com/articles/etfs-stocks-ipos-spacex-openai-362795b8?siteid=yhoof2&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.barrons.com/articles/etfs-stocks-ipos-spacex-openai-362795b8?siteid=yhoof2&yptr=yahoo</guid>
+      <pubDate>28/05/2026 03:52</pubDate>
+      <enclosure url="https://media.zenfs.com/en/Barrons.com/c5b7cd4a7748b016e8846cdd48231f1e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Nvidia tem um aviso de US$ 200 bilhões para investidores em ações da AMD e Intel</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-experts-airline-profits-stocks-172914441.html</guid>
       <pubDate>28/05/2026 02:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/investopedia_245/8ce3c8f9214172a4d5beb1161e2f005b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Investidores estrangeiros compram ações japonesas pela oitava semana após recuperação da IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/foreign-investors-buy-japanese-stocks-for-eighth-week-on-ai-rally-4713601</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/foreign-investors-buy-japanese-stocks-for-eighth-week-on-ai-rally-4713601</guid>
-      <pubDate>28/05/2026 02:02</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R07P_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
