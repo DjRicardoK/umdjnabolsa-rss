@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 15:10:32 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 15:14:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Vendas de casas novas nos EUA caem em abril em meio a taxas e preços de hipotecas mais altos</title>
+      <description></description>
+      <link>https://www.investing.com/news/economic-indicators/us-new-home-sales-slump-in-april-amid-higher-mortgage-rates-prices-4714876</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/us-new-home-sales-slump-in-april-amid-higher-mortgage-rates-prices-4714876</guid>
+      <pubDate>28/05/2026 15:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R160_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que um importante analista de Wall Street acha que as ações da Micron podem subir mais 85%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/first-solar-nextpower-enphase-solar-power-energy-demand-renewables/?src=A00220&yptr=yahoo</guid>
       <pubDate>28/05/2026 13:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/3143a2835d828012e600b809ce1de434" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Musalem, do Fed, diz que aumento das taxas pode ser necessário se a inflação não diminuir</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/feds-musalem-says-rate-hike-may-be-needed-if-inflation-doesnt-ease-4715084</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-musalem-says-rate-hike-may-be-needed-if-inflation-doesnt-ease-4715084</guid>
-      <pubDate>28/05/2026 13:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R171_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
