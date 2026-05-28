@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 13:10:45 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 13:10:53 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Volumes de fusões do Goldman Sachs devem atingir recorde de 2021</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/goldman-sachs-merger-volumes-set-to-match-2021-record-93CH-4715042</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/goldman-sachs-merger-volumes-set-to-match-2021-record-93CH-4715042</guid>
+      <pubDate>28/05/2026 13:10</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Rand sul-africano se fortalece à medida que o banco central aumenta as taxas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bos-q1-2026-revenue-exceeds-expectations-93CH-4714912</guid>
       <pubDate>28/05/2026 11:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Vendas de casas novas nos EUA caem em abril em meio a taxas e preços de hipotecas mais altos</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/us-home-sales-slump-april-143144688.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/us-home-sales-slump-april-143144688.html</guid>
-      <pubDate>28/05/2026 11:47</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/743bd7dd45d6ff081974b82a9f501e4c" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
