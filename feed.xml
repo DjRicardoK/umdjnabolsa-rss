@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 15:08:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 15:09:12 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE A guerra do Irão divide os mercados globais em vencedores e perdedores claros</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/articles/iran-war-splits-global-markets-085739051.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/iran-war-splits-global-markets-085739051.html</guid>
+      <pubDate>28/05/2026 15:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters.com/62c4781cb8ffc6fefdd5c5eb172d2667" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Pode haver um vencedor secreto nas guerras de streaming e isso pode acabar economizando seu dinheiro</title>
       <description>O desenrolar do pacote de TV foi ruim para as empresas de cabo, mas a remontagem de um pacote de serviços de streaming pela Charter está ajudando-a a desenterrar e pode, em última...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investors.com/news/technology/snowflake-stock-snow-snowflake-earnings-q12026/?src=A00220&yptr=yahoo</guid>
       <pubDate>28/05/2026 13:27</pubDate>
       <enclosure url="https://media.zenfs.com/en/ibd.com/0dee8ec9f7c97a7fc65e1d732445d5f4" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE As taxas de hipoteca sobem para 6,53% – o último golpe para os compradores marginalizados da primavera</title>
-      <description>As taxas de hipoteca aumentaram na quinta-feira, mas ainda estão mais baixas do que há um ano</description>
-      <link>https://www.marketwatch.com/story/mortgage-rates-inch-up-to-6-53-the-latest-blow-for-sidelined-spring-buyers-cccc71a9?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/mortgage-rates-inch-up-to-6-53-the-latest-blow-for-sidelined-spring-buyers-cccc71a9?mod=mw_rss_topstories</guid>
-      <pubDate>28/05/2026 13:20</pubDate>
-      <enclosure url="https://images.mktw.net/im-34482017" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
