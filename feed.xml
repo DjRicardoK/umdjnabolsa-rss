@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 04:44:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:45:30 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O aumento surpresa das taxas do Sri Lanka corre o risco de sufocar a recuperação apoiada pelo FMI</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/analysissri-lankas-surprise-rate-hike-risks-choking-off-imfbacked-recovery-4712665</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysissri-lankas-surprise-rate-hike-risks-choking-off-imfbacked-recovery-4712665</guid>
+      <pubDate>28/05/2026 04:45</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q1MK_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As políticas de preços de medicamentos do presidente Trump podem prejudicar os lucros das farmacêuticas. É...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/1-trillion-micron-marvell-lead-181312651.html</guid>
       <pubDate>28/05/2026 03:16</pubDate>
       <enclosure url="https://media.zenfs.com/en/investopedia_245/7ce4ec6a595b6bbb075e7c416dda1d53" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perguntamos a 4 modelos de IA se US$ 10.000 em XRP superam US$ 10.000 em Nvidia até 2030</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/asked-4-ai-models-10-180905203.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/asked-4-ai-models-10-180905203.html</guid>
-      <pubDate>28/05/2026 03:11</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/daaf8d216b5916504a8040bd05ff2aff" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
