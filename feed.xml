@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 12:25:33 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:35:29 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Polônia sobem no fechamento do pregão; WIG30 subiu 0,04%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-004-4715024</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-004-4715024</guid>
+      <pubDate>28/05/2026 12:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/Warsaw_stock_exchange_M_1440049039.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As ações da Ciena podem subir 13% na divulgação de lucros de 4 de junho</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/live/stock-market-today-dow-slips-sp-500-and-nasdaq-waver-following-us-strikes-near-strait-of-hormuz-231358250.html</guid>
       <pubDate>28/05/2026 11:13</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/Km5K6hVP9FFp285G.T2F2w--~B/aD0zMjc5O3c9NDkxODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/61fc40f9-0def-45b1-87c2-96534a8cb72b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Montero Mining inicia perfuração no projeto de ouro Elvira</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/energy/articles/montero-mining-kicks-off-drilling-134300143.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/energy/articles/montero-mining-kicks-off-drilling-134300143.html</guid>
-      <pubDate>28/05/2026 10:59</pubDate>
-      <enclosure url="https://media.zenfs.com/en/proactive_us_504/9b7df55aebe7479816a2b724e98acb7b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
