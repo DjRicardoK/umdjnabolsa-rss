@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 05:58:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 06:03:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Pare de olhar para os ganhos: a verdadeira ameaça às ações de IA é o colapso dos preços da computação</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/stop-looking-earnings-real-threat-211648781.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/stop-looking-earnings-real-threat-211648781.html</guid>
+      <pubDate>28/05/2026 06:03</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/86e42503cb1997798849ac8549ff0a7f" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações caíram de níveis recordes com o aumento das tensões no Golfo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/currencies/articles/dollar-weakens-us-iran-peace-193622782.html</guid>
       <pubDate>28/05/2026 04:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/23377ff3d8976e5204c5ede618c2a9da" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A tristeza das ações da Microsoft persiste apesar da queda nos lucros; A Microsoft está à venda agora?</title>
-      <description></description>
-      <link>https://www.investors.com/research/microsoft-msft-stock-earnings/?src=A00220&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.investors.com/research/microsoft-msft-stock-earnings/?src=A00220&yptr=yahoo</guid>
-      <pubDate>28/05/2026 04:36</pubDate>
-      <enclosure url="https://media.zenfs.com/en/ibd.com/992da7f48838919e26d0322eb115a71a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
