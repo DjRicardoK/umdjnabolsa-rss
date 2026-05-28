@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 03:52:35 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:04:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O momento do aumento das taxas do BOJ é secundário à prontidão da economia, diz o ex-vice-governador do BOJ,...</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/boj-rate-hike-timing-secondary-to-economys-readiness-exboj-deputy-governor-wakatabe-says-4713665</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/boj-rate-hike-timing-secondary-to-economys-readiness-exboj-deputy-governor-wakatabe-says-4713665</guid>
+      <pubDate>28/05/2026 04:04</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R0C2_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os ETFs estão mais quentes que as ações. Nem mesmo a SpaceX mudará isso.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/fully-self-driving-technology-positions-173429829.html</guid>
       <pubDate>28/05/2026 02:38</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/0a2157d82990cecdb14c8f8791e86f54" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Por que alguns especialistas dizem que os lucros – e as ações – das companhias aéreas estão prestes a decolar</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/why-experts-airline-profits-stocks-172914441.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-experts-airline-profits-stocks-172914441.html</guid>
-      <pubDate>28/05/2026 02:27</pubDate>
-      <enclosure url="https://media.zenfs.com/en/investopedia_245/8ce3c8f9214172a4d5beb1161e2f005b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
