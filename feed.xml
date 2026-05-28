@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 16:22:05 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 16:28:46 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nvidia e Palantir têm um alerta de US$ 120 bilhões para Wall Street que os investidores simplesmente não...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-palantir-120-billion-warning-092600786.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-palantir-120-billion-warning-092600786.html</guid>
+      <pubDate>28/05/2026 16:28</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/2fcf41f05e13c85ded5e2ad71b96ab4a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os investidores do mercado de ações receberam um aviso final do presidente do Fed, Jerome Powell. A história...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-musalem-says-he-wanted-to-remove-easing-bias-4715150</guid>
       <pubDate>28/05/2026 14:30</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R1EU_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: CTS Eventim Q1 2026 vê crescimento robusto e expansão...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-cts-eventim-q1-2026-sees-robust-growth-and-strategic-expansion-93CH-4715151</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-cts-eventim-q1-2026-sees-robust-growth-and-strategic-expansion-93CH-4715151</guid>
-      <pubDate>28/05/2026 14:30</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
