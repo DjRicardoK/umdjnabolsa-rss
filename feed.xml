@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 05:09:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 05:23:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Elekta Q4 2026 vê resultados mistos, ações caem 14%</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-elekta-q4-2026-sees-mixed-results-stock-drops-14-93CH-4713723</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-elekta-q4-2026-sees-mixed-results-stock-drops-14-93CH-4713723</guid>
+      <pubDate>28/05/2026 05:23</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O bilionário Stanley Druckenmiller acaba de vender duas ações importantes de IA. Em vez disso, ele comprou a...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-200-billion-warning-amd-184300555.html</guid>
       <pubDate>28/05/2026 03:46</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/568bf7485853e55ff67de20458c557ce" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE CEO da Boeing diz que 200 jatos na China negociam uma ‘parcela inicial’ com mais por vir</title>
-      <description></description>
-      <link>https://www.investing.com/news/world-news/boeing-ceo-says-200jet-china-deal-an-initial-tranche-with-more-to-come-4713654</link>
-      <guid isPermaLink="false">https://www.investing.com/news/world-news/boeing-ceo-says-200jet-china-deal-an-initial-tranche-with-more-to-come-4713654</guid>
-      <pubDate>28/05/2026 03:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R0B3_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
