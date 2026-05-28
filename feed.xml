@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 08:20:49 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:25:50 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE (JPM) – Entre as 10 melhores ações Blue Chip para comprar para sua carteira de aposentadoria</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-among-233015328.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-among-233015328.html</guid>
+      <pubDate>28/05/2026 08:25</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/44f165e28c33f56ef0f1d3520099dc7e" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Lockheed Martin (LMT) é uma das melhores ações da Blue Chip para comprar para sua carteira de aposentadoria?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-dip-as-fresh-usiran-attacks-boost-oil-dollar-4713551</guid>
       <pubDate>28/05/2026 07:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC4I0Z1_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Aletheia Capital reitera compra de ações da Circle Internet em acordo de distribuição</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/aletheia-capital-reiterates-circle-internet-stock-buy-on-distribution-deal-93CH-4713820</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/aletheia-capital-reiterates-circle-internet-stock-buy-on-distribution-deal-93CH-4713820</guid>
-      <pubDate>28/05/2026 06:57</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
