@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 12:35:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:35:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Freedom Broker rebaixa a classificação das ações da Dollar Tree para mantê-la e aumenta o preço-alvo</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-dollar-tree-stock-rating-to-hold-raises-price-target-93CH-4715023</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/freedom-broker-downgrades-dollar-tree-stock-rating-to-hold-raises-price-target-93CH-4715023</guid>
+      <pubDate>28/05/2026 12:35</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Ações da Polônia sobem no fechamento do pregão; WIG30 subiu 0,04%</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/ncino-ncno-q1-2027-earnings-140605166.html</guid>
       <pubDate>28/05/2026 11:13</pubDate>
       <enclosure url="https://media.zenfs.com/en/motleyfool.com/a726d4819c9ce56f8dbd126ba4eb20c8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow cai, S&amp;P 500 e Nasdaq oscilam após ataques dos EUA perto do Estreito de Ormuz</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/live/stock-market-today-dow-slips-sp-500-and-nasdaq-waver-following-us-strikes-near-strait-of-hormuz-231358250.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/live/stock-market-today-dow-slips-sp-500-and-nasdaq-waver-following-us-strikes-near-strait-of-hormuz-231358250.html</guid>
-      <pubDate>28/05/2026 11:13</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Km5K6hVP9FFp285G.T2F2w--~B/aD0zMjc5O3c9NDkxODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/61fc40f9-0def-45b1-87c2-96534a8cb72b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
