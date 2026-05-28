@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 14:04:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 14:11:52 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Regulador federal interrompe revisão da Union Pacific, fusão de US$ 85 bilhões da Norfolk Southern</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/federal-regulator-pauses-union-pacific-norfolk-southern-merger-review-4714809</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/federal-regulator-pauses-union-pacific-norfolk-southern-merger-review-4714809</guid>
+      <pubDate>28/05/2026 14:11</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R13Q_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Preços do petróleo caem após progresso em direção a um acordo EUA-Irã</title>
       <description>Os preços globais do petróleo caíram na quinta-feira, após notícias de progresso em direção a um acordo que estenderia o cessar-fogo EUA-Irã.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/heres-how-to-find-out-if-youre-one-of-millions-of-americans-who-can-claim-this-irs-refund-88c6a162?mod=mw_rss_topstories</guid>
       <pubDate>28/05/2026 12:46</pubDate>
       <enclosure url="https://images.mktw.net/im-34982556" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Amazon.com x eBay: qual ação do consumidor é uma compra melhor em 2026?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/amazon-com-vs-ebay-consumer-153509723.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/amazon-com-vs-ebay-consumer-153509723.html</guid>
-      <pubDate>28/05/2026 12:45</pubDate>
-      <enclosure url="https://media.zenfs.com/en/motleyfool.com/1f55f23ad7a84dbaa0444b472a5a2b48" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
