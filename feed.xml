@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 04:50:06 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:51:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Queda de mercado: as três melhores ações com dividendos para comprar agora</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/market-crash-3-best-dividend-195000504.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/market-crash-3-best-dividend-195000504.html</guid>
+      <pubDate>28/05/2026 04:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/242c396d9b81fde6a95a40ac346ad909" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE FTSE 100 hoje: Ações caem enquanto bolsa de greve EUA-Irã destrói esperanças de cessar-fogo</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bernstein-names-top-japan-consumer-stocks-with-upside-potential-93CH-4713644</guid>
       <pubDate>28/05/2026 03:25</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE 2 estoques de alumínio preparados para grandes ganhos relacionados às tarifas</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/2-aluminum-stocks-poised-big-182000412.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/2-aluminum-stocks-poised-big-182000412.html</guid>
-      <pubDate>28/05/2026 03:20</pubDate>
-      <enclosure url="https://media.zenfs.com/en/marketbeat_955/fdf1ce2f9b445abd3dc5cdc693f34c96" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
