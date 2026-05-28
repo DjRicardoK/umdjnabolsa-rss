@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 01:13:15 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 01:20:24 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Arm surge enquanto Vera da Nvidia impulsiona a demanda de CPU</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/arm-surges-nvidias-vera-drives-163315422.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/arm-surges-nvidias-vera-drives-163315422.html</guid>
+      <pubDate>28/05/2026 01:20</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b3c3513950ae550c77ed9af92c4858ac" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE As ações da Snowflake sobem quase 40% à medida que a aceleração da IA ​​impulsiona o crescimento recorde da...</title>
       <description>As ações da Snowflake disparam em direção a um ganho recorde após uma queda nos lucros, uma perspectiva elevada e um compromisso de US$ 6 bilhões para expandir sua colaboração com...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/earnings/all-eyes-on-li-auto-earnings-amid-first-quarterly-loss-forecast-93CH-4712516</guid>
       <pubDate>27/05/2026 10:47</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Lucros da American Superconductor em ação: demanda de rede em foco</title>
-      <description></description>
-      <link>https://www.investing.com/news/earnings/american-superconductor-earnings-on-deck-grid-demand-in-focus-93CH-4712472</link>
-      <guid isPermaLink="false">https://www.investing.com/news/earnings/american-superconductor-earnings-on-deck-grid-demand-in-focus-93CH-4712472</guid>
-      <pubDate>27/05/2026 10:46</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
