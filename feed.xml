@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 03:20:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:25:26 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Bernstein nomeia as principais ações de consumo do Japão com potencial de alta</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/bernstein-names-top-japan-consumer-stocks-with-upside-potential-93CH-4713644</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bernstein-names-top-japan-consumer-stocks-with-upside-potential-93CH-4713644</guid>
+      <pubDate>28/05/2026 03:25</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 estoques de alumínio preparados para grandes ganhos relacionados às tarifas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/champion-homes-inc-q4-2026-164803401.html</guid>
       <pubDate>28/05/2026 01:32</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/eeca71a61e7de7857b7a79b66b3ede59" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As ações do dia de trabalho aparecem nos resultados de ganhos. Uma reviravolta tão esperada pode finalmente...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/workday-stock-pops-earnings-results-163802681.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/workday-stock-pops-earnings-results-163802681.html</guid>
-      <pubDate>28/05/2026 01:28</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/04c571f09d4734b057e8abd1b79743b4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
