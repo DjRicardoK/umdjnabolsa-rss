@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 02:53:05 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:05:41 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mark Cuban afirma que gigantescos conglomerados de saúde estão abusando de seu poder: ‘Há uma razão para...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-says-giant-healthcare-180104508.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/healthcare/articles/mark-cuban-says-giant-healthcare-180104508.html</guid>
+      <pubDate>28/05/2026 03:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/91804242f95e1e1074a11b679e4ddc20" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Melhor ação de crescimento para comprar agora: Amazon x MercadoLibre</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/cancer-treatment-already-costs-hundreds-of-thousands-of-dollars-and-its-about-to-get-even-worse-5f0ac8a3?mod=mw_rss_topstories</guid>
       <pubDate>28/05/2026 01:13</pubDate>
       <enclosure url="https://images.mktw.net/im-16501788" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O número de milionários 401(k) acabou de cair – mas os trabalhadores atingiram taxas de poupança recordes. O...</title>
-      <description>Os dados do primeiro trimestre da Fidelity mostram que os saldos 401(k) estão caindo – mas nem tudo são más notícias.</description>
-      <link>https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories</guid>
-      <pubDate>28/05/2026 01:12</pubDate>
-      <enclosure url="https://images.mktw.net/im-91640106" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
