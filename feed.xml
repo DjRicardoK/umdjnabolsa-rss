@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 08:33:04 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:34:17 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Elon Musk rebate os críticos dos danos à marca Tesla e reafirma o domínio das vendas do modelo Y</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/elon-musk-hits-back-tesla-233110193.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/elon-musk-hits-back-tesla-233110193.html</guid>
+      <pubDate>28/05/2026 08:34</pubDate>
+      <enclosure url="https://media.zenfs.com/en/benzinga_79/6c7af688d8a5f26b12ff1f7b24319650" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 3 ações de dividendos com rendimento acima de 5% para aumentar agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/exclusivechina-works-on-ai-token-futures-market-sources-say-in-race-with-us-4713790</guid>
       <pubDate>28/05/2026 07:03</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R0HY_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Mais de 191% de ganhos acumulados  - Uma nova lista de ações globais escolhidas pela IA será lançada EM BREVE</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/191-gains-in-the-bag--a-new-list-of-aipicked-stocks-will-be-out-soon-4713848</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/191-gains-in-the-bag--a-new-list-of-aipicked-stocks-will-be-out-soon-4713848</guid>
-      <pubDate>28/05/2026 07:03</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB9606Q_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
