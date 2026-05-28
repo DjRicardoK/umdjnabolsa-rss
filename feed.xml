@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 15:45:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 15:51:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Governo do Brasil e Distrito Federal concordam com acordo de empréstimo do BRB</title>
+      <description></description>
+      <link>https://www.investing.com/news/economy-news/brazils-government-federal-district-agree-on-brb-loan-deal-4715246</link>
+      <guid isPermaLink="false">https://www.investing.com/news/economy-news/brazils-government-federal-district-agree-on-brb-loan-deal-4715246</guid>
+      <pubDate>28/05/2026 15:51</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R1IZ_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Brasil cria menos empregos formais do que o esperado em abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/federal-regulator-pauses-union-pacific-norfolk-southern-merger-review-4714809</guid>
       <pubDate>28/05/2026 14:11</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R13Q_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Preços do petróleo caem após progresso em direção a um acordo EUA-Irã</title>
-      <description>Os preços globais do petróleo caíram na quinta-feira, após notícias de progresso em direção a um acordo que estenderia o cessar-fogo EUA-Irã.</description>
-      <link>https://www.marketwatch.com/story/oil-prices-rise-after-fresh-round-of-strikes-between-u-s-and-iran-pushing-peace-deal-into-doubt-4d20336b?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/oil-prices-rise-after-fresh-round-of-strikes-between-u-s-and-iran-pushing-peace-deal-into-doubt-4d20336b?mod=mw_rss_topstories</guid>
-      <pubDate>28/05/2026 14:04</pubDate>
-      <enclosure url="https://images.mktw.net/im-45827431" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
