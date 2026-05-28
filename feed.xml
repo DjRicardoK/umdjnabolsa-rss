@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 14:58:29 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 15:08:33 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Pode haver um vencedor secreto nas guerras de streaming e isso pode acabar economizando seu dinheiro</title>
+      <description>O desenrolar do pacote de TV foi ruim para as empresas de cabo, mas a remontagem de um pacote de serviços de streaming pela Charter está ajudando-a a desenterrar e pode, em última...</description>
+      <link>https://www.marketwatch.com/story/there-may-be-a-secret-winner-of-the-streaming-wars-and-it-could-end-up-saving-you-money-3a591765?mod=mw_rss_topstories</link>
+      <guid isPermaLink="false">https://www.marketwatch.com/story/there-may-be-a-secret-winner-of-the-streaming-wars-and-it-could-end-up-saving-you-money-3a591765?mod=mw_rss_topstories</guid>
+      <pubDate>28/05/2026 15:08</pubDate>
+      <enclosure url="https://images.mktw.net/im-51795097" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Medida de inflação preferida do Fed atinge nível mais alto desde 2023</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/mortgage-rates-inch-up-to-6-53-the-latest-blow-for-sidelined-spring-buyers-cccc71a9?mod=mw_rss_topstories</guid>
       <pubDate>28/05/2026 13:20</pubDate>
       <enclosure url="https://images.mktw.net/im-34482017" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Microsoft lançará novo modelo de codificação na próxima semana, informa o Information</title>
-      <description></description>
-      <link>https://finance.yahoo.com/sectors/technology/articles/microsoft-release-coding-model-next-160503669.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/microsoft-release-coding-model-next-160503669.html</guid>
-      <pubDate>28/05/2026 13:16</pubDate>
-      <enclosure url="https://media.zenfs.com/en/reuters.com/19ed179197b5c955ee51b83e4ba248ca" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
