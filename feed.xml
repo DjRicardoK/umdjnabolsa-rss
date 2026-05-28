@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 09:04:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:04:58 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Veja por que o Planet Labs PBC (PL) está entre os melhores estoques espaciais para comprar, de acordo com o...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-planet-labs-pbc-pl-115112748.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-planet-labs-pbc-pl-115112748.html</guid>
+      <pubDate>28/05/2026 09:04</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/e8352155837d94a940495a5f84579662" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Marvell no primeiro trimestre de 2027 supera a demanda de data center de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/citizens-reiterates-roku-stock-rating-on-new-home-screen-rollout-93CH-4713989</guid>
       <pubDate>28/05/2026 07:43</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE A inflação desafia o papel tradicional dos títulos do Tesouro dos EUA nas carteiras</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/inflation-challenges-us-treasuries-traditional-role-in-portfolios-4713874</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/inflation-challenges-us-treasuries-traditional-role-in-portfolios-4713874</guid>
-      <pubDate>28/05/2026 07:42</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R0LB_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
