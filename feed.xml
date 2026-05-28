@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 03:46:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:47:02 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Nvidia tem um aviso de US$ 200 bilhões para investidores em ações da AMD e Intel</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-200-billion-warning-amd-184300555.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-200-billion-warning-amd-184300555.html</guid>
+      <pubDate>28/05/2026 03:46</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/568bf7485853e55ff67de20458c557ce" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE CEO da Boeing diz que 200 jatos na China negociam uma ‘parcela inicial’ com mais por vir</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/foreign-investors-buy-japanese-stocks-for-eighth-week-on-ai-rally-4713601</guid>
       <pubDate>28/05/2026 02:02</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R07P_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O bilionário Dan Loeb sacou as ações da Microsoft. As ações caíram 14,2% no acumulado do ano.</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-cashed-microsoft-170649843.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-cashed-microsoft-170649843.html</guid>
-      <pubDate>28/05/2026 01:52</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/70f0cef0c027d2d0ac959916cfe49457" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
