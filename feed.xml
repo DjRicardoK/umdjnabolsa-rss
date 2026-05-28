@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 09:30:09 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:32:27 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Stifel reitera classificação das ações da Braze citando crescimento da demanda por IA</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-braze-stock-rating-citing-ai-demand-growth-93CH-4714314</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-braze-stock-rating-citing-ai-demand-growth-93CH-4714314</guid>
+      <pubDate>28/05/2026 09:32</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Lucro da Burlington Stores superou US$ 0,27, receita superou estimativas</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-one-best-232659406.html</guid>
       <pubDate>28/05/2026 08:20</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/6cc2a551664dc5866cbd0d44fcd12db8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Goldman Sachs faz alerta severo sobre concentração de mercado</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gives-harsh-warning-230700393.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gives-harsh-warning-230700393.html</guid>
-      <pubDate>28/05/2026 08:14</pubDate>
-      <enclosure url="https://media.zenfs.com/en/thestreet_881/853ddc134ac85da8999de18e49ce4d29" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
