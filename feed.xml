@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 03:39:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:41:56 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Ações da Austrália caem no fechamento do pregão; S&amp;P/ASX 200 caiu 1,43%</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-143-4713647</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-143-4713647</guid>
+      <pubDate>28/05/2026 03:41</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXMPEDB20MF_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE A Apple acaba de atingir um recorde com seus motores de IA inativos. Imagine o que acontece quando isso...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/toyota-sales-drop-for-third-month-on-declines-in-china-middle-east-4713599</guid>
       <pubDate>28/05/2026 01:46</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R07D_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE É improvável que a indústria automobilística da China retorne à ‘era de ouro’, diz o CEO da NIO</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/chinas-auto-industry-is-unlikely-to-return-to-golden-era-nio-ceo-says-4713583</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/chinas-auto-industry-is-unlikely-to-return-to-golden-era-nio-ceo-says-4713583</guid>
-      <pubDate>28/05/2026 01:35</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R053_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
