@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 16:39:59 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 16:43:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Os analistas de Wall Street estão otimistas com as ações da EPAM Systems?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-epam-094658500.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-epam-094658500.html</guid>
+      <pubDate>28/05/2026 16:43</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/685b87e6dbeeba23aabd3be458315d97" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE O novo projeto de lei bipartidário sobre esportes universitários é uma má notícia para os atletas mais ricos...</title>
       <description>O projeto de lei Protect College Sports Act poderia “prejudicar materialmente o potencial de ganhos dos melhores atletas universitários”, disse um advogado esportivo.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/policy/articles/us-treasury-rolls-trump-accounts-123555283.html</guid>
       <pubDate>28/05/2026 14:52</pubDate>
       <enclosure url="https://media.zenfs.com/en/reuters.com/4287644f57dd8eff874d16074d3ae3d7" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Ações da CNA Financial Corp atingem baixa de 52 semanas em 42,46 USD</title>
-      <description></description>
-      <link>https://www.investing.com/news/company-news/cna-financial-corp-stock-hits-52week-low-at-4246-usd-93CH-4715172</link>
-      <guid isPermaLink="false">https://www.investing.com/news/company-news/cna-financial-corp-stock-hits-52week-low-at-4246-usd-93CH-4715172</guid>
-      <pubDate>28/05/2026 14:47</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
