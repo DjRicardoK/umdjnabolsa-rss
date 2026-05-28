@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 15:51:54 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 15:53:36 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Goldman Sachs aumenta sua meta para o S&amp;P 500 e rejeita comparações com a era da bolha</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-hikes-p-500-084300964.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-hikes-p-500-084300964.html</guid>
+      <pubDate>28/05/2026 15:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/marketwatch_hosted_869/a368823904d5bf72a2b1259ae381f0b1" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Governo do Brasil e Distrito Federal concordam com acordo de empréstimo do BRB</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/rex-american-resources-corporation-q1-165239807.html</guid>
       <pubDate>28/05/2026 14:14</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/5bd3a44c4c7e6ba847c1661d82c39051" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Regulador federal interrompe revisão da Union Pacific, fusão de US$ 85 bilhões da Norfolk Southern</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/federal-regulator-pauses-union-pacific-norfolk-southern-merger-review-4714809</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/federal-regulator-pauses-union-pacific-norfolk-southern-merger-review-4714809</guid>
-      <pubDate>28/05/2026 14:11</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R13Q_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
