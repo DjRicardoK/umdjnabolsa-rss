@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 10:43:17 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:50:31 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Mercado de ações hoje: Dow, S&amp;P 500 e Nasdaq caem após ataques dos EUA perto do Estreito de Ormuz</title>
+      <description></description>
+      <link>https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-and-nasdaq-drift-lower-following-us-strikes-near-strait-of-hormuz-231358557.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-and-nasdaq-drift-lower-following-us-strikes-near-strait-of-hormuz-231358557.html</guid>
+      <pubDate>28/05/2026 10:50</pubDate>
+      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Km5K6hVP9FFp285G.T2F2w--~B/aD0zMjc5O3c9NDkxODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/61fc40f9-0def-45b1-87c2-96534a8cb72b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Os investidores estão correndo para comprar ETFs TIPS para vencer a inflação. Eles podem acabar perdendo.</title>
       <description>Os fundos protegidos contra a inflação nem sempre protegem contra a inflação. À medida que a inflação dos preços no consumidor atinge o máximo dos últimos três anos devido à...</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/inflation-escalates-to-3-year-high-and-it-might-get-worse-before-it-gets-better-8d194aa6?mod=mw_rss_topstories</guid>
       <pubDate>28/05/2026 09:37</pubDate>
       <enclosure url="https://images.mktw.net/im-15379967" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Stifel reitera classificação das ações da Braze citando crescimento da demanda por IA</title>
-      <description></description>
-      <link>https://www.investing.com/news/analyst-ratings/stifel-reiterates-braze-stock-rating-citing-ai-demand-growth-93CH-4714314</link>
-      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/stifel-reiterates-braze-stock-rating-citing-ai-demand-growth-93CH-4714314</guid>
-      <pubDate>28/05/2026 09:32</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
