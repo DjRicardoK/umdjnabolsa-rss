@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 06:57:42 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 07:02:48 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Os preços do ouro caem à medida que as hostilidades entre EUA e Irã mantêm a inflação e os temores de aumento...</title>
+      <description></description>
+      <link>https://www.investing.com/news/commodities-news/gold-prices-dip-as-fresh-usiran-attacks-boost-oil-dollar-4713551</link>
+      <guid isPermaLink="false">https://www.investing.com/news/commodities-news/gold-prices-dip-as-fresh-usiran-attacks-boost-oil-dollar-4713551</guid>
+      <pubDate>28/05/2026 07:02</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC4I0Z1_M.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Aletheia Capital reitera compra de ações da Circle Internet em acordo de distribuição</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/ecbs-lagarde-warns-fed-independence-remains-under-threat-93CH-4713685</guid>
       <pubDate>28/05/2026 04:45</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/STOCK-EXCHANGE-RUSSIAN-TRADING-SYSTEMS_M_1440048891.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE O aumento surpresa das taxas do Sri Lanka corre o risco de sufocar a recuperação apoiada pelo FMI</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/analysissri-lankas-surprise-rate-hike-risks-choking-off-imfbacked-recovery-4712665</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/analysissri-lankas-surprise-rate-hike-risks-choking-off-imfbacked-recovery-4712665</guid>
-      <pubDate>28/05/2026 04:45</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4Q1MK_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
