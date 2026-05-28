@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 09:07:20 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:09:38 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Por que Wall Street vê a Freeport-McMoRan (FCX) se beneficiando do boom da eletrificação</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/why-wall-street-sees-freeport-115336223.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/why-wall-street-sees-freeport-115336223.html</guid>
+      <pubDate>28/05/2026 09:09</pubDate>
+      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/88363f1c3f04af8087a5b5485c0bd808" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE As famílias multimilionárias estão a reduzir a sua exposição aos EUA, onde pretendem investir.</title>
       <description>Mais de um quarto dos family offices do UBS pesquisados ​​para um relatório anual disseram que minimizaram ou planejam reduzir suas participações em ativos em dólares.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-stock-outlook-wall-230021748.html</guid>
       <pubDate>28/05/2026 07:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/20579c48fa795d9839fe341b6bf94a50" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os sistemas de telefonia e dados (TDS) são uma das melhores ações com dividendos de junho para comprar?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/telephone-data-systems-tds-one-225654497.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/telephone-data-systems-tds-one-225654497.html</guid>
-      <pubDate>28/05/2026 07:55</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/30173640c9b0cffb6b7013930030fa3e" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
