@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 02:49:10 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 02:53:05 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Melhor ação de crescimento para comprar agora: Amazon x MercadoLibre</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/best-growth-stock-buy-now-175900817.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/best-growth-stock-buy-now-175900817.html</guid>
+      <pubDate>28/05/2026 02:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/97287c8650a093b4714542f987ff8512" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Caros fãs das ações da Nvidia, marquem em seus calendários para 2 de junho</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/the-number-of-401-k-millionaires-just-fell-but-workers-hit-record-savings-rates-whats-going-on-8fab657b?mod=mw_rss_topstories</guid>
       <pubDate>28/05/2026 01:12</pubDate>
       <enclosure url="https://images.mktw.net/im-91640106" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Começa a recessão dos aposentados: relatório surpreendente revela que 7% dos aposentados retornam ao trabalho...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/articles/retiree-recession-begins-surprising-report-160741115.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/articles/retiree-recession-begins-surprising-report-160741115.html</guid>
-      <pubDate>28/05/2026 01:12</pubDate>
-      <enclosure url="https://media.zenfs.com/en/24_7_wall_st__718/4edde351a0c06861a3aebb543ffb8c27" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
