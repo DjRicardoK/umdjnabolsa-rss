@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 04:51:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:51:55 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Wall Street está apenas começando a reconhecer o potencial positivo da IA ​​agente dos microdispositivos...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-only-just-beginning-195335981.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-only-just-beginning-195335981.html</guid>
+      <pubDate>28/05/2026 04:51</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/8c9fe72d2bcfa918279e7f77cd4abbe9" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Queda de mercado: as três melhores ações com dividendos para comprar agora</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.barrons.com/articles/apple-stock-price-record-high-ai-00f8e74d?siteid=yhoof2&yptr=yahoo</guid>
       <pubDate>28/05/2026 03:39</pubDate>
       <enclosure url="https://media.zenfs.com/en/Barrons.com/9fa6f478a030ff65355167317773c38c" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bernstein nomeia as principais ações de consumo do Japão com potencial de alta</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/bernstein-names-top-japan-consumer-stocks-with-upside-potential-93CH-4713644</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/bernstein-names-top-japan-consumer-stocks-with-upside-potential-93CH-4713644</guid>
-      <pubDate>28/05/2026 03:25</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
