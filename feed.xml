@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 12:05:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:17:28 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Groq visa arrecadação de fundos de US$ 650 milhões após acordo de licenciamento da Nvidia, relata Axios</title>
+      <description></description>
+      <link>https://finance.yahoo.com/sectors/technology/articles/groq-targets-650-million-fundraise-150216663.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/sectors/technology/articles/groq-targets-650-million-fundraise-150216663.html</guid>
+      <pubDate>28/05/2026 12:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/reuters-finance.com/4e0f8d0d7b0dde0ef8ab4ce1726cb7b0" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE 2 ações de EV que poderiam ganhar muito visando o mercado global de Robotaxi de US$ 10 trilhões</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/investors-are-rushing-to-buy-tips-etfs-to-beat-inflation-they-could-end-up-losing-7618d6e0?mod=mw_rss_topstories</guid>
       <pubDate>28/05/2026 10:43</pubDate>
       <enclosure url="https://images.mktw.net/im-02249344" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Mercado de ações hoje: Dow cai, S&amp;P 500 e Nasdaq oscilam após ataques dos EUA perto do Estreito de Ormuz</title>
-      <description></description>
-      <link>https://finance.yahoo.com/economy/live/stock-market-today-dow-drops-sp-500-and-nasdaq-waver-following-us-strikes-near-strait-of-hormuz-231358123.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/economy/live/stock-market-today-dow-drops-sp-500-and-nasdaq-waver-following-us-strikes-near-strait-of-hormuz-231358123.html</guid>
-      <pubDate>28/05/2026 10:43</pubDate>
-      <enclosure url="https://s.yimg.com/uu/api/res/1.2/Km5K6hVP9FFp285G.T2F2w--~B/aD0zMjc5O3c9NDkxODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/61fc40f9-0def-45b1-87c2-96534a8cb72b" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
