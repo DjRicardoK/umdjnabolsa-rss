@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 13:10:53 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 13:15:54 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE S&amp;P 500 e Nasdaq ganham com relatório sobre progresso do acordo de paz no Oriente Médio</title>
+      <description></description>
+      <link>https://www.investing.com/news/stock-market-news/wall-st-futures-dip-on-escalating-mideast-tensions-4713805</link>
+      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/wall-st-futures-dip-on-escalating-mideast-tensions-4713805</guid>
+      <pubDate>28/05/2026 13:15</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R0IW_L.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Volumes de fusões do Goldman Sachs devem atingir recorde de 2021</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-091-4714911</guid>
       <pubDate>28/05/2026 11:51</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEB6N0XK_M.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: a receita do BOS no primeiro trimestre de 2026 supera as...</title>
-      <description></description>
-      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-bos-q1-2026-revenue-exceeds-expectations-93CH-4714912</link>
-      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-bos-q1-2026-revenue-exceeds-expectations-93CH-4714912</guid>
-      <pubDate>28/05/2026 11:51</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
