@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 09:09:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:14:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Rosenblatt reitera classificação de ações da Meta em planos de assinatura</title>
+      <description></description>
+      <link>https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-meta-stock-rating-on-subscription-plans-93CH-4714311</link>
+      <guid isPermaLink="false">https://www.investing.com/news/analyst-ratings/rosenblatt-reiterates-meta-stock-rating-on-subscription-plans-93CH-4714311</guid>
+      <pubDate>28/05/2026 09:14</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Por que Wall Street vê a Freeport-McMoRan (FCX) se beneficiando do boom da eletrificação</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/barclays-raises-grainger-gww-pt-230745019.html</guid>
       <pubDate>28/05/2026 07:57</pubDate>
       <enclosure url="https://media.zenfs.com/en/insidermonkey.com/eda71ae4035889f4b3a364ad17ff93da" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Perspectiva das ações financeiras da Broadridge: Wall Street está em alta ou em baixa?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-stock-outlook-wall-230021748.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-stock-outlook-wall-230021748.html</guid>
-      <pubDate>28/05/2026 07:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/20579c48fa795d9839fe341b6bf94a50" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
