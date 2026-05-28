@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 12:52:50 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:52:57 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: REX American Resources, primeiro trimestre de 2026, registra...</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-rex-american-resources-q1-2026-sees-record-eps-stock-dips-93CH-4715036</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-rex-american-resources-q1-2026-sees-record-eps-stock-dips-93CH-4715036</guid>
+      <pubDate>28/05/2026 12:52</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE RBC Capital reitera classificação de desempenho superior das ações da IBM em segurança de IA</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/economy/live/stock-market-today-sp-500-and-nasdaq-rise-oil-pares-gains-on-report-of-us-iran-breakthrough-231358550.html</guid>
       <pubDate>28/05/2026 11:40</pubDate>
       <enclosure url="https://s.yimg.com/uu/api/res/1.2/Km5K6hVP9FFp285G.T2F2w--~B/aD0zMjc5O3c9NDkxODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/61fc40f9-0def-45b1-87c2-96534a8cb72b" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Proprietário do Houston Rockets está apostando US$ 18 bilhões em Las Vegas ao comprar o Caesars</title>
-      <description>A holding de Tilman Fertitta, dono dos cassinos Houston Rockets e Golden Nugget da NBA, está comprando a Caesars Entertainment em um negócio avaliado em quase US$ 18 bilhões.</description>
-      <link>https://www.marketwatch.com/story/houston-rockets-owner-is-making-an-18-billion-bet-on-las-vegas-by-buying-caesars-f9c9bbef?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/houston-rockets-owner-is-making-an-18-billion-bet-on-las-vegas-by-buying-caesars-f9c9bbef?mod=mw_rss_topstories</guid>
-      <pubDate>28/05/2026 11:34</pubDate>
-      <enclosure url="https://images.mktw.net/im-06838826" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
