@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 05:53:22 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 05:54:00 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE O acordo Trump-Intel roubou as manchetes, mas o presidente também comprou ações da Nvidia no primeiro...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/news/trump-intel-deal-stole-headlines-205724511.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/news/trump-intel-deal-stole-headlines-205724511.html</guid>
+      <pubDate>28/05/2026 05:53</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/828805b72adb05952504a4fefd6c1a8a" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE O “comércio de degradação” está morto? As saídas de ETFs de ouro e bitcoin sugerem que os investidores estão...</title>
       <description>O chamado comércio de desvalorização caiu em desuso como ponto de discussão e como conceito de investimento.</description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/tesla-investor-shares-retail-investors-193125184.html</guid>
       <pubDate>28/05/2026 04:36</pubDate>
       <enclosure url="https://media.zenfs.com/en/benzinga_79/a56b829d95123cbf528c56408a9f8fba" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Bolsas do Japão caem no fechamento do pregão; Nikkei 225 caiu 0,53%</title>
-      <description></description>
-      <link>https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-053-4713666</link>
-      <guid isPermaLink="false">https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-053-4713666</guid>
-      <pubDate>28/05/2026 04:29</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/news/LYNXNPEC0H0BD_M.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
