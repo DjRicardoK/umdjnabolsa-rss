@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 04:12:55 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:21:45 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE A Nvidia recebe todo o crédito, mas essas 4 ações estão capturando silenciosamente o desenvolvimento de IA de...</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/nvidia-gets-credit-4-stocks-192000624.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/nvidia-gets-credit-4-stocks-192000624.html</guid>
+      <pubDate>28/05/2026 04:21</pubDate>
+      <enclosure url="https://media.zenfs.com/en/motleyfool.com/c2f8ab80601cbe90bb67ec8cb9c40740" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Esqueça o IPO da SpaceX. Estas 2 novas ações se destacam agora.</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/iren-stock-already-58-2026-174135739.html</guid>
       <pubDate>28/05/2026 02:40</pubDate>
       <enclosure url="https://media.zenfs.com/en/barchart_com_477/83e80e5e52a52b8a6e584bb2edd6a950" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE Os preços do gás estão paralisando os estoques discricionários. Não exclua o consumidor.</title>
-      <description></description>
-      <link>https://www.barrons.com/articles/gas-prices-discretionary-stocks-consumer-59387626?siteid=yhoof2&yptr=yahoo</link>
-      <guid isPermaLink="false">https://www.barrons.com/articles/gas-prices-discretionary-stocks-consumer-59387626?siteid=yhoof2&yptr=yahoo</guid>
-      <pubDate>28/05/2026 02:40</pubDate>
-      <enclosure url="https://media.zenfs.com/en/Barrons.com/92fcb7f025f413a9888b5c3500134549" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
