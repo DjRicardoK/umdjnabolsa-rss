@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 07:55:56 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 07:57:40 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Perspectiva das ações financeiras da Broadridge: Wall Street está em alta ou em baixa?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-stock-outlook-wall-230021748.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/broadridge-financial-stock-outlook-wall-230021748.html</guid>
+      <pubDate>28/05/2026 07:57</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/20579c48fa795d9839fe341b6bf94a50" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE Os sistemas de telefonia e dados (TDS) são uma das melhores ações com dividendos de junho para comprar?</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/is-the-debasement-trade-dead-outflows-from-gold-and-bitcoin-etfs-suggest-investors-are-moving-on-911830c5?mod=mw_rss_topstories</guid>
       <pubDate>28/05/2026 05:53</pubDate>
       <enclosure url="https://images.mktw.net/im-81161861" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Custos do aço nos EUA impactados pela guerra e acordos comerciais</title>
-      <description></description>
-      <link>https://finance.yahoo.com/video/us-steel-costs-impacted-war-204140017.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/video/us-steel-costs-impacted-war-204140017.html</guid>
-      <pubDate>28/05/2026 05:43</pubDate>
-      <enclosure url="https://media.zenfs.com/en/bloomberg_markets_video_2/2ecf4a312d47265b49171a92bc75c3e3" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
