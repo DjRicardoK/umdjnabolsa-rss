@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 09:50:38 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 10:06:10 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Inflação do PCE melhor do que temida à medida que o aumento das taxas se aproxima; Perdas de eliminação de...</title>
+      <description></description>
+      <link>https://www.investors.com/news/federal-reserve-pce-inflation-gdp-rate-hike-sp-500/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/news/federal-reserve-pce-inflation-gdp-rate-hike-sp-500/?src=A00220&yptr=yahoo</guid>
+      <pubDate>28/05/2026 10:06</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/9921841ccca9cd2d4d0ea0d78790362b" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Inflação PCE dos EUA mais firme em abril</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/box-inc-q1-2027-earnings-002317240.html</guid>
       <pubDate>28/05/2026 08:44</pubDate>
       <enclosure url="https://media.zenfs.com/en/moby_896/46848b10b2112013a39eaf0fdfe3105f" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE As principais previsões de vendas da Dollar Tree, já que menos pessoas estão comprando - mas estão gastando...</title>
-      <description>As ações da Dollar Tree disparam depois que os lucros superaram as expectativas e a perspectiva de lucro para o ano inteiro aumentou.</description>
-      <link>https://www.marketwatch.com/story/dollar-trees-sales-top-forecasts-as-fewer-people-are-shopping-but-theyre-spending-more-8be5f139?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/dollar-trees-sales-top-forecasts-as-fewer-people-are-shopping-but-theyre-spending-more-8be5f139?mod=mw_rss_topstories</guid>
-      <pubDate>28/05/2026 08:40</pubDate>
-      <enclosure url="https://images.mktw.net/im-84527062" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
