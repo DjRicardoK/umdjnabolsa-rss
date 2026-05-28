@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 07:57:47 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:08:51 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE O valor justo da InvestingPro alertou sobre a queda de 45% do Samsara há 18 meses</title>
+      <description></description>
+      <link>https://www.investing.com/news/investment-ideas/investingpros-fair-value-warned-of-samsaras-45-plunge-18-months-ago-93CH-4714050</link>
+      <guid isPermaLink="false">https://www.investing.com/news/investment-ideas/investingpros-fair-value-warned-of-samsaras-45-plunge-18-months-ago-93CH-4714050</guid>
+      <pubDate>28/05/2026 08:08</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Barclays aumenta Grainger (GWW) PT, mas alerta sobre pressão futura nos lucros</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economy-news/asia-shares-take-a-breather-as-gulf-hostilities-drag-on-4713550</guid>
       <pubDate>28/05/2026 05:58</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R02L_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O acordo Trump-Intel roubou as manchetes, mas o presidente também comprou ações da Nvidia no primeiro...</title>
-      <description></description>
-      <link>https://finance.yahoo.com/news/trump-intel-deal-stole-headlines-205724511.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/news/trump-intel-deal-stole-headlines-205724511.html</guid>
-      <pubDate>28/05/2026 05:53</pubDate>
-      <enclosure url="https://media.zenfs.com/en/barchart_com_477/828805b72adb05952504a4fefd6c1a8a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
