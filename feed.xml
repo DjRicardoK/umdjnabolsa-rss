@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 03:17:02 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:17:09 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Qual é o preço-alvo dos analistas de Wall Street para as ações da Zebra Technologies?</title>
+      <description></description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-185443523.html</link>
+      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-185443523.html</guid>
+      <pubDate>28/05/2026 03:17</pubDate>
+      <enclosure url="https://media.zenfs.com/en/barchart_com_477/b2162196b233be7054e50dc9d91571de" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🟡 IMPORTANTE US$ 1 trilhão de mícrons, Marvell lidera o AI Rally para começar a semana. Aqui está o que Wall Street está...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/economic-indicators/new-zealand-forecasts-narrower-budget-deficit-for-202526-4713568</guid>
       <pubDate>28/05/2026 01:26</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R03P_L.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Jefferson, do Fed, diz que está se concentrando na inflação, já que o mercado de trabalho dos EUA é “muito...</title>
-      <description></description>
-      <link>https://www.investing.com/news/economy-news/feds-jefferson-says-he-is-focusing-on-inflation-as-us-labour-market-very-resilient-4713589</link>
-      <guid isPermaLink="false">https://www.investing.com/news/economy-news/feds-jefferson-says-he-is-focusing-on-inflation-as-us-labour-market-very-resilient-4713589</guid>
-      <pubDate>28/05/2026 01:26</pubDate>
-      <enclosure url="https://i-invdn-com.investing.com/trkd-images/LYNXMPEM4R05H_L.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
