@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 09:14:09 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 09:15:19 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🔴 URGENTE Dow Jones Futures cai, floco de neve aumenta nos lucros; Dados de inflação do Fed devidos</title>
+      <description></description>
+      <link>https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amazon-marvell-snowflake-earnings/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amazon-marvell-snowflake-earnings/?src=A00220&yptr=yahoo</guid>
+      <pubDate>28/05/2026 09:15</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/f4ffff72a4d4028a51acd457b13861ec" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Rosenblatt reitera classificação de ações da Meta em planos de assinatura</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/investment-ideas/investingpros-fair-value-warned-of-samsaras-45-plunge-18-months-ago-93CH-4714050</guid>
       <pubDate>28/05/2026 08:08</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🔴 URGENTE Barclays aumenta Grainger (GWW) PT, mas alerta sobre pressão futura nos lucros</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/barclays-raises-grainger-gww-pt-230745019.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/barclays-raises-grainger-gww-pt-230745019.html</guid>
-      <pubDate>28/05/2026 07:57</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/eda71ae4035889f4b3a364ad17ff93da" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
