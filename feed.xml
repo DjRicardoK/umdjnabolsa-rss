@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 03:05:41 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 03:05:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Esta negociação otimista de opções sobre ações da Apple pode compensar com risco limitado</title>
+      <description></description>
+      <link>https://www.investors.com/research/options/apple-stock-aapl-options-trade-momentum-limit-risk-tech-markets/?src=A00220&yptr=yahoo</link>
+      <guid isPermaLink="false">https://www.investors.com/research/options/apple-stock-aapl-options-trade-momentum-limit-risk-tech-markets/?src=A00220&yptr=yahoo</guid>
+      <pubDate>28/05/2026 03:05</pubDate>
+      <enclosure url="https://media.zenfs.com/en/ibd.com/ec536e5f5e284e091623a459aa169386" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Mark Cuban afirma que gigantescos conglomerados de saúde estão abusando de seu poder: ‘Há uma razão para...</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.marketwatch.com/story/snowflakes-stock-is-on-fire-as-ai-acceleration-drives-record-product-revenue-growth-fdc80a57?mod=mw_rss_topstories</guid>
       <pubDate>28/05/2026 01:13</pubDate>
       <enclosure url="https://images.mktw.net/im-52891768" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE O tratamento do câncer já custa centenas de milhares de dólares – e está prestes a ficar ainda pior</title>
-      <description>Alguém que sobreviveu ao cancro cerebral na década de 1990 explica como o Affordable Care Act poderia ter ajudado.</description>
-      <link>https://www.marketwatch.com/story/cancer-treatment-already-costs-hundreds-of-thousands-of-dollars-and-its-about-to-get-even-worse-5f0ac8a3?mod=mw_rss_topstories</link>
-      <guid isPermaLink="false">https://www.marketwatch.com/story/cancer-treatment-already-costs-hundreds-of-thousands-of-dollars-and-its-about-to-get-even-worse-5f0ac8a3?mod=mw_rss_topstories</guid>
-      <pubDate>28/05/2026 01:13</pubDate>
-      <enclosure url="https://images.mktw.net/im-16501788" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
