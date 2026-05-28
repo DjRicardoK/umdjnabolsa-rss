@@ -5,9 +5,17 @@
     <link>https://DjRicardoK.github.io/umdjnabolsa-rss/</link>
     <description>Feed de noticias do mercado financeiro em tempo real</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 11:24:40 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 11:29:47 -0300</lastBuildDate>
     <atom:link href="https://DjRicardoK.github.io/umdjnabolsa-rss/feed.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title>🟡 IMPORTANTE Transcrição da teleconferência de resultados: Build-A-Bear Q1 2026 vê EPS superado, perda de receita</title>
+      <description></description>
+      <link>https://www.investing.com/news/transcripts/earnings-call-transcript-buildabear-q1-2026-sees-eps-beat-revenue-miss-93CH-4714752</link>
+      <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-buildabear-q1-2026-sees-eps-beat-revenue-miss-93CH-4714752</guid>
+      <pubDate>28/05/2026 11:29</pubDate>
+      <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>🔴 URGENTE Empresas de criptografia sem licenças da UE enfrentam processos, alerta regulador francês</title>
       <description></description>
@@ -159,14 +167,6 @@
       <guid isPermaLink="false">https://www.investing.com/news/transcripts/earnings-call-transcript-xunlei-q1-2026-revenue-soars-stock-climbs-93CH-4714531</guid>
       <pubDate>28/05/2026 10:13</pubDate>
       <enclosure url="https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>🟡 IMPORTANTE A Broadcom (AVGO) é uma das 10 ações seguras para comprar no longo prazo em 2026?</title>
-      <description></description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-one-10-safe-125202198.html</link>
-      <guid isPermaLink="false">https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-one-10-safe-125202198.html</guid>
-      <pubDate>28/05/2026 10:07</pubDate>
-      <enclosure url="https://media.zenfs.com/en/insidermonkey.com/4a31470717140dc0b5330d507cacd0ab" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
